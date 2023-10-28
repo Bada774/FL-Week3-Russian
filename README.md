@@ -8,9 +8,9 @@
 
 ---
 
-<h3 align="center"><b>Cкачать</b></h3>
+<h3 align="center"><b><a href="https://github.com/Bada774/FL-Week3-Russian/releases/download/v3.0.29/scripts.zip">Скачать последний релиз</a></b></h3>
 
-<h4 align="center"><b>Предыдущие версии</b></h4>
+<h4 align="center"><b<a href="https://github.com/Bada774/FL-Week3-Russian/releases/">Все версии</a></b></h4>
 
 ---
 
