@@ -29,7 +29,7 @@
     <li>Играть</li>
 </ol>
 
-![install](https://imgur.com/8HOtqGk.gif)
+[Imgur](https://i.imgur.com/TcCjeXb.gifv)
 
 ---
 
