@@ -29,7 +29,7 @@
     <li>Играть</li>
 </ol>
 
-![Imgur](https://i.imgur.com/TcCjeXb.gifv)
+![Imgur](https://i.imgur.com/TcCjeXb.gif)
 
 ---
 
