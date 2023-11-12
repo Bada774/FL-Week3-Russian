@@ -22,7 +22,7 @@ translate russian e08s01_022a1e3a:
 translate russian e08s01_5d145c03:
 
     # mc "Since there's no roses growing around here, this one I named after you."
-    mc "Здесь розы не растут, так что эту я назвал в твою честь."
+    mc "Розы здесь не растут, так что этот цветок я назвал в твою честь."
 
 # game/code/e08/e08s01.rpy:99
 translate russian e08s01_49a753e9:
@@ -34,7 +34,7 @@ translate russian e08s01_49a753e9:
 translate russian e08s01_a8a5e648:
 
     # mc "This one is called... don't kill me?"
-    mc "Она называется... только не убивай меня?"
+    mc "Он называется... только не убивай меня?"
 
 # game/code/e08/e08s01.rpy:102
 translate russian e08s01_ff25483d:
@@ -46,7 +46,7 @@ translate russian e08s01_ff25483d:
 translate russian e08s01_022a4456:
 
     # mc "No. It's called Lydia."
-    mc "Нет. Она называется \"Лидия\"."
+    mc "Нет. Он называется \"Лидия\"."
 
 # game/code/e08/e08s01.rpy:107
 translate russian e08s01_fcc7bb93:
@@ -70,7 +70,7 @@ translate russian e08s01_e15a70a6:
 translate russian e08s01_56471a62:
 
     # mc "Yeah. I'm not even making that up. In French, it's called a fleur-de-Lydia."
-    mc "Ага. И это даже не я придумал. По-французски это называется \"Флер-де-Лидия\".\n\n{size=-10}(Геральдическая лилия.){/size}"
+    mc "Ага. И это даже не я придумал. По-французски это называется \"Флер-де-Лидия\".\n\n{size=-10}{i}(Цветок лилии){/i}{/size}"
 
 # game/code/e08/e08s01.rpy:115
 translate russian e08s01_9e281d9a:
@@ -82,7 +82,7 @@ translate russian e08s01_9e281d9a:
 translate russian e08s01_248c54d2:
 
     # mc "It's a good thing we don't live in France."
-    mc "Хорошо, что мы живём не во Франции."
+    mc "Хорошо что мы живём не во Франции."
 
 # game/code/e08/e08s01.rpy:119
 translate russian e08s01_7ac94059:
@@ -94,7 +94,7 @@ translate russian e08s01_7ac94059:
 translate russian e08s01_537df6bc:
 
     # mc "Probably not on a farm, I can tell you that much."
-    mc "Что я точно могу сказать, так это то, что она не на ферме."
+    mc "Что я точно могу тебе сказать, так это то, что она не на ферме."
 
 # game/code/e08/e08s01.rpy:122
 translate russian e08s01_af924cef:
@@ -106,7 +106,7 @@ translate russian e08s01_af924cef:
 translate russian e08s01_abd46aeb:
 
     # mc "Of course I don't mind. Compared to the farm, you smell wonderful."
-    mc "Конечно, я не против. По сравнению с фермой ты пахнешь чудесно."
+    mc "Конечно я не против. По сравнению с фермой ты пахнешь чудесно."
 
 # game/code/e08/e08s01.rpy:127
 translate russian e08s01_61bf804b:
@@ -130,7 +130,7 @@ translate russian e08s01_df1a7216:
 translate russian e08s01_49c6ffe2:
 
     # mc "Oh, I know."
-    mc "О, я знаю."
+    mc "Ох, я знаю."
 
 # game/code/e08/e08s01.rpy:134
 translate russian e08s01_88b407f3:
@@ -178,7 +178,7 @@ translate russian e08s01_54dc2f02:
 translate russian e08s01_e7fc7dea:
 
     # mc "Yeah. I guess I never did grow out of my habits. I'm still used to that MegaBucks coffee."
-    mc "Ага. А я, наверное, я так и не избавился от своих привычек. Я привык к кофе из МегаБакс."
+    mc "Ага. А я, наверное, так и не избавился от своих привычек. Я привык к кофе из МегаБакс."
 
 # game/code/e08/e08s01.rpy:151
 translate russian e08s01_784b435e:
@@ -208,7 +208,7 @@ translate russian e08s01_ccc384ee:
 translate russian e08s01_d6f346ee:
 
     # mc "The only issue I have with it is that left in the barn, it could lead to an explosion."
-    mc "Единственная проблема, с которой я здесь столкнулся, это то, что, если оставить компост в сарае, это может привести к взрыву."
+    mc "Единственная проблема, с которой я здесь столкнулся, это то, что если оставить компост в сарае, это может привести к взрыву."
 
 # game/code/e08/e08s01.rpy:160
 translate russian e08s01_14e98a30:
@@ -220,7 +220,7 @@ translate russian e08s01_14e98a30:
 translate russian e08s01_a8989209:
 
     # mc "Yeah, if left in the barn, the nitrogen builds up and then the chemicals mix and match and it explodes."
-    mc "Да, если оставить его в сарае, азот накапливается, а затем химикаты смешиваются и реагирует, и он взрывается."
+    mc "Да, если оставить его в сарае в больших количествах накапливается азот, затем химикаты смешиваются и реагирует, и он взрывается."
 
 # game/code/e08/e08s01.rpy:164
 translate russian e08s01_52910354:
@@ -238,7 +238,7 @@ translate russian e08s01_efc1c52a:
 translate russian e08s01_442bfd1f:
 
     # mc "You know, the number one leading cause of deaths on a farm is caused by random barn explosions."
-    mc "Ты знаешь, что основная причина смертности на фермах - случайные взрывы в сараях."
+    mc "Ты знала, что основная причина смертности на фермах - случайные взрывы в сараях?"
 
 # game/code/e08/e08s01.rpy:170
 translate russian e08s01_52ae2508:
@@ -268,7 +268,7 @@ translate russian e08s01_bbb798c9:
 translate russian e08s01_0bd0a6ab:
 
     # mc "I'm serious. There's a reason why people use feces for fuel."
-    mc "Я серьёзно. Это та причина, по которой люди используют фекалии в качестве удобрений."
+    mc "Я серьёзно. Это та самая причина, по которой люди используют фекалии в качестве удобрений."
 
 # game/code/e08/e08s01.rpy:179
 translate russian e08s01_2b11944b:
@@ -304,7 +304,7 @@ translate russian e08s01_f9eb84a5:
 translate russian e08s01_e9b2ee89:
 
     # arj "I don't think we need to advertise much for this job, anyway. The people come to us, not us to them."
-    arj "В любом случае, не думаю, что нам придётся рекламировать эту работу. Люди приходят к нам, а не мы к ним."
+    arj "В любом случае, не думаю, что нам придётся рекламировать эту работу. Люди к нам приходят, а не мы к ним."
 
 # game/code/e08/e08s01.rpy:191
 translate russian e08s01_de37dae0:
@@ -316,25 +316,25 @@ translate russian e08s01_de37dae0:
 translate russian e08s01_d85b8b35:
 
     # mc "We should host some sort of farmer's market and get the word out, so people buy from us directly."
-    mc "Нам нужно организовать своего рода фермерский рынок и распространить информацию о нём, чтобы люди покупали напрямую у нас."
+    mc "Нам нужно организовать своего рода фермерский рынок и распространить информацию о нём, чтобы люди покупали товары у нас напрямую."
 
 # game/code/e08/e08s01.rpy:195
 translate russian e08s01_ffdf6ee4:
 
     # mc "Speaking of which, farmers."
-    mc "Кстати говоря о фермерах."
+    mc "Кстати о фермерах."
 
 # game/code/e08/e08s01.rpy:197
 translate russian e08s01_acf23214:
 
     # arj "*Whispers* Plus I don't think you're a dummy. I picked you after all, didn't I?"
-    arj "*шепчет* К тому же, я не думаю, что ты дурак. В конце концов, я же выбрала тебя, не так ли?"
+    arj "*шепчет* К тому же, я не думаю, что ты дурак. В конце концов, я же тебя выбрала, не так ли?"
 
 # game/code/e08/e08s01.rpy:198
 translate russian e08s01_f39a644a:
 
     # mc "You made the right decision."
-    mc "Ты сделала правильный выбор."
+    mc "И ты сделала правильный выбор."
 
 # game/code/e08/e08s01.rpy:206
 translate russian e08s01_eb313e0a:
@@ -346,7 +346,7 @@ translate russian e08s01_eb313e0a:
 translate russian e08s01_298da376:
 
     # mc "Hello, Mr. and Mrs. Cooper."
-    mc "Здравствуйте, мистер и миссис Купер."
+    mc "Здравствуйте, Мистер и Миссис Купер."
 
 # game/code/e08/e08s01.rpy:212
 translate russian e08s01_b815bf08:
@@ -382,19 +382,19 @@ translate russian e08s01_5c12820d:
 translate russian e08s01_01dbbbb9:
 
     # ac "I like your hat."
-    ac "Мне нравится твоя шляпа. Такая красивая розочка."
+    ac "Мне нравится твоя шляпа. Такой красивый цветок."
 
 # game/code/e08/e08s01.rpy:225
 translate russian e08s01_f915dcd4:
 
     # arj "[mcname] named it after me."
-    arj "[mcname] назвал её в мою честь."
+    arj "[mcname] назвал его в мою честь."
 
 # game/code/e08/e08s01.rpy:228
 translate russian e08s01_69a9d609:
 
     # ac "That's romantic. Frank never does any of that for me."
-    ac "Так романтично. Фрэнк никогда не делает ничего подобного для меня."
+    ac "Это так романтично. Фрэнк вот никогда для меня не делает ничего подобного."
 
 # game/code/e08/e08s01.rpy:230
 translate russian e08s01_323a85e4:
@@ -424,13 +424,13 @@ translate russian e08s01_7f97070f:
 translate russian e08s01_c12458fc:
 
     # fc "We won't be staying too long. I came over to ask if you had any more of that wire fencing."
-    fc "Мы ненадолго. Я хотел спросить, остался ли ещё у вас провода. Я хочу сделать проволочную ограду."
+    fc "Мы ненадолго. Я хотел спросить, осталась ли у вас проволка. Я хочу сделать проволочную ограду."
 
 # game/code/e08/e08s01.rpy:239
 translate russian e08s01_4718aa32:
 
     # fc "The usual guy I get it from is at some auction, and I want to finish setting this up before the Vinovella versus Minerva Bay game."
-    fc "Парень, который обычно мне их поставляет, сейчас на каком-то аукционе, а я хочу закончить до начала игры Vinovella против Minerva Bay."
+    fc "Парень, который мне её обычно поставляет, сейчас на каком-то аукционе, а я хочу закончить до начала игры Vinovella против Minerva Bay."
 
 # game/code/e08/e08s01.rpy:241
 translate russian e08s01_d21ed967:
@@ -442,7 +442,7 @@ translate russian e08s01_d21ed967:
 translate russian e08s01_6650e8dd:
 
     # fc "Yeah. Don't you read the newspaper?"
-    fc "Ага. Ты не читаешь газеты?"
+    fc "Ага. Ты что, не читаешь газеты?"
 
 # game/code/e08/e08s01.rpy:244
 translate russian e08s01_8b61fb97:
@@ -466,13 +466,13 @@ translate russian e08s01_cfa5f012:
 translate russian e08s01_72e95968:
 
     # mc "Do we have any more wire?"
-    mc "У нас ещё остался провод?"
+    mc "У нас ещё осталась проволка?"
 
 # game/code/e08/e08s01.rpy:253
 translate russian e08s01_11d2150a:
 
     # arj "I think so."
-    arj "Вроде бы был."
+    arj "Вроде бы была."
 
 # game/code/e08/e08s01.rpy:256
 translate russian e08s01_6f9f0827:
@@ -484,7 +484,7 @@ translate russian e08s01_6f9f0827:
 translate russian e08s01_606bfc6f:
 
     # ac "So, what's a handsome, strapping fellow like you working on a farm like this?"
-    ac "Итак, что такой красивый, здоровый парень, как ты, забыл на подобной ферме?"
+    ac "Что такой красивый, здоровый парень, как ты, забыл на подобной ферме?"
 
 # game/code/e08/e08s01.rpy:266
 translate russian e08s01_baf6ab91:
@@ -496,7 +496,7 @@ translate russian e08s01_baf6ab91:
 translate russian e08s01_993780f9:
 
     # ac "A young man like you ought to come over and do some work for me."
-    ac "Такой молодой человек, как ты, должен поработать и для меня."
+    ac "Такой молодой человек как ты, должен поработать и для меня."
 
 # game/code/e08/e08s01.rpy:270
 translate russian e08s01_88bb02ca:
@@ -508,7 +508,7 @@ translate russian e08s01_88bb02ca:
 translate russian e08s01_ac6cb51e:
 
     # mc "If I wasn't naive, Mrs. Cooper, I would think you're hitting on me."
-    mc "Если бы я не был не столь наивным, миссис Купер, я бы подумал, что Вы ко мне пристаёте."
+    mc "Если бы я не был столь наивным, Миссис Купер, я бы подумал, что Вы ко мне пристаёте."
 
 # game/code/e08/e08s01.rpy:279
 translate russian e08s01_54b4df69:
@@ -562,7 +562,7 @@ translate russian e08s01_fb6316ef:
 translate russian e08s01_83ff8f6d:
 
     # ac "For all you know, they're magic seeds that can grow money trees."
-    ac "Как ты уже знаешь, это волшебные семена, из которых могут вырасти денежные деревья."
+    ac "Всё, что тебе нужно знать - это волшебные семена, из которых могут вырасти денежные деревья."
 
 # game/code/e08/e08s01.rpy:300
 translate russian e08s01_66df8773:
@@ -574,7 +574,7 @@ translate russian e08s01_66df8773:
 translate russian e08s01_f899a236:
 
     # mc "Sounds like a real gamble, but I think I might know which one it is."
-    mc "Звучит как весьма рискованное предприятие, но, думаю, я знаю, какое именно."
+    mc "Звучит как весьма рискованное предприятие, но, думаю, я знаю, что это."
 
 # game/code/e08/e08s01.rpy:306
 translate russian e08s01_c53e9436:
@@ -586,7 +586,7 @@ translate russian e08s01_c53e9436:
 translate russian e08s01_31929400:
 
     # fc "Good seeing you guys. Say hi to the little lady for me. Where is she, anyway?"
-    fc "Рад видеть вас, ребята. И передайте от меня привет той маленькой леди. И кстати, где она вообще?"
+    fc "Рад вас видеть, ребята. И передайте от меня привет той маленькой леди. И кстати, где она вообще?"
 
 # game/code/e08/e08s01.rpy:311
 translate russian e08s01_e9c220e4:
@@ -598,7 +598,7 @@ translate russian e08s01_e9c220e4:
 translate russian e08s01_a45f9705:
 
     # fc "I'll be sure to bring a treat for her next time I come over."
-    fc "В следующий раз, обязательно привезём ей угощение."
+    fc "В следующий раз мы обязательно привезём ей угощение."
 
 # game/code/e08/e08s01.rpy:317
 translate russian e08s01_c121c6f2:
@@ -682,7 +682,7 @@ translate russian e08s01_366e6865:
 translate russian e08s01_a2a01c74:
 
     # arj "The old stereotype about rednecks isn't true. If only Hollywood came down here and saw people, they would move their production offices here."
-    arj "Старый стереотип о жлобах не соответствует действительности. Если бы сюда приехал Голливуд и увидел людей, они бы перенесли сюда свои производственные офисы."
+    arj "Старый стереотип о жлобах не соответствует действительности. Если бы сюда приехали люди из Голливуда и увидела местных людей, они бы перенесли сюда все свои производственные офисы."
 
 # game/code/e08/e08s01.rpy:346
 translate russian e08s01_fdb36678:
@@ -706,7 +706,7 @@ translate russian e08s01_9c9b73e2:
 translate russian e08s01_d66e0b21:
 
     # arj "I recommended we both read Their Eyes Were Watching God."
-    arj "Я посоветовала прочитать \"Их глаза смотрели на Бога\".\n\n{size=-10}(\"Их глаза смотрели на Бога\" - Роман американской писательницы Зоры Нил Хёрстон){/size}"
+    arj "Я посоветовала прочитать \"Их глаза смотрели на Бога\".\n\n{size=-10}{i}(\"Их глаза смотрели на Бога\" - Роман американской писательницы Зоры Нил Хёрстон){/i}{/size}"
 
 # game/code/e08/e08s01.rpy:354
 translate russian e08s01_a6e7ae0c:
@@ -718,7 +718,7 @@ translate russian e08s01_a6e7ae0c:
 translate russian e08s01_c4052139:
 
     # arj "No. It's about the life of a young black woman in the American South during the Civil War. Mostly about her life on the farm."
-    arj "Нет. Она о жизни молодой чернокожей девушки на Юге Америки во время Гражданской войны. В основном о её жизни на ферме."
+    arj "Нет. Она о жизни молодой чернокожей девушки на Юге Америки во время Гражданской войны. В основном, о её жизни на ферме."
 
 # game/code/e08/e08s01.rpy:357
 translate russian e08s01_1723eef2:
@@ -796,7 +796,7 @@ translate russian e08s01_70dff08e:
 translate russian e08s01_e89d42cd:
 
     # mc "I do. I have no regrets being with you. I'm so glad I'm here with you now, here and forever."
-    mc "Конечно. Я не жалею о том, что я с тобой. Я так рад, что я здесь с тобой, здесь, сейчас, и навсегда."
+    mc "Конечно. Я не жалею о том, что я с тобой. Я так рад, что я здесь с тобой. Здесь, сейчас, и навсегда."
 
 # game/code/e08/e08s01.rpy:385
 translate russian e08s01_83078e78:
@@ -892,7 +892,7 @@ translate russian e08s01_arj_back_a0559298:
 translate russian e08s01_arj_back_2f3e464b:
 
     # mc "I am good."
-    mc "Я в порядке."
+    mc "Я справлюсь."
 
 # game/code/e08/e08s01.rpy:453
 translate russian e08s01_arj_back_12aa2d25:
@@ -922,7 +922,7 @@ translate russian e08s01_arj_back_8396bda8:
 translate russian e08s01_arj_back_bda3bdd3:
 
     # mc "Yeah, I know. I'm taking my time with it."
-    mc "Ага, я знаю. Я не тороплюсь с этим."
+    mc "Ага, я знаю. Я с этим не тороплюсь."
 
 # game/code/e08/e08s01.rpy:465
 translate russian e08s01_arj_back_f89c7d4b:
@@ -994,7 +994,7 @@ translate russian e08s01_arj_back_abb6bf18:
 translate russian e08s01_arj_back_d3ef63a7:
 
     # arj "That's a euphemism, I take it."
-    arj "Я так понимаю, это был эвфемизм.\n\n{size=-10}(Эвфемизм - нейтральное слово, или выражение, заменяющее собой что-то более грубое или некрасивое){/size}"
+    arj "Я так понимаю, это был эвфемизм.\n\n{size=-10}{i}(Эвфемизм - нейтральное слово, или выражение, заменяющее собой что-то более грубое или некрасивое){/i}{/size}"
 
 # game/code/e08/e08s01.rpy:499
 translate russian e08s01_arj_back_4662577b:
@@ -1078,13 +1078,13 @@ translate russian e08s01_arj_back_a31340dd:
 translate russian e08s01_arj_back_0d7ada63:
 
     # mct "She's right, the mayor gave a speech about weatherproofing and about how we'd get fined if we didn't."
-    mct "Она права, мэр говорил о защите от атмосферных воздействий и о том, что нас оштрафуют, если мы не займёмся этим."
+    mct "Она права, мэр говорил о защите от атмосферных воздействий и о том, что нас оштрафуют, если мы не будем этим заниматься."
 
 # game/code/e08/e08s01.rpy:527
 translate russian e08s01_arj_back_66a86662:
 
     # mct "Just one more problem..."
-    mct "Только ещё одна проблема..."
+    mct "Ещё одна проблема..."
 
 # game/code/e08/e08s01.rpy:533
 translate russian e08s01_arj_back_235772ac:
@@ -1150,7 +1150,7 @@ translate russian e08s01_arj_back_9d5c99ca:
 translate russian e08s01_arj_back_be3a126a:
 
     # mc "Ashley gave me this when you were talking with Frank. Said they were money tree seeds as a joke."
-    mc "Эшли дала мне их, пока ты разговаривала с Фрэнком. В шутку сказала, что это семена денежного дерева."
+    mc "Мне их дала Эшли, пока ты разговаривала с Фрэнком. В шутку сказала, что это семена денежного дерева."
 
 # game/code/e08/e08s01.rpy:563
 translate russian e08s01_arj_back_974da45d:
@@ -1240,7 +1240,7 @@ translate russian e08s01_arj_back_4b75eda1:
 translate russian e08s01_arj_back_418c19f0:
 
     # arj "I want you to fuck me hard this time."
-    arj "Я хочу, чтобы на этот раз ты жёстко меня трахнул."
+    arj "Я хочу, чтобы на этот раз ты меня жёстко трахнул."
 
 # game/code/e08/e08s01.rpy:650
 translate russian e08s01_arj_back_9de7faaa:
@@ -1258,13 +1258,13 @@ translate russian e08s01_arj_back_468bf9ee:
 translate russian e08s01_arj_back_7526e615:
 
     # arj "You make me feel so good, baby."
-    arj "Ты заставляешь меня чувствовать себя так хорошо, детка."
+    arj "Детка, ты заставляешь меня чувствовать себя так хорошо."
 
 # game/code/e08/e08s01.rpy:669
 translate russian e08s01_arj_back_d062cec9:
 
     # arj "Fuck me just like that."
-    arj "Еби меня, вот так."
+    arj "Выеби меня, вот так."
 
 # game/code/e08/e08s01.rpy:703
 translate russian e08s01_arj_back_3bf3d9d1:

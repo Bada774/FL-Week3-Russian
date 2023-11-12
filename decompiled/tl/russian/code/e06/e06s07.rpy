@@ -10,7 +10,7 @@ translate russian e06s07_177d3eb2:
 translate russian e06s07_af4b738d:
 
     # sy "Just the final touches. I've got to make sure you're perfectly dressed or else."
-    sy "Остались последние штрихи. Мне нужно убедиться, что ты одет идеально."
+    sy "Остались последние штрихи. Мне нужно убедиться, что ты идеально одет."
 
 # game/code/e06/e06s07.rpy:21
 translate russian e06s07_237168ae:
@@ -46,7 +46,7 @@ translate russian e06s07_826d64ce:
 translate russian e06s07_72702210:
 
     # mc "Not in the slightest. That's your job."
-    mc "Ни в малейшей степени. Это твоя работа."
+    mc "Ни в малейшей степени. Это же твоя работа."
 
 # game/code/e06/e06s07.rpy:36
 translate russian e06s07_dd4b315c:
@@ -70,7 +70,7 @@ translate russian e06s07_4642bf3d:
 translate russian e06s07_428a1cf2:
 
     # mc "Today we're just going to enjoy ourselves and leave all the stress to you and Min."
-    mc "Сегодня мы просто собираемся развлечёмся и оставим весь стресс для тебя и Мин."
+    mc "Сегодня мы просто развлечёмся и оставим весь стресс для тебя и Мин."
 
 # game/code/e06/e06s07.rpy:44
 translate russian e06s07_9898e4e6:
@@ -82,13 +82,13 @@ translate russian e06s07_9898e4e6:
 translate russian e06s07_79493dae:
 
     # mc "I told you that when you volunteered to be my best \"man\"."
-    mc "Я говорил тебе это, когда ты вызвалась быть моим шафером."
+    mc "Я тебе это говорил, когда ты вызвалась быть моим шафером."
 
 # game/code/e06/e06s07.rpy:48
 translate russian e06s07_9b00a4cc:
 
     # sy "True, but I didn't realize Lydia would delegate all her stress onto Min... who would then stress me out about every little detail!"
-    sy "Это правда, но я не осознавала, что Лидия переложит весь свой стресс на Мин... которая потом будет напрягать меня из-за каждой мелочи!"
+    sy "Это правда, но я не осознавала, что Лидия переложит весь свой стресс на Мин... которая по каждой мелочи будет напрягать меня!"
 
 # game/code/e06/e06s07.rpy:50
 translate russian e06s07_9dc0b1be:
@@ -142,7 +142,7 @@ translate russian e06s07_b5ecac42:
 translate russian e06s07_7be63fa7:
 
     # mc "I suppose there is that..."
-    mc "Я полагаю, что так..."
+    mc "Пожалуй, что так..."
 
 # game/code/e06/e06s07.rpy:68
 translate russian e06s07_7f35d134:
@@ -160,7 +160,7 @@ translate russian e06s07_108eefe1:
 translate russian e06s07_1393413a:
 
     # sy "I think she hates your intended bride."
-    sy "Я думаю, она ненавидит твою будущую жену."
+    sy "Мне почему-то кажется, что она ненавидит твою будущую жену."
 
 # game/code/e06/e06s07.rpy:74
 translate russian e06s07_0f8c73fc:
@@ -286,7 +286,7 @@ translate russian e06s07_cd9eea02:
 translate russian e06s07_704c78aa:
 
     # lc "So long as we both shall live, you are the only man I shall enjoy being with sexually - unless you specifically order me to do otherwise."
-    lc "Пока мы оба будем живы, ты будем единственным мужчиной, с которым я буду получать сексуальное удовольствие - если только ты сам не прикажешь мне поступить иначе."
+    lc "Пока мы оба будем живы, ты будешь единственным мужчиной, с которым я буду получать сексуальное удовольствие - если только ты сам не прикажешь мне поступить иначе."
 
 # game/code/e06/e06s07.rpy:150
 translate russian e06s07_aa60a280:
@@ -310,7 +310,7 @@ translate russian e06s07_55a83bed:
 translate russian e06s07_901a610c:
 
     # lc "I will ensure that each of us is available to sooth your mind and satisfy your body to the best of our abilities."
-    lc "Я позабочусь о том, чтобы каждая из нас была готова успокоить твоё разум и удовлетворить твоё тело в меру своих возможностей."
+    lc "Я позабочусь о том, чтобы каждая из нас была готова успокоить твой разум и удовлетворить твоё тело в меру своих возможностей."
 
 # game/code/e06/e06s07.rpy:158
 translate russian e06s07_f5634d16:
@@ -322,13 +322,13 @@ translate russian e06s07_f5634d16:
 translate russian e06s07_9d93a936:
 
     # lc "This I pledge, until death do us part."
-    lc "Я клянусь в этом, пока смерть не разлучит нас."
+    lc "Я клянусь в этом, и пока смерть не разлучит нас."
 
 # game/code/e06/e06s07.rpy:162
 translate russian e06s07_6eec208d:
 
     # mh "Wow. I mean-"
-    mh "Ух ты. Я имею в виду..."
+    mh "Вау. Я имею в виду..."
 
 # game/code/e06/e06s07.rpy:165
 translate russian e06s07_b66a888f:
@@ -340,7 +340,7 @@ translate russian e06s07_b66a888f:
 translate russian e06s07_5e1c72da:
 
     # mc "Are you sure about all of that?"
-    mc "Ты уверена во всём этом?"
+    mc "Ты во всём этом уверена?"
 
 # game/code/e06/e06s07.rpy:169
 translate russian e06s07_c8594163:
@@ -364,7 +364,7 @@ translate russian e06s07_f415513f:
 translate russian e06s07_ba8ffbc6:
 
     # mc "Um, yeah. This might seem a little unimpressive by comparison, but..."
-    mc "Хм, да. По сравнению с этим, мря может показаться немного не впечатляющей, но..."
+    mc "Хм, да. По сравнению с этим, моя может показаться немного не впечатляющей, но..."
 
 # game/code/e06/e06s07.rpy:178
 translate russian e06s07_2338a21d:
@@ -436,7 +436,7 @@ translate russian e06s07_0e40d027:
 translate russian e06s07_45a9d417:
 
     # mc "Lydia, I accept you as Queen of my Harem."
-    mc "Лидия, я признаю тебя королевой моего гарема."
+    mc "Лидия, я признаю тебя Королевой своего Гарема."
 
 # game/code/e06/e06s07.rpy:215
 translate russian e06s07_66c8e88c:
@@ -478,7 +478,7 @@ translate russian e06s07_233f0d4a:
 translate russian e06s07_a3c130f8:
 
     # mc "That sounds good to me. Let me see how much of that I remember."
-    mc "Звучит неплохо. Давай посмотрим, что из этого я запомнил."
+    mc "Звучит неплохо. Посмотрим, что из этого я запомнил."
 
 # game/code/e06/e06s07.rpy:237
 translate russian e06s07_5525fcba:
@@ -550,7 +550,7 @@ translate russian e06s07_18701c32:
 translate russian e06s07_ac729b7a:
 
     # lc "We will follow the guidance of our Queen and serve [mcname] to the best of our abilities."
-    lc "Мы будем следовать указаниям нашей Королевы и служить [mcname] изо всех сил."
+    lc "Мы будем следовать указаниям нашего Короля и служить [mcname] изо всех сил."
 
 # game/code/e06/e06s07.rpy:265
 translate russian e06s07_188d9a69:
@@ -586,7 +586,7 @@ translate russian e06s07_1d172ad3:
 translate russian e06s07_0e7232d2:
 
     # mh "Is there anything else either of you would like to say before we continue?"
-    mh "Есть ли ещё что-нибудь, что вы хотели бы сказать, прежде чем мы продолжим?"
+    mh "Есть ли ещё что-нибудь, что бы вы хотели сказать, прежде чем мы продолжим?"
 
 # game/code/e06/e06s07.rpy:283
 translate russian e06s07_2f068911:
@@ -610,7 +610,7 @@ translate russian e06s07_b82257d8:
 translate russian e06s07_6e48bc15:
 
     # mh "Very well. Do you have the rings?"
-    mh "Очень хорошо. У вас есть кольца?"
+    mh "Хорошо. У вас есть кольца?"
 
 # game/code/e06/e06s07.rpy:293
 translate russian e06s07_e1fc3968:
@@ -628,7 +628,7 @@ translate russian e06s07_0dd363a8:
 translate russian e06s07_8f8550e9:
 
     # mc "*whispers* You had one job."
-    mc "*шепчет* У тебя была одна задача."
+    mc "*шепчет* У тебя была всего одна задача."
 
 # game/code/e06/e06s07.rpy:301
 translate russian e06s07_dc24f59c:
@@ -670,7 +670,7 @@ translate russian e06s07_86682f82:
 translate russian e06s07_1bb05fdd:
 
     # mh "If there is anyone present who has cause why these two should not be wed, speak now or forever hold your peace."
-    mh "Если среди присутствующих есть кто-нибудь, у кого есть причина, по которой эти двое не должны вступить в брак, скажите сейчас или молчите вечно."
+    mh "Если среди присутствующих есть кто-нибудь, у кого есть причины, по которой эти двое не должны вступить в брак, скажите сейчас или молчите вечно."
 
 # game/code/e06/e06s07.rpy:326
 translate russian e06s07_bcb277a4:

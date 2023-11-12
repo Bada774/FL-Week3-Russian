@@ -262,7 +262,7 @@ translate russian e08s06_home_alone_ed52d7fd:
 translate russian e08s06_home_alone_18e41d90:
 
     # arj "We've gotten invites to two barn-raisings, a christening and the open-mic night."
-    arj "Нас пригласили на две стройки сарая, на крестины и на вечер открытого микрофона.\n\n{size=-10}(В строительстве сараев принимает участие вся община - своего рода, жест поддержки и принятия){/size}"
+    arj "Нас пригласили на две стройки сарая, на крестины и на вечер открытого микрофона.\n\n{size=-10}{i}(В строительстве сараев принимает участие вся община - своего рода, жест поддержки и принятия){/i}{/size}"
 
 # game/code/e08/e08s06.rpy:240
 translate russian e08s06_home_alone_e3f2d36b:
@@ -274,7 +274,7 @@ translate russian e08s06_home_alone_e3f2d36b:
 translate russian e08s06_home_alone_23462a37:
 
     # arj "Yup. I guess they fix up the farm on Thursdays and turn it into something like the 'Chuckle Barn'."
-    arj "Ага. Полагаю, по четвергам они переоборудуют ферму и превращают её во что-то вроде \"Амбара Смеха\".\n\n{size=-10}(Амбар Смеха - стендап клуб из канадской комедии \"Заправка на углу\"){/size}"
+    arj "Ага. Полагаю, по четвергам они переоборудуют ферму и превращают её во что-то вроде \"Амбара Смеха\".\n\n{size=-10}{i}(Амбар Смеха - стендап клуб из канадской комедии \"Заправка на углу\"){/i}{/size}"
 
 # game/code/e08/e08s06.rpy:246
 translate russian e08s06_home_alone_b85746b1:

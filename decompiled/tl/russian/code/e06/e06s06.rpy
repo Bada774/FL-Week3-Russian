@@ -22,7 +22,7 @@ translate russian e06s06_d941d7b4:
 translate russian e06s06_676803a4:
 
     # mh "I know we've technically met in passing, but I should introduce myself. Lyssa Harris."
-    mh "Я знаю, что мы встречались, но формально я должна представиться. Лисса Харрис."
+    mh "Я знаю, что мы уже встречались, но формально я должна представиться. Лисса Харрис."
 
 # game/code/e06/e06s06.rpy:103
 translate russian e06s06_e5572961:
@@ -46,13 +46,13 @@ translate russian e06s06_e81c6560:
 translate russian e06s06_dfb3001e:
 
     # lc "[mcname] has told me so much about you. You really are an amazing woman."
-    lc "[mcname] так много рассказывал мне о Вас. Вы действительно потрясающая женщина."
+    lc "[mcname] мне так много о Вас рассказывал. Вы действительно потрясающая женщина."
 
 # game/code/e06/e06s06.rpy:118
 translate russian e06s06_3d0bfa8a:
 
     # mh "Well, you're very flattering Miss Cox."
-    mh "Вы льстите, мисс Кокс."
+    mh "Вы мне льстите, Мисс Кокс."
 
 # game/code/e06/e06s06.rpy:119
 translate russian e06s06_02592ba3:
@@ -70,7 +70,7 @@ translate russian e06s06_b53492da:
 translate russian e06s06_838e8b35:
 
     # mh "*Clears throat* Congratulations. That is quite... quite a development."
-    mh "*прочищает горло* Мои поздравления. Это довольно... довольно значительное развитие."
+    mh "*прочищает горло* Мои поздравления. Это довольно... довольно значительное развитие отношений."
 
 # game/code/e06/e06s06.rpy:128
 translate russian e06s06_1ceb482f:
@@ -82,13 +82,13 @@ translate russian e06s06_1ceb482f:
 translate russian e06s06_9a7b5901:
 
     # mh "Yes... [mcname], excuse my bluntness, you never told me you were engaged, or involved in anything so serious."
-    mh "Да... [mcname], прости меня за резкость, но ты никогда не говорил мне, что ты помолвлен, или увлечён чем-то настолько серьёзным."
+    mh "Да... [mcname], прости меня за резкость, но ты никогда не говорил мне, что ты помолвлен, или увлечён кем-то настолько серьёзно."
 
 # game/code/e06/e06s06.rpy:134
 translate russian e06s06_c1bd7f26:
 
     # mh "And there were many chances for you to mention that."
-    mh "И у тебя было много возможностей упомянуть об этом."
+    mh "Хотя у тебя было так много возможностей упомянуть об этом."
 
 # game/code/e06/e06s06.rpy:137
 translate russian e06s06_24620278:
@@ -100,25 +100,25 @@ translate russian e06s06_24620278:
 translate russian e06s06_a8507cf4:
 
     # lc "I should explain. While we have been dating for a while, [mcname] had my full permission to be involved with other women."
-    lc "Я могу объяснить. Пока мы встречались какое-то время, у [mcname] было моё полное разрешение на отношения с другими женщинами."
+    lc "Я могу объяснить. Пока мы какое-то время встречались, у [mcname] было моё полное разрешение на отношения с другими женщинами."
 
 # game/code/e06/e06s06.rpy:143
 translate russian e06s06_262b39ca:
 
     # arj "I know it's a little out there, but it's the truth, I assure you. Lydia supports [mcname]'s freedom wholeheartedly."
-    arj "Я знаю, что это немного не так, но это правда, уверяю тебя. Лидия всем сердцем поддерживает свободу [mcname]."
+    arj "Я знаю, что это немного странно, но это правда, уверяю тебя. Лидия всем сердцем поддерживает свободу [mcname]."
 
 # game/code/e06/e06s06.rpy:147
 translate russian e06s06_cfb6d02e:
 
     # lc "Yes, so I am well aware that you and my fiance have been intimate before, if that makes you feel better."
-    lc "Да, поэтому я прекрасно знаю, что ты и мой жених раньше были близки, если тебе от этого легче."
+    lc "Да, так что я прекрасно знаю, что ты и мой жених раньше были близки, если тебе станет от этого легче."
 
 # game/code/e06/e06s06.rpy:149
 translate russian e06s06_d14a3c55:
 
     # lc "Yes, so I am well aware of all the girls he's been with."
-    lc "Да, поэтому я хорошо знаю всех девушек, с которыми он был."
+    lc "Да, так что я хорошо знаю всех девушек, с которыми он был."
 
 # game/code/e06/e06s06.rpy:152
 translate russian e06s06_50470c12:
@@ -142,7 +142,7 @@ translate russian e06s06_00c55189:
 translate russian e06s06_f4eacc76:
 
     # mh "You can understand that this is not something I hear on a daily basis, Miss Cox."
-    mh "Вы можете понять, это не то, что я слышу каждый день, мисс Кокс."
+    mh "Вы должны понять, это не то, чтобы я каждый день слышала, мисс Кокс."
 
 # game/code/e06/e06s06.rpy:163
 translate russian e06s06_99adb688:
@@ -160,13 +160,13 @@ translate russian e06s06_6c5ad7d4:
 translate russian e06s06_a25003b6:
 
     # mh "Forgive me, I thought I had a handle on this, but I think it just slipped from my fingers."
-    mh "Простите, я думала, что справлюсь с этим, но, кажется, он таки выскользнул из моих рук."
+    mh "Прошу прощения, я думала, что справлюсь с этим, но, кажется, суть всё-таки выскользнула из моих рук."
 
 # game/code/e06/e06s06.rpy:170
 translate russian e06s06_19e06fdd:
 
     # mh "So... this is some kind of open relationship currently. But it will conclude when the two of you tie the knot?"
-    mh "Итак... сейчас это своего рода открытые отношения. Но все закончится, когда вы двое свяжете себя узами брака?"
+    mh "Итак... сейчас это своего рода открытые отношения. Но всё закончится, когда вы двое свяжете себя узами брака?"
 
 # game/code/e06/e06s06.rpy:173
 translate russian e06s06_1c87520b:
@@ -184,7 +184,7 @@ translate russian e06s06_24a6696e:
 translate russian e06s06_1068aba2:
 
     # mh "So as I understand it, you're in some kind of harem, [mcname]."
-    mh "То есть, насколько я понимаю, это, в каком-то плане гарем, [mcname]."
+    mh "То есть, насколько я понимаю, это, своего рода гарем, [mcname]."
 
 # game/code/e06/e06s06.rpy:180
 translate russian e06s06_18b3ea92:
@@ -196,13 +196,13 @@ translate russian e06s06_18b3ea92:
 translate russian e06s06_61bcb51a:
 
     # mh "Fascinating. I have had many strange experiences in the court of law, but never something quite like this."
-    mh "Поразительно. У меня было много странных вещей в суде, но подобное - никогда."
+    mh "Поразительно. У меня было много странных дел в суде, но подобное - никогда."
 
 # game/code/e06/e06s06.rpy:186
 translate russian e06s06_aafebc5f:
 
     # mh "Since you are all consenting adults, I have no wish to delay your happiness."
-    mh "Поскольку вы все взрослые люди, делаете это по обоюдному согласию, у меня нет желания отсрочивать ваше счастье."
+    mh "Поскольку вы все взрослые люди, делаете это по обоюдному согласию, у меня нет причин мешать вашему счастью."
 
 # game/code/e06/e06s06.rpy:187
 translate russian e06s06_14a9db7c:
@@ -238,13 +238,13 @@ translate russian e06s06_4c5ab094:
 translate russian e06s06_8eb5269b:
 
     # arj "Haha. Oh she is a little more involved than that. She's basically been the second member of his harem for some time now."
-    arj "Хаха. О, она вовлечена в это немного больше. По сути, она уже некоторое время является членом его гарема."
+    arj "Хаха. О, она чуть больше вовлечена в это. По сути, она уже некоторое время является членом его гарема."
 
 # game/code/e06/e06s06.rpy:205
 translate russian e06s06_c6f8bab9:
 
     # mh "Mmm. Sounds like you have quite the appetite, [mcname]."
-    mh "Ммм. Похоже, у тебя неплохой аппетит, [макнейм]."
+    mh "Ммм. Похоже, у тебя неплохой аппетит, [mcname]."
 
 # game/code/e06/e06s06.rpy:211
 translate russian e06s06_20a99663:
@@ -280,7 +280,7 @@ translate russian e06s06_31db8cd4:
 translate russian e06s06_mh_harem_b7529b38:
 
     # mc "You should join us Lyssa. We can continue where we left off."
-    mc "Тебе стоит к нам присоединиться, Лисса. Мы можем продолжить с того места, на котором остановились."
+    mc "Лисса, тебе стоит к нам присоединиться. Мы можем продолжить с того места, на котором остановились."
 
 # game/code/e06/e06s06.rpy:242
 translate russian e06s06_mh_harem_720d7642:
@@ -322,7 +322,7 @@ translate russian e06s06_mh_harem_2e4199b1:
 translate russian e06s06_mh_harem_a450c6da:
 
     # mc "None of that has to change, Lyssa. You can live wherever you'd like. But you'll always have an open invitation to our home."
-    mc "Ничего из этого не изменится, Лисса. Ты можешь жить там, где захочешь. Но для тебя двери в наш дом всегда будут открыты."
+    mc "Ничего из этого не изменится, Лисса. Ты можешь жить там, где захочешь. Но двери в наш дом для тебя всегда будут открыты."
 
 # game/code/e06/e06s06.rpy:258
 translate russian e06s06_mh_harem_88bfe7e6:
@@ -364,7 +364,7 @@ translate russian e06s06_mh_harem_2de07a26:
 translate russian e06s06_mh_harem_98829eed:
 
     # arj "Because even when others are around, when [mcname] is close, I know there is no one else like him."
-    arj "Потому что даже когда рядом есть другие, когда [mcname] рядом, я знаю, что нет никого, кто с ним бы сравнился."
+    arj "Потому что даже когда рядом есть другие, когда рядом [mcname], я знаю, что нет никого, кто с ним бы сравнился."
 
 # game/code/e06/e06s06.rpy:276
 translate russian e06s06_mh_harem_e0e4b13c:
@@ -376,7 +376,7 @@ translate russian e06s06_mh_harem_e0e4b13c:
 translate russian e06s06_mh_harem_7a91e55e:
 
     # mh "With this adventure, your needs have still been met to your satisfaction."
-    mh "В результате этого приключения твои потребности всё же были удовлетворены."
+    mh "В результате этого приключения, твои потребности всё же были удовлетворены."
 
 # game/code/e06/e06s06.rpy:282
 translate russian e06s06_mh_harem_c8fd39d1:
@@ -406,7 +406,7 @@ translate russian e06s06_mh_harem_65dbad29:
 translate russian e06s06_mh_harem_53b14d3b:
 
     # mh "Well you are certainly very forward, Lydia. I suppose there is no harm in showing off."
-    mh "Ну, ты, конечно, очень настойчивая, Лидия. Думаю, в небольшом хвастовстве нет ничего плохого."
+    mh "Ну, ты, конечно, очень настойчивая, Лидия. Думаю, в небольшом хвастовстве не будет ничего плохого."
 
 # game/code/e06/e06s06.rpy:308
 translate russian e06s06_mh_harem_6fba775f:
@@ -418,25 +418,25 @@ translate russian e06s06_mh_harem_6fba775f:
 translate russian e06s06_mh_harem_3a45daa7:
 
     # mc "Mmm. You weren't kidding, Lyssa. It definitely looks like you could use some TLC."
-    mc "Ммм. Ты не шутила, Лисса. Похоже, тебе определённо не помешает немного внимания и заботы."
+    mc "Ммм. А ты не шутила, Лисса. Похоже, тебе определённо не помешает немного внимания и заботы."
 
 # game/code/e06/e06s06.rpy:314
 translate russian e06s06_mh_harem_4c7e12ce:
 
     # mh "Yes. So much so that I really must insist..."
-    mh "Да. Настолько, что мне приходится настаивать..."
+    mh "Да. Настолько, что мне придётся настаивать..."
 
 # game/code/e06/e06s06.rpy:320
 translate russian e06s06_mh_harem_8e86a456:
 
     # mc "I'm sure AmRose and I can help out a bit."
-    mc "Я уверен, что мы с АмРоуз сможем немного тебе помочь."
+    mc "Я уверен, что мы с АмРоуз сможем тебе немного помочь."
 
 # game/code/e06/e06s06.rpy:324
 translate russian e06s06_mh_harem_8dc423b3:
 
     # mh "You... Ahem... only if you are okay with that, AmRose."
-    mh "Ты... Кхм... только если тебя это устраивает, АмРоуз."
+    mh "Вы... Кхм... только если тебя это устраивает, АмРоуз."
 
 # game/code/e06/e06s06.rpy:326
 translate russian e06s06_mh_harem_925a5f29:
@@ -460,7 +460,7 @@ translate russian e06s06_mh_harem_1cf62d7d:
 translate russian e06s06_mh_harem_da901b4d:
 
     # mh "Mmm... that's not the only thing 'going hard'. Haha."
-    mh "Ммм... не только это \"напрягается\". Хаха."
+    mh "Ммм... не только ты \"напрягаешься\". Хаха."
 
 # game/code/e06/e06s06.rpy:341
 translate russian e06s06_mh_harem_70d914fe:
@@ -532,7 +532,7 @@ translate russian e06s06_mh_harem_045a1761:
 translate russian e06s06_mh_harem_9da6e02e:
 
     # mh "Wo-ow... AmRose... your fingers feel amazing..."
-    mh "Ух ты... АмРоуз... твои пальцы потрясающе ощущаются..."
+    mh "Ух ты... АмРоуз... твои пальцы ощущаются просто потрясающе..."
 
 # game/code/e06/e06s06.rpy:398
 translate russian e06s06_mh_harem_983d8324:
@@ -610,7 +610,7 @@ translate russian e06s06_mh_harem_a760e343:
 translate russian e06s06_mh_harem_49365e59:
 
     # arj "Haha. Watching you both try to keep a lid on things is so perfect."
-    arj "Хаха. Наблюдать за тем, как вы оба пытаетесь держать себя под контролем - так прекрасно."
+    arj "Хаха. Так прекрасно наблюдать за тем, как вы оба пытаетесь держать себя под контролем."
 
 # game/code/e06/e06s06.rpy:475
 translate russian e06s06_mh_harem_8603e536:
@@ -688,7 +688,7 @@ translate russian e06s06_mh_harem_5305554f:
 translate russian e06s06_mh_harem_2b06c998:
 
     # mh "Let us know if this is too much, [mcname]."
-    mh "Дай нам знать, если это слишком, [mcname]."
+    mh "[mcname], дай нам знать, если это слишком."
 
 # game/code/e06/e06s06.rpy:555
 translate russian e06s06_mh_harem_6c3aa2b5:
@@ -724,7 +724,7 @@ translate russian e06s06_mh_harem_eeee2551:
 translate russian e06s06_mh_harem_1b2c966e:
 
     # mh "I can feel his eagerness."
-    mh "Я чувствую его пыл."
+    mh "Я прямо чувствую его пыл."
 
 # game/code/e06/e06s06.rpy:587
 translate russian e06s06_mh_harem_2add0bdb:
@@ -754,13 +754,13 @@ translate russian e06s06_mh_harem_ed7032cf:
 translate russian e06s06_mh_harem_a424af2f:
 
     # arj "Don't leave me waiting too long, [mcname]."
-    arj "Не заставляй меня ждать слишком долго, [mcname]."
+    arj "[mcname], не заставляй меня ждать слишком долго."
 
 # game/code/e06/e06s06.rpy:622
 translate russian e06s06_fuck_mh_5e3ebb45:
 
     # mc "Why don't you get on that sofa. AmRose will make your ass ready for me."
-    mc "Почему бы тебе не лечь на этот диван. АмРоуз подготовит твою задницу ко мне."
+    mc "Почему бы тебе не лечь на этот диван. АмРоуз подготовит ко мне твою задницу."
 
 # game/code/e06/e06s06.rpy:625
 translate russian e06s06_fuck_mh_58678aea:
@@ -778,13 +778,13 @@ translate russian e06s06_fuck_mh_eb2a6d7d:
 translate russian e06s06_fuck_mh_588ab6f7:
 
     # mh "Oh god... Oh... baby... that's... oh my..."
-    mh "О боже... О... детка... это... о боже..."
+    mh "О боже... Ох... детка... это... о боже..."
 
 # game/code/e06/e06s06.rpy:636
 translate russian e06s06_fuck_mh_c06a8f9e:
 
     # mct "Fuck that's so hot. I want to bury myself in AmRose... but not yet..."
-    mct "Черт, это так сексуально. Я хочу закопаться себя в АмРоуз... но не сейчас..."
+    mct "Черт, это так сексуально. Я хочу закопать себя в АмРоуз... но не сейчас..."
 
 # game/code/e06/e06s06.rpy:649
 translate russian e06s06_fuck_mh_740ee993:
@@ -796,7 +796,7 @@ translate russian e06s06_fuck_mh_740ee993:
 translate russian e06s06_fuck_mh_85194617:
 
     # lc "Lyssa... you look so beautiful each time your body moves."
-    lc "Лисса... ты так красиво выглядишь каждый раз, когда твоё тело движется."
+    lc "Лисса... ты так красиво выглядишь, когда движется твоё тело."
 
 # game/code/e06/e06s06.rpy:655
 translate russian e06s06_fuck_mh_9f0fdb48:
@@ -814,13 +814,13 @@ translate russian e06s06_fuck_mh_2835ff6f:
 translate russian e06s06_fuck_mh_0d615590:
 
     # mh "*Wild moans* Lydia... oh fuck... I imagine... I should do the same for Miss Jenkins... Mmhmm..."
-    mh "*дикие стоны* Лидия... ох, чёрт... я думаю... я обязана сделать то же самое для мисс Дженкинс... Ммммм..."
+    mh "*дикие стоны* Лидия... ох, чёрт... я думаю... я обязана сделать то же самое для Мисс Дженкинс... Ммммм..."
 
 # game/code/e06/e06s06.rpy:663
 translate russian e06s06_fuck_mh_2a57dc9f:
 
     # arj "Oh fuck me, [mcname]!"
-    arj "Ох, чёрт побери, [mcname]!"
+    arj "Ох, [mcname], чёрт побери!"
 
 # game/code/e06/e06s06.rpy:670
 translate russian e06s06_fuck_mh_888416c6:
@@ -844,7 +844,7 @@ translate russian e06s06_fuck_mh_fc0bcc15:
 translate russian e06s06_fuck_mh_5eec93b7:
 
     # mh "Do not think I forgot about you, Miss Jenkins."
-    mh "Не думайте, что я забыла о тебе, мисс Дженкинс."
+    mh "Не думай, что я забыла о тебе, Мисс Дженкинс."
 
 # game/code/e06/e06s06.rpy:716
 translate russian e06s06_fuck_mh_6ce4f9d1:
@@ -856,7 +856,7 @@ translate russian e06s06_fuck_mh_6ce4f9d1:
 translate russian e06s06_fuck_mh_f1d8c61c:
 
     # mh "Mmhmm... Please excuse me, AmRose... Usually, I never fuck someone this hard."
-    mh "Мммм... Пожалуйста, извини меня, АмРоуз... Обычно я никогда не трахаю кого-то так сильно."
+    mh "Мммм... Пожалуйста, АмРоуз, прости меня... Обычно я никого так сильно не трахаю."
 
 # game/code/e06/e06s06.rpy:739
 translate russian e06s06_fuck_mh_2f178ede:
@@ -868,7 +868,7 @@ translate russian e06s06_fuck_mh_2f178ede:
 translate russian e06s06_fuck_mh_b2446cae:
 
     # arj "Yes! Oh YES! That's what... I love about him..."
-    arj "Да! О, да! Вот что... мне в нём нравится..."
+    arj "Да! О, да! Это то... что мне в нём нравится..."
 
 # game/code/e06/e06s06.rpy:770
 translate russian e06s06_fuck_arj_bee2289e:
@@ -880,13 +880,13 @@ translate russian e06s06_fuck_arj_bee2289e:
 translate russian e06s06_fuck_arj_d8b12b49:
 
     # mc "Fine by me. Give me a moment, I'll start with AmRose... then you're clear for landing..."
-    mc "Я не против. Дай мне минутку, я начну с АмРоуза... а потом и ты сможешь..."
+    mc "Я не против. Дай мне минутку, я начну с АмРоуз... а потом и ты сможешь..."
 
 # game/code/e06/e06s06.rpy:776
 translate russian e06s06_fuck_arj_70911e35:
 
     # arj "Yes... fill me up, [mcname]..."
-    arj "Да... заполни меня, [mcname]..."
+    arj "Да... [mcname], заполни меня..."
 
 # game/code/e06/e06s06.rpy:779
 translate russian e06s06_fuck_arj_0b9b5f75:
@@ -916,19 +916,19 @@ translate russian e06s06_fuck_arj_c4cf6d58:
 translate russian e06s06_fuck_arj_a07e04ff:
 
     # arj "Oh sweet fuck! You feel bigger, [mcname]!"
-    arj "О, сладенький мой! [mcname], ты будто стал больше!"
+    arj "Ох, сладенький мой! [mcname], ты будто стал больше!"
 
 # game/code/e06/e06s06.rpy:805
 translate russian e06s06_fuck_arj_a1bb9f0a:
 
     # mc "Nrrn... I think... that's all credit to Lyssa... Phew..."
-    mc "Ррр... думаю... этом всё заслуга Лиссы... Уф..."
+    mc "Ррр... думаю... это всё заслуга Лиссы... Уф..."
 
 # game/code/e06/e06s06.rpy:808
 translate russian e06s06_fuck_arj_b680c25c:
 
     # mh "I will go nice and slow with you, Baby..."
-    mh "Я буду лласкова и аккуратна с тобой, малыш..."
+    mh "Я буду с тобой ласкова и аккуратна, малыш..."
 
 # game/code/e06/e06s06.rpy:811
 translate russian e06s06_fuck_arj_4872cbdd:
@@ -940,7 +940,7 @@ translate russian e06s06_fuck_arj_4872cbdd:
 translate russian e06s06_fuck_arj_502ddc50:
 
     # mh "If you say so."
-    mh "Если ты так говоришь."
+    mh "Если ты так хочешь."
 
 # game/code/e06/e06s06.rpy:823
 translate russian e06s06_fuck_arj_a2c117e8:
@@ -952,7 +952,7 @@ translate russian e06s06_fuck_arj_a2c117e8:
 translate russian e06s06_fuck_arj_a5d4a0c7:
 
     # arj "That's it... keep pounding me, [mcname]!"
-    arj "Вот и всё... продолжай ебать меня, [mcname]!"
+    arj "Вот так... продолжай ебать меня, [mcname]!"
 
 # game/code/e06/e06s06.rpy:835
 translate russian e06s06_fuck_arj_48cc876e:
@@ -964,7 +964,7 @@ translate russian e06s06_fuck_arj_48cc876e:
 translate russian e06s06_fuck_arj_1babf1a9:
 
     # mh "Mmm. I love it, Baby... I can't get enough of how great you feel around me..."
-    mh "Ммм. Мне это нравится, детка... Я не могу насытиться тем, как хорошо ты себя чувствуешь рядом со мной..."
+    mh "Ммм. Мне это нравится, детка... Я не могу насытиться тем, как хорошо ты чувствуешь..."
 
 # game/code/e06/e06s06.rpy:843
 translate russian e06s06_fuck_arj_b5bb5db7:
@@ -1030,7 +1030,7 @@ translate russian e06s06_fuck_arj_c0212ea1:
 translate russian e06s06_fuck_arj_fbf7cd49:
 
     # arj "I'm getting close, Lyssa!"
-    arj "Я уже рядом, Лисса!"
+    arj "Лисса, я уже рядом!"
 
 # game/code/e06/e06s06.rpy:908
 translate russian e06s06_fuck_arj_04df102c:
@@ -1144,7 +1144,7 @@ translate russian e06s06_finish_2_d7eb3ba9:
 translate russian e06s06_finish_2_2eb4cba4:
 
     # mct "That's so hot. Oh shit... now it's my turn!"
-    mct "Это так горячо. О чёрт... теперь моя очередь!"
+    mct "Это так горячо. Ох чёрт... теперь моя очередь!"
 
 # game/code/e06/e06s06.rpy:1011
 translate russian e06s06_finish_2_04b6639e:
@@ -1204,7 +1204,7 @@ translate russian e06s06_last_talk_92a58df0:
 translate russian e06s06_last_talk_4aaf1506:
 
     # mc "Of course, Lyssa. Take things as slow as you'd like."
-    mc "Конечно, Лисса. Делайте так, как тебе удобно."
+    mc "Конечно, Лисса. Делай так, как тебе удобно."
 
 # game/code/e06/e06s06.rpy:1056
 translate russian e06s06_last_talk_449e0dc6:
@@ -1234,7 +1234,7 @@ translate russian strings:
 
     # game/code/e06/e06s06.rpy:609
     old "Fuck Lyssa and she fucks AmRose"
-    new "Трахнуть Лиссу, а она трахает Амроуз"
+    new "Вы трахнете Лиссу, а она трахнет Амроуз"
 
     # game/code/e06/e06s06.rpy:609
     old "Lyssa fucks you and you fuck AmRose"

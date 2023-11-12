@@ -28,7 +28,7 @@ translate russian e08s02_d57241b9:
 translate russian e08s02_fce6bb30:
 
     # mc "I'm glad chickens only eat feed. I don't want meat-eating chickens."
-    mc "Я рад, что куры едят только корм. Не хочу кур, которые питаются мясом."
+    mc "Как же я рад, что куры едят только корм. Не хочу кур-мясоедов."
 
 # game/code/e08/e08s02.rpy:90
 translate russian e08s02_cf51afe0:
@@ -40,7 +40,7 @@ translate russian e08s02_cf51afe0:
 translate russian e08s02_0d6f54b6:
 
     # arj "Yeah, you already have one person eating you, and that's enough."
-    arj "Да, у тебя уже есть человек, который тебя ест, этого достаточно."
+    arj "Да, у тебя уже есть человек, который тебя ест, и этого достаточно."
 
 # game/code/e08/e08s02.rpy:94
 translate russian e08s02_3bafe7f5:
@@ -64,7 +64,7 @@ translate russian e08s02_d9e41a2d:
 translate russian e08s02_10b4fd90:
 
     # arj "I mean it, that was really good. I haven't felt this good in a while."
-    arj "Что такого, это было очень приятно. Я давно себя так не чувствовала."
+    arj "А что такого, это было очень приятно. Я давно себя так не чувствовала."
 
 # game/code/e08/e08s02.rpy:108
 translate russian e08s02_fc02a2ca:
@@ -136,7 +136,7 @@ translate russian e08s02_3db30863:
 translate russian e08s02_676bbd3b:
 
     # mc "That's one downside of living out here. In the city, I had never seen a tornado or a hurricane."
-    mc "Это один из недостатков жизни здесь. В городе я никогда не видел ни торнадо, ни ураганов."
+    mc "Это один из недостатков жизни в этом районе. В городе я никогда не видел ни торнадо, ни ураганов."
 
 # game/code/e08/e08s02.rpy:134
 translate russian e08s02_4d52a5fd:
@@ -154,7 +154,7 @@ translate russian e08s02_060e40ef:
 translate russian e08s02_b67cc297:
 
     # arj "Well, I think they do know, that's why they came over. They're preparing for the storm too."
-    arj "Ну, я думаю, они уже знают, и именно поэтому и приходили. Они тоже готовятся к буре."
+    arj "Ну, я думаю, они уже знают, и именно поэтому они и приходили. Они тоже готовятся к буре."
 
 # game/code/e08/e08s02.rpy:142
 translate russian e08s02_b8de06d3:
@@ -178,13 +178,13 @@ translate russian e08s02_f3ad781a:
 translate russian e08s02_269f28f6:
 
     # arj "I assume they don't think it'd be that bad."
-    arj "Наверное, они считают, что будет не так уж и страшно."
+    arj "Наверное, они считают, что всё будет не так уж и плохо."
 
 # game/code/e08/e08s02.rpy:153
 translate russian e08s02_0b2d0da4:
 
     # mc "Well, they would know, they've been here a lot longer than we have."
-    mc "Ну, они должны знать, они здесь живут намного дольше нас."
+    mc "Ну, они то должны знать, они здесь живут намного дольше нас."
 
 # game/code/e08/e08s02.rpy:154
 translate russian e08s02_a5713ad3:
@@ -226,13 +226,13 @@ translate russian e08s02_9e365426:
 translate russian e08s02_063d1a03:
 
     # mc "She's on vacation in Japan. She sent me some photos of her on Fuji-san."
-    mc "Она на отдыхе в Японии. Она прислала мне несколько фотографий, где она на Фудзи-сан.\n\n{size=-10}(Фудзи-сан - вулкан Фудзияма){/size}"
+    mc "Она на отдыхе в Японии. Она прислала мне несколько фотографий, где она на Фудзи-сан.\n\n{size=-10}{i}(Фудзи-сан - вулкан Фудзияма){/i}{/size}"
 
 # game/code/e08/e08s02.rpy:168
 translate russian e08s02_a1326573:
 
     # mc "Apparently it's quite dirty there."
-    mc "Хотя, там довольно грязно."
+    mc "Там довольно грязно."
 
 # game/code/e08/e08s02.rpy:169
 translate russian e08s02_38b22955:
@@ -256,19 +256,19 @@ translate russian e08s02_4da58625:
 translate russian e08s02_cc07ae0a:
 
     # mc "I haven't really gotten a chance to talk to others now that I think about it."
-    mc "Я вот сейчас думаю об этом, и осознаю, что у меня не было особых возможностей поговорить с другими людьми."
+    mc "Я вот сейчас об этом думаю, и осознаю, что у меня не было особых возможностей поговорить с другими людьми."
 
 # game/code/e08/e08s02.rpy:175
 translate russian e08s02_8e788348:
 
     # arj "Shame there's no coffee shop or anything to talk to people around here. There is a library around here, though it's pretty empty most of the time."
-    arj "Жаль, что здесь нет кофейни или ещё чего-нибудь, где можно с кем-нибудь поговорить. Здесь есть библиотека, но большую часть времени там никого нет."
+    arj "Жаль, что здесь нет кофейни или ещё чего-нибудь, где можно было бы с кем-нибудь поговорить. Здесь есть библиотека, но большую часть времени там никого нет."
 
 # game/code/e08/e08s02.rpy:178
 translate russian e08s02_aacbae05:
 
     # mc "I mean, that's not such a bad thing, right?"
-    mc "Я имею в виду, это не так уж и плохо, правда?"
+    mc "Но вообще, это не так уж и плохо, верно?"
 
 # game/code/e08/e08s02.rpy:179
 translate russian e08s02_9654c5dc:
@@ -898,7 +898,7 @@ translate russian e08s02_scat_2ad228d9:
 translate russian e08s02_scat_ddb74642:
 
     # arj "It was clear if anyone knew about this, it'd be over, but I didn't practice, in Stacy's words, opsec."
-    arj "Было очевидно, что если бы об этом кто-нибудь узнал, то всё было бы кончено, но я не практиковала, если выражаться словами Стейси, \"OpSec\".\n\n{size=-10}(OpSec - Операционная безопасность - определённые алгоритмы, которые предпринимают для предотвращения утечки конфедициальной информации){/size}"
+    arj "Было очевидно, что если бы об этом кто-нибудь узнал, то всё было бы кончено, но я не практиковала, если выражаться словами Стейси, \"OpSec\".\n\n{size=-10}{i}(OpSec - Операционная безопасность - определённые алгоритмы, которые предпринимают для предотвращения утечки конфедициальной информации){/i}{/size}"
 
 # game/code/e08/e08s02.rpy:417
 translate russian e08s02_scat_32795bff:

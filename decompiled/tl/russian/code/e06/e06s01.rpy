@@ -34,7 +34,7 @@ translate russian e06s01_2ad5c857:
 translate russian e06s01_055c1548:
 
     # mc "Or worse, it's about to turn into a nightmare, and not the fun Tim Burton kind..."
-    mc "Или, что ещё хуже, что это вот-вот превратится в кошмар, причём не в такой веселый, как у Тима Бёртона...\n\n{size=-10}{i}(Тим Бёртон - американский кинорежиссёр){/size}"
+    mc "Или, что ещё хуже, что это вот-вот превратится в кошмар, причём не в такой весёлый, как у Тима Бёртона...\n\n{size=-10}{i}(Тим Бёртон - американский кинорежиссёр){/size}"
 
 # game/code/e06/e06s01.rpy:112
 translate russian e06s01_adf3e322:
@@ -52,13 +52,13 @@ translate russian e06s01_44306627:
 translate russian e06s01_cf10dbe1:
 
     # lc "You're the only one who supported me. Who stood by me."
-    lc "Ты единственный, кто поддержал меня. Кто остался рядом со мной."
+    lc "Ты единственный, кто меня поддержал. Кто остался рядом со мной."
 
 # game/code/e06/e06s01.rpy:117
 translate russian e06s01_e3fb20b7:
 
     # lc "I saw the look in that Judge's eyes each time she looked at me."
-    lc "Каждый раз, как Судья смотрела на меня, я чувствовала её взгляд."
+    lc "Каждый раз, когда на меня смотрела Судья, я чувствовала её взгляд."
 
 # game/code/e06/e06s01.rpy:118
 translate russian e06s01_dae00533:
@@ -82,7 +82,7 @@ translate russian e06s01_37ddab42:
 translate russian e06s01_fef40d9b:
 
     # lc "Haha. No... nothing like that. After being in that cell and then wearing these clothes again, I feel utterly disgusting."
-    lc "Хаха. Нет... ничего подобного. После пребывания в той камере, и снова надев эту одежду, я чувствую себя совершенно отвратительно."
+    lc "Хаха. Нет... ничего подобного. После той камеры, снова надев эту одежду, я чувствую себя совершенно отвратительно."
 
 # game/code/e06/e06s01.rpy:128
 translate russian e06s01_16d03227:
@@ -118,13 +118,13 @@ translate russian e06s01_3ebd63f1:
 translate russian e06s01_d3ad0144:
 
     # lc "Such a flatterer. I just threw this on."
-    lc "Какой льстец. Я просто накинула это."
+    lc "Какой льстец. Я просто это накинула."
 
 # game/code/e06/e06s01.rpy:158
 translate russian e06s01_7d8d1212:
 
     # lc "Didn't want you regretting anything and leaving."
-    lc "Не хотела, чтобы ты пожалел о случившемся и решил уйти."
+    lc "Не хотела, чтобы ты жалел о случившемся и хотел уйти."
 
 # game/code/e06/e06s01.rpy:161
 translate russian e06s01_7eaac46d:
@@ -160,7 +160,7 @@ translate russian e06s01_d4465dcc:
 translate russian e06s01_812193e1:
 
     # lc "There is no Fetish Locator without me telling Jerome about my secret."
-    lc "Никакого Фетиш Локатора не было бы, если бы я не рассказала Джерому о своём секрете."
+    lc "Не было бы никакого Фетиш Локатора, если бы я не рассказала Джерому о своём секрете."
 
 # game/code/e06/e06s01.rpy:177
 translate russian e06s01_200dcac1:
@@ -172,13 +172,13 @@ translate russian e06s01_200dcac1:
 translate russian e06s01_cdfb4896:
 
     # mc "It's like trying to catch a snowball after it's been tumbling downhill for ten minutes."
-    mc "Это всё равно, что пытаться поймать снежный ком, который уже десять минут катиться вниз с горы."
+    mc "Это всё равно, что пытаться поймать снежный ком, который уже десять минут катится вниз с горы."
 
 # game/code/e06/e06s01.rpy:181
 translate russian e06s01_d0468e36:
 
     # lc "I could have caught it. Maybe if I came clean to you... Instead of-"
-    lc "Я мог бы поймать его. Может быть, если бы я рассказала тебе правду... Вместо..."
+    lc "Я могла бы его поймать. Может быть, если бы я рассказала тебе правду... Вместо..."
 
 # game/code/e06/e06s01.rpy:184
 translate russian e06s01_d28de22e:
@@ -190,13 +190,13 @@ translate russian e06s01_d28de22e:
 translate russian e06s01_3006cfa2:
 
     # lc "I guess my phone is alive again."
-    lc "О, вроде мой телефон ожил."
+    lc "О, мой вроде телефон ожил."
 
 # game/code/e06/e06s01.rpy:200
 translate russian e06s01_310ee3d8:
 
     # mct "And that would be mine."
-    mct "Это мой."
+    mct "А вот это мой."
 
 # game/code/e06/e06s01.rpy:203
 translate russian e06s01_d11cf752:
@@ -226,7 +226,7 @@ translate russian e06s01_4b1825ec:
 translate russian e06s01_6be2eaf4:
 
     # lc "I need... I'm going to need your help with something, [mcname]..."
-    lc "Мне нужно... Мне кое с чем понадобится твоя помощь, [mcname]..."
+    lc "Мне нужно... [mcname], мне кое с чем понадобится твоя помощь..."
 
 # game/code/e06/e06s01.rpy:218
 translate russian e06s01_e59abd2a:
@@ -280,13 +280,13 @@ translate russian e06s01_9be5f820:
 translate russian e06s01_17ec13ae:
 
     # mc "I know that and you know that. But think of all the people who won't care about the difference."
-    mc "Я это знаю, и ты это знаешь. Но подумай обо всех тех людях, которых не будет волновать разница."
+    mc "Я это знаю, и ты это знаешь. Но подумай обо всех тех людях, которых не будет волновать эта разница."
 
 # game/code/e06/e06s01.rpy:240
 translate russian e06s01_6ddd330f:
 
     # mc "Besides... I think you enjoyed having my cock locked up in your own way. You can admit it."
-    mc "Кроме того... Я думаю, тебе понравилось, когда мой член был заперт по твоему желанию. Признай это."
+    mc "Кроме того... Мне кажется, тебе понравилось, когда мой член был заперт по твоему желанию. Признай это."
 
 # game/code/e06/e06s01.rpy:243
 translate russian e06s01_944d121e:
@@ -322,7 +322,7 @@ translate russian e06s01_efa636e5:
 translate russian e06s01_4486313b:
 
     # lc "Speaking of bumps, I... remember what I wanted to ask you, [mcname]."
-    lc "Кстати о препятствиях, я... вспомнила, о чём хотела тебя спросить, [макнейм]."
+    lc "Кстати о препятствиях, я... вспомнила, о чём хотела тебя спросить, [mcname]."
 
 # game/code/e06/e06s01.rpy:262
 translate russian e06s01_b873b9d9:
@@ -352,37 +352,37 @@ translate russian e06s01_2daa9175:
 translate russian e06s01_3c92b8d1:
 
     # lc "But... I thought, if you came with me to meet her. Maybe she will hear me out."
-    lc "Но... Я подумала, если бы ты сходил со мной на встречц с ней. Возможно, она меня выслушает."
+    lc "Но... Я подумала, если бы ты сходил со мной на встречу с ней. Возможно, она меня выслушает."
 
 # game/code/e06/e06s01.rpy:273
 translate russian e06s01_d883f10f:
 
     # mc "Haha. You don't want to lock her up in a cage to make her listen to your side?"
-    mc "Хаха. Ты же не хочешь запереть её в клетку, чтобы заставить её выслушать тебя?"
+    mc "Хаха. Ты же не хочешь запереть её в клетку, чтобы заставить её тебя слушать?"
 
 # game/code/e06/e06s01.rpy:276
 translate russian e06s01_1a5f1b10:
 
     # lc "Nope. And hey..."
-    lc "Не-а. И эй..."
+    lc "Неа. И, эй..."
 
 # game/code/e06/e06s01.rpy:277
 translate russian e06s01_f7cce481:
 
     # lc "Total forgiveness means forgiving me for keeping you that cell while I was talking."
-    lc "Полное прощение означает простить меня за то, что я держала тебя в клетке, пока я говорила."
+    lc "Полное прощение означает простить меня за то, что я держала тебя в камере, пока я говорила."
 
 # game/code/e06/e06s01.rpy:280
 translate russian e06s01_fa0bce90:
 
     # mc "Of course. Just don't be surprised if I'm more animal than man when we finally make love."
-    mc "Конечно. Только не удивляйся, если я буду больше похож на животное, чем на человека, когда мы наконец займёмся любовью."
+    mc "Конечно. Только не удивляйся, если я больше буду похож на животное, чем на человека, когда мы наконец займёмся любовью."
 
 # game/code/e06/e06s01.rpy:283
 translate russian e06s01_22085584:
 
     # lc "I would never hold that against you. In fact... I'm a little excited just to see what you're capable of..."
-    lc "Я бы никогда не стала тебя сдерживать. На самом деле... я немного возбудилась только лишь от лицезрения того, на что ты способен..."
+    lc "Я бы никогда не стала тебя сдерживать. На самом деле... я немного возбуждаюсь только лишь от лицезрения того, на что ты способен..."
 
 # game/code/e06/e06s01.rpy:284
 translate russian e06s01_d45dc55a:
@@ -424,7 +424,7 @@ translate russian strings:
 
     # game/code/e06/e06s01.rpy:12
     old "Choose optional characters for this ending"
-    new "Выберите дополнительных персонажей для этой концовки."
+    new "Выберите дополнительных персонажей для этой концовки"
 
     # game/code/e06/e06s01.rpy:77
     old "Ending #6\nQueen's Harem"

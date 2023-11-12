@@ -16,7 +16,7 @@ translate russian e06s02_04c67d06:
 translate russian e06s02_993c9720:
 
     # mct "I really hope Min isn't calling security on us."
-    mct "Я очень надеюсь, что Мин не вызовет к нам охрану."
+    mct "Я очень надеюсь, что Мин не вызовет охрану."
 
 # game/code/e06/e06s02.rpy:61
 translate russian e06s02_f4a250c1:
@@ -88,7 +88,7 @@ translate russian e06s02_bb114a5b:
 translate russian e06s02_f526fd43:
 
     # lc "I can't even get my best friend to see that I know I made a huge mistake."
-    lc "Я даже свою лучшую подругу не могу убедить, что я знаю, что совершила огромную ошибку."
+    lc "Я даже свою лучшую подругу не могу убедить в том, что я знаю, что совершила огромную ошибку."
 
 # game/code/e06/e06s02.rpy:122
 translate russian e06s02_805f069e:
@@ -148,7 +148,7 @@ translate russian e06s02_4769d6f1:
 translate russian e06s02_0b12f8b9:
 
     # mc "But she's not even really listening to you right now."
-    mc "Но сейчас она тебя не очень слушает."
+    mc "Но сейчас она тебя не особо слушает."
 
 # game/code/e06/e06s02.rpy:145
 translate russian e06s02_03fb93dd:
@@ -166,7 +166,7 @@ translate russian e06s02_d7816bd5:
 translate russian e06s02_aed3a517:
 
     # mc "I think there's a-"
-    mc "Я думаю, что там..."
+    mc "Мне кажется, есть вариа..."
 
 # game/code/e06/e06s02.rpy:160
 translate russian e06s02_a0faa57d:
@@ -238,7 +238,7 @@ translate russian e06s02_cfa3eceb:
 translate russian e06s02_3c306ef9:
 
     # mes "*Sniff* That judge must have been huffing glue in their chambers. Lydia might be innocent in the eyes of the law..."
-    mes "*всхлипывает* Должно быть, эта судья нюнюхалась клеем в своём кабинете. Лидия может и невиновна в глазах закона..."
+    mes "*всхлипывает* Скорее всего, эта судья в своём кабинете надышалась клеем. Лидия может и невиновна в глазах закона..."
 
 # game/code/e06/e06s02.rpy:200
 translate russian e06s02_de7714ea:
@@ -256,7 +256,7 @@ translate russian e06s02_29994ac1:
 translate russian e06s02_ebb6ca1c:
 
     # lc "Oh no!"
-    lc "Оу, нет!"
+    lc "О нет!"
 
 # game/code/e06/e06s02.rpy:217
 translate russian e06s02_f42241db:
@@ -274,7 +274,7 @@ translate russian e06s02_898f3335:
 translate russian e06s02_af03f88c:
 
     # mes "*Chuckles* I've been keeping it cold. A brisk polar bear swim in the morning does wonders for your brain."
-    mes "*хихикает* Я поддерживаю там низкую температуру. Бодрая закалка по утрам творит чудеса с мозгом." 
+    mes "*смеётся* Я поддерживаю там низкую температуру. Бодрая закалка по утрам творит чудеса с мозгом." 
 
 # game/code/e06/e06s02.rpy:232
 translate russian e06s02_52e54ea8:
@@ -298,7 +298,7 @@ translate russian e06s02_inside_33ca22c3:
 translate russian e06s02_inside_3055d669:
 
     # lc "Thank you. And Min-"
-    lc "Спасибо. И Мин..."
+    lc "Спасибо тебе. И Мин..."
 
 # game/code/e06/e06s02.rpy:259
 translate russian e06s02_inside_38b32cd4:
@@ -358,7 +358,7 @@ translate russian e06s02_inside_2c9b3f1e:
 translate russian e06s02_inside_a0b624f6:
 
     # mes "I got you some dry clothes."
-    mes "Я приготовила для тебе сухую одежду."
+    mes "Я приготовила для тебя сухую одежду."
 
 # game/code/e06/e06s02.rpy:289
 translate russian e06s02_inside_12dae7f2:
@@ -412,7 +412,7 @@ translate russian e06s02_inside_a115f9b2:
 translate russian e06s02_inside_a741581f:
 
     # mes "Be honest with me, [mcname]."
-    mes "Будь со мной честен, [mcname]."
+    mes "[mcname], будь со мной честен."
 
 # game/code/e06/e06s02.rpy:323
 translate russian e06s02_inside_0c764b95:
@@ -424,7 +424,7 @@ translate russian e06s02_inside_0c764b95:
 translate russian e06s02_inside_80be8b53:
 
     # mes "You've truly forgiven her?"
-    mes "Ты правда простил её?"
+    mes "Ты правда её простил?"
 
 # game/code/e06/e06s02.rpy:327
 translate russian e06s02_inside_ffc7e92f:
@@ -454,7 +454,7 @@ translate russian e06s02_inside_6656d334:
 translate russian e06s02_inside_cd98dd5d:
 
     # mc "It's not up to your family what you do here, Min. This is your decision."
-    mc "От твоей семьи не зависит от то, что ты здесь будешь делать, Мин. Это твоё решение."
+    mc "От твоей семьи не зависит то, что ты здесь будешь делать, Мин. Это твоё решение."
 
 # game/code/e06/e06s02.rpy:342
 translate russian e06s02_inside_418eb0a1:
@@ -472,19 +472,19 @@ translate russian e06s02_inside_86dcc93d:
 translate russian e06s02_inside_95eef4a4:
 
     # mc "You two were so close. It's hitting Lydia hard."
-    mc "Вы двое были очень близки. Это сильно ранит Лидию."
+    mc "Вы очень близки. Это сильно ранит Лидию."
 
 # game/code/e06/e06s02.rpy:351
 translate russian e06s02_inside_ac67bcd1:
 
     # mes "My family has been calling since word got out about her being in jail."
-    mes "Моя семья постояно мне звонит с тех пор, как стало известно, что она попала в тюрьму."
+    mes "С тех пор, как стало известно, что она попала в тюрьму, мне постоянно названивает моя семья."
 
 # game/code/e06/e06s02.rpy:352
 translate russian e06s02_inside_59e30423:
 
     # mes "They want me to go back to Korea and never leave."
-    mes "Они хотят, чтобы я вернулась в Корею и никогда не уезжала."
+    mes "Они хотят, чтобы я вернулась в Корею и никогда больше оттуда не уезжала."
 
 # game/code/e06/e06s02.rpy:355
 translate russian e06s02_inside_11455b53:
@@ -514,7 +514,7 @@ translate russian e06s02_inside_81aef917:
 translate russian e06s02_inside_48001862:
 
     # lc "Please don't go, Min."
-    lc "Пожалуйста, не уезжай, Мин."
+    lc "Мин, пожалуйста, не уезжай."
 
 # game/code/e06/e06s02.rpy:371
 translate russian e06s02_inside_414e4e6f:
@@ -526,13 +526,13 @@ translate russian e06s02_inside_414e4e6f:
 translate russian e06s02_inside_83bf5d23:
 
     # mes "I'm so sorry. You just look ridiculous, Lydia."
-    mes "Простите. Ты просто очень смешно выглядишь, Лидия."
+    mes "Прости. Ты просто очень смешно выглядишь, Лидия."
 
 # game/code/e06/e06s02.rpy:377
 translate russian e06s02_inside_2bc8af86:
 
     # mes "I bet your nipples could cut glass right about now."
-    mes "Могу поспорить, что твои соски сейчас могут разрезать стекло."
+    mes "Готова поспорить, что твои соски сейчас могут разрезать стекло."
 
 # game/code/e06/e06s02.rpy:380
 translate russian e06s02_inside_90a5de01:
@@ -568,7 +568,7 @@ translate russian e06s02_inside_af9528f7:
 translate russian e06s02_inside_06c00b8b:
 
     # mes "And I wasn't planning to see you for a while. Maybe even forever."
-    mes "И я не планировала с тобой видеться какое-то время. Может быть, даже никогда."
+    mes "И я не планировала с тобой видеться ещё какое-то время. Может быть, даже никогда."
 
 # game/code/e06/e06s02.rpy:393
 translate russian e06s02_inside_827bd663:
@@ -592,7 +592,7 @@ translate russian e06s02_inside_a755748b:
 translate russian e06s02_inside_5ae2ee77:
 
     # mes "Few things can match that level of level of freedom and intimacy. Certainly never anything Squizzle experienced."
-    mes "Мало что может сравниться с тем уровнем свободы и близости. Сквизли, определённо, никогда ничего подобного не испытывала."
+    mes "Мало что может сравниться с тем уровнем свободы и близости. Сквизли, определённо, никогда не испытывала ничего подобного."
 
 # game/code/e06/e06s02.rpy:402
 translate russian e06s02_inside_ad21e7ac:
@@ -604,7 +604,7 @@ translate russian e06s02_inside_ad21e7ac:
 translate russian e06s02_inside_12076c0c:
 
     # mes "For that happiness, it kind of makes sense that there would be some sadness to balance things out."
-    mes "В это счастье имеет смысл добавить немного грусти, чтобы сбалансировать ситуацию."
+    mes "Чтобы сбалансировать ситуацию, имеет смысл добавить в эту бочку мёда ложечку дёгтя."
 
 # game/code/e06/e06s02.rpy:406
 translate russian e06s02_inside_b016c83e:
@@ -616,19 +616,19 @@ translate russian e06s02_inside_b016c83e:
 translate russian e06s02_inside_2ccbd619:
 
     # lc "I just want to say how sorry I am, Min. I never meant to hurt you. And I don't want you to leave."
-    lc ""
+    lc "Мин, я просто хочу сказать, что мне очень жаль. Я никогда не хотела причинить тебе боль. И я не хочу, чтобы ты уезжала."
 
 # game/code/e06/e06s02.rpy:411
 translate russian e06s02_inside_b01c2ee6:
 
     # lc "I know it won't count for much, but once I realized how far things had gotten, I turned myself in and explained what was happening."
-    lc "Я просто хочу сказать, что мне жаль, Мин. Я никогда не хотела причинить тебе боль. И я не хочу, чтобы ты уезжала."
+    lc "Я знаю, что это не будет иметь большого значения, но как только я поняла, как далеко всё зашло, я сдалась полиции и объяснила, что происходит."
 
 # game/code/e06/e06s02.rpy:413
 translate russian e06s02_inside_ba401dd3:
 
     # lc "I should have known Fetish Locator would turn out wicked. It's not like its origin was completely pure."
-    lc "Я должна была понять, что Фетиш Локатор превратится в нечто ужасное. Ведь его происхождение не было полностью чистым."
+    lc "Я должна была понять, что Фетиш Локатор превратится в нечто ужасное. Ведь его происхождение не было чем-то классическим."
 
 # game/code/e06/e06s02.rpy:416
 translate russian e06s02_inside_cafdbda1:
@@ -664,7 +664,7 @@ translate russian e06s02_inside_a9ed4e36:
 translate russian e06s02_inside_38bf30c7:
 
     # mes "*Chuckle* I'll admit, a part of me did get a little bored always being first."
-    mes "*смеётся* Признаюсь, какой-то моей части надоело всегда быть первой."
+    mes "*смеётся* Признаюсь, какой-то части меня надоело всегда быть первой."
 
 # game/code/e06/e06s02.rpy:430
 translate russian e06s02_inside_339aaba1:
@@ -748,7 +748,7 @@ translate russian e06s02_inside_7acf4641:
 translate russian e06s02_inside_1ccb6013:
 
     # lc "Oh well... I figured no matter what, you couldn't resist helping me after I made a fool of myself."
-    lc "Ох, ну... Я подумала, что если я выставлю себя на посмещище, ты после этого не сможешь мне отказать."
+    lc "Ох, ну... Я подумала, что если я выставлю себя на посмешище, то после этого ты не сможешь мне отказать."
 
 # game/code/e06/e06s02.rpy:478
 translate russian e06s02_inside_9f413db3:
@@ -778,7 +778,7 @@ translate russian e06s02_inside_a58d0e37:
 translate russian e06s02_inside_14982f2a:
 
     # mes "It's been more than a month since I've seen you. And if you don't give me some dick right now, I'm kicking you both out of my house."
-    mes "Прошло больше месяца с тех пор, как я вас видела. И если вы сейчас не дадите мне какой-нибудь член, я выкину вас обоих из своего дома."
+    mes "Уже прошло больше месяца, с нашей последней встречи. И если вы прямо сейчас не дадите мне какой-нибудь член, я выкину вас обоих из своего дома."
 
 # game/code/e06/e06s02.rpy:507
 translate russian e06s02_inside_c760cdf3:
@@ -808,7 +808,7 @@ translate russian e06s02_inside_87ab8cd2:
 translate russian e06s02_inside_5534bdd1:
 
     # lc "I don't think he wants that. And neither do I."
-    lc "Не думаю, что он этого хочет. В общем-то, и я тоже."
+    lc "Не думаю, что он этого хочет. Как и я, в общем-то."
 
 # game/code/e06/e06s02.rpy:530
 translate russian e06s02_inside_e47c4076:
@@ -844,7 +844,7 @@ translate russian e06s02_inside_7ae09767:
 translate russian e06s02_inside_12a5aab0:
 
     # lc "God. This is making me so wet... I can hardly wait..."
-    lc "Боже. Я такая мокрая... Я едва могу держаться..."
+    lc "Боже. Я такая мокрая... Я едва могу сдерживаться..."
 
 # game/code/e06/e06s02.rpy:580
 translate russian e06s02_inside_0669c0f3:
@@ -904,7 +904,7 @@ translate russian e06s02_bj_e0c9be44:
 translate russian e06s02_bj_762345b2:
 
     # mc "Your wishes my command."
-    mc "Твои желания - закон."
+    mc "Твоё желание - закон."
 
 # game/code/e06/e06s02.rpy:660
 translate russian e06s02_bj_d32d92d6:
@@ -922,13 +922,13 @@ translate russian e06s02_bj_22743387:
 translate russian e06s02_bj_71d15ac7:
 
     # mes "I've missed your cock so fucking much, [mcname]."
-    mes "Я чертовски скучала по твоему члену, [mcname]."
+    mes "[mcname], я чертовски скучала по твоему члену."
 
 # game/code/e06/e06s02.rpy:684
 translate russian e06s02_bj_2c66c77f:
 
     # lc "Did you miss anything else?"
-    lc "Ты упустила что-нибудь ещё?"
+    lc "Ты ничего не пропустила?"
 
 # game/code/e06/e06s02.rpy:687
 translate russian e06s02_bj_23aa3b29:
@@ -1054,7 +1054,7 @@ translate russian e06s02_sex_632589fb:
 translate russian e06s02_sex_d29c183d:
 
     # lc "Incredible. He's been leaking precum ever since I started."
-    lc "Невероятно. С тех пор, как я начала, у него начала подтекать сперма."
+    lc "Невероятно. С тех пор, как я начала, у него уже начала подтекать сперма."
 
 # game/code/e06/e06s02.rpy:804
 translate russian e06s02_sex_fd9a6df5:
@@ -1066,7 +1066,7 @@ translate russian e06s02_sex_fd9a6df5:
 translate russian e06s02_sex_255368e0:
 
     # mes "Oh fuck. That's it. You're driving me crazy, [mcname]!"
-    mes "Ох, бля. Вот оно. Ты сводишь меня с ума, [mcname]!"
+    mes "Ох, бля. Вот оно. [mcname], ты сводишь меня с ума!"
 
 # game/code/e06/e06s02.rpy:822
 translate russian e06s02_sex_85e59949:
@@ -1084,7 +1084,7 @@ translate russian e06s02_sex_87ef72ce:
 translate russian e06s02_sex_d1be316a:
 
     # mes "Kiss me, sir. Kiss me and fuck me."
-    mes "Поцелуйте меня, сэр. Поцелуйте и выебите меня."
+    mes "Поцелуйте меня, Сэр. Поцелуйте и выебите меня."
 
 # game/code/e06/e06s02.rpy:833
 translate russian e06s02_sex_72e0d876:
@@ -1138,7 +1138,7 @@ translate russian e06s02_sex_f0d4c776:
 translate russian e06s02_sex_a86a90f4:
 
     # mes "Well yes. I haven't been fucked in more than a month."
-    mes "Естественно. Я не трахалась уже больше месяца."
+    mes "Естественно. Я уже больше месяца не трахалась."
 
 # game/code/e06/e06s02.rpy:859
 translate russian e06s02_sex_8079190a:
@@ -1150,7 +1150,7 @@ translate russian e06s02_sex_8079190a:
 translate russian e06s02_sex_9ff35125:
 
     # mes "Don't you fucking dare..."
-    mes "Даже, блядь, не смей..."
+    mes "Даже, не смей, блядь..."
 
 # game/code/e06/e06s02.rpy:870
 translate russian e06s02_sex_44279e60:
@@ -1162,7 +1162,7 @@ translate russian e06s02_sex_44279e60:
 translate russian e06s02_sex_b16329a8:
 
     # mes "Yes. Please sir. Fuck me harder. Don't hold back!"
-    mes "Да. Пожалуйста, сэр. Трахните меня сильнее. Не сдерживайтесь!"
+    mes "Да. Пожалуйста, Сэр. Трахните меня сильнее. Не сдерживайтесь!"
 
 # game/code/e06/e06s02.rpy:876
 translate russian e06s02_sex_21394d7b:
@@ -1192,7 +1192,7 @@ translate russian e06s02_sex_6a4e2a0c:
 translate russian e06s02_sex_e12b8754:
 
     # mes "You're getting so into it, Lydia."
-    mes "Ты так этим увлеклась, Лидия."
+    mes "Лидия, ты этим так увлеклась."
 
 # game/code/e06/e06s02.rpy:892
 translate russian e06s02_sex_868859cb:
@@ -1246,7 +1246,7 @@ translate russian e06s02_sex_9d9492e6:
 translate russian e06s02_sex_43e2a595:
 
     # lc "I think I'm getting good at translating Min's words when her mouth is full of pussy."
-    lc "Думаю, я могу переводить слова Мин, когда её рот забит кисками."
+    lc "Думаю, я смогу переводить слова Мин, когда её рот забит кисками."
 
 # game/code/e06/e06s02.rpy:923
 translate russian e06s02_sex_03993b2e:
@@ -1372,19 +1372,19 @@ translate russian e06s02_sex_c353c64b:
 translate russian e06s02_sex_aaf4f8ec:
 
     # lc "*Panting* I will... very soon."
-    lc "*тяжело дышит Я скоро... очень скоро.*"
+    lc "*тяжело дышит* Я скоро... очень скоро."
 
 # game/code/e06/e06s02.rpy:1046
 translate russian e06s02_sex_05a75e57:
 
     # mes "Yes... keep knocking on my door, [mcname]!"
-    mes "Да... продолжай ломиться в мою дверь, [mcname]"
+    mes "Да... продолжай ломиться в мою дверь, [mcname]!"
 
 # game/code/e06/e06s02.rpy:1050
 translate russian e06s02_sex_9b9c29e2:
 
     # mes "Please... let me cum, Lydia. I feel like my brain is melting."
-    mes "Пожалуйста... разреши мне кончить, Лидия. Я чувствую как плавится мой мозг."
+    mes "Пожалуйста... Лидия, разреши мне кончить. Я чувствую как плавится мой мозг."
 
 # game/code/e06/e06s02.rpy:1053
 translate russian e06s02_sex_a57d201d:
@@ -1396,7 +1396,7 @@ translate russian e06s02_sex_a57d201d:
 translate russian e06s02_sex_681b46c9:
 
     # lc " But I think we're going to have to work on your endurance."
-    lc "Но я думаю, нам придётся поработать над твоей выносливостью."
+    lc "Но я думаю, нам ещё придётся поработать над твоей выносливостью."
 
 # game/code/e06/e06s02.rpy:1059
 translate russian e06s02_sex_2d78a730:
@@ -1450,7 +1450,7 @@ translate russian e06s02_sex_618acf43:
 translate russian e06s02_sex_1430ec61:
 
     # mc "That felt incredible. I think you milked me dry, Min."
-    mc "Это было невероятно. Кажется, ты выдоила меня досуха, Мин."
+    mc "Это было невероятно. Мин, кажется, ты выдоила меня досуха."
 
 # game/code/e06/e06s02.rpy:1101
 translate russian e06s02_sex_e55d83b4:
@@ -1486,7 +1486,7 @@ translate russian e06s02_sex_f7a5e610:
 translate russian e06s02_sex_fa5295ee:
 
     # mes "Mmm. That sounds perfect."
-    mes "Ммм. Звучит идеально."
+    mes "Ммм. Звучит замечательно."
 
 # game/code/e06/e06s02.rpy:1134
 translate russian e06s02_sex_4d1ce34d:
@@ -1516,7 +1516,7 @@ translate russian e06s02_sex_2ed4c0f4:
 translate russian e06s02_sex_f7a873ae:
 
     # mes "But try not to worry, Lydia. In the end, I'm sure you'll feel better about everything."
-    mes "Но постарайся не волноваться, Лидия. В конце концов, я уверена, ты станет лучше."
+    mes "Но, Лидия, постарайся не волноваться. В конце концов, я уверена, тебе станет лучше."
 
 # game/code/e06/e06s02.rpy:1146
 translate russian e06s02_sex_b13a261f:
@@ -1528,7 +1528,7 @@ translate russian e06s02_sex_b13a261f:
 translate russian e06s02_sex_6e3fb5a0:
 
     # mes "Of course I am."
-    mes "Конечно права."
+    mes "Конечно я права."
 
 # game/code/e06/e06s02.rpy:1151
 translate russian e06s02_sex_cfdfa501:
@@ -1546,7 +1546,7 @@ translate russian e06s02_sex_0dc69c3d:
 translate russian e06s02_sex_bd6c66f2:
 
     # lc "Why don't you come stay with us, Min?"
-    lc "Почему бы тебе не остаться с нами, Мин?"
+    lc "Мин, почему бы тебе не остаться с нами?"
 
 # game/code/e06/e06s02.rpy:1163
 translate russian e06s02_sex_86368cbc:

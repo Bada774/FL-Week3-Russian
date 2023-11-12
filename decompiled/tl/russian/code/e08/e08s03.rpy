@@ -592,7 +592,7 @@ translate russian e08s03_c572e49f:
 translate russian e08s03_68c0cadb:
 
     # arj "I imagine you'd get transported to Oz."
-    arj "Думаю, ты бы попал в страну Оз.\n\n{size=-10}(Отсылка к сказке \"Удивительный волшебник из страны Оз\" американского писателя Лаймена Фрэнка Баума){/size}"
+    arj "Думаю, ты бы попал в страну Оз.\n\n{size=-10}{i}Отсылка к сказке \"Удивительный волшебник из страны Оз\" американского писателя Лаймена Фрэнка Баума){/i}{/size}"
 
 # game/code/e08/e08s03.rpy:295
 translate russian e08s03_3f7bb0bf:
@@ -658,7 +658,7 @@ translate russian e08s03_741ba693:
 translate russian e08s03_a72f2e0e:
 
     # arj "Waiting for Death. It's like Waiting for Godot, except death actually appears."
-    arj "В ожидании Смерти. Это как \"В ожидании Годо\", только смерть действительно придёт.\n\n{size=-10}(В ожидании Годо - пьеса французкого драматурга Сэмюэля Беккета){/size}"
+    arj "В ожидании Смерти. Это как \"В ожидании Годо\", только смерть действительно придёт.\n\n{size=-10}{i}(В ожидании Годо - пьеса французкого драматурга Сэмюэля Беккета){/i}{/size}"
 
 # game/code/e08/e08s03.rpy:319
 translate russian e08s03_b4bb20be:

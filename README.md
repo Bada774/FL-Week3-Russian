@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center"><b><a href="https://github.com/Bada774/FL-Week3-Russian/releases/download/v3.0.29/scripts.zip">Скачать последний релиз</a></b></h3>
+<h3 align="center"><b><a href="https://github.com/Bada774/FL-Week3-Russian/releases/latest">Скачать последний релиз</a></b></h3>
 
 <h4 align="center"><b><a href="https://github.com/Bada774/FL-Week3-Russian/releases/">Все версии</a></b></h4>
 
@@ -36,6 +36,7 @@
 <h3 align="center"><b>История обновлений:</b></h3>
 
 <ul>
+    <li><b><i>12.11.2023 v.3.0.29: </i></b>Критические исправления перевода</li>
     <li><b><i>28.10.2023 v.3.0.29: </i></b>Перевод опубликован</li>
 </ul>
 

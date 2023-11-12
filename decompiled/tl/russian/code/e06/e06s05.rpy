@@ -34,7 +34,7 @@ translate russian e06s05_55217b27:
 translate russian e06s05_5c6224fd:
 
     # sy "We were going to hire a stripper or escort or something..."
-    sy "Мы собирались нанять стриптизёршу, или эскортницу, или что-то в этом роде..."
+    sy "Мы собирались нанять стриптизёршу, или эскортницу, или кого-то в этом роде..."
 
 # game/code/e06/e06s05.rpy:107
 translate russian e06s05_73eb2e38:
@@ -58,19 +58,19 @@ translate russian e06s05_818db14c:
 translate russian e06s05_44fa13ec:
 
     # arj "Just this way."
-    arj "Прямо сюда."
+    arj "Сюда."
 
 # game/code/e06/e06s05.rpy:121
 translate russian e06s05_d61c9b7b:
 
     # lc "Should I really be here? The bride usually isn't at the bachelor party."
-    lc "Мне точно нужно быть здесь? Невеста обычно не присутствует  на мальчишнике."
+    lc "Мне точно нужно здесь быть? Невесты обычно не присутствуют на мальчишниках."
 
 # game/code/e06/e06s05.rpy:123
 translate russian e06s05_fa0a9567:
 
     # arj "You are going to love this - if half of what I've heard about you is true."
-    arj "Тебе это понравится - если половина того, что я о тебе слышала, правда."
+    arj "Тебе это понравится - если хотя быыы половина того, что я о тебе слышала, правда."
 
 # game/code/e06/e06s05.rpy:124
 translate russian e06s05_4871923e:
@@ -118,7 +118,7 @@ translate russian e06s05_9d47af52:
 translate russian e06s05_f2cb8f78:
 
     # mes "Maybe... now that I know you're into that."
-    mes "Возможно... теперь, когда я знаю, что тебе это нравится."
+    mes "Возможно... во всяком случае, теперь я знаю, что тебе это нравится."
 
 # game/code/e06/e06s05.rpy:150
 translate russian e06s05_ad485f59:
@@ -160,7 +160,7 @@ translate russian e06s05_7af77e4e:
 translate russian e06s05_18c9ef3d:
 
     # arj "I hadn't thought of that. Just be quiet and enjoy the show."
-    arj "Я об этом не подумала. Просто будь потише и наслаждайся шоу."
+    arj "Вообще не собиралась. Просто будь потише и наслаждайся шоу."
 
 # game/code/e06/e06s05.rpy:167
 translate russian e06s05_1e08ecfc:
@@ -202,13 +202,13 @@ translate russian e06s05_334a0fbe:
 translate russian e06s05_cd0ee247:
 
     # mc "I guess that explains a few things. What's with the cross and such?"
-    mc "Думаю, это объясняет несколько вещей. Что это ещё за крест и тому подобное?"
+    mc "Думаю, это объясняет некоторые вещи. Что это за крест и всё остальное?"
 
 # game/code/e06/e06s05.rpy:184
 translate russian e06s05_d961b307:
 
     # mes "They mostly shoot erotica, bdsm, artistic nudes, and that sort of thing."
-    mes "В основном они снимают эротику, бдсм, художественное ню и тому подобное."
+    mes "В основном они снимают эротику, БДСМ, художественное ню и тому подобное."
 
 # game/code/e06/e06s05.rpy:187
 translate russian e06s05_2d4ac9ad:
@@ -256,7 +256,7 @@ translate russian e06s05_show_start_87f6709b:
 translate russian e06s05_show_start_9eb181ba:
 
     # sy "The Woman Of All Your Dreams!"
-    sy "Женщина Твоей Мечты!"
+    sy "Женщина Вашей Мечты!"
 
 # game/code/e06/e06s05.rpy:213
 translate russian e06s05_show_start_ba6e8f06:
@@ -322,13 +322,13 @@ translate russian e06s05_show_start_c1014cd5:
 translate russian e06s05_show_start_ca00f03b:
 
     # sy "Believe me - the pleasure is all mine."
-    sy "Поверь - удовольствие всё моё."
+    sy "Поверь - для меня это удовольствие."
 
 # game/code/e06/e06s05.rpy:260
 translate russian e06s05_show_start_213ce832:
 
     # dd "I bet. Are you shaking?"
-    dd "Бьюсь об заклад. Ты дрожишь?"
+    dd "Готова поспроить. Ты что, дрожишь?"
 
 # game/code/e06/e06s05.rpy:262
 translate russian e06s05_show_start_37e56182:
@@ -364,7 +364,7 @@ translate russian e06s05_show_start_ffb760b6:
 translate russian e06s05_show_start_7677cbb5:
 
     # mct "Damn. Daisy is really fucking great at this."
-    mct "Проклятmе. Дейзи чертовски хороша в этом."
+    mct "Проклятье. Дейзи в этом чертовски хороша."
 
 # game/code/e06/e06s05.rpy:280
 translate russian e06s05_show_start_7988ac39:
@@ -388,7 +388,7 @@ translate russian e06s05_show_start_8ac8d27e:
 translate russian e06s05_show_start_947135ff:
 
     # dd "We'll see. I'm thinking this might be a one-and-done kinda gig."
-    dd "Посмотрим. Я думаю, что это одноразовый концерт."
+    dd "Посмотрим. Скорее всего, это одноразовый концерт."
 
 # game/code/e06/e06s05.rpy:291
 translate russian e06s05_show_start_a1568630:
@@ -430,13 +430,13 @@ translate russian e06s05_show_start_fb144171:
 translate russian e06s05_show_start_92327a42:
 
     # mc "Um, yeah. I forget, have you met?"
-    mc "Эм, да. Я забыл, вы встречались?"
+    mc "Эм, да. Я забыл, вы уже встречались?"
 
 # game/code/e06/e06s05.rpy:308
 translate russian e06s05_show_start_503ff245:
 
     # dd "Lydia? A couple times. Seems like a wonderful woman."
-    dd "Лидия? Пару раз. Кажется, она замечательная женщина."
+    dd "С Лидией? Пару раз. Кажется, она замечательная женщина."
 
 # game/code/e06/e06s05.rpy:309
 translate russian e06s05_show_start_0b0bfbcf:
@@ -448,7 +448,7 @@ translate russian e06s05_show_start_0b0bfbcf:
 translate russian e06s05_show_start_70256050:
 
     # mc "I'm sure she's looking forward to it - and wishes she could watch."
-    mc "Я уверен, что она с нетерпением ждёт этого - и жалеет, что не может посмотреть."
+    mc "Я уверен, что она с нетерпением этого ждёт - и жалеет, что не может посмотреть."
 
 # game/code/e06/e06s05.rpy:316
 translate russian e06s05_show_start_788f8f37:
@@ -544,7 +544,7 @@ translate russian e06s05_show_start_7ff77b59:
 translate russian e06s05_show_start_cf20eca5:
 
     # mes "Well, my first thought is to bind her ankles together with that rope over there."
-    mes "Ну, моя первая мысль = связать ей лодыжки вон той верёвкой."
+    mes "Ну, моя первая мысль - связать ей лодыжки вон той верёвкой."
 
 # game/code/e06/e06s05.rpy:355
 translate russian e06s05_show_start_7000a8f9:
@@ -616,13 +616,13 @@ translate russian e06s05_show_start_fee13012:
 translate russian e06s05_show_start_d1683a99:
 
     # mc "In that case, I don't think we'll be needing this."
-    mc "В таком случае, я не думаю, что нам это понадобится."
+    mc "В таком случае, не думаю, что нам это понадобится."
 
 # game/code/e06/e06s05.rpy:383
 translate russian e06s05_show_start_9b0e312e:
 
     # mes "It might just get in the way."
-    mes "Это может просто помешать."
+    mes "Это может помешать."
 
 # game/code/e06/e06s05.rpy:402
 translate russian e06s05_mes_cane_4649b405:
@@ -634,7 +634,7 @@ translate russian e06s05_mes_cane_4649b405:
 translate russian e06s05_mes_cane_61f4ce8f:
 
     # mes "Would you like a gag before we get started?"
-    mes "Может, тебе нужно заткнуть рот, прежде чем мы начнём?"
+    mes "Тебе нужно заткнуть рот, прежде чем мы начнём?"
 
 # game/code/e06/e06s05.rpy:407
 translate russian e06s05_mes_cane_0fff072d:
@@ -658,7 +658,7 @@ translate russian e06s05_mes_cane_0abf10ca:
 translate russian e06s05_mes_cane_80f0e2a9:
 
     # mc "Seriously, are you a Bond villain or something?"
-    mc "Серьёзно, ты что ли злодей из фильмов про Бонда?"
+    mc "Серьёзно, ты что, злодей из фильмов про Бонда?\n\n{size=-10}{i}(Джеймс Бонд - главный персонаж романов и фильмов про супер-шпиона){/i}{/size}"
 
 # game/code/e06/e06s05.rpy:416
 translate russian e06s05_mes_cane_b52ad568:
@@ -766,7 +766,7 @@ translate russian e06s05_mes_cane_c01f5e0a:
 translate russian e06s05_mes_cane_9723c7f5:
 
     # dd "THREE! Thank you, Stacy!"
-    dd "THREE! Thank you, Stacy!"
+    dd "ТРИ! Спасибо, Стейси!"
 
 # game/code/e06/e06s05.rpy:478
 translate russian e06s05_mes_cane_bc259caa:
@@ -808,7 +808,7 @@ translate russian e06s05_mes_cane_3ccb7bb6:
 translate russian e06s05_mes_cane_a1c08528:
 
     # dd "FFFFIVE!!! TTHANKK YOOU LYDIA!!!"
-    dd "П-П-П-ПЯТЬ!!! С-СПАСИБ-БО, ЛИДИЯ!!!"
+    dd "ППППЯТЬ!!! ССПАСИБО, ЛИДИЯ!!!"
 
 # game/code/e06/e06s05.rpy:503
 translate russian e06s05_mes_cane_fa1d9bb5:
@@ -826,7 +826,7 @@ translate russian e06s05_mes_cane_f28b3ab9:
 translate russian e06s05_mes_cane_490099f4:
 
     # dd "Just don't ask me to dance for you now."
-    dd "Просто не проси меня сейчас танцевать для тебя."
+    dd "Просто не проси меня сейчас для тебя танцевать."
 
 # game/code/e06/e06s05.rpy:512
 translate russian e06s05_mes_cane_8934ce6b:
@@ -844,7 +844,7 @@ translate russian e06s05_mes_cane_d5ea7930:
 translate russian e06s05_mes_cane_8ac563a0:
 
     # dd "You're so sweet to worry about me. Don't worry, I'll use my safe word if I need it."
-    dd "Так мило, что ты обо мне беспокоишься. Не волнуйся, я воспользуюсь стоп-словом, если оно мне понадобится."
+    dd "Это так мило, что ты обо мне беспокоишься. Не волнуйся, я воспользуюсь стоп-словом, если оно мне понадобится."
 
 # game/code/e06/e06s05.rpy:527
 translate russian e06s05_mes_pee_62432442:
@@ -856,7 +856,7 @@ translate russian e06s05_mes_pee_62432442:
 translate russian e06s05_mes_pee_88f465c4:
 
     # dd "I'm a big girl, [mcname]."
-    dd "Я уже большая девочка, [mcname]."
+    dd "[mcname], я уже большая девочка."
 
 # game/code/e06/e06s05.rpy:531
 translate russian e06s05_mes_pee_705db695:
@@ -868,13 +868,13 @@ translate russian e06s05_mes_pee_705db695:
 translate russian e06s05_mes_pee_c38e6044:
 
     # mes "Did you forget who refereed our pissing contest? She knows what she's got to do."
-    mes "Ты забыл, кто судил наш писсинг-конкурс? Она знает, что ей нужно делать."
+    mes "Ты что, забыл, кто судил наше состязание по писсингу? Она знает, что ей нужно делать."
 
 # game/code/e06/e06s05.rpy:536
 translate russian e06s05_mes_pee_197b8b31:
 
     # mc "Sorry, I guess I'm just overprotective."
-    mc "Прости, наверное, я просто слишком тебя опекаю."
+    mc "Прости, наверное, я слишком сильно тебя опекаю."
 
 # game/code/e06/e06s05.rpy:538
 translate russian e06s05_mes_pee_ba1376bf:
@@ -970,7 +970,7 @@ translate russian e06s05_sy_choice_976d2d20:
 translate russian e06s05_sy_choice_8a72c7f7:
 
     # sy "My first idea is to take the longest dildo I can find-"
-    sy "Моя первая идея - взять самый длинный дилдо, который я могу найти..."
+    sy "Моя первая идея - взять самый длинный дилдо, который я смогу найти..."
 
 # game/code/e06/e06s05.rpy:592
 translate russian e06s05_sy_choice_febb7953:
@@ -1006,7 +1006,7 @@ translate russian e06s05_sy_choice_263ef98b:
 translate russian e06s05_sy_choice_18723dfd:
 
     # sy "Quite simple. I put on a strap-on and fuck her until she cums."
-    sy "Всё просто. Я надена страпон и буду её трахать, пока она не кончит."
+    sy "Всё просто. Я надену страпон и буду трахать её, пока она не кончит."
 
 # game/code/e06/e06s05.rpy:604
 translate russian e06s05_sy_choice_581ad4f2:
@@ -1018,7 +1018,7 @@ translate russian e06s05_sy_choice_581ad4f2:
 translate russian e06s05_sy_choice_ad909a8e:
 
     # mc "Hmmm..."
-    mc "Хмм..."
+    mc "Хммм..."
 
 # game/code/e06/e06s05.rpy:624
 translate russian e06s05_sy_puke_2dcd6d79:
@@ -1036,13 +1036,13 @@ translate russian e06s05_sy_puke_5783ff6e:
 translate russian e06s05_sy_puke_aaf6cec1:
 
     # dd "My arms too - if you don't mind."
-    dd "И ми руки тоже - если ты не возражаешь."
+    dd "И мои руки тоже - если не возражаешь."
 
 # game/code/e06/e06s05.rpy:630
 translate russian e06s05_sy_puke_82e23f43:
 
     # mc "You've done something like this before?"
-    mc "Ты уже делала что-то подобное раньше?"
+    mc "Ты раньше делала что-то подобное?"
 
 # game/code/e06/e06s05.rpy:633
 translate russian e06s05_sy_puke_757844f5:
@@ -1102,7 +1102,7 @@ translate russian e06s05_sy_puke_05711bba:
 translate russian e06s05_sy_puke_adecc299:
 
     # dd "To Choke On Your Cock!!"
-    dd "Подавиться Твоим Членом!!"
+    dd "Удавиться Твоим Членом!!"
 
 # game/code/e06/e06s05.rpy:661
 translate russian e06s05_sy_puke_b83db04e:
@@ -1162,7 +1162,7 @@ translate russian e06s05_sy_puke_ea1e437c:
 translate russian e06s05_sy_puke_65ab8302:
 
     # sy "Looks like the stock market is going down, but the weather is getting warmer."
-    sy "Похоже, фондовый рынок падает, но погода становится теплее."
+    sy "Похоже, рынок падает, но погода становится теплее."
 
 # game/code/e06/e06s05.rpy:683
 translate russian e06s05_sy_puke_35588d8a:
@@ -1204,7 +1204,7 @@ translate russian e06s05_sy_puke_cf93456c:
 translate russian e06s05_sy_puke_15bf62a0:
 
     # sy "I'm afraid that's as deep as it will go. If this doesn't do it, I might have to use my arm."
-    sy "Боюсь, уже настолько глубоко, насколько это вообще возможно. Если это не поможет, возможно, мне придётся использовать руку."
+    sy "Боюсь, я уже настолько глубоко, насколько это вообще возможно. Если это не поможет, возможно, мне придётся использовать руку."
 
 # game/code/e06/e06s05.rpy:706
 translate russian e06s05_sy_puke_d988ed7f:
@@ -1222,7 +1222,7 @@ translate russian e06s05_sy_puke_8499262c:
 translate russian e06s05_sy_puke_96830551:
 
     # mc "Is the goal to suffocate her?"
-    mc "Цель – задушить её?"
+    mc "Твоя цель – задушить её?"
 
 # game/code/e06/e06s05.rpy:715
 translate russian e06s05_sy_puke_6e54c6d2:
@@ -1240,7 +1240,7 @@ translate russian e06s05_sy_puke_39cfb545:
 translate russian e06s05_sy_puke_8b7e80b5:
 
     # mc "I think that's a yes."
-    mc "Я думаю, что да."
+    mc "Думаю, что да."
 
 # game/code/e06/e06s05.rpy:743
 translate russian e06s05_sy_puke_79514910:
@@ -1252,7 +1252,7 @@ translate russian e06s05_sy_puke_79514910:
 translate russian e06s05_sy_puke_47291874:
 
     # mc "Messy is a fetish, ya'know."
-    mc "Грязь - это тоже фетиш, знаешь ли."
+    mc "Рвота - это тоже фетиш, знаешь ли."
 
 # game/code/e06/e06s05.rpy:746
 translate russian e06s05_sy_puke_9c5d479b:
@@ -1282,7 +1282,7 @@ translate russian e06s05_sy_puke_fc8862af:
 translate russian e06s05_sy_strapon_54a2fa06:
 
     # sy "*singing* I'm gonna tap dat ass. I don't have twenty dollars nor a pocket."
-    sy "*поёт* Я тут собираюсь отшлёпать эту задницу. У меня нет двадцати долларов, как и карманов.\n\n{size=-10}{i}(Изменённая песня Thrift Shop - Macklemore And Ryan Lewis feat. Wanz){/i}{/size}"
+    sy "*поёт* Я собираюсь отшлёпать эту задницу. У меня нет двадцати долларов, как и карманов.\n\n{size=-10}{i}(Изменённая песня \"Thrift Shop - Macklemore And Ryan Lewis\"){/i}{/size}"
 
 # game/code/e06/e06s05.rpy:773
 translate russian e06s05_sy_strapon_95287c6e:
@@ -1294,7 +1294,7 @@ translate russian e06s05_sy_strapon_95287c6e:
 translate russian e06s05_sy_strapon_24fd05d1:
 
     # sy "*singing* This is fucking awesome."
-    sy "*поёт* Это просто охуительно"
+    sy "*поёт* Это просто охуительно."
 
 # game/code/e06/e06s05.rpy:777
 translate russian e06s05_sy_strapon_e12fcb41:
@@ -1306,7 +1306,7 @@ translate russian e06s05_sy_strapon_e12fcb41:
 translate russian e06s05_sy_strapon_5e8910ec:
 
     # sy "Some girls can cum from their ass."
-    sy "Некоторые девушки могут кончать от задницы."
+    sy "Некоторые девушки могут кончать и от задницы."
 
 # game/code/e06/e06s05.rpy:782
 translate russian e06s05_sy_strapon_517ccf50:
@@ -1318,7 +1318,7 @@ translate russian e06s05_sy_strapon_517ccf50:
 translate russian e06s05_sy_strapon_f878e240:
 
     # sy "Either way. That's fine with me."
-    sy "В любом случае. Я не против."
+    sy "Как угодно. Я не против."
 
 # game/code/e06/e06s05.rpy:785
 translate russian e06s05_sy_strapon_25f1c37f:
@@ -1432,7 +1432,7 @@ translate russian e06s05_sy_strapon_e8e673d6:
 translate russian e06s05_sy_strapon_2321d60b:
 
     # mc "Oh. I guess that makes sense."
-    mc "О. Думаю, это имеет смысл."
+    mc "О. Это имеет смысл."
 
 # game/code/e06/e06s05.rpy:853
 translate russian e06s05_sy_strapon_e25aea59:
@@ -1450,19 +1450,19 @@ translate russian e06s05_sy_strapon_09766bfa:
 translate russian e06s05_sy_strapon_4237fb9e:
 
     # dd "I don't understand. How can you hit me in just the right spots like [mcname] does?"
-    dd "Я не понимаю. Как ты можешь так же попадать в мои нужные места, как это делает [макнэйм]?"
+    dd "Я не понимаю. Как ты можешь попадать в мои нужные места, так же, как это делает [mcname]?"
 
 # game/code/e06/e06s05.rpy:859
 translate russian e06s05_sy_strapon_d8d6d7fc:
 
     # dd "No one has ever fucked me like he does."
-    dd "Никто никогда не трахал меня так, как он."
+    dd "Никто и никогда не трахал меня так, как он."
 
 # game/code/e06/e06s05.rpy:861
 translate russian e06s05_sy_strapon_9fe5a53a:
 
     # mc "Well, we both learned from the same porn stash."
-    mc "Ну, мы оба училиси на одной и той же колекции порно."
+    mc "Ну, мы оба учились на одной и той же колекции порно."
 
 # game/code/e06/e06s05.rpy:864
 translate russian e06s05_sy_strapon_3ba07e3f:
@@ -1558,7 +1558,7 @@ translate russian e06s05_sy_strapon_89951894:
 translate russian e06s05_sy_strapon_61d008a7:
 
     # dd "FUCKING HELLBEAST MOTHERFUCKING YESSSSSSSSSSSSSSSS!!!"
-    dd "ЁБАННАЯ АДСКАЯ БЕСТИЯ, ТВОЮ МАТЬ, ДААААААААААААААААА!!!"
+    dd "ЁБАННАЯ БЕСТИЯ, ТВОЮ МАТЬ, ДААААААААААААААААА!!!"
 
 # game/code/e06/e06s05.rpy:907
 translate russian e06s05_sy_strapon_7ae3f46d:
@@ -1630,7 +1630,7 @@ translate russian e06s05_arj_choice_0f4a7572:
 translate russian e06s05_arj_choice_68d4735a:
 
     # arj "Pick one and then I'll tell you what you've won."
-    arj "Выбери один, и потом я тебе расскажу, что ты выиграл."
+    arj "Выбери один, и потом я тебе расскажу, что ты получишь."
 
 # game/code/e06/e06s05.rpy:938
 translate russian e06s05_arj_choice_95fedf6e:
@@ -1654,13 +1654,13 @@ translate russian e06s05_arj_choice_e5a241f4:
 translate russian e06s05_arj_choice_8869b63e:
 
     # mc "I'm not saying you would, but explain anyway."
-    mc "Я не говорю, что ты бы так поступила, но всё равно расскажи."
+    mc "Я не говорю, что ты бы так поступила, но просто расскажи."
 
 # game/code/e06/e06s05.rpy:948
 translate russian e06s05_arj_choice_e8a9a1d8:
 
     # arj "Fine. Option one is an enema."
-    arj "Отлично. Вариант первый - клизма."
+    arj "Ладно. Вариант первый - клизма."
 
 # game/code/e06/e06s05.rpy:950
 translate russian e06s05_arj_choice_70e3818d:
@@ -1684,7 +1684,7 @@ translate russian e06s05_arj_choice_89511d1e:
 translate russian e06s05_arj_choice_03786bf0:
 
     # dd "That doesn't sound so good either."
-    dd "Теперь это звучит не очень хорошо."
+    dd "Теперь это звучит так себе."
 
 # game/code/e06/e06s05.rpy:959
 translate russian e06s05_arj_choice_2d71a817:
@@ -1708,13 +1708,13 @@ translate russian e06s05_arj_choice_b7eb7d4e:
 translate russian e06s05_arj_choice_5c69578c:
 
     # mc "Nothing unexpected there? You're not going to coat your hand in hot sauce or something first?"
-    mc "Ничего неожиданного? Ты же не собираешься обмазывать руку острым соусом или чем-то ещё?"
+    mc "Никаких неожиданностей не будет? Ты же не собираешься обмазывать руку острым соусом или чем-то ещё?"
 
 # game/code/e06/e06s05.rpy:969
 translate russian e06s05_arj_choice_b7a8dac7:
 
     # arj "Would I do that?"
-    arj "А я бы так поступила?"
+    arj "А ты думаешь, я бы так поступила?"
 
 # game/code/e06/e06s05.rpy:970
 translate russian e06s05_arj_choice_428c909f:
@@ -1768,7 +1768,7 @@ translate russian e06s05_arj_enema_abbeb899:
 translate russian e06s05_arj_enema_033c194e:
 
     # arj "Actually, a lot of enema solutions include a laxative."
-    arj "На самом деле, многие растворы для клизм содержат слабительное."
+    arj "На самом деле, многие растворы для клизм ещё содержат слабительное."
 
 # game/code/e06/e06s05.rpy:1006
 translate russian e06s05_arj_enema_b8be531e:
@@ -1798,7 +1798,7 @@ translate russian e06s05_arj_enema_47876dab:
 translate russian e06s05_arj_enema_eb581fa2:
 
     # arj "Like I said, this is my own blend. It's mostly warm milk, of course."
-    arj "Как я уже сказала, это моя собственная смесь. В основном это, конечно же, тёплое молоко."
+    arj "Как я уже сказала, это моя собственная смесь. В основном это тёплое молоко, конечно же."
 
 # game/code/e06/e06s05.rpy:1018
 translate russian e06s05_arj_enema_07842935:
@@ -1948,7 +1948,7 @@ translate russian e06s05_arj_enema_6f5d3e64:
 translate russian e06s05_arj_enema_e910f207:
 
     # dd "DON'T YOU DARE FUCKING STOP THIS RIDE NOW!!!"
-    dd "НЕ СМЕЙТЕ, БЛЯДЬ, ОСТАНАВЛИВАТЬ ЭТО!!!"
+    dd "НЕ СМЕЙТЕ БЛЯДЬ ЭТО ОСТАНАВЛИВАТЬ!!!"
 
 # game/code/e06/e06s05.rpy:1077
 translate russian e06s05_arj_enema_f962bb7e:
@@ -1996,7 +1996,7 @@ translate russian e06s05_arj_enema_2daaa1c7:
 translate russian e06s05_arj_enema_df15444d:
 
     # arj "Oh yeah."
-    arj "Ой, да."
+    arj "Ой, точно."
 
 # game/code/e06/e06s05.rpy:1096
 translate russian e06s05_arj_enema_cf113120:
@@ -2074,13 +2074,13 @@ translate russian e06s05_arj_enema_6470e464:
 translate russian e06s05_arj_enema_707837b7:
 
     # arj "Oh good. It's about time we let her unleash the beast."
-    arj "О, хорошо. Пришло время позволить ей выпустить зверя на волю."
+    arj "О, хорошо. Пришло время позволить ей выпустить своего зверя на волю."
 
 # game/code/e06/e06s05.rpy:1126
 translate russian e06s05_arj_enema_f46a5e3d:
 
     # mc "I imagine it will be more like flooding the Nile."
-    mc "Я думаю, это будет больше похоже на разлив Нила.\n\n{size=-10}{/i}(Разлив Нила - очень важное событие и является праздником у египтян){/i}{/size}"
+    mc "Я думаю, это будет больше похоже на разлив Нила.\n\n{size=-10}{/i}(Разлив Нила - очень важное событие для египтян и является у них праздником){/i}{/size}"
 
 # game/code/e06/e06s05.rpy:1135
 translate russian e06s05_arj_enema_6ab8b812:
@@ -2104,7 +2104,7 @@ translate russian e06s05_arj_enema_df96b3b8:
 translate russian e06s05_arj_enema_cfc45a15:
 
     # mc "How does that feel, Daisy?"
-    mc "Как ты себя чувствуешь, Дейзи?"
+    mc "Дейзи, как ты себя чувствуешь?"
 
 # game/code/e06/e06s05.rpy:1148
 translate russian e06s05_arj_enema_1e7cd951:
@@ -2152,7 +2152,7 @@ translate russian e06s05_arj_enema_443b9298:
 translate russian e06s05_arj_enema_a3714c4a:
 
     # dd "I need a towel, a shower, and a pint of vodka."
-    dd "Мне нужно полотенце, душ и пинта водки."
+    dd "Мне нужно полотенце, душ и пинта водки.\n\n{size=-10}{i}(Пинта - примерно 0.5 литра){/i}{/size}"
 
 # game/code/e06/e06s05.rpy:1165
 translate russian e06s05_arj_enema_e0356027:
@@ -2170,7 +2170,7 @@ translate russian e06s05_arj_enema_6dadfd59:
 translate russian e06s05_arj_fisting_8824564d:
 
     # arj "What's the largest thing you've ever had up your ass?"
-    arj "Какая самая большая вещь у тебя когда-либо была в заднице?"
+    arj "Какая самая большая вещь, которая когда-либо была у тебя в заднице?"
 
 # game/code/e06/e06s05.rpy:1182
 translate russian e06s05_arj_fisting_56e10097:
@@ -2314,13 +2314,13 @@ translate russian e06s05_arj_fisting_ac2a8da9:
 translate russian e06s05_arj_fisting_80f46a22:
 
     # arj "Okay, yes. My parents wouldn't understand this at all."
-    arj "Ладно, да. Мои родители этого бы не поняли. Совсем не поняли."
+    arj "Ладно, да. Мои родители этого бы не поняли. Совсем."
 
 # game/code/e06/e06s05.rpy:1258
 translate russian e06s05_arj_fisting_dfee49bf:
 
     # arj "But this really isn't the time to talk about such things."
-    arj "Но сейчас и вправду не самое лучшее время говорить об этом."
+    arj "Но сейчас и вправду не самое лучшее время об этом говорить."
 
 # game/code/e06/e06s05.rpy:1260
 translate russian e06s05_arj_fisting_9e4273c8:
@@ -2350,7 +2350,7 @@ translate russian e06s05_arj_fisting_038c5a04:
 translate russian e06s05_arj_fisting_9a7585fd:
 
     # arj "I don't need a therapy session right now."
-    arj "Мне сейчас не нужен сеанс психотерапии."
+    arj "Мне сейчас не нужны сеансы психотерапии."
 
 # game/code/e06/e06s05.rpy:1274
 translate russian e06s05_arj_fisting_0238cf7f:
@@ -2362,7 +2362,7 @@ translate russian e06s05_arj_fisting_0238cf7f:
 translate russian e06s05_arj_fisting_828a2aa0:
 
     # dd "And I think you do. Why else would you be doing this?"
-    dd "И я думаю, что нужен. Или зачем ещё ты это делаешь?"
+    dd "И мне кажется, что нужны. Иначе, зачем ещё ты это делаешь?"
 
 # game/code/e06/e06s05.rpy:1277
 translate russian e06s05_arj_fisting_6ade894d:
@@ -2386,25 +2386,25 @@ translate russian e06s05_arj_fisting_af1aadc5:
 translate russian e06s05_arj_fisting_a9549484:
 
     # arj "Thank you. You're not so bad yourself."
-    arj "Спасибо. Ты и сам не так уж плоха."
+    arj "Спасибо. Ты и сама не так уж плоха."
 
 # game/code/e06/e06s05.rpy:1292
 translate russian e06s05_arj_fisting_3190be1f:
 
     # dd "I just think FUCKME that you should consider OHFUCKYES why you're really doing it."
-    dd "Я просто думаю ЕБАТЬ что тебе следует задуматься, ОХБЛЯДЬДА почему ты на самом деле это делаешь."
+    dd "Я просто думаю ЕБАТЬ что тебе следует задуматься ОХБЛЯДЬДА почему ты на самом деле это делаешь."
 
 # game/code/e06/e06s05.rpy:1296
 translate russian e06s05_arj_fisting_e1589b55:
 
     # dd "I mean FASTER if you climbed Mount Fuji HARDER wouldn't your parents be proud of you?"
-    dd "Я имею в виду БЫСТРЕЕ, если бы ты поднялась на гору Фудзи СИЛЬНЕЕ, разве твои родители не гордились бы тобой?"
+    dd "Я имею в виду БЫСТРЕЕ если бы ты поднялась на гору Фудзи СИЛЬНЕЕ разве твои родители не гордились бы тобой?"
 
 # game/code/e06/e06s05.rpy:1307
 translate russian e06s05_arj_fisting_ce3fe6dc:
 
     # dd "HOLYSHITBALLS even though YOUMAKEMEWEAK they've never done it?"
-    dd "СВЯТЫЕШАРЫ, даже если ТЫВЫМАТЫВАЕШЬМЕНЯ, они никогда этого не делали?"
+    dd "СВЯТЫЕШАРЫ даже если ТЫВЫМАТЫВАЕШЬМЕНЯ они никогда этого не делали?"
 
 # game/code/e06/e06s05.rpy:1311
 translate russian e06s05_arj_fisting_d384e46d:
@@ -2530,7 +2530,7 @@ translate russian e06s05_dd_bound_cbc7dcc3:
 translate russian e06s05_dd_bound_3b842e52:
 
     # sy "Do I hear a hint of sarcasm, [mcname]?"
-    sy "Я слышу намёк на сарказм, [mcname]?"
+    sy "[mcname], мне кажется, или я слышу нотки сарказма?"
 
 # game/code/e06/e06s05.rpy:1370
 translate russian e06s05_dd_bound_ee79d685:
@@ -2554,7 +2554,7 @@ translate russian e06s05_dd_bound_0a707361:
 translate russian e06s05_dd_bound_380a2181:
 
     # sy "Perfect. Meanwhile, the rest of us will amuse ourselves by humiliating her."
-    sy "Отлично. Тем временем остальные будут развлекаться, унижая её."
+    sy "Отлично. Тем временем остальные будут развлекаться её унижением."
 
 # game/code/e06/e06s05.rpy:1378
 translate russian e06s05_dd_bound_c26bc3b5:
@@ -2572,7 +2572,7 @@ translate russian e06s05_dd_bound_ab04227e:
 translate russian e06s05_dd_bound_de8b550c:
 
     # mc "Whatever you want. Just don't get in my way."
-    mc "Делай что хочешь. Только не стой у меня на пути."
+    mc "Делайте что хотите. Только не стойте у меня на пути."
 
 # game/code/e06/e06s05.rpy:1385
 translate russian e06s05_dd_bound_6dc854da:
@@ -2602,13 +2602,13 @@ translate russian e06s05_dd_bound_c5685c44:
 translate russian e06s05_dd_bound_c41a5e17:
 
     # mct "I mean, sure, her pussy technically feels better..."
-    mct "Я имею в виду, конечно, технически её киска чувствуется лучше..."
+    mct "Я имею в виду, конечно, технически её киска ощущается лучше..."
 
 # game/code/e06/e06s05.rpy:1419
 translate russian e06s05_dd_bound_af1acb56:
 
     # mct "...but psychologically... that asshole... fuck yes."
-    mct "...но психологически... эта задница... блядь, да."
+    mct "...но психологически... эта задница... ебать, да."
 
 # game/code/e06/e06s05.rpy:1427
 translate russian e06s05_dd_bound_b5d41685:
@@ -2632,7 +2632,7 @@ translate russian e06s05_dd_bound_cbd424f4:
 translate russian e06s05_dd_bound_238a0341:
 
     # mes "You want me to do it again?"
-    mes "Ты хочешь, чтобы я сделала это снова?"
+    mes "Хочешь, чтобы я сделала это снова?"
 
 # game/code/e06/e06s05.rpy:1437
 translate russian e06s05_dd_bound_e2a5c93d:
@@ -2662,7 +2662,7 @@ translate russian e06s05_dd_bound_1a5e79dc:
 translate russian e06s05_dd_bound_1ff5d424:
 
     # mc "You know you're always the hottest woman around."
-    mc "Ты знаешь, что ты самая горячая женщина в округе."
+    mc "Ты же знаешь, что ты самая горячая женщина в округе."
 
 # game/code/e06/e06s05.rpy:1452
 translate russian e06s05_dd_bound_aee95c72:
@@ -2704,7 +2704,7 @@ translate russian e06s05_dd_bound_827ebe19:
 translate russian e06s05_dd_bound_4466857c:
 
     # mes "What if I do this? {w}Does it make you hard watching me rub my spit into the face of the girl you're fucking?"
-    mes "Что, если я сделаю это? {w}Тебя возбуждает, как я размазываю свою слюну по лицо девушки, которую ты трахаешь?"
+    mes "Что, если я сделаю это? {w}Тебя возбуждает, как я размазываю свою слюну по лицу девушки, которую ты трахаешь?"
 
 # game/code/e06/e06s05.rpy:1483
 translate russian e06s05_dd_bound_af67f1b4:
@@ -2716,7 +2716,7 @@ translate russian e06s05_dd_bound_af67f1b4:
 translate russian e06s05_dd_bound_6e8fcec9:
 
     # mes "Would it help if I spit on her asshole while you're fucking her?"
-    mes "Поможет, если я плюну ей в задницу, пока ты её трахаешь?"
+    mes "Тебе поможет, если я плюну ей в задницу, пока ты её трахаешь?"
 
 # game/code/e06/e06s05.rpy:1491
 translate russian e06s05_dd_bound_7a45ad01:
@@ -2740,7 +2740,7 @@ translate russian e06s05_dd_bound_2f4871b0:
 translate russian e06s05_dd_bound_7c6c2a31:
 
     # arj "You like that? I bet you do."
-    arj "Тебе нравится это? Готова поспорить."
+    arj "Тебе это нравится? Готова поспорить, что да"
 
 # game/code/e06/e06s05.rpy:1497
 translate russian e06s05_dd_bound_e645bcef:
@@ -2830,7 +2830,7 @@ translate russian e06s05_dd_bound_df2f7c13:
 translate russian e06s05_dd_bound_961e6101:
 
     # mes "I bet."
-    mes "Не удивительно."
+    mes "Готово поспорить, что так и есть."
 
 # game/code/e06/e06s05.rpy:1541
 translate russian e06s05_dd_bound_25853d98:
@@ -2842,7 +2842,7 @@ translate russian e06s05_dd_bound_25853d98:
 translate russian e06s05_dd_bound_fd3cb488:
 
     # arj "Fucking slut. You loved every second of that, didn't you?"
-    arj "Ёбаная шлюха. Ты наслаждалась каждая секунда этого, не так ли?"
+    arj "Ёбаная шлюха. Ты наслаждалась каждой секундой, не так ли?"
 
 # game/code/e06/e06s05.rpy:1550
 translate russian e06s05_dd_bound_66cd6a17:
@@ -2866,13 +2866,13 @@ translate russian e06s05_dd_bound_2ee8dd1c:
 translate russian e06s05_dd_bound_814aa4c2:
 
     # dd "I loved every second of that."
-    dd "Мне нравилась каждая секунда."
+    dd "Я наслаждалась каждой секундой."
 
 # game/code/e06/e06s05.rpy:1558
 translate russian e06s05_dd_bound_8a2d99fb:
 
     # sy "Well, I'm guessing you won't like this next part."
-    sy "Что ж, я предполагаю, что следующая часть вам не понравится."
+    sy "Что ж, я предполагаю, что следующая часть тебе не понравится."
 
 # game/code/e06/e06s05.rpy:1560
 translate russian e06s05_dd_bound_9c4f5c77:
@@ -2884,13 +2884,13 @@ translate russian e06s05_dd_bound_9c4f5c77:
 translate russian e06s05_dd_bound_ae48796d:
 
     # sy "We bind her to that Saint Andrew's Cross over there and let [mcname] whip the living shit out of her."
-    sy "Мы привяжем её к тому Андреевскому кресту и позволим [mcname] выбить из неё всё дерьмо.\n\n{size=-10}{i}(Крест Святого Андрея - крест, на котором распяли Андрея Первозванного, одного из учеников Иисуса Христа){/i}{/size}"
+    sy "Мы привяжем её к тому Андреевскому Кресту и позволим [mcname] выбить из неё всё дерьмо.\n\n{size=-10}{i}(Крест Святого Андрея - крест, на котором распяли Андрея Первозванного, одного из учеников Иисуса Христа){/i}{/size}"
 
 # game/code/e06/e06s05.rpy:1564
 translate russian e06s05_dd_bound_10e6b53c:
 
     # arj "Nice."
-    arj "Хорошо."
+    arj "Отлично."
 
 # game/code/e06/e06s05.rpy:1566
 translate russian e06s05_dd_bound_b898f177:
@@ -2908,25 +2908,25 @@ translate russian e06s05_dd_bound_0a4fbf37:
 translate russian e06s05_dd_cross_f0798223:
 
     # mct "I might be too nice of a guy for this."
-    mct "Возможно, я слишком хороший парень для этого."
+    mct "Возможно, я слишком хороший парень для подобного."
 
 # game/code/e06/e06s05.rpy:1584
 translate russian e06s05_dd_cross_c0ae19ed:
 
     # mct "Then again, it sounded like Daisy might get off if I really go all out on this."
-    mct "И опять же, казалось, что Дейзи может сорваться, если я действительно приложу все усилия."
+    mct "И опять же, такое чувство, что Дейзи может сорваться, если я действительно приложу все усилия."
 
 # game/code/e06/e06s05.rpy:1585
 translate russian e06s05_dd_cross_1703e9bf:
 
     # mc "Alright. I can do this."
-    mc "Хорошо. Я могу сделать это."
+    mc "Хорошо. Я могу это сделать."
 
 # game/code/e06/e06s05.rpy:1588
 translate russian e06s05_dd_cross_4a729ab2:
 
     # mes "*whispers* Yikes. Better her than me."
-    mes "*шепчет* Вау. Лучше она, чем я."
+    mes "*шепчет* Вау. Лучше её, чем меня."
 
 # game/code/e06/e06s05.rpy:1589
 translate russian e06s05_dd_cross_2651296e:
@@ -2956,7 +2956,7 @@ translate russian e06s05_dd_cross_41d59249:
 translate russian e06s05_dd_cross_332d7c35:
 
     # mes "Okay. Try it once. Aim for her butt. Let's see what you've got."
-    mes "Ладно. Попробуйте один раз. Целься в её задницу. Давайте посмотрим, что у тебя выйдет."
+    mes "Ладно. Попробуй один раз. Целься в её задницу. Давайте посмотрим, что у тебя выйдет."
 
 # game/code/e06/e06s05.rpy:1611
 translate russian e06s05_dd_cross_5e5d0fa3:
@@ -3004,7 +3004,7 @@ translate russian e06s05_dd_cross_e42ab4d0:
 translate russian e06s05_dd_cross_6b8896fe:
 
     # mes "My work here is done."
-    mes "Моя работа здесь окончена."
+    mes "Здесь моя работа окончена."
 
 # game/code/e06/e06s05.rpy:1645
 translate russian e06s05_dd_cross_3aa8f9b4:
@@ -3016,7 +3016,7 @@ translate russian e06s05_dd_cross_3aa8f9b4:
 translate russian e06s05_dd_cross_48eebf70:
 
     # mc "Daisy - How's are you doing?"
-    mc "Дейзи - Как ты?"
+    mc "Дейзи - Ты как?"
 
 # game/code/e06/e06s05.rpy:1650
 translate russian e06s05_dd_cross_c58f3250:
@@ -3124,7 +3124,7 @@ translate russian e06s05_dd_after_7fecc8d4:
 translate russian e06s05_dd_after_dc83e0fa:
 
     # lc "What a shame. We're literally in a photo studio and no one brought a camera."
-    lc "Какой позор. Мы буквально находимся в фотостудии и никто не взял камеру."
+    lc "Какой позор. Мы буквально находимся в фотостудии и никто не взял с собой камеру."
 
 # game/code/e06/e06s05.rpy:1703
 translate russian e06s05_dd_after_1f555e22:
@@ -3256,7 +3256,7 @@ translate russian e06s05_dd_after_232a8336:
 translate russian e06s05_dd_after_0e7d1873:
 
     # lc "Either way. The question is... would you like to join us?"
-    lc "В любом случае. Вопрос в том... хотела бы ты к нам присоединиться?"
+    lc "Ну можно и так сказать. Вопрос в том... хотела бы ты к нам присоединиться?"
 
 # game/code/e06/e06s05.rpy:1753
 translate russian e06s05_dd_after_e804f2a6:
@@ -3292,13 +3292,13 @@ translate russian e06s05_dd_after_eb37d092:
 translate russian e06s05_dd_after_df6fb4e8:
 
     # lc "Enough said."
-    lc "Сказано достаточно."
+    lc "Сказаного достаточно."
 
 # game/code/e06/e06s05.rpy:1770
 translate russian e06s05_dd_after_49810e6c:
 
     # dd "Sorry, was there anything else?"
-    dd "Извините, что-нибудь ещё нужно?"
+    dd "Извините, вам что-нибудь ещё нужно?"
 
 # game/code/e06/e06s05.rpy:1772
 translate russian e06s05_dd_after_dd896589:
@@ -3352,7 +3352,7 @@ translate russian e06s05_dd_after_925d74b4:
 translate russian e06s05_dd_after_68f70750:
 
     # mc "I promise. Everything but."
-    mc "Обещаю. Всё, кроме."
+    mc "Обещаю. Будет всё, кроме этого."
 
 # game/code/e06/e06s05.rpy:1792
 translate russian e06s05_dd_after_a77c1490:

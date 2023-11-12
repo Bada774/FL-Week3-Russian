@@ -130,7 +130,7 @@ translate russian e08s05_4c1be431:
 translate russian e08s05_e3e169eb:
 
     # "Mayor" "My God, I wish I was there right now with you all, with my pulpit, sermonizing in front of the burning bush."
-    "Мэр" "Боже мой, как бы мне хотелось сейчас быть там со всеми вами, стоя за кафедрой, проповедовать перед Неопалимой Купиной.\n\n{size=-10}(Неопалимая Купина - в данном контексте, христианская икона, отображающая образ Богоматери){/size}"
+    "Мэр" "Боже мой, как бы мне хотелось сейчас быть там со всеми вами, стоя за кафедрой, проповедовать перед Неопалимой Купиной.\n\n{size=-10}{i}(Неопалимая Купина - в данном контексте, христианская икона, отображающая образ Богоматери){/i}{/size}"
 
 # game/code/e08/e08s05.rpy:173
 translate russian e08s05_c9b74380:
@@ -226,7 +226,7 @@ translate russian e08s05_8ebfdadf:
 translate russian e08s05_bbeff351:
 
     # arj "Lastly, since it is the winter of discontent, it was said of the three wise men, who followed the North Star bearing gifts to go to that barn, were in the chronicles, referred to as one figure."
-    arj "Наконец, так как это зима полна разочарований, мы как о три мудреца, следовавших за Северной Звездой, дабы поднести дары в этот сарай, они считались единым целым.\n\n{size=-10}(Речь идёт о трёх мудрецах, описанных в Евангелии - людях, принесших дары родившемуся младенцу Иисусу Христу){/size}"
+    arj "Наконец, так как это зима полна разочарований, мы как о три мудреца, следовавших за Северной Звездой, дабы поднести дары в этот сарай, они считались единым целым.\n\n{size=-10}{i}(Речь идёт о трёх мудрецах, описанных в Евангелии - людях, принесших дары родившемуся младенцу Иисусу Христу){/i}{/size}"
 
 # game/code/e08/e08s05.rpy:227
 translate russian e08s05_d0628af8:
@@ -274,7 +274,7 @@ translate russian e08s05_bc0428d8:
 translate russian e08s05_5331aff8:
 
     # mc "We both searched for meaning and happiness. A bit lost after college, going through a tragicomic experience, we ended up here in this little garden of Eden."
-    mc "Мы искали и смысл, и счастье. Немного потерянные после колледжа, переживая трагикомический опыт, мы оказались здесь, в этом маленьком Эдеме.\n\n{size=-10}(Эдем - райский сад, в котором жили Адам и Ева){/size}"
+    mc "Мы искали и смысл, и счастье. Немного потерянные после колледжа, переживая трагикомический опыт, мы оказались здесь, в этом маленьком Эдеме.\n\n{size=-10}{i}(Эдем - райский сад, в котором жили Адам и Ева){/i}{/size}"
 
 # game/code/e08/e08s05.rpy:252
 translate russian e08s05_3a55fe53:
@@ -610,7 +610,7 @@ translate russian e08s05_talk_af4aded4:
 translate russian e08s05_talk_9f2cdbb4:
 
     # mc "And what, retreat her boudoir at eight?"
-    mc "И что, нам нужно будет освободить её будуар в восемь?\n\n{size=-10}(Будуар - комната, принадлежащая женщине){/size}"
+    mc "И что, нам нужно будет освободить её будуар в восемь?\n\n{size=-10}{i}(Будуар - комната, принадлежащая женщине){/i}{/size}"
 
 # game/code/e08/e08s05.rpy:423
 translate russian e08s05_talk_d764a98a:
@@ -664,7 +664,7 @@ translate russian e08s05_talk_f52989a9:
 translate russian e08s05_party_ab7e14d1:
 
     # "Mayor" "Oh, if you ain't got the do-re-mi, folks, you ain't got the do-re-mi. Why, you better go back to beautiful Texas, Oklahoma, Kansas, Georgia, Tennessee..."
-    "Мэр" "О, если у вас нет до-ре-ми, ребята, у вас нет до-ре-ми. Вам лучше вернуться в прекрасный Техас, Оклахому, Канзас, Джорджию, Теннесси...\n\n{size=-10}(Текст песни \"Do Re Mi\" американского музыканта Вуди Гатри){/size}"
+    "Мэр" "О, если у вас нет до-ре-ми, ребята, у вас нет до-ре-ми. Вам лучше вернуться в прекрасный Техас, Оклахому, Канзас, Джорджию, Теннесси...\n\n{size=-10}{i}(Текст песни \"Do Re Mi\" американского музыканта Вуди Гатри){/i}{/size}"
 
 # game/code/e08/e08s05.rpy:470
 translate russian e08s05_party_4e9f74b8:

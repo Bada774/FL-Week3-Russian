@@ -34,7 +34,7 @@ translate russian e06s04_032676d2:
 translate russian e06s04_e478ac19:
 
     # mc "Don't worry about them. We're having a pool day. Min is already out there."
-    mc "Не волунйся об этом. У нас будет день бассейна. Мин уже там."
+    mc "Не волнуйся об этом. У нас будет день бассейна. Мин уже там."
 
 # game/code/e06/e06s04.rpy:47
 translate russian e06s04_c172bd12:
@@ -76,7 +76,7 @@ translate russian e06s04_0102589e:
 translate russian e06s04_056ca269:
 
     # sy "Come on red, let's check out our quarters in the master's manse."
-    sy "Пойдём, рыжая, давай проверим наши апартаменты в особняке Господина."
+    sy "Пойдём, рыжая, давай оценим наши апартаменты в особняке Господина."
 
 # game/code/e06/e06s04.rpy:89
 translate russian e06s04_ce84d147:
@@ -88,7 +88,7 @@ translate russian e06s04_ce84d147:
 translate russian e06s04_b916dbc0:
 
     # mes "What kept you?"
-    mes "Что тебя задерживало?"
+    mes "Что тебя задержало?"
 
 # game/code/e06/e06s04.rpy:94
 translate russian e06s04_454a3661:
@@ -100,7 +100,7 @@ translate russian e06s04_454a3661:
 translate russian e06s04_0f606fb8:
 
     # mes "Mmm. Think you have time to reapply my sunscreen before you have your hands full?"
-    mes "Ммм. Как думаешь, у тебя хватит время ещё раз намазать меня солнцезащитным кремом, прежде чем у тебя будут заняты руки?"
+    mes "Ммм. Как думаешь, у тебя хватит времени ещё раз намазать меня солнцезащитным кремом, прежде чем у тебя будут заняты руки?"
 
 # game/code/e06/e06s04.rpy:103
 translate russian e06s04_1bf60051:
@@ -136,7 +136,7 @@ translate russian e06s04_b5b37a2e:
 translate russian e06s04_8d5661a3:
 
     # mes "Mmm. I guess I can be patient. For now. Not like I have to wait as long as Lydia is."
-    mes "Ммм. Ладно, думаю, я смогу потерпеть. Пока что. Навряд ли мне придётся ждать так долго, как Лидии."
+    mes "Ммм. Ладно, думаю, я смогу потерпеть. Пока что. Всё равно, вряд ли мне придётся ждать так долго, как Лидии."
 
 # game/code/e06/e06s04.rpy:156
 translate russian e06s04_df5835f9:
@@ -160,7 +160,7 @@ translate russian e06s04_180fde8f:
 translate russian e06s04_ece89939:
 
     # mes "Well, we certainly know who the wild card of the bunch is."
-    mes "Мда, мы, конечно же, знаем, кто в этой колоде является \"джокером\"."
+    mes "Мда, мы, конечно же, знаем, кто в этой колоде \"джокер\"."
 
 # game/code/e06/e06s04.rpy:174
 translate russian e06s04_0a979c32:
@@ -172,13 +172,13 @@ translate russian e06s04_0a979c32:
 translate russian e06s04_18356222:
 
     # mes "Me? Never. If anything, I'm Chaotic Lawful."
-    mes "Я? Никогда. Раз уж на то пошло, то я - Хаотичная Законопослушница."
+    mes "Я? Никогда. Раз уж на то пошло, то я - Хаотичное Добро.\n\n{size=-10}{i}(Отсылка к системе характеров персонажей из настольной игры \"Dungeons & Dragons\"){/i}{/size}"
 
 # game/code/e06/e06s04.rpy:180
 translate russian e06s04_473111d5:
 
     # mes "Stacy, on the other hand, is completely Chaotic Neutral."
-    mes "А вот Стейси, совершенно хаотично-нейтральна."
+    mes "А вот Стейси, совершенно Хаотичная Нейтральность."
 
 # game/code/e06/e06s04.rpy:183
 translate russian e06s04_5305554f:
@@ -190,13 +190,13 @@ translate russian e06s04_5305554f:
 translate russian e06s04_63313904:
 
     # mc "One of these days, you're going to hurt yourself pulling something like that."
-    mc "В один прекрасный день ты себя так покалечишь, если будешь вытворять что-то подобное."
+    mc "В один прекрасный день ты себя покалечишь, если будешь вытворять что-то подобное."
 
 # game/code/e06/e06s04.rpy:195
 translate russian e06s04_c7217a3c:
 
     # sy "Okay \"dad\"."
-    sy "Хорошо \"папочка\"."
+    sy "Хорошо, \"папочка\"."
 
 # game/code/e06/e06s04.rpy:197
 translate russian e06s04_41821a70:
@@ -226,7 +226,7 @@ translate russian e06s04_d7ecf23b:
 translate russian e06s04_d74cf3ea:
 
     # arj "So, Stacy and I will share a room. And then you and Lydia have your own rooms."
-    arj "Итак, мы со Стейси будем жить в одной комнате. И тогда у вас с Лидией будут раздельные комнаты."
+    arj "Ну, мы со Стейси будем жить в одной комнате. И тогда у вас с Лидией будут раздельные комнаты."
 
 # game/code/e06/e06s04.rpy:216
 translate russian e06s04_03850b18:
@@ -238,13 +238,13 @@ translate russian e06s04_03850b18:
 translate russian e06s04_36586c76:
 
     # mes "Nope. I called dibs when I moved in."
-    mes "Не-а. Я сама выбрала свою, когда переехала."
+    mes "Неа. Я сама выбрала свою, когда переехала."
 
 # game/code/e06/e06s04.rpy:222
 translate russian e06s04_b02fe471:
 
     # arj "Well, that's not really fair, is it?"
-    arj "Ну, это не совсем справедливо, не так ли?"
+    arj "Это не совсем справедливо, разве нет?"
 
 # game/code/e06/e06s04.rpy:225
 translate russian e06s04_4a8a9e5a:
@@ -256,7 +256,7 @@ translate russian e06s04_4a8a9e5a:
 translate russian e06s04_93e79b50:
 
     # mes "I guess in this case, it was more a perk of being Lydia's best friend. She wanted to come to me first after she got out of jail."
-    mes "Думаю, в данном случае это было скорее преимуществом быть лучшей подругой Лидии. Она хотела прийти ко мне первой после того, как выйдет из тюрьмы."
+    mes "Хотя в этом случае, это скорее было преимуществом быть лучшей подругой Лидии. Она захотела прийти ко мне первой после того, как выйдет из тюрьмы."
 
 # game/code/e06/e06s04.rpy:231
 translate russian e06s04_c95a234f:
@@ -334,7 +334,7 @@ translate russian e06s04_drinks_176560fe:
 translate russian e06s04_drinks_871bd10a:
 
     # sy "Wow. That's actually not bad at all, Lydia. You could give Iona a run for her money."
-    sy "Ух ты. Это на самом деле очень неплохо, Лидия. Ты могла бы отбирать у Ионы деньги."
+    sy "Ух ты. Это очень даже неплохо, Лидия. Ты могла бы отбирать у Ионы деньги."
 
 # game/code/e06/e06s04.rpy:290
 translate russian e06s04_drinks_e79a2d54:
@@ -346,7 +346,7 @@ translate russian e06s04_drinks_e79a2d54:
 translate russian e06s04_drinks_49d7f679:
 
     # lc "But now I get to help those I chose."
-    lc "Но теперь я могу помочь тем, кого выбрала сама."
+    lc "Но теперь я могу помогать тем, кого выбрала сама."
 
 # game/code/e06/e06s04.rpy:295
 translate russian e06s04_drinks_ea4ff881:
@@ -364,7 +364,7 @@ translate russian e06s04_later_908a5de0:
 translate russian e06s04_later_facdc3eb:
 
     # mc "You're right. Shit. I should have prepared something to honor the day."
-    mc "Ты права. Блин. Надо было мне подготовить что-нибудь в честь этого дня."
+    mc "Ты права. Блин. Надо было мне что-нибудь подготовить, чтобы запомнить этот день."
 
 # game/code/e06/e06s04.rpy:326
 translate russian e06s04_later_b940ce0c:
@@ -388,7 +388,7 @@ translate russian e06s04_later_ad6d5f24:
 translate russian e06s04_later_13c84637:
 
     # sy "You still have no jitters about all this? Having us all live here, and each of us getting our brains fucked to oblivion by the lucky stallion here."
-    sy "Ты до сих пор не нервничаешь по поводу всего этого? Мы все будем здесь жить, и каждая из нас будет до смерти вытрахиват свои мозги с этим счастливый жеребец."
+    sy "Ты до сих пор не нервничаешь по поводу всего этого? Мы все будем здесь жить, и каждая из нас будет до смерти вытрахивать свои мозги с этим счастливым жеребецом."
 
 # game/code/e06/e06s04.rpy:339
 translate russian e06s04_later_3f45d272:
@@ -400,19 +400,19 @@ translate russian e06s04_later_3f45d272:
 translate russian e06s04_later_6dce681b:
 
     # arj "Meeting Stacy helped. But you and I are very different."
-    arj "Встреча со Стейси помогла. Но мы с тобой очень разные."
+    arj "Встреча со Стейси помогла. Но с тобой мы очень разные."
 
 # game/code/e06/e06s04.rpy:345
 translate russian e06s04_later_80b52b85:
 
     # lc "Of course, I'm alright with it. I love [mcname] with all my heart, and nothing gets me more excited than seeing him fuck other girls."
-    lc "Конечно, меня это устраивает. Я люблю [mcname] всем сердцем, и ничто не возбуждает меня больше, чем видеть, как он трахает других девушек."
+    lc "Конечно, меня это устраивает. Я всем сердцем люблю [mcname], и ничто не возбуждает меня больше, чем видеть, как он трахает других девушек."
 
 # game/code/e06/e06s04.rpy:348
 translate russian e06s04_later_da4a14a6:
 
     # sy "But you still want him to fuck you one day, right?"
-    sy "Но ты всё равно хочешь, чтобы он однажды тебя трахнул, верно?"
+    sy "Но ты всё равно хочешь, чтобы он однажды трахнул тебя, верно?"
 
 # game/code/e06/e06s04.rpy:351
 translate russian e06s04_later_2c1fea64:
@@ -508,7 +508,7 @@ translate russian e06s04_later_54d5500a:
 translate russian e06s04_later_afd6f833:
 
     # arj "Of course. It will be like helping out my sister, I'd love to, Lydia."
-    arj "Конечно. Это будет похоже на помощь сестре, с радостью, Лидия."
+    arj "Конечно. Это будет похоже на помощь сестре, я только с радостью, Лидия."
 
 # game/code/e06/e06s04.rpy:396
 translate russian e06s04_later_0389a1ef:
@@ -520,7 +520,7 @@ translate russian e06s04_later_0389a1ef:
 translate russian e06s04_later_7069d532:
 
     # sy "Yeah. Who is running this shebang anyway?"
-    sy "Ага. А кто вообще заправляет всем этим делом?"
+    sy "Ага. А кто вообще всем этим делом заправляет?"
 
 # game/code/e06/e06s04.rpy:402
 translate russian e06s04_later_e756f4b3:
@@ -568,19 +568,19 @@ translate russian e06s04_later_31e6984c:
 translate russian e06s04_later_95c98222:
 
     # sy "I think she even officiated a wedding for some of her friends."
-    sy "Думаю, она даже проводила свадьбу для некоторых своих друзей."
+    sy "Кажется, она даже проводила свадьбу для некоторых своих друзей."
 
 # game/code/e06/e06s04.rpy:424
 translate russian e06s04_later_8e7a88ff:
 
     # mc "Is that alright with you, my darling?"
-    mc "Ты не против, дорогая моя?"
+    mc "Дорогая, ты не против?"
 
 # game/code/e06/e06s04.rpy:427
 translate russian e06s04_later_2061a105:
 
     # lc "As long as we get to say our own vows, Lyssa sounds perfect for the job."
-    lc "Пока мы способны произносить свои собственные клятвы, Лисса идеально подходит для этой работы."
+    lc "Если она даст нам произнести свои собственные клятвы, Лисса идеально подойдёт для этой работы."
 
 # game/code/e06/e06s04.rpy:430
 translate russian e06s04_later_18e9117a:
@@ -592,7 +592,7 @@ translate russian e06s04_later_18e9117a:
 translate russian e06s04_later_a4b09457:
 
     # mes "I can lend a hand as well. I know a delightful place close by that makes amazing cakes."
-    mes "Я тоже могу оказать помощь. Я знаю одно восхитительное место, где делают потрясающие торты."
+    mes "Я тоже могу помочь. Я знаю восхитительное местечко, где делают потрясающие торты."
 
 # game/code/e06/e06s04.rpy:435
 translate russian e06s04_later_58019f45:
@@ -610,7 +610,7 @@ translate russian e06s04_later_d6fd6991:
 translate russian e06s04_later_03cf1a1f:
 
     # arj "Well, if the cake is taken, I'm sure I can handle decorations. Where are you two planning to have the event?"
-    arj "Ну, раз торт занят, то я точно уверена, что справлюсь с украшениями. Где вы планируете провести мероприятие?"
+    arj "Ну, раз торт уже занят, то я точно уверена, что справлюсь с украшениями. Где вы планируете провести мероприятие?"
 
 # game/code/e06/e06s04.rpy:446
 translate russian e06s04_later_a851a215:
@@ -622,19 +622,19 @@ translate russian e06s04_later_a851a215:
 translate russian e06s04_later_14f64169:
 
     # lc "We don't need one. We can have it right here."
-    lc "Нам он не нужен. Мы можем получить это прямо здесь."
+    lc "Нам оно не нужно. Мы можем всё провести прямо здесь."
 
 # game/code/e06/e06s04.rpy:452
 translate russian e06s04_later_b917e772:
 
     # mc "You're serious, aren't you?"
-    mc "Ты серьёзно, да?"
+    mc "Ты сейчас серьёзно, да?"
 
 # game/code/e06/e06s04.rpy:455
 translate russian e06s04_later_3c351097:
 
     # lc "We don't need a big spot or some fancy place with a fancy name."
-    lc "Нам не нужно много места или чего-то модного с изысканными названиями."
+    lc "Нам не нужно много места или каких-то модных рестаранов с изысканными названиями."
 
 # game/code/e06/e06s04.rpy:458
 translate russian e06s04_later_318460bb:
@@ -670,7 +670,7 @@ translate russian e06s04_later_6c5cdb32:
 translate russian e06s04_later_9963463c:
 
     # lc "All I need is you, [mcname]. Everything else will fall into place, I know it will. I love you, darling."
-    lc "Все, что мне нужно, это ты, [mcname]. Всё остальное встанет на свои места, я знаю. Дорогой, я люблю тебя."
+    lc "Все, что мне нужно, это ты, [mcname]. Всё остальное само встанет на свои места, я уверена. Я люблю тебя, дорогой."
 
 # game/code/e06/e06s04.rpy:480
 translate russian e06s04_later_31152f7e:
@@ -688,7 +688,7 @@ translate russian e06s04_later_a910dc2d:
 translate russian e06s04_later_1be08199:
 
     # mes "Isn't every day of his life a bachelor party?"
-    mes "Разве каждый день его жизни не мальчишник?"
+    mes "Разве не каждый день его жизни как мальчишник?"
 
 # game/code/e06/e06s04.rpy:490
 translate russian e06s04_later_cf0a62d7:
@@ -700,25 +700,25 @@ translate russian e06s04_later_cf0a62d7:
 translate russian e06s04_later_6bea0edd:
 
     # arj "I'm sure he wouldn't say no to a special surprise that doesn't include a cock cage."
-    arj "Я уверен, что он не откажется от особого сюрприза, в который не входит клетка для члена."
+    arj "Я уверена, что он не откажется от особого сюрприза, в который не входит клетка для члена."
 
 # game/code/e06/e06s04.rpy:496
 translate russian e06s04_later_8257c83d:
 
     # mes "Sounds like you're volunteering to take over this part of the planning Stacy."
-    mes "Похоже, ты добровольно соглашаешься взять на себя эту часть, Стейси."
+    mes "Звучит так, будто ты добровольно соглашаешься взять на себя эту часть, Стейси."
 
 # game/code/e06/e06s04.rpy:499
 translate russian e06s04_later_e00e4fee:
 
     # sy "Totally. I can put something together. No problem."
-    sy "Полностью. Я могу что-нибудь придумать. Без проблем."
+    sy "Полностью. Я смогу что-нибудь придумать. Без проблем."
 
 # game/code/e06/e06s04.rpy:502
 translate russian e06s04_later_28c66834:
 
     # arj "You don't have to do it alone. In fact, I know a girl that I think would be perfect for the main event. She's always the best and makes a party really shine."
-    arj "Тебе не обязательно делать это в одиночку. На самом деле, я знаю девушку, которая, как мне кажется, идеально подойдёт для главного события. Она всегда самая лучшая и делает вечеринки по-настоящему блестящими."
+    arj "Тебе не обязательно делать это в одиночку. На самом деле, я знаю девушку, которая, как мне кажется, идеально подойдёт для главного события. Она самая лучшая и делает вечеринки по-настоящему блестящими."
 
 # game/code/e06/e06s04.rpy:505
 translate russian e06s04_later_35abc2db:

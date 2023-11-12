@@ -52,7 +52,7 @@ translate russian e06s09_missionary_c7f4135d:
 translate russian e06s09_missionary_09989746:
 
     # mct "After all, it must be traditional for a reason."
-    mct "В конце концов, не просто так он является традиционным."
+    mct "В конце концов, не просто так оно является традиционным."
 
 # game/code/e06/e06s09.rpy:229
 translate russian e06s09_missionary_7d4d0d96:
@@ -100,13 +100,13 @@ translate russian e06s09_blowjob_a31340dd:
 translate russian e06s09_blowjob_316340f3:
 
     # lc "On command. Anytime you want me."
-    lc "По любой команде. В любое время, когда ты захочешь."
+    lc "По твоей команде. В любое время, когда ты захочешь."
 
 # game/code/e06/e06s09.rpy:281
 translate russian e06s09_blowjob_c1b91c89:
 
     # mct "Fuck me! I hope she means it!"
-    mct "Нихера себе! Я надеюсь, что она именно это имеет в виду!"
+    mct "Нихера себе! Надеюсь, она именно это имеет в виду!"
 
 # game/code/e06/e06s09.rpy:282
 translate russian e06s09_blowjob_a504f2ae:
@@ -136,7 +136,7 @@ translate russian e06s09_blowjob_238c369f:
 translate russian e06s09_blowjob_511f9af8:
 
     # mct "Just like that - she's doing it!"
-    mct "Просто как сейчас - она это делает!"
+    mct "Прямо как сейчас - она это делает!"
 
 # game/code/e06/e06s09.rpy:289
 translate russian e06s09_blowjob_781f7f60:
@@ -148,7 +148,7 @@ translate russian e06s09_blowjob_781f7f60:
 translate russian e06s09_together_167fa10b:
 
     # lc "Can I try something?"
-    lc "Могу я попробовать кое-что?"
+    lc "Могу я кое-что попробовать?"
 
 # game/code/e06/e06s09.rpy:323
 translate russian e06s09_together_d425daa3:
@@ -184,13 +184,13 @@ translate russian e06s09_together_91a20702:
 translate russian e06s09_together_54f836b6:
 
     # lc "You don't feel emasculated that I'm doing the work?"
-    lc "Ты не чувствуешь себя униженным из-за того, что я делаю это?"
+    lc "Ты не чувствуешь себя униженным из-за того, что это делаю я?"
 
 # game/code/e06/e06s09.rpy:351
 translate russian e06s09_together_f6fadba3:
 
     # mc "You should know by now that I'm too confident for that."
-    mc "Ты уже должен знать, что я слишком уверен в себе."
+    mc "Ты уже должна знать, что я слишком уверен в себе."
 
 # game/code/e06/e06s09.rpy:353
 translate russian e06s09_together_3e61e093:
@@ -202,7 +202,7 @@ translate russian e06s09_together_3e61e093:
 translate russian e06s09_stand_up_2394b2d9:
 
     # lc "You are so beautiful, hon."
-    lc "Ты прекрасен, дорогой."
+    lc "Дорогой, ты так прекрасен."
 
 # game/code/e06/e06s09.rpy:379
 translate russian e06s09_stand_up_bb0eeaf4:
@@ -298,7 +298,7 @@ translate russian e06s09_doggy_style_16667cda:
 translate russian e06s09_doggy_style_ba21d87e:
 
     # mc "I bet you do. I bet my cock is hitting your G-Spot in just the right way."
-    mc "Конечно да. Мне кажется, что мой член попадает в твою точку G именно так, как нужно."
+    mc "Готов поспорить, что да. Мне кажется, что мой член попадает в твою точку G именно так, как нужно."
 
 # game/code/e06/e06s09.rpy:473
 translate russian e06s09_doggy_style_5bb94fae:
@@ -310,7 +310,7 @@ translate russian e06s09_doggy_style_5bb94fae:
 translate russian e06s09_doggy_style_138d226b:
 
     # mc "It also lets me look at your sexy ass..."
-    mc "Это также позволяет мне любоваться твоей сексуальной задницей..."
+    mc "Ещё это позволяет мне любоваться твоей сексуальной задницей..."
 
 # game/code/e06/e06s09.rpy:484
 translate russian e06s09_doggy_style_f32209bb:
@@ -346,13 +346,13 @@ translate russian e06s09_doggy_style_e4a24454:
 translate russian e06s09_doggy_style_ddc40df9:
 
     # lc "I don't care if we're at a baseball game and you drag me out to the pitcher's mound for everyone to see!"
-    lc "Меня не волнует, даже если мы будем на бейсбольном матче и ты вытащишь меня к питчерской площадке, чтобы все видели!\n\n{size=-10}{i}(Питчер - игрок, бросающий мяч){/i}{/size}"
+    lc "Меня не волнует, даже если мы будем на бейсбольном матче и ты вытащишь меня к питчерской площадке, чтобы все видели!\n\n{size=-10}{i}(Питчерская площадка - холм на поле, с которого бросают мяч){/i}{/size}"
 
 # game/code/e06/e06s09.rpy:496
 translate russian e06s09_doggy_style_844eea23:
 
     # lc "Just don't fuck my ass tonight!"
-    lc "Только не трахай меня сегодня вечером!"
+    lc "Только не трахай мою задницу сегодня вечером!"
 
 # game/code/e06/e06s09.rpy:498
 translate russian e06s09_doggy_style_56c3991c:
@@ -370,7 +370,7 @@ translate russian e06s09_doggy_style_4950835e:
 translate russian e06s09_doggy_style_07055240:
 
     # mc "Sounds like a good reason to me!"
-    mc "Мне кажется, это веская причина!"
+    mc "Кажется, это веская причина!"
 
 # game/code/e06/e06s09.rpy:532
 translate russian e06s09_face_fuck_fcfc1999:
@@ -574,7 +574,7 @@ translate russian e06s09_fancy_135729c7:
 translate russian e06s09_fancy_a532dc22:
 
     # mc "Nevermind. I was trying something complicated and stupid."
-    mc "Забудь. Я пытался сделать что-то сложное и глупое."
+    mc "Забудь. Я пытался сделать кое-что сложное и глупое."
 
 # game/code/e06/e06s09.rpy:706
 translate russian e06s09_fancy_a723ea66:
@@ -694,7 +694,7 @@ translate russian e06s09_screw_her_f68078e3:
 translate russian e06s09_screw_her_1d7c8383:
 
     # lc "Oh fuck! That hits the spot!"
-    lc "Ох чёрт! Ты попадаешь в точку!"
+    lc "Ох чёрт! Ты попадаешь прямо в точку!"
 
 # game/code/e06/e06s09.rpy:866
 translate russian e06s09_screw_her_dac0c581:
@@ -826,7 +826,7 @@ translate russian e06s08_climax_bc6d0f37:
 translate russian e06s08_post_climax_1532cbc7:
 
     # lc "May the rest of our Harem join us, my love?"
-    lc "Может остальная часть нашего Гарема присоединятся к нам, любовь моя?"
+    lc "Может к нам присоединиться остальная часть нашего Гарема, любовь моя?"
 
 # game/code/e06/e06s09.rpy:973
 translate russian e06s08_post_climax_1bf60051:
@@ -868,7 +868,7 @@ translate russian e06s08_post_climax_83d31341:
 translate russian e06s08_post_climax_a5623b5f:
 
     # lc "It was, but I was paying attention. So was [mcname]."
-    lc "Был, но я обратила внимание. Как и [mcname]."
+    lc "Был, но я заметила. Как и [mcname]."
 
 # game/code/e06/e06s09.rpy:1001
 translate russian e06s08_post_climax_8a559bcf:
@@ -880,7 +880,7 @@ translate russian e06s08_post_climax_8a559bcf:
 translate russian e06s08_post_climax_efb44bd6:
 
     # lc "[mcname] gave you a hard time at our wedding about the ring, even though you did everything perfectly."
-    lc "[Макнейм] не отставал от тебя из-за кольца, хотя ты всё сделала идеально."
+    lc "[mcname] не отставал от тебя из-за кольца, хотя ты всё сделала идеально."
 
 # game/code/e06/e06s09.rpy:1005
 translate russian e06s08_post_climax_3f69810d:
@@ -910,13 +910,13 @@ translate russian e06s08_post_climax_b3c74862:
 translate russian e06s08_post_climax_ed7f1764:
 
     # sy "I should've realized you wanted-"
-    sy "Я должнп была понять, чего ты хочешь..."
+    sy "Я должна была понять, чего ты хочешь..."
 
 # game/code/e06/e06s09.rpy:1015
 translate russian e06s08_post_climax_25d942f6:
 
     # lc "Shhh... {w}I was being a bit of a Bridezilla and I know it."
-    lc "Тссс... {w}Я была одержима свадьбой, и я знаю это."
+    lc "Тшшш... {w}Я была одержима свадьбой, и я это знаю."
 
 # game/code/e06/e06s09.rpy:1017
 translate russian e06s08_post_climax_a91921f8:
@@ -958,7 +958,7 @@ translate russian e06s08_post_climax_99020f4f:
 translate russian e06s08_post_climax_c71873e9:
 
     # lc "We know we made your life difficult."
-    lc "Мы знаем, что усложнили вам жизнь."
+    lc "Мы знаем, что усложнили тебе жизнь."
 
 # game/code/e06/e06s09.rpy:1032
 translate russian e06s08_post_climax_e31a0387:
@@ -1132,7 +1132,7 @@ translate russian e06s08_post_climax_4c1e1eb0:
 translate russian e06s08_post_climax_7714ab17:
 
     # mc "Perhaps a little nap, then we can do it all over again?"
-    mc "Может быть, немного вздемнём, и потом повторим ещё разок?"
+    mc "Может быть, немного вздремнём, и потом повторим ещё разок?"
 
 # game/code/e06/e06s09.rpy:1109
 translate russian e06s08_post_climax_077cb4e1:
