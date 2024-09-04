@@ -16,7 +16,7 @@ translate spanish e10s06_7d3f3bd6:
 translate spanish e10s06_afeef655:
 
 
-    mc "{b}{b}¡¡MIERDA SÍ!!{/b}"
+    mc "{b}¡¡MIERDA SÍ!!{/b}"
 
 
 translate spanish e10s06_b19d44e8:
@@ -359,4 +359,5 @@ translate spanish strings:
 
     old "Few months later"
     new "Unos meses después"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

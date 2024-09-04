@@ -66,7 +66,6 @@ label d17s05mh:
     play sound maria_kiss1
     play voice3 dahlia_sex_closedmoan1 noloop
 
-
     $ Lovense.stop()
 
     scene d17s05a-03 mh-lyssa-solo with dissolve
@@ -233,7 +232,7 @@ label d17s05mh:
     play sound sfx_bed_fall1
     scene d17s05a-41 mh-lyssa-solo with dissolve
     menu:
-        "Jerk her off"(hint="d17s05mhm01c01") if True:
+        "Jerk her off"(hint="d17s05mhm01c01"):
 
             $ d17s05_mh_jerk = True
 
@@ -268,7 +267,7 @@ label d17s05mh:
                 mc "Good girl."
             pause
             mh "*Muffled* I'm— Cu—"
-        "Give her a blowjob"(hint="d17s05mhm01c02") if True:
+        "Give her a blowjob"(hint="d17s05mhm01c02"):
 
 
             $ d17s05_mh_bj = True
@@ -321,7 +320,7 @@ label d17s05mh:
                 mh "[mcname], I— I'm gonna cum."
 
     menu:
-        "Edge Lyssa"(hint="d17s05mhm02c01") if True:
+        "Edge Lyssa"(hint="d17s05mhm02c01"):
 
             $ d17s05_mh_edge = True
 
@@ -337,7 +336,7 @@ label d17s05mh:
                 mc "Not yet. Not until I say so."
             elif True:
                 mc "Not yet. Just wait a bit more."
-        "Let Lyssa cum"(hint="d17s05mhm02c02") if True:
+        "Let Lyssa cum"(hint="d17s05mhm02c02"):
 
 
             play voice2 mc_thinking_mmm1 noloop
@@ -369,13 +368,13 @@ label d17s05mh:
     mh "*Staggered moans* I love you so much, [mcname]."
 
     menu:
-        "I love you too"(hint="d17s05mhm03c01") if True:
+        "I love you too"(hint="d17s05mhm03c01"):
             $ d17s05_love_mh = True
 
             scene d17s05a-66 mh-lyssa-solo with dissolve
             play voice2 mc_scared_oh4 noloop
             mc "I love you too. So much."
-        "Kiss her instead"(hint="d17s05mhm03c02") if True:
+        "Kiss her instead"(hint="d17s05mhm03c02"):
 
             pass
 
@@ -479,7 +478,7 @@ label d17s05mh:
     $ Lovense.vibrate(5)
     if date_mh_bdsm is True:
         menu:
-            "Cum in her mouth"(hint="d17s05mhm04c01") if True:
+            "Cum in her mouth"(hint="d17s05mhm04c01"):
                 scene d17s05a-76 mh-lyssa-solo with dissolve
                 play voice2 mc_thinking_hmm1 noloop
                 mc "You want to feel me fill you up? Alright. Open your mouth."
@@ -497,7 +496,7 @@ label d17s05mh:
                 $ Lovense.vibrate(3)
                 scene d17s05a-80 mh-lyssa-solo with dissolve
                 pause
-            "Cum in her ass"(hint="d17s05mhm04c02") if True:
+            "Cum in her ass"(hint="d17s05mhm04c02"):
 
 
                 $ d17s05_mh_cum_ass = True
@@ -625,7 +624,6 @@ label d17s05mh_cuddle:
     scene d17s05a-101 mh-lyssa-solo with dissolve
     pause
 
-
     $ Lovense.stop()
 
     play sound3 park fadein 2.0
@@ -637,4 +635,5 @@ label d17s05mh_cuddle:
 
     stop music fadeout 4.0
     jump d17s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

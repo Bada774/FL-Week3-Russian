@@ -50,9 +50,13 @@ init python:
         "e02s05"    : "e02s05-31 mc-mh-tub2_c3"                       ,
         "e02s09"    : "e02s09-64 mc-mh-sleep-cuddled_c1"              ,
 
+        "e04s01"    : "e04s08-41 lc-mc-pov-on-floor-begging"          ,
+
         "e06s01"    : "e06s01-15 mc-lc-reentry1_c2"                   ,
         "e06s04"    : "e06s04-121-mes-talk-lc"                        ,
         "e06s07"    : "e06s07-25 sy-listens-lc-vow_c1"                ,
+
+        "e07s01"    : "e07s06-00 final_challenge_walkingn_lc_smug"    ,
 
         "e08s01"    : "e8s01-95 amr-talk-alt-amr"                     ,
         "e08s07"    : "e08s07-49 sy-leans-over-produce_c1"            ,
@@ -60,11 +64,17 @@ init python:
         "e10s03"    : "e10s03-98 mc-celebration-pose_c1"              ,
         "e10s04"    : "e10s04-54 mc-kisses-mes_c1"                    ,
 
+        "e11s01"    : "e11s07-175-mc-talk-dd"                         ,
+
         "e12s01"    : "e12s07-139-aw-vw-relaxed-end"                  ,
 
         "e13s01"    : "e13s01-46 mc-nk-construction-rest_c10"         ,
         "e13s02"    : "e13s02-06-nk-look-jim"                         ,
 
         "e14s01"    : "e14s07-115 all-do-yoga-end-scene_c1"           ,
+
+        "e17s01"    : "e17s06-123 mc-kisses-dw-hand_c1"               ,
+        "e17s02"    : "e17s06-123 mc-kisses-dw-hand_c1"               ,
     }
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

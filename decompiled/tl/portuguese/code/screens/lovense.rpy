@@ -132,9 +132,10 @@ translate portuguese strings:
 
 
     old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
-    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "Pegue um brinquedinho Lovense e aproveite a melhor forma de jogar Fetish Locator!"
 
 
     old "Get a toy now"
-    new "Get a toy now"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Comprar um brinquedo agora"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -158,7 +158,6 @@ label replay_d20s02rn hide:
     mk "Exactly, Ronald.{w} We're not Professor and Student anymore. At least not for the summer."
     mk "It could be a long, hard summer for both of us."
 
-
     $ Lovense.stop()
 
     scene d20s02-35-rn-talk-mk with dissolve
@@ -353,10 +352,10 @@ label replay_d20s02rn hide:
     play voice2 d1s5_mchappy noloop volume 1.4
     mct "Technically he is penetrating her - but it's only her mouth.{w} That might be enough."
     menu:
-        "Interrupt them"(hint="d20s02rnm01c01") if True:
+        "Interrupt them"(hint="d20s02rnm01c01"):
             $ d20s02rn_stop_facefuck = True
             jump d20s02rn_interrupt
-        "Let them keep going"(hint="d20s02rnm01c02") if True:
+        "Let them keep going"(hint="d20s02rnm01c02"):
 
             jump d20s02rn_cont_anal
 
@@ -430,10 +429,10 @@ label d20s02rn_cont_anal:
     play voice2 mc_arrogant_hm1 noloop
     mct "She said this might happen.{w} He's fucking her ass. I could interrupt them now."
     menu:
-        "Interrupt them"(hint="d20s02rnm02c01") if True:
+        "Interrupt them"(hint="d20s02rnm02c01"):
             $ d20s02rn_stop_anal = True
             jump d20s02rn_interrupt
-        "Let them keep going"(hint="d20s02rnm02c02") if True:
+        "Let them keep going"(hint="d20s02rnm02c02"):
 
             jump d20s02rn_cont_atm
 
@@ -491,10 +490,10 @@ label d20s02rn_cont_atm:
     mct "Fuck this is hard to watch. He's actually making her ATM his cock."
     mct "I should probably interrupt them before..."
     menu:
-        "Interrupt them"(hint="d20s02rnm03c01") if True:
+        "Interrupt them"(hint="d20s02rnm03c01"):
             $ d20s02rn_stop_atm = True
             jump d20s02rn_interrupt
-        "Let them keep going"(hint="d20s02rnm03c02") if True:
+        "Let them keep going"(hint="d20s02rnm03c02"):
 
             jump d20s02rn_cont_creampie
 
@@ -582,7 +581,6 @@ label d20s02rn_interrupt:
     play sound sfx_door_closed2 volume 1.4
     $ renpy.music.set_volume(0.25, 1.5, "music")
     scene d20s02-116-mc-enter-office with fade
-
 
     $ Lovense.stop()
 
@@ -693,4 +691,5 @@ label d20s02rn_interrupt:
 
     stop music fadeout 3.0
     jump d20s02zw
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

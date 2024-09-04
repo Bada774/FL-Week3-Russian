@@ -359,4 +359,5 @@ translate korean strings:
 
     old "Few months later"
     new "Few months later"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

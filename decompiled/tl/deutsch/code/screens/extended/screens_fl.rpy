@@ -4,27 +4,27 @@ translate deutsch strings:
 
 
     old "CG Gallery"
-    new "CG Gallery"
+    new "CG Galerie"
 
 
     old "Replay Room"
-    new "Replay Room"
+    new "Wiederholungsraum"
 
 
     old "Bonus Content"
-    new "Bonus Content"
+    new "Bonusinhalte"
 
 
     old "Hints on"
-    new "Hints on"
+    new "Hinweise an"
 
 
     old "Hints off"
-    new "Hints off"
+    new "Hinweise aus"
 
 
     old "Page [page]"
-    new "Page [page]"
+    new "Seite [page]"
 
 
     old "<"
@@ -36,5 +36,6 @@ translate deutsch strings:
 
 
     old "Coming Soon"
-    new "Coming Soon"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Demnächst"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -4,25 +4,25 @@
 translate deutsch e01s02_fd8d44aa:
 
 
-    mc "Where the fuck are we going?"
+    mc "Wo zum Teufel gehen wir hin?"
 
 
 translate deutsch e01s02_b13190df:
 
 
-    sy "I told you. It's a surprise."
+    sy "Ich hab dir doch gesagt, es ist eine Überraschung."
 
 
 translate deutsch e01s02_02444371:
 
 
-    mc "It's a surprise that requires we get on the train?"
+    mc "Eine Überraschung, die erfordert, dass wir in einen Zug steigen?"
 
 
 translate deutsch e01s02_c765f27b:
 
 
-    sy "No, silly. Just riding the metro for a few stops. I promise we'll stay in the same city."
+    sy "Nein, Dummkopf. Wir fahren nur ein paar Stationen mit der U-Bahn. Ich verspreche, wir bleiben in der gleichen Stadt."
 
 
 translate deutsch e01s02_bc4fd44d:
@@ -34,139 +34,139 @@ translate deutsch e01s02_bc4fd44d:
 translate deutsch e01s02_a76db968:
 
 
-    sy "I'm glad you decided to live with me. I was afraid you'd go to AmRose's house."
+    sy "Ich freue mich, dass du dich entschieden hast, mit mir zu leben. Ich hatte Angst, du würdest zu AmRose gehen."
 
 
 translate deutsch e01s02_f603434c:
 
 
-    mc "I hadn't thought of that. She does have a bigger bed..."
+    mc "Darüber hatte ich nicht nachgedacht. Sie hat tatsächlich ein größeres Bett..."
 
 
 translate deutsch e01s02_24fb4913:
 
 
-    sy "What?!"
+    sy "Was?!"
 
 
 translate deutsch e01s02_d7e307e4:
 
 
-    mc "I'm kidding. You know you're my number one girl."
+    mc "Ich mach nur Spaß. Du weißt, du bist meine Nummer eins."
 
 
 translate deutsch e01s02_d647c5ff:
 
 
-    mc "You're the only one I want to go to bed with at night and wake up next to in the morning."
+    mc "Du bist die Einzige, mit der ich nachts ins Bett gehen und morgens aufwachen möchte."
 
 
 translate deutsch e01s02_2609d69d:
 
 
-    sy "I believe you."
+    sy "Ich glaube dir."
 
 
 translate deutsch e01s02_0cc2e585:
 
 
-    sy "Okay, enough with the mushy stuff. Let me tell you about your surprise!"
+    sy "Okay, genug von den Gefühlsduseleien. Lass mich dir von deiner Überraschung erzählen!"
 
 
 translate deutsch e01s02_39f27e8d:
 
 
-    mc "I'm all ears. {w}Train it coming!"
+    mc "Ich bin ganz Ohr. {w}Der Zug kommt!"
 
 
 translate deutsch e01s02_515262ce:
 
 
-    sy "What do you want most in life?"
+    sy "Was möchtest du gerade am meisten im Leben?"
 
 
 translate deutsch e01s02_0cbcc25b:
 
 
-    mc "I have no idea."
+    mc "Keine Ahnung."
 
 
 translate deutsch e01s02_c8261eaf:
 
 
-    sy "Of course you do! What would you want to do right now if you weren't doing this?"
+    sy "Natürlich weißt du das! Was würdest du jetzt tun, wenn du das hier nicht machen würdest?"
 
 
 translate deutsch e01s02_aad729bb:
 
 
-    mc "Play some video games and take a nap?"
+    mc "Ein paar Videospiele spielen und ein Nickerchen machen?"
 
 
 translate deutsch e01s02_1fdb905b:
 
 
-    sy "Gah! Just..."
+    sy "Ach! Einfach..."
 
 
 translate deutsch e01s02_a15b4a11:
 
 
-    sy "What would you do if you won a few hundred million dollars?"
+    sy "Was würdest du tun, wenn du ein paar hundert Millionen Dollar gewinnen würdest?"
 
 
 translate deutsch e01s02_b68059e8:
 
 
-    mc "Isn't it supposed to be just a million dollars?"
+    mc "Sollte es nicht nur eine Million Dollar sein?"
 
 
 translate deutsch e01s02_9cef3f26:
 
 
-    sy "Yeah, but if you work a decent job with raises and inflation and all that - I'd be surprised if you don't make a few million before you turn seventy."
+    sy "Ja, aber wenn du einen anständigen Job mit Gehaltserhöhungen und Inflation und all dem hast - ich wäre überrascht, wenn du nicht ein paar Millionen machst, bevor du siebzig wirst."
 
 
 translate deutsch e01s02_d45a66d7:
 
 
-    mc "Alright, alright. So, I hit the lotto or go to the casino and hit the jackpot."
+    mc "Schon gut, schon gut. Also, ich gewinne im Lotto oder gehe ins Casino und räume den Jackpot ab."
 
 
 translate deutsch e01s02_0c1fa20a:
 
 
-    sy "Something like that. Enough money that you'll never have to work again."
+    sy "So in etwa. Genug Geld, dass du nie wieder arbeiten musst."
 
 
 translate deutsch e01s02_d094470a:
 
 
-    mc "If I'm smart I get a lawyer to accept it for me, buying me a few months before the con artists figure out who I am."
+    mc "Wenn ich klug bin, lasse ich es einen Anwalt für mich annehmen, um mir ein paar Monate Zeit zu verschaffen, bevor die Betrüger herausfinden, wer ich bin."
 
 
 translate deutsch e01s02_cf421ca5:
 
 
-    mc "Every fucking relative will come out of the woodwork asking for a few thousand for something or a few hundred thousand to start their own business."
+    mc "Jeder verdammte Verwandte wird aus dem Nichts auftauchen und nach ein paar tausend Dollar für irgendetwas fragen oder nach ein paar hunderttausend, um ihr eigenes Geschäft zu starten."
 
 
 translate deutsch e01s02_e7c95eb8:
 
 
-    mc "Every time I go to the grocery store or whatever I'd have to worry about scam artists trying to fake injuries and sue me."
+    mc "Jedes Mal, wenn ich in den Lebensmittelladen oder so gehe, müsste ich mich vor Betrügern fürchten, die versuchen, Verletzungen vorzutäuschen und mich zu verklagen."
 
 
 translate deutsch e01s02_08cc5e15:
 
 
-    mc "Not to mention all the women I've had sex with who suddenly want something out of me."
+    mc "Nicht zu vergessen all die Frauen, mit denen ich geschlafen habe, die plötzlich etwas von mir wollen."
 
 
 translate deutsch e01s02_73b4c8d5:
 
 
-    mc "I'd end up secluded in some desert compound having my meals delivered to me by bonded couriers until the million ran out."
+    mc "Ich würde in irgendeinem abgelegenen Wüstengelände enden und meine Mahlzeiten würden mir von Boten geliefert werden, bis das Geld alle ist."
 
 
 translate deutsch e01s02_5c2c7bcf:
@@ -184,139 +184,139 @@ translate deutsch e01s02_7ae3f46d:
 translate deutsch e01s02_b40d48cd:
 
 
-    mc "I'm just saying... it sounds like hell."
+    mc "Ich sage nur... es klingt wie die Hölle."
 
 
 translate deutsch e01s02_e49de7e0:
 
 
-    sy "Let's try this another way. Forget about the windfall income. If you could do anything you want - what would you do?"
+    sy "Lass uns das auf eine andere Weise versuchen. Vergiss den plötzlichen Gewinn. Wenn du alles tun könntest, was du willst - was würdest du tun?"
 
 
 translate deutsch e01s02_495e8a83:
 
 
-    mc "Exactly what I'm doing."
+    mc "Genau das, was ich gerade mache."
 
 
 translate deutsch e01s02_7dde65b5:
 
 
-    sy "Will you take this seriously?"
+    sy "Nimmst du das ernst?"
 
 
 translate deutsch e01s02_3498fe23:
 
 
-    mc "Seriously, I've learned that I can do anyone I want. So, that's what I do."
+    mc "Im Ernst, ich habe gelernt, dass ich machen kann, was ich will. Also mache ich das."
 
 
 translate deutsch e01s02_01226ad5:
 
 
-    sy "*sigh*"
+    sy "*seufz*"
 
 
 translate deutsch e01s02_a5fcf329:
 
 
-    mc "That's why I'm with you."
+    mc "Das ist der Grund, warum ich bei dir bin."
 
 
 translate deutsch e01s02_2c1e7a45:
 
 
-    sy "Okay, good save, but you're not making this easy."
+    sy "Okay, gut gerettet, aber du machst es mir nicht leicht."
 
 
 translate deutsch e01s02_2ff81412:
 
 
-    mc "Let's turn those questions around. If you had unlimited wealth and the ability to do anything you wanted to do - what would you do?"
+    mc "Drehen wir diese Fragen um. Wenn du unbegrenzten Reichtum und die Fähigkeit hättest, alles zu tun, was du tun möchtest - was würdest du tun?"
 
 
 translate deutsch e01s02_e0bf9cc1:
 
 
-    sy "EXACTLY!!!"
+    sy "GENAU!!!"
 
 
 translate deutsch e01s02_bf2fb6d6:
 
 
-    sy "That's what I'm talking about. Phase two of my master plan."
+    sy "Darum geht es. Phase zwei meines Masterplans."
 
 
 translate deutsch e01s02_910ed95d:
 
 
-    mc "Your master plan? Does it involve computers?"
+    mc "Dein Masterplan? Involviert der Computer?"
 
 
 translate deutsch e01s02_9623a576:
 
 
-    sy "No, not really. You're off track again."
+    sy "Nein, eigentlich nicht. Du bist wieder vom Kurs abgekommen."
 
 
 translate deutsch e01s02_b7334897:
 
 
-    sy "I do enjoy computers and comp sci stuff, but that's just my backup plan."
+    sy "Ich mag Computer und Informatik, aber das ist nur mein Backup-Plan."
 
 
 translate deutsch e01s02_43a083f4:
 
 
-    sy "My real passions involve you, me, and your porn stash."
+    sy "Meine wirkliche Leidenschaft bezieht dich, mich und deine Pornosammlung mit ein."
 
 
 translate deutsch e01s02_e76219fe:
 
 
-    mc "Speaking of which - when will I get that back?"
+    mc "Apropos - wann bekomme ich die zurück?"
 
 
 translate deutsch e01s02_e9770062:
 
 
-    sy "As if you need it anymore. Anyway, I've confiscated it for research purposes."
+    sy "Als ob du die noch brauchst. Jedenfalls habe ich sie für Forschungszwecke konfisziert."
 
 
 translate deutsch e01s02_cccc4977:
 
 
-    mc "Alright, alright. What was the first part of your master plan."
+    mc "Schon gut, schon gut. Was war der erste Teil deines Masterplans?"
 
 
 translate deutsch e01s02_420e1232:
 
 
-    sy "You, of course. Now that you're mine I can move on to the second part."
+    sy "Natürlich du. Jetzt, da du mein bist, kann ich zum zweiten Teil übergehen."
 
 
 translate deutsch e01s02_69cecba4:
 
 
-    mc "And that would be... ?"
+    mc "Und das wäre... ?"
 
 
 translate deutsch e01s02_764b69bb:
 
 
-    sy "We start our own porn studio!!!"
+    sy "Wir gründen unser eigenes Pornostudio!!!"
 
 
 translate deutsch e01s02_b6933220:
 
 
-    mc "I don't... we... what?"
+    mc "Ich verstehe nicht ganz... wir... was?"
 
 
 translate deutsch e01s02_5ff784b2:
 
 
-    sy "Shhhh. Relax your brain and listen."
+    sy "Shhhh. Entspann deinen Verstand und hör zu."
 
 
 translate deutsch e01s02_503d6bd1:
@@ -328,109 +328,109 @@ translate deutsch e01s02_503d6bd1:
 translate deutsch e01s02_c0c6d182:
 
 
-    sy "As I was saying, we start our own porn studio."
+    sy "Wie ich schon sagte, gründen wir unser eigenes Pornostudio."
 
 
 translate deutsch e01s02_cccd224a:
 
 
-    sy "I'll run everything behind the scenes, but you'll be the star of the show."
+    sy "Ich kümmere mich um alles im Hintergrund, aber du wirst der Star der Show sein."
 
 
 translate deutsch e01s02_67cc2233:
 
 
-    mc "Me? A porn star?"
+    mc "Ich? Ein Pornostar?"
 
 
 translate deutsch e01s02_d3c994b6:
 
 
-    sy "Face it, lover. You already are."
+    sy "Akzeptiere es, Liebster. Du bist es bereits."
 
 
 translate deutsch e01s02_5cb8fa35:
 
 
-    sy "Don't worry about the details. I'll arrange everything."
+    sy "Mach dir keine Gedanken um die Details. Ich werde alles arrangieren."
 
 
 translate deutsch e01s02_f7f60e66:
 
 
-    sy "Well, almost everything. You'll need to do some things."
+    sy "Nun, fast alles. Du musst auch etwas tun."
 
 
 translate deutsch e01s02_b2aba0e3:
 
 
-    mc "Like what?"
+    mc "Und was?"
 
 
 translate deutsch e01s02_d37b60a2:
 
 
-    sy "I mean, we'll need cameras, lighting, actresses, film crew, money, and a few other things."
+    sy "Ich meine, wir werden Kameras, Beleuchtung, Schauspielerinnen, Filmcrew, Geld und ein paar andere Dinge brauchen."
 
 
 translate deutsch e01s02_44862975:
 
 
-    mc "You want me to do all that?"
+    mc "Du willst, dass ich mich darum kümmere?"
 
 
 translate deutsch e01s02_f818b4a2:
 
 
-    sy "No, like I said, I'll arrange almost everything. We'll have to divide up the work."
+    sy "Nein, wie ich schon sagte, ich werde fast alles arrangieren. Aber wir müssen die Arbeit aufteilen."
 
 
 translate deutsch e01s02_7627de93:
 
 
-    mc "I suppose I have a few friends who might be okay with acting..."
+    mc "Ich habe ein paar Freunde, die vielleicht als Schauspieler in Frage kommen..."
 
 
 translate deutsch e01s02_27728f0f:
 
 
-    sy "Oh, that's the best part! I have some great leads on new talent."
+    sy "Oh, das ist das Beste daran! Ich habe einige großartige Kontakte zu neuen Talenten."
 
 
 translate deutsch e01s02_793a8c09:
 
 
-    mc "What kind of leads?"
+    mc "Was für Kontakte?"
 
 
 translate deutsch e01s02_5a108da1:
 
 
-    sy "This is why I copied the Fetish Locator data."
+    sy "Deshalb habe ich die Daten von Fetish Locator kopiert."
 
 
 translate deutsch e01s02_c946c263:
 
 
-    mc "AmRose is still pretty pissed about that."
+    mc "AmRose ist immer noch ziemlich sauer deswegen."
 
 
 translate deutsch e01s02_19c51089:
 
 
-    sy "Don't get me wrong - I enjoy watching the photos and videos that people submitted."
+    sy "Versteh mich nicht falsch - Ich schaue gerne die Fotos und Videos an, die die Leute eingereicht haben."
 
 
 translate deutsch e01s02_ca1fbc38:
 
 
-    mc "I wouldn't mind seeing more of those... but it's wrong, isn't it?"
+    mc "Ich hätte nichts dagegen, mehr davon zu sehen... aber es ist falsch, oder?"
 
 
 translate deutsch e01s02_7d0d944d:
 
 
-    sy "I mean, that's great for jilling off, but the real value is in the metadata."
+    sy "Ich meine, das ist großartig zum Masturbieren, aber der eigentliche Wert liegt in den Metadaten."
 
 
 translate deutsch e01s02_05500ff6:
@@ -442,121 +442,121 @@ translate deutsch e01s02_05500ff6:
 translate deutsch e01s02_880d2eb6:
 
 
-    sy "The metadata. Who did what. Where they did it. What they did. That kinda thing."
+    sy "Die Metadaten. Wer was getan hat. Wo sie es getan haben. Was sie getan haben. So etwas in der Art."
 
 
 translate deutsch e01s02_c6435fd2:
 
 
-    mc "But we all used pseudonyms and I assume some players used masks or-"
+    mc "Aber wir alle haben Pseudonyme benutzt, und ich nehme an, dass einige Spieler Masken oder-"
 
 
 translate deutsch e01s02_040e7566:
 
 
-    sy "Yes, but say you knew that there was someone at a particular office or bar or even a classroom..."
+    sy "Ja, aber nehmen wir mal an, du wüsstest, dass es jemanden in einem bestimmten Büro oder einer Bar oder sogar in einem Klassenzimmer gibt..."
 
 
 translate deutsch e01s02_b180d10e:
 
 
-    sy "And that person did a specific fetish that you wanted..."
+    sy "Und diese Person hat einen bestimmten Fetisch gemacht, den du möchtest..."
 
 
 translate deutsch e01s02_479e5112:
 
 
-    sy "I might not be able to tell you who did it, but if you went there-"
+    sy "Ich kann dir vielleicht nicht sagen, wer es war, aber wenn du dorthin gehst-"
 
 
 translate deutsch e01s02_1bf2a72b:
 
 
-    mc "I might be able to recognize the person some other way."
+    mc "Kann ich die Person vielleicht auf andere Weise erkennen."
 
 
 translate deutsch e01s02_acece4dc:
 
 
-    sy "Precisely."
+    sy "Genau."
 
 
 translate deutsch e01s02_eaa6cff7:
 
 
-    sy "Do you remember what Lydia said about social nexii?"
+    sy "Erinnerst du dich an das, was Lydia über soziale Netzwerke gesagt hat?"
 
 
 translate deutsch e01s02_8114dada:
 
 
-    mc "Social nexus? Vaguely. It sounded like some science fiction philosophy."
+    mc "Soziale Netzwerke? Vage. Es klang wie eine Art philosophischer Science-Fiction."
 
 
 translate deutsch e01s02_fc8e89ea:
 
 
-    sy "I mean, yeah, but the general idea is pretty good."
+    sy "Ich meine, ja, aber die allgemeine Idee ist ziemlich gut."
 
 
 translate deutsch e01s02_387aff78:
 
 
-    sy "I think I can identify places where sexual people get together."
+    sy "Ich glaube, ich kann Orte identifizieren, an denen sexuelle Menschen zusammenkommen."
 
 
 translate deutsch e01s02_f714cfea:
 
 
-    mc "What? Like strip clubs?"
+    mc "Was? So wie Stripclubs?"
 
 
 translate deutsch e01s02_5e7921d9:
 
 
-    sy "Nah. I thought about that, but the data said no."
+    sy "Nah. Darüber habe ich nachgedacht, aber die Daten haben nein gesagt."
 
 
 translate deutsch e01s02_022c4345:
 
 
-    mc "What data?"
+    mc "Welche Daten?"
 
 
 translate deutsch e01s02_7a974976:
 
 
-    sy "I've been doing some research online, cross referencing various databases..."
+    sy "Ich habe online einige Recherchen gemacht, verschiedene Datenbanken verglichen..."
 
 
 translate deutsch e01s02_a37dff9c:
 
 
-    mc "You created what... some sort of locator for particular fetishes?"
+    mc "Du hast was... eine Art Locator für bestimmte Fetische erstellt?"
 
 
 translate deutsch e01s02_e90338be:
 
 
-    sy "Yeah. It's a shame that name was already taken."
+    sy "Ja. Es ist schade, dass der Name bereits vergeben war."
 
 
 translate deutsch e01s02_aa1c2593:
 
 
-    sy "This is why I wish you had let me copy the Fetish Locator database."
+    sy "Das ist der Grund, warum ich mir wünsche, du hättest mir erlaubt, die Datenbank des Fetish Locators zu kopieren."
 
 
 translate deutsch e01s02_22cfad4b:
 
 
-    mc "You did, didn't you?"
+    mc "Du hast es getan, oder?"
 
 
 translate deutsch e01s02_b674ebb8:
 
 
-    sy "Mostly."
+    sy "Das Meiste."
 
 
 translate deutsch e01s02_9de07441:
@@ -568,251 +568,252 @@ translate deutsch e01s02_9de07441:
 translate deutsch e01s02_0c18235f:
 
 
-    sy "I got rid of anything that could be used against anyone."
+    sy "Ich habe alles gelöscht, was gegen jemanden verwendet werden könnte."
 
 
 translate deutsch e01s02_64565a28:
 
 
-    mc "AmRose is going to be pissed when she finds out."
+    mc "AmRose wird sauer sein, wenn sie davon erfährt."
 
 
 translate deutsch e01s02_9549a2df:
 
 
-    sy "All the photos and videos and player info was wiped and overwritten. I swear!"
+    sy "Alle Fotos, Videos und Spielerinformationen wurden gelöscht und überschrieben. Ich schwöre!"
 
 
 translate deutsch e01s02_f3c24e07:
 
 
-    mc "So, what did you keep?"
+    mc "Also, was hast du behalten?"
 
 
 translate deutsch e01s02_a405cbb3:
 
 
-    sy "The metadata. Locations. Vague information. Nothing that could be traced back to a single person."
+    sy "Die Metadaten. Orte. Vage Informationen. Nichts, was auf eine einzelne Person zurückverfolgt werden könnte."
 
 
 translate deutsch e01s02_3afef519:
 
 
-    mc "Why would you keep that?"
+    mc "Warum würdest du das behalten?"
 
 
 translate deutsch e01s02_82a424e4:
 
 
-    sy "I couldn't just let it all go. I need that data for what I have planned next."
+    sy "Ich konnte nicht einfach alles loslassen. Ich brauche diese Daten für das, was ich als Nächstes geplant habe."
 
 
 translate deutsch e01s02_deca5f78:
 
 
-    mc "So, what exactly are you proposing?"
+    mc "Also, was schlägst du genau vor?"
 
 
 translate deutsch e01s02_d1c1e9db:
 
 
-    sy "We work together on our own Porn Studio. I identify locations where you should go to meet people, and you do your magic."
+    sy "Wir arbeiten zusammen an unserem eigenen Pornostudio. Ich identifiziere Orte, an denen du Leute treffen sollst, und du versprühst deine Magie."
 
 
 translate deutsch e01s02_a40abd5f:
 
 
-    mc "My magic?"
+    mc "Meine Magie?"
 
 
 translate deutsch e01s02_895aab1d:
 
 
-    sy "You do that voodoo that you do so well."
+    sy "Du machst dieses Voodoo-Ding, das du so gut kannst."
 
 
 translate deutsch e01s02_aa01dbb5:
 
 
-    mc "What are you talking about, babe?"
+    mc "Wovon redest du, Schatz?"
 
 
 translate deutsch e01s02_55c96b26:
 
 
-    sy "We do almost everything together, but I identify prospective actresses and then you seduce and encourage them to have sex with you... and we film it."
+    sy "Wir machen fast alles zusammen, aber ich identifiziere potenzielle Schauspielerinnen und dann verführst und ermutigst du sie zum Sex mit dir... und wir filmen es."
 
 
 translate deutsch e01s02_4b8e92a4:
 
 
-    mc "You want us to do what?!"
+    mc "Du willst, dass wir was tun?!"
 
 
 translate deutsch e01s02_a064a748:
 
 
-    mc "We are NOT going to film sex scenes without their knowledge!!! That's horrible!!!"
+    mc "Wir werden KEINE Sexszenen ohne ihr Wissen drehen!!! Das ist schrecklich!!!"
 
 
 translate deutsch e01s02_f9476b57:
 
 
-    sy "I didn't say anything like that. Of course we'd have them agree on pseudonyms and get consent forms."
+    sy "Ich habe nichts in der Art gesagt. Natürlich würden wir uns auf Pseudonyme einigen und Einwilligungsformulare einholen."
 
 
 translate deutsch e01s02_26f775ce:
 
 
-    mc "Oh. Maybe that's not so bad then, but I still feel like... I dunno..."
+    mc "Oh. Vielleicht ist das dann gar nicht so schlimm, aber ich fühle mich trotzdem irgendwie... ich weiß nicht..."
 
 
 translate deutsch e01s02_91c8e938:
 
 
-    sy "Like you're the bait and I'm the fisherman?"
+    sy "Du bist der Köder und ich bin der Fischer."
 
 
 translate deutsch e01s02_70a3db7f:
 
 
-    mc "Fisherwoman? Fisherperson? Fisher Gal? Fishgal?"
+    mc "Fischerin? Fischermensch? Fischermädchen? Fischmädel?"
 
 
 translate deutsch e01s02_723a109b:
 
 
-    mc "Anyway, what were we talking about?"
+    mc "Wie auch immer, worüber haben wir gesprochen?"
 
 
 translate deutsch e01s02_754d1794:
 
 
-    sy "Remember your porn collection - we could do that together!"
+    sy "Erinnere dich an deine Pornosammlung - das könnten wir zusammen machen!"
 
 
 translate deutsch e01s02_e9e2125f:
 
 
-    mc "Didn't we do that this morning?"
+    mc "Haben wir das nicht schon heute Morgen gemacht?"
 
 
 translate deutsch e01s02_cf83b3f1:
 
 
-    sy "Yes, but with professional equipment, a real photographer, multiple actresses!"
+    sy "Ja, aber mit professioneller Ausrüstung, einem echten Fotografen, und mehreren Schauspielerinnen!"
 
 
 translate deutsch e01s02_e0e15ae9:
 
 
-    mc "That's a good idea. There are so many fetishes, but they aren't really mainstream."
+    mc "Das ist eine gute Idee. Es gibt so viele Fetische, aber sie sind nicht wirklich Mainstream."
 
 
 translate deutsch e01s02_b7dbe3cb:
 
 
-    sy "Exactly, we can be the one stop shopping for people of all fetish flavors!"
+    sy "Genau, wir können der One-Stop-Shop für Menschen aller Fetische sein!"
 
 
 translate deutsch e01s02_993d115f:
 
 
-    mc "And if we could put them all together we could create some sort of Magnum Opus."
+    mc "Und wenn wir sie alle zusammenbringen könnten, könnten wir so etwas wie ein Magnum Opus schaffen."
 
 
 translate deutsch e01s02_8cae717a:
 
 
-    sy "Now there's an idea. The Citizen Kane of porn."
+    sy "Ja das ist eine Idee. Der Citizen Kane des Pornos."
 
 
 translate deutsch e01s02_23e692ac:
 
 
-    mc "*chuckle* Maybe we could even win best picture AND an eXXXstacy award."
+    mc "*Kichern* Vielleicht könnten wir sogar den besten Film und einen eXXXstacy Award gewinnen."
 
 
 translate deutsch e01s02_fa37650d:
 
 
-    sy "There you go. We have our stretch goal."
+    sy "Da hast du es. Wir haben unser Stretch-Ziel."
 
 
 translate deutsch e01s02_8020fdf4:
 
 
-    mc "My porn collection inspired you to do all this?"
+    mc "Hat dich meine Pornosammlung dazu inspiriert, das alles zu tun?"
 
 
 translate deutsch e01s02_dbc038bf:
 
 
-    sy "Well, when I was watching it, I was imagining us doing all of those things."
+    sy "Nun, als ich es angeschaut habe, habe ich mir vorgestellt, wie wir all diese Dinge machen."
 
 
 translate deutsch e01s02_eda88c63:
 
 
-    mc "I see, so you have that all planned out."
+    mc "Verstehe, also hast du das alles geplant."
 
 
 translate deutsch e01s02_3b44c645:
 
 
-    sy "Do you mind?"
+    sy "Macht dir das etwas aus?"
 
 
 translate deutsch e01s02_807cc3c6:
 
 
-    mc "Mind? It sounds awesome."
+    mc "Macht es dir etwas aus? Es klingt fantastisch."
 
 
 translate deutsch e01s02_83078e78:
 
 
-    mc "I love you."
+    mc "Ich liebe dich."
 
 
 translate deutsch e01s02_0dcf5434:
 
 
-    sy "I love you too!"
+    sy "Ich liebe dich auch!"
 
 
 translate deutsch e01s02_7c1f1624:
 
 
-    mc "But seriously, where are we really going?"
+    mc "Aber mal im Ernst, wohin gehen wir wirklich?"
 
 
 translate deutsch e01s02_2af97179:
 
 
-    sy "You must have figured out the surprise by now."
+    sy "Du solltest die Überraschung jetzt wohl schon herausgefunden haben."
 
 
 translate deutsch e01s02_0a84842c:
 
 
-    mc "You don't mean...?"
+    mc "Du meinst...?"
 
 translate deutsch strings:
 
 
     old "At Subway Station"
-    new "At Subway Station"
+    new "An der U-Bahn-Station"
 
 
     old "You have finished Ending #01!"
-    new "You have finished Ending #01!"
+    new "Du hast Ende #01 erreicht!"
 
 
     old "Stacy and [mcname] will return!"
-    new "Stacy and [mcname] will return!"
+    new "Stacy und [mcname] werden zurückkehren!"
 
 
     old "In Fetish Locator: S&M Studio!"
     new "In Fetish Locator: S&M Studio!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

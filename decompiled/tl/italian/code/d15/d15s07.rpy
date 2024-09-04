@@ -1195,4 +1195,5 @@ translate italian strings:
 
     old "I'm getting kinda bored of the watersports"
     new "Mi stanca fare solo roba d'acqua"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -17,10 +17,10 @@ label d16s09:
     $ unlock_ending("13")
     call update_ending_variables from _call_update_ending_variables_9
     menu:
-        "Runaway with Nora"(hint="d16s09m01c01") if True:
+        "Runaway with Nora"(hint="d16s09m01c01"):
             $ d16s09_ending = True
             jump d16s09_nk_end
-        "Go to AmRose's House"(hint="d16s09m01c02") if True:
+        "Go to AmRose's House"(hint="d16s09m01c02"):
 
             stop music fadeout 3.0
             jump d16s10
@@ -144,4 +144,5 @@ label d16s09_nk_end hide:
 label ending_13_return:
 
     jump d16s10
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

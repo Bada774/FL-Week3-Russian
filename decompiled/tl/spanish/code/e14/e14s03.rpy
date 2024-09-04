@@ -1301,4 +1301,5 @@ translate spanish strings:
 
     old "Take over for a bit"
     new "Toma el control por un momento"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

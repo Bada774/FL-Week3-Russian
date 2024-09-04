@@ -10,7 +10,7 @@ translate russian d15s07_a875bc2a:
 translate russian d15s07_202c1813:
 
     # lc "And now I tell you openly..."
-    lc "И теперь я говорю тебе открыто...\n\n{size=-10}{i}(Песня - \"Dreams - The Cranberries \"){/i}{/size}"
+    lc "И теперь я говорю тебе открыто...\n\n{size=-10}{i}Песня - \"Dreams - The Cranberries \".{/i}{/size}"
 
 # game/code/d15/d15s07.rpy:56
 translate russian d15s07_bbe9c2b8:
@@ -280,7 +280,7 @@ translate russian d15s07_whatsthat_757eec62:
 translate russian d15s07_whatsthat_df9adb7d:
 
     # lc "To defeat... the Huns!"
-    lc "За победу над... гуннами!\n\n{size=-10}{i}(Гунны - древний народ, воевавший с Римской империей.){/i}{/size}"
+    lc "За победу над... гуннами!\n\n{size=-10}{i}Гунны - древний народ, воевавший с Римской империей.{/i}{/size}"
 
 # game/code/d15/d15s07.rpy:223
 translate russian d15s07_mes_pee_on_mc_30aa8a8b:

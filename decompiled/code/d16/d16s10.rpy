@@ -134,7 +134,6 @@ label d16s10:
     play voice3 amrose_arrogant_huh4 noloop
     arj "... huh?"
 
-
     $ Lovense.stop()
 
     scene d16s10-16-2 mc-arj-room-talk17_c1 with fade
@@ -203,7 +202,7 @@ label d16s10:
     arj "Anything sexy. {w}Tell me something sexy to get me going."
     scene d16s10-18 mc-arj-room-move1_c2 with dissolve
     menu:
-        "Tell her how you would fuck her"(hint="d16s10m01c01") if True:
+        "Tell her how you would fuck her"(hint="d16s10m01c01"):
 
             $ d16s10_talk_future = True
 
@@ -259,7 +258,7 @@ label d16s10:
                 scene d16s10-18-3 mc-arj-room-move3_c3 with dissolve
                 play voice2 d1s5_orgasm noloop
                 mc "I fuck you as passionately as humanly possible."
-        "Tell her how you came while she was under the table"(hint="d16s10m01c02") if True:
+        "Tell her how you came while she was under the table"(hint="d16s10m01c02"):
 
 
             scene d16s10-18 mc-arj-room-move1_c3 with dissolve
@@ -406,7 +405,6 @@ label d16s10:
     scene d16s10-21 mc-arj-room-unwell1_c1 with dissolve
     play voice3 amrose_disgust_argh noloop
     arj "Ohhhh fuckkkk!! {w}STOP!!!"
-
     scene d16s10-21 mc-arj-room-unwell1_c2 with dissolve
     play voice3 amrose_pain_ahh1 noloop
     arj "Fuck fuckfuck too fast...."
@@ -474,7 +472,6 @@ label d16s10:
         arj "Well-"
         play sound cockcage_lock_off
         $ Lovense.vibrate(10)
-
         pause
         $ Lovense.stop()
         scene d16s10-27 mc-arj-room-talk3_c3
@@ -674,7 +671,6 @@ label d16s10:
     pause
     scene d16s10-37 mc-arj-room-floor_c1 with dissolve
 
-
     $ Lovense.stop()
 
     play voice2 d1s5_mchappy volume 1.5 noloop
@@ -784,4 +780,5 @@ label d16s10:
     stop music fadeout 3.0
 
     jump d17s01
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

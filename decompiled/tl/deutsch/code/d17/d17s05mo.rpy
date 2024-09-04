@@ -4,37 +4,37 @@
 translate deutsch d17s05mo_7c42b679:
 
 
-    mct "Didn't know Oliver was a biker."
+    mct "Hatte keine Ahnung, dass Oliver ein Biker ist."
 
 
 translate deutsch d17s05mo_080365ff:
 
 
-    mc "Didn't know you were into bikes."
+    mc "Hatte keine Ahnung, dass du auf Motorräder stehst."
 
 
 translate deutsch d17s05mo_4b634951:
 
 
-    op "Oh, hi, [mcname]."
+    op "Oh, hallo, [mcname]."
 
 
 translate deutsch d17s05mo_d6bbbe24:
 
 
-    op "I'm a—a, hobbyist, I suppose."
+    op "Ich bin, äh, ein Hobbyist, würde ich sagen."
 
 
 translate deutsch d17s05mo_3db46cea:
 
 
-    mc "Huh, cool. She's pretty."
+    mc "Huh, cool. Sie ist hübsch."
 
 
 translate deutsch d17s05mo_37fb6bf9:
 
 
-    op "Heh, she is."
+    op "Heh, das ist sie."
 
 
 translate deutsch d17s05mo_32d23f2a:
@@ -46,367 +46,367 @@ translate deutsch d17s05mo_32d23f2a:
 translate deutsch d17s05mo_cd659e9e:
 
 
-    mh "I was wondering what was taking you so long."
+    mh "Ich habe mich gefragt, was so lange gedauert hat."
 
 
 translate deutsch d17s05mo_9b4fc0c0:
 
 
-    mc "Public transportation is a wonderful thing."
+    mc "Der öffentliche Nahverkehr ist eine wunderbare Sache."
 
 
 translate deutsch d17s05mo_e9096685:
 
 
-    mh "Oh, you should've told me, I could've—"
+    mh "Oh, du hättest mir Bescheid sagen sollen, ich hätte—"
 
 
 translate deutsch d17s05mo_f1514b0a:
 
 
-    mc "I'm here now, aren't I?"
+    mc "Ich bin jetzt hier, oder nicht?"
 
 
 translate deutsch d17s05mo_54d8c5e9:
 
 
-    mh "Oh, look at that. Oliver's here as well. Perfect timing."
+    mh "Oh, schau mal. Oliver ist auch hier. Perfektes Timing."
 
 
 translate deutsch d17s05mo_7a6eb03f:
 
 
-    op "Hi Miss Harris!"
+    op "Hallo Miss Harris!"
 
 
 translate deutsch d17s05mo_a8d4a08e:
 
 
-    mc "Did you know that he was into bikes?"
+    mc "Wusstest du, dass er auf Motorräder steht?"
 
 
 translate deutsch d17s05mo_d841c121:
 
 
-    mh "He really doesn't seem like the type, does he?"
+    mh "Er scheint wirklich nicht der Typ zu sein, oder?"
 
 
 translate deutsch d17s05mo_a48431c7:
 
 
-    mc "He's a man of many mysteries."
+    mc "Er ist ein Mann voller Geheimnisse."
 
 
 translate deutsch d17s05mo_6949c748:
 
 
-    mh "Come on in, you two."
+    mh "Kommt rein, ihr beiden."
 
 
 translate deutsch d17s05mo_f34b319c:
 
 
-    mh "*Laughs* You two make yourselves comfortable."
+    mh "*Lacht* Macht es euch bequem."
 
 
 translate deutsch d17s05mo_e8ab7aaa:
 
 
-    mh "Can I get you two something to drink?"
+    mh "Kann ich euch beiden etwas zu trinken anbieten?"
 
 
 translate deutsch d17s05mo_8916e817:
 
 
-    mc "I'll just have whatever he's having."
+    mc "Ich nehme einfach das, was er nimmt."
 
 
 translate deutsch d17s05mo_1b4f8074:
 
 
-    mh "*Chuckles* Alright. Oliver?"
+    mh "*Kichert* In Ordnung. Oliver?"
 
 
 translate deutsch d17s05mo_2966b652:
 
 
-    op "I could go for some tea."
+    op "Ich nehme einen Tee."
 
 
 translate deutsch d17s05mo_3ae02f54:
 
 
-    mh "Tea it is then."
+    mh "Dann gibt es Tee."
 
 
 translate deutsch d17s05mo_575d3270:
 
 
-    mc "So, how's it been? Been a bit since last time."
+    mc "Wie geht es euch? Ist schon eine Weile her seit dem letzten Mal."
 
 
 translate deutsch d17s05mo_7a470331:
 
 
-    op "Yes... Last time..."
+    op "Ja... Das letzte Mal..."
 
 
 translate deutsch d17s05mo_18758a6b:
 
 
-    mc "...You still nervous about that?"
+    mc "...Bist du immer noch nervös deswegen?"
 
 
 translate deutsch d17s05mo_31338864:
 
 
-    op "I just... We... Miss Harris."
+    op "Ich... Wir... Miss Harris."
 
 
 translate deutsch d17s05mo_1edfc786:
 
 
-    mc "Oliver, listen to me. I told Lyssa."
+    mc "Oliver, hör mir zu. Ich habe es Lyssa erzählt."
 
 
 translate deutsch d17s05mo_7d40cb23:
 
 
-    op "You what!?"
+    op "Du hast was!?"
 
 
 translate deutsch d17s05mo_02acfd15:
 
 
-    mh "Everything alright over there?"
+    mh "Ist alles in Ordnung da drüben?"
 
 
 translate deutsch d17s05mo_d88c876d:
 
 
-    mc "Everything's good."
+    mc "Alles ist gut."
 
 
 translate deutsch d17s05mo_f350b75f:
 
 
-    op "I—I'm sorry. I didn't mean to raise my voice."
+    op "S-Sorry. Ich wollte nicht laut werden."
 
 
 translate deutsch d17s05mo_108a956e:
 
 
-    mc "It's alright. But yeah, I told Lyssa. And you know what happened?"
+    mc "Ist schon gut. Aber ja, ich habe Lyssa es erzählt. Und weißt du, was passiert ist?"
 
 
 translate deutsch d17s05mo_e0a994af:
 
 
-    mc "Absolutely nothing."
+    mc "Absolut nichts."
 
 
 translate deutsch d17s05mo_f630893a:
 
 
-    mc "She's completely fine with it."
+    mc "Es ist völlig in Ordnung für sie."
 
 
 translate deutsch d17s05mo_f084f325:
 
 
-    op "She...what?"
+    op "Sie...was?"
 
 
 translate deutsch d17s05mo_eb3b8bb2:
 
 
-    mc "Think about it, dude. You've been working with her for a bit now, right?"
+    mc "Denk mal darüber nach, Kumpel. Du arbeitest jetzt eine Weile mit ihr, oder?"
 
 
 translate deutsch d17s05mo_57a06e27:
 
 
-    mc "Does she really seem like the type that'd be bothered by something like that?"
+    mc "Sieht sie wirklich so aus, als würde sie sich von so etwas beeindrucken lassen?"
 
 
 translate deutsch d17s05mo_a55d945b:
 
 
-    op "I mostly only know her in a professional setting."
+    op "Ich kenne sie hauptsächlich in einem professionellen Umfeld."
 
 
 translate deutsch d17s05mo_93814797:
 
 
-    mc "...Well shit."
+    mc "...Nun, verdammt."
 
 
 translate deutsch d17s05mo_97f9f301:
 
 
-    mc "Anyway. The point is, she's fin—"
+    mc "Wie auch immer. Der Punkt ist, es ist in Ordnung—"
 
 
 translate deutsch d17s05mo_03dc28ff:
 
 
-    mh "What are you two talking about?"
+    mh "Über was sprecht ihr beiden?"
 
 
 translate deutsch d17s05mo_8a75836a:
 
 
-    mc "Oh we were just reminiscing about the last party I threw."
+    mc "Oh, wir haben gerade über die letzte Party gesprochen, die ich veranstaltet habe."
 
 
 translate deutsch d17s05mo_c103824c:
 
 
-    mh "You weren't teasing the poor thing, were you?"
+    mh "Du hast das arme Ding nicht geärgert, oder?"
 
 
 translate deutsch d17s05mo_92d52137:
 
 
-    mc "He was just nervous about the whole thing, and I explained to him that there was nothing to worry about."
+    mc "Er war einfach nervös wegen der ganzen Sache, und ich habe ihm erklärt, dass es nichts zu befürchten gibt."
 
 
 translate deutsch d17s05mo_b341ebf7:
 
 
-    mh "Olie, it's okay. {w}Look at me."
+    mh "Olie, alles ist gut. {w}Schau mich an."
 
 
 translate deutsch d17s05mo_755d2f91:
 
 
-    mct "Shit. Is Oliver having a panic attack?"
+    mct "Verdammt. Hat Oliver eine Panikattacke?"
 
 
 translate deutsch d17s05mo_5941ea29:
 
 
-    mh "I'm right here. Breathe with me."
+    mh "Ich bin hier. Atme mit mir."
 
 
 translate deutsch d17s05mo_ef7ccb74:
 
 
-    mh "I know everything that happened."
+    mh "Ich weiß alles, was passiert ist."
 
 
 translate deutsch d17s05mo_96fc7fd6:
 
 
-    mh "Everything is alright. I'm not mad at you."
+    mh "Alles ist in Ordnung. Ich bin nicht wütend auf dich."
 
 
 translate deutsch d17s05mo_5c8c452a:
 
 
-    mc "I...I'm sorry. I wouldn't have brought it all up if I had known."
+    mc "Es...es tut mir leid. Ich hätte das alles nicht angesprochen, wenn ich das gewusst hätte."
 
 
 translate deutsch d17s05mo_e31e94e7:
 
 
-    op "It's...alright. It was just, a lot."
+    op "Es ist...in Ordnung. Es war einfach viel."
 
 
 translate deutsch d17s05mo_edd286ab:
 
 
-    mh "Hm, how about we play a game? Get our minds off of this and think of something else."
+    mh "Hm, wie wäre es, wenn wir ein Spiel spielen? Lassen wir uns von diesem Thema ablenken und denken an etwas anderes."
 
 
 translate deutsch d17s05mo_a803ce5b:
 
 
-    mh "How about Cards Against Humans? See where we go from there."
+    mh "Wie wäre es mit Cards Against Humans? Schauen wir, wohin uns das führt."
 
 
 translate deutsch d17s05mo_6f9c927a:
 
 
-    op "I think that might be fun."
+    op "Ich denke, das könnte Spaß machen."
 
 
 translate deutsch d17s05mo_ccabab35:
 
 
-    mc "I'm down with whatever you two want to do."
+    mc "Ich bin dabei, was auch immer ihr zwei machen wollt."
 
 
 translate deutsch d17s05mo_2b2c20be:
 
 
-    mh "Cards Against Humans it is then."
+    mh "Dann spielen wir Cards Against Humans."
 
 
 translate deutsch d17s05mo_8d26754f:
 
 
-    mh "So... Who went to the bathroom most recently?"
+    mh "Also... Wer war zuletzt auf der Toilette?"
 
 
 translate deutsch d17s05mo_bc9eef2a:
 
 
-    mc "I'm sorry, what?"
+    mc "Entschuldigung, was?"
 
 
 translate deutsch d17s05mo_7a67e85b:
 
 
-    mh "Have you never played Cards Against Humans?"
+    mh "Hast du noch nie Cards Against Humans gespielt?"
 
 
 translate deutsch d17s05mo_918bef5e:
 
 
-    mc "I've heard about it, but I've never played."
+    mc "Ich habe davon gehört, aber ich habe es noch nie gespielt."
 
 
 translate deutsch d17s05mo_30df9cf2:
 
 
-    mh "Well, the game starts by picking the most recent person that went uh...\"potty.\""
+    mh "Nun, das Spiel beginnt damit, die Person auszuwählen, die zuletzt auf dem... \"Topf\" war."
 
 
 translate deutsch d17s05mo_77362314:
 
 
-    op "*Chuckles* I think it's a pretty ingenious way to randomize the starting player."
+    op "*Kichert* Ich denke, es ist eine ziemlich geniale Art, den Startspieler auszuwählen."
 
 
 translate deutsch d17s05mo_5f83b870:
 
 
-    mc "Huh, well, I think I might be the one that most recently took a shit then?"
+    mc "Hm, na ja, ich denke, ich bin wahrscheinlich derjenige, der zuletzt auf der Toilette war, oder?"
 
 
 translate deutsch d17s05mo_d9453af6:
 
 
-    mh "Great. We found our Card Czar."
+    mh "Super. Wir haben unseren Kartenzaren gefunden."
 
 
 translate deutsch d17s05mo_3a3eb881:
 
 
-    mh "Alright, {i}Czar{/i}, pick a black card."
+    mh "In Ordnung, {i}Zar{/i}, suche eine schwarze Karte aus."
 
 
 translate deutsch d17s05mo_9f6c0018:
 
 
-    mc "\"Men like...\""
+    mc "\"Männer mögen...\""
 
 
 translate deutsch d17s05mo_cbf39a11:
 
 
-    mc "Oh this'll be fun. You two have to pick the most heinous white card, right?"
+    mc "Oh, das wird Spaß machen. Ihr müsst die schlimmste weiße Karte auswählen, oder?"
 
 
 translate deutsch d17s05mo_d8056ca5:
@@ -418,43 +418,43 @@ translate deutsch d17s05mo_d8056ca5:
 translate deutsch d17s05mo_6ad7a9cd:
 
 
-    mh "Now shuffle the white cards and pick the funniest one."
+    mh "Jetzt mischt die weißen Karten und wählt die lustigste aus."
 
 
 translate deutsch d17s05mo_58dc21dd:
 
 
-    mc "The cards you two picked are, \"Men like... Women with daddy Issues.\""
+    mc "Die Karten, die ihr beiden ausgewählt habt, sind: \"Männer mögen... Frauen mit Vaterkomplex.\""
 
 
 translate deutsch d17s05mo_f394a532:
 
 
-    mc "and, \"Men like... Shitting out a part of a turd, sucking it back in, and shitting it back out over and over so you're basically fucking yourself with your own shit...\""
+    mc "und, \"Männer mögen...einen Teil der Scheiße rauszudrücken, es wieder einzusaugen und es immer wieder wieder rauszudrücken, um sich im Grunde selbst mit Ihrer eigenen Scheiße zu ficken...\""
 
 
 translate deutsch d17s05mo_41880a7e:
 
 
-    mc "Well, huh."
+    mc "Ohh, huh."
 
 
 translate deutsch d17s05mo_7e5845e2:
 
 
-    mh "*Snickers*"
+    mh "*Kichert*"
 
 
 translate deutsch d17s05mo_cd954c47:
 
 
-    mc "I kinda {i}have{/i} to go with that one at this point."
+    mc "An diesem Punkt muss ich irgendwie {i}diese{/i} wählen."
 
 
 translate deutsch d17s05mo_c07b467a:
 
 
-    mh "One point for me then."
+    mh "Ein Punkt für mich dann."
 
 
 translate deutsch d17s05mo_f659be22:
@@ -466,361 +466,361 @@ translate deutsch d17s05mo_f659be22:
 translate deutsch d17s05mo_12d62553:
 
 
-    mh "Hey, don't judge me."
+    mh "Hey, verurteile mich nicht."
 
 
 translate deutsch d17s05mo_09d1334a:
 
 
-    op "That's messed up, [mcname]."
+    op "Das ist ziemlich wirr, [mcname]."
 
 
 translate deutsch d17s05mo_e95e1241:
 
 
-    mc "I'm playing the game the way it was meant to be played!"
+    mc "Ich spiele das Spiel, wie es gespielt werden soll!"
 
 
 translate deutsch d17s05mo_954d9612:
 
 
-    mh "The poor orphans."
+    mh "Die armen Waisen."
 
 
 translate deutsch d17s05mo_d10f44ff:
 
 
-    mc "This is an organized attack on my character."
+    mc "Das ist ein organisierter Angriff auf meine Persönlichkeit."
 
 
 translate deutsch d17s05mo_2f743fdb:
 
 
-    mh "Oh, I think that's our food."
+    mh "Oh, ich glaube, das ist unser Essen."
 
 
 translate deutsch d17s05mo_34987c35:
 
 
-    mh "I'll go get it."
+    mh "Ich werde es holen."
 
 
 translate deutsch d17s05mo_afbc3de9:
 
 
-    op "This has been fun."
+    op "Das hat Spaß gemacht."
 
 
 translate deutsch d17s05mo_b0e80c0d:
 
 
-    mc "Yeah. You're good at this."
+    mc "Ja, du bist gut darin."
 
 
 translate deutsch d17s05mo_941f6039:
 
 
-    op "I got lucky I think. I got some good cards."
+    op "Ich denke, ich hatte Glück. Ich habe gute Karten bekommen."
 
 
 translate deutsch d17s05mo_716019b8:
 
 
-    mc "Right."
+    mc "Stimmt."
 
 
 translate deutsch d17s05mo_0a24087b:
 
 
-    mc "Look, Oliver, I really feel bad about what happened earlier."
+    mc "Schau, Oliver, es tut mir wirklich leid, was vorhin passiert ist."
 
 
 translate deutsch d17s05mo_ee688fa0:
 
 
-    op "Oh, it's okay. It's just...something that happens sometimes. Crappy parents do that to ya."
+    op "Oh, das ist in Ordnung. Das...passiert manchmal. Schlechte Eltern machen so etwas mit dir."
 
 
 translate deutsch d17s05mo_6cec6528:
 
 
-    op "I'm sorry if I scared you."
+    op "Es tut mir leid, wenn ich dich erschreckt habe."
 
 
 translate deutsch d17s05mo_82da3f67:
 
 
-    mc "There's nothing to be sorry about."
+    mc "Es gibt nichts, wofür du dich entschuldigen müsstest."
 
 
 translate deutsch d17s05mo_0606783c:
 
 
-    mc "I shouldn't have pushed that on you outta nowhere like that."
+    mc "Ich hätte dich nicht so unvorbereitet damit konfrontieren sollen."
 
 
 translate deutsch d17s05mo_755d4ec3:
 
 
-    op "I...I appreciate you saying that."
+    op "Ich...Ich schätze es, dass du das sagst."
 
 
 translate deutsch d17s05mo_69a272dc:
 
 
-    mc "Hm. {w}\"Crappy parents\"?"
+    mc "Hm. {w}\"Schlechte Eltern\"?"
 
 
 translate deutsch d17s05mo_a65de9ea:
 
 
-    op "*Laughs* I knew I shouldn't have said that."
+    op "*Lacht* Ich wusste, dass ich das nicht hätte sagen sollen."
 
 
 translate deutsch d17s05mo_c4855963:
 
 
-    mc "*Chuckles* It's alright if you don't want to talk about it."
+    mc "*Kichert* Es ist in Ordnung, wenn du nicht darüber sprechen möchtest."
 
 
 translate deutsch d17s05mo_805ff807:
 
 
-    op "No, it's okay. We came here to get to know each other, right?"
+    op "Nein, das ist in Ordnung. Wir sind hierhergekommen, um uns kennenzulernen, oder?"
 
 
 translate deutsch d17s05mo_716019b8_1:
 
 
-    mc "Right."
+    mc "Genau."
 
 
 translate deutsch d17s05mo_5a4ea322:
 
 
-    op "Uhm, well, where do I begin?"
+    op "Uhm, nun ja, wo fange ich an?"
 
 
 translate deutsch d17s05mo_a2b6edbe:
 
 
-    mc "Already not a great sign."
+    mc "Schon jetzt kein gutes Zeichen."
 
 
 translate deutsch d17s05mo_df7628f8:
 
 
-    mh "I'm back."
+    mh "Ich bin zurück."
 
 
 translate deutsch d17s05mo_44598334:
 
 
-    mh "What were you two gossiping about without me?"
+    mh "Über was habt ihr beiden getratscht, ohne mich?"
 
 
 translate deutsch d17s05mo_eb2f558e:
 
 
-    mc "Oliver was telling me about his so called \"crappy family.\""
+    mc "Oliver hat mir von seiner sogenannten \"schlechten Familie\" erzählt."
 
 
 translate deutsch d17s05mo_5070e946:
 
 
-    mh "Oh, {i}oh{/i}. Those people."
+    mh "Oh, {i}oh{/i}. Diese Leute."
 
 
 translate deutsch d17s05mo_9d1f0e3a:
 
 
-    op "*Laughs* It's funny to me how much Miss Harris hates my family."
+    op "*Lacht* Es ist lustig für mich, wie sehr Miss Harris meine Familie nicht mag."
 
 
 translate deutsch d17s05mo_6ecd052d:
 
 
-    mh "Olie, we're off work. I told you. Call me Lyssa."
+    mh "Olie, wir sind nicht mehr auf der Arbeit. Ich habe es dir gesagt. Nenn mich Lyssa."
 
 
 translate deutsch d17s05mo_188bde52:
 
 
-    mh "And yes, I absolutely despise your family. I hope they all burn in hell."
+    mh "Und ja, ich verabscheue deine Familie absolut. Ich hoffe, sie verbrennen alle in der Hölle."
 
 
 translate deutsch d17s05mo_dd43b1b8:
 
 
-    mc "What the fuck did they do?"
+    mc "Was zum Teufel haben sie getan?"
 
 
 translate deutsch d17s05mo_72bed968:
 
 
-    op "Uhm, they were very...{i}traditional{/i}."
+    op "Ähm, sie waren sehr... {i}traditionell{/i}."
 
 
 translate deutsch d17s05mo_e8b58c1b:
 
 
-    mh "That's an incredibly nice way of putting it."
+    mh "Das ist eine unglaublich freundliche Art, es auszudrücken."
 
 
 translate deutsch d17s05mo_5c58ebe5:
 
 
-    op "My father was a bit of a... Uhm, domineering parent."
+    op "Mein Vater war ein bisschen... Ähm, herrschsüchtig als Elternteil."
 
 
 translate deutsch d17s05mo_a4c31720:
 
 
-    op "And my mother was very submissive."
+    op "Und meine Mutter war sehr unterwürfig."
 
 
 translate deutsch d17s05mo_aa121a7d:
 
 
-    op "Yeah..."
+    op "Ja..."
 
 
 translate deutsch d17s05mo_27f65b32:
 
 
-    mct "He must've had a rough childhood."
+    mct "Er muss eine schwierige Kindheit gehabt haben."
 
 
 translate deutsch d17s05mo_02556280:
 
 
-    op "I have an older brother as well, Sloan."
+    op "Ich habe auch einen älteren Bruder, Sloan."
 
 
 translate deutsch d17s05mo_dac1cb99:
 
 
-    mh "How's he doing these days?"
+    mh "Wie geht es ihm so?"
 
 
 translate deutsch d17s05mo_eb9a7cba:
 
 
-    op "He's doing well, I think? He's a bit of a hermit."
+    op "Es geht ihm gut, denke ich? Er ist ein bisschen ein Eremit."
 
 
 translate deutsch d17s05mo_63188303:
 
 
-    op "I think he's in Argentina right now.{w} Said he was helping build a school for poor children?"
+    op "Ich glaube, er ist derzeit in Argentinien.{w} Er sagte, er hilft beim Bau einer Schule für arme Kinder?"
 
 
 translate deutsch d17s05mo_6faec8d6:
 
 
-    mh "Sloan's the only person in Oliver's family that I can tolerate."
+    mh "Sloan ist die einzige Person in Olivers Familie, die ich ertragen kann."
 
 
 translate deutsch d17s05mo_58380556:
 
 
-    mh "He's like a golden retriever. No brain cells, but he's sweet."
+    mh "Er ist wie ein Golden Retriever. Keine Gehirnzellen, aber er ist liebenswert."
 
 
 translate deutsch d17s05mo_e6cf0ce5:
 
 
-    op "*Laughs* Remember that time he sucker-punched that transphobe unconscious?"
+    op "*Lacht* Erinnerst du dich, als er diesen Transphoben K.O. geschlagen hat?"
 
 
 translate deutsch d17s05mo_d61d3689:
 
 
-    mh "*Laughs* And then he gently laid him down in the alley and drew a penis on his forehead."
+    mh "*Lacht* Und dann hat er ihn sanft in der Gasse abgelegt und einen Penis auf seine Stirn gemalt."
 
 
 translate deutsch d17s05mo_6b0b039c:
 
 
-    op "He's the definition of chaotic good."
+    op "Er ist die Definition von chaotisch gut."
 
 
 translate deutsch d17s05mo_5f4fc586:
 
 
-    mct "Hm. Lyssa and Oliver are really comfortable with each other when they get going."
+    mct "Hm. Lyssa und Oliver sind wirklich gut miteinander, besonders wenn sie in Fahrt kommen."
 
 
 translate deutsch d17s05mo_03c297f8:
 
 
-    mct "I suppose it makes sense. You couldn't exactly work well together if you barely knew each other."
+    mct "Aber das macht Sinn. Sie könnten nicht wirklich gut zusammenarbeiten, wenn sie sich kaum kennen."
 
 
 translate deutsch d17s05mo_73fb7253:
 
 
-    mc "Sloan sounds amazing."
+    mc "Sloan klingt fantastisch."
 
 
 translate deutsch d17s05mo_a3e1d9ef:
 
 
-    op "He is, he's the reason I'm still here today."
+    op "Ist er. Er ist der Grund, warum ich heute noch hier bin."
 
 
 translate deutsch d17s05mo_d39aac8a:
 
 
-    op "Anyway. Enough about my sad history.{w} Should we get back to the game?"
+    op "Wie auch immer. Genug von meiner traurigen Geschichte. Sollen wir zum Spiel zurückkehren?"
 
 
 translate deutsch d17s05mo_71f353fb:
 
 
-    mh "Right. I think you're going next?"
+    mh "Klar. Ich denke, du bist als Nächster dran?"
 
 
 translate deutsch d17s05mo_ca636351:
 
 
-    op "Yep."
+    op "Jep."
 
 
 translate deutsch d17s05mo_abb73d54:
 
 
-    op "\"How did I lose my virginity...\""
+    op "\"Wie habe ich meine Jungfräulichkeit verloren...\""
 
 
 translate deutsch d17s05mo_8898a8ba:
 
 
-    op "Someone said, \"How did I lose my virginity... Three dicks at the same time.\""
+    op "Jemand sagte, \"Wie habe ich meine Jungfräulichkeit verloren... Drei Schwänze gleichzeitig.\""
 
 
 translate deutsch d17s05mo_be3945b6:
 
 
-    mh "Bit of an overachiever. *Chuckles*"
+    mh "Ein bisschen ein Überflieger. *Kichert*"
 
 
 translate deutsch d17s05mo_2731a645:
 
 
-    op "And someone else said, \"How did I lose my virginity... Seething with quiet resentment\""
+    op "Und jemand anderes sagte, \"Wie habe ich meine Jungfräulichkeit verloren... Es brodelt vor stillem Groll\""
 
 
 translate deutsch d17s05mo_f03baece:
 
 
-    op "Oh God, that's horrible. *Laughs*"
+    op "Oh Gott, das ist schrecklich. *Lacht*"
 
 
 translate deutsch d17s05mo_28910937:
 
 
-    op "That one wins."
+    op "Diese gewinnt."
 
 
 translate deutsch d17s05mo_5f2e9a7d:
@@ -832,7 +832,7 @@ translate deutsch d17s05mo_5f2e9a7d:
 translate deutsch d17s05mo_037e9c07:
 
 
-    op "Though I hope my first tim— Uhm."
+    op "Obwohl ich hoffe, mein erstes Mal- Ähm."
 
 
 translate deutsch d17s05mo_d09f83d7:
@@ -844,7 +844,7 @@ translate deutsch d17s05mo_d09f83d7:
 translate deutsch d17s05mo_f84ceed8:
 
 
-    mh "Wait. Oliver, are you a virgin?"
+    mh "Warte. Oliver, bist du noch Jungfrau?"
 
 
 translate deutsch d17s05mo_77a73769:
@@ -856,281 +856,282 @@ translate deutsch d17s05mo_77a73769:
 translate deutsch d17s05mo_c17e3410:
 
 
-    op "No?"
+    op "Nein?"
 
 
 translate deutsch d17s05mo_ef01d660:
 
 
-    mc "That is the weakest attempt at a lie I've ever seen."
+    mc "Das ist der schlechteste Versuch zu Lügen, den ich je gesehen habe."
 
 
 translate deutsch d17s05mo_e39ec249:
 
 
-    mh "It's alright if you are. It was just a bit surprising is all."
+    mh "Es ist in Ordnung, wenn du es bist. Es war nur ein wenig überraschend, das ist alles."
 
 
 translate deutsch d17s05mo_b9cf9582:
 
 
-    mc "Yeah. It's not like we're gonna bully you about being a virgin. What's this, high school?"
+    mc "Ja, als ob wir dich wegen deiner Jungfräulichkeit mobben würden. Was ist das, Highschool?"
 
 
 translate deutsch d17s05mo_b6c19f2e:
 
 
-    op "Thank you."
+    op "Danke."
 
 
 translate deutsch d17s05mo_f501b348:
 
 
-    op "I was a sheltered child, so I didn't really get to do a lot of stuff that kids usually do."
+    op "Ich war ein behütetes Kind, daher konnte ich nicht wirklich tun, was Kinder normalerweise tun."
 
 
 translate deutsch d17s05mo_dc536325:
 
 
-    mh "Trust me. It's better to wait it out for someone you trust and feel safe with than just losing yourself in the hormones and getting into a bad situation."
+    mh "Glaub mir. Es ist besser, auf jemanden zu warten, dem du vertraust und bei dem du dich sicher fühlst, als dich einfach in den Hormonen zu verlieren und in eine schlechte Situation zu geraten."
 
 
 translate deutsch d17s05mo_5de11cad:
 
 
-    op "That makes me feel better. Thank you."
+    op "Da bin ich erleichtert. Danke dir."
 
 
 translate deutsch d17s05mo_7f4a0c40:
 
 
-    mh "Of course."
+    mh "Kein Problem."
 
 
 translate deutsch d17s05mo_bdb9a6cc:
 
 
-    mh "You two want to continue playing?"
+    mh "Wollt ihr beiden weiterspielen?"
 
 
 translate deutsch d17s05mo_cd1abb73:
 
 
-    op "I'd like that."
+    op "Das würde mir gefallen."
 
 
 translate deutsch d17s05mo_606e2d02:
 
 
-    mc "Sure."
+    mc "Klar."
 
 
 translate deutsch d17s05mo_b8c6efd3:
 
 
-    op "This was really fun!"
+    op "Das hat wirklich Spaß gemacht!"
 
 
 translate deutsch d17s05mo_0fd98bc6:
 
 
-    mc "It was. You're concerningly good at party games."
+    mc "Das war es. Du bist beunruhigend gut in Partyspielen."
 
 
 translate deutsch d17s05mo_b154439b:
 
 
-    op "I've, uhm, just had plenty of time to play them when I was little."
+    op "Ich hatte, ähm, einfach genug Zeit, sie zu spielen, als ich klein war."
 
 
 translate deutsch d17s05mo_6f3f9331:
 
 
-    mh "Don't believe his lies. He's amazing at games."
+    mh "Glaube nicht seinen Lügen. Er ist erstaunlich gut in Spielen."
 
 
 translate deutsch d17s05mo_1d3d2d80:
 
 
-    mh "I don't remember the last time I won a game against him."
+    mh "Ich erinnere mich nicht, wann ich das letzte Mal ein Spiel gegen ihn gewonnen habe."
 
 
 translate deutsch d17s05mo_edbcbca9:
 
 
-    op "You win against me all the time!"
+    op "Du gewinnst immer gegen mich!"
 
 
 translate deutsch d17s05mo_416db8a2:
 
 
-    mh "Win without you having to dumb down your abilities. Don't think I don't notice. You're not slick, Olie."
+    mh "Aber nicht ohne dass du deine Fähigkeiten herunterspielst. Glaube nicht, ich bemerke es nicht. Du bist nicht schlau, Olie."
 
 
 translate deutsch d17s05mo_2cc61f9a:
 
 
-    "*Laughs*"
+    "*Lacht*"
 
 
 translate deutsch d17s05mo_f465139f:
 
 
-    mh "*Yawns* We should do this again."
+    mh "*Gähnt* Das sollten wir wieder tun."
 
 
 translate deutsch d17s05mo_5de30f73:
 
 
-    mh "I love having you two over."
+    mh "Ich liebe es, euch beide hier zu haben."
 
 
 translate deutsch d17s05mo_385cd829:
 
 
-    mc "Maybe we can have a barbeque or something."
+    mc "Vielleicht können wir mal einen Grillabend oder so etwas machen."
 
 
 translate deutsch d17s05mo_79919b94:
 
 
-    op "That sounds nice."
+    op "Das klingt gut."
 
 
 translate deutsch d17s05mo_2dbdf5e3:
 
 
-    mc "But that's for another day. It's getting pretty late. I should probably head off."
+    mc "Aber das ist etwas für einen anderen Tag. Es wird schon ziemlich spät. Ich sollte wohl langsam gehen."
 
 
 translate deutsch d17s05mo_3d7aeb6d:
 
 
-    op "I was thinking the same thing. I should get home before it gets too dark."
+    op "Ich habe dasselbe gedacht. Ich sollte nach Hause gehen, bevor es zu dunkel wird."
 
 
 translate deutsch d17s05mo_6c56d9e1:
 
 
-    mh "*Sigh* This is the part I hate about having people over."
+    mh "*Seufz* Das ist der Teil, den ich am Treffen von Leuten nicht mag."
 
 
 translate deutsch d17s05mo_fb23475f:
 
 
-    op "You're such an extrovert."
+    op "Du bist wirklich extrovertiert."
 
 
 translate deutsch d17s05mo_1adc4208:
 
 
-    mh "Only to the people I care about."
+    mh "Nur bei den Leuten, die mir am Herzen liegen."
 
 
 translate deutsch d17s05mo_bc467403:
 
 
-    op "This was really fun...Lyssa."
+    op "Das hat wirklich Spaß gemacht...Lyssa."
 
 
 translate deutsch d17s05mo_8a8091e3:
 
 
-    mh "I'm glad you enjoyed it. It was really nice relaxing with you two today."
+    mh "Ich freue mich, dass es dir gefallen hat. Es war wirklich schön, heute mit euch beiden zu entspannen."
 
 
 translate deutsch d17s05mo_dd43b5b2:
 
 
-    mc "I'm not sure I'd call it \"relaxing\" exactly, though. I was fighting for my life out there."
+    mc "Ich bin mir nicht sicher, ob ich es genau als \"entspannend\" bezeichnen würde. Ich habe da draußen um mein Leben gekämpft."
 
 
 translate deutsch d17s05mo_3f058dd1:
 
 
-    mh "Be safe, alright?"
+    mh "Passt auf euch auf, okay?"
 
 
 translate deutsch d17s05mo_0817892e:
 
 
-    mc "Always."
+    mc "Immer."
 
 
 translate deutsch d17s05mo_e9dc1b55:
 
 
-    mh "You too. Don't go speeding now."
+    mh "Ihr auch. Jetzt nicht zu schnell fahren, okay?"
 
 
 translate deutsch d17s05mo_3654d305:
 
 
-    op "I— Uhm, wha— You—"
+    op "I— Ähm, was— Du—"
 
 
 translate deutsch d17s05mo_a7744d61:
 
 
-    mc "Look at that, you broke the poor thing."
+    mc "Schau mal, du hast den Ärmsten fast kaputtgemacht."
 
 
 translate deutsch d17s05mo_fe2d0d68:
 
 
-    mh "You two stay safe now."
+    mh "Ihr beiden seid jetzt sicher."
 
 
 translate deutsch d17s05mo_8a2d0b06:
 
 
-    mc "We will. You should go lay down a bit."
+    mc "Werden wir. Du solltest dich ein bisschen hinlegen."
 
 
 translate deutsch d17s05mo_3a9ee234:
 
 
-    mh "I will. I love you."
+    mh "Werde ich. Ich liebe dich."
 
 
 translate deutsch d17s05mo_bffea011:
 
 
-    mc "I love you too."
+    mc "Ich liebe dich auch."
 
 
 translate deutsch d17s05mo_edfd60d4:
 
 
-    mc "Rest up well. I'll talk to you tomorrow. Goodnight."
+    mc "Erhol dich gut. Wir sprechen uns morgen. Gute Nacht."
 
 
 translate deutsch d17s05mo_791f3d0a:
 
 
-    mc "You alright, bud?"
+    mc "Alles in Ordnung, Kumpel?"
 
 
 translate deutsch d17s05mo_54073a56:
 
 
-    op "Hm? What? Yes. Uhm, Goodnight, Miss Harris."
+    op "Hm? Was? Ja. Ähm, Gute Nacht, Frau Harris."
 
 
 translate deutsch d17s05mo_aafb3761:
 
 
-    mh "Good night, Oliver. I'm sorry for the surprise kiss."
+    mh "Gute Nacht, Oliver. Es tut mir leid für den Überraschungskuss."
 
 
 translate deutsch d17s05mo_5c26d245:
 
 
-    op "No! No... I, uhm, I liked it."
+    op "Nein! Nein... Ich, ähm, es hat mir gefallen."
 
 
 translate deutsch d17s05mo_be58e169:
 
 
-    mh "Well, I'm glad."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    mh "Nun, das freut mich."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

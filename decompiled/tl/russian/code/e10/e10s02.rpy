@@ -64,7 +64,7 @@ translate russian e10s02_a0059203:
 translate russian e10s02_59d38164:
 
     # mes "He'll introduce himself, but calling him Do-yun should be fine."
-    mes "Он представится сам, но ты можешь называть его До-юн."
+    mes "Он сам представится, но ты можешь называть его До-юн."
 
 # game/code/e10/e10s02.rpy:50
 translate russian e10s02_a9153106:
@@ -124,13 +124,13 @@ translate russian e10s02_c4db894e:
 translate russian e10s02_4c61156c:
 
     # mct "What's happening? Should I bow? Should I say something?{w} Crap. I am not prepared for this."
-    mct "Что происходит? Я должен поклониться? Я должен что-нибудь сказать?{w} Дерьмо. Я к такому не готов."
+    mct "Что происходит? Я должен поклониться? Я должен что-нибудь сказать?{w} Вот дерьмо. Меня к такому не готовили."
 
 # game/code/e10/e10s02.rpy:87
 translate russian e10s02_59b814d1:
 
     # mc "Hello. My name is [mcname] Young.{w} Well, I guess in your custom I am Young [mcname]."
-    mc "Здравствуйте. Меня зовут [mcname] Янг.{w} Ну, по вашим правилам, Янг [mcname]."
+    mc "Здравствуйте. Меня зовут [mcname] Янг.{w} Ну, или если по вашим правилам, Янг [mcname]."
 
 # game/code/e10/e10s02.rpy:90
 translate russian e10s02_15fd73fd:
@@ -142,13 +142,13 @@ translate russian e10s02_15fd73fd:
 translate russian e10s02_b82a39a2:
 
     # mes "No, father. That was my ex-boyfriend. He...{w} disrespected me. I am with [mcname] now."
-    mes "Нет, отец. Это был мой бывший парень. Он... {w} проявил ко мне неуважение. Сейчас я с [mcname]."
+    mes "Нет, отец. Это был мой бывший парень. Он...{w} проявил ко мне неуважение. Сейчас я с [mcname]."
 
 # game/code/e10/e10s02.rpy:96
 translate russian e10s02_93eef468:
 
     # mc "This is a power play."
-    mc "Я понял, Вы сейчас демонстрируете силу."
+    mc "Вы сейчас демонстрируете силу."
 
 # game/code/e10/e10s02.rpy:98
 translate russian e10s02_03ad0a6a:
@@ -166,7 +166,7 @@ translate russian e10s02_75e4ca5c:
 translate russian e10s02_bed64e5e:
 
     # mc "-To your daughter. You know who I am. You're just bringing up her ex-boyfriend to amplify your own power."
-    mc "...С Вашей дочерью. Вы знаете, кто я. И вы вспомнили её бывшего парня, чтобы продемонстрировать свою власть."
+    mc "...С Вашей дочерью. Вы знаете, кто я. И Вы заговорили о её бывшем парне, чтобы продемонстрировать свою власть."
 
 # game/code/e10/e10s02.rpy:105
 translate russian e10s02_91ba1686:
@@ -214,19 +214,19 @@ translate russian e10s02_10b72718:
 translate russian e10s02_a44b1991:
 
     # md "There is no need to be so informal."
-    md "Нет необходимости вести себя так неформально."
+    md "Нет необходимости выходить за рамки формальности."
 
 # game/code/e10/e10s02.rpy:138
 translate russian e10s02_fb405b1e:
 
     # mb "Relax, dad. This isn't a business deal. It's a social occasion."
-    mb "Расслабься, пап. Это не деловая сделка. Это светское мероприятие."
+    mb "Расслабься, пап. Это не деловая встреча. Это светское мероприятие."
 
 # game/code/e10/e10s02.rpy:139
 translate russian e10s02_3400e76f:
 
     # mb "During social interactions it is optimal to relax the rules and go with the flow."
-    mb "Во время социальных взаимодействий приемлимо ослабить правила и плыть по течению."
+    mb "Во время социальных взаимодействий будет приемлимо ослабить правила и плыть по течению."
 
 # game/code/e10/e10s02.rpy:142
 translate russian e10s02_18e08b6b:
@@ -238,7 +238,7 @@ translate russian e10s02_18e08b6b:
 translate russian e10s02_2a063180:
 
     # mc "Thank you both. I agree with Do-yun, er... Don?{w} I am not yet comfortable with the formalities-"
-    mc "Спасибо. Я согласен с До-юном, эм... Дон?{w} Меня тоже  пока не устраивают формальности..."
+    mc "Спасибо. Я согласен с До-юном, эм... Доном?{w} Меня пока тоже не очень привлекают формальности..."
 
 # game/code/e10/e10s02.rpy:148
 translate russian e10s02_506d30e3:
@@ -268,7 +268,7 @@ translate russian e10s02_f69562ef:
 translate russian e10s02_73b9b8d0:
 
     # mm "I've always been a fan of the Tigers."
-    mm "Я всегда был фанатом \"Тигров\"."
+    mm "Я всегда была фанатом \"Тигров\"."
 
 # game/code/e10/e10s02.rpy:163
 translate russian e10s02_b54ac9de:
@@ -304,13 +304,13 @@ translate russian e10s02_dc7d891d:
 translate russian e10s02_5c4c774b:
 
     # md "Daughter, you will be working at headquarters. There is a job opening that you must fill."
-    md "Дочь, ты будешь работать у нас в штаб-квартире. Есть вакансия, которую ты должны занять."
+    md "Дочь, ты будешь работать у нас в штаб-квартире. Есть вакансия, которую ты должна занять."
 
 # game/code/e10/e10s02.rpy:190
 translate russian e10s02_7616c38f:
 
     # mes "Of course, father. The summer internships start in a couple of weeks, so-"
-    mes "Конечно, отец. Летние стажировки начнутся через пару недель, так что..."
+    mes "Конечно, отец. Летняя стажировка начнётся через пару недель, так что..."
 
 # game/code/e10/e10s02.rpy:193
 translate russian e10s02_d739aa85:
@@ -346,7 +346,7 @@ translate russian e10s02_a083872c:
 translate russian e10s02_8b451d52:
 
     # mb "Father and I have discussed it. You may return in the autumn, but you're clearly ready to start full-time."
-    mb "Мы с отцом это уже обсудили. Ты сможешь вернуться осенью, но ты явно готова начать работать в полную занятость."
+    mb "Мы с отцом это уже обсудили. Ты сможешь вернуться осенью, но ты явно готова начать работать на полную."
 
 # game/code/e10/e10s02.rpy:207
 translate russian e10s02_5d990fef:
@@ -424,13 +424,13 @@ translate russian e10s02_a0b6e32f_1:
 translate russian e10s02_847e583c:
 
     # mc "What the hell, Min?! You're the strongest person that I know. You'd cut a birthday cake with a battle axe."
-    mc "Какого чёрта, Мин?! Ты самый сильный человек, которого я знаю. Ты быда готова разрезать праздничный торт боевым топором."
+    mc "Какого чёрта, Мин?! Ты самый сильный человек, которого я знаю. Ты была готова резать праздничный торт боевым топором."
 
 # game/code/e10/e10s02.rpy:248
 translate russian e10s02_2febb978:
 
     # mc "It makes no sense that someone - let alone your own flesh & blood - would disrespect your opinion and tell you-"
-    mc "Нет смысла в том, чтобы кто-то – не говоря уже о твоей собственной плоти и крови - не уважал твоё мнение и указывал тебе..."
+    mc "Нет смысла в том, чтобы кто-то – не говоря уже о твоей собственной плоти и крови - неуважительно относился к твоему мнению и указывал тебе..."
 
 # game/code/e10/e10s02.rpy:252
 translate russian e10s02_b9bbf975:
@@ -442,7 +442,7 @@ translate russian e10s02_b9bbf975:
 translate russian e10s02_b9ba7622:
 
     # mc "I've listened to her. I'll can tell you what Min is going to do-"
-    mc "Я слушал её. Я могу рассказать, что Мин собиралась делать..."
+    mc "Я слушал её. Я могу рассказать, что собиралась делать Мин..."
 
 # game/code/e10/e10s02.rpy:256
 translate russian e10s02_9f5fe95d:
@@ -460,7 +460,7 @@ translate russian e10s02_a27df2e1:
 translate russian e10s02_508689a3:
 
     # md "Is that understood?!"
-    md "Понятно?!"
+    md "Это понятно?!"
 
 # game/code/e10/e10s02.rpy:261
 translate russian e10s02_a6b0ca26:
@@ -508,19 +508,19 @@ translate russian e10s02_1bf60051:
 translate russian e10s02_79f9e729:
 
     # mc "Let me just be clear. I have your daughter's best interests at heart."
-    mc "Только позвольте мне внести ясность. Я искренне забочусь об интересах Вашей дочери."
+    mc "Только позвольте мне внести ясность. Я искренне забочусь об интересах вашей дочери."
 
 # game/code/e10/e10s02.rpy:282
 translate russian e10s02_2ea42706:
 
     # mc "We merely disagree at what is in her best interests."
-    mc "Мы просто не сходимся во мнениях, что действительно соответствует в её интересах."
+    mc "Мы просто не сходимся во мнениях, что действительно отвечае её интересам."
 
 # game/code/e10/e10s02.rpy:285
 translate russian e10s02_c18904f9:
 
     # md "I have arranged a suitable apartment for my daughter and whomever she decides to live with her."
-    md "Я нашёл подходящую квартиру для своей дочери и того, с кем она решит жить."
+    md "Я нашёл подходящую квартиру для своей дочери и для того, с кем она решит жить."
 
 # game/code/e10/e10s02.rpy:287
 translate russian e10s02_6a25ef9e:
@@ -532,7 +532,7 @@ translate russian e10s02_6a25ef9e:
 translate russian e10s02_a0c77c71:
 
     # md "She will have a substantial salary on paper. Of course, that will be reinvested in the company and she will receive her allowance from the family cards."
-    md "На бумаге у неё будет солидная зарплата. Конечно, эти деньги будут реинвестированы в компанию, и она будет получать свою зарплату с семейных карт."
+    md "У неё будет солидная зарплата, на бумаге. Конечно, эти деньги будут реинвестированы в компанию, и она будет получать свою часть по семейной карте."
 
 # game/code/e10/e10s02.rpy:292
 translate russian e10s02_0b74165e:
@@ -550,7 +550,7 @@ translate russian e10s02_f01a490b:
 translate russian e10s02_e3bebce1:
 
     # mb "I'm sure we understand that - in your own way - you are trying to look out for my sister."
-    mb "Я уверен, мы понимаем, что -  по-своему - ты пытаешься присматривать за моей сестрой."
+    mb "Я уверен, мы понимаем, что - по-своему - ты пытаешься присматривать за моей сестрой."
 
 # game/code/e10/e10s02.rpy:299
 translate russian e10s02_65891b6d:
@@ -562,7 +562,7 @@ translate russian e10s02_65891b6d:
 translate russian e10s02_16d837b0:
 
     # md "Stay out of our family's business, [mcname]."
-    md "Но не лезь в дела нашей семьи, [mcname]."
+    md "Держись подальше от дел нашей семьи, [mcname]."
 
 # game/code/e10/e10s02.rpy:304
 translate russian e10s02_7e2a7b19:

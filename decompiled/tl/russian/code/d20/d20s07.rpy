@@ -262,7 +262,7 @@ translate russian d20s07_f668e9bb:
 translate russian d20s07_bc770388:
 
     # pw "Is this going to turn into a Eugene O'Neill play? Are you going to talk about your lifelong regrets?"
-    pw "Превратим это в пьесу Юджина О'Нила? Расскажешь о чём ты сожалела, на протяжении всей жизни?\n\n{size=-10}{i}(Юджин О'Нил - американский писатель){/i}{/size}"
+    pw "Превратим это в пьесу Юджина О'Нила? Расскажешь о чём ты сожалела, на протяжении всей жизни?\n\n{size=-10}{i}Юджин О'Нил - американский писатель.{/i}{/size}"
 
 # game/code/d20/d20s07.rpy:189
 translate russian d20s07_0b87aa98:
@@ -388,19 +388,19 @@ translate russian d20s07_85c18de3:
 translate russian d20s07_bb18f0e3:
 
     # nk "Sure. And who are you in this metaphor, Clinton?"
-    nk "Конечно. А ты кто в этой метафоре, Клинтон?\n\n{size=-10}{i}(Билл Клинтон - один из бывших президентова США){/i}{/size}"
+    nk "Конечно. А ты кто в этой метафоре, Клинтон?\n\n{size=-10}{i}Билл Клинтон - один из бывших президентова США.{/i}{/size}"
 
 # game/code/d20/d20s07.rpy:256
 translate russian d20s07_f2aa71f6:
 
     # mc "I was thinking Kennedy, and you'd be my Marilyn Monroe."
-    mc "Я думал про Кеннеди, а ты будешь моей Мэрилин Монро.\n\n{size=-10}{i}(Джон Кеннеди - также один из бывших президентова США, Мэрилин Монро — американская киноактриса){/i}{/size}"
+    mc "Я думал про Кеннеди, а ты будешь моей Мэрилин Монро.\n\n{size=-10}{i}Джон Кеннеди - также один из бывших президентова США, Мэрилин Монро — американская киноактриса.{/i}{/size}"
 
 # game/code/d20/d20s07.rpy:257
 translate russian d20s07_494b7b60:
 
     # mc "Polly would be Jacqueline."
-    mc "А Полли будет Жаклин.\n\n{size=-10}{i}(Жаклин Кеннеди - жена Джона Кеннеди){/i}{/size}"
+    mc "А Полли будет Жаклин.\n\n{size=-10}{i}Жаклин Кеннеди - жена Джона Кеннеди.{/i}{/size}"
 
 # game/code/d20/d20s07.rpy:260
 translate russian d20s07_65d4fd2b:
@@ -646,7 +646,7 @@ translate russian d20s07_543a70c6:
 translate russian d20s07_6b4ad7f8:
 
     # pw "It's a beautiful location. Like the one from that Fellini movie."
-    pw "Это замечательное место. Как в одном из фильмов Феллини.\n\n{size=-10}{i}(Федерико Феллини - итальянский кинорежиссёр и сценарист){/i}{/size}"
+    pw "Это замечательное место. Как в одном из фильмов Феллини.\n\n{size=-10}{i}Федерико Феллини - итальянский кинорежиссёр и сценарист.{/i}{/size}"
 
 # game/code/d20/d20s07.rpy:384
 translate russian d20s07_c0409627:

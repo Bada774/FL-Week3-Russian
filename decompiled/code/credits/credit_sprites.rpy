@@ -30,6 +30,7 @@ screen credits_roll():
             add "writer2"
             add "writer3"
             add "writer4"
+            add "writer7"
             add "writer5"
             add "writer6"
 
@@ -166,7 +167,7 @@ image credit_anim_bg = Movie(play = "images/utility/credit_anim/credit_anim_bg.w
 
 image thank_you = Text(_("Thank you for playing the game!"), style="credit_start_text")
 image week_three = Text(_("We'll see you soon!"), style="credit_start_text")
-image freelanceTranslatorIntroduce = Text(_("Русская локализация - Bada774"), style="freelanceTraslatorIntroduceStyle")
+image freelanceTranslatorIntroduce = Text(_("Russian localization - Bada774"), style="freelanceTraslatorIntroduceStyle")
 image freelanceTranslatorSteam = Text("({a=https://steamcommunity.com/id/bada774/)}Steam{/a})", style="freelanceTraslatorIntroduceStyle")
 
 
@@ -176,6 +177,7 @@ image writer3 = Text("Wildquill", style="team_memeber_name")
 image writer4 = Text("Riverrun\n   Studios", style="team_memeber_name")
 image writer5 = Text("Venus", style="team_memeber_name")
 image writer6 = Text("Vi", style="team_memeber_name")
+image writer7 = Text("Krash", style="team_memeber_name")
 
 
 image artist1 = Text("Venus", style="team_memeber_name")
@@ -245,4 +247,5 @@ style freelanceTraslatorIntroduceStyle:
     color "#ffffff"
     outlines [(2, "#61192b", 2, 2)]
     text_align 0.5
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

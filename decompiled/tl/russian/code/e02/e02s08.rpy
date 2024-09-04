@@ -490,7 +490,7 @@ translate russian e02s08_e894b5dc:
 translate russian e02s08_6e0750ac:
 
     # ap "Angela has always thought that you were an icon. To uh...put it in PG terms."
-    ap "Анджела всегда считала тебя иконой. Эм... если говорить об этом в пределах PG.\n\n{size=-10}{i}(PG - возрастное ограничение 13+){/i}{/size}"
+    ap "Анджела всегда считала тебя иконой. Эм... если говорить об этом в пределах PG.\n\n{size=-10}{i}PG - возрастное ограничение 13+{/i}{/size}"
 
 # game/code/e02/e02s08.rpy:273
 translate russian e02s08_7b32c967:

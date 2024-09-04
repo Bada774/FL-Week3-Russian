@@ -70,7 +70,7 @@ translate russian d15s04dd_b85f6643:
 translate russian d15s04dd_52806179:
 
     # mc "What's the doctor's name again? Dr. Beer?"
-    mc "Ещё раз, как её зовут? Доктор Бир?\n\n{size=-10}{i}(ориг. Beer - Пиво){/i}{/size}"
+    mc "Ещё раз, как её зовут? Доктор Бир?\n\n{size=-10}{i}Ориг. Dr. Beer - Дословно переводится как \"Доктор Пиво\".){/i}{/size}"
 
 # game/code/d15/d15s04dd.rpy:79
 translate russian d15s04dd_526a2aa5:
@@ -88,7 +88,7 @@ translate russian d15s04dd_ce7d732a:
 translate russian d15s04dd_da7ce568:
 
     # dd "No, it's worse. Her full last name is Dr. Bierbottom."
-    dd "Еще хуже. Её полная фамилия Бирботтом.\n\n{size=-10}{i}(ориг. Bierbottom - Гробовое дно){/i}{/size}"
+    dd "Еще хуже. Её полная фамилия Бирботтом.\n\n{size=-10}{i}Ориг. Bierbottom - Дословно переводится как \"Гробовое дно\".){/i}{/size}"
 
 # game/code/d15/d15s04dd.rpy:87
 translate russian d15s04dd_2b35b6fe:

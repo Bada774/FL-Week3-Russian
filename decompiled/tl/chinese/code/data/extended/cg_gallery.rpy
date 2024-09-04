@@ -204,9 +204,34 @@ translate chinese strings:
 
 
     old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    new "结局12:瓦妮莎和艾莉森"
 
 
     old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "结局14:波莉和诺拉"
+
+
+
+translate chinese strings:
+
+
+    old "Ending 11: Daisy"
+    new "结局11:黛西"
+
+
+    old "Ending 17: Dahlia"
+    new "结局17:黛丽娅"
+
+
+
+translate chinese strings:
+
+
+    old "Ending 04: Girls"
+    new "结局04:女孩们"
+
+
+    old "Ending 07: Girls"
+    new "结局07:女孩们"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

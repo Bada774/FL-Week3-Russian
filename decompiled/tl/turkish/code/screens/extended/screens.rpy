@@ -67,25 +67,19 @@ translate turkish strings:
     new "BONUS İÇERİK"
 
 
-
-translate turkish strings:
-
-
-    old "Wishlist Vinovella University on Steam"
-    new "İstek Listesi Vinovella University Steam'de"
-
-
-translate turkish strings:
+    old "Wishlist Taboo University on Steam"
+    new "İstek Listesi Taboo University Steam'de"
 
 
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "Aşk oyuncağı al"
 
 
-    old "Wishlist Vinovella University in Steam"
-    new "Wishlist Vinovella University in Steam"
+    old "Try our new game Taboo University"
+    new "Yeni oyunumuz Tabu Üniversitesi'ni deneyin"
 
 
-    old "Try our new game Vinovella University"
-    new "Try our new game Vinovella University"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    old "Get free DLC containing 6 endings from Steam"
+    new "Steam'den 6 son içeren ücretsiz DLC alın"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

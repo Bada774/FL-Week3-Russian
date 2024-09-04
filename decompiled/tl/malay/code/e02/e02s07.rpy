@@ -1665,4 +1665,5 @@ translate malay strings:
 
     old "Let Lyssa Fuck You Instead"
     new "Let Lyssa Fuck You Instead"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

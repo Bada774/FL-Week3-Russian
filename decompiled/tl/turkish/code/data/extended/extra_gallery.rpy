@@ -263,7 +263,7 @@ translate turkish strings:
     new "TUTMAK İSTİYORUMP\nFETISH LOCATOR"
 
 
-    old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
+    old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
     new "KİMSENİN ŞANTAJ\nGÖRMEYECEĞİNDEN\nEMİN OLMAK İÇİN"
 
 
@@ -301,4 +301,69 @@ translate turkish strings:
 
     old "The whole\nharem pregnant"
     new "Bütün\nharem hamile"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+    old "30. What? You wanted more?"
+    new "30. Ne? Daha fazlasını mı istedin?"
+
+
+    old "Finish all 6 Endings from DLC-1"
+    new "DLC-1'deki 6 Sonun hepsini bitir"
+
+
+    old "31. Go Debbie Go"
+    new "31. Git Debbie Git"
+
+
+    old "Have sex with Debbie"
+    new "Debbie ile seks yap"
+
+
+    old "32. Fully Cooked"
+    new "32. Tamamen Pişmiş"
+
+
+    old "Get max points in Lydia's challenges in e07"
+    new "e07'de Lydia'nın mücadelelerinde maksimum puan alın"
+
+
+    old "33. Full House"
+    new "33. Tam Ev"
+
+
+    old "Play with all the characters in e04"
+    new "e04'teki tüm karakterlerle oynayın"
+
+
+    old "34. Day and Night"
+    new "34. Gündüz ve Gece"
+
+
+    old "Finish e04 and e07"
+    new "e04 ve e07'yi bitirin"
+
+
+    old "35. A lucky dozen"
+    new "35. Şanslı bir düzine"
+
+
+    old "Finish 12 endings"
+    new "12 sonu bitir"
+
+
+    old "ORNY"
+    new "ORNY"
+
+
+    old "H"
+    new "H"
+
+
+    old "UNGRY"
+    new "UNGRY"
+
+
+    old "APPY"
+    new "APPY"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -4,13 +4,14 @@ translate malay strings:
 
 
     old "BDSM - Dominant"
-    new "BDSM - Dominant"
+    new "BDSM - Dominan"
 
 
     old "BDSM - Submissive"
-    new "BDSM - Submissive"
+    new "BDSM - Hamba"
 
 
     old "Rimming"
-    new "Rimming"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Anilingus"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

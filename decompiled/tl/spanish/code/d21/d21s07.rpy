@@ -1264,7 +1264,7 @@ translate spanish d21s07_closing_2adcde9a:
 translate spanish d21s07_closing_41e626a4:
 
 
-    mc "Sí, su señoría. Soy [mcname] Young. {w} Mi firma está en esos documentos."
+    mc "Sí, señoría. Yo [mcname] Young, coloqué mi firma en esos documentos."
 
 
 translate spanish d21s07_closing_b6c96550:
@@ -1540,7 +1540,7 @@ translate spanish d21s07_closing_4311f40b:
 translate spanish d21s07_closing_087b684d:
 
 
-    jdg "SILENCIO. En cuanto a usted, señorita Cox..."
+    jdg "SILENCIO. En cuanto a usted, Señorita Cox..."
 
 
 translate spanish d21s07_closing_10b31f51:
@@ -1648,7 +1648,7 @@ translate spanish d21s07_closing_9df8f4a4:
 translate spanish d21s07_closing_330d1221:
 
 
-    mc "¡Guau! ¿Qué?"
+    mc "¡Vaya! ¿Qué?"
 
 
 translate spanish d21s07_closing_3535541c:
@@ -1963,4 +1963,5 @@ translate spanish strings:
 
     old "Let Lydia Down"
     new "Decepcionar a Lydia"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

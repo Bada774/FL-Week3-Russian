@@ -183,4 +183,5 @@ translate deutsch strings:
 
     old "Go to AmRose's House"
     new "Gehe zu AmRoses Haus"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

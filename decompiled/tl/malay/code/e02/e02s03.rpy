@@ -4,223 +4,223 @@
 translate malay e02s03_da344b59:
 
 
-    mc "I forgot to congratulate you."
+    mc "Aku terlupa untuk mengucapkan tahniah dekat kau."
 
 
 translate malay e02s03_71a575a5:
 
 
-    mh "For what?"
+    mh "Untuk apa?"
 
 
 translate malay e02s03_b500409f:
 
 
-    mc "For that whooping you gave me at chess after we got back from the slopes."
+    mc "Untuk mengalahkan aku dekat catur selepas kita pulang dari cerun."
 
 
 translate malay e02s03_c0728224:
 
 
-    mh "Haha. Thank you. In all fairness to you, I think you were a little distracted."
+    mh "Haha. Terima kasih. Dalam semua keadilan kepada kau, aku rasa kau sedikit terganggu."
 
 
 translate malay e02s03_1fb28747:
 
 
-    mc "Mmmhmmm. Hard to concentrate on an empty stomach."
+    mc "Mmmhmmm. Sukar untuk menumpukan perhatian semasa perut kosong."
 
 
 translate malay e02s03_61d58146:
 
 
-    mc "Even though I lost, I still enjoyed it. When we played Cards against Humans, that was one of those moments where I really got to know you, Lyssa."
+    mc "Walaupun aku kalah, aku tetap menikmatinya. Bila kita bermain Kad melawan Manusia, itu adalah salah satu saat di mana aku sebetulnya mengenali kau, Lyssa."
 
 
 translate malay e02s03_db00bc0f:
 
 
-    mh "Yes, it was a wonderful moment. You know it is a shame we did not pack the deck."
+    mh "Ya, ia adalah saat yang indah. Kau tahu ianya memalukan kita tak mengemaskan dek itu."
 
 
 translate malay e02s03_19521bee:
 
 
-    mh "It would have been a lovely way to break the ice with the other guests."
+    mh "Ianya satu cara yang menarik untuk memecahkan ais dengan tetamu lain."
 
 
 translate malay e02s03_2cd6b5aa:
 
 
-    mh "I thought you were going to talk of how difficult it is to strategize when you sit across from me."
+    mh "Aku fikir kau akan bercakap tentang betapa sukarnya untuk membuat strategi bila kau duduk di hadapan aku."
 
 
 translate malay e02s03_aafe2bae:
 
 
-    mc "Haha. Well I figured that went without saying."
+    mc "Haha. Baiklah, aku fikir ia tak perlu dikatakan."
 
 
 translate malay e02s03_68be1d6c:
 
 
-    mh "We should have brought a board game along. It would be the perfect strategy to help break the ice with the other guests."
+    mh "Kita sepatutnya bawa permainan papan bersama. Ia akan menjadi strategi yang sempurna untuk membantu memecahkan masalah dengan tetamu lain."
 
 
 translate malay e02s03_1338d306:
 
 
-    mc "Totally. But you know me. I make friends easily."
+    mc "Betul. Tapi kau kenal aku. Aku mudah berkawan."
 
 
 translate malay e02s03_ff8a0d90:
 
 
-    mh "Yes, but games always help. You did not forget that without Secret Oral Santa, we might never have met."
+    mh "Ya, tapi permainan sentiasa membantu. Kau lupa yang tanpa Rahsia Oral Santa, kita mungkin tak akan berjumpa."
 
 
 translate malay e02s03_744d3776:
 
 
-    mc "Mmm. I don't think so."
+    mc "Mmm. Aku tak fikir macam itu."
 
 
 translate malay e02s03_8307bafc:
 
 
-    mh "Oh? And why is that?"
+    mh "Oh? Dan kenapa agaknya?"
 
 
 translate malay e02s03_1492ee63:
 
 
-    mc "I think we would have connected somehow... somewhere."
+    mc "Aku fikir kita akan berhubung entah bagaimana... Di suatu tempat."
 
 
 translate malay e02s03_e71ad64c:
 
 
-    mh "Mmm, like we were meant to be."
+    mh "Mmm, macam kita sepatutnya."
 
 
 translate malay e02s03_a0ccd0f2:
 
 
-    mh "That's very sweet, [mcname]."
+    mh "Itu sangat manis, [mcname]."
 
 
 translate malay e02s03_3ccdcbe2:
 
 
-    mh "I think we would have found one another as well."
+    mh "Aku fikir kita akan menemui satu sama lain juga."
 
 
 translate malay e02s03_bde8529c:
 
 
-    mh "Speaking of finding people."
+    mh "Cakap pasal mencari orang."
 
 
 translate malay e02s03_d7203c5c:
 
 
-    mh "We should introduce ourselves to the other guests."
+    mh "Kita patut memperkenalkan diri kita kepada tetamu lain."
 
 
 translate malay e02s03_83efc394:
 
 
-    mct "Is that the couple we heard arguing earlier?"
+    mct "Itukah pasangan yang kita dengar bertengkar tadi?"
 
 
 translate malay e02s03_f221a04f:
 
 
-    ac "Honey, we're still not ready."
+    ac "Sayang, kita masih belum bersedia."
 
 
 translate malay e02s03_7752447b:
 
 
-    fc "I'm sure we can make it work."
+    fc "Aku pasti kita boleh membuatnya berjaya."
 
 
 translate malay e02s03_04132ab2:
 
 
-    ac "Frank, this is our first vacation in years. We barely have time for ourselves..."
+    ac "Frank, ini percutian pertama kami dalam beberapa tahun. Kita hampir tak ada masa untuk diri sendiri..."
 
 
 translate malay e02s03_ad2f759a:
 
 
-    ac "Raising a child is a huge responsibility."
+    ac "Membesarkan anak adalah tanggungjawab yang besar."
 
 
 translate malay e02s03_a8b3c1bc:
 
 
-    fc "So we'll get some helpers. I can ask Bill if he knows anyone who's looking for work."
+    fc "Jadi kita akan dapatkan beberapa pembantu. Aku boleh tanya Bill kalau dia mengenali sesiapa yang sedang mencari kerja."
 
 
 translate malay e02s03_e25a0a7c:
 
 
-    ac "How are we going to afford that?"
+    ac "Kita akan mampu ke untuk bayar mereka?"
 
 
 translate malay e02s03_e0e3b8b1:
 
 
-    fc "We'll... oh. Um well we will figure it out."
+    fc "Kita akan... Oh. Um, baiklah kita akan fikirkan."
 
 
 translate malay e02s03_f3787c3d:
 
 
-    ac "I love you, but we can't just do something like this and hope it will all work out."
+    ac "Aku sayang kau, tapi kita tak boleh lakukan sesuatu macam ini dan harap semuanya akan berjaya."
 
 
 translate malay e02s03_30de5c6d:
 
 
-    ac "Listen, let's just try to enjoy our time here."
+    ac "Dengar, mari kita cuba menikmati masa kita di sini."
 
 
 translate malay e02s03_23bbc2d7:
 
 
-    fc "Alright, Ashley. I can do that."
+    fc "Baiklah, Ashley. Aku boleh lakukannya."
 
 
 translate malay e02s03_51e51214:
 
 
-    fc "Hey, there!"
+    fc "Hey!"
 
 
 translate malay e02s03_30c18909:
 
 
-    fc "How's it going?"
+    fc "Macam mana keadaannya?"
 
 
 translate malay e02s03_dda6369b:
 
 
-    mc "Not bad. You're not actually staff are you?"
+    mc "Boleh tahan. Awak sebenarnya bukan kakitangan kan?"
 
 
 translate malay e02s03_00382e53:
 
 
-    fc "Haha. Nope. Just serving up some drinks for me and the wife."
+    fc "Haha. Tak. Hanya menghidangkan minuman untuk saya dan isteri."
 
 
 translate malay e02s03_4864d21c:
 
 
-    fc "I'm Frank Cooper. Nice to meet you."
+    fc "Saya Frank Cooper. Gembira berkenalan dengan awak."
 
 
 translate malay e02s03_b8a78d4c:
@@ -232,31 +232,31 @@ translate malay e02s03_b8a78d4c:
 translate malay e02s03_23541b73:
 
 
-    mh "Lyssa. This is my boyfriend, [mcname]"
+    mh "Lyssa. Ini teman lelaki saya, [mcname]"
 
 
 translate malay e02s03_600a505c:
 
 
-    mc "Nice to meet you."
+    mc "Gembira berkenalan dengan awak."
 
 
 translate malay e02s03_6cb57fc1:
 
 
-    ac "The pleasure is all mine."
+    ac "Sama juga."
 
 
 translate malay e02s03_d8f1c051:
 
 
-    fc "So is this a pre-engagement trip? Or are you two here for the sessions?"
+    fc "Jadi adakah ini percutian pra-pertunangan? Atau kamu berdua di sini untuk sesi itu?"
 
 
 translate malay e02s03_be570cb2:
 
 
-    mc "It's our first big trip together. It's been amazing."
+    mc "Ia adalah percutian besar pertama kami bersama. Ia sangat mengagumkan."
 
 
 translate malay e02s03_dfc3c9f2:
@@ -268,13 +268,13 @@ translate malay e02s03_dfc3c9f2:
 translate malay e02s03_a761bbca:
 
 
-    fc "Ah, my mistake. I can see it now, that glow on you both."
+    fc "Ah, salah saya. Saya nampaknya sekarang, cahaya itu pada kamu berdua."
 
 
 translate malay e02s03_db5d7606:
 
 
-    fc "Well I'm still happy to meet you, we came up here for-"
+    fc "Saya masih gembira bertemu dengan awak, kami datang ke sini untuk-"
 
 
 translate malay e02s03_fe0d5fe9:
@@ -286,61 +286,61 @@ translate malay e02s03_fe0d5fe9:
 translate malay e02s03_0dfc37df:
 
 
-    ac "Don't bore our new friends."
+    ac "Jangan bosankan kawan baru kita."
 
 
 translate malay e02s03_82e96d40:
 
 
-    fc "I'm just saying, they're very cozy. I figured they didn't come up for the couples' therapy."
+    fc "Saya cuma cakap, mereka sangat selesa. Saya fikir mereka tak datang untuk terapi pasangan."
 
 
 translate malay e02s03_2aaab9a3:
 
 
-    mh "Therapy?"
+    mh "Terapi?"
 
 
 translate malay e02s03_c1a79757:
 
 
-    ac "Ahem.. yes. It's the main part of why we came here."
+    ac "Ahem... Ya. Ianya sebab utama mengapa kami datang ke sini."
 
 
 translate malay e02s03_573c9751:
 
 
-    fc "Yeah but it's not really true therapy. The therapist got hurt so it's unlikely they'll make it here."
+    fc "Yeah tetapi ia bukanlah terapi yang sebenarnya. Ahli terapi itu cedera jadi tak mungkin mereka akan sampai ke sini."
 
 
 translate malay e02s03_1b4d2edb:
 
 
-    fc "But we talked to the other couples and have still been trying to... I don't know, to share and figure out solutions."
+    fc "Tapi kami bercakap dengan pasangan lain dan masih cuba untuk... Entahlah, untuk berkongsi dan cari penyelesaian."
 
 
 translate malay e02s03_73cf4df7:
 
 
-    mh "Interesting."
+    mh "Menarik."
 
 
 translate malay e02s03_9f7adc04:
 
 
-    ac "You two are welcome to join us. We set another meeting for two days from now."
+    ac "Kamu berdua dialu-alukan untuk menyertai kami. Kami menetapkan satu lagi pertemuan dalam dua hari dari sekarang."
 
 
 translate malay e02s03_4d36d26c:
 
 
-    mct "I don't know if we should get involved."
+    mct "Aku tak tahu sama ada kita patut terlibat."
 
 
 translate malay e02s03_59d90154:
 
 
-    mh "Are you sure we wouldn't be imposing?"
+    mh "Awak pasti kami tak akan ganggu?"
 
 
 translate malay e02s03_0c7cde4c:
@@ -352,301 +352,301 @@ translate malay e02s03_0c7cde4c:
 translate malay e02s03_2c7c87ef:
 
 
-    fc "That's kind of you, but I think it would be fine. Especially if you met the other couples."
+    fc "Awak memang baik, tapi saya rasa tak mengapa. Lebih-lebih lagi kalau awak berjumpa dengan pasangan lain."
 
 
 translate malay e02s03_1f215d3a:
 
 
-    fc "It's all been very casual, no stress."
+    fc "Semuanya sangat santai, tak ada tekanan."
 
 
 translate malay e02s03_3dcd7fcf:
 
 
-    ac "Except for the stress that we haven't made any progress because we don't actually know what we're doing."
+    ac "Kecuali tekanan yang kami tak buat apa-apa kemajuan kerana kami sebenarnya tak tahu apa yang kami lakukan."
 
 
 translate malay e02s03_2ed99978:
 
 
-    fc "Well, we gotta get points for trying."
+    fc "Jadi, tak salah kalau kita cuba."
 
 
 translate malay e02s03_a6251b64:
 
 
-    mh "What do you talk about there?"
+    mh "Apa yang awak bincangkan di sana?"
 
 
 translate malay e02s03_29bf3d83:
 
 
-    fc "Anything that comes to mind, really."
+    fc "Apa-apa sahaja yang terlintas di fikiran...."
 
 
 translate malay e02s03_86f8c829:
 
 
-    ac "We try to focus on our problems, but well... then sometimes we only focus on those, instead of solutions."
+    ac "Kami cuba fokus pada masalah kami, tapi baiklah... Kadangkala kami hanya fokus pada masalah itu, bukannya penyelesaian."
 
 
 translate malay e02s03_b406be32:
 
 
-    mh "Well, if you really don't mind, we will think about stopping by."
+    mh "Kalau awak betul-betul tak keberatan, kami akan fikir untuk singgah."
 
 
 translate malay e02s03_c0e25008:
 
 
-    mct "We will? I didn't picture Lyssa as a people watcher."
+    mct "Kita akan? Aku tak dapat bayangkan Lyssa sebagai pemerhati rakyat."
 
 
 translate malay e02s03_294cfb38:
 
 
-    ac "Excellent."
+    ac "Baiklah."
 
 
 translate malay e02s03_966446ad:
 
 
-    mct "Huh? Did Ashley just wink at me?"
+    mct "Huh? Ashley ada mengenyitkan matanya pada aku?"
 
 
 translate malay e02s03_59a96450:
 
 
-    mc "*Whispers* Well this should be interesting."
+    mc "*Bisik* Baiklah, ini menarik."
 
 
 translate malay e02s03_2ac5fc1c:
 
 
-    mh "*Whispers* I was thinking the same thing."
+    mh "*Bisik* Aku pun fikir perkara yang sama."
 
 
 translate malay e02s03_80c27b93:
 
 
-    mh "*Whispers* Overall, I'm sure we'll just end up hanging out with them to help make their stay better since the therapist couldn't make it."
+    mh "*Bisik* Secara keseluruhannya, aku pasti kita hanya akan bergaul dengan mereka untuk membantu menjadikan penginapan mereka lebih baik sebab ahli terapi tak datang."
 
 
 translate malay e02s03_05d71477:
 
 
-    mct "Even on a trip, Lyssa still likes to help people in need."
+    mct "Walaupun dalam percutian, Lyssa tetap suka tolong orang yang memerlukan."
 
 
 translate malay e02s03_dc4e7f8c:
 
 
-    mc "Sounds like a plan, gorgeous."
+    mc "Itu satu rancangan, si cantik."
 
 
 translate malay e02s03_lodge_02f7b642:
 
 
-    mc "Hmmm. I know you have your rules, but you might want to consider breaking them."
+    mc "Hmmm. Aku tahu kau ada peraturan kau, tapi kau mungkin ingin mempertimbangkan untuk melanggarnya."
 
 
 translate malay e02s03_lodge_6fe05156:
 
 
-    mh "Haha. I'm going wireless this trip. No beeps or vibrations. Just moans and gasps."
+    mh "Haha. Aku pergi wayarles perjalanan ini. Tak ada bunyi bip atau getaran. Hanya mengerang dan mengeluh."
 
 
 translate malay e02s03_lodge_14d0faf3:
 
 
-    mc "I love the sound of that, but these texts, well they're starting to pile up."
+    mc "Aku suka bunyi itu, tapi teks ini, dah mula bertimbun."
 
 
 translate malay e02s03_lodge_f5d59589:
 
 
-    mh "I'm sure it can be handled. After our vacation has concluded."
+    mh "Aku yakin ia boleh dikendalikan. Selepas percutian kita tamat."
 
 
 translate malay e02s03_lodge_dc87f539:
 
 
-    mh "Oliver can handle things. I think his anxiety is just acting up because I left him alone in the office."
+    mh "Oliver boleh tanganinya. Aku rasa kebimbangannya hanya berlakon sebab aku meninggalkan dia seorang diri di pejabat."
 
 
 translate malay e02s03_lodge_73576b19:
 
 
-    mh "When we get back, I'll be sure to thank him for all the extra work he did."
+    mh "Bila kita kembali, aku pasti akan berterima kasih kepadanya untuk semua kerja tambahan yang dia lakukan."
 
 
 translate malay e02s03_lodge_3dd19c23:
 
 
-    mh "You know, after all that wine, I'm feeling a little..."
+    mh "Kau tahu, selepas semua wain itu, aku berasa sedikit..."
 
 
 translate malay e02s03_lodge_68a0b1f9:
 
 
-    mc "Dizzy?"
+    mc "Pening?"
 
 
 translate malay e02s03_lodge_c73da161:
 
 
-    mh "Frisky, actually."
+    mh "Bergelora, sebenarnya."
 
 
 translate malay e02s03_lodge_d9ce7b3b:
 
 
-    mh "Would you be a gentleman and help me undress?"
+    mh "Boleh tolong aku tanggalkan pakaian?"
 
 
 translate malay e02s03_lodge_c8fc831f:
 
 
-    mc "You know, I might have accepted my defeat too rashly."
+    mc "Kau tahu, aku mungkin dah menerima kekalahan aku terlalu terburu-buru."
 
 
 translate malay e02s03_lodge_3f358a0b:
 
 
-    mh "Oh, how do you figure?"
+    mh "Oh, macam mana kau fikirkannya?"
 
 
 translate malay e02s03_lodge_b87bab63:
 
 
-    mc "I mean, everything is going to be decided here. During the final round."
+    mc "Maksud aku, semuanya akan diputuskan di sini. Semasa pusingan akhir."
 
 
 translate malay e02s03_lodge_13f3c3ef:
 
 
-    mc "Are you ready?"
+    mc "Kau dah bersedia?"
 
 
 translate malay e02s03_lodge_64ffe7e5:
 
 
-    mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
+    mh "Oh, romantiknya. Dan aku akan dikuasai... Macam binatang liar?"
 
 
 translate malay e02s03_lodge_3d276eaa:
 
 
-    mc "Haha. I am not some lowly beast. I'm the king of romance, like Cyrano de Bergerac. That's why you're with me."
+    mc "Haha. Aku bukan binatang yang hina. Aku raja percintaan, macam Cyrano de Bergerac. Sebab itu kau ada dengan aku."
 
 
 translate malay e02s03_lodge_ad426ffb:
 
 
-    mh "Mmm. That might be part of it. But you're so much more than a hopeless romantic, [mcname]"
+    mh "Mmm. Itu mungkin sebahagian daripadanya. Tapi kau lebih daripada seorang romantis tanpa harapan, [mcname]"
 
 
 translate malay e02s03_lodge_4545637d:
 
 
-    mc "You think I'm hopeless?"
+    mc "Kau rasa aku tak ada harapan?"
 
 
 translate malay e02s03_lodge_0669ff00:
 
 
-    mh "Hehe. I think you might have been before we met."
+    mh "Hehe. Aku fikir kau mungkin sebelum kita bertemu."
 
 
 translate malay e02s03_lodge_beea348e:
 
 
-    mc "I can live with that. Now come here..."
+    mc "Aku boleh hidup dengan itu. Sekarang mari sini..."
 
 
 translate malay e02s03_lodge_83078e78:
 
 
-    mc "I love you."
+    mc "Aku sayang kau."
 
 
 translate malay e02s03_lodge_187c95ef:
 
 
-    mh "I adore you, [mcname]"
+    mh "Kaulah pujaan hatiku, [mcname]"
 
 
 translate malay e02s03_lodge_cb56b5eb:
 
 
-    mh "*Moans softly* Your fingers are like little candles tickling my body."
+    mh "*Mengerang perlahan* Jari-jari kau umpama lilin kecil menggeletek badan aku."
 
 
 translate malay e02s03_lodge_1af0b9fa:
 
 
-    mc "You smell so good."
+    mc "Bau kau sangat sedap."
 
 
 translate malay e02s03_lodge_1f6799f1:
 
 
-    mh "Slip it in... I cannot wait any longer..."
+    mh "Masukkannya... Aku tak boleh tunggu lagi..."
 
 
 translate malay e02s03_lodge_fbc867e7:
 
 
-    mc "Hmmm, what exactly am I supposed to be slipping inside of you?"
+    mc "Hmmm, apa sebenarnya yang aku patut masukkan dalam diri kau?"
 
 
 translate malay e02s03_lodge_9c101f87:
 
 
-    mh "That big... {i}throbbing{/i} cock of yours, Mr. de Bergerac."
+    mh "Kote kau yang besar dan {i}berdenyut{/i}, En. de Bergerac."
 
 
 translate malay e02s03_lodge_5ae61c43:
 
 
-    mh "Go slow."
+    mh "Perlahan, sayang."
 
 
 translate malay e02s03_lodge_55168dd3:
 
 
-    mh "Make love to me. Make me yours."
+    mh "Bercintalah dengan aku. Jadikan aku milik kau."
 
 
 translate malay e02s03_lodge_d60965a1:
 
 
-    mc "You look so beautiful."
+    mc "Kau nampak sangat cantik."
 
 
 translate malay e02s03_lodge_5e000df7:
 
 
-    mh "And you're my treasure. I was so afraid you wouldn't come with me. I wouldn't know what I'd do if you said no..."
+    mh "Dan kau adalah harta aku. Aku sangat takut kau tak akan ikut aku. Aku tidak akan tahu apa yang aku akan buat kalau kau kata tak..."
 
 
 translate malay e02s03_lodge_c6bbd009:
 
 
-    mc "I never want to disappoint you, Lyssa. You're my world..."
+    mc "Aku tak pernah nak kecewakan kau, Lyssa. Kaulah dunia aku..."
 
 
 translate malay e02s03_lodge_9fe8e411:
 
 
-    mh "You can go a little faster, Baby..."
+    mh "Kau boleh pergi lebih cepat, sayang..."
 
 
 translate malay e02s03_lodge_dd2b8b77:
 
 
-    mc "It's fine, Lyssa. I want this moment to last forever."
+    mc "Tak apa, Lyssa. Aku nak detik ini kekal selama-lamanya."
 
 
 translate malay e02s03_lodge_254ff62d:
@@ -658,55 +658,55 @@ translate malay e02s03_lodge_254ff62d:
 translate malay e02s03_lodge_9b8e1de9:
 
 
-    mc "You're so warm and tight."
+    mc "Kau sangat hangat dan ketat."
 
 
 translate malay e02s03_lodge_2630117a:
 
 
-    mh "Yes... I love having you inside me."
+    mh "Ya... Aku suka kau ada dalam diri kau."
 
 
 translate malay e02s03_lodge_67cbede5:
 
 
-    mh "Hold onto me."
+    mh "Pegang aku."
 
 
 translate malay e02s03_lodge_28095bfd:
 
 
-    mc "I can't get enough of you. Your face, your hair, the color of your eyes."
+    mc "Aku tak akan pernah cukup dengan kau. Muka kau, rambut kau, warna mata kau."
 
 
 translate malay e02s03_lodge_dca5378e:
 
 
-    mc "The way you feel, how you smell, the taste of your mouth."
+    mc "Cara anda kau, bau kau, rasa mulut kau."
 
 
 translate malay e02s03_lodge_45567f23:
 
 
-    mc "And your amazing little cock."
+    mc "Dan kote kecil kau yang menakjubkan."
 
 
 translate malay e02s03_lodge_a741ebcd:
 
 
-    mh "I would say it is pretty far from little."
+    mh "Aku akan katakan ia agak besar dari itu."
 
 
 translate malay e02s03_lodge_7bbab449:
 
 
-    mc "Fair point."
+    mc "Betul juga."
 
 
 translate malay e02s03_lodge_c1ee3c51:
 
 
-    mh "Hold me. Don't ever let me go."
+    mh "Pegang aku. Jangan sesekali lepaskan aku."
 
 
 translate malay e02s03_lodge_bd7e0d71:
@@ -718,19 +718,19 @@ translate malay e02s03_lodge_bd7e0d71:
 translate malay e02s03_lodge_2bafe8b0:
 
 
-    mh "Yes! Finish... inside me... I want it all, darling..."
+    mh "Ya! Tembak... Dalam aku... Aku nak semuanya, sayang..."
 
 
 translate malay e02s03_lodge_a2aaa812:
 
 
-    mc "Ah, I'm close."
+    mc "Ah, aku dah nak..."
 
 
 translate malay e02s03_lodge_03a39cac:
 
 
-    mh "Do it, cum, cum inside me."
+    mh "Lakukan. Pancut, pancut dalam aku."
 
 
 translate malay e02s03_lodge_fed03ca2:
@@ -742,13 +742,13 @@ translate malay e02s03_lodge_fed03ca2:
 translate malay e02s03_lodge_765ec487:
 
 
-    mc "Fuck. I made a mess out of you."
+    mc "Sial. Aku dah buat kau dengan teruk."
 
 
 translate malay e02s03_lodge_261d6b33:
 
 
-    mh "You did."
+    mh "Kau ada."
 
 
 translate malay e02s03_cum_again_49ff1f53:
@@ -760,37 +760,37 @@ translate malay e02s03_cum_again_49ff1f53:
 translate malay e02s03_cum_again_f20133ce:
 
 
-    mc "Mmm. Sorry to surprise you..."
+    mc "Mmm. Maaf mengejutkan kau..."
 
 
 translate malay e02s03_cum_again_3e3c8b40:
 
 
-    mh "It's o-okay... but this is just... oh my god..."
+    mh "Tak a-a-apa... Tapi ini cuma..."
 
 
 translate malay e02s03_cum_again_4f259388:
 
 
-    mc "*Hungry licking*"
+    mc "*Lapar menjilat*"
 
 
 translate malay e02s03_cum_again_77f5b9a9:
 
 
-    mh "It feels {b}SO{/b} good. It’s blowing my mind."
+    mh "Rasanya {b}sangat{/b} bagus. Ia letupkan fikiran aku."
 
 
 translate malay e02s03_cum_again_016fb449:
 
 
-    mh "Your tongue is going so keep. You're getting so good at that!"
+    mh "Lidah kau pergi dalam. Kau semakin mahir!"
 
 
 translate malay e02s03_cum_again_d42f691a:
 
 
-    mh "Ahh. Keep going."
+    mh "Ahh. Teruskan."
 
 
 translate malay e02s03_cum_again_1ae4f383:
@@ -802,49 +802,50 @@ translate malay e02s03_cum_again_1ae4f383:
 translate malay e02s03_cum_again_81b46df7:
 
 
-    mh "Now what are you doing, wildman?"
+    mh "Sekarang kau nak buat apa, lelaki liar?"
 
 
 translate malay e02s03_cum_again_3e026c53:
 
 
-    mh "I... I must admit... that was one of the kinkiest things I have done."
+    mh "Aku... Aku mesti akui... Itu adalah salah satu perkara paling menarik aku pernah lakukan."
 
 
 translate malay e02s03_cum_again_f253d1b1:
 
 
-    mc "Mmm... give me time, I'm sure I'll top that."
+    mc "Mmm... Berikan saya aku, aku pasti aku akan mengatasinya."
 
 
 translate malay e02s03_cum_again_6b5c5b0f:
 
 
-    mh "I'm looking forward to it."
+    mh "Aku menantikannya."
 
 
 translate malay e02s03_end_eb1a1071:
 
 
-    mc "Sweet dreams, my dear."
+    mc "Mimpi indah, sayang."
 
 
 translate malay e02s03_end_152bc6cb:
 
 
-    mh "Mmm. After that, I'm sure I'll be dreaming of you, my love..."
+    mh "Mmm. Selepas itu, aku pasti aku akan mimpikan kau, sayang..."
 
 translate malay strings:
 
 
     old "In the lodge"
-    new "In the lodge"
+    new "Di pondok"
 
 
     old "I think I can make you cum again"
-    new "I think I can make you cum again"
+    new "Aku rasa aku boleh buat kau pancut lagi"
 
 
     old "That was amazing"
-    new "That was amazing"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Ianya menakjubkan"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

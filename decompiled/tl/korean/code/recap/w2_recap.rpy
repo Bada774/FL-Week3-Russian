@@ -1601,4 +1601,5 @@ translate korean strings:
 
     old "Recap of Week-2 Events"
     new "둘째 주 사건 요약"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

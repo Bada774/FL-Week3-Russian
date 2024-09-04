@@ -201,10 +201,7 @@ screen main_menu_extended():
         xalign 0.015
         yalign 0.985
         style_prefix "ext_mm_version"
-        if persistent.menu_hints is True:
-            text "v. [config.version][persistent.mp_info] + Walkthrough DLC" at image_opacity(0.7)
-        else:
-            text "v. [config.version][persistent.mp_info]" at image_opacity(0.7)
+        text "v. {var}{walkthrough}{dlc_1}".format(var=config.version, walkthrough=" + Walkthrough DLC" if persistent.menu_hints else "", dlc_1=" + DLC-1" if get_has_ending("04") else "") at image_opacity(0.7)
 
     imagebutton:
         idle "images/extended/ui/lovense/lovense_max2_button_idle.webp"
@@ -223,15 +220,32 @@ screen main_menu_extended():
         else:
             idle "vu_ad_patreon_anim"
         focus_mask "images/extended/ui/buttons/vu_ad_focus_mask.webp"
-        xcenter 0.07
+        xcenter 0.065
         ycenter 0.12
         if is_steam_edition is True:
             action OpenURL("steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/")
-            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Wishlist Taboo University in Steam")))
+            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Wishlist Taboo University on Steam")))
         else:
             action OpenURL("https://www.patreon.com/VinovellaGames")
             hovered (ToggleVariable("vu_ad_hover"), Notify(_("Try our new game Taboo University")))
         unhovered (ToggleVariable("vu_ad_hover"), Function(hide_hover_notify))
+
+    if is_steam_edition is True and get_has_ending("04"):
+        frame:
+            style_prefix "dlc_stamp_mm"
+            text "DLC-1"
+            at rotate(-15)
+
+    if is_steam_edition is True and not get_has_ending("04"):
+        imagebutton:
+            auto "dlc_1_button_mm_%s"
+            focus_mask "images/extended/ui/buttons/vu_ad_focus_mask.webp"
+            xcenter 0.065
+            ycenter 0.34
+            action OpenURL("steam://openurl/https://store.steampowered.com/app/2755430/Fetish_Locator_Week_Three__Bonus_Endings_DLC_One/")
+            hovered Notify(_("Get free DLC containing 6 endings from Steam"))
+            unhovered Function(hide_hover_notify)
+            at dlc_1_ad_anim
 
 style ext_mm_button:
     hover_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_cube_hover.mp3"
@@ -261,8 +275,26 @@ style ext_mm_side:
     hover_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_socials_hover.mp3"
     activate_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_socials_click.mp3"
 
+style dlc_stamp_mm_frame:
+    background Frame("images/utility/menu/dlc_stamp_frame.webp", 16, 16, 16, 16)
+    xpadding 22
+    top_padding 21
+    bottom_padding 17
+    xcenter 0.7
+    ycenter 0.197
+
+style dlc_stamp_mm_text:
+    color "#f8dbc3"
+    size 35
+
 transform rotate(rotation):
     rotate rotation
+
+transform dlc_1_ad_anim:
+    subpixel True
+    linear 1.0 zoom 0.95
+    linear 1.0 zoom 1.0
+    repeat
 
 transform shake_effect:
     subpixel True xanchor 0.5 yanchor 1.0 rotate -20 zoom 0.85
@@ -568,4 +600,5 @@ image mm_info_crush_effect:
     "images/extended/ui/effect/mm_info_crush_1.webp"
     pause 0.1
     "images/extended/ui/effect/mm_info_crush_2.webp"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

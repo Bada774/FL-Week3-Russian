@@ -953,4 +953,5 @@ translate chinese d16s08_719d7ead:
 
 
     arj "哈哈。那我们走吧。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

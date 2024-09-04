@@ -211,7 +211,6 @@ label replay_d20s06 hide:
     scene d20s06-46 mc_op_date_montage with dissolve
     pause
 
-
     $ Lovense.stop()
 
     scene d20s06-47 mc_op_date_look with dissolve
@@ -367,7 +366,7 @@ label replay_d20s06 hide:
     play voice3 oliver_no1 noloop volume 0.8
     op "No, no, I like it."
     menu:
-        "Kiss him"(hint="d20s06m01c01") if True:
+        "Kiss him"(hint="d20s06m01c01"):
             $ d20s06_kiss_op = True
 
             play voice3 oliver_relief1 noloop
@@ -392,7 +391,7 @@ label replay_d20s06 hide:
             scene d20s06-85 mc_op_date_dont with dissolve
             play voice2 shhh noloop
             mc "Shh. Don't say anything."
-        "Don't"(hint="d20s06m01c02") if True:
+        "Don't"(hint="d20s06m01c02"):
 
             scene d20s06-85 mc_op_date_dont with dissolve
             play voice2 mc_arrogant_hm1 noloop
@@ -470,7 +469,7 @@ label replay_d20s06 hide:
     play voice2 d9s2_yeah noloop volume 1.8
     mc "*Chuckles* I've had practice with your Miss Harris."
     menu:
-        "Eat Oliver's cum"(hint="d20s06m02c01") if True:
+        "Eat Oliver's cum"(hint="d20s06m02c01"):
             $ d20s06_eat_cum = True
 
             play sound mc_sex_sucking_slow1 noloop
@@ -484,7 +483,7 @@ label replay_d20s06 hide:
             play voice3 oliver_heh1 noloop
             scene d20s06-100 mc_op_date_blush with dissolve
             pause
-        "Don't"(hint="d20s06m02c02") if True:
+        "Don't"(hint="d20s06m02c02"):
 
             pass
 
@@ -498,7 +497,6 @@ label replay_d20s06 hide:
     play voice2 mc_happy_yay2 noloop
     mc "Of course not."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -506,4 +504,5 @@ label replay_d20s06 hide:
 
     stop music fadeout 3.0
     jump d20s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

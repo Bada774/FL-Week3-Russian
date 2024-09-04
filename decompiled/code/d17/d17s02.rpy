@@ -237,7 +237,6 @@ label replay_d17s02:
         play voice3 aaleyah_closed_moan6 noloop
         pause
 
-
         $ Lovense.stop()
 
         play sound sfx_cloth_rustling3
@@ -282,7 +281,6 @@ label replay_d17s02:
         play voice2 mc_thinking_mmm1 noloop
         pause
 
-
         $ Lovense.stop()
 
         scene d17s02-21-02 mc-vw-sit-lap-talk-c2 with dissolve
@@ -321,7 +319,7 @@ label d17s02_menu:
             play sound sfx_cloth_rustling3
             $ renpy.music.set_volume(1.0, 6.0, "music")
             jump d17s02_vw_footjob
-        "Make her worship your cock instead"(hint="d17s02m01c02") if True:
+        "Make her worship your cock instead"(hint="d17s02m01c02"):
 
 
             scene d17s02-21-02 mc-vw-sit-lap-talk-c2 with dissolve
@@ -410,7 +408,7 @@ label d17s02_vw_footjob:
             mc "Good, get to it."
 
             jump d17s02_vw_cockworship
-        "Fuck her"(hint="d17s02m02c02") if True:
+        "Fuck her"(hint="d17s02m02c02"):
 
 
             jump d17s02_vw_fucking
@@ -481,7 +479,7 @@ label d17s02_vw_cockworship:
             vw "Mm-hm. Yes, Sir."
 
             jump d17s02_vw_footjob
-        "Fuck her"(hint="d17s02m03c02") if True:
+        "Fuck her"(hint="d17s02m03c02"):
 
 
             jump d17s02_vw_fucking
@@ -635,7 +633,6 @@ label d17s02_vw_fucking:
     play voice2 mc_thinking_hmm1 noloop
     mc "That's nice I guess."
 
-
     $ Lovense.stop()
 
     scene d17s02-100 mc-walk-in-vanessa-waiting-c2 with fade
@@ -665,4 +662,5 @@ label d17s02_vw_fucking:
 
     stop music fadeout 3.5
     jump d17s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

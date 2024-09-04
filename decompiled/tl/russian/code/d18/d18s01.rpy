@@ -268,7 +268,7 @@ translate russian d18s01_cuddle_e538d841:
 translate russian d18s01_cuddle_516d03e6:
 
     # mct "Punch and pie? What does she think this is, South Park?"
-    mct "Пунш и пирог? Она что думает, что мы в Южном Парке?\n\n{size=-10}{i}(отсылка к одноимённому мультсериалу){/i}{/size}"
+    mct "Пунш и пирог? Она что думает, что мы в Южном Парке?\n\n{size=-10}{i}Отсылка к одноимённому мультсериалу.{/i}{/size}"
 
 # game/code/d18/d18s01.rpy:203
 translate russian d18s01_cuddle_be966c83:
@@ -280,7 +280,7 @@ translate russian d18s01_cuddle_be966c83:
 translate russian d18s01_cuddle_56efa737:
 
     # mct "\"Hey sexy mama, wanna kill all humans\""
-    mct "\"Эй, сексуальная мамаша, хочешь убить всех людей?\"\n\n{size=-10}{i}(отсылка к мультсериалу \"Футурама\"){/i}{/size}"
+    mct "\"Эй, сексуальная мамаша, хочешь убить всех людей?\"\n\n{size=-10}{i}Отсылка к мультсериалу \"Футурама\".{/i}{/size}"
 
 # game/code/d18/d18s01.rpy:207
 translate russian d18s01_cuddle_ab85f5de:

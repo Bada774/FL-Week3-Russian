@@ -125,7 +125,7 @@ label replay_d15s07 hide:
     mes "Lydia already had a couple glasses of water, so it's just a waiting game now."
     mes "That said... {w}would you like something to drink, [mcname]?"
     menu:
-        "I am ready to pee"(hint="d15s07m01c01") if True:
+        "I am ready to pee"(hint="d15s07m01c01"):
             $ d15s07_mc_pee = True
             $ d15s07_points = 12
 
@@ -135,7 +135,7 @@ label replay_d15s07 hide:
             scene d15s07-15-02 lc-min-mc-talking-min-pov-_cage with dissolve
             play voice3 min_happy_woohoo noloop
             mes "Alright! Let's get naked and hop into the shower."
-        "I want to drink Min's piss first"(hint="d15s07m01c02") if True:
+        "I want to drink Min's piss first"(hint="d15s07m01c02"):
 
             $ d15s07_mc_peed_on = True
             $ d15s07_mc_pee = True
@@ -147,7 +147,7 @@ label replay_d15s07 hide:
             scene d15s07-15-02 lc-min-mc-talking-min-pov-_cage with dissolve
             play voice3 min_thinking_oh noloop
             mes "Oh! Sure, let's get nude and hop into the shower."
-        "I'm just here for moral support"(hint="d15s07m01c03") if True:
+        "I'm just here for moral support"(hint="d15s07m01c03"):
 
             $ d15s07_mc_pee = False
             $ d15s07_mc_peed_on = False
@@ -235,14 +235,11 @@ label d15s07_mes_pee_on_mc:
     play voice4 lydia_lydyes noloop
     lc "I know, but..."
     lc "Look. I'm gonna want to kiss him later. I'm gonna want him to kiss me."
-
     scene d15s07-26-03 lc-min-mc-talk-wait-not-ready-face-min-camera
     if cage_ntr is True:
         show d15s07-26-03-over-lc-min-mc-talk-wait-not-ready-face-min-camera-ntr
     with dissolve
     lc "I know this is something that is fun for you and I promise I'll watch it sometime, but right now-"
-
-
     scene d15s07-27-02 lc-min-mc-talk-mes-not-pee-on-mc-_cage-camera
     if cage_ntr is True:
         show d15s07-27-02-over-lc-min-mc-talk-mes-not-pee-on-mc-_cage-camera-ntr
@@ -297,7 +294,6 @@ label d15s07_mes_pee_on_mc:
     mes "Are you good with this? Making out with me in front of your girlfriend?"
     play voice2 d9s2_mcyes noloop
     mc "I want this."
-
 
     $ Lovense.stop()
 
@@ -436,8 +432,6 @@ label d15s07_lc_pee_on_mes:
     mc "Honey, come here."
 
 
-
-
     scene d15s07-43 mc-lc-talking-close-up with dissolve
     play voice2 mc_thinking_hmm2 noloop
     mc "This isn't going to be like last time, because we're going to try something different."
@@ -492,27 +486,6 @@ label d15s07_lc_pee_on_mes:
     scene d15s07-49 mc-lc-min-talking-look-down-hand-shoulder with dissolve
     play voice2 mc_yes_yeah1 noloop
     mc "Exactly. We can figure out later whether it meant something or not - if it even happens at all."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     scene d15s07-45 mc-lc-talking-close-up with dissolve
@@ -734,7 +707,6 @@ label d15s07_end:
     $ renpy.end_replay()
     $ unlock_gallery_slot("scene", "d15s07")
 
-
     $ Lovense.stop()
 
     scene d15s07-60-03 mc-lc-rest-eyes-open with dissolve
@@ -764,7 +736,7 @@ label d15s07_end:
     play voice3 min_thinking_mhh noloop
     mes "We should try something like this again when you get that cage off."
     menu:
-        "We should definitely do that"(hint="d15s07m02c01") if True:
+        "We should definitely do that"(hint="d15s07m02c01"):
             $ d15s07_more_watersports = True
 
             scene d15s07-63-03 mc-lc-min-carry-talk with dissolve
@@ -776,7 +748,7 @@ label d15s07_end:
             scene d15s07-63 mc-lc-carry-lydia-view with dissolve
             play voice2 mc_arrogant_huh1 noloop
             mc "Huh. Lydia, what do you think about that?"
-        "I'm getting kinda bored of the watersports"(hint="d15s07m02c02") if True:
+        "I'm getting kinda bored of the watersports"(hint="d15s07m02c02"):
 
             $ fl_watersports = False
 
@@ -800,4 +772,5 @@ label d15s07_end:
     stop sound2 fadeout 3.0
     stop music fadeout 3.5
     jump d15s08
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

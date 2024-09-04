@@ -22,7 +22,7 @@ translate russian d18s08_4114c0e5:
 translate russian d18s08_0db9ac34:
 
     # "{color=#c46c93}???{/color}" "I'm {i}appalled{/i}, young lady."
-    "{color=#c46c93}???{/color}" "Я {я}потрясена{/i}, юная леди."
+    "{color=#c46c93}???{/color}" "Я {i}потрясена{/i}, юная леди."
 
 # game/code/d18/d18s08.rpy:22
 translate russian d18s08_f6256a06:

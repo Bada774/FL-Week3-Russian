@@ -1195,4 +1195,5 @@ translate chinese strings:
 
     old "I'm getting kinda bored of the watersports"
     new "我对水上运动有点厌倦了"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

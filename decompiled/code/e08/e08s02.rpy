@@ -297,7 +297,7 @@ label replay_e08s02 hide:
             arj "It's not your fault."
 
             jump e08s02_scat
-        "I'd rather not"(hint="e08s02m01c02") if True:
+        "I'd rather not"(hint="e08s02m01c02"):
 
             scene e08s02-29 deny-mc-admits-not-into-scat_c1 with dissolve
             play voice2 d2s9_confused noloop volume 1.7
@@ -758,7 +758,6 @@ label e08s02_sex:
     play voice2 d1s5_orgasm noloop
     play voice3 dahlia_sex_closedmoan1 noloop
 
-
     $ Lovense.stop()
 
     $ Lovense.vibrate(1)
@@ -1167,7 +1166,6 @@ label e08s02_sex:
         scene e08s02-asss-3 with dissolve
         pause
 
-
         $ Lovense.stop()
 
         play voice3 amrose_angry_breath1 noloop
@@ -1180,7 +1178,6 @@ label e08s02_sex:
         scene e08s02-141 mc-cums-inside-arj-ass_c1 with hpunch
         pause
 
-
         $ Lovense.stop()
 
         scene e08s02-144 camera-zoom-out-end-scene_c1 with fade
@@ -1191,4 +1188,5 @@ label e08s02_sex:
     stop music fadeout 3.5
     stop sound2 fadeout 3.0
     jump e08s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

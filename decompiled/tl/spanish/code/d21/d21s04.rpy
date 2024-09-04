@@ -837,4 +837,5 @@ translate spanish strings:
 
     old "I need to think about this"
     new "Necesito pensar en esto"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

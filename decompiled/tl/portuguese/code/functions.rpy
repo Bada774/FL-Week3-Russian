@@ -15,12 +15,12 @@ translate portuguese strings:
     new "Você liberou conteúdo bônus"
 
 
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "O jogo repetirá a cena\nde acordo com uma jogada padrão"
+    old "The game will replay the scene according to a default playthrough"
+    new "O jogo repetirá a cena de acordo com uma jogada padrão"
 
 
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "O jogo tentará repetir a cena\nde acordo com sua jogada atual"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "O jogo tentará repetir a cena de acordo com sua jogada atual"
 
 
     old "You can only select two out of Min, Lyssa and Maria"
@@ -36,5 +36,6 @@ translate portuguese strings:
 
 
     old "You have unlocked Ending #{}"
-    new "You have unlocked Ending #{}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Você desbloqueou o Final #{}"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

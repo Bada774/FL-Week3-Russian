@@ -198,7 +198,6 @@ label d15s01:
     scene d15s01-02-04 mc-arj-morning-04_c2 with dissolve
     play voice3 amrose_thinking_emm noloop
     arj "Lydia's downstairs making breakfast. I'm heading down too. Get your ass out of bed and join us."
-
     scene d15s01-04 mc-morning_c1 with dissolve
     play voice2 mc_yes_sure1 noloop
     mc "I'll be right there."
@@ -206,13 +205,11 @@ label d15s01:
 
     scene d15s01-10 arj-and-the-box_c1 with fade
     pause
-
     play voice2 d2s9_confused noloop
     mc "Has anyone seen my clothes?"
     scene d15s01-11 arj-talk_c1 with dissolve
     play voice3 amrose_old_haha2 noloop
     arj "You'll get them back after breakfast."
-
     if date_sy is True:
         scene d15s01-12 arj-talk-2_c1 with dissolve
         play voice2 d1s5_mchappy noloop
@@ -238,7 +235,6 @@ label d15s01:
     scene d15s01-a0 with dissolve
     play voice4 ["<silence 3.1>", lydia_lydiahey] noloop
     pause
-
     play voice2 d3s7_mcemm noloop
     scene d15s01-15 arj-lc-enters_c4 with dissolve
     pause
@@ -263,12 +259,9 @@ label d15s01:
     scene d15s01-17 arj-lc-mc-the-box_c1 with dissolve
     play voice4 lydia_hmmmm noloop
     lc "There's a package on the table for you."
-
     scene d15s01-17 arj-lc-mc-the-box_c2 with dissolve
     play voice2 d1s2_hmm noloop
     mc "What is it?"
-
-
     lc "Just a box. It was delivered here this morning. Addressed to you."
     play voice3 amrose_yes_ugu noloop
     scene d15s01-17 arj-lc-mc-the-box_c2 with dissolve
@@ -278,18 +271,12 @@ label d15s01:
     mc "Weird. {w}Well, I guess I better open it."
     scene d15s01-17 arj-lc-mc-the-box_c4 with dissolve
     pause
-
-
-
-
-
     scene d15s01-18 arj-lc-mc-the-box-2_c1 with dissolve
     play voice4 lydia_thinking noloop
     lc "What's inside?"
     scene d15s01-18 arj-lc-mc-the-box-2_c2 with dissolve
     play voice2 mc_thinking_hmm5 noloop
     mc "There's a note {w}and two... um{w}, devices."
-
     scene d15s01-18 arj-lc-mc-the-box-2_c3 with dissolve
     play voice3 amrose_old_huh noloop
     arj "What kind of devices?"
@@ -314,29 +301,19 @@ label d15s01_menu1:
     scene d15s01-21 arj-lc-mc-the-box-5-read-note_c1 with dissolve
     mc "Hmm..."
     menu:
-        "Read the Note"(hint="d15s01m01c01") if True:
+        "Read the Note"(hint="d15s01m01c01"):
             $ d15s01_note = True
             jump d15s01_readnote
-        "[mcname]'s Thoughts on Penis Cage #1"(hint="d15s01m01c02") if True:
+        "[mcname]'s Thoughts on Penis Cage #1"(hint="d15s01m01c02"):
             $ d15s01_thoughts1 = True
             jump d15s01_thoughts_LC
-        "[mcname]'s Thoughts on Penis Cage #2"(hint="d15s01m01c03") if True:
+        "[mcname]'s Thoughts on Penis Cage #2"(hint="d15s01m01c03"):
             $ d15s01_thoughts2 = True
             jump d15s01_thoughts_NTR
-        "Decide Which Cage to Wear"(hint="d15s01m01c04") if True:
+        "Decide Which Cage to Wear"(hint="d15s01m01c04"):
             jump d15s01_cagedecision
 
 label d15s01_readnote:
-
-
-
-
-
-
-
-
-
-
 
     scene d15s01-21 arj-lc-mc-the-box-5-read-note_c2 with dissolve
     "The box. You opened it. The timer has started."
@@ -353,9 +330,6 @@ label d15s01_readnote:
     jump d15s01_menu1
 
 label d15s01_thoughts_LC:
-
-
-
 
     scene d15s01-21 arj-lc-mc-the-box-5-read-note_c4 with dissolve
     mct "Love conquers the cage. Strange. I wonder what that means."
@@ -377,9 +351,6 @@ label d15s01_thoughts_LC:
 
 
 label d15s01_thoughts_NTR:
-
-
-
 
     scene d15s01-21 arj-lc-mc-the-box-5-read-note_c3 with dissolve
     mct "Needlessly Tight Restriction. The Needlessly Tight Restriction."
@@ -423,10 +394,8 @@ label d15s01_cagedecision:
     play voice4 lydia_morningoh noloop
     lc "Oh, okay. {w}Rules are important."
 
-
     play voice2 mc_disappointed_ehh1 noloop
     mc "Look, I'm just saying this is too much. This is going too far. I'm not doing it."
-
     scene d15s01-30 arj-lc-mc-the-box-7-decided_c2 with dissolve
     play voice3 amrose_disappointed_ehh2 noloop
     arj "I get that. I really really do, but this isn't just about you, ya'know?"
@@ -436,8 +405,6 @@ label d15s01_cagedecision:
         mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
     elif True:
         mc "Shit, I know. I don't want to hurt you or anyone else, but-"
-
-
     scene d15s01-32 arj-lc-mc-the-box-7-decided-3_c2 with dissolve
     play voice4 daisy_ugu noloop
     lc "Then don't."
@@ -527,7 +494,6 @@ label d15s01_cagedecision:
     play voice3 amrose_yes_yeah2 noloop
     arj "Oh, sure."
 
-
     scene d15s01-42 arj-lc-mc-cages-5-phone-2_c2 with fade
     arj "There you go!"
     scene d15s01-42 arj-lc-mc-cages-5-phone-2_c1 with dissolve
@@ -536,20 +502,17 @@ label d15s01_cagedecision:
     scene d15s01-43 arj-lc-mc-cages-5-phone-3_c1 with dissolve
     play voice2 mc_angry_huh2 noloop
     mc "Alright. I just gotta login to the app and select one of these \"bad boys\"..."
-
     $ renpy.music.set_volume(1.0, 0.0, "sound")
     play sound sfx_score_hud1
     call show_fl_points_overlay from _call_show_fl_points_overlay_1
     mct "Oh look, the Fetish of the Day is Cumshot. {w}Annnd my points have been zero'd out."
     mct "Well, I doubt I would be scoring any points for cumshots even if I was still earning points... at least not once I lock my dick in a cage."
-
     scene d15s01-43 arj-lc-mc-cages-5-phone-3_c2 with dissolve
     play voice4 lydia_lydwow noloop
     lc "Why didn't someone tell me about these things before? What do these letters mean?"
     play voice2 mc_arrogant_hm3 noloop
     mc "It's a riddle or something.{w}.. don't worry about it."
     mc "Fine. I choose..."
-
 
     scene d15s01-43 arj-lc-mc-cages-5-phone-3_c3
 
@@ -605,7 +568,6 @@ label d15s01_cage_ntr:
 
 label replay_d15s01:
 label d15s01_caged:
-
 
     if _in_replay:
         play music bass_sexy3_piano
@@ -668,7 +630,6 @@ label d15s01_caged:
     play voice3 amrose_old_chmchm noloop
     arj "It's time to cage the elephant."
 
-
     $ Lovense.stop()
 
     if date_arj_romance is False and cage_ntr is True:
@@ -704,7 +665,6 @@ label d15s01_arj_bj_cum_mouth:
     play voice3 daisy_ugu noloop
     scene d15s01-57 arj-bj--cum-3_c2 with dissolve
     pause
-
     scene d15s01-57 arj-bj--cum-3_c3 with dissolve
     if date_arj_romance is False and cage_ntr is True:
         play voice4 daisy_aah noloop
@@ -737,7 +697,6 @@ label d15s01_arj_bj:
     scene d15s01-51 arj-bj--start_c2 with dissolve
     play voice4 lydia_moan1 noloop
     lc "Thanks. I'm not sure I could..."
-
     scene d15s01-51 arj-bj--start_c4 with dissolve
     mct "This is the good life."
     $ renpy.music.set_volume(0.8, 3.0, "music")
@@ -787,12 +746,9 @@ label d15s01_arj_bj:
     scene d15s01-54 arj-bj--talking-with-lc-2_c4
     play voice3 amrose_yes_happy2 noloop
     arj "Ough yes!"
-
     call d15s01_arj_bj_cum_mouth from _call_d15s01_arj_bj_cum_mouth
     play voice2 mc_scared_oh3 noloop
     mc "You are so special."
-
-
 
     play voice4 lydia_haha noloop
     lc "I need to see that again."
@@ -835,8 +791,6 @@ label d15s01_arj_bj:
     elif True:
         lc "Well, yeah. I mean, in your... {w}pussy."
 
-
-
     scene d15s01-69 arj-bj--hj-2-hands-ask_c1 with dissolve
     play voice3 amrose_no_uhuh noloop
     arj "Not just that. [mcname], where else do you like to cum?"
@@ -875,7 +829,6 @@ label d15s01_arj_bj:
     scene d15s01-70 arj-bj--see-he-is-about-to-cum_c2 with dissolve
     play voice4 lydia_hmmmm noloop
     lc "He looks-"
-
     play voice2 mc_pain_argh1 noloop
     $ Lovense.vibrate(17)
     scene d15s01-71-02 arj-bj--cum-shot_c1 with vpunch
@@ -910,9 +863,6 @@ label d15s01_arj_bj:
 
 label d15s01_lc_bj:
 
-
-
-
     scene d15s01-73 arj-bj--post-facial-talk_c2 with dissolve
     play voice3 amrose_thinking_hmm2 noloop
     arj "He's still got a semi. I'm guessing one more load will do it."
@@ -934,8 +884,6 @@ label d15s01_lc_bj:
     $ Lovense.vibrate(5)
     scene d15s01-76 lc-bj--pre-lc-bj-2_c1 with dissolve
     pause
-
-
     play voice4 daisy_dlick noloop
     $ Lovense.vibrate(7)
     scene d15s01-77 lc-bj--pre-lc-bj-3_c1 with dissolve
@@ -1017,7 +965,6 @@ label d15s01_lc_bj:
     arj "Okay, it looks like he's about to-"
     pause
 
-
     play voice4 samiya_mfff3 noloop
     play voice2 mc_pain_ffff noloop
     $ Lovense.stop()
@@ -1057,7 +1004,6 @@ label d15s01_lc_bj:
     play voice2 mc_pain_ou1 noloop
     mc "Fucking hell that's the hottest thing I've ever seen."
     $ renpy.end_replay()
-
     scene d15s01-85 lc-bj--after-cum_c1 with dissolve
     play voice4 lydia_laugh noloop
     lc "Just one thing left to do."
@@ -1068,11 +1014,7 @@ label d15s01_lc_bj:
     jump d15s01_end
 
 
-
-
 label d15s01_face_fucking:
-
-
 
     scene d15s01-51 arj-bj--start_c1 with dissolve
     $ Lovense.vibrate(4)
@@ -1083,7 +1025,6 @@ label d15s01_face_fucking:
     lc "Oh, no. Please, why don't you start."
     play voice3 amrose_arrogant_huh3 noloop
     arj "Um, okay."
-
     $ Lovense.pattern("5;7", 1700)
     $ renpy.music.set_volume(0.8, 3.0, "music")
     play voice2 d7s4_mcbreathing fadein 1.5
@@ -1096,7 +1037,6 @@ label d15s01_face_fucking:
     queue voice2 d7s4_mcbreathing
     mc "What do you mean? She's one of my closest friends."
     scene d15s01-a6-s with dissolve
-
     play voice4 lydia_aga noloop
     lc "She's your friend, sure, but you don't fuck all of your friends. {w}Then again, maybe you do."
     play voice2 d2s12_emmm noloop
@@ -1108,7 +1048,6 @@ label d15s01_face_fucking:
     play voice3 amrose_yes_confident2 noloop
     scene d15s01-a3 with dissolve
     arj "Um, yes. I was just getting to that."
-
     play voice3 stacy_sucks1
     stop sound fadeout 0.6
     scene d15s01-a5 with dissolve
@@ -1161,8 +1100,6 @@ label d15s01_face_fucking:
     mc "What?"
     play voice4 lydia_aga noloop
     lc "Do it. Shoot your load down her throat."
-
-
     call d15s01_arj_bj_cum_mouth from _call_d15s01_arj_bj_cum_mouth_1
     play voice4 dahlia_happy_hmm2 noloop
     lc "That's it."
@@ -1171,14 +1108,6 @@ label d15s01_face_fucking:
     lc "You like the way that feels?"
     scene d15s01-86 ff--bj-talk-1_c3 with dissolve
     lc "You both do. I can tell."
-
-
-
-
-
-
-
-
     scene d15s01-86 ff--bj-talk-1_c2 with dissolve
     play voice4 dahlia_thinking_hmm4 noloop
     lc "Good. Now, brace yourself."
@@ -1187,7 +1116,6 @@ label d15s01_face_fucking:
     scene d15s01-87 ff--bj-talk-2-hold-arj_c3 with dissolve
     play voice4 lydia_lydyes noloop
     lc "Start like this. {w}I want you to fuck her face."
-
 
     play voice3 aaleyah_sucking_deep
     play voice2 d7s4_mcbreathing
@@ -1218,11 +1146,6 @@ label d15s01_face_fucking:
     play voice2 d9s5_auch2 noloop
     queue voice2 d7s4_mcbreathing
     mc "OOoohhhFUCK!!! Oh FUCK!!! FUCK YEAH!!! FUCK!!!"
-
-
-
-
-
 
     play voice3 min_surprised_ehh1 noloop
     $ Lovense.stop()
@@ -1307,7 +1230,6 @@ label d15s01_face_fucking:
     mc "Ready."
     play voice4 lydia_moan1 noloop
     lc "Then let's work together fucking her hole with your majestic, long, hard cock."
-
     play voice3 aaleyah_sucking_deep
     play voice2 d7s4_mcbreathing
     $ Lovense.pattern("7;10", 1700)
@@ -1330,7 +1252,6 @@ label d15s01_face_fucking:
     $ Lovense.stop()
     $ Lovense.vibrate(10)
     scene d15s01-99-01 ff--bj-2-cum-in-her-eye-1_c1 with dissolve
-
     play voice2 d9s5_auch2 noloop
     play voice3 amrose_surprised_oh1 noloop
     mc "FUCK YESSSSSS!!!"
@@ -1359,7 +1280,6 @@ label d15s01_face_fucking:
     play voice3 amrose_pain_sobs1 noloop
     arj "Thank you, Master. {w}Thank you, Mistress."
     $ renpy.end_replay()
-
     scene d15s01-99-05 ff--bj-2-cum-in-her-eye-5_c1 with dissolve
     play voice4 lydia_oops noloop
     lc "Just one thing left to do."
@@ -1411,21 +1331,16 @@ label d15s01_end:
     play sound ["<silence 0.2>", sfx_cockcage_lock_on]
     show d15s01-lock-blinking
     pause
-
     scene d15s01-99-14 cage-arj-puts-cage-on-5-fuck_c1
     play voice2 mc_disappointed_ah1 noloop
     if cage_ntr is True:
         show d15s01-99-14-over cage-ntr
     with dissolve
     pause
-
-
-
     scene d15s01-99-25 shower-1_c1
     if cage_ntr is False:
         show d15s01-99-25-over shower-1 cage-lc
     with fade
-
 
     $ Lovense.stop()
 
@@ -1441,8 +1356,6 @@ label d15s01_end:
     mct "Maybe it is just for a day or two. Just to see what I get up to without my dick."
     mct "Hopefully it is just for a day or two."
     mct "If I don't get this thing off by tomorrow night I'm going to be seriously pissed off."
-
-
     scene d15s01-99-26 shower-2-arj-enters_c1 with dissolve
     pause
     scene d15s01-99-26 shower-2-arj-enters_c2 with dissolve
@@ -1458,8 +1371,6 @@ label d15s01_end:
     mc "Oh, good. Thanks."
     scene d15s01-99-27 shower-3-put-them-down_c2 with dissolve
     pause
-
-
     scene d15s01-99-28 shower-4-talk-1_c1 with dissolve
     play voice3 amrose_old_upset noloop
     arj "You seemed pretty lost in thought. Anything you want to talk about?"
@@ -1509,7 +1420,6 @@ label d15s01_end:
     scene d15s01-99-30 shower-4-talk-3_c2 with dissolve
     arj "Oh, [mcname]."
     arj "You're gonna make me blush."
-
     scene d15s01-99-29 shower-4-talk-2_c2 with dissolve
     play voice3 daisy_oof noloop
     arj "I.."
@@ -1539,7 +1449,6 @@ label d15s01_end:
     with fade
     play voice2 d1s5b_ehhh noloop
     mct "*sigh* That went well. I hope."
-
     scene d15s01-99-35 dressing-2_c1 with dissolve
     call buzz from _call_buzz_1
     pause
@@ -1581,4 +1490,5 @@ label d15s01_end:
 
     stop music fadeout 3.5
     jump d15s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

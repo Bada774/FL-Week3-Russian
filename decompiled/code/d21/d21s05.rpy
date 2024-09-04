@@ -264,7 +264,6 @@ label d21s05_party:
     play voice4 min_hey_greeting noloop
     mk "Don't worry, I'm 90%% certain who it is."
 
-
     $ Lovense.stop()
 
     play sound sfx_jeans_on1 volume 1.6
@@ -612,10 +611,10 @@ label d21s05_party:
     mct "Do I want to assfuck Terrell and make Aaleyah clean me off afterwards?"
     mct "Or do I just want to fuck Aaleyah's mouth while Terrell jerks off crying in the corner?"
     menu:
-        "Fuck Terrell in the Ass"(hint="d21s05m01c01") if True:
+        "Fuck Terrell in the Ass"(hint="d21s05m01c01"):
             $ d21s05_fuck_tr = True
             jump d21s05_fuck_tr
-        "Just facefuck Aaleyah instead"(hint="d21s05m01c01") if True:
+        "Just facefuck Aaleyah instead"(hint="d21s05m01c01"):
 
             jump d21s05_fuck_ah
 
@@ -831,7 +830,6 @@ label d21s05_end:
     stop voice6 fadeout 1.0
     $ renpy.music.set_volume(0.15, 3.0, "music" )
 
-
     $ Lovense.stop()
 
     scene d21s05-90 gang-lies-bed_c1 with Fade(0.5, 0.3, 0.5)
@@ -881,4 +879,5 @@ label d21s05_end:
 
     stop music fadeout 3.5
     jump d21s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

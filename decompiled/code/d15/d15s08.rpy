@@ -371,7 +371,6 @@ label d15s08:
         scene d15s08-41-01 mc-hr-sy-arj-talkingextra with dissolve
         pause
 
-
         $ Lovense.stop()
 
         scene d15s08-42 mc-hr-sy-arj-talking with dissolve
@@ -447,10 +446,6 @@ label d15s08:
         arj "That's pretty shocking. Stacy isn't just another girl. You two are really important to each other."
 
 
-
-
-
-
         scene d15s08-52 mc-hr-sy-arj-talking with dissolve
         play voice3 amrose_thinking_hmm1 noloop
         arj "But, I guess the most surprising part was that I wasn't jealous about it."
@@ -498,14 +493,6 @@ label d15s08:
         sy "He is no fun."
 
 
-
-
-
-
-
-
-
-
         play sound sfx_skirt_off2
         scene d15s08-62 mc-hr-sy-arj-talking with dissolve
         play voice2 mc_arrogant_hm3 noloop
@@ -530,7 +517,6 @@ label d15s08:
         mc "..."
         play voice2 mc_yes_okay2 noloop
         mc "Okay. That does sound good."
-
 
         $ Lovense.stop()
 
@@ -581,8 +567,6 @@ label d15s08:
         arj "You mean as a trigger for the tracking device?"
         $ unlock_gallery_slot("cg", "d15s08")
 
-
-
         play voice2 mc_disappointed_snoring1 fadein 2.0
         scene d15s08-71 mc-hr-sy-arj-talking with dissolve
         mct "...zzZZZzzzz..."
@@ -590,4 +574,5 @@ label d15s08:
         stop voice2 fadeout 3.0
 
     jump d16s01
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

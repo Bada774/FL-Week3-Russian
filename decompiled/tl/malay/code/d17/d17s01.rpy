@@ -1738,4 +1738,5 @@ translate malay strings:
 
     old "Wednesday\nDay-17"
     new "Rabu\nHari 17"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

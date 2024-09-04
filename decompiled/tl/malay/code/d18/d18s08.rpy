@@ -269,4 +269,5 @@ translate malay d18s08_a2f0bfe0:
 
 
     hr "Jom cari profesor baru itu. Kita tak ada masa untuk membazir."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

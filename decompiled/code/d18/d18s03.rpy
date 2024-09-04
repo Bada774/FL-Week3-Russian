@@ -215,7 +215,7 @@ label d18s03:
     play voice2 mc_no_no2 noloop
     mc "No, I was just distracted by another thought."
     menu:
-        "Worth More Than Gold"(hint="d18s03m01c01") if True:
+        "Worth More Than Gold"(hint="d18s03m01c01"):
             mc "Talent is silver, Silence is golden, but Tips are more precious than any metal."
             scene d18s03-46 mc_mes_studying-with-min_i with dissolve
             play voice3 min_surprised_wow noloop
@@ -227,7 +227,7 @@ label d18s03:
             play voice3 min_no_happy noloop
             mes "No, that's about as wrong as you could possibly get."
             scene d18s03-49 mc_mes_studying-with-min_i with dissolve
-        "Worse Than Worthless"(hint="d18s03m01c02") if True:
+        "Worse Than Worthless"(hint="d18s03m01c02"):
 
             $ d18s03_q1 = True
             $ d18s03_mc_correct += 1
@@ -242,7 +242,7 @@ label d18s03:
             scene d18s03-47 mc_mes_studying-with-min_i with dissolve
             play voice2 mc_yes_yeah1 noloop
             mc "Yeah, there was pretty much an entire chapter about how bad stock market tips are."
-        "Trust, but Verify"(hint="d18s03m01c03") if True:
+        "Trust, but Verify"(hint="d18s03m01c03"):
 
             mc "To quote the Russian proverb, \"Trust, but Verify.\""
             scene d18s03-46 mc_mes_studying-with-min_i with dissolve
@@ -281,7 +281,7 @@ label d18s03:
     scene d18s03-55 mc_mes_studying-wit-min_i with dissolve
     mes "If n and p are both odd numbers, which of the following numbers must be an even number?"
     menu:
-        "n+p"(hint="d18s03m02c01") if True:
+        "n+p"(hint="d18s03m02c01"):
             $ d18s03_q2 = True
             $ d18s03_mc_correct += 1
 
@@ -291,7 +291,7 @@ label d18s03:
             scene d18s03-89 mc_mes_studying-wit-min_i with dissolve
             play voice3 min_yes_yeah2 noloop
             mes "True."
-        "np"(hint="d18s03m02c02") if True:
+        "np"(hint="d18s03m02c02"):
 
             scene d18s03-59 mc_mes_studying-wit-min_i with dissolve
             play voice2 mc_happy_a1 noloop
@@ -299,7 +299,7 @@ label d18s03:
             scene d18s03-62 mc_mes_studying-wit-min_i with dissolve
             play voice3 min_no_nope noloop
             mes "Nope. For example: Three times Five is Fifteen."
-        "np+2"(hint="d18s03m02c03") if True:
+        "np+2"(hint="d18s03m02c03"):
 
             scene d18s03-59 mc_mes_studying-wit-min_i with dissolve
             play voice2 mc_happy_a1 noloop
@@ -307,7 +307,7 @@ label d18s03:
             scene d18s03-62 mc_mes_studying-wit-min_i with dissolve
             play voice3 min_no_nope noloop
             mes "Nope. Not even close."
-        "n+p+1"(hint="d18s03m02c04") if True:
+        "n+p+1"(hint="d18s03m02c04"):
 
             scene d18s03-59 mc_mes_studying-wit-min_i with dissolve
             play voice2 mc_happy_a1 noloop
@@ -337,7 +337,7 @@ label d18s03:
     play voice3 min_thinking_mhh noloop
     mes "My turn. What does the acronym CTBT stand for?"
     menu:
-        "Cognitive Therapy and Behavioral Therapy"(hint="d18s03m03c01") if True:
+        "Cognitive Therapy and Behavioral Therapy"(hint="d18s03m03c01"):
             scene d18s03-68 mc_mes_studying-wit-min_i with dissolve
             play voice2 mc_arrogant_heh3 noloop
             mc "Cognitive Therapy and Behavioral Therapy?"
@@ -347,7 +347,7 @@ label d18s03:
             scene d18s03-70 mc_mes_studying-wit-min_i with dissolve
             play voice2 mc_disappointed_ehh3 noloop
             mc "Oh, yeah."
-        "Cock, Taint, and Ball Torture"(hint="d18s03m03c02") if True:
+        "Cock, Taint, and Ball Torture"(hint="d18s03m03c02"):
 
             $ d18s03_q3_cbt = True
 
@@ -369,7 +369,7 @@ label d18s03:
                 mc "No thanks. I'm not in the mood right now."
             elif True:
                 mc "No thanks. I'll pass on that."
-        "Comprehensive Test Ban Treaty"(hint="d18s03m03c03") if True:
+        "Comprehensive Test Ban Treaty"(hint="d18s03m03c03"):
 
             $ d18s03_q3 = True
             $ d18s03_mc_correct += 1
@@ -383,7 +383,7 @@ label d18s03:
             scene d18s03-86 mc_mes_studying-wit-min_i with dissolve
             play voice2 mc_arrogant_huh1 noloop
             mc "Thanks, I think."
-        "Commercial Tax Based Tariff"(hint="d18s03m03c04") if True:
+        "Commercial Tax Based Tariff"(hint="d18s03m03c04"):
 
             scene d18s03-68 mc_mes_studying-wit-min_i with dissolve
             play voice2 mc_arrogant_heh3 noloop
@@ -410,21 +410,21 @@ label d18s03:
         mes "The National Literacy Mission (NLM) seeks to achieve full literacy i.e. a sustainable threshold level of 75%% literacy by what year?"
         scene d18s03-74 mc_mes_studying-wit-min_i with dissolve
         menu:
-            "2025"(hint="d18s03m04c01") if True:
+            "2025"(hint="d18s03m04c01"):
                 $ d18s03_q4 = "2025"
                 play voice2 mc_surprised_huh6 noloop
                 mc "By the year 2025?"
-            "2030"(hint="d18s03m04c02") if True:
+            "2030"(hint="d18s03m04c02"):
 
                 $ d18s03_q4 = "2030"
                 play voice2 mc_surprised_huh6 noloop
                 mc "By the year 2030?"
-            "2050"(hint="d18s03m04c03") if True:
+            "2050"(hint="d18s03m04c03"):
 
                 $ d18s03_q4 = "2050"
                 play voice2 mc_surprised_huh6 noloop
                 mc "By the year 2050?"
-            "2077"(hint="d18s03m04c04") if True:
+            "2077"(hint="d18s03m04c04"):
 
                 $ d18s03_q4 = "2077"
                 play voice2 mc_surprised_huh6 noloop
@@ -482,11 +482,10 @@ label d18s03_mc_victory:
     play voice3 min_old_huh noloop
     mes "Huh?"
 
-
     $ Lovense.stop()
 
     menu:
-        "Celebrate by Pissing in her Asshole"(hint="d18s03m05c01") if True:
+        "Celebrate by Pissing in her Asshole"(hint="d18s03m05c01"):
             $ d18s03_watersports = True
             $ d18s03_points += 4
 
@@ -495,7 +494,7 @@ label d18s03_mc_victory:
             mc "You're going to loathe this...{w} but hopefully you'll love it too."
 
             jump d18s03_watersports
-        "Celebrate with just a Kiss"(hint="d18s03m05c02") if True:
+        "Celebrate with just a Kiss"(hint="d18s03m05c02"):
 
             scene d18s03-99 mc_mes_victory_watersports_i with dissolve
             play voice2 mc_happy_a1 noloop
@@ -1048,7 +1047,7 @@ label d18s03_sex:
     play voice3 min_no_angry noloop
     mes "No!{w} Do you want that?!"
     menu:
-        "Maybe"(hint="d18s03m06c01") if True:
+        "Maybe"(hint="d18s03m06c01"):
             $ d18s03_maybe = True
 
             scene d18s03-233 mc_mes_sex with dissolve
@@ -1066,7 +1065,7 @@ label d18s03_sex:
             stop sound fadeout 1.0
             play voice3 min_surprised_ehh1 noloop
             mes "That's fucking hot.{w} But seriously..."
-        "No. Definitely NOT"(hint="d18s03m06c02") if True:
+        "No. Definitely NOT"(hint="d18s03m06c02"):
 
             scene d18s03-233 mc_mes_sex with dissolve
             play voice2 mc_no_no3 noloop
@@ -1114,7 +1113,6 @@ label d18s03_post_coitus:
 
     $ renpy.music.set_volume(0.2, 4.0, "music")
     play sound2 sfx_pool_ambience1 fadein 2.5
-
 
     $ Lovense.stop()
 
@@ -1211,4 +1209,5 @@ label d18s03_post_coitus:
     stop sound4 fadeout 2.5
     stop music fadeout 3.5
     jump d18s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -124,7 +124,7 @@ label d21s03:
         vumc "One last thing before we go to the next section."
         vumc "Did Lydia Cox abduct you?"
         menu:
-            "Tell the truth"(hint="d21s03m01c01") if True:
+            "Tell the truth"(hint="d21s03m01c01"):
                 $ d21s03_statement_1 = True
 
                 scene d21s03-23 mc-vumc-desk3_c1 with dissolve
@@ -141,7 +141,7 @@ label d21s03:
                 scene d21s03-19 mc-vumc-sit10_c2 with dissolve
                 play voice3 vumc_disappointed_mmm3 noloop
                 vumc "Hm. I understand that it must be hard to talk about it. But this is very valuable information, Mr. Young."
-            "Cover for Lydia"(hint="d21s03m01c02") if True:
+            "Cover for Lydia"(hint="d21s03m01c02"):
 
                 scene d21s03-23 mc-vumc-desk3_c1 with dissolve
                 play voice2 mc_no_no5 noloop
@@ -181,7 +181,7 @@ label d21s03:
     vumc "Were you at any point coerced, defrauded, or manipulated by the app?"
     if is_antagonist_mode is False:
         menu:
-            "Tell about Fetish Locator's wrongdoings"(hint="d21s03m02c01") if True:
+            "Tell about Fetish Locator's wrongdoings"(hint="d21s03m02c01"):
                 $ d21s03_statement_2 = True
 
                 scene d21s03-19 mc-vumc-sit10_c1 with dissolve
@@ -217,7 +217,7 @@ label d21s03:
                 scene d21s03-26 mc-vumc-desk6_c2 with dissolve
                 play voice3 vumc_angry_cough3 noloop
                 vumc "You aren't the first person we talked to about this, Mr. Young."
-            "Don't mention it"(hint="d21s03m02c02") if True:
+            "Don't mention it"(hint="d21s03m02c02"):
 
                 scene d21s03-19 mc-vumc-sit10_c1 with dissolve
                 play voice2 mc_no_nono1 noloop
@@ -232,7 +232,7 @@ label d21s03:
                 stop sound fadeout 1.0
     elif True:
         menu:
-            "Tell about Fetish Locator's wrongdoings"(hint="d21s03m03c01") if True:
+            "Tell about Fetish Locator's wrongdoings"(hint="d21s03m03c01"):
                 $ d21s03_statement_2 = True
 
                 scene d21s03-19 mc-vumc-sit10_c1 with dissolve
@@ -263,7 +263,7 @@ label d21s03:
                 scene d21s03-26 mc-vumc-desk6_c2 with dissolve
                 play voice3 vumc_angry_cough3 noloop
                 vumc "You aren't the first person we talked to about this, Mr. Young."
-            "Don't mention it"(hint="d21s03m03c02") if True:
+            "Don't mention it"(hint="d21s03m03c02"):
 
                 scene d21s03-19 mc-vumc-sit10_c1 with dissolve
                 play voice2 mc_no_nono1 noloop
@@ -340,4 +340,5 @@ label d21s03:
 
     stop music fadeout 3.0
     jump d21s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

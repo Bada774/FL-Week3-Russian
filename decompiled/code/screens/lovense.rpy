@@ -182,8 +182,6 @@ label lovense_test:
     "Pump Test MAX"
     $ Lovense.pattern("1;20",0,2000)
     "Pattern Test"
-
-
     $ Lovense.vibrot()
     "Vibration + Rotation test"
     $ Lovense.stop()
@@ -289,4 +287,5 @@ style connect_toy_vbox:
     xanchor 1.0
     xpos 1875
     ypos 90
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

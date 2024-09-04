@@ -34,7 +34,7 @@ translate russian e08s03_d4efe022:
 translate russian e08s03_9183fb55:
 
     # arj "I was looking for something to watch, it feels like we've seen everything already."
-    arj "Я искала что посмотреть, но такое ощущение, будто мы уже всё видели."
+    arj "Я искала что посмотреть, но такое ощущение, будто мы уже видели всё, что только можно."
 
 # game/code/e08/e08s03.rpy:55
 translate russian e08s03_a83320f8:
@@ -46,31 +46,31 @@ translate russian e08s03_a83320f8:
 translate russian e08s03_f37f3b18:
 
     # arj "Yeah, I don't know why."
-    arj "Ага, я не знаю, почему так."
+    arj "Ага, не знаю, почему так."
 
 # game/code/e08/e08s03.rpy:58
 translate russian e08s03_bc3c4b50:
 
     # arj "It mostly happens when they show underwater footage, all those marble blue contrasts takes me out."
-    arj "Чаще всего это происходит, когда показывают подводные кадры, все эти мраморно-голубые контрасты загоняют меня в сон."
+    arj "Чаще всего это происходит, когда показывают подводный мир, эти мраморно-голубые контрасты вгоняют меня в сон."
 
 # game/code/e08/e08s03.rpy:62
 translate russian e08s03_e13885de:
 
     # mc "Farm life must be different near a creek, right?"
-    mc "Жизнь на ферме возле бухты, должно быть, отличается, верно?"
+    mc "Фермерская жизнь возле бухт, должно быть, отличается, верно?"
 
 # game/code/e08/e08s03.rpy:64
 translate russian e08s03_964f85e0:
 
     # arj "It's probably way harder."
-    arj "Наверное, это намного сложнее."
+    arj "Наверное это намного сложнее."
 
 # game/code/e08/e08s03.rpy:65
 translate russian e08s03_41030119:
 
     # mc "Really? I imagined it'd be quite enjoyable, you know, even avoiding the temptation of taking a swim."
-    mc "Правда? Я думал, что это будет весьма приятно, знаешь, даже пытаясь избежать соблазна искупаться."
+    mc "Правда? Я думал, что это будет немного приятнее, ну знаешь, даже несмотря на постоянный соблазн искупаться."
 
 # game/code/e08/e08s03.rpy:66
 translate russian e08s03_cc44afc1:
@@ -106,7 +106,7 @@ translate russian e08s03_a32c7427:
 translate russian e08s03_ede290da:
 
     # arj "Remy! Are you in the house?"
-    arj "Реми! Ты в доме?"
+    arj "Реми! Ты где?"
 
 # game/code/e08/e08s03.rpy:91
 translate russian e08s03_75e1f4cc:
@@ -142,7 +142,7 @@ translate russian e08s03_8fa77c23:
 translate russian e08s03_255e5400:
 
     # mc "So scared, she didn't even bother getting in the house."
-    mc "Так боится, что даже не удосужилась в дом зайти."
+    mc "Так боится, что даже не удосужилась зайти в дом."
 
 # game/code/e08/e08s03.rpy:107
 translate russian e08s03_44203bbe:
@@ -160,7 +160,7 @@ translate russian e08s03_c7269adc:
 translate russian e08s03_58041b79:
 
     # mc "Guessing it's a tornado."
-    mc "Предполагаю, что это торнадо."
+    mc "Наверное, это торнадо."
 
 # game/code/e08/e08s03.rpy:113
 translate russian e08s03_482724ff:
@@ -190,7 +190,7 @@ translate russian e08s03_a89ec305:
 translate russian e08s03_a0723839:
 
     # mc "Okay, so should we stay in the barn or go back in the house?"
-    mc "Ладно, мы останемся в сарае или вернёмся в дом?"
+    mc "Ладно, мы останемся в сарае или может вернёмся в дом?"
 
 # game/code/e08/e08s03.rpy:128
 translate russian e08s03_4a550739:
@@ -202,7 +202,7 @@ translate russian e08s03_4a550739:
 translate russian e08s03_66aade19:
 
     # arj "I'm trying my hardest not to freak out right now."
-    arj "Я сейчас изо всех сил стараюсь не сойти с ума."
+    arj "Я сейчас изо всех сил стараюсь просто не сойти с ума."
 
 # game/code/e08/e08s03.rpy:132
 translate russian e08s03_e70c3f6e:
@@ -286,7 +286,7 @@ translate russian e08s03_d0ecae39:
 translate russian e08s03_c78cf52f:
 
     # arj "Well, your phone's still good, right?"
-    arj "Ну, твой телефон всё ещё в порядке, так ведь?"
+    arj "Ну, твой телефон же всё ещё в порядке, ведь так?"
 
 # game/code/e08/e08s03.rpy:180
 translate russian e08s03_fd5e70d3:
@@ -304,7 +304,7 @@ translate russian e08s03_708aede9:
 translate russian e08s03_d394e27e:
 
     # mc "I'll probably have to step out in the rain to wash."
-    mc "Похоже, мне придётся выйти под дождь, чтобы помыться."
+    mc "Похоже, мыться мне придётся под дождём."
 
 # game/code/e08/e08s03.rpy:189
 translate russian e08s03_e591de0d:
@@ -334,7 +334,7 @@ translate russian e08s03_74c5243e:
 translate russian e08s03_f5e2f764:
 
     # arj "Taking a shower is different from bathing."
-    arj "Душ отличается от купания."
+    arj "Душ - не тоже самое, что и купание."
 
 # game/code/e08/e08s03.rpy:201
 translate russian e08s03_7c5f36b6:
@@ -352,13 +352,13 @@ translate russian e08s03_d1b4a935:
 translate russian e08s03_f7a3a3a2:
 
     # mc "I don't know. It's too hot and steamy. I just want to wash up."
-    mc "Не знаю. Там слишком жарко и душно. Я просто хочу вымыться."
+    mc "Не знаю. Там слишком жарко и душно. А я просто хочу помыться."
 
 # game/code/e08/e08s03.rpy:209
 translate russian e08s03_12bf4709:
 
     # mc "You spend too much time in there and you start thinking about all sorts of stuff, you know."
-    mc "Знаешь, если проводить там слишком много времени, начинаешь раздумывать о всяких вещах."
+    mc "Знаешь, если проводить там слишком много времени, начинаешь раздумывать о всяких разных вещах."
 
 # game/code/e08/e08s03.rpy:210
 translate russian e08s03_0741d0ab:
@@ -370,7 +370,7 @@ translate russian e08s03_0741d0ab:
 translate russian e08s03_6e68f063:
 
     # arj "What's wrong with that?"
-    arj "Что в этом плохого?"
+    arj "А что в этом плохого?"
 
 # game/code/e08/e08s03.rpy:216
 translate russian e08s03_b0ccff69:
@@ -388,7 +388,7 @@ translate russian e08s03_6a88b0f0:
 translate russian e08s03_da282013:
 
     # mc "Yeah, but you do that all the time, apparently. If I do it once in a while, fine, but spend too much time alone, you start blending into the environment, you know what I mean?"
-    mc "Да, но ты, судя по всему, делаешь это постоянно. Если я делаю это время от времени, ладно, но тратя слишком много времени в одиночестве, ты начинаешь сливаться с окружающей средой, понимаешь, о чём я?"
+    mc "Да, но ты, судя по всему, делаешь это постоянно. Если я делаю это время от времени, ладно, но тратя слишком много времени в одиночестве, ты начинаешь как-будто сливаться с окружающей средой, понимаешь, о чём я?"
 
 # game/code/e08/e08s03.rpy:220
 translate russian e08s03_0ae3098d:
@@ -418,13 +418,13 @@ translate russian e08s03_32adb0af:
 translate russian e08s03_254e1a76:
 
     # mc "Yeah, that's the thing that worries me. Structurally it should be fine, this is a relatively new barn, it's not like those ones that aren't maintained."
-    mc "Ага, меня это тоже беспокоит. Конструктивно, всё должно быть хорошо, это сравнительно новый сарай."
+    mc "Ага, меня это тоже беспокоит. С конструкцией всё должно быть хорошо, это сравнительно новый сарай."
 
 # game/code/e08/e08s03.rpy:233
 translate russian e08s03_ed5aecdd:
 
     # mc "And the rain, it's a good thing we have a drainage hole because the whole barn would be filled with water."
-    mc "А насчёт дождя, хорошо, что у нас есть дренажная система, а то весь сарай затопило бы."
+    mc "А насчёт дождя, повезло, что у нас есть дренажная система, а то весь сарай затопило бы."
 
 # game/code/e08/e08s03.rpy:236
 translate russian e08s03_a6e68a3e:
@@ -436,19 +436,19 @@ translate russian e08s03_a6e68a3e:
 translate russian e08s03_063e23f3:
 
     # arj "Do you ever stop and think about when things are hard, it's because everything starts piling up all at once?"
-    arj "Ты когда-нибудь думал о том, что если дела идут тяжело, это потому, что они начинают накапливаться?"
+    arj "Ты когда-нибудь думал о том, что если дела идут тяжело, это только потому, что они начинают накапливаться?"
 
 # game/code/e08/e08s03.rpy:238
 translate russian e08s03_22a6f3b4:
 
     # arj "It'd be easy if it was just the storm, but no, none of our flashlights work, the roof might collapse, and the water might drown us all."
-    arj "Было бы куда легче, если бы из проблем был только шторм, но нет, ни один из наших фонариков не работает, крыша может рухнуть, и нас может затопить дождевая вода."
+    arj "Было бы куда легче, если бы из проблем был только шторм, но нет, ни один из наших фонариков не работает, крыша может рухнуть, и нас может затопить дождевой водой."
 
 # game/code/e08/e08s03.rpy:242
 translate russian e08s03_2e3c54ab:
 
     # mc "This is like the real life version of finals week. Karma is cramming in all the shit we can't handle in one go."
-    mc "Это как реальная версия недели экзаменов. Карма закидывает всем тем дерьмом, с которым мы не можем справиться за один раз."
+    mc "Это как жизненная версия недели экзаменов. Карма закидывает всем тем дерьмом, с которым мы не можем справиться за один раз."
 
 # game/code/e08/e08s03.rpy:244
 translate russian e08s03_f742af0d:
@@ -490,7 +490,7 @@ translate russian e08s03_b84362b5:
 translate russian e08s03_6d82fe15:
 
     # mc "I don't really know what I'm saying, forget it."
-    mc "Ладно, я совсем не понимаю, что говорю, забудь об этом."
+    mc "Ладно, я совсем не понимаю, о чём говорю, забудь об этом."
 
 # game/code/e08/e08s03.rpy:255
 translate russian e08s03_47a58dd9:
@@ -526,7 +526,7 @@ translate russian e08s03_204855cd:
 translate russian e08s03_248dc041:
 
     # mc "Somehow even with this technology, we're no different than cavemen at this point."
-    mc "Даже с такими технологиями, мы сейчас ничем не отличаемся от пещерных людей."
+    mc "Даже со всеми этими технологиями, мы сейчас ничем не отличаемся от пещерных людей."
 
 # game/code/e08/e08s03.rpy:268
 translate russian e08s03_f19f19d4:
@@ -544,19 +544,19 @@ translate russian e08s03_2ce5d322:
 translate russian e08s03_5ad4365c:
 
     # mc "After what you told me about your experience with Fetish Locator, it'd be a crime to still have it installed."
-    mc "После того, как ты рассказала о своём опыте с Фетиш Локатором, было бы преступлением его установить."
+    mc "После того, как ты рассказала о своих проблемах с Фетиш Локатором, было бы преступлением всё ещё иметь его."
 
 # game/code/e08/e08s03.rpy:274
 translate russian e08s03_01c792bc:
 
     # arj "You didn't have any positive experiences with it?"
-    arj "Ты не получил никакого положительного опыта?"
+    arj "У тебя не было никаких положительных моментов?"
 
 # game/code/e08/e08s03.rpy:277
 translate russian e08s03_d06e08c1:
 
     # mc "I did, but I don't think about it fondly. It was just a phase in my life that's over now."
-    mc "Получил, но я не вспоминаю об этом с любовью. Это был лишь один этап в моей жизни, который уже позади."
+    mc "Были, но я не вспоминаю о них с любовью. Это был лишь один этап в моей жизни, который уже позади."
 
 # game/code/e08/e08s03.rpy:279
 translate russian e08s03_289731f5:
@@ -586,13 +586,13 @@ translate russian e08s03_3bdb250f:
 translate russian e08s03_c572e49f:
 
     # mc "What would having sex be like in that instance, would you even know what's going on, if you had sex in a tornado?"
-    mc "Каким был бы секс в этом случае, откуда тебе знать, что происходило бы, если бы ты занималась сексом в торнадо?"
+    mc "Каким был бы секс в этом положении, откуда тебе знать, что происходило бы, если бы ты занималась сексом в торнадо?"
 
 # game/code/e08/e08s03.rpy:294
 translate russian e08s03_68c0cadb:
 
     # arj "I imagine you'd get transported to Oz."
-    arj "Думаю, ты бы попал в страну Оз.\n\n{size=-10}{i}Отсылка к сказке \"Удивительный волшебник из страны Оз\" американского писателя Лаймена Фрэнка Баума){/i}{/size}"
+    arj "Думаю, ты бы попал в страну Оз.\n\n{size=-10}{i}Отсылка к сказке \"Удивительный волшебник из страны Оз\" американского писателя Лаймена Фрэнка Баума.{/i}{/size}"
 
 # game/code/e08/e08s03.rpy:295
 translate russian e08s03_3f7bb0bf:
@@ -646,25 +646,25 @@ translate russian e08s03_b4d52c82:
 translate russian e08s03_61beb387:
 
     # mc "If we want to be realistic, death probably comes first."
-    mc "Если мы будем реалистами, то да, сперва, вероятно, будет смерть."
+    mc "Если быть реалистами, то да, сперва, скорее всего, будет смерть."
 
 # game/code/e08/e08s03.rpy:314
 translate russian e08s03_741ba693:
 
     # mc "Which is also what we're waiting for."
-    mc "Которую мы тоже ожидаем."
+    mc "Которую мы и так ждём."
 
 # game/code/e08/e08s03.rpy:317
 translate russian e08s03_a72f2e0e:
 
     # arj "Waiting for Death. It's like Waiting for Godot, except death actually appears."
-    arj "В ожидании Смерти. Это как \"В ожидании Годо\", только смерть действительно придёт.\n\n{size=-10}{i}(В ожидании Годо - пьеса французкого драматурга Сэмюэля Беккета){/i}{/size}"
+    arj "В ожидании Смерти. Это как \"В ожидании Годо\", только смерть действительно придёт.\n\n{size=-10}{i}\"В ожидании Годо\" - пьеса французкого драматурга Сэмюэля Беккета.{/i}{/size}"
 
 # game/code/e08/e08s03.rpy:319
 translate russian e08s03_b4bb20be:
 
     # mc "Are you really that scared? I really don't think we're going to die. If I scared you earlier, I'm sorry."
-    mc "Тебе правда так страшно? Я не считаю, что мы умрём. Прости, если я напугал тебя."
+    mc "Тебе правда так страшно? Не думаю, что мы умрём. Прости, если я напугал тебя."
 
 # game/code/e08/e08s03.rpy:322
 translate russian e08s03_2b32d833:
@@ -676,7 +676,7 @@ translate russian e08s03_2b32d833:
 translate russian e08s03_67e89949:
 
     # arj "Mostly worrying, because I don't know when this is going to end. We have to stay in here until the storm ends."
-    arj "В основном - волнение, потому что не знаю, когда это закончится. Нам придётся сидеть здесь, пока не закончится шторм."
+    arj "В основном - волнение, потому что не знаю, когда это закончится. Нам придётся здесь сидеть до того момента, пока не закончится шторм."
 
 # game/code/e08/e08s03.rpy:325
 translate russian e08s03_8bf6eeac:
@@ -706,7 +706,7 @@ translate russian e08s03_b49915db:
 translate russian e08s03_0e406ef9:
 
     # arj "Yeah, we talked about it. We talked about it, how we'd like to have children in the future."
-    arj "Да, мы об этом говорили. Мы говорили о том, как бы нам хотелось в будущем иметь детей."
+    arj "Ага, мы это обсуждали. Мы говорили о том, как бы нам хотелось в будущем иметь детей."
 
 # game/code/e08/e08s03.rpy:338
 translate russian e08s03_7ca8ffff:
@@ -730,13 +730,13 @@ translate russian e08s03_f36c0522:
 translate russian e08s03_99c4892b:
 
     # mc "For a couple of years, yeah."
-    mc "Пару лет, да."
+    mc "Первые пару лет, да."
 
 # game/code/e08/e08s03.rpy:346
 translate russian e08s03_63c27469:
 
     # mc "When they grow up, we would have some extra hands to help us."
-    mc "Но когда они вырастут, у нас появятся дополнительные руки, которые будут нам помогать."
+    mc "Но когда они подрастут, у нас появятся дополнительные руки, которые будут нам помогать."
 
 # game/code/e08/e08s03.rpy:349
 translate russian e08s03_0f474f47:
@@ -754,7 +754,7 @@ translate russian e08s03_2cf2183a:
 translate russian e08s03_1ed399b9:
 
     # mc "It's not something you really see anymore, because of economic sustainability."
-    mc "Это не то, на что можно сразу продумать, как минимум из-за экономической устойчивости."
+    mc "Это не тот вопрос, который можно сразу продумать, как минимум из-за экономических проблем."
 
 # game/code/e08/e08s03.rpy:355
 translate russian e08s03_d142fc2e:
@@ -916,19 +916,19 @@ translate russian e08s03_cebcc08f:
 translate russian e08s03_dc5c3b00:
 
     # arj "Some poet said youth is wasted on the young. I understand why they said that. I didn't even know what was wrong with me."
-    arj "Некоторые поэты писали: \"Молодежь тратит силы на молодость\". Я понимаю, почему они так писали. Я даже не осознавала, что со мной не так."
+    arj "Некоторые поэты писали: \"Молодежь тратит силы на молодость\". Я поняла, почему они так писали. Я даже не осознавала, что со мной не так."
 
 # game/code/e08/e08s03.rpy:411
 translate russian e08s03_de590e67:
 
     # mc "There was nothing wrong with you. That's just a part of growing up."
-    mc "С тобой не было ничего плохого. Это всего лишь часть взросления."
+    mc "С тобой не всё нормально. Это всего лишь часть взросления."
 
 # game/code/e08/e08s03.rpy:413
 translate russian e08s03_409d2133:
 
     # arj "Not like I was expressing an inexpressible thought. Just articulating my thoughts, or failing to."
-    arj "Не подумай, что я высказываю какие-то непередаваемые знания. Я просто попыталась высказать свои мысли."
+    arj "Не подумай, что я передаю какие-то непередаваемые знания. Я просто попыталась высказать свои мысли."
 
 # game/code/e08/e08s03.rpy:414
 translate russian e08s03_db528b98:
@@ -946,13 +946,13 @@ translate russian e08s03_8c60e828:
 translate russian e08s03_193231cb:
 
     # mc "At least five."
-    mc "Минимум пять."
+    mc "Минимум пятеро."
 
 # game/code/e08/e08s03.rpy:423
 translate russian e08s03_8ce922f9:
 
     # arj "Five?"
-    arj "Пять?"
+    arj "Пятеро?"
 
 # game/code/e08/e08s03.rpy:426
 translate russian e08s03_ace8d093:
@@ -964,13 +964,13 @@ translate russian e08s03_ace8d093:
 translate russian e08s03_a8508811:
 
     # arj "Can we support that much?"
-    arj "Мы сможем воспитать так много?"
+    arj "Мы сможем вырастить так много?"
 
 # game/code/e08/e08s03.rpy:430
 translate russian e08s03_42460a2d:
 
     # arj "I doubt we're making a windfall in terms of profit, right?"
-    arj "Я сомневаюсь, что мы сорвём джекпот с точки зрения прибыли, верно?"
+    arj "Что-то я сомневаюсь, что мы сорвём какой-нибудь денежный джекпот."
 
 # game/code/e08/e08s03.rpy:433
 translate russian e08s03_9e00abe6:
@@ -1054,7 +1054,7 @@ translate russian e08s03_fb9a435d:
 translate russian e08s03_68fb6460:
 
     # mc "We both decided, all the choices we made, it would be to ensure we were here right here, right now, in this barn, having this conversation."
-    mc "Мы оба решили, что любой выбор, который мы сделали, будет направлен на то, чтобы быть здесь и сейчас, в этом сарае, и вести этот разговор."
+    mc "Мы оба решили, что любой выбор, который мы сделали, будет направлен на то, чтобы именно сейчас быть именно здесь, в этом сарае, и вести этот разговор."
 
 # game/code/e08/e08s03.rpy:473
 translate russian e08s03_95c7633a:
@@ -1090,7 +1090,7 @@ translate russian e08s03_87d2fc95:
 translate russian e08s03_ff92642c:
 
     # arj "Do you regret any of it?"
-    arj "Ты сожалеешь об этом?"
+    arj "Ты жалеешь о чём-нибудь?"
 
 # game/code/e08/e08s03.rpy:485
 translate russian e08s03_fca52711_1:

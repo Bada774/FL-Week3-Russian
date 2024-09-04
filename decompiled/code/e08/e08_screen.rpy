@@ -19,7 +19,7 @@ screen e08_char_choice():
                     hover "images/utility/prologue/girls/hover/sy.webp"
                     selected_idle "images/utility/prologue/girls/selected/sy.webp"
                     selected_hover "images/utility/prologue/girls/hover/sy.webp"
-                    action ToggleVariable("date_sy", True)
+                    action ToggleVariable("date_sy")
                     selected date_sy
                 text _("Stacy") style_prefix "name" xalign 0.5
 
@@ -29,4 +29,5 @@ screen e08_char_choice():
             style_prefix "prologue_yta"
             textbutton _("Continue"):
                 action Jump("e08s01")
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

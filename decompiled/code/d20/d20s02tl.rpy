@@ -153,7 +153,6 @@ label d20s02tl:
     scene d20s2-06-5 mc-tl-kneel_c1 with dissolve
     play voice2 mc_yes_aga2 noloop
     mc "Now drop and give me push-ups."
-
     play voice3 teresa_surprised_huh1 noloop
     tl "Teacher?"
     play voice2 mc_angry_hm1 noloop
@@ -164,11 +163,9 @@ label d20s02tl:
     play voice2 mc_angry_errr1 noloop
     mc "I told you to call me \"Teacher\"."
     tl "Yes, Teacher. I'm sorry, Teacher."
-
     play voice3 teresa_angry_breathing2 noloop
     scene d20s2-06-3 mc-tl-pushup1_c1 with dissolve
     pause
-
     scene d20s2-06-3 mc-tl-pushup1_c2 with dissolve
     play voice2 mc_yes_aga1 noloop
     mc "Keep going until I tell you to stop."
@@ -193,17 +190,17 @@ label d20s02tl:
     play voice2 mc_yes_yeah2 noloop
     mc "Good.{w} You are paying attention."
     menu:
-        "Tell Her to Suck Your Cock"(hint="d20s02tlm01c01") if True:
+        "Tell Her to Suck Your Cock"(hint="d20s02tlm01c01"):
             $ d20s02tl_menu_1_choice = "suck"
             scene d20s2-06-5 mc-tl-kneel_c1 with dissolve
             play voice2 mc_angry_errr3 noloop
             mc "Now suck my cock, bitch."
             jump d20s02tl_fail
-        "Tell Her to Strip Naked"(hint="d20s02tlm01c02") if True:
+        "Tell Her to Strip Naked"(hint="d20s02tlm01c02"):
 
             $ d20s02tl_menu_1_choice = "strip"
             jump d20s02tl_nude
-        "Tell Her to Pray with You"(hint="d20s02tlm01c03") if True:
+        "Tell Her to Pray with You"(hint="d20s02tlm01c03"):
 
             $ d20s02tl_menu_1_choice = "pray"
             jump d20s02tl_pray
@@ -261,7 +258,7 @@ label d20s02tl_pray:
     play voice3 teresa_yes_yeah1 noloop
     tl "I am ready, Teacher."
     menu:
-        "Tell Her to Masturbate"(hint="d20s02tlm02c01") if True:
+        "Tell Her to Masturbate"(hint="d20s02tlm02c01"):
             $ d20s02tl_menu_2_choice = "masturbate"
             scene d20s2-06-5 mc-tl-kneel_c1 with dissolve
             play voice2 mc_thinking_hmm3 noloop
@@ -273,7 +270,7 @@ label d20s02tl_pray:
             play voice2 mc_thinking_hmm4 noloop
             mc "Masturbate for me, Theresa."
             jump d20s02tl_fail
-        "Tell Her to Strip Naked"(hint="d20s02tlm02c02") if True:
+        "Tell Her to Strip Naked"(hint="d20s02tlm02c02"):
 
             $ d20s02tl_menu_2_choice = "strip"
             jump d20s02tl_nude
@@ -295,7 +292,6 @@ label d20s02tl_nude:
     play voice3 teresa_yes_simple noloop
     tl "Yes, Teacher."
 
-
     $ Lovense.stop()
 
     play voice2 mc_angry_hm2 noloop
@@ -307,8 +303,6 @@ label d20s02tl_nude:
     play voice3 teresa_thinking_hmm1 noloop
     tl "I am finished, Teacher."
     scene d20s2-10 mc-tl-undress1_c1 with dissolve
-
-
     play voice2 mc_yes_yeah4 noloop
     mc "I see that.{w} Tell me, what is the most important part of a man?"
     scene d20s2-10 mc-tl-undress1_c3 with dissolve
@@ -416,10 +410,10 @@ label d20s02tl_nude:
     scene d20s2-21-4 tl-knees4_c1 with dissolve
     tl "Of course, Teacher. Please teach me your discipline."
     menu:
-        "Punish Her"(hint="d20s02tlm03c01") if True:
+        "Punish Her"(hint="d20s02tlm03c01"):
             $ d20s02tl_menu_3_choice = "punish"
             jump d20s02tl_whip
-        "Fuck Her"(hint="d20s02tlm03c02") if True:
+        "Fuck Her"(hint="d20s02tlm03c02"):
 
             $ d20s02tl_menu_3_choice = "fuck"
             if d20s02tl_pray is True:
@@ -728,7 +722,6 @@ label d20s02tl_fail:
 
     $ d20s02tl_fail = True
 
-
     $ Lovense.stop()
 
     if d20s02tl_nude is True:
@@ -841,14 +834,14 @@ label d20s02tl_cl:
     mc "Very good."
     scene d20s2-38 mc-cl-tl-kneel_c2 with dissolve
     menu:
-        "Pray With Them Both"(hint="d20s02tlm04c01") if True:
+        "Pray With Them Both"(hint="d20s02tlm04c01"):
             $ d20s02tl_menu_4_choice = "pray"
             jump d20s02tl_cl_pray
-        "Punish Them Both"(hint="d20s02tlm04c02") if True:
+        "Punish Them Both"(hint="d20s02tlm04c02"):
 
             $ d20s02tl_menu_4_choice = "punish"
             jump d20s02tl_cl_whip
-        "Fuck Them Both Together"(hint="d20s02tlm04c03") if True:
+        "Fuck Them Both Together"(hint="d20s02tlm04c03"):
 
             $ d20s02tl_menu_4_choice = "fuck"
             play voice2 mc_happy_hah2 noloop
@@ -925,10 +918,10 @@ label d20s02tl_cl_pray:
     play voice2 d2s9_confused noloop volume 1.6
     mct "I'm pretty sure I could get them to do almost anything now."
     menu:
-        "Whip Them Both Together"(hint="d20s02tlm05c01") if True:
+        "Whip Them Both Together"(hint="d20s02tlm05c01"):
             $ d20s02tl_menu_5_choice = "whip"
             jump d20s02tl_cl_whip
-        "Fuck Them Both Together"(hint="d20s02tlm05c02") if True:
+        "Fuck Them Both Together"(hint="d20s02tlm05c02"):
 
             $ d20s02tl_menu_5_choice = "fuck"
             jump d20s02tl_cl_fuck
@@ -1256,7 +1249,6 @@ label d20s02tl_end:
 
     scene d20s2-71 mc-tl-end1_c2 with Fade(0.5, 0.5, 0.5)
 
-
     $ Lovense.stop()
 
     play voice2 mc_hey_hey5 noloop
@@ -1311,4 +1303,5 @@ label d20s02tl_jump:
     stop music fadeout 3.0
 
     jump d20s02rn
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

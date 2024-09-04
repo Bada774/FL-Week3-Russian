@@ -222,7 +222,7 @@ label e10s02:
     mb "This is family business, [mcname].."
     scene e10s02-22 mc-mes-md-mb-mm-talk2_c1 with dissolve
     menu:
-        "Ask her what she really thinks about this"(hint="e10s02m01c01") if True:
+        "Ask her what she really thinks about this"(hint="e10s02m01c01"):
             $ e10s02_mes_partner = True
 
             scene e10s02-23 mc-mes-md-mb-mm-talk3_c3 with dissolve
@@ -231,7 +231,7 @@ label e10s02:
             scene e10s02-22-2 mc-mes-md-mb-mm-talk2_c2 with dissolve
             play voice3 min_pain_ah noloop
             mes "[mcname], please. Don't do this."
-        "Tell them that she has other plans"(hint="e10s02m01c02") if True:
+        "Tell them that she has other plans"(hint="e10s02m01c02"):
 
             scene e10s02-21 mc-mes-md-nb-mm-talk1_c3 with dissolve
             play voice2 mc_angry_hm1 noloop
@@ -306,4 +306,5 @@ label e10s02:
     stop sound2 fadeout 3.0
     stop music fadeout 3.0
     jump e10s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -605,9 +605,6 @@ label after_credits:
 
 
 
-
-
-
 label show_fl_points_overlay:
 
     show screen fl_points_screen(fl_points)
@@ -700,6 +697,26 @@ label update_ending_variables:
         $ persistent.nk_pegged = d15s05b_pegged
     elif True:
         $ persistent.nk_pegged = False
+    if hasattr(renpy.store, "d17s01_arj_assfuck"):
+        $ persistent.arj_assfuck = d17s01_arj_assfuck
+    elif True:
+        $ persistent.arj_assfuck = False
+    if hasattr(renpy.store, "d21s05_fivesome"):
+        $ persistent.mk_orgy = d21s05_fivesome
+    elif True:
+        $ persistent.mk_orgy = False
+    if hasattr(renpy.store, "d15s05_leave"):
+        $ persistent.leave_mk = d15s05_leave
+    elif True:
+        $ persistent.leave_mk = False
+    if hasattr(renpy.store, "d15s05_rescue"):
+        $ persistent.rescue_mk = d15s05_rescue
+    elif True:
+        $ persistent.rescue_mk = False
+    if hasattr(renpy.store, "date_arj_romance"):
+        $ persistent.arj_romance = date_arj_romance
+    elif True:
+        $ persistent.arj_romance = False
     return
 
 label start_ending_from_menu:
@@ -727,9 +744,9 @@ label start_ending_from_menu:
         $ persistent.fl_pegging = False
     if not has_persistent("fl_trans"):
         $ persistent.fl_trans = False
-    if not has_persistent("d20s08_copy_files"):
+    if not has_persistent("copy_files"):
         $ persistent.copy_files = False
-    if not has_persistent("d20s04_pass_exam"):
+    if not has_persistent("pass_exam"):
         $ persistent.pass_exam = False
     if not has_persistent("date_sy"):
         $ persistent.date_sy = False
@@ -741,8 +758,18 @@ label start_ending_from_menu:
         $ persistent.fuck_nr = False
     if not has_persistent("d20s03_sex"):
         $ persistent.d20s03_sex = False
-    if not has_persistent("d15s05b_pegged"):
+    if not has_persistent("nk_pegged"):
         $ persistent.nk_pegged = False
+    if not has_persistent("arj_assfuck"):
+        $ persistent.arj_assfuck = False
+    if not has_persistent("mk_orgy"):
+        $ persistent.mk_orgy = False
+    if not has_persistent("leave_mk"):
+        $ persistent.leave_mk = False
+    if not has_persistent("rescue_mk"):
+        $ persistent.rescue_mk = False
+    if not has_persistent("arj_romance"):
+        $ persistent.arj_romance = False
     return
 
 label after_load:
@@ -801,4 +828,5 @@ label drink:
 
     play sound ["<silence .3>", audio.gulp, "<silence .5>", audio.gulp, "<silence .3>", audio.gulp, "<silence .7>", audio.gulp, "<silence .4>", audio.gulp] loop
     return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

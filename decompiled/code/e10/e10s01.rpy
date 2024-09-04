@@ -361,11 +361,11 @@ label replay_e10s01:
     scene black with dissolve
     menu:
         "Do you want to see watersports?"
-        "Yes" if True:
+        "Yes":
             $ fl_watersports = True
             $ d15s07_more_watersports = True
             pass
-        "No" if True:
+        "No":
 
             $ fl_watersports = False
             $ d15s07_more_watersports = False
@@ -388,7 +388,6 @@ label e10d01_sex:
     scene e10s01-50 mc-tries-to-stand-up_c1 with dissolve
     play voice2 mc_arrogant_huh2 noloop
     mc "Still?"
-
 
     $ Lovense.stop()
 
@@ -808,7 +807,6 @@ label e10s01_final_sex:
     scene e10s01-96 mc-mes-leave-park-gurry_c1 with dissolve
     pause
 
-
     $ Lovense.stop()
 
     stop music fadeout 3.0
@@ -817,4 +815,5 @@ label e10s01_final_sex:
     $ unlock_gallery_slot("scene", "e10s01")
 
     jump e10s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

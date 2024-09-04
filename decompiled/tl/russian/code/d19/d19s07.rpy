@@ -790,7 +790,7 @@ translate russian d19s07_roleplay_2075745d:
 translate russian d19s07_roleplay_bb4267b1:
 
     # mk "Oh, it's like Hancock."
-    mk "О, это как с Хэнкоком.\n\n{size=-10}{i}(Хэнкок - комедийный фильм про супергероя, а так же имя главного героя){/i}{/size}"
+    mk "О, это как с Хэнкоком.\n\n{size=-10}{i}Хэнкок - комедийный фильм про супергероя, а так же имя главного героя.{/i}{/size}"
 
 # game/code/d19/d19s07.rpy:466
 translate russian d19s07_roleplay_05500ff6:

@@ -1114,13 +1114,13 @@ translate russian d15s05b_fisto_27b942ae:
 translate russian d15s05b_fisto_32dd75f2:
 
     # nk "Domo arigato Fisto Robotto"
-    nk "Domo arigato Fisto Robotto.\n\n{size=-10}{i}(Японский - Большое спасибо, господин Робот - отсылка к песне \"Mr. Roboto - Styx\"){/i}{/size}"
+    nk "Domo arigato Fisto Robotto.\n\n{size=-10}{i}Ориг. Domo arigato Fisto Robotto - отсылка к песне \"Mr. Roboto - Styx\".{/i}{/size}"
 
 # game/code/d15/extended/d15s05b_ext.rpy:590
 translate russian d15s05b_fisto_0b53183b:
 
     # mc "Bitte, bae-by."
-    mc "Bitte, bae-by.\n\n{size=-10}{i}(Немецкий - Пожалуйста, детка){/i}{/size}"
+    mc "Bitte, bae-by.\n\n{size=-10}{i}Немец. Пожалуйста, детка.{/i}{/size}"
 
 # game/code/d15/extended/d15s05b_ext.rpy:591
 translate russian d15s05b_fisto_596f804f:

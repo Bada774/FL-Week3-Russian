@@ -531,4 +531,5 @@ translate chinese strings:
 
     old "New day new beginning"
     new "新的一天，新的开始"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

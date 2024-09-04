@@ -2411,4 +2411,5 @@ translate malay strings:
 
     old "Say that is enough for today"
     new "Cukup buat hari ini"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

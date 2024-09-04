@@ -12,5 +12,6 @@ translate portuguese strings:
 
 
     old "Choose Language"
-    new ""
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Escolha o Idioma"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

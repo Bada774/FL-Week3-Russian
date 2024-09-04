@@ -18,4 +18,5 @@ label d19s03:
     elif True:
         stop music fadeout 3.5
         jump d19s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -1381,4 +1381,5 @@ translate turkish strings:
 
     old "Tell her how you came while she was under the table"
     new "O masanın altındayken nasıl geldiğini anlat ona."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

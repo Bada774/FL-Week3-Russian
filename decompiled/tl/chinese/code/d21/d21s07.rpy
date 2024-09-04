@@ -1963,4 +1963,5 @@ translate chinese strings:
 
     old "Let Lydia Down"
     new "让莉迪亚失望"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -376,7 +376,7 @@ translate russian d17s01_4452e293:
 translate russian d17s01_af6d3988:
 
     # lc "What, like did I have to open an egg underwater? No."
-    lc "Что, вроде \"открыть яйцо под водой\"? Нет.\n\n{size=-10}{i}(отсылка к \"Гарри Поттер и Орден Феникса\"){/i}{/size}"
+    lc "Что, вроде \"открыть яйцо под водой\"? Нет.\n\n{size=-10}{i}Отсылка к \"Гарри Поттер и Орден Феникса\".{/i}{/size}"
 
 # game/code/d17/d17s01.rpy:245
 translate russian d17s01_57ccf91c:

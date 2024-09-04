@@ -240,5 +240,6 @@ translate italian strings:
 
 
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Se decidi di continuare, potresti non essere in grado di caricare i salvataggi della seconda settimana. Non riceverai più alcuna notifica. Sei sicuro?"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

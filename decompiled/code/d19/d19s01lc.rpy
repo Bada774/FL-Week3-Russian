@@ -318,7 +318,7 @@ label d19s01lc:
             scene d19s01-09 mc-lc-prison9_c2 with dissolve
             play voice2 mc_thinking_mmm5 noloop
             mc "I understand."
-        "Say Something Nice"(hint="d19s01lcm01c02") if True:
+        "Say Something Nice"(hint="d19s01lcm01c02"):
 
             $ d19s01lc_talk_nice = True
 
@@ -341,7 +341,7 @@ label d19s01lc:
             lc "Thanks. Me too."
             scene d19s01-09 mc-lc-prison9_c2 with dissolve
             play voice2 mc_yes_yeah4 noloop
-        "Tell Her It Was Fun"(hint="d19s01lcm01c03") if True:
+        "Tell Her It Was Fun"(hint="d19s01lcm01c03"):
 
             $ d19s01lc_was_fun = True
 
@@ -374,4 +374,5 @@ label d19s01lc:
     stop music fadeout 3.5
     stop sound2 fadeout 2.5
     jump d19s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

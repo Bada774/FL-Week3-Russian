@@ -196,7 +196,6 @@ label d15s04dd:
     play voice4 amrose_hey_scared noloop
     "???" "Hi, are you Daisy Diamond?"
     scene d15s04-44-dd-talking-with-nurse with dissolve
-
     dd "Yes?"
     scene d15s04-45-nurse-talking-with-dd with dissolve
     play voice4 amrose_thinking_hmm1 noloop
@@ -332,7 +331,6 @@ label replay_d15s04dd hide:
     play sound sfx_clothes_undress1
     scene d15s04-85-dd-lets-the-steth-drop with dissolve
     pause
-
 
     $ Lovense.stop()
 
@@ -529,7 +527,6 @@ label replay_d15s04dd hide:
     play voice3 daisy_hmm2 noloop
     dd "Mmm, I. Can't. Wait."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -597,7 +594,7 @@ label replay_d15s04dd hide:
     mc "Of course."
     scene d15s04-139-mc-dd-looking-at-each-other with dissolve
     menu:
-        "Kiss her"(hint="d15s04ddm01c01") if True:
+        "Kiss her"(hint="d15s04ddm01c01"):
             $ d15s04_dd_kiss = True
             $ unlock_gallery_slot("scene", "d15s04dd")
 
@@ -607,7 +604,7 @@ label replay_d15s04dd hide:
             play sound maria_kiss1
             scene d15s04-141-opt1-mc-kiss-dd with dissolve
             pause
-        "Don't"(hint="d15s04ddm01c02") if True:
+        "Don't"(hint="d15s04ddm01c02"):
 
             pass
 
@@ -657,4 +654,5 @@ label replay_d15s04dd hide:
 
     stop music fadeout 3.5
     jump d15s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

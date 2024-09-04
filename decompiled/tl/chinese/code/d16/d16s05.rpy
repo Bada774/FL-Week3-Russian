@@ -1095,4 +1095,5 @@ translate chinese strings:
 
     old "Ask her if she got any pictures"
     new "问她有没有照片"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

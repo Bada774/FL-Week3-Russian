@@ -42,3 +42,11 @@ translate russian strings:
     old "adult magazines"
     new "журналы для взрослых"
 
+# TODO: Translation updated at 2024-08-26 06:29
+
+translate russian strings:
+
+    # game/code/data/prologue.rpy:16
+    old "The Judge"
+    new "Судья"
+

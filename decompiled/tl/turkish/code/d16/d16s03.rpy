@@ -2001,4 +2001,5 @@ translate turkish strings:
 
     old "Tell Lydia That You Enjoyed It As Well"
     new "Lydia'ya Senin de Eğlendiğini Söyle"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

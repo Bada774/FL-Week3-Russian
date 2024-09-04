@@ -118,7 +118,6 @@ label d18s05_ext:
     play voice3 samiya_ou2 noloop
     pause
 
-
     $ Lovense.stop()
 
     scene d18s05-a15-01 pb-eats-sb-anim-15-01-00_i with dissolve
@@ -216,7 +215,7 @@ label d18s05_ext:
     play voice3 samiya_mmm3 noloop
     sb "I'm horny and I need someone to fuck me. Mr. Flaccid here can't get it up right now, so he's offering you up instead."
     menu:
-        "Fuck Samiya"(hint="d18s05m01c01") if True:
+        "Fuck Samiya"(hint="d18s05m01c01"):
             $ d18s05_fuck_sb = True
 
             scene d18s05-48-mc-talk-sb-pb with dissolve
@@ -232,7 +231,7 @@ label d18s05_ext:
             pb "Yes, Mistress."
 
             jump d18s05_sex
-        "Don't"(hint="d18s05m01c02") if True:
+        "Don't"(hint="d18s05m01c02"):
 
             scene d18s05-43-c1-mc-talk-sb-pb with dissolve
             play voice2 mc_yes_yeah3 noloop
@@ -240,7 +239,6 @@ label d18s05_ext:
             scene d18s05-44-c1-pb-talk-mc with dissolve
             play voice4 pete_surprised_huh1 noloop
             pb "Come on, man! Jus—"
-
 
             $ Lovense.stop()
 
@@ -574,7 +572,6 @@ label d18s05_after_sex:
     $ renpy.music.set_volume(0.5, 3.0, "music")
     scene d18s05-105-after-sex with Fade(0.5, 0.5, 0.5)
 
-
     $ Lovense.stop()
 
     pause
@@ -642,7 +639,7 @@ label d18s05_after_sex:
             scene d18s05-123-mc-inner-talk with dissolve
             mct "Even without the exams and Fetish Locator, is this something I would actually want?"
             menu:
-                "Yes"(hint="d18s05m02c01") if True:
+                "Yes"(hint="d18s05m02c01"):
                     $ d18s05_quartet_end = True
 
                     scene d18s05-124-c1-mc-talk-dw with dissolve
@@ -658,7 +655,7 @@ label d18s05_after_sex:
                     play voice5 samiya_ou2 noloop
                     sb "Aw, well isn't that sweet."
                     scene d18s05-130-dw-talk-sb with dissolve
-                "No"(hint="d18s05m02c02") if True:
+                "No"(hint="d18s05m02c02"):
 
                     scene d18s05-128-c2-mc-talk-dw with dissolve
                     play voice2 mc_no_no5 noloop
@@ -686,4 +683,5 @@ label d18s05_end:
 
     stop music fadeout 3.0
     jump d18s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

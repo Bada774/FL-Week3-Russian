@@ -550,8 +550,6 @@ label d17s05mo:
     play sound maria_kiss2
     scene d17s05-168-sy-mh-stacy-lyssa-house with dissolve
     pause
-
-
     scene d17s05b-162-sy-mh-oliver-lyssa with dissolve
     play voice3 lissa_thinking noloop
     mh "You too. Don't go speeding now."
@@ -578,11 +576,11 @@ label d17s05mo:
     mh "I will. I love you."
     scene d17s05b-171-sy-mh-oliver-lyssa with dissolve
     menu:
-        "I love you too"(hint="d17s05m0m01c01") if True:
+        "I love you too"(hint="d17s05m0m01c01"):
             $ d17s05_love_mh_op = True
             play voice2 mc_yes_yeah1 noloop
             mc "I love you too."
-        "Kiss her instead"(hint="d17s05m0m01c02") if True:
+        "Kiss her instead"(hint="d17s05m0m01c02"):
 
             play sound maria_kiss1
             scene d17s05-167-sy-mh-stacy-lyssa-house with dissolve
@@ -613,4 +611,5 @@ label d17s05mo:
 
     stop music fadeout 4.0
     jump d17s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

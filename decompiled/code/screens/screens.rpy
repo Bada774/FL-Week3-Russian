@@ -521,6 +521,8 @@ init -501 screen game_menu(title, scroll=None, yinitial=0.0):
         on 'show' action PauseAudio('voice4', True)
         on 'show' action PauseAudio('voice5', True)
         on 'show' action PauseAudio('voice6', True)
+        on 'show' action PauseAudio('voice7', True)
+        on 'show' action PauseAudio('voice8', True)
         on 'show' action Function(Lovense.stop)
 
     style_prefix "game_menu"
@@ -1722,4 +1724,5 @@ init -501 screen quick_menu():
 init -1 style quick_button_text:
     variant "small"
     size 28
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

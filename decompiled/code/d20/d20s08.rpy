@@ -568,11 +568,11 @@ label d20s08_server:
     play voice2 mc_yes_yeah4 noloop
     mc "Well, I've been thinking a lot about this, and..."
     menu:
-        "Side with Stacy - Copy then Delete"(hint="d20s08m01c01") if True:
+        "Side with Stacy - Copy then Delete"(hint="d20s08m01c01"):
             $ d20s08_copy_files = True
             play voice2 mc_thinking_hmm4 noloop
             mc "Stacy... make your copies then delete everything."
-        "Side with AmRose - Destroy it Completely"(hint="d20s08m01c02") if True:
+        "Side with AmRose - Destroy it Completely"(hint="d20s08m01c02"):
 
             play voice2 mc_thinking_hmm4 noloop
             mc "Stacy, I agree with AmRose. Destroy everything."
@@ -613,12 +613,12 @@ label d20s08_server:
     play voice4 stacy_hmm noloop
     sy "See? [mcname], what do you think?"
     menu:
-        "Alright, I want to see the video"(hint="d20s08m02c01") if True:
+        "Alright, I want to see the video"(hint="d20s08m02c01"):
             $ d20s08_ir_video = True
             play voice2 mc_yes_okay1 noloop
             mc "Okay. Let's check this out."
             jump d20s08_ir_video
-        "No, I don't want to see that."(hint="d20s08m02c02") if True:
+        "No, I don't want to see that."(hint="d20s08m02c02"):
 
             play voice2 mc_no_no3 noloop
             mc "No. Let's hurry up and finish what we came for."
@@ -751,4 +751,5 @@ label d20s08_end:
     stop sound4 fadeout 3.0
     stop music fadeout 5.0
     jump d20s09
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

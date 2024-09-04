@@ -17,7 +17,6 @@ label d18s01:
         pause
         hide screen scene_transistion
 
-
     $ Lovense.stop()
 
     play voice2 d1s1_mmm noloop
@@ -217,8 +216,6 @@ label d18s01_cuddle:
     scene d18s01-20 mc-lc-talk-fetish-locator with dissolve
     play voice2 mc_thinking_hmm5 noloop
     mc "What's up, hon?"
-
-
     scene d18s01-19 mc-lc-talk-fetish-locator with dissolve
     play voice3 lydia_hmmmm noloop
     lc "Is this a good time to set up my Fetish Locator account?"
@@ -236,8 +233,6 @@ label d18s01_cuddle:
     mc "Hmm.{w} Tell you what. Let's get a shower and breakfast and then we can talk about it."
     play voice3 lydia_morningoh noloop
     lc "Oh, okay. Do you want first shower or second shower."
-
-
     scene d18s01-23 mc-lc-talk-fetish-locator-close-up with dissolve
     play voice2 mc_thinking_mmm4 noloop
     mc "Is it okay if we shower together?"
@@ -330,7 +325,6 @@ label d18s01_shower:
     lc "Think, think, think..."
     scene d18s01-34-01 mc-lc-think with dissolve
     mct "Think, THink, THINK!!!"
-
 
     $ Lovense.stop()
 
@@ -638,4 +632,5 @@ label d18s01_shower_lc:
     stop sound2 fadeout 2.0
     stop music fadeout 3.0
     jump d18s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

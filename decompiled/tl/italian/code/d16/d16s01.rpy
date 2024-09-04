@@ -515,4 +515,5 @@ translate italian strings:
 
     old "Tuesday\nDay-16"
     new "Martedì\nGiorno-16"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

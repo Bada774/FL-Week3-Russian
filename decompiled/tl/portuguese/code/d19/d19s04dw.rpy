@@ -10,7 +10,7 @@ translate portuguese d19s04dw_cc0d7a3e:
 translate portuguese d19s04dw_4433c6e6:
 
 
-    mc "Desculpa, Mestra."
+    mc "Desculpa, Senhora."
 
 
 translate portuguese d19s04dw_5c386de0:
@@ -28,7 +28,7 @@ translate portuguese d19s04dw_55942bbd:
 translate portuguese d19s04dw_7fd3a623:
 
 
-    mc "Sim, Mestra."
+    mc "Sim, Senhora."
 
 
 translate portuguese d19s04dw_9ec79316:
@@ -46,7 +46,7 @@ translate portuguese d19s04dw_cb94cf23:
 translate portuguese d19s04dw_cfb40a80:
 
 
-    mc "Não, Mestra."
+    mc "Não, Senhora."
 
 
 translate portuguese d19s04dw_5e021c60:
@@ -64,7 +64,7 @@ translate portuguese d19s04dw_2339a4f8:
 translate portuguese d19s04dw_7fd3a623_1:
 
 
-    mc "Sim, Mestra."
+    mc "Sim, Senhora."
 
 
 translate portuguese d19s04dw_8e92386c:
@@ -82,7 +82,7 @@ translate portuguese d19s04dw_7171f033:
 translate portuguese d19s04dw_9d8752ea:
 
 
-    mc "Mestra, eu..."
+    mc "Senhora, eu..."
 
 
 translate portuguese d19s04dw_c55c134b:
@@ -118,7 +118,7 @@ translate portuguese d19s04dw_e4f48bdd:
 translate portuguese d19s04dw_0f43c2a3:
 
 
-    mc "Mestra, e-eu..."
+    mc "Senhora, e-eu..."
 
 
 translate portuguese d19s04dw_94c77104:
@@ -166,7 +166,7 @@ translate portuguese d19s04dw_00e88e1b:
 translate portuguese d19s04dw_cbe64562:
 
 
-    mc "Desculpa, Mestra. Vou tentar-!"
+    mc "Desculpa, Senhora. Vou tentar-!"
 
 
 translate portuguese d19s04dw_1f3a995d:
@@ -178,7 +178,7 @@ translate portuguese d19s04dw_1f3a995d:
 translate portuguese d19s04dw_40e30145:
 
 
-    mc "Não vou gozar, Mestra!"
+    mc "Não vou gozar, Senhora!"
 
 
 translate portuguese d19s04dw_8834d0c7:
@@ -190,7 +190,7 @@ translate portuguese d19s04dw_8834d0c7:
 translate portuguese d19s04dw_4921ed58:
 
 
-    mc "Eu sou seu, Mestra! Só seu!"
+    mc "Eu sou seu, Senhora! Só seu!"
 
 
 translate portuguese d19s04dw_c1853f0b:
@@ -208,7 +208,7 @@ translate portuguese d19s04dw_76507fd8:
 translate portuguese d19s04dw_10189315:
 
 
-    mc "Sim, Mestra! Sim!"
+    mc "Sim, Senhora! Sim!"
 
 
 translate portuguese d19s04dw_a3f85ee0:
@@ -220,7 +220,7 @@ translate portuguese d19s04dw_a3f85ee0:
 translate portuguese d19s04dw_538a872f:
 
 
-    mc "Mestra, por favor! Me deixa gozar, por favor!"
+    mc "Senhora, por favor! Me deixa gozar, por favor!"
 
 
 translate portuguese d19s04dw_93b40634:
@@ -238,7 +238,7 @@ translate portuguese d19s04dw_db0d3f44:
 translate portuguese d19s04dw_d7c2c553:
 
 
-    mc "Mestra, eu não consigo! Eu vou gozar!"
+    mc "Senhora, eu não consigo! Eu vou gozar!"
 
 
 translate portuguese d19s04dw_53167eac:
@@ -268,19 +268,19 @@ translate portuguese d19s04dw_232d30a9:
 translate portuguese d19s04dw_a33f6498:
 
 
-    mc "Mestra... Se me permite..."
+    mc "Senhora... Se me permite..."
 
 
 translate portuguese d19s04dw_85f05636:
 
 
-    mc "O orgasmo da mestra é incrível."
+    mc "O orgasmo da Senhora é incrível."
 
 
 translate portuguese d19s04dw_7a82f74a:
 
 
-    mc "Espero que a Mestra também esteja gostando."
+    mc "Espero que a Senhora também esteja gostando."
 
 
 translate portuguese d19s04dw_24340b5c:
@@ -304,7 +304,7 @@ translate portuguese d19s04dw_b18a06ec:
 translate portuguese d19s04dw_9566cc04:
 
 
-    mc "Obrigado, Mestra."
+    mc "Obrigado, Senhora."
 
 
 translate portuguese d19s04dw_d6458392:
@@ -316,7 +316,7 @@ translate portuguese d19s04dw_d6458392:
 translate portuguese d19s04dw_9566cc04_1:
 
 
-    mc "Obrigado, Mestra."
+    mc "Obrigado, Senhora."
 
 
 translate portuguese d19s04dw_67970cc9:
@@ -352,7 +352,7 @@ translate portuguese d19s04dw_693e803c:
 translate portuguese d19s04dw_204c445a:
 
 
-    mc "Eu-ahm, digo, onde estava planejando ir, Mestra?"
+    mc "Eu-ahm, digo, onde estava planejando ir, Senhora?"
 
 
 translate portuguese d19s04dw_13ca4a30:
@@ -400,7 +400,7 @@ translate portuguese d19s04dw_bbe97997:
 translate portuguese d19s04dw_089c23d6:
 
 
-    mc "Você quer ir embora. Não posso te impedir, Mestra."
+    mc "Você quer ir embora. Não posso te impedir, Senhora."
 
 
 translate portuguese d19s04dw_9b5317d4:
@@ -472,7 +472,7 @@ translate portuguese d19s04dw_2df6e076:
 translate portuguese d19s04dw_1ce1ea50:
 
 
-    mc "Eu... Mestra, eu não..."
+    mc "Eu... Senhora, eu não..."
 
 
 translate portuguese d19s04dw_170db055:
@@ -538,7 +538,7 @@ translate portuguese d19s04dw_7daf6949:
 translate portuguese d19s04dw_7fd3a623_2:
 
 
-    mc "Sim, Mestra."
+    mc "Sim, Senhora."
 
 translate portuguese strings:
 
@@ -553,4 +553,5 @@ translate portuguese strings:
 
     old "No..."
     new "Não..."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -192,7 +192,7 @@ translate russian strings:
     old "Jerome"
     new "Джером"
 
-    old "The Judge"
+    old "Judge"
     new "Судья"
 
     old "Woman"
@@ -221,4 +221,28 @@ translate russian strings:
 
     old "Ezra"
     new "Эзра"
+
+    old "Debbie"
+    new "Дебби"
+
+    old "Gemma"
+    new "Джемма"
+
+    old "Harry"
+    new "Гарри"
+    
+    old "Lily"
+    new "Лили"
+
+    old "Room Service"
+    new "Обслуживание номеров"
+
+    old "Domina"
+    new "Домина"
+
+    old "Janet"
+    new "Джанет"
+
+    old "Gary"
+    new "Гэри"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

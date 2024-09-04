@@ -52,5 +52,18 @@ define fl_achievements = {
     "e16_unlock" : "E16_ANIMAL_FARM", 
     "e17_unlock" : "E17_CHEWBACCA_DEFENSE", 
     "e18_unlock" : "E18_FOUR_OF_A_KIND", 
-}
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    "e04_finish" : "E04_HOT_PRISONER_HAREM", 
+    "e07_finish" : "E07_THE_FINE_PRINT", 
+    "e11_finish" : "E11_SEE_THAT_SMILE", 
+    "e12_finish" : "E12_MY_RED_DAWN", 
+    "e14_finish" : "E14_THE_PERFECT_SUNSET", 
+    "e17_finish" : "E17_MOMENT_OF_SURRENDER", 
+    "dlc01n01"   : "DLC1_YOU_WANTED_MORE", 
+    "dlc01n02"   : "DLC1_DAY_AND_NIGHT", 
+    "dlc01n03"   : "DLC1_A_LUCKY_DOZEN", 
+    "e14s06n01"  : "E14_GO_DEBBIE_GO", 
+    "e07s07n01"  : "E07_FULLY_COOKED", 
+    "e04s08n01"  : "E04_FULL_HOUSE", 
+    }
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

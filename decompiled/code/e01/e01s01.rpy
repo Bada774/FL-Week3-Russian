@@ -473,7 +473,6 @@ label e01s01_choice_done:
     play voice3 stacy_suckmoan3 noloop
     sy "Let's start off by waking him up first."
 
-
     $ Lovense.stop()
 
     scene e01s01-61 sy-takes-mc-flaccid-cock_c1 with dissolve
@@ -768,7 +767,7 @@ label e01s01_choice_done:
     scene e01s01-91 sy-close-wants-cum-together_c1 with dissolve
     sy "*Louder and louder moans* Fuuuck, I'm gonna cum! Cum with me!"
     menu:
-        "Cum inside"(hint="e01s01m01c01") if True:
+        "Cum inside"(hint="e01s01m01c01"):
             $ e01s01_asspie = True
 
             play sound sfx_spitcum1
@@ -781,7 +780,7 @@ label e01s01_choice_done:
             scene e01s01-93 sy-orgasmic-bliss_c1 with dissolve
             play voice3 polly_breathing noloop
             sy "*Quivers and whimpers* I can feel your cum inside. It feels warm."
-        "Cum outside"(hint="e01s01m01c02") if True:
+        "Cum outside"(hint="e01s01m01c02"):
 
             play voice2 mc_pain_argh1 noloop
             play voice3 stacy_orgasmed noloop
@@ -1412,10 +1411,6 @@ label e01s01_scene_watersports:
     play voice3 min_old_sinking
     scene e01s01-115-01 sy-chokes-on-piss_c1 with dissolve
     sy "*Gurgling*"
-
-
-
-
     play voice3 iona_mfff3 noloop
     play sound gulp
     stop sound3 fadeout 1.0
@@ -1805,7 +1800,7 @@ label e01s01_inbetween_finale:
     play voice3 stacy_upset1 noloop
     sy "{size=20}I wouldn't mind another round or two... {i}If you have it in you.{/i}{/size}"
     menu:
-        "Let's do it all over again"(hint="e01s01m03c01") if True:
+        "Let's do it all over again"(hint="e01s01m03c01"):
             $ e01s01_go_again += 1
             play sound sfx_cloth_rustling2 volume 2.0
             scene e01s01-155 mc-gets-top-of-sy_c1 with dissolve
@@ -1813,7 +1808,7 @@ label e01s01_inbetween_finale:
             mc "Oh, I can go for as {i}long{/i} as you want."
 
             jump e01s01_generate
-        "Let's finish this"(hint="e01s01m03c02") if True:
+        "Let's finish this"(hint="e01s01m03c02"):
 
             play sound sfx_cloth_rustling2 volume 2.0
             scene e01s01-155 mc-gets-top-of-sy_c1 with dissolve
@@ -1847,7 +1842,7 @@ label e01s01_finale:
     sy "Cum— Cum with me, [mcname]. Please."
     scene e01s01-116-01 sy-wants-cum-mc-cum-with-her_c1 with dissolve
     menu:
-        "Cum outside"(hint="e01s01m02c01") if True:
+        "Cum outside"(hint="e01s01m02c01"):
             play voice3 stacy_moan3 noloop
             play voice2 d1s5_orgasm2 noloop
             $ Lovense.stop()
@@ -1857,7 +1852,7 @@ label e01s01_finale:
             play voice3 stacy_orgasmed noloop
             scene e01s01-116-03 sy-cums-aswell_c1 with vpunch
             pause
-        "Cum inside"(hint="e01s01m02c02") if True:
+        "Cum inside"(hint="e01s01m02c02"):
 
             $ e01s01_creampie = True
             play voice3 stacy_moan3 noloop
@@ -1911,11 +1906,11 @@ label e01s01_finale:
     play voice3 polly_angry noloop
     sy "I'll explain on the way! Get dressed!"
 
-
     $ Lovense.stop()
     $ renpy.end_replay()
 
     stop music2 fadeout 3.5
 
     jump e01s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

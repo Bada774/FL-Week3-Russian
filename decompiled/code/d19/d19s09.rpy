@@ -216,7 +216,6 @@ label replay_d19s09 hide:
 
     stop music fadeout 3.0
 
-
     $ Lovense.stop()
 
     scene d19s09-05-01 sy-dims-lights_c1 with dissolve
@@ -594,9 +593,9 @@ label replay_d19s09 hide:
         jump d19s09_double_bj
     elif True:
         menu:
-            "Suggest AmRose rim you while Stacy blows you"(hint="d19s09m01c01") if True:
+            "Suggest AmRose rim you while Stacy blows you"(hint="d19s09m01c01"):
                 jump d19s09_arj_rim
-            "Continue the double blowjob instead"(hint="d19s09m01c02") if True:
+            "Continue the double blowjob instead"(hint="d19s09m01c02"):
 
                 jump d19s09_double_bj
 
@@ -842,10 +841,10 @@ label d19s09_double_bj:
 label d19s09_choose:
 
     menu:
-        "Fuck AmRose"(hint="d19s09m02c01") if True:
+        "Fuck AmRose"(hint="d19s09m02c01"):
             $ d19s09_fuck_arj = True
             jump d19s09_fuck_arj
-        "Fuck Stacy"(hint="d19s09m02c02") if True:
+        "Fuck Stacy"(hint="d19s09m02c02"):
 
             $ d19s09_fuck_sy = True
             jump d19s09_fuck_sy
@@ -897,7 +896,7 @@ label d19s09_fuck_arj:
     sy "The taste of [mcname]'s precum and your wetness is fucking intoxicating."
     pause
     menu:
-        "Cum"(hint="d19s09m03c01") if True:
+        "Cum"(hint="d19s09m03c01"):
 
             $ d19s09_creampie_arj = True
 
@@ -922,7 +921,7 @@ label d19s09_fuck_arj:
             pause
 
             jump d19s09_end
-        "Switch"(hint="d19s09m03c02") if True:
+        "Switch"(hint="d19s09m03c02"):
 
 
             stop voice3 fadeout 1.0
@@ -999,7 +998,7 @@ label d19s09_fuck_sy:
     scene d19s09-sy-a8 with dissolve
     pause
     menu:
-        "Cum"(hint="d19s09m04c01") if True:
+        "Cum"(hint="d19s09m04c01"):
 
             $ d19s09_creampie_sy = True
 
@@ -1029,7 +1028,7 @@ label d19s09_fuck_sy:
             pause
 
             jump d19s09_end
-        "Switch"(hint="d19s09m04c02") if True:
+        "Switch"(hint="d19s09m04c02"):
 
 
             stop voice3 fadeout 1.0
@@ -1040,7 +1039,6 @@ label d19s09_fuck_sy:
             jump d19s09_fuck_arj
 
 label d19s09_end:
-
 
     $ Lovense.stop()
 
@@ -1176,4 +1174,5 @@ label d19s09_end:
     stop voice4 fadeout 3.0
 
     jump d20s00
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -115,10 +115,10 @@ translate italian after_credits_a17db195:
     sy "Aspetta, la conosci?"
 
 
-translate italian after_credits_6daca271:
+translate italian after_credits_870c1bff:
 
 
-    dd "Sì, lei viena dall'Università Vinovella!"
+    dd "Sì, lei viena dall'Università Taboo!"
 
 
 translate italian after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate italian after_credits_73eb5eb5:
     sy "Lo so! Non vedo l'ora di vedere cosa ViNovella ha preparato per noi!"
 
 
-translate italian after_credits_e4b3c0d3:
+translate italian after_credits_826b65f0:
 
 
-    dd "Ma cosa dire dell'Università Vinovella però?"
+    dd "Ma cosa dire dell'Università Taboo però?"
 
 
 translate italian after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate italian after_credits_47a5d0a5:
     dd "Hey, Piacere di conoscerti!"
 
 
-translate italian after_credits_37ad6ed0:
+translate italian after_credits_f1d2352a:
 
 
-    dd "Come va all'Università Vinovella? Qual è il prossimo?"
+    dd "Come va all'Università Taboo? Qual è il prossimo?"
 
 
-translate italian after_credits_cbe5ee17:
+translate italian after_credits_75e46767:
 
 
-    sm "Oh? Hai giocato a VU?"
+    sm "Oh? Hai giocato a TU?"
 
 
 translate italian after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate italian after_credits_23a10f35:
     dd "*Ride* Scusa! Non ho potuto farne a meno."
 
 
-translate italian after_credits_470ffbdd:
+translate italian after_credits_166c44bf:
 
 
-    sy "Voi due sapete quando sarà disponibile una versione completa di Vu? Voglio giocarlo tutto in una volta."
+    sy "Voi due sapete quando sarà disponibile una versione completa di TU? Voglio giocarlo tutto in una volta."
 
 
 translate italian after_credits_4041f0a9:
@@ -373,10 +373,10 @@ translate italian after_credits_321e2b80:
     sy "Oh? Aspetta, il Book-1 è come Week-1 in Fetish Locator?"
 
 
-translate italian after_credits_99a25d72:
+translate italian after_credits_175f3ea2:
 
 
-    sm "Diciamo. Ogni VU Book sarà {i}molto{/i} più grande di FL Week."
+    sm "Diciamo. Ogni TU Book sarà {i}molto{/i} più grande di FL Week."
 
 
 translate italian after_credits_03943779:
@@ -619,10 +619,75 @@ translate italian strings:
     new "Il leggendario Fetish Locator tornerà"
 
 
+translate italian after_credits_b06da193:
 
 
-translate italian after_credits_cb03f950:
+    sy "Dovrei decisamente aggiungere {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}alla wishlist di Stean il gioco{/u}{/a} dunque!"
 
 
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+translate italian after_credits_dcd001ba:
+
+
+    sy "E' così triste! Credevo fossi morta."
+
+
+translate italian after_credits_5a67dd3f:
+
+
+    sy "*tira su col naso*"
+
+
+translate italian after_credits_3b9a74dd:
+
+
+    dd "Hey, va tutto bene. Ora sono sana come una pasqua."
+
+
+translate italian after_credits_62dbb988:
+
+
+    sy "*tirando su col naso* Lo so. *sniff* Sono felice che tu stia bene."
+
+
+translate italian after_credits_de67d958:
+
+
+    dd "Mmmhmm. Anche io, Stacy."
+
+
+translate italian after_credits_697eed2b:
+
+
+    dd "E non dimenticare. Con me c'è un altro finale!"
+
+
+translate italian after_credits_26d7f508:
+
+
+    sy "Oh...giusto."
+
+
+translate italian after_credits_ae828622:
+
+
+    sy "Mi ero quasi dimenticata del finale di Sex Dungeon!"
+
+
+translate italian after_credits_a73caa2e:
+
+
+    dd "Non dimenticarti dell'altro finale, Stacy. Diventerò un'eccitante bambola gonfiabile in lattice nel nostro Sex Dungeon!"
+
+
+translate italian after_credits_83a2ed10:
+
+
+    sy "Sì... Quel finale sembra divertente."
+
+
+translate italian after_credits_f4cf666b:
+
+
+    sy "Non vedo l'ora di godermelo con te."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -259,7 +259,7 @@ translate portuguese strings:
     new "EU QUERO FICAR COM\nO FETISH LOCATOR"
 
 
-    old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
+    old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
     new "PARA ME CERTIFICAR QUE\nNINGUÉM VAI SER CHANTAGEADO"
 
 
@@ -301,4 +301,69 @@ translate portuguese strings:
 
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
     new "PONTUAÇÃO\nMÁXIMA :\n[persistent.minigame_max_score]"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+    old "30. What? You wanted more?"
+    new "30. O quê? Você queria mais?"
+
+
+    old "Finish all 6 Endings from DLC-1"
+    new "Termine todos os 6 Finais do DLC-1"
+
+
+    old "31. Go Debbie Go"
+    new "31. Vai Debbie Vai"
+
+
+    old "Have sex with Debbie"
+    new "Faça sexo com a Debbie"
+
+
+    old "32. Fully Cooked"
+    new "32. Bem Passado"
+
+
+    old "Get max points in Lydia's challenges in e07"
+    new "Consiga a pontuação máxima no desafio da Lydia no e07"
+
+
+    old "33. Full House"
+    new "33. Casa Cheia"
+
+
+    old "Play with all the characters in e04"
+    new "Jogue com todas personagens no e04"
+
+
+    old "34. Day and Night"
+    new "34. Dia e Noite"
+
+
+    old "Finish e04 and e07"
+    new "Complte e04 e e07"
+
+
+    old "35. A lucky dozen"
+    new "35. A dúzia da sorte"
+
+
+    old "Finish 12 endings"
+    new "Complete 12 finais"
+
+
+    old "ORNY"
+    new "OGOSA"
+
+
+    old "H"
+    new "F"
+
+
+    old "UNGRY"
+    new "AMINTA"
+
+
+    old "APPY"
+    new "ELIZ"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

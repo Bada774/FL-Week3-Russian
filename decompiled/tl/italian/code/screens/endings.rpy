@@ -33,4 +33,13 @@ translate italian strings:
 
     old "Exit to Mainmenu"
     new "Ritorna al Menu Principale"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+translate italian strings:
+
+
+    old "Download free DLC containing this ending"
+    new "Download free DLC containing this ending"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

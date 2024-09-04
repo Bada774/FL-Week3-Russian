@@ -192,7 +192,6 @@ label d20s05_mes_house:
     play voice2 d2s12_emmm noloop
     mc "I didn't..."
 
-
     $ Lovense.stop()
 
     scene d20s05-20 mc-mes-shush with dissolve
@@ -370,10 +369,6 @@ label d20s05_pool:
     scene d20s05-a8 with dissolve
     pause
     stop sound3 fadeout 1.0
-
-
-
-
     stop voice3 fadeout 1.0
     play sound2 sfx_pool_ambience1 fadein 2.5
     play sound sfx_water_floatup1
@@ -457,7 +452,6 @@ label d20s05_pool:
     play voice2 mc_yes_yeah1 noloop
     mc "I look forward to-"
     mes "I know you do. Just enjoy this moment while we can."
-
 
     $ Lovense.stop()
 
@@ -692,10 +686,10 @@ label ending_10_return hide:
     $ unlock_ending("10")
     call update_ending_variables from _call_update_ending_variables_6
     menu:
-        "Leave Town With Min"(hint="d20s05m02c01") if True:
+        "Leave Town With Min"(hint="d20s05m02c01"):
             $ d20s05_mes_solo = True
             jump d20s05_mes_end
-        "Talk About Your Summer Plans"(hint="d20s05m02c02") if True:
+        "Talk About Your Summer Plans"(hint="d20s05m02c02"):
 
             jump d20s05_continue
 
@@ -873,4 +867,5 @@ label d20s05_continue hide:
 label d20s05_end:
 
     jump d20s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

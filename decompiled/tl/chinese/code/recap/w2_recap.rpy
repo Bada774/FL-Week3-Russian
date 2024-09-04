@@ -1601,4 +1601,5 @@ translate chinese strings:
 
     old "Recap of Week-2 Events"
     new "第二周前情回顾"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

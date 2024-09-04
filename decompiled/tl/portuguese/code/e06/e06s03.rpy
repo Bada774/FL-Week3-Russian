@@ -1891,4 +1891,5 @@ translate portuguese strings:
 
     old "A Few Days Later"
     new "Alguns Dias Depois"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

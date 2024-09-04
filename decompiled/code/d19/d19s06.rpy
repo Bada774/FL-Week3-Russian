@@ -123,10 +123,10 @@ label d19s06_video_choice:
     play voice2 d2s9_confused noloop
     mct "Should I purchase the video?"
     menu:
-        "Purchase"(hint="d19s06m03c01") if True:
+        "Purchase"(hint="d19s06m03c01"):
             $ d19s06_purchase_video = True
             jump d19s06_video
-        "Don't"(hint="d19s06m03c02") if True:
+        "Don't"(hint="d19s06m03c02"):
 
             play voice2 mc_no_nah1 noloop
             mct "No thanks. I don't need to see that."
@@ -213,7 +213,6 @@ label d19s06_video:
     play voice3 amrose_old_psst2 noloop
     scene d19s06-33 arj-whisper-cl-ear_c1 with dissolve
     play voice2 mc_arrogant_huh3 noloop
-
 
     $ Lovense.stop()
 
@@ -397,7 +396,6 @@ label d19s06_video:
     pause
     stop sound fadeout 1.0
 
-
     $ Lovense.stop()
 
     scene d19s06-70 feed-over-cut-mc_c1 with fade
@@ -467,10 +465,10 @@ label d19s06_lewald:
         mct "I should give her a call now."
 
     menu:
-        "Call Prof. Lewald"(hint="d19s06m01c01") if True:
+        "Call Prof. Lewald"(hint="d19s06m01c01"):
             $ d19s06_call_tl = True
             pass
-        "Do Not to Influence Prof Lewald"(hint="d19s06m01c02") if True:
+        "Do Not to Influence Prof Lewald"(hint="d19s06m01c02"):
 
             stop sound4 fadeout 3.0
             stop music fadeout 3.0
@@ -587,7 +585,7 @@ label d19s06_lewald:
     mc "I think you misunderstood me."
     tl "Oh?"
     menu:
-        "Just the Professor"(hint="d19s06m02c01") if True:
+        "Just the Professor"(hint="d19s06m02c01"):
             play voice2 d4s4_mclaugh noloop
             mc "Cynthia shouldn't be there. Just you, Professor."
 
@@ -666,4 +664,5 @@ label d19s06_lewald:
     stop sound4 fadeout 3.0
     stop music fadeout 3.0
     jump d19s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

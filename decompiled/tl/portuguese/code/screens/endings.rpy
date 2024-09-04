@@ -33,4 +33,13 @@ translate portuguese strings:
 
     old "Exit to Mainmenu"
     new "Sair para o Menu Principal"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+translate portuguese strings:
+
+
+    old "Download free DLC containing this ending"
+    new "Baixe DLC grátis contendo este final"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

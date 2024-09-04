@@ -569,4 +569,5 @@ translate portuguese e02s02_e94ef34d:
 
 
     mh "Vira para a esquerda, segue a trilha, e evita bater nas árvores. Te vejo lá embaixo."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -4,7 +4,7 @@
 translate russian e10s06_4379716e:
 
     # mc "C'mon, just a little more..."
-    mc "Давай, ещё немного..."
+    mc "Ну же, ещё немного..."
 
 # game/code/e10/e10s06.rpy:64
 translate russian e10s06_7d3f3bd6:
@@ -70,7 +70,7 @@ translate russian e10s06_a727b3a6:
 translate russian e10s06_97436d37:
 
     # mc "I guess we should start saying \"15th time's the charm\", huh?"
-    mc "Думаю, мне стоит начать с: \"15-й раз - это прелесть\", да?"
+    mc "Думаю, мне стоит начать с: \"На 15-й раз - у нас получилось\", да?"
 
 # game/code/e10/e10s06.rpy:138
 translate russian e10s06_59a940a3:
@@ -100,7 +100,7 @@ translate russian e10s06_a17d7888:
 translate russian e10s06_c9b249f9:
 
     # mc "I know that we have a couple perfectionists in here that might be beating themselves up a bit over how it took us 15 iterations to get here."
-    mc "Я знаю, что у нас здесь есть пара перфекционистов, которые, возможно, немного корят себя из-за того, что нам потребовалось целых 15 итераций, чтобы этого достичь."
+    mc "Я знаю, что у нас здесь есть пара перфекционистов, которые, возможно, немного корят себя из-за того, что нам потребовалось целых 15 итераций, чтобы достичь этого."
 
 # game/code/e10/e10s06.rpy:148
 translate russian e10s06_2e69b944:
@@ -334,7 +334,7 @@ translate russian e10s06_after_video_318fa452:
 translate russian e10s06_after_video_d170b01b:
 
     # mes "Cum inside of me, [mcname]. I want to feel your cum dripping out of me while we walk home tonight."
-    mes "Кончи в меня, [mcname]. Я хочу чувствовать, как твоя сперма вытекает из меня, когда мы сегодня пойдём домой."
+    mes "Кончи в меня, [mcname]. Я хочу чувствовать, как из меня вытекает твоя сперма, пока мы сегодня будем идти домой."
 
 # game/code/e10/e10s06.rpy:524
 translate russian e10s06_after_video_152140b4:

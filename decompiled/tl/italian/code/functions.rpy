@@ -15,11 +15,11 @@ translate italian strings:
     new "Hai sbloccato un nuovo contenuto bonus"
 
 
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "Il gioco riprodurrà la scena\nsecondo un playthrough predefinito"
+    old "The game will replay the scene according to a default playthrough"
+    new "Il gioco riprodurrà la scena secondo un playthrough predefinito"
 
 
-    old "The game will try to replay the scene\naccording to your current playthrough"
+    old "The game will try to replay the scene according to your current playthrough"
     new "Il gioco cercherà di riprodurre la scena in base al tuo gioco attuale"
 
 
@@ -36,5 +36,6 @@ translate italian strings:
 
 
     old "You have unlocked Ending #{}"
-    new "You have unlocked Ending #{}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Hai sbloccato il Finale #{}"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -307,7 +307,6 @@ label e08s07_night:
     mc "Anything for my wife."
     mc "Not to toot my own horn, but I think I've finally mastered that Chili Skillet recipe."
 
-
     $ Lovense.stop()
 
     $ Lovense.vibrate(1)
@@ -381,13 +380,13 @@ label e08s07_continue:
     arj "And I am horny as hell right now..."
     arj "You're going to need all the help you can get, buster."
     menu:
-        "Invite Stacy into a threesome"(hint="e08s07m01c01") if True:
+        "Invite Stacy into a threesome"(hint="e08s07m01c01"):
             $ e08s07_invite_sy = True
             scene e08s07-80 mc-agrees-invite-sy_c1 with dissolve
             play voice2 mc_yes_okay2 noloop
             mc "Alright, I'll go get her."
             jump e08s07_arj_sy
-        "Don't invite Stacy"(hint="e08s07m01c02") if True:
+        "Don't invite Stacy"(hint="e08s07m01c02"):
 
             scene e08s07-144 mc-enough-for-arj-no-sy-needed-arj-put-theory-to-test_c1 with dissolve
             play voice2 mc_no_nah2 noloop
@@ -441,8 +440,6 @@ label e08s07_arj_sy:
     scene e08s07-90 arj-kiss-mc-sy-massage-cock-with-foot_c1 with dissolve
     pause
     scene e08s07-91 arj-tells-sy-scoot-over-dominantly_c1 with dissolve
-
-
     play voice3 amrose_angry_ehh noloop
     arj "Now scoot."
     play sound sfx_cloth_rustling4
@@ -519,7 +516,7 @@ label e08s07_arj_sy:
     scene e08s07-a99-4-f with dissolve
     pause
     menu:
-        "Cum inside of AmRose"(hint="e08s07m02c01") if True:
+        "Cum inside of AmRose"(hint="e08s07m02c01"):
             $ e08s07_cum_inside = False
 
             play voice2 d1s5_orgasm2 noloop
@@ -538,7 +535,7 @@ label e08s07_arj_sy:
             play voice4 daisy_dlick noloop volume 1.6
             scene e08s07-102 sy-licks-fingers_c1 with dissolve
             pause
-        "Cum on AmRose's face"(hint="e08s07m02c02") if True:
+        "Cum on AmRose's face"(hint="e08s07m02c02"):
 
 
             play voice2 d1s5_orgasm2 noloop
@@ -797,7 +794,6 @@ label e08s07_sy_arj_final:
     scene e08s07-143 gang-falls-asleep-fade-black_c1 with dissolve
     pause
 
-
     $ Lovense.stop()
 
     jump e08s07_next_day
@@ -841,9 +837,6 @@ label e08s07_arj_only:
     $ Lovense.vibrate(3)
     scene e08s07-148 arj-tastes-good_c1 with dissolve
     arj "Mrrmmm... So good..."
-
-
-
     scene e08s07-149 arj-stands-push-mc-back_c1 with dissolve
     pause
     play sound sfx_bed_fall1
@@ -945,7 +938,7 @@ label e08s07_arj_only:
     arj "Haha. Mrraah... you chose..."
     scene e08s07-164 mc-readies-arj-for-cumshot_c1 with dissolve
     menu:
-        "Cum inside your wife"(hint="e08s07m03c01") if True:
+        "Cum inside your wife"(hint="e08s07m03c01"):
             $ e08s07_cum_inside_solo = False
 
             play voice2 d9s5_auch2 noloop
@@ -970,9 +963,8 @@ label e08s07_arj_only:
             play voice3 stacy_smell noloop
             arj "Sweet dreams, my love..."
 
-
             $ Lovense.stop()
-        "Cum on your wife's face"(hint="e08s07m03c02") if True:
+        "Cum on your wife's face"(hint="e08s07m03c02"):
 
             play voice2 d9s5_auch2 noloop
             play voice3 amrose_sex_orgasm3 noloop
@@ -999,7 +991,6 @@ label e08s07_arj_only:
             mc "Good night, honey."
             play voice3 stacy_smell noloop
             arj "Sweet dreams, my love..."
-
 
             $ Lovense.stop()
 
@@ -1089,4 +1080,5 @@ label e08s07_end:
     stop music fadeout 3.0
 
     jump end
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

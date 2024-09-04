@@ -1071,4 +1071,5 @@ translate chinese strings:
 
     old "Let the girls think it was entirely up to them"
     new "让女孩们认为这完全取决于她们。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

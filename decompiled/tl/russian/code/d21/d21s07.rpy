@@ -1144,7 +1144,7 @@ translate russian d21s07_offer_p2_adb616a9:
 translate russian d21s07_offer_p2_b2daac71:
 
     # mc "No.{w} As Hartigan famously said, \"There's wrong, and there's wrong, and there's *this*\"."
-    mc "Нет.{w} Как говорил Хартиган: \"Это неправильно, и это не хорошо, ещё и *это*\". \n\n{size=-10}{i}(Цитата Джона Хартигана - персонажа, из фильма \"Город грехов\"){/i}{/size}"
+    mc "Нет.{w} Как говорил Хартиган: \"Это неправильно, и это не хорошо, ещё и *это*\". \n\n{size=-10}{i}Цитата Джона Хартигана - персонажа, из фильма \"Город грехов\".{/i}{/size}"
 
 # game/code/d21/d21s07.rpy:640
 translate russian d21s07_offer_p2_6444dae3:

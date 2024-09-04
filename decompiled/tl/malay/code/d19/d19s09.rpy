@@ -941,4 +941,5 @@ translate malay d19s09_end_9cc11ce7:
 
 
     sy "Ianya... {w}agak menarik. Siapa yang membinanya bukanlah sebodoh mana..."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

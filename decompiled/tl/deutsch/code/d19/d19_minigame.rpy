@@ -4,5 +4,6 @@ translate deutsch strings:
 
 
     old "Skip"
-    new "Skip"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Überspringen"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

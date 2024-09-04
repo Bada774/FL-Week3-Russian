@@ -204,7 +204,7 @@ label e06s06:
     play voice4 lissa_mmm1 noloop
     mh "Mmm. Sounds like you have quite the appetite, [mcname]."
     menu:
-        "Thank Lyssa and leave"(hint="e06s06m01c01") if True:
+        "Thank Lyssa and leave"(hint="e06s06m01c01"):
             play sound sfx_cloth_rustling1
             scene e06s06-37 menu_shake_hand_mc_talk with dissolve
             play voice2 d1s5_mcthinks noloop volume 1.7
@@ -293,7 +293,6 @@ label e06s06_mh_harem:
     stop music fadeout 3.0
     scene e06s06-59 menu_join_harem_mh_talk_undress with dissolve
     pause
-
 
     $ Lovense.stop()
 
@@ -607,10 +606,10 @@ label e06s06_mh_harem:
     play voice5 amrose_disappointed_ah noloop
     arj "Don't leave me waiting too long, [mcname]."
     menu:
-        "Fuck Lyssa and she fucks AmRose"(hint="e06s06m02c01") if True:
+        "Fuck Lyssa and she fucks AmRose"(hint="e06s06m02c01"):
             $ e06s06_mh_arj = True
             jump e06s06_fuck_mh
-        "Lyssa fucks you and you fuck AmRose"(hint="e06s06m02c03") if True:
+        "Lyssa fucks you and you fuck AmRose"(hint="e06s06m02c03"):
 
             $ e06s06_mh_mc = True
             jump e06s06_fuck_arj
@@ -759,7 +758,7 @@ label e06s06_fuck_mh:
             $ Lovense.stop()
             $ Lovense.vibrate(2)
             jump e06s06_fuck_arj
-        "Finish"(hint="e06s06m03c02") if True:
+        "Finish"(hint="e06s06m03c02"):
 
             jump e06s06_finish_1
 
@@ -930,7 +929,7 @@ label e06s06_fuck_arj:
             $ Lovense.stop()
             $ Lovense.vibrate(3)
             jump e06s06_fuck_mh
-        "Finish"(hint="e06s06m04c02") if True:
+        "Finish"(hint="e06s06m04c02"):
 
             stop sound fadeout 1.0
             stop voice3 fadeout 1.0
@@ -1032,7 +1031,6 @@ label e06s06_finish_2:
 
 label e06s06_last_talk:
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -1064,4 +1062,5 @@ label e06s06_end:
 
     stop music fadeout 3.5
     jump e06s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

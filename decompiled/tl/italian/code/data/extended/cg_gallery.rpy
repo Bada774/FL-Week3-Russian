@@ -199,14 +199,34 @@ translate italian strings:
     new "Finale 13: Nora Incinta"
 
 
+    old "Ending 12: Vanessa & Allison"
+    new "Finale 12: Vanessa & Allison"
+
+
+    old "Ending 14: Polly & Nora"
+    new "Finale 14: Polly & Nora"
+
 
 translate italian strings:
 
 
-    old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    old "Ending 11: Daisy"
+    new "Ending 11: Daisy"
 
 
-    old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    old "Ending 17: Dahlia"
+    new "Ending 17: Dahlia"
+
+
+
+translate italian strings:
+
+
+    old "Ending 04: Girls"
+    new "Ending 04: Girls"
+
+
+    old "Ending 07: Girls"
+    new "Ending 07: Girls"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

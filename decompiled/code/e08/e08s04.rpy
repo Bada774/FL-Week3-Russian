@@ -502,7 +502,7 @@ label e08s04_bathtub:
     arj "Are you sure about this?"
 
     menu:
-        "Dunk her head in the water"(hint="e08s04m01c01") if True:
+        "Dunk her head in the water"(hint="e08s04m01c01"):
             $ e08s04_head_dunk = True
 
             scene e08s04-82 mc-choice_c1 with dissolve
@@ -521,10 +521,9 @@ label e08s04_bathtub:
             arj "Stick it."
             play voice2 mc_yes_okay3 noloop
             mc "Works for me."
-        "Don't dunk her head in the water"(hint="e08s04m01c02") if True:
+        "Don't dunk her head in the water"(hint="e08s04m01c02"):
 
             pass
-
 
     $ Lovense.stop()
 
@@ -739,7 +738,6 @@ label e08s04_bathtub:
     mc "What are you going to do?"
     arj "I got a few ideas."
 
-
     $ Lovense.stop()
     $ renpy.end_replay()
 
@@ -937,4 +935,5 @@ label e08s04_next_morning:
 
     stop sound2 fadeout 3.0
     jump e08s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

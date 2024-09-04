@@ -22,7 +22,7 @@ translate russian e06s04_fa102d42:
 translate russian e06s04_6be74b0a:
 
     # mc "Welcome to la Casa de Cox."
-    mc "Добро пожаловать в \"la Casa de Cox\".\n\n{size=-10}{i}(испан. la Casa de Cox - дом Кокс){/i}{/size}"
+    mc "Добро пожаловать в \"la Casa de Cox\".\n\n{size=-10}{i}Испан. Дом Кокс.{/i}{/size}"
 
 # game/code/e06/e06s04.rpy:41
 translate russian e06s04_032676d2:
@@ -136,7 +136,7 @@ translate russian e06s04_b5b37a2e:
 translate russian e06s04_8d5661a3:
 
     # mes "Mmm. I guess I can be patient. For now. Not like I have to wait as long as Lydia is."
-    mes "Ммм. Ладно, думаю, я смогу потерпеть. Пока что. Всё равно, вряд ли мне придётся ждать так долго, как Лидии."
+    mes "Ммм. Ладно, думаю, я смогу потерпеть. Пока что. Навряд ли мне придётся ждать так долго, как Лидии."
 
 # game/code/e06/e06s04.rpy:156
 translate russian e06s04_df5835f9:
@@ -172,13 +172,13 @@ translate russian e06s04_0a979c32:
 translate russian e06s04_18356222:
 
     # mes "Me? Never. If anything, I'm Chaotic Lawful."
-    mes "Я? Никогда. Раз уж на то пошло, то я - Хаотичное Добро.\n\n{size=-10}{i}(Отсылка к системе характеров персонажей из настольной игры \"Dungeons & Dragons\"){/i}{/size}"
+    mes "Я? Никогда. Раз уж на то пошло, то я - Хаотичное Добро.\n\n{size=-10}{i}Отсылка к системе характеров персонажей из настольной игры \"Dungeons & Dragons\".{/i}{/size}"
 
 # game/code/e06/e06s04.rpy:180
 translate russian e06s04_473111d5:
 
     # mes "Stacy, on the other hand, is completely Chaotic Neutral."
-    mes "А вот Стейси, совершенно Хаотичная Нейтральность."
+    mes "А вот Стейси, совершенная Хаотичная Нейтральность."
 
 # game/code/e06/e06s04.rpy:183
 translate russian e06s04_5305554f:
@@ -250,7 +250,7 @@ translate russian e06s04_b02fe471:
 translate russian e06s04_4a8a9e5a:
 
     # mes "Fairest thing in the world. Everyone knows international dibs rules."
-    mes "Самая справедливая вещь на свете. Все знают международные правила преимущества выбора.\n\n{size=-10}{i}(англ. International Dibs Protocol - правила для друзей и семей, чтобы предостеречь их от споров за собственность. Русский аналог - чур моё){/i}{/size}"
+    mes "Самая справедливая вещь на свете. Все знают международные правила преимущества выбора.\n\n{size=-10}{i}Англ. International Dibs Protocol - правила для друзей и семей, чтобы предостеречь их от споров за собственность. Русский аналог - чур моё.{/i}{/size}"
 
 # game/code/e06/e06s04.rpy:228
 translate russian e06s04_93e79b50:
@@ -334,7 +334,7 @@ translate russian e06s04_drinks_176560fe:
 translate russian e06s04_drinks_871bd10a:
 
     # sy "Wow. That's actually not bad at all, Lydia. You could give Iona a run for her money."
-    sy "Ух ты. Это очень даже неплохо, Лидия. Ты могла бы отбирать у Ионы деньги."
+    sy "Ух ты. Лидия, это очень даже неплохо. Ты могла бы отбирать у Ионы деньги."
 
 # game/code/e06/e06s04.rpy:290
 translate russian e06s04_drinks_e79a2d54:
@@ -430,7 +430,7 @@ translate russian e06s04_later_7f6f836d:
 translate russian e06s04_later_161ab4ba:
 
     # mc "Yoza!"
-    mc "Yoza!\n\n{size=-10}{i}(Yoza - что-то вроде \"Ура\"){/i}{/size}"
+    mc "Yoza!\n\n{size=-10}{i}Yoza - что-то вроде \"Ура\".{/i}{/size}"
 
 # game/code/e06/e06s04.rpy:359
 translate russian e06s04_later_851a97b8:
@@ -622,7 +622,7 @@ translate russian e06s04_later_a851a215:
 translate russian e06s04_later_14f64169:
 
     # lc "We don't need one. We can have it right here."
-    lc "Нам оно не нужно. Мы можем всё провести прямо здесь."
+    lc "Нам оно и не нужно. Мы можем провести всё прямо здесь."
 
 # game/code/e06/e06s04.rpy:452
 translate russian e06s04_later_b917e772:
@@ -640,7 +640,7 @@ translate russian e06s04_later_3c351097:
 translate russian e06s04_later_318460bb:
 
     # lc "We just need a place where the whole harem can witness our wonderful day."
-    lc "Нам просто нужно место, где весь гарем сможет стать свидетелем нашего чудесного дня."
+    lc "Нам просто нужно местечко, где весь гарем сможет стать свидетелем нашего чудесного дня."
 
 # game/code/e06/e06s04.rpy:459
 translate russian e06s04_later_b8c03505:
@@ -670,7 +670,7 @@ translate russian e06s04_later_6c5cdb32:
 translate russian e06s04_later_9963463c:
 
     # lc "All I need is you, [mcname]. Everything else will fall into place, I know it will. I love you, darling."
-    lc "Все, что мне нужно, это ты, [mcname]. Всё остальное само встанет на свои места, я уверена. Я люблю тебя, дорогой."
+    lc "Всё, что мне нужно, это ты, [mcname]. Всё остальное само встанет на свои места, я уверена. Я люблю тебя, дорогой."
 
 # game/code/e06/e06s04.rpy:480
 translate russian e06s04_later_31152f7e:
@@ -682,7 +682,7 @@ translate russian e06s04_later_31152f7e:
 translate russian e06s04_later_a910dc2d:
 
     # sy "I can't believe it, the wedding is coming up very shortly and we haven't planned out a bachelor party for [mcname]!"
-    sy "Поверить не могу, совсем скоро свадьба, а мы не спланировали мальчишник для [mcname]!"
+    sy "Поверить не могу, свадьба совсем скоро, а мы не спланировали мальчишник для [mcname]!"
 
 # game/code/e06/e06s04.rpy:487
 translate russian e06s04_later_1be08199:
@@ -694,7 +694,7 @@ translate russian e06s04_later_1be08199:
 translate russian e06s04_later_cf0a62d7:
 
     # sy "Traditions exist for a reason. Just because [mcname] has all of us doesn't mean we should skip an important moment like this."
-    sy "Традиции существуют не просто так. Тот факт, что у [mcname] есть все мы, не означает, что мы должны пропустить такой важный момент."
+    sy "Традиции существуют не просто так. Тот факт, что у [mcname] есть мы все, не означает, что мы должны пропустить такой важный момент."
 
 # game/code/e06/e06s04.rpy:493
 translate russian e06s04_later_6bea0edd:

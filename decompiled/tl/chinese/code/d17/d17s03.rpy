@@ -959,4 +959,5 @@ translate chinese d17s03_2051d66a:
 
 
     mc "明白。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

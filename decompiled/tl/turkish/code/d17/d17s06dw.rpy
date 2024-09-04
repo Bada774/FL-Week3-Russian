@@ -1163,4 +1163,5 @@ translate turkish d17s06dw_breakup_6525077f:
 
 
     mct "Az önce ne oldu?"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

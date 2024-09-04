@@ -204,9 +204,34 @@ translate spanish strings:
 
 
     old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    new "Final 12: Vanessa y Allison"
 
 
     old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Final 14: Polly y Nora"
+
+
+
+translate spanish strings:
+
+
+    old "Ending 11: Daisy"
+    new "Final 11: Daisy"
+
+
+    old "Ending 17: Dahlia"
+    new "Final 17: Dahlia"
+
+
+
+translate spanish strings:
+
+
+    old "Ending 04: Girls"
+    new "Final 04: Chicas"
+
+
+    old "Ending 07: Girls"
+    new "Final 07: Chicas"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

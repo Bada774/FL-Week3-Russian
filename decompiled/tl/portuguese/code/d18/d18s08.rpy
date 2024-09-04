@@ -269,4 +269,5 @@ translate portuguese d18s08_a2f0bfe0:
 
 
     hr "Vamos encontrar a professora nova. Não temos tempo pra desperdiçar."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

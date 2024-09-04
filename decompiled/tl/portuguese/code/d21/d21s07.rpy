@@ -1180,7 +1180,7 @@ translate portuguese d21s07_closing_9d59a917:
 translate portuguese d21s07_closing_009a7012:
 
 
-    jdg "Lydia Cox, tenho diante de mum documentos assinados para seu acordo."
+    jdg "Lydia Cox, tenho diante de mim documentos assinados para seu acordo."
 
 
 translate portuguese d21s07_closing_cebf5262:
@@ -1963,4 +1963,5 @@ translate portuguese strings:
 
     old "Let Lydia Down"
     new "Rejeitar Lydia"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -567,4 +567,5 @@ translate spanish strings:
 
     old "Do you want Stacy to pee on you?"
     new "¿Quieres que Stacy te orine encima?"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

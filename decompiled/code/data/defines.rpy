@@ -1,6 +1,10 @@
 define image_dissolve_1 = ImageDissolve("images/utility/transitions/image_dissolve_1.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
 define image_dissolve_2 = ImageDissolve("images/utility/transitions/image_dissolve_2.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
 
+define e11_transition_1 = ImageDissolve("images/utility/transitions/e11_transition_1.webp", 2.0, ramplen=8, reverse=True, alpha=True, time_warp=None)
+define e11_transition_2 = ImageDissolve("images/utility/transitions/e11_transition_2.webp", 2.0, ramplen=8, reverse=True, alpha=True, time_warp=None)
+define e11_transition_3 = ImageDissolve("images/utility/transitions/e11_transition_3.webp", 2.0, ramplen=8, reverse=True, alpha=True, time_warp=None)
+
 define image_dissolve_d21s25_01 = ImageDissolve("images/Day-21/s25/transitions/d21s25-06-t sy-summon-dd-2_c1_v2.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
 define image_dissolve_d21s25_01_2 = ImageDissolve("images/Day-21/s25/transitions/d21s25-06 sy-summon-dd-2_c1_v3.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
 define image_dissolve_d21s25_01_3 = ImageDissolve("images/Day-21/s25/transitions/d21s25-06 sy-summon-dd-2_c1_v4.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
@@ -98,4 +102,5 @@ transform fl_goldstar_anim:
 
 transform image_opacity(opc):
     alpha opc
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

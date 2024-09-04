@@ -583,4 +583,5 @@ translate chinese strings:
 
     old "Tell them that she has other plans"
     new "告诉他们，她有别的计划"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

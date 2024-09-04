@@ -4,211 +4,211 @@
 translate malay e01s01_48c97c49:
 
 
-    mc "{size=20}Wake up, sleepyhead.{/size}"
+    mc "{size=20}Bangunlah, si mengantuk.{/size}"
 
 
 translate malay e01s01_ae1518b4:
 
 
-    sy "*Giggles* Oops, sorry."
+    sy "*Terkekek* Aduh, maaf."
 
 
 translate malay e01s01_f70df938:
 
 
-    mc "*Shakes head, amused* You really have the coordination skills of a baby giraffe."
+    mc "*Geleng kepala* Kau betul-betul ada kemahiran koordinasi macam bayi zirafah."
 
 
 translate malay e01s01_88129f56:
 
 
-    sy "*Yawns* Well, they seem to lug that long neck around just fine without having gone extinct yet, so I shall take that as a compliment."
+    sy "*Menguap* Jadi, mereka nampaknya menarik leher yang panjang itu dengan baik tanpa pupus lagi, jadi aku akan menganggapnya sebagai pujian."
 
 
 translate malay e01s01_89057943:
 
 
-    mc "You'd take practically anything as a compliment."
+    mc "Kau boleh anggap apa sahaja sebagai pujian."
 
 
 translate malay e01s01_671eb3ce:
 
 
-    sy "What can I say? I'm a glass-half-full kinda gal."
+    sy "Apa yang boleh aku katakan? Saya seorang gadis yang \"separuh cawan penuh.\""
 
 
 translate malay e01s01_cad1f7ee:
 
 
-    mc "*Chuckles* Unbelievable."
+    mc "*Ketawa* Sukar dipercayai."
 
 
 translate malay e01s01_72033c98:
 
 
-    mc "You sleep well?"
+    mc "Lena tidur?"
 
 
 translate malay e01s01_e33ab362:
 
 
-    sy "Mm-hm, like a baby giraffe."
+    sy "Mm-hm, macam anak zirafah."
 
 
 translate malay e01s01_5575a3e3:
 
 
-    sy "Oh shit!"
+    sy "Oh sial!"
 
 
 translate malay e01s01_a2103d64:
 
 
-    sy "Today's the day!"
+    sy "Inilah harinya!"
 
 
 translate malay e01s01_ea3b47e0:
 
 
-    mc "...Huh?"
+    mc "Huh?"
 
 
 translate malay e01s01_d1414119:
 
 
-    sy "Remember how I said I wanted to film us doing stuff?"
+    sy "Ingat macam mana aku kata aku nak merakam kita lakukan sesuatu?"
 
 
 translate malay e01s01_ed945780:
 
 
-    mc "Uh, not really? What's happening?"
+    mc "Uh, rasanya? Apa yang sedang berlaku?"
 
 
 translate malay e01s01_7cc2e094:
 
 
-    sy "Okayokayokay, so, refresher then."
+    sy "Okayokayokay, jadi, mari kita ulang semula."
 
 
 translate malay e01s01_21d1693f:
 
 
-    sy "I want to film us having sex."
+    sy "Aku nak rakamkan kita melakukan hubungan seks."
 
 
 translate malay e01s01_a7468ab5:
 
 
-    mc "...Okay?"
+    mc "Okay?"
 
 
 translate malay e01s01_b0ea5e1f:
 
 
-    sy "And I want it to be big!"
+    sy "Dan aku nak ia menjadi besar!"
 
 
 translate malay e01s01_161f03b4:
 
 
-    mc "Well... I guess I'm not against doing a marathon session."
+    mc "Jadi... Aku rasa aku tak menentang untuk melakukan sesi maraton."
 
 
 translate malay e01s01_2cd50405:
 
 
-    sy "No, not big like that. Big as in we do every single fetish we can think of—{i}that we're okay doing, of course.{/i}"
+    sy "Tak, tak sebesar itu. Seperti yang kita lakukan setiap fetish yang boleh kita fikirkan—{i}yang kita boleh lakukan, sudah tentu.{/i}"
 
 
 translate malay e01s01_6412f819:
 
 
-    sy "Well, I guess it'll probably become a marathon session anyway."
+    sy "Baiklah, aku rasa ia mungkin akan jadi sesi maraton pula."
 
 
 translate malay e01s01_257e25aa:
 
 
-    sy "Regardless, the point is that we do a lot of {i}different{/i} fetishes."
+    sy "Walau apa pun, kita akan lakukan banyak fetish {i}berbeza{/i}."
 
 
 translate malay e01s01_585bbc63:
 
 
-    mc "Okay. But I still don't understand why we need to film it.{w} I'm not against it, I just don't get it."
+    mc "Okay. Tapi aku masih tak faham kenapa kita perlu merakamnya. {w}Aku tak menentangnya, cuma aku tak faham."
 
 
 translate malay e01s01_58815d7b:
 
 
-    sy "Don't worry about it. That's a surprise I have planned for later."
+    sy "Jangan risau. Itulah kejutan yang aku rancang nanti."
 
 
 translate malay e01s01_e9e1b341:
 
 
-    mc "*Shrugs* Alright."
+    mc "*Mengangkat bahu* Baiklah."
 
 
 translate malay e01s01_c6a7ebf2:
 
 
-    mc "What's with the laptop then? You're not gonna record us with a webcam, are you?"
+    mc "Kenapa dengan komputer riba itu? Kau tak akan merakam kita dengan kamera web, kan?"
 
 
 translate malay e01s01_eb9d1a6a:
 
 
-    sy "*Laughs* Absolutely not. The laptop is just where I have my list of fetishes that we can try out."
+    sy "*Ketawa* Sama sekali tak. Aku ada senarai fetish aku yang boleh kita cuba di dalam komputer riba itu."
 
 
 translate malay e01s01_72425dce:
 
 
-    sy "I already sorted it by the stuff that I'm open to doing today, so now I need your input on what fetishes you'd like to do."
+    sy "Aku dah menyusunnya mengikut benda yang aku sedia lakukan hari ini, jadi sekarang aku perlukan input kau tentang fetish yang kau nak lakukan."
 
 
 translate malay e01s01_b2e06c7f:
 
 
-    sy "We'll then take the stuff that we match on and do 'em! Simple as that."
+    sy "Kami kemudiannya padankan dan lakukan! Semudah itu."
 
 
 translate malay e01s01_f84339fd:
 
 
-    mc "Why do I have the feeling that it is definitely {i}not{/i} going to be \"simple as that\"?"
+    mc "Kenapa aku ada perasaan yang ia pasti {i}tak{/i} akan menjadi \"mudah seperti itu\"?"
 
 
 translate malay e01s01_dcb18782:
 
 
-    sy "Why don't you take a look yourself?"
+    sy "Kenapa tak tengok sendiri?"
 
 
 translate malay e01s01_887cad9d:
 
 
-    mc "So the stuff in green is stuff that you're okay with, and red is stuff you're not okay with?"
+    mc "Jadi bahan dalam warna hijau adalah bahan yang kau okay, dan merah adalah bahan yang kau tak okey?"
 
 
 translate malay e01s01_66e9b0af:
 
 
-    sy "Yes and no. I just don't want to do them {i}today{/i}. Who knows about the future, though? "
+    sy "Ya dan tak. Aku cuma tak nak lakukannya {i}hari ini{/i}. Siapa yang tahu tentang masa depan, apa-apa pun? "
 
 
 translate malay e01s01_49f29859:
 
 
-    mc "What's the stuff in purple then?"
+    mc "Apa yang ada dalam warna ungu?"
 
 
 translate malay e01s01_658ef495:
 
 
-    sy "Oh those are things that I don't really consider to be fetishes."
+    sy "Oh, itu adalah perkara yang aku tak anggap sebagai fetish."
 
 
 translate malay e01s01_b621b46e:
@@ -220,181 +220,181 @@ translate malay e01s01_b621b46e:
 translate malay e01s01_d6482316:
 
 
-    sy "Yeah, stuff like that. For me, that stuff is just kind of a given."
+    sy "Yeah, fetish yang macam itu. Bagi aku, perkara itu hanyalah sesuatu yang diberikan."
 
 
 translate malay e01s01_a8959de2:
 
 
-    mc "But anal is green?"
+    mc "Tapi dubur berwarna hijau?"
 
 
 translate malay e01s01_4518562b:
 
 
-    sy "Well, anal {i}would{/i} be purple, but you haven't fucked my ass yet, so..."
+    sy "Jadi, dubur {i}akan{/i} berwarna ungu, tapi kau belum kongkek bontot aku, jadi..."
 
 
 translate malay e01s01_4a7f6258:
 
 
-    mc "*Chuckles* Fair enough."
+    mc "*Ketawa* Cukup adil."
 
 
 translate malay e01s01_a1662261:
 
 
-    mc "Alright. I'll mark the stuff that I'm open to doing then."
+    mc "Baiklah. Aku akan tandakan perkara yang aku bersedia untuk lakukan kemudian."
 
 
 translate malay e01s01_choice_done_fca312a6:
 
 
-    mc "I'm done."
+    mc "Dah selesai."
 
 
 translate malay e01s01_choice_done_9a51bc91:
 
 
-    sy "Seriously?"
+    sy "Serius?"
 
 
 translate malay e01s01_choice_done_1a8f21af:
 
 
-    mc "I'm just not really feeling anything super fetishy today."
+    mc "Aku tak betul-betul merasakan nak lakukan apa-apa fetish yang berat hari ini."
 
 
 translate malay e01s01_choice_done_54718c42:
 
 
-    sy "*Sighs* Okay, well, that's terrible timing.{w} I wanted this to be spectacular."
+    sy "*Mengeluh* Okay, jadi, masa yang teruk. {w}Aku nak ini jadi hebat."
 
 
 translate malay e01s01_choice_done_33503503:
 
 
-    sy "Are you at least okay with anal? I really wanted you to pop my anal cherry today."
+    sy "Kau sekurang-kurangnya baik dengan dubur? Aku betul-betul nak kau pop ceri dubur aku hari ini."
 
 
 translate malay e01s01_choice_done_721b8bfc:
 
 
-    mc "{i}That{/i}, I'm fine with."
+    mc "{i}Itu{/i}, aku tak apa-apa."
 
 
 translate malay e01s01_choice_done_43b5a0a7:
 
 
-    sy "Phew, okay nice. That works for me then."
+    sy "Phew, okay bagus. Itu bagus untuk aku."
 
 
 translate malay e01s01_choice_done_a706c67a:
 
 
-    sy "Wow, you picked everything?"
+    sy "Wow, kau pilih semuanya?"
 
 
 translate malay e01s01_choice_done_280a6d52:
 
 
-    sy "Are you sure you're alright with it all?"
+    sy "Kau pasti kau baik-baik saja dengan semua itu?"
 
 
 translate malay e01s01_choice_done_06815254:
 
 
-    mc "I think I am, but we'll have to try and find out, won't we?"
+    mc "Aku fikir aku akan, tapi kita perlu cuba dan ketahui, kan?"
 
 
 translate malay e01s01_choice_done_e8be3e65:
 
 
-    sy "That's what I'm talking about!"
+    sy "Itulah yang aku cakapkan!"
 
 
 translate malay e01s01_choice_done_b1a82aee:
 
 
-    sy "Oooh, interesting."
+    sy "Oooh, menarik."
 
 
 translate malay e01s01_choice_done_1402f102:
 
 
-    sy "So you like to dom {i}and{/i} sub, huh? I didn't know that."
+    sy "Kau suka dom {i}dan{/i} sub, ya? Aku tak tahu itu."
 
 
 translate malay e01s01_choice_done_e449185b:
 
 
-    sy "{i}And{/i} you like feet? I guess that makes sense."
+    sy "{i}Dan{/i} kau suka kaki? Aku rasa itu masuk akal."
 
 
 translate malay e01s01_choice_done_a7da4738:
 
 
-    sy "You like feet? I guess that makes sense."
+    sy "Kau suka kaki? Aku rasa itu masuk akal."
 
 
 translate malay e01s01_choice_done_2a2cd37d:
 
 
-    mc "Hey! No judging."
+    mc "Hey! Janganlah menghakimi."
 
 
 translate malay e01s01_choice_done_bf56ff69:
 
 
-    sy "No judging here. Just making observations."
+    sy "Mana ada. Hanya buat pemerhatian."
 
 
 translate malay e01s01_choice_done_6c988c90:
 
 
-    sy "Footfetish, huh? Very interesting."
+    sy "\"Footfetish,\" ya? Menarik juga."
 
 
 translate malay e01s01_choice_done_c3f2d919:
 
 
-    sy "Okay! Let's get to it."
+    sy "Okay! Mari kita lakukannya."
 
 
 translate malay e01s01_choice_done_6ba28cdc:
 
 
-    sy "Okay! That's the list settled then."
+    sy "Okay! Dah selesai dengan senarai itu."
 
 
 translate malay e01s01_choice_done_1353c0c1:
 
 
-    sy "Let me get the camera set up and we'll be ready to go."
+    sy "Biar aku sediakan kamera dan kami akan bersedia untuk pergi."
 
 
 translate malay e01s01_choice_done_4a4266e2:
 
 
-    mc "Where did you even get a camera?"
+    mc "Mana kau dapat kamera?"
 
 
 translate malay e01s01_choice_done_223bedd2:
 
 
-    sy "Focus more on getting ready and less on questions!"
+    sy "Fokus untuk bersiap dan kurangkan soalan!"
 
 
 translate malay e01s01_choice_done_9b4e8bc2:
 
 
-    sy "Okay, I think it's good now!"
+    sy "Okay, aku rasa ianya bagus sekarang!"
 
 
 translate malay e01s01_choice_done_615002d0:
 
 
-    mc "Is it recording?"
+    mc "Ia sedang merakam?"
 
 
 translate malay e01s01_choice_done_3a41c5e6:
@@ -406,175 +406,175 @@ translate malay e01s01_choice_done_3a41c5e6:
 translate malay e01s01_choice_done_c7a3a3a3:
 
 
-    sy "Let's start off by waking him up first."
+    sy "Mari kita mulakan dengan bangunkan dia dahulu."
 
 
 translate malay e01s01_choice_done_05fc46ef:
 
 
-    sy "Ready, Sir?"
+    sy "Bersedia, Tuan?"
 
 
 translate malay e01s01_choice_done_c043e93d:
 
 
-    sy "Oooh, looks like he's ready now."
+    sy "Oooh, nampaknya dia dah bersedia sekarang."
 
 
 translate malay e01s01_choice_done_0271bdab:
 
 
-    sy "*Sucking and moaning noises*"
+    sy "*Bunyi menghisap dan mengerang*"
 
 
 translate malay e01s01_choice_done_46e71900:
 
 
-    sy "I love the way your dick tastes."
+    sy "Aku suka macam mana kote kau rasa."
 
 
 translate malay e01s01_choice_done_92dfc0cb:
 
 
-    mc "Fuck... And I love the way your mouth feels."
+    mc "Sial... Dan aku suka macam mana mulut kau rasa."
 
 
 translate malay e01s01_choice_done_b02e4d08:
 
 
-    sy "*Giggles* Okay, onto the main course now."
+    sy "*Terkekek* Okay, ke hidangan utama sekarang."
 
 
 translate malay e01s01_choice_done_431c4705:
 
 
-    sy "Come and make me scream, [mcname]."
+    sy "Datang dan buat aku jerit, [mcname]."
 
 
 translate malay e01s01_choice_done_3361410e:
 
 
-    mc "You don't have to tell me twice."
+    mc "Kau tak perlu beritahu aku dua kali."
 
 
 translate malay e01s01_choice_done_ecb25ec0:
 
 
-    sy "I can't wait to feel you fill me up."
+    sy "Aku tak sabar untuk rasakan kau mengisi aku."
 
 
 translate malay e01s01_choice_done_e9580aa3:
 
 
-    sy "*Moans* God, I will never get tired of your dick."
+    sy "*Mengerang* Aku tak akan pernah jemu dengan kote kau."
 
 
 translate malay e01s01_choice_done_41b911f5:
 
 
-    sy "Fuck, {i}fuck{/i}, you feel so fucking good, [mcname]."
+    sy "Sial, {i}sial{/i}, kau rasa sangat baik, [mcname]."
 
 
 translate malay e01s01_choice_done_88d1f2a5:
 
 
-    sy "Stop! Wait!"
+    sy "Berhenti! Tunggu!"
 
 
 translate malay e01s01_choice_done_567a17ca:
 
 
-    mc "What? You okay?"
+    mc "Apa? Kau okay?"
 
 
 translate malay e01s01_choice_done_8c5a0976:
 
 
-    sy "Yeah. I'm fine. I'm fine, I jus—"
+    sy "Yeah. Aku baik. Cuma—"
 
 
 translate malay e01s01_choice_done_2851e79a:
 
 
-    sy "I want you to fuck my ass and pop my anal cherry."
+    sy "Aku nak kau kongkek bontot aku dan letuskan ceri bontot aku."
 
 
 translate malay e01s01_choice_done_5d58a79c:
 
 
-    sy "Please, [mcname]! I want to cum with your dick pumping into my ass."
+    sy "Tolong, [mcname]! Aku nak pancut dengan kote kau mengepam ke dalam bontot aku."
 
 
 translate malay e01s01_choice_done_455d274d:
 
 
-    mct "I love my life."
+    mct "Aku suka betul hidup aku."
 
 
 translate malay e01s01_choice_done_e17ebcae:
 
 
-    mc "You really have the cutest ass I've ever seen."
+    mc "Kau betul-betul ada bontot paling comel yang pernah aku tengok."
 
 
 translate malay e01s01_choice_done_b3747a61:
 
 
-    mct "I should probably make sure she's ready first."
+    mct "Aku mungkin perlu pastikan dia bersedia terlebih dahulu."
 
 
 translate malay e01s01_choice_done_d405dc93:
 
 
-    sy "What are you— Oh!"
+    sy "Apa yang kau— Oh!"
 
 
 translate malay e01s01_choice_done_6d9baa37:
 
 
-    sy "Fuck, [mcname]. Keep going."
+    sy "Sial, [mcname]. Teruskan."
 
 
 translate malay e01s01_choice_done_86bf2ac2:
 
 
-    sy "*Moans* Deeper. Go deeper."
+    sy "*Mengerang* Lebih dalam. Dalam lagi."
 
 
 translate malay e01s01_choice_done_ff93f057:
 
 
-    sy "Your tongue is amazing."
+    sy "Luar biasa betul lidah kau."
 
 
 translate malay e01s01_choice_done_6b7d247c:
 
 
-    sy "*Muted moans of pleasure* Why does this feel so {i}good{/i}."
+    sy "*Tersenyap mengerang keseronokan* Kengapa ini terasa sangat {i}baik{/i}."
 
 
 translate malay e01s01_choice_done_1f70b2da:
 
 
-    sy "That was fantastic! I didn't know having my ass eaten would be such a turn-on."
+    sy "Itu hebat! Aku tak tahu kalau bontot aku dimakan akan jadi sesuatu yang menarik."
 
 
 translate malay e01s01_choice_done_913cd1c8:
 
 
-    sy "You okay?"
+    sy "Kau okay?"
 
 
 translate malay e01s01_choice_done_d60a1a1a:
 
 
-    mc "Oh yeah. {i}Now{/i} I'm ready for the main course."
+    mc "Oh yeah. {i}Sekarang{/i} aku dah bersedia untuk hidangan utama."
 
 
 translate malay e01s01_choice_done_8b63c9a4:
 
 
-    mc "You ready?"
+    mc "Kau bersedia?"
 
 
 translate malay e01s01_choice_done_9525af21:
@@ -586,337 +586,337 @@ translate malay e01s01_choice_done_9525af21:
 translate malay e01s01_choice_done_03716861:
 
 
-    sy "*Voice quivers* Ah fuck."
+    sy "*Suara bergetar* Ah sial."
 
 
 translate malay e01s01_choice_done_47195482:
 
 
-    sy "It hurts a little."
+    sy "Sakit sikit."
 
 
 translate malay e01s01_choice_done_7d4458e1:
 
 
-    mc "Should I stop?"
+    mc "Nak aku berhenti?"
 
 
 translate malay e01s01_choice_done_d5f73df3:
 
 
-    sy "No. Just...go slow."
+    sy "Tak. Cuma... Perlahan-lahan."
 
 
 translate malay e01s01_choice_done_e701b72f:
 
 
-    sy "*Breathes in and out slowly* Okay... It's getting better. You can go a little faster."
+    sy "*Nafas perlahan-lahan* Okay... Dah semakin okay. Kau boleh pergi laju sikit."
 
 
 translate malay e01s01_choice_done_ec2e2e7a:
 
 
-    sy "*Staggered moans of pleasure* Fuck.{w} Yes.{w} Yes.{w} Yes!"
+    sy "*Erangan keseronokan yang terhuyung-hayang* Sial. {w}Ya. {w}Ya. {w}Ya!"
 
 
 translate malay e01s01_choice_done_083ec9a2:
 
 
-    sy "*Whimpers* God, your cock feels so good inside me, [mcname]."
+    sy "*Merengek* Kote kau terasa sangat baik di dalam diri aku, [mcname]."
 
 
 translate malay e01s01_choice_done_5325e7cc:
 
 
-    sy "*Uncontrolled moans* Oh my God. Harder, harder! Just like that!"
+    sy "*Ringuhan tidak terkawal* Lebih keras, lebih keras! Macam itu!"
 
 
 translate malay e01s01_choice_done_6c7e2c22:
 
 
-    mc "You oka—?"
+    mc "Kau okay—?"
 
 
 translate malay e01s01_choice_done_39983d6e:
 
 
-    sy "Fuck! Keep fucking me! Don't you dare stop!"
+    sy "Sial! Teruskan kongkek aku! Jangan berani berhenti!"
 
 
 translate malay e01s01_choice_done_dd6ede0c:
 
 
-    sy "*Louder and louder moans* Fuuuck, I'm gonna cum! Cum with me!"
+    sy "*Mengerang lebih kuat* Sial, aku nak pancut. Pancut dengan aku."
 
 
 translate malay e01s01_choice_done_8e474f2e:
 
 
-    sy "*Quivers and whimpers* I can feel your cum inside. It feels warm."
+    sy "*Bergetar dan merengek* Aku dapat rasakan air mani kau di dalam. Terasa hangat."
 
 
 translate malay e01s01_choice_done_736abc08:
 
 
-    sy "*Quivers and whimpers* I can feel your cum on my ass. It feels warm."
+    sy "*Bergetar dan merengek* Aku dapat rasakan air mani kau pada bontot aku. Terasa hangat."
 
 
 translate malay e01s01_choice_done_4d492940:
 
 
-    mc "That was amazing."
+    mc "Ianya menakjubkan."
 
 
 translate malay e01s01_choice_done_46e61f64:
 
 
-    sy "Yeah... I've never felt an orgasm like that."
+    sy "Yeah... Aku tak pernah merasakan orgasme macam itu."
 
 
 translate malay e01s01_choice_done_b647d7af:
 
 
-    sy "Hopefully it recorded all of that."
+    sy "Mudah-mudahan ia merekodkan semua itu."
 
 
 translate malay e01s01_choice_done_f979eedf:
 
 
-    mc "You happy now?"
+    mc "Kau gembira sekarang?"
 
 
 translate malay e01s01_choice_done_f11e1686:
 
 
-    sy "Mm-hm. But we're not done yet."
+    sy "Mm-hm. Tapi kita belum selesai lagi."
 
 
 translate malay e01s01_choice_done_b2b9e19d:
 
 
-    mc "What do you mean?"
+    mc "Apa maksud kau?"
 
 
 translate malay e01s01_choice_done_d737305f:
 
 
-    sy "You should go drink some water. We're gonna be here for a while."
+    sy "Pergilah minum air. Kita akan berada di sini sebentar."
 
 
 translate malay e01s01_scene_vanilla_01_ce461a90:
 
 
-    sy "*Ragged breaths* Fuck, fuck, fuck, you hitting me just right."
+    sy "*Nafas kasar* Sial, sial, sial, kau kongkek aku dengan betul."
 
 
 translate malay e01s01_scene_vanilla_01_5efbea12:
 
 
-    mc "You're so fucking tight for me."
+    mc "Kau sangat ketat untuk aku."
 
 
 translate malay e01s01_scene_vanilla_01_c1aa2ed4:
 
 
-    mc "God, I love you so much. Stacy."
+    mc "Aku sayang kau sangat-sangat. Stacy."
 
 
 translate malay e01s01_scene_vanilla_01_58b99472:
 
 
-    sy "*Moans loudly* I love you too, [mcname]!"
+    sy "*Mengerang dengan kuat* Aku sayang kau juga, [mcname]!"
 
 
 translate malay e01s01_scene_vanilla_01_8bbb72db:
 
 
-    sy "Now fuck me harder!"
+    sy "Sekarang kongkek aku lebih keras!"
 
 
 translate malay e01s01_scene_vanilla_01_2eec2dcb:
 
 
-    sy "*Staggered moans* Yes! Just like that, just like that! Fuuuck!"
+    sy "*Meraung terhuyung-hayang* Ya! Macam itu, macam tu! Siaaal!"
 
 
 translate malay e01s01_scene_vanilla_02_d86332a9:
 
 
-    sy "*Heavy breathing* I— *Moans* I wonder—"
+    sy "*Nafas berat* Aku— *Mengerang* Aku tertanya-"
 
 
 translate malay e01s01_scene_vanilla_02_807ac9ef:
 
 
-    sy "*Deep moans* I wonder if anyone is looking at us right now?"
+    sy "*Erangan dalam-dalam* Agak-agak ada orang pandang kita sekarang?"
 
 
 translate malay e01s01_scene_vanilla_02_a34008f8:
 
 
-    mc "In jealousy, maybe."
+    mc "Dengan cemburu, mungkin."
 
 
 translate malay e01s01_scene_vanilla_02_9a82983e:
 
 
-    sy "You make me feel so fucking good, [mcname]."
+    sy "Kau buat aku berasa sangat baik, [mcname]."
 
 
 translate malay e01s01_scene_bdsm_dom_1c07c505:
 
 
-    mc "You."
+    mc "Kau."
 
 
 translate malay e01s01_scene_bdsm_dom_c7908a96:
 
 
-    mc "Have been."
+    mc "Dah jadi."
 
 
 translate malay e01s01_scene_bdsm_dom_e32e98b9:
 
 
-    mc "{i}A very naughty girl{/i}."
+    mc "{i}Seorang gadis yang sangat nakal{/i}."
 
 
 translate malay e01s01_scene_bdsm_dom_7e47dfba:
 
 
-    sy "*Cries out in pain pleasure* Ow, ow! That hurts!"
+    sy "*Menjerit kesakitan* Aduh, aduh! Sakitnya!"
 
 
 translate malay e01s01_scene_bdsm_dom_4af22199:
 
 
-    sy "I'm sorry, Sir! I won't do it again!"
+    sy "Maaf, tuan! Aku tak akan melakukannya lagi!"
 
 
 translate malay e01s01_scene_bdsm_dom_71d42b9e:
 
 
-    mc "Hm... I don't know. I don't feel like you've learned your lesson yet."
+    mc "Hm... Entahlah. Aku rasa kau belum belajar lagi."
 
 
 translate malay e01s01_scene_bdsm_dom_806e91ba:
 
 
-    mc "You need to {i}really{/i} be sorry."
+    mc "Kau perlu {i}sangat{/i} memminta maaf."
 
 
 translate malay e01s01_scene_bdsm_dom_93cf0240:
 
 
-    sy "*Squirms in painful pleasure* No! Please, Sir! I'm too sensitive right now!"
+    sy "*Menggeliat dalam keseronokan yang menyakitkan* Tak! Tolong, tuan! Aku terlalu sensitif sekarang!"
 
 
 translate malay e01s01_scene_bdsm_dom_59f9e686:
 
 
-    sy "*Loud moans* Fuuuck!"
+    sy "*Mengerang kuat* Siaaal!"
 
 
 translate malay e01s01_scene_bdsm_dom_3e30d311:
 
 
-    sy "Please, Sir! Stop!"
+    sy "Tolong, tuan! Berhenti!"
 
 
 translate malay e01s01_scene_bdsm_dom_8bd0997d:
 
 
-    mc "Tsk, tsk, tsk, still so fierce. Still don't know how to be obedient."
+    mc "Tsk, tsk, tsk, masih macam itu. Masih tak tahu nak taat."
 
 
 translate malay e01s01_scene_bdsm_dom_79de7289:
 
 
-    mc "Come here."
+    mc "Mari sini."
 
 
 translate malay e01s01_scene_bdsm_dom_3914f44d:
 
 
-    mc "Naughty girls get punished."
+    mc "Perempuan nakal kena dihukum."
 
 
 translate malay e01s01_scene_bdsm_dom_59bec156:
 
 
-    sy "*Desperate licking noises*"
+    sy "*Bunyi jilat terdesak*"
 
 
 translate malay e01s01_scene_bdsm_dom_61451cbb:
 
 
-    sy "*Catches her breath while coughing* Fuck *Spits*"
+    sy "*Tersesak nafas semasa batuk* Sial *Meludah*"
 
 
 translate malay e01s01_scene_bdsm_dom_05482e8a:
 
 
-    mc "Does my ass taste good, {i}Princess{/i}?"
+    mc "Sedap rasa bontot aku, {i}Puteri{/i}?"
 
 
 translate malay e01s01_scene_bdsm_dom_1d14349b:
 
 
-    sy "Yea— *Burps*"
+    sy "Yea— *Sendawa*"
 
 
 translate malay e01s01_scene_bdsm_dom_98b9998c:
 
 
-    mc "You really are a whore through and through."
+    mc "Kau memang si pelacur."
 
 
 translate malay e01s01_scene_bdsm_dom_7b6d6637:
 
 
-    mc "C'mon, I'm not done with you yet."
+    mc "Marilah, aku belum selesai dengan kau lagi."
 
 
 translate malay e01s01_scene_bdsm_dom_b4892784:
 
 
-    mc "*Grunts* You like that, Princess?"
+    mc "*Merengus* Kau sukakan itu, Puteri?"
 
 
 translate malay e01s01_scene_bdsm_dom_6a419612:
 
 
-    sy "*Pained moans of approval*"
+    sy "*Ringutan kesakitan tanda persetujuan*"
 
 
 translate malay e01s01_scene_bdsm_dom_9d6593ad:
 
 
-    mc "You take my cock like a perfect little anal slut."
+    mc "Kau ambil kote aku macam perempuan murahan yang sempurna."
 
 
 translate malay e01s01_scene_bdsm_dom_cf3c01db:
 
 
-    mc "I'm gonna jam my cock so far up your ass, you'll be shitting my cum for days."
+    mc "Aku akanjejalkan kote aku ke dalam, kau akan membuang air mani aku selama beberapa hari."
 
 
 translate malay e01s01_scene_bdsm_dom_39b467f9:
 
 
-    mc "That's what you want, right, Princess?"
+    mc "Itu yang kau nak, kan, Puteri?"
 
 
 translate malay e01s01_scene_bdsm_dom_6baff035:
 
 
-    sy "Yes! Yes, please! Give me your cum, Sir!"
+    sy "Ya! Berikan aku air mani kau, Tuan!"
 
 
 translate malay e01s01_scene_bdsm_dom_c9bfe73d:
 
 
-    sy "*Voice quivers* Oooh, I can feel it! Oh God, fuck, it feels so good!"
+    sy "*Suara bergetar* Oooh, aku dapat rasakannya! Sial, rasanya sangat sedap!"
 
 
 translate malay e01s01_scene_bdsm_dom_a20cefa7:
@@ -928,49 +928,49 @@ translate malay e01s01_scene_bdsm_dom_a20cefa7:
 translate malay e01s01_scene_bdsm_dom_91d8a70c:
 
 
-    mc "You okay?"
+    mc "Kau okay?"
 
 
 translate malay e01s01_scene_bdsm_dom_9050eb33:
 
 
-    sy "Hell yeah! That was awesome!"
+    sy "Ianya hebat!"
 
 
 translate malay e01s01_scene_bdsm_dom_345acf5d:
 
 
-    sy "Yep. Perfect."
+    sy "Yep. Terbaik."
 
 
 translate malay e01s01_scene_bdsm_dom_2543ff8b:
 
 
-    sy "Ready for the next one?"
+    sy "Sedia untuk yang seterusnya?"
 
 
 translate malay e01s01_scene_bdsm_dom_544f82da:
 
 
-    mc "*Chuckles* Let's take five first."
+    mc "*Ketawa* Mari kita erhat sekejap."
 
 
 translate malay e01s01_scene_bdsm_sub_200e4e46:
 
 
-    sy "*Giggles* It's hilarious seeing how hard your dick gets with every slap."
+    sy "*Giggles* Sungguh kelakar tengok betapa kerasnya kote kau dengan setiap tamparan."
 
 
 translate malay e01s01_scene_bdsm_sub_653f401e:
 
 
-    mc "*Gagged moans of pain*"
+    mc "*Mengerang kesakitan*"
 
 
 translate malay e01s01_scene_bdsm_sub_67f364a5:
 
 
-    sy "You really are a sucker for pain, aren't you, [mcname]?"
+    sy "Kau sukakan kesakitan, kan, [mcname]?"
 
 
 translate malay e01s01_scene_bdsm_sub_0a372d29:
@@ -982,25 +982,25 @@ translate malay e01s01_scene_bdsm_sub_0a372d29:
 translate malay e01s01_scene_bdsm_sub_a09d5389:
 
 
-    sy "*Laughs* Oh, no. You're not gonna cum just yet, my sweet."
+    sy "*Ketawa* Oh, tak. Masih belum masanya lagi, sayang."
 
 
 translate malay e01s01_scene_bdsm_sub_77cf869e:
 
 
-    sy "{size=22}You'll just have to wait a little longer. *Giggles*{/size}"
+    sy "{size=22}Kau hanya perlu menunggu sedikit lagi. *Terkekek*{/size}"
 
 
 translate malay e01s01_scene_bdsm_sub_220a3b00:
 
 
-    sy "Hm... I think you're enjoying this a little too much. Oh! I know."
+    sy "Hm... Aku rasa kau terlalu menikmati ini. Oh! Aku tahu."
 
 
 translate malay e01s01_scene_bdsm_sub_14a16b3a:
 
 
-    mc "Mistress? What are you...?"
+    mc "Puan? Apa kau...?"
 
 
 translate malay e01s01_scene_bdsm_sub_7c93e53a:
@@ -1012,205 +1012,205 @@ translate malay e01s01_scene_bdsm_sub_7c93e53a:
 translate malay e01s01_scene_bdsm_sub_bb42e8e1:
 
 
-    sy "I want you to clean my feet until they're squeaky clean, understood?"
+    sy "Aku nak kau bersihkan kaki aku sehingga ia bersih, faham?"
 
 
 translate malay e01s01_scene_bdsm_sub_94ef9322:
 
 
-    sy "Wow, [mcname]. You are such a good feet-licking bitch."
+    sy "Wow, [mcname]. Kau adalah jalang yang terbaik menjilat kaki."
 
 
 translate malay e01s01_scene_bdsm_sub_5b00e0ac:
 
 
-    sy "You're making your mistress very happy."
+    sy "Kau buat puan kau sangat gembira."
 
 
 translate malay e01s01_scene_bdsm_sub_38f6cf02:
 
 
-    sy "Now, clean my dirty soles."
+    sy "Sekarang, bersihkan tapak kaki aku yang kotor."
 
 
 translate malay e01s01_scene_bdsm_sub_67d11845:
 
 
-    sy "Laughs* Good boy!"
+    sy "*Ketawa* Bagus!"
 
 
 translate malay e01s01_scene_bdsm_sub_4ec6563d:
 
 
-    sy "Stop."
+    sy "Berhenti."
 
 
 translate malay e01s01_scene_bdsm_sub_393886aa:
 
 
-    sy "Hmmm... I guess that'll do."
+    sy "Hmmm... Aku rasa itu dah memadai."
 
 
 translate malay e01s01_scene_bdsm_sub_69dfcf89:
 
 
-    sy "I bet you want to go to the main course now huh, [mcname]?"
+    sy "Aku yakin kau nak pergi ke hidangan utama sekarang ya, [mcname]?"
 
 
 translate malay e01s01_scene_bdsm_sub_561f9bcf:
 
 
-    sy "I guess it's your lucky day then."
+    sy "Aku rasa ini hari bertuah kau."
 
 
 translate malay e01s01_scene_bdsm_sub_e6596674:
 
 
-    sy "Get on the bed and put your legs up."
+    sy "Naik katil dan angkat kaki."
 
 
 translate malay e01s01_scene_bdsm_sub_7fd3a623:
 
 
-    mc "Yes, Mistress."
+    mc "Ya, Puan."
 
 
 translate malay e01s01_scene_bdsm_sub_f4745666:
 
 
-    sy "You can take off that blindfold now."
+    sy "Kau boleh tanggalkan penutup mata itu sekarang."
 
 
 translate malay e01s01_scene_bdsm_sub_0c92ad14:
 
 
-    mc "Oh my God."
+    mc "Oh...."
 
 
 translate malay e01s01_scene_bdsm_sub_7280a3f0:
 
 
-    sy "That's about who you'll need when I'm done with you."
+    sy "Itulah apa yang kau akan cakap bila aku dah selesai dengan kau."
 
 
 translate malay e01s01_scene_bdsm_sub_e2f1b8d7:
 
 
-    sy "You're gonna take my cock like a good little slut, got it? I don't want to hear a peep from you."
+    sy "Kau akan ambil kote aku macam perempuan murahan yang baik, faham? Aku tak nak dengar sedikit pun daripada kau."
 
 
 translate malay e01s01_scene_bdsm_sub_3a16b025:
 
 
-    sy "You like that, huh? You like it when I fuck your cute little ass with my huge strap-on?"
+    sy "Kau suka kan? Kau suka kalau aku kongkek kau dengan kote plastik ini?"
 
 
 translate malay e01s01_scene_bdsm_sub_2b829848:
 
 
-    mc "Yes, Mistress! Your cock feels so good!"
+    mc "Ya, Puan! Kote kau berasa sangat baik!"
 
 
 translate malay e01s01_scene_bdsm_sub_5b9fbd15:
 
 
-    sy "Such a good boy. I'm gonna give you a prize for that."
+    sy "Bagus. Aku akan berikan kau hadiah untuk itu."
 
 
 translate malay e01s01_scene_bdsm_sub_59964269:
 
 
-    mc "*Moans* Fuuuck, please let me cum, Mistress!"
+    mc "*Mengerang* Siaal, tolong biarkan aku pancut, puan!"
 
 
 translate malay e01s01_scene_bdsm_sub_c23e34dd:
 
 
-    sy "Do it! Cum all over yourself!"
+    sy "Lakukan! Pancutlah sekuat hati kau!"
 
 
 translate malay e01s01_scene_bdsm_sub_9ecd57c7:
 
 
-    sy "*Squeels and laughs* Look at all that cum!"
+    sy "*Mencicit dan ketawa* Tengoklah semua air mani itu!"
 
 
 translate malay e01s01_scene_bdsm_sub_8fcfd6d9:
 
 
-    mc "Oh my God. that was exhausting."
+    mc "Oh, itu meletihkan."
 
 
 translate malay e01s01_scene_bdsm_sub_f2323c79:
 
 
-    sy "{i}You{/i} are exhausted? I'm the one that fucked you!"
+    sy "{i}Kau{/i} yang penat? Aku yang kongkek kau!"
 
 
 translate malay e01s01_scene_bdsm_sub_b796645a:
 
 
-    mc "Hey! It's no easy work getting fucked."
+    mc "Hey! Bukan kerja mudah untuk dikongkek."
 
 
 translate malay e01s01_scene_footfet_19962d53:
 
 
-    mc "Fuck, Stacy. Your feet are so soft."
+    mc "Sial, Stacy. Kaki kau sangat lembut."
 
 
 translate malay e01s01_scene_footfet_f2a80570:
 
 
-    sy "Does it feel good?"
+    sy "Adakah ia berasa baik?"
 
 
 translate malay e01s01_scene_footfet_f6dd7f11:
 
 
-    mc "It feels great! How do you feel?"
+    mc "Rasanya hebat! Apa perasaan kau?"
 
 
 translate malay e01s01_scene_footfet_442381b6:
 
 
-    sy "It doesn't feel like anything physically, but seeing and feeling you being so hard is a hell of a turn-on."
+    sy "Ia tak berasa macam apa-apa secara fizikal, tapi tengok dan rasakan kau begitu keras adalah satu perkara yang amat menggembirakan."
 
 
 translate malay e01s01_scene_footfet_6f74457d:
 
 
-    sy "We need to do this more often."
+    sy "Kita perlu melakukan ini lebih kerap."
 
 
 translate malay e01s01_scene_footfet_ea0642c8:
 
 
-    mc "We absolutely do."
+    mc "Setuju."
 
 
 translate malay e01s01_scene_watersports_ee606d9d:
 
 
-    sy "Okay, now for the piss stuff. You drank enough water right?"
+    sy "Okey, untuk yang seterusnya. Kau minum air yang cukup kan?"
 
 
 translate malay e01s01_scene_watersports_8d9a2c38:
 
 
-    mc "Fucking bursting at the seams right now."
+    mc "Rasa macam nak pecah sekarang."
 
 
 translate malay e01s01_scene_watersports_4d7051a4:
 
 
-    sy "Perfect!"
+    sy "Sempurna!"
 
 
 translate malay e01s01_scene_watersports_1c1c154a:
 
 
-    sy "C'mon!"
+    sy "Marilah!"
 
 
 translate malay e01s01_scene_watersports_d09ab122:
@@ -1222,61 +1222,61 @@ translate malay e01s01_scene_watersports_d09ab122:
 translate malay e01s01_scene_watersports_61252f52:
 
 
-    sy "*Gurgling*"
+    sy "*Berkumur*"
 
 
 translate malay e01s01_scene_watersports_c9100aeb:
 
 
-    sy "All gone!"
+    sy "Semuanya hilang!"
 
 
 translate malay e01s01_scene_watersports_c6f9fd6f:
 
 
-    mc "Wow, good job."
+    mc "Wow, syabas."
 
 
 translate malay e01s01_scene_watersports_0bd3e8b6:
 
 
-    sy "Oh— *Burps*"
+    sy "Oh— *Sendawa*"
 
 
 translate malay e01s01_scene_watersports_cdc8240f:
 
 
-    sy "Woops, looks like now I'm the one bursting at the seams."
+    sy "Woops, nampaknya aku pula rasa macam nak pecah."
 
 
 translate malay e01s01_scene_watersports_604ac752:
 
 
-    mc "Hmm. I think I can help with that.{w} C'mon, get up."
+    mc "Hmm. Aku rasa aku boleh tolong dengan itu. {w}Marilah, bangun."
 
 
 translate malay e01s01_scene_watersports_fba4faca:
 
 
-    sy "What are you—!?"
+    sy "Apa yang kau—!?"
 
 
 translate malay e01s01_scene_watersports_0cfe05a1:
 
 
-    mc "Piss on me!"
+    mc "Kencing atas aku!"
 
 
 translate malay e01s01_scene_watersports_a806bf69:
 
 
-    sy "I... Okay!"
+    sy "Aku... Okay!"
 
 
 translate malay e01s01_scene_watersports_b114773b:
 
 
-    sy "*Giggling* This feels so wrong, but it's so hot!"
+    sy "*Terkekek* Ini terasa sangat salah, tapi ia sangat panas!"
 
 
 translate malay e01s01_scene_watersports_60f63ab2:
@@ -1288,103 +1288,103 @@ translate malay e01s01_scene_watersports_60f63ab2:
 translate malay e01s01_scene_watersports_bc11483c:
 
 
-    sy "*Loud moans* Fuck, [mcname]! God that feels fucking amazing."
+    sy "*Mengerang kuat* Sial, [mcname]! Rasanya luar biasa."
 
 
 translate malay e01s01_scene_watersports_a76a144b:
 
 
-    sy "Stop, stop. Please. Fuck me. I wanna feel you inside of me."
+    sy "Berhenti, berhenti. Tolong. Kongkek aku. Aku nak rasa kau di dalam diri aku."
 
 
 translate malay e01s01_scene_watersports_11f36ed7:
 
 
-    mc "Your wish is my command."
+    mc "Hasrat kau adalah perintah aku."
 
 
 translate malay e01s01_scene_watersports_49d16ca0:
 
 
-    sy "*Voice quivers* Yes... Fuck... Yes..."
+    sy "*Suara bergetar* Ya... {w}Sial... {w}Ya..."
 
 
 translate malay e01s01_scene_watersports_b573d2e0:
 
 
-    sy "Staggered moans* Oh my God, [mcname]. It feels weird."
+    sy "Erangan terhuyung-hayang* Ya, [mcname]. Rasanya pelik."
 
 
 translate malay e01s01_scene_watersports_d535cba4:
 
 
-    sy "I can feel your piss inside of me, God. It's so warm."
+    sy "Aku dapat rasakan kencing kau dalam diri aku. Ia sangat hangat."
 
 
 translate malay e01s01_scene_watersports_f3f1e9cf:
 
 
-    mc "Don't hold back. You should let go as well."
+    mc "Jangan tahan. Kau pun patut lepaskan."
 
 
 translate malay e01s01_scene_watersports_062a9d27:
 
 
-    mc "Stacy, fuck, I'm gonna cum."
+    mc "Stacy, sial, aku nak pancut."
 
 
 translate malay e01s01_scene_watersports_ba6ec926:
 
 
-    sy "Inside. Cum inside of me."
+    sy "Dalam. Pancut dekat dalam aku."
 
 
 translate malay e01s01_scene_watersports_38776729:
 
 
-    sy "I wanna feel your cum and piss inside of me."
+    sy "Aku nak rasa air mani dan kencing kau dalam diri aku."
 
 
 translate malay e01s01_scene_watersports_e27c6a54:
 
 
-    sy "*Giggles* That's so hot."
+    sy "*Ketawa* Menariknya."
 
 
 translate malay e01s01_scene_watersports_cf5a8618:
 
 
-    mc "Yeah... Christ."
+    mc "Yeah..."
 
 
 translate malay e01s01_scene_watersports_7e436bb8:
 
 
-    mc "We're gonna need a bath."
+    mc "Kita perlu mandi."
 
 
 translate malay e01s01_inbetween_1_7834020e:
 
 
-    sy "*Burps* Woops. 'cuse me."
+    sy "*Sendawa* Woops. Maafkan aku."
 
 
 translate malay e01s01_inbetween_1_ca7f0397:
 
 
-    mc "*Laughs* I guess you'll need plenty of energy to keep going."
+    mc "*Ketawa* Aku rasa kau perlukan banyak tenaga untuk meneruskannya."
 
 
 translate malay e01s01_inbetween_2_7d6bc20d:
 
 
-    mc "Damn that hit the spot. Didn't even realize I was that dehydrated."
+    mc "Itu kena pada tempatnya. Tak sedar pun aku haus sangat."
 
 
 translate malay e01s01_inbetween_2_b9f7582f:
 
 
-    sy "Gotta stay hydrated 'cause we're gonna be losing a lot of fluids."
+    sy "Perlu kekal terhidrat kerana kita akan kehilangan banyak cecair."
 
 
 translate malay e01s01_inbetween_3_913566dd:
@@ -1396,283 +1396,284 @@ translate malay e01s01_inbetween_3_913566dd:
 translate malay e01s01_inbetween_3_7d05dd5d:
 
 
-    mc "Are you okay!?"
+    mc "Kau okay tak!?"
 
 
 translate malay e01s01_inbetween_3_2fffe059:
 
 
-    sy "Yeah... But I think I stretched something."
+    sy "Yeah... Tapi aku rasa aku regangkan sesuatu."
 
 
 translate malay e01s01_inbetween_3_ad09b856:
 
 
-    mc "Shit."
+    mc "Sial."
 
 
 translate malay e01s01_inbetween_3_6ccf7ad5:
 
 
-    mc "Lay down and don't move. I'll go bring some ice."
+    mc "Baring dan jangan bergerak. Aku pergi dapatkan ais."
 
 
 translate malay e01s01_inbetween_3_a72c68e4:
 
 
-    mc "You really should've stretched first before trying that move out all willy-nilly."
+    mc "Sepatutnya kau meregangkan badan dulu."
 
 
 translate malay e01s01_inbetween_3_8c57bcf4:
 
 
-    sy "I know, I know. I just thought I could do it."
+    sy "Aku tahu aku tahu. Aku hanya fikir aku boleh melakukannya."
 
 
 translate malay e01s01_inbetween_3_449edecb:
 
 
-    mc "How do you feel now?"
+    mc "Macam mana sekarang?"
 
 
 translate malay e01s01_inbetween_3_588c249e:
 
 
-    sy "Much better, now that I have my own nurse."
+    sy "Lebih baik, sekarang aku ada jururawat aku sendiri."
 
 
 translate malay e01s01_inbetween_3_e4bf266b:
 
 
-    sy "I think I have a different ache here, Sir."
+    sy "Aku rasa aku ada sakit yang berbeza di sini, tuan."
 
 
 translate malay e01s01_inbetween_3_ab60044a:
 
 
-    mc "You're insatiable."
+    mc "Kau memang tak akan puas hati."
 
 
 translate malay e01s01_inbetween_3_85c8f185:
 
 
-    sy "I am. Now come and kiss me."
+    sy "Betul. Sekarang datang dan cium aku."
 
 
 translate malay e01s01_inbetween_4_9e98f7af:
 
 
-    mc "Fuck, the pizza is here."
+    mc "Sial, piza kita dah sampai."
 
 
 translate malay e01s01_inbetween_4_906c92f2:
 
 
-    sy "Damn we could've timed that better."
+    sy "Sial, kita boleh mengatur masa dengan lebih baik."
 
 
 translate malay e01s01_inbetween_4_4eedee1b:
 
 
-    sy "Woo! You always throw rock, dum dum."
+    sy "woo! Kau selalu baling batu, dum dum."
 
 
 translate malay e01s01_inbetween_4_5e1d488a:
 
 
-    mc "Best two outta three?"
+    mc "Terbaik dua daripada tiga?"
 
 
 translate malay e01s01_inbetween_4_c53ea9aa:
 
 
-    sy "Fine."
+    sy "Baiklah."
 
 
 translate malay e01s01_inbetween_4_0c30593b:
 
 
-    mc "Ugh, God damn it."
+    mc "Ugh, sial."
 
 
 translate malay e01s01_inbetween_4_f3a1a299:
 
 
-    sy "Giddy up, cowboy. I'm hungry."
+    sy "Marilah, si koboi. Aku lapar."
 
 
 translate malay e01s01_inbetween_5_f0be0c1e:
 
 
-    sy "Where the hell is it!? It could've just disappeared, we used it just yesterday!"
+    sy "Mana kejadahnya!? Ia mungkin hilang begitu sahaja, kita baru gunakannya semalam!"
 
 
 translate malay e01s01_inbetween_5_09c36e88:
 
 
-    mc "Did we throw it out? We finished one of the bottles, right?"
+    mc "Kita ada buang ke? Kita baru habiskan salah satu botol, kan?"
 
 
 translate malay e01s01_inbetween_5_e4d41dcf:
 
 
-    sy "No, we had another one."
+    sy "Tak, kita ada lagi satu."
 
 
 translate malay e01s01_inbetween_5_b56fb3d3:
 
 
-    sy "Damn it!"
+    sy "Tak guna!"
 
 
 translate malay e01s01_inbetween_5_ede4a53e:
 
 
-    mc "Hey. It's okay."
+    mc "Hey. Ianya okay."
 
 
 translate malay e01s01_inbetween_5_aa2fb29a:
 
 
-    sy "*Sigh* It's just now we gotta go get a new bottle of lube and that's just fucking annoying."
+    sy "*Mengeluh* Baru sekarang kita kena pergi dapatkan sebotol pelincir baru dan itu menjengkelkan."
 
 
 translate malay e01s01_inbetween_5_e237d4dc:
 
 
-    mc "Well... We don't {i}have{/i} to. I'm sure with enough spit and some...{i}persuading{/i}, we can get you to open up just fine."
+    mc "Jadi... Kita tak {i}perlu{/i}. Aku pasti dengan ludah yang mencukupi dan beberapa...{i}memujuk{/i}, kita boleh buat kau terbuka dengan baik."
 
 
 translate malay e01s01_inbetween_5_69379607:
 
 
-    sy "You sure?"
+    sy "Kau pasti?"
 
 
 translate malay e01s01_inbetween_5_e4f92a6b:
 
 
-    mc "Only one way to find out."
+    mc "Hanya satu cara untuk mengetahuinya."
 
 
 translate malay e01s01_inbetween_finale_bfde24a3:
 
 
-    sy "*Heaves* Phew, this is more exhausting than I thought."
+    sy "*Mengeluh* Fuh, ini lebih letihkan daripada apa yang aku sangka."
 
 
 translate malay e01s01_inbetween_finale_35324042:
 
 
-    mc "You can say that again."
+    mc "Kau boleh cakap macam tu lagi."
 
 
 translate malay e01s01_inbetween_finale_9c17db41:
 
 
-    sy "It's starting to get kind late as well."
+    sy "Ia mula nak jadi lewat juga."
 
 
 translate malay e01s01_inbetween_finale_2170fd5d:
 
 
-    sy "You wanna go again or wrap it up?"
+    sy "Kau nak pergi lagi?"
 
 
 translate malay e01s01_inbetween_finale_8a6a4f96:
 
 
-    sy "{size=20}I wouldn't mind another round or two... {i}If you have it in you.{/i}{/size}"
+    sy "{size=20}Aku tak kesah satu atau dua pusingan lagi... {i}Kalau kau nak.{/i}{/size}"
 
 
 translate malay e01s01_inbetween_finale_f5f1a451:
 
 
-    mc "Oh, I can go for as {i}long{/i} as you want."
+    mc "Oh, aku boleh pergi {i}selama{/i} mana kau nak."
 
 
 translate malay e01s01_inbetween_finale_b41f5199:
 
 
-    mc "Oh, I'm not done with you yet."
+    mc "Oh, aku belum selesai dengan kau lagi."
 
 
 translate malay e01s01_finale_3022d55e:
 
 
-    sy "*Moans loudly* I'm gon— I'm gonna cum. I'm gonna fucking pass out."
+    sy "*Mengerang dengan kuat* Aku nak— Aku nak pancut. Aku nak pengsan."
 
 
 translate malay e01s01_finale_3a7b618c:
 
 
-    sy "Cum— Cum with me, [mcname]. Please."
+    sy "Pancut— Pancut dengan aku, [mcname]. Tolonglah."
 
 
 translate malay e01s01_finale_02c9dad7:
 
 
-    "Both" "*Heaving*"
+    "Kedua-duanya" "*Mengeluh*"
 
 
 translate malay e01s01_finale_95c7633a:
 
 
-    mc "Are you okay?"
+    mc "Kau okay?"
 
 
 translate malay e01s01_finale_8b14f7f4:
 
 
-    sy "That was... *Catches her breath* Just what I wanted."
+    sy "Itu... *Menghela nafas* Apa yang aku nak."
 
 
 translate malay e01s01_finale_7b471f6f:
 
 
-    mc "Good."
+    mc "Bagus."
 
 
 translate malay e01s01_finale_f8555c83:
 
 
-    mc "Are you gonna tell me why we did this yet?"
+    mc "Kau akan beritahu aku kenapa kita lakukan ini?"
 
 
 translate malay e01s01_finale_421a7cd8:
 
 
-    sy "Not yet."
+    sy "Belum lagi."
 
 
 translate malay e01s01_finale_92561a1f:
 
 
-    sy "C'mon! Get dressed. We're going somewhere."
+    sy "Jom! Berpakaianlah. Kita akan pergi ke suatu tempat."
 
 
 translate malay e01s01_finale_1eea5611:
 
 
-    mc "What? Where the hell are we going?"
+    mc "Apa? Kita nak pergi mana?"
 
 
 translate malay e01s01_finale_a91b2eab:
 
 
-    sy "I'll explain on the way! Get dressed!"
+    sy "Aku akan terangkan dalam perjalanan! Berpakaianlah!"
 
 translate malay strings:
 
 
     old "Ending #1\nStacy & Mike"
-    new "Ending #1\nStacy & Mike"
+    new "Pengakhiran #1\\Stacy dan Mike"
 
 
     old "Let's do it all over again"
-    new "Let's do it all over again"
+    new "Mari kita buat semuanya lagi"
 
 
     old "Let's finish this"
-    new "Let's finish this"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Mari kita selesaikan ini"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -478,7 +478,7 @@ translate russian d21s06_8d049fd8:
 translate russian d21s06_df8d949a:
 
     # mc "I feel like Hugh Hefner in the Playboy mansion."
-    mc "Я чувствую себя Хью Хефнером в особняке Плэйбой.\n\n{size=-10}{i}(Хью Хефнер - основатель эротического журнала \"Playboy\"){/i}{/size}"
+    mc "Я чувствую себя Хью Хефнером в особняке Плэйбой.\n\n{size=-10}{i}Хью Хефнер - основатель эротического журнала \"Playboy\".{/i}{/size}"
 
 # game/code/d21/d21s06.rpy:254
 translate russian d21s06_50a02fb7:
@@ -1510,7 +1510,7 @@ translate russian d21s06_reboot_fl_793f8cda:
 translate russian d21s06_reboot_fl_e56a1f89:
 
     # mc "So you want veto power?"
-    mc "Так ты хочешь получить некое право вето?\n\n{size=-10}{i}(Вето - право, позволяющее в одностороннем порядке отказать в принятии того или иного решения){/i}{/size}"
+    mc "Так ты хочешь получить некое право вето?\n\n{size=-10}{i}Вето - право, позволяющее в одностороннем порядке отказать в принятии того или иного решения.{/i}{/size}"
 
 # game/code/d21/d21s06.rpy:675
 translate russian d21s06_reboot_fl_a6422911:

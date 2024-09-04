@@ -226,7 +226,6 @@ label e06s05_show_start:
     scene e06s05-28 dd-poses-front-harem-before-going-sy_c1 with dissolve
     pause
 
-
     $ Lovense.stop()
 
     play sound sfx_cloth_rustling2 volume 1.5
@@ -382,12 +381,12 @@ label e06s05_show_start:
     play voice4 min_thinking_hmm3 noloop
     mes "It might just get in the way."
     menu:
-        "Min canes Daisy's bare feet"(hint="e06s05m01c01") if True:
+        "Min canes Daisy's bare feet"(hint="e06s05m01c01"):
             $ e06s05_mes_1 = True
-        "Min pisses in Daisy's mouth"(hint="e06s05m01c02") if True:
+        "Min pisses in Daisy's mouth"(hint="e06s05m01c02"):
 
             $ e06s05_mes_2 = True
-        "Why Not Both?"(hint="e06s05m01c03") if True:
+        "Why Not Both?"(hint="e06s05m01c03"):
 
             $ e06s05_mes_1 = True
             $ e06s05_mes_2 = True
@@ -604,11 +603,11 @@ label e06s05_sy_choice:
     mc "That doesn't sound so bad."
     mc "Hmmm..."
     menu:
-        "Stacy makes Daisy gag and puke"(hint="e06s05m02c01") if True:
+        "Stacy makes Daisy gag and puke"(hint="e06s05m02c01"):
             $ e06s05_sy_1 = True
-        "Stacy fucks Daisy with a Strap-On"(hint="e06s05m02c02") if True:
+        "Stacy fucks Daisy with a Strap-On"(hint="e06s05m02c02"):
             $ e06s05_sy_2 = True
-        "Both"(hint="e06s05m02c03") if True:
+        "Both"(hint="e06s05m02c03"):
             $ e06s05_sy_1 = True
             $ e06s05_sy_2 = True
 
@@ -980,11 +979,11 @@ label e06s05_arj_choice:
     arj "That would be my choice as well."
     mct "Well, I guess I have a decision to make..."
     menu:
-        "AmRose gives Daisy an intense Enema"(hint="e06s05m03c01") if True:
+        "AmRose gives Daisy an intense Enema"(hint="e06s05m03c01"):
             $ e06s05_arj_1 = True
-        "AmRose Fists Daisy's Ass"(hint="e06s05m03c02") if True:
+        "AmRose Fists Daisy's Ass"(hint="e06s05m03c02"):
             $ e06s05_arj_2 = True
-        "Both"(hint="e06s05m03c03") if True:
+        "Both"(hint="e06s05m03c03"):
             $ e06s05_arj_1 = True
             $ e06s05_arj_2 = True
 
@@ -1164,7 +1163,6 @@ label e06s05_arj_enema:
     dd "I need a towel, a shower, and a pint of vodka."
     dd "Not necessarily in that order."
     scene e06s05-166 dd-rested-asking-what-next_c1 with Fade(0.5, 0.5, 0.5)
-
     play voice5 daisy_hey noloop
     dd "Alright, what's next?"
     if e06s05_arj_2 is True:
@@ -1670,7 +1668,6 @@ label e06s05_dd_cross:
     play voice4 min_old_laugh noloop
     mes "That was quite impressive."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -1714,7 +1711,7 @@ label e06s05_dd_after:
     lc "Not exactly... well, sorta."
     mct "Oh, she wants to know whether we should invite Daisy to join the Harem."
     menu:
-        "Invite Daisy to Join the Harem"(hint="e06s05m04c01") if True:
+        "Invite Daisy to Join the Harem"(hint="e06s05m04c01"):
             $ e06s05_dd_harem = True
 
             scene e06s05-253 invite-dd-lc-want-ask-something-dd_c1 with dissolve
@@ -1758,7 +1755,7 @@ label e06s05_dd_after:
             mct "Not exactly the answer I expected but... actually, yeah, that is pretty much the answer I would have expected from Daisy."
             play voice3 lydia_lydwow noloop
             lc "Excellent! AmRose can fill you in on all the details."
-        "Do Not Invite Her to Join"(hint="e06s05m04c02") if True:
+        "Do Not Invite Her to Join"(hint="e06s05m04c02"):
 
             scene e06s05-259 mc-declines-dd-harem-lc-nuff-said_c1 with dissolve
             play voice2 mc_disappointed_ah2 noloop
@@ -1793,4 +1790,5 @@ label e06s05_dd_after:
 
     stop music fadeout 3.5
     jump e06s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -103,7 +103,6 @@ label d19s04dd:
     play voice3 daisy_uhuh noloop
     dd "Nope. *teehee*"
 
-
     $ Lovense.stop()
 
     scene d19s04_dd-a14 mc-remove-sheet-glambot-14-030_i with dissolve
@@ -323,7 +322,6 @@ label d19s04dd:
     play voice2 mc_happy_oof3 noloop
     mc "You're amazing."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -518,7 +516,7 @@ label d19s04dd_plushie:
     $ renpy.music.set_volume(0.6, 1.5, "music")
     scene d19s04-dd-88 choice-menu with dissolve
     menu:
-        "Always Bet on Black"(hint="d19s04ddm01c01") if True:
+        "Always Bet on Black"(hint="d19s04ddm01c01"):
             $ d19s04_dd_black = True
 
             $ renpy.music.set_volume(0.2, 1.5, "music")
@@ -549,7 +547,7 @@ label d19s04dd_plushie:
             scene d19s04-dd-97 mc-inner-talk with dissolve
             play voice2 d1s1_mmm noloop
             mct "Is that how her mind works? I can't even imagine..."
-        "Odd is Definitely the Way to Go"(hint="d19s04ddm01c02") if True:
+        "Odd is Definitely the Way to Go"(hint="d19s04ddm01c02"):
 
             $ d19s04_dd_odd = True
 
@@ -563,7 +561,7 @@ label d19s04dd_plushie:
             scene d19s04-dd-91 dd-talk-mc with dissolve
             play voice2 mc_yes_yes3 noloop
             mc "Exactly."
-        "Something like 2nd dozen, maybe"(hint="d19s04ddm01c03") if True:
+        "Something like 2nd dozen, maybe"(hint="d19s04ddm01c03"):
 
             $ d19s04_dd_dozen = True
 
@@ -583,7 +581,7 @@ label d19s04dd_plushie:
             scene d19s04-dd-93 mc-talk-dd with dissolve
             play voice2 mc_yes_yeah4 noloop
             mc "Bet it all on the second dozen."
-        "What's a Corner bet?"(hint="d19s04ddm01c04") if True:
+        "What's a Corner bet?"(hint="d19s04ddm01c04"):
 
             $ d19s04_dd_corner = True
 
@@ -601,7 +599,7 @@ label d19s04dd_plushie:
             scene d19s04-dd-91 dd-talk-mc with dissolve
             play voice2 mc_yes_okay3 noloop
             mc "Cool. Sounds like that would be an interesting bet to make."
-        "Single Number"(hint="d19s04ddm01c05") if True:
+        "Single Number"(hint="d19s04ddm01c05"):
 
             $ d19s04_dd_single = True
 
@@ -761,7 +759,7 @@ label ending_11_return hide:
     $ unlock_ending("11")
     call update_ending_variables from _call_update_ending_variables_1
     menu:
-        "Till Death Do You Part - Go With Daisy To The End"(hint="d19s04ddm02c01") if True:
+        "Till Death Do You Part - Go With Daisy To The End"(hint="d19s04ddm02c01"):
             $ d19s04_dd_end = True
 
             $ renpy.music.set_volume(0.3, 1.5, "music")
@@ -821,4 +819,5 @@ label ending_11_return hide:
     elif True:
         stop music fadeout 4.0
         jump d19s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

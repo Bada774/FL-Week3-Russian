@@ -391,7 +391,6 @@ label replay_e02s07 hide:
     play voice5 girl12_disappointed_oh4 noloop
     dn "It's just... when am I going to have an opportunity like this again."
 
-
     $ Lovense.stop()
 
     play sound sfx_handjob_cream1 loop
@@ -518,9 +517,9 @@ label e02s07_sex:
     play voice4 cynthia_yes_aga noloop
     ms "If that's what you want to do - please, go ahead."
     menu:
-        "Fuck Lyssa while the Lesbians Watch"(hint="e02s07m01c01") if True:
+        "Fuck Lyssa while the Lesbians Watch"(hint="e02s07m01c01"):
             $ e02s07_mc_anal = False
-        "Let Lyssa Fuck You Instead"(hint="e02s07m01c02") if True:
+        "Let Lyssa Fuck You Instead"(hint="e02s07m01c02"):
 
             $ e02s07_mc_anal = True
 
@@ -1090,7 +1089,6 @@ label e02s07_strap_on:
     dn "IIIIii'm CummMMMmING!!!"
     stop voice5 fadeout 1.0
 
-
     $ Lovense.stop()
 
     scene e02s07-250_ff_part3_msdn_cuddling with Fade(0.5, 0.5, 0.5)
@@ -1129,4 +1127,5 @@ label e02s07_strap_on:
 
     $ renpy.music.set_volume(0.2, 3.0, "music" )
     jump e02s05_menu
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

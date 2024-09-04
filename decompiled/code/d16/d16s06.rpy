@@ -395,7 +395,6 @@ label d16s06:
         aw "Alright. And we're live again."
         aw "Everyone's jumping back in again. Great."
 
-
         $ Lovense.stop()
 
         scene d16s06-51 mc-aw-introducing-mc_c2 with dissolve
@@ -600,7 +599,6 @@ label d16s06:
         play voice3 amrose_disappointed_ehh2 noloop
         aw "I'll see you all in a bit."
 
-
         $ Lovense.stop()
 
         scene d16s06-74 mc-aw-allison-closing stream_c1 with dissolve
@@ -644,4 +642,5 @@ label d16s06:
     stop music3 fadeout 3.5
 
     jump d16s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

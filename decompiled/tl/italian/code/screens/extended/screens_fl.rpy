@@ -16,11 +16,11 @@ translate italian strings:
 
 
     old "Hints on"
-    new "Suggerimenti\nattivi"
+    new "Suggerimenti attivi"
 
 
     old "Hints off"
-    new "Suggerimenti\ndisattivati"
+    new "Suggerimenti disattivati"
 
 
     old "Page [page]"
@@ -37,4 +37,5 @@ translate italian strings:
 
     old "Coming Soon"
     new "Prossimamente"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

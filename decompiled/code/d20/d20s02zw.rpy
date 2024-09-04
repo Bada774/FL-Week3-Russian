@@ -142,7 +142,7 @@ label d20s02zw:
     play voice2 d14s16_smell noloop
     mct "I need to get her to talk. I need to do {i}something{/i}."
     menu:
-        "Ask her more questions"(hint="d20s02zwm01c01") if True:
+        "Ask her more questions"(hint="d20s02zwm01c01"):
             $ d20s02zw_ask_more = True
 
             scene d20s02-27 mc-zw-1st-response-angry-questions with dissolve
@@ -160,7 +160,7 @@ label d20s02zw:
             zw "For a second, I thought maybe you would be different when I first saw you, but I was wrong. You're just the same."
 
             jump d20s02zw_zarah_failed
-        "Try to seduce her"(hint="d20s02zwm01c02") if True:
+        "Try to seduce her"(hint="d20s02zwm01c02"):
 
             $ d20s02zw_seduce = True
 
@@ -184,7 +184,7 @@ label d20s02zw:
             zw "That's all you are. A manwhore that sticks his dick in anything that moves and leaves them ruined."
 
             jump d20s02zw_zarah_failed
-        "Give her a piece of your mind"(hint="d20s02zwm01c03") if True:
+        "Give her a piece of your mind"(hint="d20s02zwm01c03"):
 
             $ d20s02zw_influenced = True
 
@@ -261,7 +261,7 @@ label d20s02zw_influenced:
     mh "It's alright. You've gone through a lot of pain. You crave the closure you never got."
     scene d20s02-54 zw-mh-mc-no-sex-choice-talk-chin-touch-alt with dissolve
     menu:
-        "Stay where you are"(hint="d20s02zwm02c01") if True:
+        "Stay where you are"(hint="d20s02zwm02c01"):
             scene d20s02-55 zw-mh-no-sex-sad-look-away with dissolve
             play voice4 lissa_thinking noloop
             mh "You're confronting something that's extremely deeply rooted. Neither I nor he can help you with that."
@@ -316,7 +316,7 @@ label d20s02zw_influenced:
             $ renpy.end_replay()
 
             jump d20s02zw_end
-        "Go to Lyssa and Zarah"(hint="d20s02zwm02c02") if True:
+        "Go to Lyssa and Zarah"(hint="d20s02zwm02c02"):
 
             $ d20s02zw_sex = True
 
@@ -332,7 +332,6 @@ label d20s02zw_sex:
     play voice3 chloe_surprised_huh3 noloop
     zw "What's there to be sorry for? You haven't even done anything."
     zw "And I know that, I do. But I still feel...so much anger."
-
 
     $ Lovense.stop()
 
@@ -521,7 +520,7 @@ label d20s02zw_sex:
     pause
     mh "Me too."
     menu:
-        "Cum outside"(hint="d20s02zwm03c01") if True:
+        "Cum outside"(hint="d20s02zwm03c01"):
             play voice2 mc_angry_errr4 noloop
             $ Lovense.stop()
             $ Lovense.vibrate(17)
@@ -539,7 +538,7 @@ label d20s02zw_sex:
             play voice4 lissa_laugh noloop
             mh "Perhaps. But she certainly seemed to enjoy it."
             mh "We should help her get cleaned up."
-        "Cum inside"(hint="d20s02zwm03c02") if True:
+        "Cum inside"(hint="d20s02zwm03c02"):
 
             $ d20s02zw_cum_inside = True
 
@@ -569,7 +568,6 @@ label d20s02zw_sex:
             play voice4 lissa_laugh noloop
             mh "Perhaps. But she certainly seemed to enjoy it."
             mh "We should help her get cleaned up."
-
 
     $ Lovense.stop()
 
@@ -667,4 +665,5 @@ label d20s02zw_end:
 
     stop music fadeout 3.0
     jump d20s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

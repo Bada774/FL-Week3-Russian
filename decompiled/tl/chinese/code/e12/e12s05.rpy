@@ -2253,4 +2253,5 @@ translate chinese strings:
 
     old "Not now"
     new "现在不行"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

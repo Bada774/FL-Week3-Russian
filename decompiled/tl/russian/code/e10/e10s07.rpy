@@ -64,7 +64,7 @@ translate russian e10s07_0d77f5b1:
 translate russian e10s07_4003e446:
 
     # md "It was surprisingly affordable. Your current employees seemed more than willing to cash out their shares."
-    md "Это было на удивление просто. Ваши нынешние сотрудники, были более чем готовы продать свои акции."
+    md "Это было на удивление просто. Ваши нынешние сотрудники, были более чем рады продать свои акции."
 
 # game/code/e10/e10s07.rpy:44
 translate russian e10s07_2a65a980:
@@ -100,7 +100,7 @@ translate russian e10s07_facf1ccf:
 translate russian e10s07_c87317e7:
 
     # md "Of course, and I assume as CEO you have some shares as well. This offer is quite amicable for everyone involved."
-    md "Конечно, и я предполагаю, что как генеральный директор у вас тоже есть какие-то акции. Это предложение вполне приемлемо для всех участников."
+    md "Конечно, и я предполагаю, что как у генеральных директоров у вас тоже есть какие-то акции. Это предложение вполне приемлемо для всех участников."
 
 # game/code/e10/e10s07.rpy:61
 translate russian e10s07_4c9e924d:
@@ -130,7 +130,7 @@ translate russian e10s07_48d44569:
 translate russian e10s07_b8d622eb:
 
     # md "It would be a better use of your talents. We'll simply refuse and nullify your resignation."
-    md "Это было бы лучшее применение твоим талантам. Мы просто отменим и аннулируем твою отставку."
+    md "Это было бы лучшим применение твоим талантам. Мы просто отменим и аннулируем твою отставку."
 
 # game/code/e10/e10s07.rpy:74
 translate russian e10s07_01ebaf99:
@@ -160,7 +160,7 @@ translate russian e10s07_3a208ebb:
 translate russian e10s07_2d8d1978:
 
     # mc "So, the board rejecting your proposal is just a formality."
-    mc "Таким образом, отказ вашего предложения - это просто формальность."
+    mc "Таким образом, отказ от вашего предложения - это просто формальность."
 
 # game/code/e10/e10s07.rpy:85
 translate russian e10s07_2035e8ae:
@@ -214,7 +214,7 @@ translate russian e10s07_d93d6b5b:
 translate russian e10s07_af8148f0:
 
     # mes "We do not want you controlling our business or our lives."
-    mes "Мы не хотим, чтобы ты контролировали наш бизнес или нашу жизнь."
+    mes "Мы не хотим, чтобы ты контролировал наш бизнес или нашу жизнь."
 
 # game/code/e10/e10s07.rpy:110
 translate russian e10s07_7c792ccb:
@@ -262,7 +262,7 @@ translate russian e10s07_7d760b99:
 translate russian e10s07_8bf3fecf:
 
     # mc "So, what do you think?"
-    mc "Так что Вы думаете?"
+    mc "Итак, что думаете по этому поводу?"
 
 # game/code/e10/e10s07.rpy:135
 translate russian e10s07_4b0173f5:
@@ -346,7 +346,7 @@ translate russian e10s07_0c9f5e7b:
 translate russian e10s07_746e5445:
 
     # mm "And why not? I want grandbabies, and you're brother can't even seem to get a date."
-    mm "А почему бы нет? Я хочу внуков, а твой брат, похоже, даже на свидание не может пойти."
+    mm "А почему бы нет? Я хочу внуков, а твой брат даже на свидание не может пойти."
 
 # game/code/e10/e10s07.rpy:171
 translate russian e10s07_1bf1ef60:
@@ -358,7 +358,7 @@ translate russian e10s07_1bf1ef60:
 translate russian e10s07_d135212a:
 
     # mm "You're not sterile, are you boy? That might be a deal breaker."
-    mm "Ты ведь не бесплоден, мальчик? Это может стать решающим фактором."
+    mm "Ты ведь не бесплоден, малыш? Это может стать решающим фактором."
 
 # game/code/e10/e10s07.rpy:175
 translate russian e10s07_ebb442bd:
@@ -418,13 +418,13 @@ translate russian e10s07_aba73ffa:
 translate russian e10s07_5c4ff2d1:
 
     # mm "And of course I want lots of grandbabies from both of you as soon as possible."
-    mm "И, конечно же, я хочу, чтобы у меня как можно скорее настолько много внуков, насколько вообще возможно."
+    mm "И, конечно же, я хочу, чтобы у меня как можно скорее появилось много внуков."
 
 # game/code/e10/e10s07.rpy:198
 translate russian e10s07_4eb7943b:
 
     # mc "I'll do what I can in that regard, ma'am."
-    mc "В этом вопросе, я сделаю всё возможное, мэм."
+    mc "Касательно этого вопроса, я сделаю всё, что в моих силах, мэм."
 
 # game/code/e10/e10s07.rpy:200
 translate russian e10s07_b17777c4:

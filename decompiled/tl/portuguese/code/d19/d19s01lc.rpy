@@ -773,4 +773,5 @@ translate portuguese strings:
 
     old "Tell Her It Was Fun"
     new "Falar Que Foi Divertido"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

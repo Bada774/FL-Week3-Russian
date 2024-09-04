@@ -294,3 +294,75 @@ translate russian strings:
     old "Ending 14: Polly, Nora & Debbie"
     new "Концовка 14: Полли, Нора & Дебби"
 
+# TODO: Translation updated at 2023-12-16 21:29
+
+translate russian strings:
+
+    # game/code/data/extended/replay_room.rpy:120
+    old "Ending 11: Daisy & Janet"
+    new "Концовка 11: Дейзи & Джанет"
+
+    # game/code/data/extended/replay_room.rpy:150
+    old "Ending 17: Dahlia & Room Service"
+    new "Концовка 17: Далия & Обслуживание номеров"
+
+    # game/code/data/extended/replay_room.rpy:150
+    old "Ending 17: Dahlia & Domina"
+    new "Концовка 17: Далия & Домина"
+
+    # game/code/data/extended/replay_room.rpy:150
+    old "Ending 17: Pregnant Dahlia"
+    new "Концовка 17: Беременная Далия"
+
+# TODO: Translation updated at 2024-02-23 00:11
+
+translate russian strings:
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lydia"
+    new "Концовка 04: Лидия"
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lydia, Stacy & AmRose"
+    new "Концовка 04: Лидия, Стейси & АмРоуз"
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Концовка 04: Дейзи, Лидия, Стейси & АмРоуз"
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lyssa & Lydia"
+    new "Концовка 04: Лисса & Лидия"
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lydia & Maria"
+    new "Концовка 04: Лидия & Мария"
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Harem"
+    new "Концовка 04: Гарем"
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: AmRose"
+    new "Концовка 07: АмРоуз"
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia"
+    new "Концовка 07: Лидия"
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia & Domina"
+    new "Концовка 07: Лидия & Домина"
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia Gangbang"
+    new "Концовка 07: Гэнгбэнг Лидии"
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Public Toilet"
+    new "Концовка 07: Общественный Туалет"
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia & AmRose"
+    new "Концовка 07: Лидия & АмРоуз"
+

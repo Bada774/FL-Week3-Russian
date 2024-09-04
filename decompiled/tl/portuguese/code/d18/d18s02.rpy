@@ -305,4 +305,5 @@ translate portuguese strings:
 
     old "1 hour later\nAt Stacy's house"
     new "1 hora depois\nNa casa da Stacy"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

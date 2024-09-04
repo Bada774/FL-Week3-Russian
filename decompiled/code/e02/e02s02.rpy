@@ -127,7 +127,6 @@ label replay_e02s02 hide:
     mc "Yell out?"
     mh "My voice doesn’t project that much."
 
-
     $ Lovense.stop()
 
     play sound sfx_cloth_rustling4
@@ -180,12 +179,6 @@ label replay_e02s02 hide:
     scene e02s02-a14-3 with dissolve
     pause
     mh "*Pop*"
-
-
-
-
-
-
     $ renpy.music.set_volume(0.7, 2.0, "music" )
     $ Lovense.stop()
     $ Lovense.vibrate(4)
@@ -265,7 +258,6 @@ label replay_e02s02 hide:
     $ unlock_gallery_slot("scene", "e02s02")
     mh "One of these days though, we have to ski. We can’t have sex the entire time we’re here."
     mc "Hey, let’s not rule anything out."
-
 
     $ Lovense.stop()
 
@@ -349,4 +341,5 @@ label replay_e02s02 hide:
     stop sound2 fadeout 3.0
     stop sound fadeout 3.0
     jump e02s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

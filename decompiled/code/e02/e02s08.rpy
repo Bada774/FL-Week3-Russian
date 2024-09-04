@@ -376,7 +376,6 @@ label replay_e02s08 hide:
     mh "Being submissive isn't something that makes you lesser."
     mh "You {i}allow{/i} your dominant to take control. But you can just as easily take that control back."
 
-
     $ Lovense.stop()
 
     play sound sfx_jeans_on1
@@ -413,9 +412,9 @@ label replay_e02s08 hide:
     play voice3 lissa_haha noloop
     mh "*Giggles* I know."
     menu:
-        "Be dominant with Lyssa"(hint="e02s08m01c01") if True:
+        "Be dominant with Lyssa"(hint="e02s08m01c01"):
             $ e02s08_dom = True
-        "Be submissive with Lyssa"(hint="e02s08m01c02") if True:
+        "Be submissive with Lyssa"(hint="e02s08m01c02"):
 
             $ e02s08_dom = False
 
@@ -988,7 +987,6 @@ label e02s08_foursome:
     atp "FILL ME UP! GIVE ME YOUR CUM!"
     $ renpy.music.set_volume(0.3, 3.0, "music" )
 
-
     $ Lovense.stop()
 
     scene e02s08-161 ap-sits-ground-recuperating-never-cum-this-hard_c1 with Fade(0.5, 0.5, 0.5)
@@ -1016,4 +1014,5 @@ label e02s08_foursome:
 
     $ renpy.music.set_volume(0.25, 3.0, "music" )
     jump e02s05_menu
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

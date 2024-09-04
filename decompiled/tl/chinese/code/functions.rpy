@@ -15,12 +15,12 @@ translate chinese strings:
     new "你已经解锁了一个新的奖励内容"
 
 
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "游戏将根据\n默认的游戏流程重放场景"
+    old "The game will replay the scene according to a default playthrough"
+    new "游戏将根据默认的游戏流程重放场景"
 
 
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "游戏将尝试根据\n你当前的玩法重放场景"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "游戏将尝试根据你当前的玩法重放场景"
 
 
     old "You can only select two out of Min, Lyssa and Maria"
@@ -36,5 +36,6 @@ translate chinese strings:
 
 
     old "You have unlocked Ending #{}"
-    new "You have unlocked Ending #{}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "您已解锁结局#{}"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

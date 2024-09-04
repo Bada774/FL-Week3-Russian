@@ -70,7 +70,7 @@ translate russian e08s01_e15a70a6:
 translate russian e08s01_56471a62:
 
     # mc "Yeah. I'm not even making that up. In French, it's called a fleur-de-Lydia."
-    mc "Ага. И это даже не я придумал. По-французски это называется \"Флер-де-Лидия\".\n\n{size=-10}{i}(Цветок лилии){/i}{/size}"
+    mc "Ага. И это даже не я придумал. По-французски это называется \"fleur-de-Lydia\".\n\n{size=-10}{i}Франц. Цветок лилии.{/i}{/size}"
 
 # game/code/e08/e08s01.rpy:115
 translate russian e08s01_9e281d9a:
@@ -706,7 +706,7 @@ translate russian e08s01_9c9b73e2:
 translate russian e08s01_d66e0b21:
 
     # arj "I recommended we both read Their Eyes Were Watching God."
-    arj "Я посоветовала прочитать \"Их глаза смотрели на Бога\".\n\n{size=-10}{i}(\"Их глаза смотрели на Бога\" - Роман американской писательницы Зоры Нил Хёрстон){/i}{/size}"
+    arj "Я посоветовала прочитать \"Их глаза смотрели на Бога\".\n\n{size=-10}{i}\"Их глаза смотрели на Бога\" - Роман американской писательницы Зоры Нил Хёрстон.{/i}{/size}"
 
 # game/code/e08/e08s01.rpy:354
 translate russian e08s01_a6e7ae0c:
@@ -994,7 +994,7 @@ translate russian e08s01_arj_back_abb6bf18:
 translate russian e08s01_arj_back_d3ef63a7:
 
     # arj "That's a euphemism, I take it."
-    arj "Я так понимаю, это был эвфемизм.\n\n{size=-10}{i}(Эвфемизм - нейтральное слово, или выражение, заменяющее собой что-то более грубое или некрасивое){/i}{/size}"
+    arj "Я так понимаю, это был эвфемизм.\n\n{size=-10}{i}Эвфемизм - нейтральное слово, или выражение, заменяющее собой что-то более грубое или некрасивое.{/i}{/size}"
 
 # game/code/e08/e08s01.rpy:499
 translate russian e08s01_arj_back_4662577b:
