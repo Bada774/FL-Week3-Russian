@@ -58,7 +58,7 @@ translate russian e08s07_b3b9d082:
 translate russian e08s07_391a1551:
 
     # sy "Of course. But I didn't think your boys would fill her out this much."
-    sy "Конечно. Но я не думала, что твои мальчики настолько её заполнят."
+    sy "Конечно. Но я не думала, что твои мальчики заполнят её настолько."
 
 # game/code/e08/e08s07.rpy:156
 translate russian e08s07_ebd3f315:
@@ -106,13 +106,13 @@ translate russian e08s07_0d6fecc8:
 translate russian e08s07_21851254:
 
     # arj "Oh that's alright, Stacy. We've been getting enough gifts as it is."
-    arj "О, всё в порядке, Стейси. Мы и так получили достаточно подарков."
+    arj "О, Стейси, всё в порядке. Мы и так получили достаточно подарков."
 
 # game/code/e08/e08s07.rpy:186
 translate russian e08s07_d96ecafb:
 
     # sy "Right. I read how you two really helped out after the storm."
-    sy "Ну да. Я читала, что вы всем помогали того шторма."
+    sy "Ну да. Я читала, что вы всем помогали после того шторма."
 
 # game/code/e08/e08s07.rpy:188
 translate russian e08s07_473f6d41:
@@ -124,7 +124,7 @@ translate russian e08s07_473f6d41:
 translate russian e08s07_04705616:
 
     # sy "That storm sounded like it was a doozy. We never get anything like that in the city."
-    sy "Видимо, шторм был совсем ужасен. У нас в городе ничего подобного не бывает."
+    sy "Видимо, это быд ужасный шторм. У нас в городе ничего подобного не бывает."
 
 # game/code/e08/e08s07.rpy:194
 translate russian e08s07_b55420ae:
@@ -178,7 +178,7 @@ translate russian e08s07_5ed25353:
 translate russian e08s07_2c6ef9b0:
 
     # sy "I figured he'd test out the connections before doing a heist. All it took was me finding a location not at a bank and I knew I had him."
-    sy "Я предположила, что он решит проверить связь перед ограблением. И мне всего лишь понадобилось найти место, откуда идут таки запросы и которе не является банком, и я поняла, что нашла его."
+    sy "Я предположила, что он решит проверить связь перед ограблением. И мне всего лишь понадобилось найти место, откуда идут такие запросы, и я поняла, что нашла его."
 
 # game/code/e08/e08s07.rpy:217
 translate russian e08s07_d19a8cca:
@@ -196,7 +196,7 @@ translate russian e08s07_25fbe21c:
 translate russian e08s07_26b5e680:
 
     # sy "Haha. It was nothing. Unlocking the mystery of Fetish Locator still takes the prize for best crime busting in my book."
-    sy "Хаха. Это было ничто. Дело Фетиш Локатора по-прежнему получает приз за лучшее раскрытие преступлений."
+    sy "Хаха. Это ничто. Дело Фетиш Локатора по-прежнему получает приз за лучшее раскрытие преступлений."
 
 # game/code/e08/e08s07.rpy:225
 translate russian e08s07_d71f3430:
@@ -424,7 +424,7 @@ translate russian e08s07_continue_2da24ed0:
 translate russian e08s07_arj_sy_ea13afa5:
 
     # sy "Someone say my name?"
-    sy "Кто-то скажл моё имя?"
+    sy "Кто-то сказал моё имя?"
 
 # game/code/e08/e08s07.rpy:417
 translate russian e08s07_arj_sy_3b5f5718:
@@ -544,7 +544,7 @@ translate russian e08s07_arj_sy_ae8148a1:
 translate russian e08s07_arj_sy_f9db9427:
 
     # sy "Duh. And now... this big cock of yours is going to break me all over again!"
-    sy "Да. И теперь... твой большой член снова меня сломает!"
+    sy "Да. И теперь... твой большой член снова меня ломает!"
 
 # game/code/e08/e08s07.rpy:608
 translate russian e08s07_arj_sy_e1fff480:
@@ -670,7 +670,7 @@ translate russian e08s07_sy_arj_final_0ee60692:
 translate russian e08s07_sy_arj_final_4e1104ea:
 
     # sy "Not till you put a dent in this kid's college payments."
-    sy "Не можешь, пока ты оплатишь учёбу этого ребенка."
+    sy "Не можешь, пока ты не оплатишь учёбу этого ребенка."
 
 # game/code/e08/e08s07.rpy:769
 translate russian e08s07_sy_arj_final_dbadb8b0:
@@ -862,7 +862,7 @@ translate russian e08s07_arj_only_e5c8b56f_1:
 translate russian e08s07_next_day_55a83abf:
 
     # sy "Morning. I hate to say it, but it looks like I'll have to cut the weekend trip a little short."
-    sy "Утречкт. Не хочу это говорить, но, похоже, мне придётся немного сократить свою поездку."
+    sy "Утречко. Не хочу это говорить, но, похоже, мне придётся немного сократить свою поездку."
 
 # game/code/e08/e08s07.rpy:1039
 translate russian e08s07_next_day_191559e1:

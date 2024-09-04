@@ -131,7 +131,6 @@ label e06s09:
     stop sound2 fadeout 1.5
     stop sound fadeout 1.5
 
-
     $ Lovense.stop()
 
     scene e06s09-04 mc-leans-over-lc-cant-choose_c1 with dissolve
@@ -158,51 +157,39 @@ label e06s09_menu:
 
     menu:
         "Missionary" if e06s09_menu_group is 1 and e06s09_missionary is False:
-
             jump e06s09_missionary
 
         "Blowjob" if e06s09_menu_group is 1 and e06s09_blowjob is False:
-
             jump e06s09_blowjob
 
         "Her on Top" if e06s09_menu_group is 1 and e06s09_together is False:
-
             jump e06s09_together
 
         "Stand Up" if e06s09_menu_group is 1 and e06s09_stand_up is False:
-
             jump e06s09_stand_up
 
         "Doggy Style" if e06s09_menu_group is 2 and e06s09_doggy_style is False:
-
             jump e06s09_doggy_style
 
         "FaceFuck" if e06s09_menu_group is 2 and e06s09_face_fuck is False:
-
             jump e06s09_face_fuck
 
         "Really Get Up In There" if e06s09_menu_group is 2 and e06s09_deep is False:
-
             jump e06s09_deep
 
         "Try Something Fancy" if e06s09_menu_group is 2 and e06s09_fancy is False:
-
             jump e06s09_fancy
 
         "Slope" if e06s09_menu_group is 3 and e06s09_slope is False:
-
             jump e06s09_slope
 
         "Eat Her Out" if e06s09_menu_group is 3 and e06s09_eat_out is False:
-
             jump e06s09_eat_out
 
         "Screw Her" if e06s09_menu_group is 3 and e06s09_screw_her is False:
-
             jump e06s09_screw_her
 
         "Cum" if e06s09_position_done > 3:
-
             jump e06s08_climax
 
 label e06s09_missionary:
@@ -561,10 +548,10 @@ label e06s09_face_fuck:
     play voice2 d1s5_mcthinks noloop volume 2.0
     mct "I better stop and check on her."
     menu:
-        "Just Keep Going" if True:
+        "Just Keep Going":
             play voice2 mc_arrogant_nah1 noloop
             mct "Nah. She can handle it."
-        "Check on Her" if True:
+        "Check on Her":
 
             $ e06s09_check_her = True
 
@@ -972,7 +959,6 @@ label e06s08_post_climax:
     play voice2 mc_yes_yes3 noloop
     mc "Of course."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -1147,4 +1133,5 @@ label e06s09_end:
     stop music fadeout 3.0
 
     jump end
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

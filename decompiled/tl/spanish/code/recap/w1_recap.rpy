@@ -491,4 +491,5 @@ translate spanish strings:
 
     old "Recap of Week-1 Events"
     new "Resumen de los eventos de la Semana 1"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

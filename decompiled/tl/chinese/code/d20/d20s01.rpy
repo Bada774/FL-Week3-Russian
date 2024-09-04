@@ -567,4 +567,5 @@ translate chinese strings:
 
     old "Do you want Stacy to pee on you?"
     new "你想让史黛西在你身上撒尿吗？"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

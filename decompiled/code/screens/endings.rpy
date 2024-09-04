@@ -19,9 +19,13 @@ screen fl_endings():
         for e in endings_list:
             if check_ending_lock(e[0]) is True:
                 frame:
-                    has vbox
-                    imagebutton auto "images/utility/endings/ending_" + e[0][1:] + "_%s.webp" action ShowMenu("ending_start_screen", e[0]) style "ending_grid_button"
-                    text e[0] + " - " + e[1]
+                    vbox:
+                        imagebutton auto "images/utility/endings/ending_" + e[0][1:] + "_%s.webp" action ShowMenu("ending_start_screen", e[0]) style "ending_grid_button"
+                        text e[0] + " - " + e[1]
+                    if e[4] == 2:
+                        frame:
+                            style_prefix "dlc_stamp_endings"
+                            text "DLC-1"
             else:
                 frame:
                     has vbox
@@ -50,9 +54,7 @@ screen ending_start_screen(ending):
                 has vbox
                 label e[1]
                 if not get_has_ending(e[0][-2:]) or not renpy.has_label(e[2]):
-                    if e[4] == 2:
-                        text _("This ending will be included in a future FREE DLC")
-                    elif e[4] == 3:
+                    if e[4] == 3:
                         text _("This ending will be included in a future DLC")
 
             frame:
@@ -60,6 +62,8 @@ screen ending_start_screen(ending):
                 has hbox
                 if get_has_ending(e[0][-2:]) and renpy.has_label(e[2]):
                     textbutton _("Play") action Start(e[2]) style "ending_screen_start"
+                elif e[4] == 2 and is_steam_edition is True:
+                    textbutton _("Download free DLC containing this ending") action OpenURL("steam://openurl/https://store.steampowered.com/app/2755430/Fetish_Locator_Week_Three__Bonus_Endings_DLC_One/") style "ending_screen_steam"
                 textbutton _("Return") action ShowMenu("fl_endings") keysym "pad_b_press" style "ending_screen_return"
                 null height 0
 
@@ -80,6 +84,18 @@ screen ending_unavailable(ending):
         textbutton _("Exit to Mainmenu"):
             action MainMenu()
             xalign 0.5
+
+style dlc_stamp_endings_text:
+    color "#f8dbc3"
+    size 16
+
+style dlc_stamp_endings_frame:
+    background Frame("images/utility/menu/dlc_stamp_frame.webp", 16, 16, 16, 16)
+    xpadding 22
+    top_padding 20
+    bottom_padding 16
+    xcenter 0.85
+    ycenter 0.16
 
 style ending_start_screen_frame:
     xalign 0.0
@@ -126,6 +142,17 @@ style ending_screen_start_text:
     idle_color "#FFF"
     hover_color gui.hover_color
 
+style ending_screen_steam:
+    idle_background "images/utility/menu/selected/steam.webp"
+    hover_background "images/utility/menu/hover/steam.webp"
+    left_padding 50
+    hover_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_submenu_hover.mp3"
+    activate_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_button_click.mp3"
+
+style ending_screen_steam_text:
+    idle_color "#FFF"
+    hover_color gui.hover_color
+
 style ending_screen_return:
     idle_background "images/utility/menu/selected/return.webp"
     hover_background "images/utility/menu/hover/return.webp"
@@ -168,4 +195,5 @@ style ending_grid_text:
     xalign 0.5
     text_align 0.5
     size 22
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -94,7 +94,7 @@ translate russian e02s07_0d8389a6:
 translate russian e02s07_7cd193fa:
 
     # ms "You'll have to forgive Dorothy. She took a mogul badly earlier."
-    ms "Вы не обижайтесь на Дороти. Она недавно не совсем удачно проехала на могуле.\n\n{size=-10}{i}(Могул - горнолыжная трасса с множеством бугров){/i}{/size}"
+    ms "Вы не обижайтесь на Дороти. Она недавно не совсем удачно проехала на могуле.\n\n{size=-10}{i}Могул - горнолыжная трасса с множеством бугров.{/i}{/size}"
 
 # game/code/e02/e02s07.rpy:111
 translate russian e02s07_8d74810e:

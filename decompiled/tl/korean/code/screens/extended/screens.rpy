@@ -67,26 +67,19 @@ translate korean strings:
     new "BONUS CONTENT"
 
 
-
-translate korean strings:
-
-
-    old "Wishlist Vinovella University on Steam"
-    new "Wishlist Vinovella University on Steam"
-
-
-
-translate korean strings:
+    old "Wishlist Taboo University on Steam"
+    new "Wishlist Taboo University on Steam"
 
 
     old "Get a Lovense toy"
     new "Get a Lovense toy"
 
 
-    old "Wishlist Vinovella University in Steam"
-    new "Wishlist Vinovella University in Steam"
+    old "Try our new game Taboo University"
+    new "Try our new game Taboo University"
 
 
-    old "Try our new game Vinovella University"
-    new "Try our new game Vinovella University"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    old "Get free DLC containing 6 endings from Steam"
+    new "Get free DLC containing 6 endings from Steam"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

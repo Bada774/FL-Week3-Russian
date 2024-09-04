@@ -71,25 +71,19 @@ translate portuguese strings:
     new "FINAIS"
 
 
-translate portuguese strings:
-
-
-    old "Wishlist Vinovella University on Steam"
-    new "Wishlist Vinovella University on Steam"
-
-
-
-translate portuguese strings:
+    old "Wishlist Taboo University on Steam"
+    new "Ponha Taboo University na Lista de Desejos da Steam"
 
 
     old "Get a Lovense toy"
-    new ""
+    new "Compre um brinquedo Lovense"
 
 
-    old "Wishlist Vinovella University in Steam"
-    new ""
+    old "Try our new game Taboo University"
+    new "Teste nosso novo jogo Taboo University"
 
 
-    old "Try our new game Vinovella University"
-    new ""
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    old "Get free DLC containing 6 endings from Steam"
+    new "Pegue o DLC contendo 6 finais de graça na Steam"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -304,13 +304,14 @@ translate chinese strings:
 
 
     old "Continue playing"
-    new "Continue playing"
+    new "继续玩"
 
 
     old "Close the game"
-    new "Close the game"
+    new "关闭游戏"
 
 
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "如果您决定继续游戏，则可能无法载入第二周的存档。您不会再收到通知了。确定继续吗？"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

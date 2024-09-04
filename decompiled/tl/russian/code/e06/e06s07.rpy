@@ -166,7 +166,7 @@ translate russian e06s07_1393413a:
 translate russian e06s07_0f8c73fc:
 
     # mc "Yeah, I haven't seen her since the trial. Que sera, sera."
-    mc "Да, я не видел её после суда. Que sera, sera.\n\n{size=-10}{i}(Франц. - Чему быть, того не миновать){/i}{/size}"
+    mc "Да, я не видел её после суда. Que sera, sera.\n\n{size=-10}{i}Франц. Чему быть, того не миновать.{/i}{/size}"
 
 # game/code/e06/e06s07.rpy:77
 translate russian e06s07_dcc18ce5:

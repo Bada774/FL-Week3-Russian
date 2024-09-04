@@ -9,4 +9,5 @@ translate spanish strings:
 
     old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
     new "Creado por ViNovella Games\n\nÚnete a nosotros en {a=https://discord.gg/efmQRNtFks}Discord{/a}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

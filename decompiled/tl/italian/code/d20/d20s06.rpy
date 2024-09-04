@@ -525,4 +525,5 @@ translate italian strings:
 
     old "Eat Oliver's cum"
     new "Mangia lo sperma di Oliver"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

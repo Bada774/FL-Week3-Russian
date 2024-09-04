@@ -346,7 +346,7 @@ translate russian e06s09_doggy_style_e4a24454:
 translate russian e06s09_doggy_style_ddc40df9:
 
     # lc "I don't care if we're at a baseball game and you drag me out to the pitcher's mound for everyone to see!"
-    lc "Меня не волнует, даже если мы будем на бейсбольном матче и ты вытащишь меня к питчерской площадке, чтобы все видели!\n\n{size=-10}{i}(Питчерская площадка - холм на поле, с которого бросают мяч){/i}{/size}"
+    lc "Меня не волнует, даже если мы будем на бейсбольном матче и ты вытащишь меня к питчерской площадке, чтобы все видели!\n\n{size=-10}{i}Питчерская площадка - холм на поле, с которого бросают мяч{/i}{/size}"
 
 # game/code/e06/e06s09.rpy:496
 translate russian e06s09_doggy_style_844eea23:
@@ -532,7 +532,7 @@ translate russian e06s09_deep_47c39e08:
 translate russian e06s09_deep_6db231de:
 
     # lc "Also, it's voila. Viola is a musical instrument."
-    lc "И ещё, правильно - \"вуаля\". А виола - это музыкальный инструмент.\n\n{size=-10}{i}(Альт, или виола - струнный инструмент){/i}{/size}"
+    lc "И ещё, правильно - \"вуаля\". А виола - это музыкальный инструмент.\n\n{size=-10}{i}Альт, или виола - струнный инструмент.{/i}{/size}"
 
 # game/code/e06/e06s09.rpy:658
 translate russian e06s09_deep_cfce055e:
@@ -838,7 +838,7 @@ translate russian e06s08_post_climax_1bf60051:
 translate russian e06s08_post_climax_c5035600:
 
     # lc "Stacy - you first. I want you as my little spoon."
-    lc "Стейси - ты первая. Я хочу, чтобы ты была моей маленькой ложечкой.\n\n{size=-10}{i}(позиция ложек){/i}{/size}"
+    lc "Стейси - ты первая. Я хочу, чтобы ты была моей маленькой ложечкой.\n\n{size=-10}{i}Позиция ложек.{/i}{/size}"
 
 # game/code/e06/e06s09.rpy:985
 translate russian e06s08_post_climax_11e48912:

@@ -4,13 +4,13 @@
 translate russian e08s05_cdd7bfe3:
 
     # "Mayor" "Thank you everyone for gathering here on this beautiful, sunny day."
-    "Мэр" "Спасибо вам всем за то, что пришли в этот прекрасный солнечный день."
+    "Мэр" "Спасибо вам всем за то, что пришли в этот прекрасный, солнечный день."
 
 # game/code/e08/e08s05.rpy:110
 translate russian e08s05_970837f0:
 
     # "Mayor" "Is it beyond possible to reckon our town hall was built before the Great Depression?"
-    "Мэр" "Нельзя ли считать, что наша ратуша была построена до Великой депрессии?"
+    "Мэр" "Нельзя ли считать, что наша ратуша была построена до Великой депрессии?\n\n{size=-10}{i}Великая депрессия - мировой экономический кризис, длившийся с 1929 по 1939 годы.{/i}{/size}"
 
 # game/code/e08/e08s05.rpy:111
 translate russian e08s05_13476567:
@@ -22,7 +22,7 @@ translate russian e08s05_13476567:
 translate russian e08s05_b3178871:
 
     # "Mayor" "We are here to honor the good work done by two new members of our community, who went above and beyond in their charitable mission."
-    "Мэр" "Мы собрались здесь, во славу той работы, проделанной двумя новыми членами нашего сообщества, которые сделали всё возможное во время своей благотворительной миссии."
+    "Мэр" "Мы собрались здесь, чтобы высказать благодарность за работу, проделанную двумя новыми членами нашего сообщества, которые сделали всё возможное во время своей благотворительной миссии."
 
 # game/code/e08/e08s05.rpy:119
 translate russian e08s05_ebf0dccb:
@@ -34,13 +34,13 @@ translate russian e08s05_ebf0dccb:
 translate russian e08s05_372b957e:
 
     # arj "Are you going to tell him?"
-    arj "Скажешь ему об этом?"
+    arj "Может скажешь ему об этом?"
 
 # game/code/e08/e08s05.rpy:125
 translate russian e08s05_fd01d28b:
 
     # mc "Maybe after."
-    mc "Может быть позже."
+    mc "Может быть чуть позже."
 
 # game/code/e08/e08s05.rpy:128
 translate russian e08s05_81f9ff76:
@@ -52,13 +52,13 @@ translate russian e08s05_81f9ff76:
 translate russian e08s05_c51dd140:
 
     # "Mayor" "This is the worst our town had faced in a hundred years, and the resulting economic and social impact was overwhelming."
-    "Мэр" "Это худшее, с чем столкнулся наш город за последние сто лет, и возникшие в результате этого экономические и социальные последствия были ошеломляющими."
+    "Мэр" "Это худшее, с чем столкнулся наш город за последние сто лет, и возникшие в результате этого экономические и социальные последствия невероятно ошеломительны."
 
 # game/code/e08/e08s05.rpy:132
 translate russian e08s05_bf5c3a05:
 
     # "Mayor" "Several members of the community were quoted at length. They endured."
-    "Мэр" "Несколько членов сообщества были подробно процитированы. Они выдержали."
+    "Мэр" "Там упоминались проблемы, с которыми столкнулись некоторые из членов нашего сообщества. Они выстояли."
 
 # game/code/e08/e08s05.rpy:134
 translate russian e08s05_7e1df331:
@@ -76,7 +76,7 @@ translate russian e08s05_882766d7:
 translate russian e08s05_9584b5db:
 
     # "Mayor " "Ah, there they are!"
-    "Мэр" "Ах, вот они!"
+    "Мэр" "Ах, вот же они!"
 
 # game/code/e08/e08s05.rpy:148
 translate russian e08s05_f5a3d86c:
@@ -94,31 +94,31 @@ translate russian e08s05_5fe3df4c:
 translate russian e08s05_11475883:
 
     # "Mayor" "They described the pitiless destruction of their farm. It started off in that same note of wonder and awe. I was stuck in my truck, half-submerged in water."
-    "Мэр" "Они описали безжалостное разрушение своей фермы. Для меня всё началось с той же ноты изумления и страха. Я застрял в грузовике, наполовину погружённом в воду."
+    "Мэр" "Они описали безжалостное разрушение своей фермы. Для меня всё началось с тех же нот изумления и страха. Я застрял в грузовике, наполовину погружённом в воду."
 
 # game/code/e08/e08s05.rpy:156
 translate russian e08s05_073eea14:
 
     # "Mayor" "First, it started raining. Rain is not unusual, and neither is wind. Then, the wind gathered speed, the two elements merged in a maelstrom, into a nasty thing."
-    "Мэр" "Сначала начался дождь. Дождь - это не что-то необычное, как и ветер. Затем ветер начал набирать скорость, две стихии слились в вихрь, в одну большую неприятность."
+    "Мэр" "Сначала начался дождь. Дождь - это не что-то необычное, как и ветер. Затем, ветер начал набирать скорость, две стихии слились в вихрь, в одну большую проблему."
 
 # game/code/e08/e08s05.rpy:159
 translate russian e08s05_776c3909:
 
     # "Mayor" "Then guess what? My truck caught on fire. In the water. The utter absurdity of those forty-eight hours. We struggled forth. Not enough food, water. The shelters were flooded, power lines down, severed."
-    "Мэр" "И угадайте, что? Мой грузовик загорелся. В воде. Эти сорок восемь часов были полностью пропитаны абсурдом. Мы боролись со стихией. Без еды и воды. Убежища были затоплены, линии электропередач оборваны."
+    "Мэр" "И угадайте, что? Мой грузовик загорелся. В воде. Эти сорок восемь часов были насквозь пропитаны абсурдностью. Мы боролись со стихией. Без еды и воды. Убежища были затоплены, линии электропередач оборваны."
 
 # game/code/e08/e08s05.rpy:161
 translate russian e08s05_c1121383:
 
     # "Mayor" "However. The wonderful couple you see before you today, the young man and woman who had only gotten here a year before, who had just only settled in, had done something, turning their farm into some kind of mega-shelter."
-    "Мэр" "Однако. Прекрасная пара, которую вы сегодня видите перед собой, молодые мужчина и женщина, приехавшие сюда всего год назад, только что обосновавшиеся, что-то сделали, превратив свою ферму в своего рода мега-приют."
+    "Мэр" "Однако. Прекрасная пара, которую вы сегодня видите перед собой, молодые мужчина и женщина, приехавшие сюда всего год назад, только что обосновавшиеся, сделали что-то, превратив свою ферму в своего рода мега-приют."
 
 # game/code/e08/e08s05.rpy:162
 translate russian e08s05_00d9ec3b:
 
     # "Mayor" "All in such a short time. Two days."
-    "Мэр" "И всё это за столь короткий срок. Всего два дня."
+    "Мэр" "И всё это за столь короткий срок. Всего за два дня."
 
 # game/code/e08/e08s05.rpy:165
 translate russian e08s05_4c1be431:
@@ -130,13 +130,13 @@ translate russian e08s05_4c1be431:
 translate russian e08s05_e3e169eb:
 
     # "Mayor" "My God, I wish I was there right now with you all, with my pulpit, sermonizing in front of the burning bush."
-    "Мэр" "Боже мой, как бы мне хотелось сейчас быть там со всеми вами, стоя за кафедрой, проповедовать перед Неопалимой Купиной.\n\n{size=-10}{i}(Неопалимая Купина - в данном контексте, христианская икона, отображающая образ Богоматери){/i}{/size}"
+    "Мэр" "Боже мой, как бы мне хотелось сейчас быть там со всеми вами, стоя за кафедрой, проповедовать перед Неопалимой Купиной.\n\n{size=-10}{i}Неопалимая Купина - в данном контексте, христианская икона, отображающая образ Богоматери.{/i}{/size}"
 
 # game/code/e08/e08s05.rpy:173
 translate russian e08s05_c9b74380:
 
     # mc "Did you notice that? He said two again."
-    mc "Ты заметила? Он снова сказал \"два\"."
+    mc "Ты заметила? Он снова сказал только про нас."
 
 # game/code/e08/e08s05.rpy:176
 translate russian e08s05_98e54c9d:
@@ -148,13 +148,13 @@ translate russian e08s05_98e54c9d:
 translate russian e08s05_c2170cb1:
 
     # fc "What are you two whispering about in there? You better be talking about me."
-    fc "О чем вы там шепчетесь? Лучше бы вам говорить обо мне."
+    fc "О чём вы там шепчетесь? Лучше бы вам говорить обо мне."
 
 # game/code/e08/e08s05.rpy:182
 translate russian e08s05_c87316e5:
 
     # mc "He keeps saying two."
-    mc "Он продолжает говорить \"два\"."
+    mc "Он продолжает говорить только про нас двоих."
 
 # game/code/e08/e08s05.rpy:185
 translate russian e08s05_54d009c4:
@@ -190,7 +190,7 @@ translate russian e08s05_f538d3d4:
 translate russian e08s05_417540ce:
 
     # "Mayor" "As all great men and women of the world end up doing, giving up their power and retire, humbly, simply without vanity. I present the honor to Amber-Rose Jenkins and [mcname] Young!"
-    "Мэр" "Как в конечном итоге и поступают все великие мужчины и женщины мира, они отказываются от своей власти и уходят в отставку смиренно, без какого-либо тщеславия. И я хочу вручить эту награду Амбер-Роуз Дженкинс и [mcname] Янгу!"
+    "Мэр" "Как в конечном итоге и поступают все великие мужчины и женщины мира, они отказываются от своей власти и смиренно уходят в отставку, без какого-либо тщеславия. И я хочу вручить эту награду Амбер-Роуз Дженкинс и [mcname] Янгу!"
 
 # game/code/e08/e08s05.rpy:212
 translate russian e08s05_c5bed88c:
@@ -226,7 +226,7 @@ translate russian e08s05_8ebfdadf:
 translate russian e08s05_bbeff351:
 
     # arj "Lastly, since it is the winter of discontent, it was said of the three wise men, who followed the North Star bearing gifts to go to that barn, were in the chronicles, referred to as one figure."
-    arj "Наконец, так как это зима полна разочарований, мы как о три мудреца, следовавших за Северной Звездой, дабы поднести дары в этот сарай, они считались единым целым.\n\n{size=-10}{i}(Речь идёт о трёх мудрецах, описанных в Евангелии - людях, принесших дары родившемуся младенцу Иисусу Христу){/i}{/size}"
+    arj "И наконец, так как это зима полна разочарований, мы были как три мудреца, следовавших за Северной Звездой, дабы поднести дары в этот сарай, они считались единым целым.\n\n{size=-10}{i}Речь идёт о трёх мудрецах, описанных в Евангелии - людях, принёсших дары родившемуся младенцу Иисусу Христу.{/i}{/size}"
 
 # game/code/e08/e08s05.rpy:227
 translate russian e08s05_d0628af8:
@@ -244,19 +244,19 @@ translate russian e08s05_163d7071:
 translate russian e08s05_bffea011:
 
     # mc "I love you too."
-    mc "Я тоже люблю тебя."
+    mc "Я тоже тебя люблю."
 
 # game/code/e08/e08s05.rpy:241
 translate russian e08s05_1afd13b3:
 
     # mc "There's no way to top what AmRose has said. She's the intellectual of the two. Err, three of us. Remy is the unseen holy ghost."
-    mc "Невозможно подобрать слова лучше тех, которые высказала АмРоуз. Из нас двоих она - самая умная. Эээ, то есть, нас троих. Реми - наш невидимый святой дух."
+    mc "Невозможно подобрать слова лучше тех, которые высказала АмРоуз. Она самая умная из нас двоих. Эээ, то есть, нас троих. Реми - наш неосязаемый святой дух."
 
 # game/code/e08/e08s05.rpy:244
 translate russian e08s05_a438c23b:
 
     # mc "If we have time, I'd like to share a little story."
-    mc "Если у нас ещё найдётся время, я бы хотел поделиться небольшой историей."
+    mc "Если ещё найдётся время, я бы хотел поделиться небольшой историей."
 
 # game/code/e08/e08s05.rpy:246
 translate russian e08s05_e827a7b1:
@@ -274,13 +274,13 @@ translate russian e08s05_bc0428d8:
 translate russian e08s05_5331aff8:
 
     # mc "We both searched for meaning and happiness. A bit lost after college, going through a tragicomic experience, we ended up here in this little garden of Eden."
-    mc "Мы искали и смысл, и счастье. Немного потерянные после колледжа, переживая трагикомический опыт, мы оказались здесь, в этом маленьком Эдеме.\n\n{size=-10}{i}(Эдем - райский сад, в котором жили Адам и Ева){/i}{/size}"
+    mc "Мы искали и смысл, и счастье. Немного потерянные после колледжа, переживая трагикомический опыт, мы оказались здесь, в этом маленьком Эдеме.\n\n{size=-10}{i}Эдем - райский сад, в котором жили Адам и Ева.{/i}{/size}"
 
 # game/code/e08/e08s05.rpy:252
 translate russian e08s05_3a55fe53:
 
     # mc "Neither of us were expecting just how hard this whole enterprise was. Watching videos on the internet and reading a handful of books your wife gives you is not even close to preparing you for the real thing..."
-    mc "Никто из нас не ожидал, что всё окажется насколько трудно. Просмотр видео в интернете и чтение книг, которые даёт вам жена, даже близко не подготовят вас к настоящему..."
+    mc "Никто из нас не ожидал, что всё окажется настолько трудно. Просмотр видео в интернете и чтение книг, которые даёт вам ваша жена, даже близко не подготовят вас к настоящему..."
 
 # game/code/e08/e08s05.rpy:255
 translate russian e08s05_d5db0363:
@@ -298,7 +298,7 @@ translate russian e08s05_10098b8c:
 translate russian e08s05_383a56c3:
 
     # mc "In spite of their difficulty, they have aided tremendously to the building up of our barn. Without them, we simply could not have the tools nor knowledge to do anything."
-    mc "Несмотря на трудности, они помогли нам со строительством нашего сарая. Без них у нас бы просто не было ни инструментов, ни знаний, как что-либо делать."
+    mc "Несмотря на свои трудности, они помогли нам со строительством нашего сарая. Без них у нас бы просто не было ни инструментов, ни знаний, как вообще что-либо делать."
 
 # game/code/e08/e08s05.rpy:263
 translate russian e08s05_4f75a124:
@@ -352,7 +352,7 @@ translate russian e08s05_talk_3f4075df:
 translate russian e08s05_talk_46d64999:
 
     # ac "You're ridiculous, it is a bad idea. He'd never go for that, little old me? Did you remember to get the barbecue?"
-    ac "Это и не перестало быть плохой идеей. Он бы никогда на это не пошёл. И ты не забыл купить мясо?"
+    ac "Это и не перестало быть плохой идеей. Он бы никогда на это не пошёл. И ты не забыл купить мясо для барбекю?"
 
 # game/code/e08/e08s05.rpy:297
 translate russian e08s05_talk_add009f4:
@@ -364,7 +364,7 @@ translate russian e08s05_talk_add009f4:
 translate russian e08s05_talk_05fc1e2c:
 
     # ac "How are we going to have a barbecue without barbecue?"
-    ac "И как мы устроим барбекю без мяса?"
+    ac "И как мы устроим барбекю без мяса для барбекю?"
 
 # game/code/e08/e08s05.rpy:303
 translate russian e08s05_talk_202d7d26:
@@ -376,13 +376,13 @@ translate russian e08s05_talk_202d7d26:
 translate russian e08s05_talk_639c16c4:
 
     # ac "Yes! People expecting barbecue will not settle for supermarket meat."
-    ac "Да! Люди, ждущие барбекю, не согласятся на курицу из супермаркета."
+    ac "Да! Люди, ждущие барбекю, не будут рады какой-то курице из супермаркета."
 
 # game/code/e08/e08s05.rpy:309
 translate russian e08s05_talk_21c3cf1b:
 
     # fc "I liked you better when you were sick and not saying anything."
-    fc "Ты мне больше нравилась, пока болела и ничего не говорила."
+    fc "Пока ты болела и ничего не говорила, ты мне больше нравилась."
 
 # game/code/e08/e08s05.rpy:312
 translate russian e08s05_talk_3d0129d7:
@@ -400,19 +400,19 @@ translate russian e08s05_talk_29c7c8bd:
 translate russian e08s05_talk_b99997c1:
 
     # mc "It's okay. Frank's got a lot on his mind, I can tell."
-    mc "Всё нормально. Могу сказать, что у Фрэнка просто слишком много мыслей."
+    mc "Это нормально. Могу сказать, что у Фрэнка просто слишком много мыслей."
 
 # game/code/e08/e08s05.rpy:321
 translate russian e08s05_talk_79769dbb:
 
     # ac "So, when did you get married?"
-    ac "Итак, когда вы поженились?"
+    ac "Так, когда именно вы поженились?"
 
 # game/code/e08/e08s05.rpy:324
 translate russian e08s05_talk_565cc0df:
 
     # mc "Oh, when we got here. We didn't have a grand ceremony or anything, we came here to fill out paperwork, the clerk took the papers, and we kissed outside the town hall."
-    mc "Ох, ещё когда мы сюда приехали. У нас не было никаких торжеств или чего-то в этом роде, мы просто пришли сюда, чтобы заполнить документы, клерк забрал бумаги, и мы поцеловались возле ратуши."
+    mc "Ох, ещё когда мы сюда приехали. У нас не было никаких церемоний или чего-то в этом роде, мы просто пришли сюда, чтобы заполнить документы, клерк забрал бумаги, и мы поцеловались возле ратуши."
 
 # game/code/e08/e08s05.rpy:325
 translate russian e08s05_talk_c2172be8:
@@ -448,7 +448,7 @@ translate russian e08s05_talk_eb495b4c:
 translate russian e08s05_talk_f17f142a:
 
     # ac "He promised me the world, you know? We got together when we were still touring together. Those seem like ancient times now. Oh, to be young."
-    ac "Он мне целый мир обещал, понимаешь? Мы встретились, когда ещё гастролировали вместе. Кажется, это было так давно. Ох, молодость."
+    ac "Он мне целый мир обещал, понимаешь? Мы встретились, когда ещё гастролировали вместе. Боже, кажется, это было так давно. Ох, молодость."
 
 # game/code/e08/e08s05.rpy:339
 translate russian e08s05_talk_32bd66fc:
@@ -460,7 +460,7 @@ translate russian e08s05_talk_32bd66fc:
 translate russian e08s05_talk_30d89762:
 
     # ac "Oh, you're sweet."
-    ac "Ох, ты милый."
+    ac "Ох, ты такой милый."
 
 # game/code/e08/e08s05.rpy:345
 translate russian e08s05_talk_ac890c45:
@@ -580,7 +580,7 @@ translate russian e08s05_talk_3bb4a8fb:
 translate russian e08s05_talk_74dd37da:
 
     # mc "I don't know what that woman is feeling at any time of the day."
-    mc "Ее понимаю, что чувствует эта женщина, в любое время суток."
+    mc "Не понимаю, что чувствует эта женщина."
 
 # game/code/e08/e08s05.rpy:408
 translate russian e08s05_talk_48eb701a:
@@ -610,7 +610,7 @@ translate russian e08s05_talk_af4aded4:
 translate russian e08s05_talk_9f2cdbb4:
 
     # mc "And what, retreat her boudoir at eight?"
-    mc "И что, нам нужно будет освободить её будуар в восемь?\n\n{size=-10}{i}(Будуар - комната, принадлежащая женщине){/i}{/size}"
+    mc "И что, нам нужно будет освободить её будуар в восемь?\n\n{size=-10}{i}Будуар - комната, принадлежащая женщине.{/i}{/size}"
 
 # game/code/e08/e08s05.rpy:423
 translate russian e08s05_talk_d764a98a:
@@ -664,13 +664,13 @@ translate russian e08s05_talk_f52989a9:
 translate russian e08s05_party_ab7e14d1:
 
     # "Mayor" "Oh, if you ain't got the do-re-mi, folks, you ain't got the do-re-mi. Why, you better go back to beautiful Texas, Oklahoma, Kansas, Georgia, Tennessee..."
-    "Мэр" "О, если у вас нет до-ре-ми, ребята, у вас нет до-ре-ми. Вам лучше вернуться в прекрасный Техас, Оклахому, Канзас, Джорджию, Теннесси...\n\n{size=-10}{i}(Текст песни \"Do Re Mi\" американского музыканта Вуди Гатри){/i}{/size}"
+    "Мэр" "О, если у вас нет до-ре-ми, ребята, у вас нет до-ре-ми. Вам лучше вернуться в прекрасный Техас, Оклахому, Канзас, Джорджию, Теннесси...\n\n{size=-10}{i}Текст песни \"Do Re Mi\" американского музыканта Вуди Гатри.{/i}{/size}"
 
 # game/code/e08/e08s05.rpy:470
 translate russian e08s05_party_4e9f74b8:
 
     # mc "It's funny how we're not from any of those places."
-    mc "Это забавно, ведь мы не из одного из этих мест."
+    mc "Это забавно, мы ведь не из одного из этих мест."
 
 # game/code/e08/e08s05.rpy:476
 translate russian e08s05_party_d6b08421:
@@ -718,7 +718,7 @@ translate russian e08s05_party_a61d6dfa:
 translate russian e08s05_party_ca07cf15:
 
     # ac "You see what I have to live with, [mcname]?"
-    ac "Видишь, с кем мне приходится жить, [mcname]?"
+    ac "[mcname], видишь, с кем мне приходится жить?"
 
 # game/code/e08/e08s05.rpy:507
 translate russian e08s05_party_fa2dddd3:
@@ -754,7 +754,7 @@ translate russian e08s05_party_a3b3c69e:
 translate russian e08s05_party_561bf062:
 
     # ac "Well, we lost everything, there's nothing for us here."
-    ac "Ну, мы всё потеряли, у нас ничего здесь не осталось."
+    ac "Ну, мы всё потеряли, здесь у нас ничего не осталось."
 
 # game/code/e08/e08s05.rpy:525
 translate russian e08s05_party_df9c8a01:
@@ -790,7 +790,7 @@ translate russian e08s05_party_11455b53:
 translate russian e08s05_party_7a37b985:
 
     # fc "Yeah, you know, during your speech, I thought, I never finished school, and neither did Ashley. We thought, since we don't have any more hindrances, why not?"
-    fc "Ага, знаешь, во время твоей речи, я подумал, я же так и не закончил школу, и Эшли тоже. Мы подумали, раз у нас больше нет препятствий, то почему бы и нет?"
+    fc "Ага, знаешь, во время твоей речи, я подумал, я же так и не закончил обучение, да и Эшли тоже. Мы подумали, раз у нас больше нет препятствий, то почему бы и нет?"
 
 # game/code/e08/e08s05.rpy:543
 translate russian e08s05_party_7c71567b:
@@ -862,13 +862,13 @@ translate russian e08s05_party_efb720df:
 translate russian e08s05_party_f5189b97:
 
     # mc "Honestly, I didn't. I just wanted to get the hell out of where we were."
-    mc "Честно говоря, я нет. Я просто хотел убраться подальше от того места, где мы были."
+    mc "Честно говоря, я - нет. Я просто хотел убраться подальше от того места, где мы были."
 
 # game/code/e08/e08s05.rpy:577
 translate russian e08s05_party_dea5cf63:
 
     # ac "What was the rush?"
-    ac "К чему такая спешка?"
+    ac "Зачем такая спешка?"
 
 # game/code/e08/e08s05.rpy:580
 translate russian e08s05_party_6f3d17ca:
@@ -1006,13 +1006,13 @@ translate russian e08s05_party_3c76dc96:
 translate russian e08s05_party_21f92991:
 
     # mc "I'm very well acquainted, too, with matters administrative, I understand business both micro and macro-economical..."
-    mc "Ещё я очень хорошо знаком с административными вопросоами, понимаю бизнес как в микро-, так и в макроэкономическом плане..."
+    mc "Ещё я очень хорошо знаком с административными вопросами, понимаю бизнес как в микро-, так и в макроэкономическом плане..."
 
 # game/code/e08/e08s05.rpy:644
 translate russian e08s05_party_55801468:
 
     # fc "You should take the mayor's spot and sing this in front of everyone."
-    fc "Ты должен занять место мэра и спеть это перед всеми."
+    fc "Ты должен занять место мэра и спеть эту песню перед всеми."
 
 # game/code/e08/e08s05.rpy:647
 translate russian e08s05_party_bb24bad5:
@@ -1054,13 +1054,13 @@ translate russian e08s05_party_8fa01ac9:
 translate russian e08s05_party_495c186b:
 
     # mc "AmRose told me she played the cello."
-    mc "АмРоуз сказала мне, что Эшли играла на виолончели."
+    mc "АмРоуз говорила мне, что Эшли играла на виолончели."
 
 # game/code/e08/e08s05.rpy:663
 translate russian e08s05_party_a73334c6:
 
     # fc "Yeah... she's a genius even if she plays the fool. She's a widowmaker. Women really are the perfect creatures, aren't they?"
-    fc "Да... она гениальна, даже если притворяется дурочкой. Женщины - идеальные создания, не так ли?"
+    fc "Да... она - гений, даже если притворяется дурочкой. Женщины - идеальные создания, не так ли?"
 
 # game/code/e08/e08s05.rpy:664
 translate russian e08s05_party_53dfa826:
@@ -1084,7 +1084,7 @@ translate russian e08s05_party_13db53e7:
 translate russian e08s05_party_d6ca4e4f:
 
     # fc "Modern day fairy tale. I don't even watch those, but I would watch one of your lives."
-    fc "Сказка современности. Я не смотрю подобные вещи, но из вашей жизней я бы посмотрел одну."
+    fc "Сказка современности. Я не смотрю подобные вещи, но я бы посмотрел одну такую, из вашей жизней."
 
 # game/code/e08/e08s05.rpy:676
 translate russian e08s05_party_d3674833:
@@ -1096,7 +1096,7 @@ translate russian e08s05_party_d3674833:
 translate russian e08s05_party_51861233:
 
     # mc "How many beers have you had, would you say?"
-    mc "Скажи, сколько пива ты выпил?"
+    mc "Скажи, сколько ты выпил пива?"
 
 # game/code/e08/e08s05.rpy:680
 translate russian e08s05_party_c755bc97:
@@ -1156,7 +1156,7 @@ translate russian e08s05_mc_inside_a59b1e0b:
 translate russian e08s05_mc_inside_2bf6dee3:
 
     # hh "I see [mcname] isn't here."
-    hh "Я вижу, что [mcname] не тут."
+    hh "Вижу, что [mcname] тут нет."
 
 # game/code/e08/e08s05.rpy:714
 translate russian e08s05_mc_inside_18b3ceff:
@@ -1186,7 +1186,7 @@ translate russian e08s05_mc_inside_1dbc9589:
 translate russian e08s05_mc_inside_a36879f9:
 
     # arj "One second, mayor."
-    arj "Одну секунду, господин мэр."
+    arj "Одну секунду, господин Мэр."
 
 # game/code/e08/e08s05.rpy:725
 translate russian e08s05_mc_inside_50bb0d92:
@@ -1282,7 +1282,7 @@ translate russian e08s05_evening_16e98534:
 translate russian e08s05_evening_59d35fec:
 
     # arj "No. There are some cheese curds... probably not the best meal. Some scrambled eggs maybe?"
-    arj "Нет. Есть сыр... наверное, это не самое лучшее блюдо. Может быть, сделаем яичницу?"
+    arj "Нет. Есть сыр... наверное, это не самое лучшее блюдо. Может сделать яичницу?"
 
 # game/code/e08/e08s05.rpy:790
 translate russian e08s05_evening_9ddfe660:
@@ -1366,7 +1366,7 @@ translate russian e08s05_evening_da27cfec:
 translate russian e08s05_evening_a5599582:
 
     # mc "Yes. Of course, what do you mean? It was for that."
-    mc "Да, Конечно, а что ты имеешь в виду? Только для этого."
+    mc "Да, конечно, а что ты имеешь в виду? Только для этого."
 
 # game/code/e08/e08s05.rpy:844
 translate russian e08s05_evening_e3403cb0:
@@ -1384,7 +1384,7 @@ translate russian e08s05_evening_8114a09f:
 translate russian e08s05_evening_933a392a:
 
     # ac "Because Frank told me he saw what you guys were doing in there. While I was sick, you were having rough sex just above where we were."
-    ac "Потому что Фрэнк сказал мне, что видел, что вы тут делали. Пока я болела, вы занимались грубым сексом прямо над тем местом, где были мы."
+    ac "Потому что Фрэнк сказал мне, что видел, что вы тут делали. Пока я болела, вы занимались грубым сексом прямо над той комнатой, где были мы."
 
 # game/code/e08/e08s05.rpy:851
 translate russian e08s05_evening_d5533217:
@@ -1420,7 +1420,7 @@ translate russian e08s05_evening_ef1be9fe:
 translate russian e08s05_evening_1a7baa00:
 
     # ac "But you left the door open? Isn't that a bit, how would you say, a bit exhibitionistic of you?"
-    ac "Но вы оставили дверь открытой? Разве это не, как бы ты сказал, немного по-эксгибиционистски с вашей стороны?"
+    ac "Но вы оставили дверь открытой? Разве это не, как бы сказать, немного по-эксгибиционистски с вашей стороны?"
 
 # game/code/e08/e08s05.rpy:867
 translate russian e08s05_evening_a7f6ebfa:
@@ -1540,7 +1540,7 @@ translate russian e08s05_threesome_4959ff76:
 translate russian e08s05_threesome_177be0f4:
 
     # arj "Take your pants off."
-    arj "Снимай свои штаны."
+    arj "Снимай штаны."
 
 # game/code/e08/e08s05.rpy:974
 translate russian e08s05_threesome_763b3bca:
@@ -1870,7 +1870,7 @@ translate russian e08s05_bedroom_8571c353:
 translate russian e08s05_bedroom_54f1eb57:
 
     # mc "You know how to suck dick. Who taught you how to suck dick?"
-    mc "Ты умеешь сосать член. Кто научил тебя сосать член?"
+    mc "Ты умеешь сосать член. Кто научил тебя так сосать член?"
 
 # game/code/e08/e08s05.rpy:1216
 translate russian e08s05_bedroom_b27bec98:
@@ -1900,7 +1900,7 @@ translate russian e08s05_bedroom_5a6dfc7c:
 translate russian e08s05_bedroom_0c802dd6:
 
     # mc "Shit, I don't know how I'm going to keep up. You pair of cock-hungry bitches."
-    mc "Чёрт, я не знаю, смогу ли я продержаться. Вы, парочка голодных до члена сучек."
+    mc "Чёрт, я не знаю, смогу ли я продержаться. Вы - парочка голодных до члена сучек."
 
 # game/code/e08/e08s05.rpy:1240
 translate russian e08s05_bedroom_30774a58:
@@ -1936,7 +1936,7 @@ translate russian e08s05_no_ntr_4f60b4f0:
 translate russian e08s05_no_ntr_1e85b8ef:
 
     # ac "Is this what you college kids do all day?"
-    ac "Это то, чем вы, ребята из колледжа, занимаетесь весь день?"
+    ac "Это то, чем вы, ребята из колледжа, занимаетесь днями на пролёт?"
 
 # game/code/e08/e08s05.rpy:1320
 translate russian e08s05_no_ntr_ad2570d1:
@@ -1978,7 +1978,7 @@ translate russian e08s05_no_ntr_624bdc2a:
 translate russian e08s05_no_ntr_d2dd8dad:
 
     # ac "You won't last two seconds in my ass."
-    ac "Ты не продержишься и двух секунд в моей заднице."
+    ac "В моей заднице ты и двух секунд не продержишься."
 
 # game/code/e08/e08s05.rpy:1343
 translate russian e08s05_no_ntr_85df50b1:
@@ -2026,13 +2026,13 @@ translate russian e08s05_no_ntr_e5ae4098:
 translate russian e08s05_no_ntr_84de99f2:
 
     # ac "I wanted to do this for the longest time."
-    ac "Я хочу, чтобы этот момент длился вечность."
+    ac "Я хочу, чтобы этот момент длился вечно."
 
 # game/code/e08/e08s05.rpy:1374
 translate russian e08s05_no_ntr_98a9e3a0:
 
     # ac "The stars aligned and now I'm in your house, fucking you and your wife."
-    ac "Звезды сошлись, и теперь я в твоем доме, трахаю тебя и твою жену."
+    ac "Звёзды сошлись, и теперь я в твоём доме, трахаю тебя и твою жену."
 
 # game/code/e08/e08s05.rpy:1377
 translate russian e08s05_no_ntr_d2dfad69:
@@ -2050,7 +2050,7 @@ translate russian e08s05_no_ntr_d1979999:
 translate russian e08s05_no_ntr_3ae499c7:
 
     # arj "Being our little whore to use and service us."
-    arj "Что ты наша маленькая шлюха, которая обслуживает нас."
+    arj "Что ты наша маленькая шлюха, которая нас обслуживает."
 
 # game/code/e08/e08s05.rpy:1384
 translate russian e08s05_no_ntr_354530cf:
@@ -2068,7 +2068,7 @@ translate russian e08s05_no_ntr_79e18cd4:
 translate russian e08s05_no_ntr_3d178464:
 
     # arj "That would be evil."
-    arj "Это было бы слишком по жестоко."
+    arj "Это было бы слишком жестоко."
 
 # game/code/e08/e08s05.rpy:1417
 translate russian e08s05_no_ntr_4fd81b88:
@@ -2080,19 +2080,19 @@ translate russian e08s05_no_ntr_4fd81b88:
 translate russian e08s05_no_ntr_716beb6f:
 
     # mc "Fuck, your ass is clenching down on my cock. It's squeezing my dick so hard."
-    mc "Чёрт, твоя задница сжимается на моём члене. Оно так сильно сжимает мой член."
+    mc "Чёрт, твоя задница стягивается на моём члене. Оно так сильно сжимает мой член."
 
 # game/code/e08/e08s05.rpy:1421
 translate russian e08s05_no_ntr_d6579c5e:
 
     # mc "Too late, I'm going to pop my load in your asshole. You're going to lick her asshole clean, Ashley, and then you're going to swap my cum in your mouth."
-    mc "Слишком поздно, я собираюсь залить свою порцию тебе в задницу. А ты собираешься вылизать её задницу, Эшли, а ты потом вылежишь всю мою сперму."
+    mc "Слишком поздно, я собираюсь залить свою порцию тебе в задницу. А ты вылижешь её задницу, Эшли, и потом ты вытрешь всю мою сперму своим ртом."
 
 # game/code/e08/e08s05.rpy:1424
 translate russian e08s05_no_ntr_32171b97:
 
     # mc "And then you're going to rim my asshole together so I can cum in your mouths another time, you got it?"
-    mc "И потом вы вместе сделаете мне риммнг, чтобы я мог кончить тебе в рот в другой раз, ты поняла?"
+    mc "И потом вы вместе сделаете мне риммнг, чтобы я мог ещё раз кончить тебе в рот, ты поняла?"
 
 # game/code/e08/e08s05.rpy:1427
 translate russian e08s05_no_ntr_5dd4eec8:
@@ -2182,7 +2182,7 @@ translate russian e08s05_ntr_c2ab36af:
 translate russian e08s05_ntr_24038fba:
 
     # fc "Alright. I've got something for you then."
-    fc "Ладно. Тогда у меня кое-что для тебя есть."
+    fc "Ладно. Тогда у меня есть кое-что для тебя."
 
 # game/code/e08/e08s05.rpy:1516
 translate russian e08s05_ntr_30e8eb9a:
@@ -2212,7 +2212,7 @@ translate russian e08s05_ntr_0e0296ae:
 translate russian e08s05_ntr_87dc4c52:
 
     # fc "Your pussy is making all sorts of noises."
-    fc "Твоя киска издает всевозможные звуки."
+    fc "Твоя киска издаёт все виды звуков."
 
 # game/code/e08/e08s05.rpy:1562
 translate russian e08s05_ntr_56fecc34:

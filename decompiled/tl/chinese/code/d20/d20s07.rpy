@@ -1623,4 +1623,5 @@ translate chinese d20s07_last_show_b9af505f:
 
 
     nk "你觉得他们会那样吗？"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

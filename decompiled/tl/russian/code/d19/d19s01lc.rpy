@@ -364,7 +364,7 @@ translate russian d19s01lc_9e4e56af:
 translate russian d19s01lc_de24ff1e:
 
     # lc "Ridley. Like Ridley Scott.{w} Jerome is obsessed with everything Aliens and wanted to name it Ripley, but decided the A.I. should be a guy-"
-    lc "Ридли. Как Ридли Скотт. Джером одержим всем, что связано с Чужими, хотел назвать его Рипли, но решил, что И.И. должен быть парнем...\n\n{size=-10}{i}(Ридли Скотт - британский кинорежиссёр, режиссёр серии фильмов \"Чужой\". Рипли - главная героиня фильмов){/i}{/size}"
+    lc "Ридли. Как Ридли Скотт. Джером одержим всем, что связано с Чужими, хотел назвать его Рипли, но решил, что И.И. должен быть парнем...\n\n{size=-10}{i}Ридли Скотт - британский кинорежиссёр, режиссёр серии фильмов \"Чужой\". Рипли - главная героиня фильмов.{/i}{/size}"
 
 # game/code/d19/d19s01lc.rpy:176
 translate russian d19s01lc_169e4149:
@@ -394,7 +394,7 @@ translate russian d19s01lc_404c6559:
 translate russian d19s01lc_91ccba53:
 
     # mc "This is ridiculous! You're telling me that Fetish Locator is some sort of HAL 9000 of sex and smut!!!"
-    mc "Это нелепо! Ты сейчас мне пытаешься сказать, что Фетиш Локатор - это что-то вроде HAL 9000 секса и пошлости!!! \n\n{size=-10}(HAL-9000 - компьютер из фильма \"Космическая одиссея\"){/size}"
+    mc "Это нелепо! Ты сейчас мне пытаешься сказать, что Фетиш Локатор - это что-то вроде HAL 9000 секса и пошлости!!! \n\n{size=-10}HAL-9000 - компьютер из фильма \"Космическая одиссея\".{/size}"
 
 # game/code/d19/d19s01lc.rpy:191
 translate russian d19s01lc_60444f69:

@@ -525,4 +525,5 @@ translate spanish strings:
 
     old "Eat Oliver's cum"
     new "Cómete el semen de Oliver"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

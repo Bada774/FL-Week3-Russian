@@ -1241,4 +1241,5 @@ translate malay strings:
 
     old "After a short journey by bus"
     new "Selepas perjalanan singkat dengan bas"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

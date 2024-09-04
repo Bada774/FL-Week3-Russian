@@ -463,4 +463,5 @@ translate chinese strings:
 
     old "You have finished playing ending 10!"
     new "你已经完成了结局#10!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

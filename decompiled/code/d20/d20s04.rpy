@@ -274,15 +274,15 @@ label d20s04_rn_qa:
     mct "Fuck me.{w} I'm so exhausted he could quote my mother and I wouldn't recognize it."
     mct "I've got to come up with something to tell him."
     menu:
-        "Edwin Le Chiffre"(hint="d20s04m01c01") if True:
+        "Edwin Le Chiffre"(hint="d20s04m01c01"):
             $ d20s04_rn_answer = 1
-        "Jean Rene Mathis"(hint="d20s04m01c02") if True:
+        "Jean Rene Mathis"(hint="d20s04m01c02"):
 
             $ d20s04_rn_answer = 2
-        "Vladimer Dmitrovich Zukovsky"(hint="d20s04m01c03") if True:
+        "Vladimer Dmitrovich Zukovsky"(hint="d20s04m01c03"):
 
             $ d20s04_rn_answer = 3
-        "Charles Dickens?"(hint="d20s04m01c04") if True:
+        "Charles Dickens?"(hint="d20s04m01c04"):
 
             $ d20s04_rn_answer = 4
             $ d20s04_rn_correct = True
@@ -354,20 +354,20 @@ label d20s04_zw_qa:
     zw "Good enough.{w} Question 1."
     zw "Sun Tzu famously wrote, \"The Art of War\". In that book, what is the supreme art of war?"
     menu:
-        "Who shot who in the what now?"(hint="d20s04m02c01") if True:
+        "Who shot who in the what now?"(hint="d20s04m02c01"):
             $ d20s04_zw_q1_answer = 1
             jump d20s04_zw_wrong
-        "Subdue the enemy without fighting"(hint="d20s04m02c02") if True:
+        "Subdue the enemy without fighting"(hint="d20s04m02c02"):
 
             $ d20s04_zw_q1_answer = 2
             scene d20s04-43 zw-talking with dissolve
             play voice3 chloe_yes_simple noloop
             zw "That is acceptable."
-        "Overpowering a vastly superior enemy"(hint="d20s04m02c03") if True:
+        "Overpowering a vastly superior enemy"(hint="d20s04m02c03"):
 
             $ d20s04_zw_q1_answer = 3
             jump d20s04_zw_wrong
-        "Achieving perfect certainty in your impending victory"(hint="d20s04m02c04") if True:
+        "Achieving perfect certainty in your impending victory"(hint="d20s04m02c04"):
 
             $ d20s04_zw_q1_answer = 4
             jump d20s04_zw_wrong
@@ -382,18 +382,18 @@ label d20s04_zw_qa:
     mct "I know this. Why is my mind completely blank?"
     mct "Think brain think!!!"
     menu:
-        "... there is tremendous wealth."(hint="d20s04m03c01") if True:
+        "... there is tremendous wealth."(hint="d20s04m03c01"):
             $ d20s04_zw_q2_answer = 1
             jump d20s04_zw_wrong
-        "... there is financial security."(hint="d20s04m03c02") if True:
+        "... there is financial security."(hint="d20s04m03c02"):
 
             $ d20s04_zw_q2_answer = 2
             jump d20s04_zw_wrong
-        "... there are huge tracts of land."(hint="d20s04m03c03") if True:
+        "... there are huge tracts of land."(hint="d20s04m03c03"):
 
             $ d20s04_zw_q2_answer = 3
             jump d20s04_zw_wrong
-        "... there is great inequality."(hint="d20s04m03c04") if True:
+        "... there is great inequality."(hint="d20s04m03c04"):
 
             $ d20s04_zw_q2_answer = 4
             scene d20s04-37 zw-talking with dissolve
@@ -405,20 +405,20 @@ label d20s04_zw_qa:
     zw "Question 3."
     zw "What book is the following quote from: \"If you want loyalty, hire a cocker spaniel\"?"
     menu:
-        "The Snowball: Warren Buffett and the Business of Life"(hint="d20s04m04c01") if True:
+        "The Snowball: Warren Buffett and the Business of Life"(hint="d20s04m04c01"):
             $ d20s04_zw_q3_answer = 1
             jump d20s04_zw_wrong
-        "Liar's Poker"(hint="d20s04m04c02") if True:
+        "Liar's Poker"(hint="d20s04m04c02"):
 
             $ d20s04_zw_q3_answer = 2
             scene d20s04-11 zw-talking with dissolve
             play voice3 chloe_surprised_oh noloop
             zw "That is acceptable."
-        "The Last Boy Scout"(hint="d20s04m04c03") if True:
+        "The Last Boy Scout"(hint="d20s04m04c03"):
 
             $ d20s04_zw_q3_answer = 3
             jump d20s04_zw_wrong
-        "Yellow Bicycles Radish Greenly"(hint="d20s04m04c04") if True:
+        "Yellow Bicycles Radish Greenly"(hint="d20s04m04c04"):
 
             $ d20s04_zw_q3_answer = 4
             scene d20s04-43 zw-talking with dissolve
@@ -543,7 +543,7 @@ label d20s04_zw_wrong:
     mc "*sigh*"
     mc "Fine. I suppose I have no choice."
     menu:
-        "Seduced and distracted my roommate"(hint="d20s04m05c01") if True:
+        "Seduced and distracted my roommate"(hint="d20s04m05c01"):
             $ d20s04_zw_q4_answer = 1
             scene d20s04-24 mc-talking with dissolve
             play voice2 mc_arrogant_heh3 noloop
@@ -552,14 +552,14 @@ label d20s04_zw_wrong:
             zw "That's it?"
             play voice2 mc_no_no1 noloop
             mc "No. Since then, I learned that she had seduced and distracted my roommate while trying to get information out of him."
-        "Journalist investigating an app"(hint="d20s04m05c02") if True:
+        "Journalist investigating an app"(hint="d20s04m05c02"):
 
             $ d20s04_zw_q4_answer = 2
             scene d20s04-24 mc-talking with dissolve
             play voice2 d1s5_mchappy noloop volume 1.6
             mc "As far as I know, she is a journalism major here. At least that's what she told me."
             mc "She was investigating some new app and believed she could get information from my roommate."
-        "She was just visiting."(hint="d20s04m05c03") if True:
+        "She was just visiting."(hint="d20s04m05c03"):
 
             $ d20s04_zw_q4_answer = 3
             $ d20s04_zw_q4_lie = True
@@ -637,45 +637,18 @@ label d20s04_results:
         scene d20s04-25 tl-talking with dissolve
         play voice4 teresa_thinking_oh noloop
         tl "You didn't just pass. You got all three votes."
-
-
-
         scene d20s04-32 rn-talking with dissolve
         play voice3 pete_thinking_hmm7 noloop
         rn "That doesn't happen as often as you would think."
-
-
-
         scene d20s04-16 mc-rn-tl-talking with dissolve
         play voice2 mc_happy_wow2 noloop
         mc "Wow! Thanks."
-
         scene d20s04-31 rn-talking with dissolve
         play voice4 pete_thinking_hmm10 noloop
         rn "Take this win and do something with it."
-
         scene d20s04-37 zw-talking with dissolve
         play voice3 chloe_surprised_huh3 noloop
         zw "What can he?..."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         scene d20s04-20 tl-talking with dissolve
         play voice3 teresa_thinking_hmm1 noloop
         tl "You have a tremendous opportunity ahead of you."
@@ -795,4 +768,5 @@ label d20s04_results:
 
     stop music fadeout 3.0
     jump d20s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

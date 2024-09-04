@@ -209,4 +209,29 @@ translate korean strings:
 
     old "Ending 14: Polly & Nora"
     new "Ending 14: Polly & Nora"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+translate korean strings:
+
+
+    old "Ending 11: Daisy"
+    new "Ending 11: Daisy"
+
+
+    old "Ending 17: Dahlia"
+    new "Ending 17: Dahlia"
+
+
+
+translate korean strings:
+
+
+    old "Ending 04: Girls"
+    new "Ending 04: Girls"
+
+
+    old "Ending 07: Girls"
+    new "Ending 07: Girls"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -195,7 +195,7 @@ label e08s06_home_alone:
     play voice3 amrose_happy_laugh1 noloop
     arj "Before this and the women's shelter, the biggest group I've been a part of was the party planning committee to help you out with your challenge."
     menu:
-        "Tell her that she is a lone wolf"(hint="e08s06m01c01") if True:
+        "Tell her that she is a lone wolf"(hint="e08s06m01c01"):
             $ e08s06_lone_wolf = True
 
             scene e08s06-32-c1-mc-talk-arj with dissolve
@@ -212,7 +212,7 @@ label e08s06_home_alone:
             play sound sfx_cloth_rustling2
             scene e08s06-35-c1-arj-talk-mc with dissolve
             arj "This wolf is going to miss the quiet..."
-        "Tell her that you are excited"(hint="e08s06m01c02") if True:
+        "Tell her that you are excited"(hint="e08s06m01c02"):
 
             scene e08s06-36-c2-mc-talk-arj with dissolve
             play voice2 mc_yes_yeah4 noloop
@@ -350,7 +350,6 @@ label e08s06_sex:
     play voice3 amrose_hey_whisper noloop
     arj "But... I'm already ready."
     play sound sfx_skirt_off2
-
 
     $ Lovense.stop()
 
@@ -584,7 +583,6 @@ label e08s06_montage:
     pause
     play sound sfx_bag_fall1
 
-
     $ Lovense.stop()
 
     scene e08s06-101-mc-cums-2 with dissolve
@@ -612,4 +610,5 @@ label e08s06_montage:
     stop music fadeout 3.5
 
     jump e08s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -198,7 +198,6 @@ label e08s05:
     scene e08s05-35 mayor_award with dissolve
     play voice4 pete_happy_woohoo noloop
     "Mayor" "As all great men and women of the world end up doing, giving up their power and retire, humbly, simply without vanity. I present the honor to Amber-Rose Jenkins and [mcname] Young!"
-
     play sound3 sfx_crowd_applause1 volume 0.6 fadein 1.3 noloop
     scene e08s05-36 mayor_award_applause with dissolve
     pause
@@ -870,7 +869,6 @@ label e08s05_evening:
     play voice4 claudie_yes_unsure noloop
     ac "On purpose."
 
-
     $ Lovense.stop()
 
     play sound sfx_cloth_rustling2
@@ -919,10 +917,10 @@ label e08s05_evening:
     play voice4 claudie_hey_angry noloop
     ac "I wasn't lying. I was kidding around. There, the bathroom door is open."
     menu:
-        "Stick around"(hint="e08s05m01c01") if True:
+        "Stick around"(hint="e08s05m01c01"):
             $ e08s05_threesome = True
             jump e08s05_threesome
-        "Grab the utensils and leave"(hint="e08s05m01c02") if True:
+        "Grab the utensils and leave"(hint="e08s05m01c02"):
 
             play voice2 mc_disgust_meh3 noloop
             scene e08s05-206 part3_mc_arj_bathroom_menu_grab_leave with dissolve
@@ -1019,11 +1017,6 @@ label e08s05_bedroom:
     play voice3 amrose_angry_breath1 noloop
     arj "Isn't this what you wanted? To lose your mind? To be driven to orgasm?"
     ac "Yeah."
-
-
-
-
-
     play sound sfx_skirt_off2
     scene e08s05-227 part4_mc_arj_bedroom_nude_nipple_play with dissolve
     play voice3 amrose_surprised_uh2 noloop
@@ -1245,9 +1238,9 @@ label e08s05_bedroom:
     play voice2 mc_thinking_hmm2 noloop
     mc "Speaking of that..."
     menu:
-        "Shut the door"(hint="e08s05m02c01") if True:
+        "Shut the door"(hint="e08s05m02c01"):
             jump e08s05_no_ntr
-        "Leave the door open"(hint="e08s05m02c02") if True:
+        "Leave the door open"(hint="e08s05m02c02"):
 
             $ e08s05_ntr = True
             jump e08s05_no_ntr
@@ -1431,7 +1424,6 @@ label e08s05_no_ntr:
     scene e08s05-301 part5_bedroom_arjanal_cum_fade with hpunch
     pause
 
-
     $ Lovense.stop()
 
     play voice3 amrose_happy_phew1 noloop
@@ -1590,7 +1582,6 @@ label e08s05_ntr:
     scene e08s05-323 part5_bedroomf_door_open_frank_double_penetration_ac_talk with hpunch
     ac "Ahh!!!"
 
-
     $ Lovense.stop()
 
     scene e08s05-324 part5_bedroomf_door_open_frank_double_penetration_cum_fade with dissolve
@@ -1608,4 +1599,5 @@ label e08s05_end:
     stop voice5 fadeout 1.5
     stop music fadeout 3.5
     jump e08s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -248,8 +248,6 @@ label d17s06dw_first_room:
     scene d17s06-62 mc-sd-dw-dialog-house-of-fear_c13 with dissolve
     play voice2 d1s5_mchappy noloop volume 1.8
     mc "Uh, it's not that bad. It's pretty creepy {w}- for an amusement park Funhouse, I mean."
-
-
     $ renpy.music.set_volume(1.0, 0.3, "music")
     play sound funhouse_monster_out
     scene d17s06b-glam with vpunch
@@ -441,7 +439,6 @@ label d17s06dw_clown_room:
     sb "Fine, but he better do it properly. {w}I don't want him to creampie my ass and leave me with blue balls."
     scene d17s06-99-19 mc-sd-dw-dialog-strip-clown-room_c16 with dissolve
     play voice2 mc_arrogant_heh2 noloop
-
 
     $ Lovense.stop()
 
@@ -740,7 +737,6 @@ label d17s06dw_clown_room:
     scene d17s06-99-85 mc-sd-dw-dialog-clown-room_c15 with Fade(.25, 0, .75, color="#ffffff")
     pause
 
-
     $ Lovense.stop()
 
     scene d17s06-99-86 mc-sd-dw-dialog-clown-room_c16 with dissolve
@@ -859,4 +855,5 @@ label d17s06dw_breakup:
     stop sound2 fadeout 3.0
 
     jump d17s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

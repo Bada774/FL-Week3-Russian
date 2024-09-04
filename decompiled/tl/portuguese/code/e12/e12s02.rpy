@@ -4,983 +4,984 @@
 translate portuguese e12s02_328a43e8:
 
 
-    aw ""
+    aw "Veio assistir ou fazer também?"
 
 
 translate portuguese e12s02_34ecfb13:
 
 
-    mc ""
+    mc "Não quero atrapalhar a sua rotina."
 
 
 translate portuguese e12s02_c469e46a:
 
 
-    aw ""
+    aw "Rotina? Eu tô só me aquecendo."
 
 
 translate portuguese e12s02_add0fdd4:
 
 
-    aw ""
+    aw "Hoje é dia de perna."
 
 
 translate portuguese e12s02_ae2de90d:
 
 
-    mc ""
+    mc "Eu nunca treino as pernas. Nunca treino nada."
 
 
 translate portuguese e12s02_233032b1:
 
 
-    mc ""
+    mc "Eu prefiro mais treinar a mente."
 
 
 translate portuguese e12s02_38e8679a:
 
 
-    aw ""
+    aw "Bem, você devia pelo menos treinar cardio. Lembra que tem que manter nós duas ocupadas."
 
 
 translate portuguese e12s02_b5fbd5a1:
 
 
-    mc ""
+    mc "Realmente."
 
 
 translate portuguese e12s02_5fba0616:
 
 
-    aw ""
+    aw "Mas... já que estamos sozinhos."
 
 
 translate portuguese e12s02_620196cc:
 
 
-    mc ""
+    mc "Aqui?"
 
 
 translate portuguese e12s02_de3ed2a3:
 
 
-    aw ""
+    aw "Haha. Talvez depois do meu treino."
 
 
 translate portuguese e12s02_129af3bd:
 
 
-    mc ""
+    mc "Você é incrível."
 
 
 translate portuguese e12s02_05baeabf:
 
 
-    aw ""
+    aw "Isso não é nada. Só uns agachamentos profundos. Ajuda muito a alongar os glúteos e quadríceps."
 
 
 translate portuguese e12s02_90b0f8d3:
 
 
-    mc ""
+    mc "Eu estava era ficando um pouquinho preocupado com os seus glúteos."
 
 
 translate portuguese e12s02_aa2bc235:
 
 
-    aw ""
+    aw "Haha. Isso vindo do Sr. Sem Treino?"
 
 
 translate portuguese e12s02_fd0450a1:
 
 
-    mc ""
+    mc "Eu sirvo de apoio moral."
 
 
 translate portuguese e12s02_82b75961:
 
 
-    aw ""
+    aw "Mmm. Que tal você me apoiar me ajudando aqui."
 
 
 translate portuguese e12s02_0e6620b8:
 
 
-    mc ""
+    mc "É pra já."
 
 
 translate portuguese e12s02_8644b28d:
 
 
-    mc ""
+    mc "Mais? Você está suando de todo lado."
 
 
 translate portuguese e12s02_01bf8778:
 
 
-    aw ""
+    aw "Quase terminei o set."
 
 
 translate portuguese e12s02_19eb8f71:
 
 
-    aw ""
+    aw "Ai!"
 
 
 translate portuguese e12s02_91256d21:
 
 
-    mc ""
+    mc "Merda. Allison!"
 
 
 translate portuguese e12s02_sex_ba4af99c:
 
 
-    aw ""
+    aw "Deixa eu ver."
 
 
 translate portuguese e12s02_sex_3b42ccd8:
 
 
-    aw ""
+    aw "Não quebrou. Machucou um pouco."
 
 
 translate portuguese e12s02_sex_c490f1f8:
 
 
-    aw ""
+    aw "Droga. A barra escapuliu."
 
 
 translate portuguese e12s02_sex_4aa3e246:
 
 
-    mc ""
+    mc "Ainda bem que você tá bem."
 
 
 translate portuguese e12s02_sex_387106ac:
 
 
-    aw ""
+    aw "Eu não tô bem. Eu estava me achando demais. Botei peso demais na barra tentando compensar."
 
 
 translate portuguese e12s02_sex_b2b9e19d:
 
 
-    mc ""
+    mc "Como assim?"
 
 
 translate portuguese e12s02_sex_7a422430:
 
 
-    aw ""
+    aw "Eu pulei o treino nos últimos dias."
 
 
 translate portuguese e12s02_sex_6f32174a:
 
 
-    mc ""
+    mc "Bom, nós ficamos ocupados. Vem, deixa eu massagear."
 
 
 translate portuguese e12s02_sex_c7cc28cc:
 
 
-    aw ""
+    aw "Eu consigo aguentar."
 
 
 translate portuguese e12s02_sex_c450e5ab:
 
 
-    mc ""
+    mc "Anda. Deixa eu fazer o sangue fluir."
 
 
 translate portuguese e12s02_sex_0cbddfbf:
 
 
-    aw ""
+    aw "Se você insiste."
 
 
 translate portuguese e12s02_sex_2f068911:
 
 
-    mc ""
+    mc "Insisto mesmo."
 
 
 translate portuguese e12s02_sex_3042c516:
 
 
-    aw ""
+    aw "Eu achei que você tinha se graduado em administração de negócios, não medicina do esporte."
 
 
 translate portuguese e12s02_sex_18cf3948:
 
 
-    mc ""
+    mc "Sorte sua que tem muita gente nos negócios que ficam com dores nos pés e leves machucados de tanto andar."
 
 
 translate portuguese e12s02_sex_33bbb6bf:
 
 
-    mc ""
+    mc "Um dos meus cursos tinha um capítulo que durou um mês todo só de saúde."
 
 
 translate portuguese e12s02_sex_4c2778e2:
 
 
-    aw ""
+    aw "Nada mal."
 
 
 translate portuguese e12s02_sex_834576d5:
 
 
-    aw ""
+    aw "Isso faz cócegas!"
 
 
 translate portuguese e12s02_sex_272a414b:
 
 
-    mc ""
+    mc "É pra fazer. Eu tô esfregando."
 
 
 translate portuguese e12s02_sex_671ad25e:
 
 
-    aw ""
+    aw "*Risos* Para. Agora você tá é se divertindo."
 
 
 translate portuguese e12s02_sex_060a464c:
 
 
-    mc ""
+    mc "Você já cheirou os seus dedões suados?"
 
 
 translate portuguese e12s02_sex_2845bc38:
 
 
-    mc ""
+    mc "Eu sou a vítima nessa história, haha."
 
 
 translate portuguese e12s02_sex_384426b5:
 
 
-    mc ""
+    mc "Como que tá agora?"
 
 
 translate portuguese e12s02_sex_7efde05c:
 
 
-    aw ""
+    aw "Com certeza melhor que antes. Obrigada. Agora preciso voltar pra sela."
 
 
 translate portuguese e12s02_sex_d5e91b96:
 
 
-    mc ""
+    mc "Você vai continuar mesmo?"
 
 
 translate portuguese e12s02_sex_2d760a03:
 
 
-    aw ""
+    aw "Com certeza. Essas coisas acontecem, e às vezes você tem que se ajustar e trabalhar em outras partes do corpo."
 
 
 translate portuguese e12s02_sex_2aaffe63:
 
 
-    aw ""
+    aw "Não vou deixar um pé machucado me impedir de treinar."
 
 
 translate portuguese e12s02_sex_e7674484:
 
 
-    mc ""
+    mc "Acho que a gente precisa deixar esses dedos elevados mais um pouco. Talvez botar um gelinho."
 
 
 translate portuguese e12s02_sex_4ef4016e:
 
 
-    aw ""
+    aw "Eu tô falando que não precisa."
 
 
 translate portuguese e12s02_sex_fbe2cc01:
 
 
-    mc ""
+    mc "Bom, que tal um bainho quente?"
 
 
 translate portuguese e12s02_sex_8e41fab0:
 
 
-    aw ""
+    aw "Hã?"
 
 
 translate portuguese e12s02_sex_e9f3321d:
 
 
-    aw ""
+    aw "*Rindo descontroladamente* O que que você tá fazendo?"
 
 
 translate portuguese e12s02_sex_93c49560:
 
 
-    aw ""
+    aw "Eles tão sujos."
 
 
 translate portuguese e12s02_sex_473f6d41:
 
 
-    mc ""
+    mc "Aham."
 
 
 translate portuguese e12s02_sex_d87bee5c:
 
 
-    mc ""
+    mc "*Chupando*"
 
 
 translate portuguese e12s02_sex_9063373a:
 
 
-    mc ""
+    mc "Eu vou limpar eles."
 
 
 translate portuguese e12s02_sex_9aa97ff5:
 
 
-    aw ""
+    aw "Era pra eu estar treinando."
 
 
 translate portuguese e12s02_sex_3c31e789:
 
 
-    mc ""
+    mc "E eu acho que o seu pé precisa descansar."
 
 
 translate portuguese e12s02_sex_be7c9a39:
 
 
-    aw ""
+    aw "Eu acho que você só tá querendo me atiçar."
 
 
 translate portuguese e12s02_sex_24668d41:
 
 
-    mc ""
+    mc "Jamais. Mas esses dedões são bem sexy."
 
 
 translate portuguese e12s02_sex_b9434456:
 
 
-    aw ""
+    aw "Hahaha."
 
 
 translate portuguese e12s02_sex_bcce146b:
 
 
-    aw ""
+    aw "Pronto, que tal?"
 
 
 translate portuguese e12s02_sex_57af4b43:
 
 
-    mc ""
+    mc "Mmpf."
 
 
 translate portuguese e12s02_sex_bbcf53a2:
 
 
-    aw ""
+    aw "Gostou? Seu pervertido."
 
 
 translate portuguese e12s02_sex_ba8fd32a:
 
 
-    mct ""
+    mct "Ela tá gostando demais disso..."
 
 
 translate portuguese e12s02_sex_f12cde67:
 
 
-    aw ""
+    aw "Não consigo te ouvir. Quer mais fundo?"
 
 
 translate portuguese e12s02_sex_faa03e1a:
 
 
-    mc ""
+    mc "Haha."
 
 
 translate portuguese e12s02_sex_1ad44a8d:
 
 
-    mc ""
+    mc "Isso foi legal. Mas você tá um pouquinho confusa."
 
 
 translate portuguese e12s02_sex_a36c70fe:
 
 
-    aw ""
+    aw "Confusa?"
 
 
 translate portuguese e12s02_sex_794a1139:
 
 
-    mc ""
+    mc "Só porque você se machucou não quer dizer que pode esquecer o seu lugar."
 
 
 translate portuguese e12s02_sex_7cafee00:
 
 
-    aw ""
+    aw "Eu achei que você estava me mimando."
 
 
 translate portuguese e12s02_sex_85622a12:
 
 
-    mc ""
+    mc "Mmmmm. Abre a boca, princesa."
 
 
 translate portuguese e12s02_sex_81d55113:
 
 
-    aw ""
+    aw "Aawww"
 
 
 translate portuguese e12s02_sex_7d84b5a5:
 
 
-    mc ""
+    mc "Tenho mais remédio pra você."
 
 
 translate portuguese e12s02_sex_17f78f2e:
 
 
-    aw ""
+    aw "*Chupando feliz*"
 
 
 translate portuguese e12s02_sex_a9176493:
 
 
-    mc ""
+    mc "Pronto, vamos abrir essa boquinha."
 
 
 translate portuguese e12s02_sex_37c4ef55:
 
 
-    mc ""
+    mc "Quero fazer uns exercícios de garganta com você."
 
 
 translate portuguese e12s02_sex_610e66c1:
 
 
-    aw ""
+    aw "Mmpf?"
 
 
 translate portuguese e12s02_sex_845fe9aa:
 
 
-    mc ""
+    mc "O seu ponto fraco é a garganta, né?"
 
 
 translate portuguese e12s02_sex_b1449d9b:
 
 
-    mct ""
+    mct "Acho que tenho a minha resposta."
 
 
 translate portuguese e12s02_sex_e572dfbe:
 
 
-    mc ""
+    mc "Você e a sua mãe são iguaizinhas."
 
 
 translate portuguese e12s02_sex_5ce8e20b:
 
 
-    mc ""
+    mc "Você e a Vanessa são iguaizinhas."
 
 
 translate portuguese e12s02_sex_479acc98:
 
 
-    aw ""
+    aw "Somos mesmo. Mas não conta que eu disse isso."
 
 
 translate portuguese e12s02_sex_235423c5:
 
 
-    aw ""
+    aw "Mãe? O que houve?"
 
 
 translate portuguese e12s02_sex_64db596f:
 
 
-    aw ""
+    aw "O que houve?"
 
 
 translate portuguese e12s02_sex_3637cf1d:
 
 
-    vw ""
+    vw "Querida, desculpa interromper a sessão. Eu queria saber se você tinha visto o [mcname] em algum lugar. Preciso falar sobre uma coisa com ele."
 
 
 translate portuguese e12s02_sex_3eb42ff9:
 
 
-    mc ""
+    mc "Bem aqui."
 
 
 translate portuguese e12s02_sex_61bf3810:
 
 
-    vw ""
+    vw "Hm?"
 
 
 translate portuguese e12s02_sex_75be528a:
 
 
-    vw ""
+    vw "Hmmm. O que foi?"
 
 
 translate portuguese e12s02_sex_80a5690b:
 
 
-    aw ""
+    aw "Nada."
 
 
 translate portuguese e12s02_sex_edc99259:
 
 
-    vw ""
+    vw "Allison."
 
 
 translate portuguese e12s02_sex_c66cd5db:
 
 
-    aw ""
+    aw "Eu machuquei um pouco os dedos. O [mcname] já me ajudou."
 
 
 translate portuguese e12s02_sex_0a57f765:
 
 
-    vw ""
+    vw "Tem certeza?"
 
 
 translate portuguese e12s02_sex_ef50ce1f:
 
 
-    aw ""
+    aw "Absoluta."
 
 
 translate portuguese e12s02_sex_36c47ff9:
 
 
-    vw ""
+    vw "Bem, nesse caso eu posso pegar o [mcname] emprestado?"
 
 
 translate portuguese e12s02_sex_99ff95cc:
 
 
-    aw ""
+    aw "Bem, depende dele."
 
 
 translate portuguese e12s02_sex_740bb3f8:
 
 
-    mc ""
+    mc "Eu sempre adoro passar tempo com você."
 
 
 translate portuguese e12s02_sex_e2450653:
 
 
-    vw ""
+    vw "Você é tão doce, mas não quis dizer assim."
 
 
 translate portuguese e12s02_sex_ca3e73f5:
 
 
-    mct ""
+    mct "Eu sinto que não vou conseguir nada."
 
 
 translate portuguese e12s02_sex_f11d9b0d:
 
 
-    vw ""
+    vw "Se anima, consegui o seu primeiro cliente."
 
 
 translate portuguese e12s02_sex_78aefc87:
 
 
-    mct ""
+    mct "Nossa. Eu acabei de receber a carta dizendo que passei na prova de corretor."
 
 
 translate portuguese e12s02_sex_04df58de:
 
 
-    mc ""
+    mc "Vanessa, não precisava ter feito isso."
 
 
 translate portuguese e12s02_sex_3314a283:
 
 
-    vw ""
+    vw "Haha. Você não pode passar o dia todo fodendo nós duas até cansar, [mcname]."
 
 
 translate portuguese e12s02_sex_b709e618:
 
 
-    mc ""
+    mc "Você que acha."
 
 
 translate portuguese e12s02_sex_5ec0bbb0:
 
 
-    vw ""
+    vw "É. Aí hoje preciso da sua ajuda para vender uma casa."
 
 
 translate portuguese e12s02_sex_dfaa5134:
 
 
-    mc ""
+    mc "Tem certeza que eu consigo? Digo, pensei que a gente ia começar de baixo, tipo um condomínio ou apartamento."
 
 
 translate portuguese e12s02_sex_6ca6bb55:
 
 
-    vw ""
+    vw "Vai dar tudo certo. Você é esperto e bom em tomar iniciativa, eu sei que consegue."
 
 
 translate portuguese e12s02_sex_3aa803d1:
 
 
-    vw ""
+    vw "Tudo se resume à arte da venda."
 
 
 translate portuguese e12s02_sex_327b1e08:
 
 
-    mc ""
+    mc "Ahm... Bom, se você acha que é uma boa ideia. Então vamos."
 
 
 translate portuguese e12s02_sex_009b7de5:
 
 
-    vw ""
+    vw "Maravilha. Se limpa e vem me encontrar na sala. Anda, anda."
 
 
 translate portuguese e12s02_sex_c8b0c738:
 
 
-    vw ""
+    vw "Tchau, querida."
 
 
 translate portuguese e12s02_sex_81f58310:
 
 
-    aw ""
+    aw "Tchau, Mãe."
 
 
 translate portuguese e12s02_sex_0de7aa02:
 
 
-    aw ""
+    aw "Tchau."
 
 
 translate portuguese e12s02_sex_53ba33c0:
 
 
-    mct ""
+    mct "Ela está com aquele olhar."
 
 
 translate portuguese e12s02_sex_a97be7b9:
 
 
-    mc ""
+    mc "E você pode fazer isso?"
 
 
 translate portuguese e12s02_sex_1051609b:
 
 
-    aw ""
+    aw "Provavelmente não."
 
 
 translate portuguese e12s02_sex_4145760e:
 
 
-    mc ""
+    mc "Tomando a inciativa?"
 
 
 translate portuguese e12s02_sex_070f8046:
 
 
-    aw ""
+    aw "Mmmhmm. Faz parte de ser uma atleta profissional. Você vê a chance e vai."
 
 
 translate portuguese e12s02_sex_c4578ba2:
 
 
-    mc ""
+    mc "Você tá ficando boa demais em chupar o meu pau."
 
 
 translate portuguese e12s02_sex_f74e5cf3:
 
 
-    mc ""
+    mc "Isso. Você aperta ele tão gostoso."
 
 
 translate portuguese e12s02_sex_ecf89a15:
 
 
-    mc ""
+    mc "Aaah."
 
 
 translate portuguese e12s02_sex_261a724f:
 
 
-    mc ""
+    mc "Tão bom."
 
 
 translate portuguese e12s02_sex_f1a9572c:
 
 
-    mc ""
+    mc "Calma, não vai muito forte. Não vou deixar você fazer tudo."
 
 
 translate portuguese e12s02_sex_09ac9063:
 
 
-    aw ""
+    aw "Bem falado."
 
 
 translate portuguese e12s02_sex_2a15f2ec:
 
 
-    mc ""
+    mc "Que tal? Bom exercício?"
 
 
 translate portuguese e12s02_sex_9cc96b0f:
 
 
-    aw ""
+    aw "Isso, mais forte. Eu mal tô suando."
 
 
 translate portuguese e12s02_sex_4e752cef:
 
 
-    mc ""
+    mc "E que tal assim?"
 
 
 translate portuguese e12s02_sex_d708350d:
 
 
-    aw ""
+    aw "Aaah!"
 
 
 translate portuguese e12s02_sex_eaae7a3e:
 
 
-    mc ""
+    mc "Gosta disso?"
 
 
 translate portuguese e12s02_sex_a077927b:
 
 
-    aw ""
+    aw "Tão gostoso."
 
 
 translate portuguese e12s02_sex_934a2907:
 
 
-    aw ""
+    aw "Isso, me fode assim mesmo. Porra, caralho."
 
 
 translate portuguese e12s02_sex_5a3765d8:
 
 
-    mc ""
+    mc "Caramba."
 
 
 translate portuguese e12s02_sex_6993d919:
 
 
-    aw ""
+    aw "Vai. Acaba com a minha boceta, amor. Eu quero tanto isso."
 
 
 translate portuguese e12s02_sex_9b8b01e6:
 
 
-    mc ""
+    mc "Porra. Você quer que eu goze, é?"
 
 
 translate portuguese e12s02_sex_dd3941c0:
 
 
-    aw ""
+    aw "Talvez. Estar aqui... nesse ambiente...Isso me faz querer tomar o controle."
 
 
 translate portuguese e12s02_sex_f7d81e22:
 
 
-    mc ""
+    mc "Ah. Quer usar o seu lado competitivo?"
 
 
 translate portuguese e12s02_sex_4ec19d74:
 
 
-    aw ""
+    aw "Um pouco."
 
 
 translate portuguese e12s02_sex_8ba372b2:
 
 
-    mc ""
+    mc "Então vou ter que parar de me segurar."
 
 
 translate portuguese e12s02_sex_d0136fc9:
 
 
-    aw ""
+    aw "Se segurar?"
 
 
 translate portuguese e12s02_sex_9d549374:
 
 
-    aw ""
+    aw "Você tá metendo tão forte."
 
 
 translate portuguese e12s02_sex_36266d10:
 
 
-    aw ""
+    aw "*Ofegante*"
 
 
 translate portuguese e12s02_sex_6843125a:
 
 
-    mc ""
+    mc "Você tá apertando."
 
 
 translate portuguese e12s02_sex_b09efd24:
 
 
-    aw ""
+    aw "Claro. O primeiro a gozar é o perdedor."
 
 
 translate portuguese e12s02_sex_c0b1bb56:
 
 
-    mct ""
+    mct "Merda, talvez eu acabe gozando dentro dela. Tenho que tirar o meu pau."
 
 
 translate portuguese e12s02_sex_b6f75e94:
 
 
-    aw ""
+    aw "Dá pra sentir o seu pau pulsando."
 
 
 translate portuguese e12s02_sex_1422e119:
 
 
-    aw ""
+    aw "Goza fora!"
 
 
 translate portuguese e12s02_sex_5a6dfc7c:
 
 
-    mc ""
+    mc "Aaah!!!"
 
 
 translate portuguese e12s02_sex_5774afaa:
 
 
-    mc ""
+    mc "Porra, essa foi por pouco."
 
 
 translate portuguese e12s02_sex_22c9ec6e:
 
 
-    aw ""
+    aw "Que gostoso. Dava pra sentir... o seu corpo querendo... *uff* me engravidar."
 
 
 translate portuguese e12s02_sex_af02a759:
 
 
-    mc ""
+    mc "É difícil ir contra essa natureza."
 
 
 translate portuguese e12s02_sex_568b53cf:
 
 
-    aw ""
+    aw "Pra nós dois."
 
 
 translate portuguese e12s02_sex_d4f39104:
 
 
-    aw ""
+    aw "Mas acabou sendo um treino daqueles."
 
 
 translate portuguese e12s02_sex_26b9fb0e:
 
 
-    mc ""
+    mc "Ahm... Allison."
 
 
 translate portuguese e12s02_sex_08fe291b:
 
 
-    aw ""
+    aw "Hmm."
 
 
 translate portuguese e12s02_sex_d1567ed3:
 
 
-    mc ""
+    mc "O seu pé."
 
 
 translate portuguese e12s02_sex_1b159599:
 
 
-    aw ""
+    aw "Jesus do céu!"
 
 
 translate portuguese e12s02_sex_9b4103bc:
 
 
-    aw ""
+    aw "Bem, pelo menos os próximos dias vão ser pra treinar ombro e peito..."
 
 
 translate portuguese e12s02_sex_c7ba7154:
 
 
-    aw ""
+    aw "Mas acho que alguém tem encontro marcado."
 
 
 translate portuguese e12s02_sex_c5d98a77:
 
 
-    mc ""
+    mc "Merda, quase esqueci."
 
 
 translate portuguese e12s02_sex_2b35b6fe:
 
 
-    mc ""
+    mc "..."
 
 
 translate portuguese e12s02_sex_53dd7ee5:
 
 
-    aw ""
+    aw "Você quer me foder no chuveiro primeiro."
 
 
 translate portuguese e12s02_sex_73ec990d:
 
 
-    mc ""
+    mc "Leu a minha mente..."
 
 translate portuguese strings:
 
 
     old "Next day at the hotel gym"
-    new ""
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "No dia seguinte, na academia do hotel"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

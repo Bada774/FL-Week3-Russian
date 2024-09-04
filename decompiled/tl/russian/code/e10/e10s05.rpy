@@ -28,19 +28,19 @@ translate russian e10s05_2fa3b246:
 translate russian e10s05_755b79d7:
 
     # ns "I could.{w}.. but I probably won't."
-    ns "Я могла бы.{w}.. но, скорее всего, не буду."
+    ns "Могла бы.{w}.. но, скорее всего, не буду."
 
 # game/code/e10/e10s05.rpy:73
 translate russian e10s05_178aa920:
 
     # mc "...{w} I'm not going to win this, am I?"
-    mc "...{w} Я ведь тебя не переубежу, да?"
+    mc "...{w}Я ведь тебя не переубежу, да?"
 
 # game/code/e10/e10s05.rpy:76
 translate russian e10s05_9ee3958e:
 
     # ns "In information technology we believe, \"If you do not say what you mean, you can never mean what you say\"."
-    ns "В информационных технологиях мы верим: \"Если ты не говоришь то, что имеешь в виду, ты никогда не сможете иметь в виду то, что говоришь\"."
+    ns "В области информационных технологий мы верим: \"Если ты не говоришь то, что имеешь в виду, ты никогда не сможете иметь в виду то, что говоришь\"."
 
 # game/code/e10/e10s05.rpy:78
 translate russian e10s05_da3244a1:
@@ -58,7 +58,7 @@ translate russian e10s05_1bdef7c2:
 translate russian e10s05_38cbf2eb:
 
     # ns "I was going through your notes again. What you're talking about isn't *technically* HFT."
-    ns "Я снова просматривал твои записи. То, о чем ты говоришь, *технически* не является ВЧТ."
+    ns "Я снова просматривала твои записи. То, о чём ты говоришь, *технически* не является ВЧТ."
 
 # game/code/e10/e10s05.rpy:86
 translate russian e10s05_b2b9e19d:
@@ -100,7 +100,7 @@ translate russian e10s05_4064c22e:
 translate russian e10s05_0bc9b8ec:
 
     # mc "So, we're expanding the definition."
-    mc "Таким образом, мы расширяем определение."
+    mc "Таким образом, мы расширяем определение ВЧТ."
 
 # game/code/e10/e10s05.rpy:107
 translate russian e10s05_7e865031:
@@ -112,7 +112,7 @@ translate russian e10s05_7e865031:
 translate russian e10s05_23420862:
 
     # mc "Sure, why not?{w} HFT is just a marketing term for us. It gets us the investors to do our business."
-    mc "Конечно, почему бы и нет?{w} ВЧТ для нас - это всего лишь маркетинговый термин. Это даёт нам инвесторов, чтобы мы могли заниматься нашим бизнесом."
+    mc "Конечно, почему бы и нет?{w} Для нас ВЧТ - это всего лишь маркетинговый термин. Это даёт нам инвесторов, чтобы мы могли заниматься нашим бизнесом."
 
 # game/code/e10/e10s05.rpy:113
 translate russian e10s05_27367d78:
@@ -124,7 +124,7 @@ translate russian e10s05_27367d78:
 translate russian e10s05_8660e364:
 
     # mc "Right. It's called sentiment analysis, but that usually takes hours or days to process."
-    mc "Верно. Это называется анализом настроений, но его проведение обычно занимает часы или дни."
+    mc "Верно. Это называется анализом настроений, но на его проведение обычно уходят часы или даже дни."
 
 # game/code/e10/e10s05.rpy:117
 translate russian e10s05_4c41ce1f:
@@ -148,7 +148,7 @@ translate russian e10s05_6b7a17d3:
 translate russian e10s05_dc777ef4:
 
     # ns "Hmm. I'm not sure how I feel about this."
-    ns "Хмм. Я не уверена, что я чувствую по этому поводу."
+    ns "Хмм. Не уверена, что я чувствую по этому поводу."
 
 # game/code/e10/e10s05.rpy:127
 translate russian e10s05_b150009e:
@@ -160,7 +160,7 @@ translate russian e10s05_b150009e:
 translate russian e10s05_9a0a6d47:
 
     # mc "You referred to ETL as CRAP?"
-    mc "Вы называла ВПЗ - СПИП?\n\n{size=-10}{i}(В оригинале - \"Collection, Reformat, Alter, and Publish\" - CRAP - дерьмо){/i}{/size}"
+    mc "Ты называла ВПЗ - СПИП?\n\n{size=-10}{i}Ориг. Collection, Reformat, Alter, and Publish - CRAP - дерьмо.{/i}{/size}"
 
 # game/code/e10/e10s05.rpy:133
 translate russian e10s05_4c6c2516:
@@ -178,13 +178,13 @@ translate russian e10s05_88ac7b43:
 translate russian e10s05_a55162f3:
 
     # ns "Exactly. Grouping social media posts by geographic location, then identifying correlations between-"
-    ns "Точно. Группировка сообщений в социальных сетях по географическому местоположению, а затем выявление корреляций между..."
+    ns "Именно. Группировка сообщений в социальных сетях по географическому местоположению, а затем выявление корреляций между..."
 
 # game/code/e10/e10s05.rpy:142
 translate russian e10s05_b38c29fe:
 
     # mc "I know how it works.{w} So, internally why don't you refer to it as Social Collection Analysis Training?"
-    mc "Я знаю, как это работает.{w} Тогда, почему бы тебе не назвать это \"Тренингом по Анализу Социальных Коллекций\"\n\n{size=-10}{i}(В оригинале - \"Social Collection Analysis Training\" - SCAT - копрофилия){/i}{/size}?"
+    mc "Я знаю, как это работает.{w} Тогда, почему бы тебе не назвать это \"Тренингом по Анализу Социальных Коллекций\"\n\n{size=-10}{i}Ориг. Social Collection Analysis Training - SCAT - копрофилия.{/i}{/size}?"
 
 # game/code/e10/e10s05.rpy:145
 translate russian e10s05_d2b4efba:
@@ -202,7 +202,7 @@ translate russian e10s05_afd74152:
 translate russian e10s05_c129ad1f:
 
     # ns "That Is Awesome!"
-    ns "Это замечательно!"
+    ns "Это Замечательно!"
 
 # game/code/e10/e10s05.rpy:152
 translate russian e10s05_4f74c241:
@@ -232,7 +232,7 @@ translate russian e10s05_96e91dd2:
 translate russian e10s05_11092ed0:
 
     # mes "J'ACCUSE!!!"
-    mes "Что здесь происходит?!!!"
+    mes "ЧТО ЗДЕСЬ ПРОИСХОДИТ!!!"
 
 # game/code/e10/e10s05.rpy:178
 translate russian e10s05_4e4adb22:
@@ -322,7 +322,7 @@ translate russian e10s05_19930d06:
 translate russian e10s05_d24e33bd:
 
     # mes "I suppose it's my fault - I'm working all the time and should've known your immense sex drive."
-    mes "УДмаю, это моя вина - я всё время работаю и должна была помнить о твоём огромном сексуальном влечении."
+    mes "Наверное, это моя вина - я всё время работаю и должна была помнить о твоём огромном сексуальном влечении."
 
 # game/code/e10/e10s05.rpy:221
 translate russian e10s05_79c8897b:
@@ -346,7 +346,7 @@ translate russian e10s05_a7d607d3:
 translate russian e10s05_5d4367b3:
 
     # mc "She's actually a fucking genius. 205 IQ.{w} She's just not that great at understanding people."
-    mc "На самом деле, она чёртов гений. У неё IQ 205.{w} Она просто не очень хорошо разбирается в людях."
+    mc "На самом деле, она чёртов гений. У неё 205 IQ.{w} Она просто не очень хорошо разбирается в людях."
 
 # game/code/e10/e10s05.rpy:233
 translate russian e10s05_f603d8e3:
@@ -358,7 +358,7 @@ translate russian e10s05_f603d8e3:
 translate russian e10s05_843cbb7b:
 
     # ns "Not that I know of... just sheltered and focused."
-    ns "Насколько я знаю... я просто защищённая и сосредоточенная."
+    ns "Насколько я знаю... я просто замкнутая и сосредоточенная."
 
 # game/code/e10/e10s05.rpy:239
 translate russian e10s05_1c4ff214:
@@ -406,7 +406,7 @@ translate russian e10s05_705e5a71:
 translate russian e10s05_2728fa4b:
 
     # ns "This is all so very very wrong.{w} Why didn't you tell me?!"
-    ns "Это всё очень-очень неправильно.{w} Почему ты мне не сказал?!"
+    ns "Это всё так очень, очень неправильно.{w} Почему ты мне не сказал?!"
 
 # game/code/e10/e10s05.rpy:263
 translate russian e10s05_05500ff6:
@@ -454,13 +454,13 @@ translate russian e10s05_b000a19f:
 translate russian e10s05_c3a952f6:
 
     # ns "I mean, I hadn't thought about it before, but you're both very attractive people and I do love the way [mcname]'s brain works."
-    ns "Я имею в виду, я не думала об этом раньше, но вы оба очень привлекательные люди, и мне нравится, как мыслит [mcname]."
+    ns "Я имею в виду, я не думала об этом раньше, но вы оба очень привлекательные люди, и мне нравится, как у [mcname] работает мозг."
 
 # game/code/e10/e10s05.rpy:291
 translate russian e10s05_95322407:
 
     # mes "Let's be perfectly clear.{w} Fucking my boyfriend is definitely NOT part of the job."
-    mes "Давай внесём ясность.{w} Трахаться с моим парнем - определённо НЕ является частью работы."
+    mes "Давай будем предельно ясны.{w} Трахаться с моим парнем - определённо НЕ является частью работы."
 
 # game/code/e10/e10s05.rpy:294
 translate russian e10s05_2cba65e8:
@@ -538,7 +538,7 @@ translate russian e10s05_56620ee1:
 translate russian e10s05_49fda4bf:
 
     # ns "If you don't say what you mean then you can never mean what you say, right?"
-    ns "Если не говорить то, что ты имеешь в виду, ты никогда не сможете иметь в виду то, что говоришь, верно?"
+    ns "Если не говорить то, что ты имеешь в виду, ты никогда не сможешь иметь в виду то, что говоришь, верно?"
 
 # game/code/e10/e10s05.rpy:331
 translate russian e10s05_e5a44c4a:
@@ -628,13 +628,13 @@ translate russian e10s05_7fdae25c:
 translate russian e10s05_04290d7c:
 
     # mes "Yes, he has."
-    mes "Да, было такое."
+    mes "Да, уж что было, то было."
 
 # game/code/e10/e10s05.rpy:377
 translate russian e10s05_0c2350e1:
 
     # ns "Oh. Have you ever been peed on by someone before?"
-    ns "Оъ. А на тебя когда-нибудь кто-нибудь раньше писал?"
+    ns "Ох. А на тебя когда-нибудь кто-нибудь раньше писал?"
 
 # game/code/e10/e10s05.rpy:380
 translate russian e10s05_1a682563:
@@ -658,19 +658,19 @@ translate russian e10s05_69c25b65:
 translate russian e10s05_289cdaf3:
 
     # ns "I mean, you don't have to if you don't want to, but if you want to it's something that's always fascinated me."
-    ns "Я имею в виду, ты не должен это делать, если не хочешь, но если ты хочешь, это то, что меня всегда очаровывало."
+    ns "Я имею в виду, ты можешь этого не делать, если не хочешь, но если ты хочешь, это то, что меня всегда очаровывало."
 
 # game/code/e10/e10s05.rpy:392
 translate russian e10s05_907529d4:
 
     # mes "Am I understanding this correctly?"
-    mes "Я правильно тебя поняла?"
+    mes "Я всё правильно понимаю?"
 
 # game/code/e10/e10s05.rpy:395
 translate russian e10s05_1296752b:
 
     # mc "I don't know. I feel like I just stepped into someone else's wet dream."
-    mc "Я не знаю. У меня такое чувство, словно я только что вошёл в чей-то влажный сон."
+    mc "Я не знаю. У меня такое чувство, словно я только что вошёл в чьи-то влажные мечты."
 
 # game/code/e10/e10s05.rpy:398
 translate russian e10s05_0bb85c63:
@@ -748,13 +748,13 @@ translate russian e10s05_ea8382c4:
 translate russian e10s05_791d3611:
 
     # ns "I have an oral fixation, so there's that.{w} Oh! And I'm on the pill so you may come inside me all you want!"
-    ns "Я хотела сказать, что я люблю орал.{w} О, и я принимаю таблетки, так что ты можешь кончать в меня сколько захочешь!"
+    ns "Я хотела сказать, что я люблю орал.{w} О! И я принимаю таблетки, так что ты можешь кончать в меня сколько захочешь!"
 
 # game/code/e10/e10s05.rpy:437
 translate russian e10s05_635d25cc:
 
     # mes "Do you need more convincing?"
-    mes "Тебя ещё нужно убеждать?"
+    mes "Тебя всё ещё нужно убеждать?"
 
 # game/code/e10/e10s05.rpy:440
 translate russian e10s05_1c85b0f2:
@@ -928,7 +928,7 @@ translate russian e10s05_threesome_c99648f3:
 translate russian e10s05_threesome_c2288986:
 
     # ns "Am I doing okay? I don't have much practice at this."
-    ns "Я хорошо справляюсь? У меня не так много практики."
+    ns "Я хорошо справляюсь? У меня было не очень много практики."
 
 # game/code/e10/e10s05.rpy:588
 translate russian e10s05_threesome_d09e2509:
@@ -1036,7 +1036,7 @@ translate russian e10s05_watersports_0a7acf5f:
 translate russian e10s05_watersports_80dca3c5:
 
     # mes "You've already munched my carpet. Sure, why not?"
-    mes "Ты уже вылизала мой ковотк. Конечно, почему бы и нет?"
+    mes "Ты и так уже вылизала мой коврик. Конечно, почему бы и нет?"
 
 # game/code/e10/e10s05.rpy:708
 translate russian e10s05_watersports_0b896059:
@@ -1114,19 +1114,19 @@ translate russian e10s05_watersports_12a08e0b:
 translate russian e10s05_watersports_2f47aeb4:
 
     # ns "Does it involve [mcname] peeing on us?"
-    ns "Это включает в себя то, что [mcname] писает на нас?"
+    ns "Это включает в себя то, как [mcname] писает на нас?"
 
 # game/code/e10/e10s05.rpy:750
 translate russian e10s05_watersports_76a82948:
 
     # mes "Having [mcname] pee on me is the third best thing ever.{w}.. especially in my mouth."
-    mes "Когда [mcname] писает на меня - это третья лучшая вещь на свете.{w}.. особенно в рот."
+    mes "Когда [mcname] на меня писает - это третья лучшая вещь на свете.{w}.. особенно в рот."
 
 # game/code/e10/e10s05.rpy:754
 translate russian e10s05_watersports_5314bb6e:
 
     # mes "Looks like he is ready."
-    mes "Похоже, он готов."
+    mes "Кажется, он готов."
 
 # game/code/e10/e10s05.rpy:767
 translate russian e10s05_watersports_02502b9c:
@@ -1150,7 +1150,7 @@ translate russian e10s05_watersports_1dc01e38:
 translate russian e10s05_watersports_3784461b:
 
     # mes "...than sucking down [mcname]'s hot piss."
-    mes "... это глотать горячую мочу [mcname]."
+    mes "...это глотать горячую мочу [mcname]."
 
 # game/code/e10/e10s05.rpy:781
 translate russian e10s05_watersports_ca5c51f1:
@@ -1168,13 +1168,13 @@ translate russian e10s05_watersports_e072c475:
 translate russian e10s05_watersports_0073813e:
 
     # ns "I'm not sure, Mistress. But I definitely enjoyed it."
-    ns "Я не уверена, Госпожа. Но мне это определённо понравилось."
+    ns "Я не уверена, Госпожа. Но мне определённо это понравилось."
 
 # game/code/e10/e10s05.rpy:790
 translate russian e10s05_watersports_8c98db07:
 
     # mc "I think it's time we changed positions again."
-    mc "Я думаю, пришло время изменить позицию."
+    mc "Я думаю, пришло время сменить позицию."
 
 # game/code/e10/e10s05.rpy:793
 translate russian e10s05_watersports_4d48ff05:
@@ -1282,7 +1282,7 @@ translate russian e10s05_end_sex_49b03272:
 translate russian e10s05_end_sex_399fce71:
 
     # mes "Beg for it, slave."
-    mes "Умоляй об этом, рабыня."
+    mes "Умоляй меня об этом, раб."
 
 # game/code/e10/e10s05.rpy:865
 translate russian e10s05_end_sex_bc1509d6:
@@ -1312,7 +1312,7 @@ translate russian e10s05_end_sex_9c375018:
 translate russian e10s05_end_sex_27363ad4:
 
     # ns "Your boyfriend!{w} Apologies, Mistress!"
-    ns "Вашим парнем!{w} Простите, госпожа!"
+    ns "Вашим парнем!{w} Простите, Госпожа!"
 
 # game/code/e10/e10s05.rpy:880
 translate russian e10s05_end_sex_d06eee77:
@@ -1390,7 +1390,7 @@ translate russian e10s05_end_sex_51f02fe4:
 translate russian e10s05_end_sex_d9bd32db:
 
     # ns "I'm so sorry, Mistress. I should have-"
-    ns "Прошу прощение, Госпожа. Я должна была..."
+    ns "Прошу прощения, Госпожа. Я должна была..."
 
 # game/code/e10/e10s05.rpy:943
 translate russian e10s05_end_sex_c8bd3771:
@@ -1422,7 +1422,7 @@ translate russian strings:
 
     # game/code/e10/e10s05.rpy:444
     old "Not Appropriate to have Sex Here"
-    new "Здесь не уместно заниматься сексом"
+    new "Здесь неуместно заниматься сексом"
 
     # game/code/e10/e10s05.rpy:480
     old "At 18:00"

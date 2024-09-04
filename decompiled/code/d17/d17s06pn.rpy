@@ -112,7 +112,6 @@ label d17s06pn:
     scene d17s06-13 pw-kneeling-looking-outside_c1 with dissolve
     pause
 
-
     $ Lovense.stop()
 
     scene d17s06-12 nk-takes-mc-cock_c1 with dissolve
@@ -179,7 +178,6 @@ label d17s06pn:
     pause
     scene d17s06с-a4 with dissolve
     pause
-
     pw "Just remember that she's not on birth control, so no cumming inside her."
     stop voice3 fadeout 1.0
     stop voice4 fadeout 1.0
@@ -202,8 +200,6 @@ label d17s06pn:
     pause
     scene d17s06с-a4-f with dissolve
     pause
-
-
     scene d17s06с-a3-f with dissolve
     nk "I'M GOING TO CUUUuuuuUUUUUMMMM!!!"
     stop sound3 fadeout 1.0
@@ -573,7 +569,6 @@ label d17s06pn:
     scene black
     show screen scene_transistion(_("Some time later"))
 
-
     $ Lovense.stop()
 
     with fade
@@ -626,11 +621,11 @@ label d17s06pn:
     $ renpy.end_replay()
     $ unlock_gallery_slot("scene", "d17s06pn")
     menu:
-        "They make a cute couple"(hint="d17s05pnm01c01") if True:
+        "They make a cute couple"(hint="d17s05pnm01c01"):
             $ d17s06_pn_thruple = False
             play voice2 mc_thinking_hmm4 noloop
             mct "Good for them."
-        "We make a good trio"(hint="d17s05pnm01c02") if True:
+        "We make a good trio"(hint="d17s05pnm01c02"):
 
             $ d17s06_pn_thruple = True
             play voice2 mc_thinking_hmm4 noloop
@@ -645,4 +640,5 @@ label d17s06pn:
     stop music2 fadeout 4.0
     stop sound2 fadeout 3.0
     jump d17s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

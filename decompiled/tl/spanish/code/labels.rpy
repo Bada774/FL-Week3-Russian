@@ -115,10 +115,10 @@ translate spanish after_credits_a17db195:
     sy "Espera, ¿la conoces?"
 
 
-translate spanish after_credits_6daca271:
+translate spanish after_credits_870c1bff:
 
 
-    dd "¡Sí, ella es de la Universidad Vinovella!"
+    dd "¡Sí, ella es de la Universidad Taboo!"
 
 
 translate spanish after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate spanish after_credits_73eb5eb5:
     sy "¡Ya lo sé! ¡Estoy impaciente por ver lo próximo que ViNovella nos tiene preparado!"
 
 
-translate spanish after_credits_e4b3c0d3:
+translate spanish after_credits_826b65f0:
 
 
-    dd "Pero, ¿qué pasa con la Universidad Vinovella?"
+    dd "Pero, ¿qué pasa con la Universidad Taboo?"
 
 
 translate spanish after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate spanish after_credits_47a5d0a5:
     dd "¡Oye, encantada de conocerlas también!"
 
 
-translate spanish after_credits_37ad6ed0:
+translate spanish after_credits_f1d2352a:
 
 
-    dd "¿Cómo va la Universidad Vinovella? ¿Qué sigue?"
+    dd "¿Cómo va la Universidad Taboo? ¿Qué sigue?"
 
 
-translate spanish after_credits_cbe5ee17:
+translate spanish after_credits_75e46767:
 
 
-    sm "¿Oh? ¿Has jugado Universidad Vinovella?"
+    sm "¿Oh? ¿Has jugado TU?"
 
 
 translate spanish after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate spanish after_credits_23a10f35:
     dd "*Risas* ¡Lo siento! No pude evitarlo."
 
 
-translate spanish after_credits_470ffbdd:
+translate spanish after_credits_166c44bf:
 
 
-    sy "¿Saben ustedes dos cuándo habrá disponible una versión terminada de Universidad Vinovella? Quiero darme un atracón."
+    sy "¿Saben ustedes dos cuándo habrá disponible una versión terminada de TU? Quiero darme un atracón."
 
 
 translate spanish after_credits_4041f0a9:
@@ -373,10 +373,10 @@ translate spanish after_credits_321e2b80:
     sy "¿Oh? Espera, ¿entonces el Libro 1 es como la Semana 1 en Fetish Locator?"
 
 
-translate spanish after_credits_99a25d72:
+translate spanish after_credits_175f3ea2:
 
 
-    sm "Cerca. Cada libro de Universidad Vinovella será {i}mucho{/i} más grande que una semana de Fetish Locator."
+    sm "Cerca. Cada libro de TU será {i}mucho{/i} más grande que una semana de FL."
 
 
 translate spanish after_credits_03943779:
@@ -621,8 +621,75 @@ translate spanish strings:
 
 
 
-translate spanish after_credits_cb03f950:
+translate spanish after_credits_b06da193:
 
 
-    sy "Definitivamente debo {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}añadir el juego en mi lista de deseados de Steam{/u}{/a}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    sy "Definitivamente debo {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}añadir el juego en mi lista de deseados de Steam{/u}{/a}"
+
+
+translate spanish after_credits_dcd001ba:
+
+
+    sy "¡Es tan triste! Pensé que habías muerto."
+
+
+translate spanish after_credits_5a67dd3f:
+
+
+    sy "*sniffs*"
+
+
+translate spanish after_credits_3b9a74dd:
+
+
+    dd "Oye, está bien. Estoy sana como una almeja ahora."
+
+
+translate spanish after_credits_62dbb988:
+
+
+    sy "*sollozando* Lo sé. *Me alegro de que estés bien."
+
+
+translate spanish after_credits_de67d958:
+
+
+    dd "Mmmhmm. Yo también, Stacy."
+
+
+translate spanish after_credits_697eed2b:
+
+
+    dd "Y no lo olvides. ¡Hay otro final conmigo!"
+
+
+translate spanish after_credits_26d7f508:
+
+
+    sy "Oh... cierto."
+
+
+translate spanish after_credits_ae828622:
+
+
+    sy "¡Casi me olvido del final de la Mazmorra Sexual!"
+
+
+translate spanish after_credits_a73caa2e:
+
+
+    dd "No te olvides de nuestro otro final, Stacy. ¡Seré una muñeca sexy de látex en nuestra propia Mazmorra Sexual!"
+
+
+translate spanish after_credits_83a2ed10:
+
+
+    sy "Sí... Ese final suena divertido."
+
+
+translate spanish after_credits_f4cf666b:
+
+
+    sy "Estoy deseando disfrutarlo contigo."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -393,10 +393,10 @@ label replay_d20s03 hide:
     cb "I can't wait anymore. I want you to put a baby in me."
     cb "Do you want some time to think about it?"
     menu:
-        "Let's do it!"(hint="d20s03m01c01") if True:
+        "Let's do it!"(hint="d20s03m01c01"):
             $ d20s03_sex = True
             jump d20s03_continue
-        "I thought about it. The answer is no."(hint="d20s03m01c02") if True:
+        "I thought about it. The answer is no."(hint="d20s03m01c02"):
 
             play voice2 mc_no_no1 noloop
             scene d20s3-45 kb-mc-cb-hug_c1 with dissolve
@@ -429,7 +429,6 @@ label d20s03_continue:
     kb "It's up to you."
     play voice3 chloe_arrogant_heh2 noloop
 
-
     $ Lovense.stop()
 
     cb "I figure, since we're all here, we might as well do it like the first time. Kevin watching me as I get impregnated."
@@ -450,17 +449,6 @@ label d20s03_continue:
     scene d20s3-50-3 cb-undress2_c1 with dissolve
     play voice2 d3s11b_mcheh noloop
     mc "How could I forget?"
-
-
-
-
-
-
-
-
-
-
-
     scene d20s3-50-3 cb-undress2_c3 with dissolve
     play voice3 chloe_disappointed_mff noloop
     cb "Loving the conversation, guys, but we better get this done."
@@ -517,9 +505,6 @@ label d20s03_continue:
     pause
     scene d20s03-a6-f with dissolve
     pause
-
-
-
     stop sound fadeout 1.0
     stop voice3 fadeout 1.0
     $ renpy.music.set_volume(0.5, 1.5, "music")
@@ -734,7 +719,6 @@ label d20s03_continue:
     scene d20s3-64 mc-cb-kb-photo1_c2 with dissolve
     pause
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -745,4 +729,5 @@ label d20s03_continue:
 label d20s03_end:
 
     jump d20s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -115,10 +115,10 @@ translate turkish after_credits_a17db195:
     sy "Bekle, onu tanıyor musun?"
 
 
-translate turkish after_credits_6daca271:
+translate turkish after_credits_870c1bff:
 
 
-    dd "Evet, o Vinovella Üniversitesi'nden!"
+    dd "Evet, o Taboo Üniversitesi'nden!"
 
 
 translate turkish after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate turkish after_credits_73eb5eb5:
     sy "Biliyorum! ViNovella'nın bizim için bundan sonra ne hazırladığını görmek için sabırsızlanıyorum!"
 
 
-translate turkish after_credits_e4b3c0d3:
+translate turkish after_credits_826b65f0:
 
 
-    dd "Peki ya Vinovella Üniversitesi ne olacak?"
+    dd "Peki ya Taboo Üniversitesi ne olacak?"
 
 
 translate turkish after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate turkish after_credits_47a5d0a5:
     dd "Hey, ben de tanıştığımıza memnun oldum!"
 
 
-translate turkish after_credits_37ad6ed0:
+translate turkish after_credits_f1d2352a:
 
 
-    dd "Vinovella Üniversitesi nasıl gidiyor? Sırada ne var?"
+    dd "Taboo Üniversitesi nasıl gidiyor? Sırada ne var?"
 
 
-translate turkish after_credits_cbe5ee17:
+translate turkish after_credits_75e46767:
 
 
-    sm "Ah? VU oynadın mı?"
+    sm "Ah? TU oynadın mı?"
 
 
 translate turkish after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate turkish after_credits_23a10f35:
     dd "*Gülüyor* Üzgünüm! Kendime engel olamadım."
 
 
-translate turkish after_credits_470ffbdd:
+translate turkish after_credits_166c44bf:
 
 
-    sy "Siz ikiniz VU'nun bitmiş bir sürümünün ne zaman hazır olacağını biliyor musunuz? Art arda oynamak istiyorum."
+    sy "Siz ikiniz TU'nun bitmiş bir sürümünün ne zaman hazır olacağını biliyor musunuz? Art arda oynamak istiyorum."
 
 
 translate turkish after_credits_4041f0a9:
@@ -373,10 +373,10 @@ translate turkish after_credits_321e2b80:
     sy "Oh? Bekle, Kitap-1, Fetiş Bulucu'daki Hafta-1 gibi mi?"
 
 
-translate turkish after_credits_99a25d72:
+translate turkish after_credits_175f3ea2:
 
 
-    sm "Kapat. Her VU kitabı bir FL Haftasından {i}çok{/i} daha büyük olacak."
+    sm "Kapat. Her TU kitabı bir FL Haftasından {i}çok{/i} daha büyük olacak."
 
 
 translate turkish after_credits_03943779:
@@ -619,10 +619,77 @@ translate turkish strings:
     new "Efsanevi Fetiş Bulucu geri dönecek"
 
 
+translate turkish after_credits_b06da193:
 
 
-translate turkish after_credits_cb03f950:
+    sy "Oyunu kesinlikle {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist Steam'de oynamalıyım{/u}{/a} O zaman!"
 
 
-    sy "Oyunu kesinlikle {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist Steam'de oynamalıyım{/u}{/a} O zaman!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+translate turkish after_credits_dcd001ba:
+
+
+    sy "Çok üzücü! Öldüğünü sanıyordum."
+
+
+translate turkish after_credits_5a67dd3f:
+
+
+    sy "*koklar**"
+
+
+translate turkish after_credits_3b9a74dd:
+
+
+    dd "Hey, sorun değil. Artık deniz tarağı kadar sağlıklıyım."
+
+
+translate turkish after_credits_62dbb988:
+
+
+    sy "*burnunu çekiyor* biliyorum. *burnunu çekiyor* iyi olduğuna sevindim."
+
+
+translate turkish after_credits_de67d958:
+
+
+    dd "Mmmhmm. Ben de Stacy."
+
+
+translate turkish after_credits_697eed2b:
+
+
+    dd "Ve unutma. Benim için başka bir son daha var!"
+
+
+translate turkish after_credits_26d7f508:
+
+
+    sy "Ah...doğru."
+
+
+translate turkish after_credits_ae828622:
+
+
+    sy "Sex Dungeon'ın sonunu neredeyse unutuyordum!"
+
+
+translate turkish after_credits_a73caa2e:
+
+
+    dd "Diğer sonumuzu unutma Stacy. Kendi Seks Zindanımızda ateşli, lateks bir seks bebeği olacağım!"
+
+
+translate turkish after_credits_83a2ed10:
+
+
+    sy "Evet... Bu son eğlenceliye benziyor."
+
+
+translate turkish after_credits_f4cf666b:
+
+
+    sy "Seninle eğlenmek için sabırsızlanıyorum."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -130,7 +130,6 @@ label d20s01:
     play voice3 polly_aga noloop
     sy "We'll just have to squeeze in together and make it work."
 
-
     $ Lovense.stop()
 
     if date_sy is False:
@@ -191,7 +190,7 @@ label replay_d20s01 hide:
         scene d20s1-16-4 mc-sy-arj-pee2_c1_i with dissolve
         menu:
             "Do you want Stacy to pee on you?"
-            "Yes"(hint="d20s01m01c01") if True:
+            "Yes"(hint="d20s01m01c01"):
                 $ d20s01_let_sy_pee = True
 
                 scene d20s1-16-4 mc-sy-arj-pee2_c3_i with dissolve
@@ -223,7 +222,7 @@ label replay_d20s01 hide:
                 play voice3 stacy_huh2 noloop
                 sy "Oh c'mon, you can't judge. I'm sure you've done kinkier things."
                 $ unlock_gallery_slot("scene", "d20s01")
-            "No"(hint="d20s01m01c02") if True:
+            "No"(hint="d20s01m01c02"):
 
                 scene d20s1-16-4 mc-sy-arj-pee2_c2_i with dissolve
                 play voice4 amrose_disgust_argh noloop
@@ -374,8 +373,8 @@ label d20s01_judges:
     $ renpy.music.set_volume(1.0, 7.0, "sound4")
     $ renpy.music.set_volume(1.0, 7.0, "music")
 
-
     $ Lovense.stop()
 
     jump d20s02tl
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

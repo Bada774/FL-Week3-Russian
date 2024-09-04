@@ -1167,4 +1167,5 @@ translate chinese strings:
 
     old "Some time later\nIn Seoul with Min"
     new "不久之后\n与明在首尔"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

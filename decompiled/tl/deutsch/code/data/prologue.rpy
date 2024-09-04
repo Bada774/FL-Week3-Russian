@@ -68,45 +68,46 @@ translate deutsch strings:
 
 
     old "The Judge"
-    new "The Judge"
+    new "Die Richterin"
 
 
     old "Enema"
-    new "Enema"
+    new "Einlauf"
 
 
     old "Watersports"
-    new "Watersports"
+    new "Wassersport"
 
 
     old "Footfetish"
-    new "Footfetish"
+    new "Fußfetisch"
 
 
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "Wichsgarnierung"
 
 
     old "Fisting"
-    new "Fisting"
+    new "Fisten"
 
 
     old "Pegging"
-    new "Pegging"
+    new "Pflocken"
 
 
     old "Trans Content"
-    new "Trans Content"
+    new "Trans-Inhalte"
 
 
     old "dog"
-    new "dog"
+    new "Hund"
 
 
     old "cuddle"
-    new "cuddle"
+    new "kuscheln"
 
 
     old "adult magazines"
-    new "adult magazines"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Zeitschriften für Erwachsene"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

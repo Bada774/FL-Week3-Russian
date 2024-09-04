@@ -282,7 +282,6 @@ label e10s05:
     play sound sfx_camera_fly1
     scene e10s05-71-1 with dissolve
     pause
-
     play voice4 nari_thinking_hmm2 noloop
     ns "I mean, I hadn't thought about it before, but you're both very attractive people and I do love the way [mcname]'s brain works."
     stop sound fadeout 1.0
@@ -442,7 +441,7 @@ label e10s05:
     play voice3 min_old_hey noloop
     mes "Come on.{w} Let's have a little fun together."
     menu:
-        "Fuck Min & Nari together"(hint="e10s05m01c01") if True:
+        "Fuck Min & Nari together"(hint="e10s05m01c01"):
             $ e10s05_threesome = True
 
             scene e10s05-109 mc_ns_mes employee_relations_talk_min_choice_c with dissolve
@@ -454,7 +453,7 @@ label e10s05:
 
             stop music fadeout 4.5
             jump e10s05_threesome
-        "Not Appropriate to have Sex Here"(hint="e10s05m01c02") if True:
+        "Not Appropriate to have Sex Here"(hint="e10s05m01c02"):
 
             scene e10s05-109 mc_ns_mes employee_relations_talk_min_choice_c with dissolve
             play voice2 mc_arrogant_hm3 noloop
@@ -514,7 +513,6 @@ label e10s05_threesome:
     scene e10s05-121 mc_ns_mes employee_relations_talk_sitting with dissolve
     play voice3 min_thinking_mhh noloop
     mes "Do you mind if I hold it for you?"
-
 
     $ Lovense.stop()
 
@@ -681,7 +679,7 @@ label e10s05_sex:
             mc "What did you have in mind?"
 
             jump e10s05_watersports
-        "Climax without watersports"(hint="e10s05m02c02") if True:
+        "Climax without watersports"(hint="e10s05m02c02"):
 
             scene e10s05-158 mc_ns_mes employee_relations_ns_mes_looking_down with dissolve
             play voice4 nari_happy_phew noloop
@@ -700,7 +698,6 @@ label e10s05_watersports:
     scene e10s05-155 mc_ns_mes employee_relations_ns_mes_laying_down with dissolve
     play voice3 min_old_moan1 noloop
     mes "You've already munched my carpet. Sure, why not?"
-
     play sound sfx_camera_fly2
     scene e10s05-160-1 with dissolve
     pause
@@ -949,7 +946,6 @@ label e10s05_end_sex:
     mc "Alright, let's clean up. I have another potential investor here tomorrow morning."
     stop music fadeout 4.5
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -960,4 +956,5 @@ label e10s05_end_sex:
 label e10s05_end:
 
     jump e10s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

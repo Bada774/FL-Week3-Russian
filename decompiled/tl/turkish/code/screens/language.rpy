@@ -12,5 +12,6 @@ translate turkish strings:
 
 
     old "Choose Language"
-    new "Choose Language"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Dil seçiniz"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

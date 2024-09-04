@@ -1153,4 +1153,5 @@ translate portuguese strings:
 
     old "Do you want to see watersports?"
     new "Você quer ver conteúdo com urina?"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

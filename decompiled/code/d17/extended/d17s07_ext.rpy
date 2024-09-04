@@ -55,8 +55,6 @@ label d17s07_ext:
     mct "Sent 40 minutes ago with no follow-up."
     scene d17s07-01 mc_jf_breeding_ponies with dissolve
     mct "Jessie has never sent me a text like that before."
-
-
     play sound sfx_door_open1
     $ renpy.music.set_volume(0.3, 0.5, "music")
     play music homebound fadein 2.0
@@ -127,7 +125,6 @@ label d17s07_ext:
     queue sound maria_kiss2
     scene d17s07-24 mc_jf_breeding_ponies with dissolve
     pause
-
 
     $ Lovense.stop()
 
@@ -291,7 +288,6 @@ label d17s07_ext:
     $ renpy.music.set_volume(0.3, 2.5, "music")
     scene d17s07-48 mc_jf_breeding_ponies with Fade(0.5, 0.5, 0.5)
 
-
     $ Lovense.stop()
 
     pause
@@ -391,12 +387,12 @@ label d17s07_ext:
     play voice3 jessie_yes1 noloop
     jf "I think I'm in love with you, [mcname]. And I'm really scared."
     menu:
-        "I think I'm in love with you too"(hint="d17s07m01c01") if True:
+        "I think I'm in love with you too"(hint="d17s07m01c01"):
             $ d17s07_jf_luvutoo = True
             scene d17s07-76 mc_jf_breeding_ponies with dissolve
             play voice2 mc_happy_yay2 noloop
             mc "I think I'm in love with you too."
-        "Let her down"(hint="d17s07m01c02") if True:
+        "Let her down"(hint="d17s07m01c02"):
 
             scene d17s07-77 mc_jf_breeding_ponies with dissolve
             play voice2 mc_disappointed_ehh1 noloop
@@ -489,7 +485,7 @@ label ending_16_return hide:
     $ unlock_ending("16")
     call update_ending_variables from _call_update_ending_variables_2
     menu:
-        "Agree to go with her"(hint="d17s07m02c01") if True:
+        "Agree to go with her"(hint="d17s07m02c01"):
             $ d17s07_jf_ending = True
 
             scene d17s07-107 mc_jf_breeding_ponies with dissolve
@@ -507,9 +503,8 @@ label ending_16_return hide:
             play voice3 allison_laugh1 noloop
             jf "I love you so much."
 
-
             jump ending_16
-        "Don't"(hint="d17s07m02c02") if True:
+        "Don't"(hint="d17s07m02c02"):
 
             scene d17s07-102 mc_jf_breeding_ponies with dissolve
             play voice2 mc_disappointed_ehh3 noloop
@@ -544,4 +539,5 @@ label d17s07_end:
     stop music fadeout 4.0
 
     jump d17s08
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

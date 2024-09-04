@@ -109,4 +109,5 @@ translate spanish strings:
 
     old "adult magazines"
     new "revistas para adultos"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

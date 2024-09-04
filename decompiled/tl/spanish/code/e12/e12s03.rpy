@@ -1217,4 +1217,5 @@ translate spanish e12s03_sex_4a53788f:
 
 
     vw "Oh, tranquilo. Sólo abrázame y veamos la puesta de sol antes de ir a preparar la cena."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

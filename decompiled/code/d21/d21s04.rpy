@@ -92,20 +92,20 @@ label d21s04:
     play voice2 mc_thinking_mmm3 noloop
     mc "I..."
     menu:
-        "Yes, I still love Lydia"(hint="d21s04m01c01") if True:
+        "Yes, I still love Lydia"(hint="d21s04m01c01"):
             $ d21s04_lc_choice = 1
             $ d21s04_love_lc = True
             scene d21s04-22-c1-mc-talk-mh with dissolve
             play voice2 mc_disappointed_ehh1 noloop volume 0.8
             mc "*Sighs* Yes."
             mc "I know it's dumb of me. But I cared about her. And through everything, she has done. I still care about her."
-        "I don't know"(hint="d21s04m01c02") if True:
+        "I don't know"(hint="d21s04m01c02"):
 
             $ d21s04_lc_choice = 2
             scene d21s04-23-c1-c2-mc-talk-mh with dissolve
             play voice2 mc_disappointed_ehh1 noloop volume 0.8
             mc "I don't know. I cared about her. But now? I have so many feelings when I think about her."
-        "Absolutely not"(hint="d21s04m01c02") if True:
+        "Absolutely not"(hint="d21s04m01c02"):
 
             $ d21s04_lc_choice = 3
             scene d21s04-24-c3-mc-talk-mh with dissolve
@@ -398,7 +398,7 @@ label ending_05_return hide:
         "I want to be with you and Oliver"(hint="d21s04m02c03") if d21s04_is_lyssa_oliver_available is True:
             $ d21s04_mh_end = 3
             jump d21s04_mh_op_end
-        "I need to think about this"(hint="d21s04m02c04") if True:
+        "I need to think about this"(hint="d21s04m02c04"):
 
             $ d21s04_mh_end = 4
             jump d21s04_continue
@@ -494,4 +494,5 @@ label d21s04_end:
     $ renpy.music.set_volume(1.0, 10.0, "sound2" )
     stop music fadeout 6.0
     jump d21s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

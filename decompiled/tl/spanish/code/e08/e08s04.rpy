@@ -1879,4 +1879,5 @@ translate spanish strings:
 
     old "Don't dunk her head in the water"
     new "No le sumerjas la cabeza en el agua"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

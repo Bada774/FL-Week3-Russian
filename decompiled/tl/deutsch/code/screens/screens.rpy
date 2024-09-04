@@ -4,7 +4,7 @@ translate deutsch strings:
 
 
     old "History"
-    new "History"
+    new "Verlauf"
 
 
     old "Auto"
@@ -12,11 +12,11 @@ translate deutsch strings:
 
 
     old "Q.Save"
-    new "Q.Save"
+    new "Q.Speichern"
 
 
     old "Q.Load"
-    new "Q.Load"
+    new "Q.Laden"
 
 
     old "Prefs"
@@ -24,7 +24,7 @@ translate deutsch strings:
 
 
     old "Continue from week [FLSS.week.prev]"
-    new "Continue from week [FLSS.week.prev]"
+    new "Weiter ab Woche [FLSS.week.prev]"
 
 
     old "Start"
@@ -32,51 +32,51 @@ translate deutsch strings:
 
 
     old "Main Menu"
-    new "Main Menu"
+    new "Hauptmenü"
 
 
     old "Load"
-    new "Load"
+    new "Laden"
 
 
     old "Preferences"
-    new "Preferences"
+    new "Präferenzen"
 
 
     old "Support on Patreon"
-    new "Support on Patreon"
+    new "Unterstützung auf Patreon"
 
 
     old "Join Discord"
-    new "Join Discord"
+    new "Discord Beitreten"
 
 
     old "Endings"
-    new "Endings"
+    new "Enden"
 
 
     old "End Replay"
-    new "End Replay"
+    new "Wiedergabe beenden"
 
 
     old "About"
-    new "About"
+    new "Über"
 
 
     old "Help"
-    new "Help"
+    new "Hilfe"
 
 
     old "Quit"
-    new "Quit"
+    new "Beenden"
 
 
     old "Game"
-    new "Game"
+    new "Spiel"
 
 
     old "Sound Effects"
-    new "Sound Effects"
+    new "Soundeffekte"
 
 
     old "Soundtracks"
@@ -84,27 +84,27 @@ translate deutsch strings:
 
 
     old "Other Sounds"
-    new "Other Sounds"
+    new "Andere Sounds"
 
 
     old "Others"
-    new "Others"
+    new "Andere"
 
 
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
-    new "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
+    new "Gemacht mit {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]\n"
 
 
     old "Naming save file:"
-    new "Naming save file:"
+    new "Spielstand benennen:"
 
 
     old "Enabled"
-    new "Enabled"
+    new "Aktiv"
 
 
     old "Disabled"
-    new "Disabled"
+    new "Inaktiv"
 
 
     old "{#file_time}%A, %B %d %Y, %H:%M"
@@ -112,7 +112,7 @@ translate deutsch strings:
 
 
     old "empty slot"
-    new "empty slot"
+    new "Leerer Slot"
 
 
     old "«"
@@ -132,63 +132,63 @@ translate deutsch strings:
 
 
     old "Display"
-    new "Display"
+    new "Anzeige"
 
 
     old "Window"
-    new "Window"
+    new "Fenster"
 
 
     old "Fullscreen"
-    new "Fullscreen"
+    new "Vollbild"
 
 
     old "Rollback Side"
-    new "Rollback Side"
+    new "Seite zurück"
 
 
     old "Left"
-    new "Left"
+    new "Links"
 
 
     old "Right"
-    new "Right"
+    new "Rechts"
 
 
     old "Unseen Text"
-    new "Unseen Text"
+    new "Unsichtbarer Text"
 
 
     old "After Choices"
-    new "After Choices"
+    new "Nach Entscheidungen"
 
 
     old "Transitions"
-    new "Transitions"
+    new "Übergänge"
 
 
     old "Taboo Mode"
-    new "Taboo Mode"
+    new "Tabu-Modus"
 
 
     old "Text Speed"
-    new "Text Speed"
+    new "Textgeschwindigkeit"
 
 
     old "Auto-Forward Time"
-    new "Auto-Forward Time"
+    new "Automatische Vorlaufzeit"
 
 
     old "Connect Your Toy"
-    new "Connect Your Toy"
+    new "Verbinde dein Spielzeug"
 
 
     old "Music Volume"
-    new "Music Volume"
+    new "Musiklautstärke"
 
 
     old "Sound Volume"
-    new "Sound Volume"
+    new "Lautstärke"
 
 
     old "Test"
@@ -196,15 +196,15 @@ translate deutsch strings:
 
 
     old "Mute All"
-    new "Mute All"
+    new "Alle stummschalten"
 
 
     old "Music, Voice and Sound Effects are only implemented in the Extended Edition of the game"
-    new "Music, Voice and Sound Effects are only implemented in the Extended Edition of the game"
+    new "Musik, Stimmen und Soundeffekte sind nur in der Extended Edition des Spiels implementiert"
 
 
     old "The dialogue history is empty."
-    new "The dialogue history is empty."
+    new "Der Dialogverlauf ist leer."
 
 
     old "Keyboard"
@@ -212,7 +212,7 @@ translate deutsch strings:
 
 
     old "Mouse"
-    new "Mouse"
+    new "Maus"
 
 
     old "Gamepad"
@@ -220,27 +220,27 @@ translate deutsch strings:
 
 
     old "Enter"
-    new "Enter"
+    new "Eingabe"
 
 
     old "Advances dialogue and activates the interface."
-    new "Advances dialogue and activates the interface."
+    new "Beschleunigt den Dialog und aktiviert das Interface."
 
 
     old "Space"
-    new "Space"
+    new "Leertaste"
 
 
     old "Advances dialogue without selecting choices."
-    new "Advances dialogue without selecting choices."
+    new "Beschleunigt den Dialog, ohne Auswahlmöglichkeiten auszuwählen."
 
 
     old "Arrow Keys"
-    new "Arrow Keys"
+    new "Pfeiltasten"
 
 
     old "Navigate the interface."
-    new "Navigate the interface."
+    new "Navigiert das Interface."
 
 
     old "Escape"
@@ -248,15 +248,15 @@ translate deutsch strings:
 
 
     old "Accesses the game menu."
-    new "Accesses the game menu."
+    new "Ruft das Spielmenü auf."
 
 
     old "Ctrl"
-    new "Ctrl"
+    new "Strg"
 
 
     old "Skips dialogue while held down."
-    new "Skips dialogue while held down."
+    new "Überspringt den Dialog, während die Taste gedrückt gehalten wird."
 
 
     old "Tab"
@@ -264,67 +264,67 @@ translate deutsch strings:
 
 
     old "Toggles dialogue skipping."
-    new "Toggles dialogue skipping."
+    new "Schaltet das Überspringen von Dialogen um."
 
 
     old "Page Up"
-    new "Page Up"
+    new "Seite Hoch"
 
 
     old "Rolls back to earlier dialogue."
-    new "Rolls back to earlier dialogue."
+    new "Kehrt zum vorherigen Dialog zurück."
 
 
     old "Page Down"
-    new "Page Down"
+    new "Seite Runter"
 
 
     old "Rolls forward to later dialogue."
-    new "Rolls forward to later dialogue."
+    new "Springt zum nächsten Dialog vor."
 
 
     old "Hides the user interface."
-    new "Hides the user interface."
+    new "Versteckt die Benutzeroberfläche."
 
 
     old "Takes a screenshot."
-    new "Takes a screenshot."
+    new "Macht einen Screenshot."
 
 
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-    new "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+    new "Schaltet die Unterstützung von {a=https://www.renpy.org/l/voicing}Self-Voicing{/a} um."
 
 
     old "Left Click"
-    new "Left Click"
+    new "Linksklick"
 
 
     old "Middle Click"
-    new "Middle Click"
+    new "Mitteltaste"
 
 
     old "Right Click"
-    new "Right Click"
+    new "Rechtsklick"
 
 
     old "Mouse Wheel Up\nClick Rollback Side"
-    new "Mouse Wheel Up\nClick Rollback Side"
+    new "Mausrad nach oben\nKlick auf Seite zurück."
 
 
     old "Mouse Wheel Down"
-    new "Mouse Wheel Down"
+    new "Mausrad nach unten"
 
 
     old "Right Trigger\nA/Bottom Button"
-    new "Right Trigger\nA/Bottom Button"
+    new "Rechter Trigger\nA/untere Taste"
 
 
     old "Left Trigger\nLeft Shoulder"
-    new "Left Trigger\nLeft Shoulder"
+    new "Linker Trigger\nLinke Schultertaste"
 
 
     old "Right Shoulder"
-    new "Right Shoulder"
+    new "Rechte Schultertaste"
 
 
     old "D-Pad, Sticks"
@@ -336,17 +336,18 @@ translate deutsch strings:
 
 
     old "Y/Top Button"
-    new "Y/Top Button"
+    new "Y/Oberer Knopf"
 
 
     old "Calibrate"
-    new "Calibrate"
+    new "Kalibrieren"
 
 
     old "Skipping"
-    new "Skipping"
+    new "Überspringen"
 
 
     old "Menu"
-    new "Menu"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Menü"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

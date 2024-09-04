@@ -97,6 +97,72 @@ translate korean after_credits_a67c9dcd:
     sy "Aw, that's alright. Maybe we can experience it together then."
 
 
+translate korean after_credits_dcd001ba:
+
+
+    sy "It is so sad! I thought you died."
+
+
+translate korean after_credits_5a67dd3f:
+
+
+    sy "*sniffs*"
+
+
+translate korean after_credits_3b9a74dd:
+
+
+    dd "Hey, it's okay. I'm healthy as a clam now."
+
+
+translate korean after_credits_62dbb988:
+
+
+    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+
+
+translate korean after_credits_de67d958:
+
+
+    dd "Mmmhmm. Me too, Stacy."
+
+
+translate korean after_credits_697eed2b:
+
+
+    dd "And don't forget. There's is another ending with me!"
+
+
+translate korean after_credits_26d7f508:
+
+
+    sy "Oh...right."
+
+
+translate korean after_credits_ae828622:
+
+
+    sy "I almost forgot about the Sex Dungeon ending!"
+
+
+translate korean after_credits_a73caa2e:
+
+
+    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+
+
+translate korean after_credits_83a2ed10:
+
+
+    sy "Yeah... That ending sounds like fun."
+
+
+translate korean after_credits_f4cf666b:
+
+
+    sy "I can't wait to enjoy it with you."
+
+
 translate korean after_credits_8d207f8d:
 
 
@@ -115,10 +181,10 @@ translate korean after_credits_a17db195:
     sy "Wait, you know her?"
 
 
-translate korean after_credits_6daca271:
+translate korean after_credits_870c1bff:
 
 
-    dd "Yeah, she is from Vinovella University!"
+    dd "Yeah, she is from Taboo University!"
 
 
 translate korean after_credits_66e7bad8:
@@ -283,10 +349,10 @@ translate korean after_credits_73eb5eb5:
     sy "I know! I can't wait to see what ViNovella has prepared for us next!"
 
 
-translate korean after_credits_e4b3c0d3:
+translate korean after_credits_826b65f0:
 
 
-    dd "But what about Vinovella University though?"
+    dd "But what about Taboo University though?"
 
 
 translate korean after_credits_47a5d0a5:
@@ -295,16 +361,16 @@ translate korean after_credits_47a5d0a5:
     dd "Hey, Nice to meet you too!"
 
 
-translate korean after_credits_37ad6ed0:
+translate korean after_credits_f1d2352a:
 
 
-    dd "How is Vinovella University going? What's next?"
+    dd "How is Taboo University going? What's next?"
 
 
-translate korean after_credits_cbe5ee17:
+translate korean after_credits_75e46767:
 
 
-    sm "Oh? Have you played VU?"
+    sm "Oh? Have you played TU?"
 
 
 translate korean after_credits_cf40d33d:
@@ -355,10 +421,10 @@ translate korean after_credits_23a10f35:
     dd "*Laughs* Sorry! Couldn't help myself."
 
 
-translate korean after_credits_470ffbdd:
+translate korean after_credits_166c44bf:
 
 
-    sy "Do you two know when there'll be a finished version of VU available? I wanna binge it."
+    sy "Do you two know when there'll be a finished version of TU available? I wanna binge it."
 
 
 translate korean after_credits_4041f0a9:
@@ -373,16 +439,22 @@ translate korean after_credits_321e2b80:
     sy "Oh? Wait, so is Book-1 like Week-1 in Fetish Locator?"
 
 
-translate korean after_credits_99a25d72:
+translate korean after_credits_175f3ea2:
 
 
-    sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
+    sm "Close. Each TU book will be {i}much{/i} bigger than an FL Week."
 
 
 translate korean after_credits_03943779:
 
 
     sy "Woah, that sounds like it's gonna be something. I hope you guys do well!"
+
+
+translate korean after_credits_b06da193:
+
+
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
 
 
 translate korean after_credits_6a3e959a:
@@ -618,11 +690,4 @@ translate korean strings:
     old "The legendary Fetish Locator will return"
     new "The legendary Fetish Locator will return"
 
-
-
-
-translate korean after_credits_cb03f950:
-
-
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

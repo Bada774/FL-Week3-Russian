@@ -4,653 +4,654 @@
 translate turkish e14s05_8dcc27fc:
 
 
-    nk "How are the books looking Mr. Big Business?"
+    nk "Kitaplar nasıl görünüyor Bay Büyük İş?"
 
 
 translate turkish e14s05_85dcf796:
 
 
-    mc "They don't look that bad if I'm honest."
+    mc "Dürüst olursam o kadar da kötü görünmüyorlar."
 
 
 translate turkish e14s05_4ebb158b:
 
 
-    nk "That deserves a drink and a break."
+    nk "Bu bir içkiyi ve molayı hak ediyor."
 
 
 translate turkish e14s05_9e706c4e:
 
 
-    mc "After staring at all these numbers, I could go for a drink."
+    mc "Bütün bu sayılara baktıktan sonra, bir şeyler içmeye gidebilirim."
 
 
 translate turkish e14s05_8abebce6:
 
 
-    nk "What are ya' thinking about?"
+    nk "Ne düşünüyorsun?"
 
 
 translate turkish e14s05_70976ff5:
 
 
-    pw "That couple from the other day, Gemma and Harry."
+    pw "Geçen günkü çift, Gemma ve Harry."
 
 
 translate turkish e14s05_51a72967:
 
 
-    nk "The one we told about how we met?"
+    nk "Nasıl tanıştığımızı anlattığımız kişi mi?"
 
 
 translate turkish e14s05_e2e304e3:
 
 
-    pw "That exact couple."
+    pw "Tam olarak bu çift."
 
 
 translate turkish e14s05_9a4fff94:
 
 
-    mc "Introspective again?"
+    mc "Yine mi introspektif?"
 
 
 translate turkish e14s05_06890688:
 
 
-    pw "I'm a deep thinker. Got lots to think about these days."
+    pw "Ben derin düşünen biriyim. Bugünlerde düşünecek çok şeyim var."
 
 
 translate turkish e14s05_b2e99ea5:
 
 
-    mc "When you said drink, I thought you meant something with alcohol in it."
+    mc "İçki dediğinde, içinde alkol olan bir şeyi kastettiğini sandım."
 
 
 translate turkish e14s05_9198600b:
 
 
-    nk "You're still on the clock [mcname]."
+    nk "Hala [mcname] saatindesin."
 
 
 translate turkish e14s05_f6456111:
 
 
-    mc "Uuuugggghhhhhhhhhhh."
+    mc "Uuuugggghhhhhhhhh."
 
 
 translate turkish e14s05_d3a955b5:
 
 
-    nk "Penny for your thoughts?"
+    nk "Düşünceleriniz için Penny?"
 
 
 translate turkish e14s05_530ad9db:
 
 
-    pw "I'm just thinking about how good our life is nowadays."
+    pw "Bugünlerde hayatımızın ne kadar güzel olduğunu düşünüyorum."
 
 
 translate turkish e14s05_7d852daa:
 
 
-    mc "It is pretty good, isn't it."
+    mc "Oldukça iyi, değil mi?"
 
 
 translate turkish e14s05_48486006:
 
 
-    pw "And how I want to share it with everyone else."
+    pw "Ve bunu diğer herkesle nasıl paylaşmak istediğimi."
 
 
 translate turkish e14s05_96c045e6:
 
 
-    nk "You want to just start handing out blindfolds to people and hope it works?"
+    nk "İnsanlara göz bağı dağıtmaya başlayıp işe yaramasını mı ummak istiyorsun?"
 
 
 translate turkish e14s05_c3a83d37:
 
 
-    pw "No. I'm thinking we should do like an event or something."
+    pw "Hayır. Bir etkinlik gibi bir şey yapmamız gerektiğini düşünüyorum."
 
 
 translate turkish e14s05_0d26ff41:
 
 
-    mc "That's actually a pretty good idea."
+    mc "Bu aslında oldukça iyi bir fikir."
 
 
 translate turkish e14s05_b562aff4:
 
 
-    mc "Events are good for cafes and bars. Think about it 'Ladies Night', 'Thirsty Thursdays', 'Singles Night'."
+    mc "Etkinlikler kafe ve barlar için iyidir. 'Ladies Night', 'Thirsty Thursdays', 'Singles Night' gibi düşünün."
 
 
 translate turkish e14s05_a6b9326e:
 
 
-    pw "Yeah, singles night! That's pretty much it!"
+    pw "Evet, bekarlar gecesi! İşte bu kadar!"
 
 
 translate turkish e14s05_3b91bfdf:
 
 
-    nk "A singles night with blindfolds?"
+    nk "Gözleri bağlı bir bekarlar gecesi mi?"
 
 
 translate turkish e14s05_a0d84377:
 
 
-    pw "Yeah. You have to love that idea Nora."
+    pw "Evet. Bu fikri sevmek zorundasın Nora."
 
 
 translate turkish e14s05_3046707a:
 
 
-    mc "Of all people, you can't hate that idea."
+    mc "O kadar insan varken, bu fikirden nefret edemezsin."
 
 
 translate turkish e14s05_1573f5a8:
 
 
-    nk "... I don't."
+    nk "... yok."
 
 
 translate turkish e14s05_e88c8ed1:
 
 
-    pw "Does that mean we're going to do it!?"
+    pw "Bu yapacağımız anlamına mı geliyor!?"
 
 
 translate turkish e14s05_66c2212f:
 
 
-    mc "I think it's a good idea."
+    mc "Bence bu iyi bir fikir."
 
 
 translate turkish e14s05_b8324c93:
 
 
-    pw "Great!! I've got an idea for a flier already!"
+    pw "Harika!! Şimdiden bir el ilanı için bir fikrim var!"
 
 
 translate turkish e14s05_8f8701db:
 
 
-    nk "I'm shocked."
+    nk "Şok oldum."
 
 
 translate turkish e14s05_163e4b77:
 
 
-    mc "About?"
+    mc "Hakkında?"
 
 
 translate turkish e14s05_5595f154:
 
 
-    nk "That Polly had a good idea for this place that didn't require giving out a bunch of free drinks."
+    nk "Polly'nin burası için bir sürü bedava içki vermeyi gerektirmeyen iyi bir fikri vardı."
 
 
 translate turkish e14s05_706e405e:
 
 
-    mc "She's learning."
+    mc "Öğreniyor."
 
 
 translate turkish e14s05_f631cbc2:
 
 
-    nk "God helps us all."
+    nk "Tanrı hepimizin yardımcısı olsun."
 
 
 translate turkish e14s05_3413435d:
 
 
-    nk "How'd the fliers turn out?"
+    nk "El ilanları nasıl çıktı?"
 
 
 translate turkish e14s05_c2095de3:
 
 
-    mc "Those look great, Polly."
+    mc "Bunlar harika görünüyor, Polly."
 
 
 translate turkish e14s05_4e97402d:
 
 
-    pw "Thank you! I've been thinking about this for a little bit."
+    pw "Teşekkür ederim! Bunu biraz düşündüm."
 
 
 translate turkish e14s05_3d8dba5f:
 
 
-    mc "This is your event, why don't you do the first sales pitch."
+    mc "Bu sizin etkinliğiniz, neden ilk satış konuşmasını siz yapmıyorsunuz?"
 
 
 translate turkish e14s05_c92de8c3:
 
 
-    pw "Hi! How's your day going?"
+    pw "Merhaba! Günün nasıl geçiyor?"
 
 
 translate turkish e14s05_0a7a76ff:
 
 
-    "Woman" "It's going well? Can I help you?"
+    "Kadın" "İyi gidiyor mu? Yardımcı olabilir miyim?"
 
 
 translate turkish e14s05_7a16ff36:
 
 
-    pw "I'm actually an owner at Nora's which is just down that way."
+    pw "Ben aslında bu yolun aşağısındaki Nora's'ın sahibiyim."
 
 
 translate turkish e14s05_24366446:
 
 
-    pw "We're going to be hosting our first ever event!"
+    pw "İlk etkinliğimize ev sahipliği yapacağız!"
 
 
 translate turkish e14s05_9277aff4:
 
 
-    "Woman" "It's a... Blind dating event?"
+    "Kadın" "Bu bir... Kör randevu etkinliği mi?"
 
 
 translate turkish e14s05_3fb7f388:
 
 
-    pw "Yeah! But with a twist. You're going to be {i}actually{/i} blind. We've got blindfolds and you'll be seated and-"
+    pw "Evet! Ama bir değişiklikle. Aslında {i}gerçekten{/i} kör olacaksınız. Göz bağlarımız var ve oturacaksınız ve-"
 
 
 translate turkish e14s05_daea00ea:
 
 
-    "Woman" "It can't be as bad as my last date."
+    "Kadın" "Son randevum kadar kötü olamaz."
 
 
 translate turkish e14s05_539e98b6:
 
 
-    nk "And we have plenty of alcohol for sale if it does!"
+    nk "Ve eğer varsa satılık bol miktarda alkolümüz var!"
 
 
 translate turkish e14s05_51265516:
 
 
-    "Woman" "Wait... I thought this was at a cafe?"
+    "Kadın" "Bekle... Bunun bir kafede olduğunu sanıyordum?"
 
 
 translate turkish e14s05_373af72a:
 
 
-    nk "It is. We're also a bar though."
+    nk "Öyle. Biz de bir barız."
 
 
 translate turkish e14s05_69831c6e:
 
 
-    "Woman" "Do we get, like, a singles night discount then?"
+    "Kadın" "O zaman bekarlar gecesi indirimi var mı?"
 
 
 translate turkish e14s05_1ca794a9:
 
 
-    pw "Absolutely!"
+    pw "Kesinlikle!"
 
 
 translate turkish e14s05_ed42d481:
 
 
-    nk "Wait, Polly-"
+    nk "Bekle, Polly-"
 
 
 translate turkish e14s05_c2fa60f6:
 
 
-    "Woman" "I've done worse for less!"
+    "Kadın" "Daha azı için daha kötüsünü yaptım!"
 
 
 translate turkish e14s05_8421e42c:
 
 
-    pw "We'll see you there then! Ta-ta!"
+    pw "O zaman orada görüşürüz! Ta-ta!"
 
 
 translate turkish e14s05_5c8b59d8:
 
 
-    nk "Just... Don't tell your friends about the discount."
+    nk "Sadece... Arkadaşlarına indirimden bahsetme."
 
 
 translate turkish e14s05_3da83b3e:
 
 
-    "Woman" "This actually looks like fun."
+    "Kadın" "Bu aslında eğlenceli görünüyor."
 
 
 translate turkish e14s05_304691e3:
 
 
-    pw "Hey Nora, why don't you try selling the event to her?"
+    pw "Hey Nora, neden etkinliği ona satmayı denemiyorsun?"
 
 
 translate turkish e14s05_ca15774c:
 
 
-    nk "Uhhhhh, I mean. You've-you've been doing great! I think you should."
+    nk "Uhhhhh, yani. You've-you've been doing great! Bence yapmalısın."
 
 
 translate turkish e14s05_a2530f1c:
 
 
-    mc "Come on. Give it a try."
+    mc "Haydi. Bir dene."
 
 
 translate turkish e14s05_82e4b15a:
 
 
-    nk "You too, [mcname]?"
+    nk "Sen de mi, [mcname]?"
 
 
 translate turkish e14s05_6ad250d5:
 
 
-    mc "I'm taking directions from the boss."
+    mc "Patrondan talimat alıyorum."
 
 
 translate turkish e14s05_bfb73296:
 
 
-    nk "The damn cafe bar is named after me!"
+    nk "Kahrolası kafe bara benim adım verilmiş!"
 
 
 translate turkish e14s05_735a8fde:
 
 
-    pw "We all know who's in charge though."
+    pw "Hepimiz kimin yetkili olduğunu biliyoruz."
 
 
 translate turkish e14s05_7ff4d8ad:
 
 
-    pw "Come on, get in there. You got this."
+    pw "Hadi, gir içeri. Sen halledersin."
 
 
 translate turkish e14s05_074caeea:
 
 
-    mc "Yeah. Think of this like when you were getting comfortable being naked at the cafe!"
+    mc "Evet. Bunu kafede çıplak olmanın rahatlığını yaşadığın zamanlardaki gibi düşün!"
 
 
 translate turkish e14s05_9db4cafc:
 
 
-    nk "This is not like the cafe. There, I can see everyone staring at me!"
+    nk "Burası kafe gibi değil. Orada, herkesin bana baktığını görebiliyorum!"
 
 
 translate turkish e14s05_fe4bc81e:
 
 
-    mc "Everyone here is naked Nora, you're going to do great!"
+    mc "Buradaki herkes çıplak Nora, harika olacaksın!"
 
 
 translate turkish e14s05_bc58c477:
 
 
-    nk "Do I haaaaave to?"
+    nk "Zorunda mıyım?"
 
 
 translate turkish e14s05_b2114509:
 
 
-    pw "Yep!"
+    pw "Evet!"
 
 
 translate turkish e14s05_2110a930:
 
 
-    "Woman" "Hey."
+    "Kadın" "Hey."
 
 
 translate turkish e14s05_8521310f:
 
 
-    nk "Oh, uhm, hi. I'm Nora."
+    nk "Oh, uhm, merhaba. Ben Nora."
 
 
 translate turkish e14s05_c30ff3ec:
 
 
-    nk "Oh yeah, it's on my tits - my apron!"
+    nk "Oh evet, göğüslerimde - önlüğüm!"
 
 
 translate turkish e14s05_d6efe1a6:
 
 
-    nk "We're doing an event. It's like a dating event and singles event and-"
+    nk "Bir etkinlik yapıyoruz. Bir buluşma etkinliği ve bekarlar etkinliği gibi bir şey-"
 
 
 translate turkish e14s05_58411099:
 
 
-    nk "And we're doing drink specials, and here's the flier."
+    nk "Ve içki spesiyalleri yapıyoruz ve işte broşür."
 
 
 translate turkish e14s05_77e3d3a8:
 
 
-    "Woman" "Blind dating?"
+    "Kadın" "Kör randevu?"
 
 
 translate turkish e14s05_6bd7bc1f:
 
 
-    nk "Yeah. We're doing speed dating with a twist. Everyone wears a blindfold during the dates."
+    nk "Evet. Bir değişiklikle hızlı buluşma yapıyoruz. Buluşmalar sırasında herkes gözlerini bağlıyor."
 
 
 translate turkish e14s05_35e20e21:
 
 
-    "Woman" "Oh, that's pretty cool."
+    "Kadın" "Oh, bu çok havalı."
 
 
 translate turkish e14s05_a1cb700d:
 
 
-    nk "It's our way of trying to - Wait. You think it's cool?"
+    nk "Bu bizim çabalama şeklimiz - Bekle. Harika olduğunu mu düşünüyorsun?"
 
 
 translate turkish e14s05_65acb745:
 
 
-    "Woman" "Yeah, and kind of kinky too. I'm about it."
+    "Kadın" "Evet, biraz da sapıkça.. Bu konuda varım."
 
 
 translate turkish e14s05_5d71aa9e:
 
 
-    nk "Oh, I wasn't really expecting you to be into it."
+    nk "Oh, gerçekten ilgilenmeni beklemiyordum."
 
 
 translate turkish e14s05_69726c08:
 
 
-    "Woman" "Why not?"
+    "Kadın" "Neden olmasın?"
 
 
 translate turkish e14s05_d6afc7eb:
 
 
-    nk "Uhhhh, I don't know."
+    nk "Uhhhh, bilmiyorum."
 
 
 translate turkish e14s05_3068fc16:
 
 
-    "Woman" "When is the event?"
+    "Kadın" "Etkinlik ne zaman?"
 
 
 translate turkish e14s05_7f2f5aa4:
 
 
-    nk "It's on the flier."
+    nk "El ilanında yazıyor."
 
 
 translate turkish e14s05_fb58bc91:
 
 
-    "Woman" "Are you going to be there?"
+    "Kadın" "Orada olacak mısın?"
 
 
 translate turkish e14s05_6f2528be:
 
 
-    nk "Yep, it's going to be at Nora's, I'm the owner."
+    nk "Evet, Nora'nın yerinde olacak, sahibi benim."
 
 
 translate turkish e14s05_6937e55b:
 
 
-    "Woman" "That's not what I'm staring at."
+    "Kadın" "Baktığım şey bu değil."
 
 
 translate turkish e14s05_49a90cf1:
 
 
-    nk "Ohhh, uhhh, unfortunately I'm, uhm, going to be running the event. Not participating."
+    nk "Ohhh, uhhh, ne yazık ki ben, uhm, etkinliği yönetiyor olacağım. Katılmıyorum."
 
 
 translate turkish e14s05_d0d155d3:
 
 
-    "Woman" "That's a damn shame."
+    "Kadın" "Bu çok utanç verici."
 
 
 translate turkish e14s05_1ba6ff35:
 
 
-    nk "Well I'm glad we'll see you there!"
+    nk "Orada görüşeceğimize sevindim!"
 
 
 translate turkish e14s05_dd52b70e:
 
 
-    pw "That was great!"
+    pw "Bu harikaydı!"
 
 
 translate turkish e14s05_a0ca5390:
 
 
-    mc "Yeah! You killed it, Nora."
+    mc "Evet! Onu öldürdün, Nora."
 
 
 translate turkish e14s05_84082969:
 
 
-    nk "God please don't make me do that again."
+    nk "Tanrım lütfen bana bunu bir daha yaptırma."
 
 
 translate turkish e14s05_d4d3367e:
 
 
-    pw "Come ooooon, it wasn't that bad!"
+    pw "Hadi ama, o kadar da kötü değildi.!"
 
 
 translate turkish e14s05_4e7d4813:
 
 
-    nk "I'd rather die than have to talk to another person about the event."
+    nk "Olay hakkında başka biriyle konuşmak zorunda kalmaktansa ölmeyi tercih ederim."
 
 
 translate turkish e14s05_c37b821f:
 
 
-    pw "That's okay. From here on out, I'll do the talking."
+    pw "Sorun değil. Şu andan itibaren konuşmayı ben yapacağım."
 
 
 translate turkish e14s05_11f03bbf:
 
 
-    pw "All you need to do is hand out fliers and look hot."
+    pw "Tek yapman gereken el ilanı dağıtmak ve seksi görünmek."
 
 
 translate turkish e14s05_bf473151:
 
 
-    pw "Aaaaaand that was the last one! Looks like we're done here."
+    pw "Veeeee bu da sonuncusuydu.! Görünüşe göre burada işimiz bitti."
 
 
 translate turkish e14s05_a72f0425:
 
 
-    nk "Thank Christ Almighty."
+    nk "Yüce İsa'ya şükürler olsun."
 
 
 translate turkish e14s05_e46b1676:
 
 
-    mc "Come on Nora, it wasn't that bad."
+    mc "Hadi Nora, o kadar da kötü değildi."
 
 
 translate turkish e14s05_0d9a381c:
 
 
-    nk "I miss my counter."
+    nk "Sayacımı kaçırdım."
 
 
 translate turkish e14s05_a6a1b6ba:
 
 
-    pw "Oh! You know what I miss?"
+    pw "Oh! Neyi özlediğimi biliyor musun?"
 
 
 translate turkish e14s05_ba7a01a8:
 
 
-    mc "What's that, Polly?"
+    mc "O nedir, Polly?"
 
 
 translate turkish e14s05_bd98929e:
 
 
-    pw "Your dick in my ass. Let's go back to the cafe and fuck!"
+    pw "Sikin kıçımda. Hadi kafeye geri dönüp sikişelim!"
 
 
 translate turkish e14s05_60bef8b4:
 
 
-    nk "Honestly, all the naked people has made me kind of horny. I could use with a dicking down too."
+    nk "Dürüst olmak gerekirse, tüm bu çıplak insanlar beni biraz azdırdı. Ben de sikilmeyi kullanabilirim."
 
 
 translate turkish e14s05_70cced3c:
 
 
-    mc "No complaints from me, let's go!"
+    mc "Benden şikayet yok, hadi gidelim!"
 
 
 translate turkish e14s05_1ed739ad:
 
 
-    nk "But after, we need to start getting ready for the event."
+    nk "Ama sonra, etkinlik için hazırlanmaya başlamamız gerekiyor."
 
 
 translate turkish e14s05_77639255:
 
 
-    pw "Come on Nora, all work and no play makes Jill a dull girl. Let's not think about that and have some fun!"
+    pw "Haydi Nora, hep çalışmak ve hiç oynamamak Jill'i sıkıcı bir kız yapar. Bunu düşünmeyelim ve biraz eğlenelim!"
 
 
 translate turkish e14s05_d056b79d:
 
 
-    nk "Fiiiiine, no work talk for... At least for an hour."
+    nk "İyiiiiiii, iş konuşmak yok... En azından bir saatliğine."
 
 
 translate turkish e14s05_b7ce241c:
 
 
-    pw "Yay!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    pw "Yaşasın!"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

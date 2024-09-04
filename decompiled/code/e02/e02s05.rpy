@@ -14,7 +14,6 @@ label e02s05:
     play voice3 [lissa_moan2, "<silence 1.0>", lissa_moan3, "<silence 1.0>", lissa_moan4, "<silence 1.0>", lissa_moan5, "<silence 1.0>", lissa_moan1, "<silence 1.0>"] fadein 1.5
     play sound sfx_sex_bodyslaps1 loop volume 0.6
 
-
     $ Lovense.stop()
 
     scene e02s05-01 mc-mh-sex1_c1
@@ -51,7 +50,6 @@ label e02s05:
     scene e02s05-02-2 mc-mh-getup2_c1 with dissolve
     play voice3 lissa_thinking noloop
     mh "Probably just Oliver."
-
 
     $ Lovense.stop()
 
@@ -401,4 +399,5 @@ label e02s05_menu:
             stop sound4 fadeout 3.0
             stop music fadeout 3.0
             jump e02s09
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

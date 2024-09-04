@@ -1933,4 +1933,5 @@ translate portuguese d06s08_mh_25ab182b:
 
 
     mh "Aaah....."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

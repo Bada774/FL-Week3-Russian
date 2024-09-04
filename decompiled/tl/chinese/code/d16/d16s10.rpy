@@ -1381,4 +1381,5 @@ translate chinese strings:
 
     old "Tell her how you came while she was under the table"
     new "告诉她你是怎么在她躲在桌下时高潮的"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

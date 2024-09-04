@@ -39,7 +39,6 @@ label d19s02:
     $ renpy.music.set_volume(2.5, 1.5, "music")
     if cage_ntr is True:
 
-
         $ Lovense.stop()
 
         play voice4 zbackground_mf_sex1_muffled fadein 2.5 volume 0.6
@@ -157,7 +156,6 @@ label d19s02:
 
     play sound sfx_memory_in4
     $ renpy.music.set_volume(0.8, 1.5, "music")
-
 
     $ Lovense.stop()
 
@@ -503,14 +501,14 @@ label d19s02:
             play sound sfx_message_in1
             dd "I jus want you to come over"
             menu:
-                "Go to her"(hint="d19s02m01c01") if True:
+                "Go to her"(hint="d19s02m01c01"):
                     $ d19s02_go_to_dd = True
                     scene d19s02-25 mc-outside-talk2_c1 with dissolve
                     play sound sfx_message_out1
                     mct "I'll be there"
                     play sound sfx_message_in1
                     dd "*Sends a gif of a child doing a \"happy dance\"*"
-                "Don't"(hint="d19s02m01c02") if True:
+                "Don't"(hint="d19s02m01c02"):
 
                     scene d19s02-25 mc-outside-talk2_c1 with dissolve
                     play sound sfx_message_out1
@@ -533,14 +531,14 @@ label d19s02:
             play sound sfx_message_in1
             dw "I will be binding you today and incorporating ice.{w} I assume you're alright with this?"
             menu:
-                "Go to her"(hint="d19s02m02c01") if True:
+                "Go to her"(hint="d19s02m02c01"):
                     $ d19s02_go_to_dw = True
                     scene d19s02-25 mc-outside-talk4_c1 with dissolve
                     play sound sfx_message_out1
                     mct "Yes mistress"
                     play sound sfx_message_in1
                     dw "Good. Dont make me wait."
-                "Don't"(hint="d19s02m02c02") if True:
+                "Don't"(hint="d19s02m02c02"):
 
                     scene d19s02-25 mc-outside-talk2_c1 with dissolve
                     play sound sfx_message_out1
@@ -556,4 +554,5 @@ label d19s02:
         $ renpy.music.set_volume(0.8, 1.5, "music")
 
     jump d19s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

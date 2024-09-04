@@ -51,7 +51,7 @@ label d16s03:
         scene d16s03-09 mc-lc-amr-talk-look-at-amr with dissolve
         mct "Oh fuck, she can taste AmRose's pussy juices on my mouth."
         menu:
-            "Tell the Truth"(hint="d16s03m01c01") if True:
+            "Tell the Truth"(hint="d16s03m01c01"):
                 play voice2 mc_thinking_oh1 noloop
                 mc "Oh, that would be AmRose."
                 scene d16s03-10 mc-lc-amr-talk-variation-lc-turn with dissolve
@@ -68,7 +68,7 @@ label d16s03:
                 scene d16s03-12 mc-lc-amr-talk-group-camera1 with dissolve
                 play voice3 lydia_moan1 noloop
                 lc "Damn. I wish I had seen that."
-            "Lie About It"(hint="d16s03m01c02") if True:
+            "Lie About It"(hint="d16s03m01c02"):
 
 
                 $ d16s03_lie_to_lc = True
@@ -169,7 +169,7 @@ label d16s03:
     mct "Lydia wants me to fuck her every way that doesn't involve fucking."
     mct "They both want AmRose to leave.{w} Hmm... I'm thinking..."
     menu:
-        "Refuse Lydia's Request"(hint="d16s03m02c01") if True:
+        "Refuse Lydia's Request"(hint="d16s03m02c01"):
 
             $ d16s03_refuse_lc = True
             $ d16s03_arj_watch = False
@@ -213,7 +213,7 @@ label d16s03:
             $ renpy.end_replay()
             stop music fadeout 4.0
             jump d16s04
-        "Agree & Want AmRose to Watch"(hint="d16s03m02c02") if True:
+        "Agree & Want AmRose to Watch"(hint="d16s03m02c02"):
 
 
             $ d16s03_refuse_lc = False
@@ -254,7 +254,7 @@ label d16s03:
                 arj "Okay, sir. If that's what you want."
             stop music fadeout 4.0
             scene d16s03-30 mc-lc-amr-take-off-clothes-with-amr with dissolve
-        "Agree & Ask AmRose to Leave"(hint="d16s03m02c03") if True:
+        "Agree & Ask AmRose to Leave"(hint="d16s03m02c03"):
 
 
             $ d16s03_refuse_lc = False
@@ -317,7 +317,6 @@ label d16s03:
     lc "You've got the perfect body."
     lc "The ideal man."
     lc "My ideal man."
-
 
     $ Lovense.stop()
 
@@ -391,10 +390,6 @@ label d16s03:
     elif True:
         lc "I want you to fuck me so much right now."
         lc "I want to grab you by the cage and shove the whole damn thing inside me."
-
-
-
-
 
 
     lc "I'll go down on any woman you want if you just fuck me now."
@@ -559,7 +554,6 @@ label d16s03:
     $ renpy.music.set_volume(0.4, 8.0, "music")
     scene d16s03-00_mc-lc-amr-cuddle-post-climax with fade
 
-
     $ Lovense.stop()
 
     play voice3 lydia_thinking noloop
@@ -614,16 +608,8 @@ label d16s03:
     mct "Hmmm..."
 
 
-
-
-
-
-
-
-
-
     menu:
-        "Agree to whatever it is"(hint="d16s03m03c01") if True:
+        "Agree to whatever it is"(hint="d16s03m03c01"):
 
             $ d16s03_agree_to_lc = True
 
@@ -737,7 +723,6 @@ label d16s03:
                 play voice3 lydia_uhuh noloop
                 lc "To be surrounded by cocks. In my pussy. In my ass. In my mouth."
                 lc "One in each hand. Another guy between my breasts. One each rubbing against my feet."
-
                 lc "Inside me. Around me. Until I couldn't breathe. Just everywhere."
                 scene d16s03-90 mc-lc-talk-variation-alt-pose-2-c2 with dissolve
                 play voice2 mc_scared_oh4 noloop
@@ -793,7 +778,7 @@ label d16s03:
                 scene d16s03-97 mc-lc-sit-up-talk-alt-pose-5-c1 with dissolve
                 play voice3 dahlia_thinking_oh noloop
                 lc "Oh good. {w}Me neither."
-        "Demand to know what it is"(hint="d16s03m03c02") if True:
+        "Demand to know what it is"(hint="d16s03m03c02"):
 
 
             $ d16s03_agree_to_lc = False
@@ -859,8 +844,6 @@ label d16s03:
     lc "That's sweet. What would you do to me?"
     lc "If I allowed you - or you could make me do it. What would your deepest, darkest fantasy be?"
     lc "What would you do to me if you could do anything at all?"
-
-
     scene d16s03-87 mc-lc-talk-variation-alt-pose-1-c1 with dissolve
     play voice2 mc_scared_oh1 noloop
     mc "Well, there is something I really want to do."
@@ -879,7 +862,7 @@ label d16s03:
     lc "Go ahead."
     mc "3.{w=0.5}.. 2.{w=0.5}.. 1...."
     menu:
-        "Want to Cum in Lydia's Pussy"(hint="d16s03m04c01") if True:
+        "Want to Cum in Lydia's Pussy"(hint="d16s03m04c01"):
 
             $ d16s03_darkest_fantasy = "creampie"
 
@@ -903,7 +886,7 @@ label d16s03:
             scene d16s03-79 mc-lc-talk-variation-1-c2 with dissolve
             play voice2 mc_yes_yeah4 noloop
             mc "Yep. I would creampie you and watch it come out."
-        "Want to Fuck Lydia's Ass"(hint="d16s03m04c02") if True:
+        "Want to Fuck Lydia's Ass"(hint="d16s03m04c02"):
 
 
             $ d16s03_darkest_fantasy = "anal"
@@ -916,7 +899,7 @@ label d16s03:
             scene d16s03-80 mc-lc-talk-variation-2-c2 with dissolve
             play voice2 mc_arrogant_heh1 noloop
             mc "I want to fuck your ass."
-        "Want to Piss on & in Lydia"(hint="d16s03m04c03") if True:
+        "Want to Piss on & in Lydia"(hint="d16s03m04c03"):
 
 
             $ d16s03_darkest_fantasy = "pissonher"
@@ -946,7 +929,7 @@ label d16s03:
             elif True:
                 scene d16s03-79 mc-lc-talk-variation-1-c2 with dissolve
             mc "I just really think it would be a wonderful experience for both of us."
-        "Want to Gag, Choke, and Deepthroat Lydia"(hint="d16s03m04c04") if True:
+        "Want to Gag, Choke, and Deepthroat Lydia"(hint="d16s03m04c04"):
 
 
             $ d16s03_darkest_fantasy = "gagging"
@@ -966,7 +949,7 @@ label d16s03:
             mc "I want to make you choke."
             scene d16s03-80 mc-lc-talk-variation-2-c2 with dissolve
             mc "I want to shove my hard cock deep into your throat and cum directly into your stomach."
-        "Want to Bind and Dominate Lydia"(hint="d16s03m04c05") if True:
+        "Want to Bind and Dominate Lydia"(hint="d16s03m04c05"):
 
 
             $ d16s03_darkest_fantasy = "bdsm"
@@ -1043,7 +1026,7 @@ label d16s03:
     play voice3 lydia_moan1 noloop
     lc "I love you. Thank you so much for... everything. Especially today."
     menu:
-        "Tell Lydia You Love Her Too"(hint="d16s03m05c01") if True:
+        "Tell Lydia You Love Her Too"(hint="d16s03m05c01"):
 
             $ d16s03_love_lc = True
 
@@ -1056,7 +1039,7 @@ label d16s03:
             scene d16s03-105 mc-response-pov-c3 with dissolve
             play voice2 mc_happy_a1 noloop
             mc "You're my favorite girl."
-        "Tell Lydia That You Enjoyed It As Well"(hint="d16s03m05c02") if True:
+        "Tell Lydia That You Enjoyed It As Well"(hint="d16s03m05c02"):
 
 
             $ d16s03_love_lc = False
@@ -1080,4 +1063,5 @@ label d16s03:
 
     stop music fadeout 4.0
     jump d16s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

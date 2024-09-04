@@ -152,7 +152,6 @@ label d15s04dw:
     dw "Oh, I'm serious."
     play sound sfx_bed_slide1
 
-
     $ Lovense.stop()
 
     scene d15s04a-20 mc-dw-sb-pulling-pants_c1 with dissolve
@@ -344,8 +343,7 @@ label d15s04dw:
     sb "No.{w} That was a compliment."
     scene d15s04a-39 mc-dw-sb-dahlia-preparing_c3 with dissolve
     menu:
-        "Stop This Now"(hint="d15s04dwm01c01") if True:
-
+        "Stop This Now"(hint="d15s04dwm01c01"):
 
             $ Lovense.stop()
 
@@ -392,7 +390,7 @@ label d15s04dw:
             $ renpy.end_replay()
 
             jump d15s05
-        "Let Them Work Out Their Anger"(hint="d15s04dwm01c02") if True:
+        "Let Them Work Out Their Anger"(hint="d15s04dwm01c02"):
 
             $ d15s04_resolve_part1 = True
 
@@ -525,7 +523,7 @@ label d15s04dw:
     sb "I guess so."
     scene d15s04a-58 mc-dw-sb-smiles_c3 with dissolve
     menu:
-        "Take credit for reuniting them"(hint="d15s04dwm02c01") if True:
+        "Take credit for reuniting them"(hint="d15s04dwm02c01"):
 
             scene d15s04a-59 mc-dw-sb-taking-credit-mc-smug_c1 with dissolve
             play voice2 mc_happy_wooh3 noloop
@@ -548,7 +546,6 @@ label d15s04dw:
             pause
             play voice2 mc_pain_ffff noloop
             scene d15s04a-73 mc-getting-points_c1 with fade
-
             $ Lovense.stop()
             pause
             play sound buzz
@@ -559,7 +556,7 @@ label d15s04dw:
             stop music fadeout 3.5
 
             jump d15s05
-        "Let the girls think it was entirely up to them"(hint="d15s04dwm02c02") if True:
+        "Let the girls think it was entirely up to them"(hint="d15s04dwm02c02"):
 
 
             $ d15s04_resolve_part2 = True
@@ -676,7 +673,6 @@ label d15s04dw:
     $ unlock_gallery_slot("scene", "d15s04dw")
     play voice2 mc_pain_auh5 noloop
     scene d15s04a-73 mc-getting-points_c1 with Fade(0.5,1.0,0.5)
-
     $ Lovense.stop()
     pause
     play sound buzz
@@ -686,4 +682,5 @@ label d15s04dw:
     pause
 
     jump d15s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

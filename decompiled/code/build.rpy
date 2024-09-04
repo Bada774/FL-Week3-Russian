@@ -69,29 +69,17 @@ init 1 python:
     build.classify("game/images/E-03/**"      , None)
     build.classify("game/code/e03/**"         , None)
 
-    build.classify("game/images/E-04/**"      , None)
-    build.classify("game/code/e04/**"         , None)
-
     build.classify("game/images/E-05/**"      , None)
     build.classify("game/code/e05/**"         , None)
 
-    build.classify("game/images/E-07/**"      , None)
-    build.classify("game/code/e07/**"         , None)
-
     build.classify("game/images/E-09/**"      , None)
     build.classify("game/code/e09/**"         , None)
-
-    build.classify("game/images/E-11/**"      , None)
-    build.classify("game/code/e11/**"         , None)
 
     build.classify("game/images/E-15/**"      , None)
     build.classify("game/code/e15/**"         , None)
 
     build.classify("game/images/E-16/**"      , None)
     build.classify("game/code/e16/**"         , None)
-
-    build.classify("game/images/E-17/**"      , None)
-    build.classify("game/code/e17/**"         , None)
 
     build.classify("game/images/E-18/**"      , None)
     build.classify("game/code/e18/**"         , None)
@@ -110,7 +98,13 @@ init 1 python:
 
     build.archive("others"                    , "all")
     build.archive("gui"                       , "all")
+    build.archive("dlc_1_bonus"               , "all")
 
+
+    if is_DLC_1_included is True:
+        build.classify("game/images/extended/dlc-1-bonus/**" , "dlc_1_bonus")
+    else:
+        build.classify("game/images/extended/dlc-1-bonus/**" , None)
 
     build.classify("game/images/extended/**"  , "others")
     build.classify("game/images/utility/**"   , "others")
@@ -118,8 +112,12 @@ init 1 python:
 
 
     build.archive("walkthrough_dlc"           , "all")
+    build.archive("ending_04_dlc"             , "all")
+    build.archive("ending_07_dlc"             , "all")
+    build.archive("ending_11_dlc"             , "all")
     build.archive("ending_12_dlc"             , "all")
     build.archive("ending_14_dlc"             , "all")
+    build.archive("ending_17_dlc"             , "all")
 
 
     if is_Walkthrough_DLC_included is True:
@@ -127,19 +125,43 @@ init 1 python:
     else:
         build.classify("game/**/hints.rpyc"   , None)
 
-    if include_endings is True:
+    if is_DLC_1_included is True:
+        
+        build.classify("game/images/E-04/**"  , "ending_04_dlc")
+        build.classify("game/code/e04/**"     , "ending_04_dlc")
+        
+        build.classify("game/images/E-07/**"  , "ending_07_dlc")
+        build.classify("game/code/e07/**"     , "ending_07_dlc")
+        
+        build.classify("game/images/E-11/**"  , "ending_11_dlc")
+        build.classify("game/**/e11/**"       , "ending_11_dlc")
         
         build.classify("game/images/E-12/**"  , "ending_12_dlc")
         build.classify("game/**/e12/**"       , "ending_12_dlc")
         
         build.classify("game/images/E-14/**"  , "ending_14_dlc")
         build.classify("game/**/e14/**"       , "ending_14_dlc")
+        
+        build.classify("game/images/E-17/**"  , "ending_17_dlc")
+        build.classify("game/**/e17/**"       , "ending_17_dlc")
     else:
+        build.classify("game/images/E-04/**"  , None)
+        build.classify("game/code/e04/**"     , None)
+        
+        build.classify("game/images/E-07/**"  , None)
+        build.classify("game/code/e07/**"     , None)
+        
+        build.classify("game/images/E-11/**"  , None)
+        build.classify("game/code/e11/**"     , None)
+        
         build.classify("game/images/E-12/**"  , None)
         build.classify("game/code/e12/**"     , None)
         
         build.classify("game/images/E-14/**"  , None)
         build.classify("game/code/e14/**"     , None)
+        
+        build.classify("game/images/E-17/**"  , None)
+        build.classify("game/code/e17/**"     , None)
 
 
     build.classify("game/**.rpyc"             , "scripts")
@@ -162,4 +184,5 @@ init 1 python:
 
     build.classify("game/**.ttf"              , "fonts")
     build.classify("game/**.otf"              , "fonts")
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

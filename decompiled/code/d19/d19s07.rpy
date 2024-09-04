@@ -249,18 +249,18 @@ label d19s07_problem:
     mk "So, I guess I need to know. Are we friends? And if so, do you need me to do this?"
     scene d19s07-25 mc-mk-problem1_c2 with dissolve
     menu:
-        "Maria is my friend. I can't ask this of her."(hint="d19s07m02c01") if True:
+        "Maria is my friend. I can't ask this of her."(hint="d19s07m02c01"):
             $ d19s07_mk_friend = True
             $ d19s07_need = False
-        "Maria is my friend, but this is really important."(hint="d19s07m02c02") if True:
+        "Maria is my friend, but this is really important."(hint="d19s07m02c02"):
 
             $ d19s07_mk_friend = True
             $ d19s07_need = True
-        "We aren't friends. Let her go."(hint="d19s07m02c03") if True:
+        "We aren't friends. Let her go."(hint="d19s07m02c03"):
 
             $ d19s07_mk_friend = False
             $ d19s07_need = False
-        "We aren't friends, but I need this."(hint="d19s07m02c04") if True:
+        "We aren't friends, but I need this."(hint="d19s07m02c04"):
 
             $ d19s07_mk_friend = False
             $ d19s07_need = True
@@ -440,7 +440,6 @@ label d19s07_roleplay:
     mk "Professor, I was hoping to talk to you about my lost pencil."
     scene d19s07-17 mc-mk-cafe-seduction4_c2 with dissolve
     play voice2 mc_no_nope1 noloop
-
 
     $ Lovense.stop()
 
@@ -733,7 +732,6 @@ label d19s07_sex:
         stop voice2 fadeout 3.0
         stop music fadeout 3.5
 
-
         $ Lovense.stop()
 
         $ renpy.end_replay()
@@ -753,7 +751,6 @@ label d19s07_ending:
     mc "Wait, what?!"
     queue voice3 maria_laughing noloop
     mk "PUMP ME FULL OF YOUR SEED!!! I HOPE I GET PREGNANT WITH YOUR BASTARD CHILD!!!"
-
 
     $ Lovense.stop()
 
@@ -823,4 +820,5 @@ label d19s07_ending:
 
     stop music fadeout 3.5
     jump d19s08
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

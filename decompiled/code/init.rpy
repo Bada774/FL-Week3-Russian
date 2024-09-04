@@ -17,6 +17,8 @@ init 1 python:
     renpy.music.register_channel("voice4", "voice")
     renpy.music.register_channel("voice5", "voice")
     renpy.music.register_channel("voice6", "voice")
+    renpy.music.register_channel("voice7", "voice")
+    renpy.music.register_channel("voice8", "voice")
 
     set_menu_hints(False)
     set_has_ending("03", False)
@@ -49,4 +51,5 @@ init 999 python:
         flr_name = "Fetish Master"
     else:
         flr_name = "Fetish Locator Retention"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

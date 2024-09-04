@@ -1074,3 +1074,17 @@ translate russian strings:
     old "Go Fuck Yourself"
     new "Пошла ты нахуй"
 
+# TODO: Translation updated at 2024-02-23 00:11
+
+# game/code/d19/d19s01ntr.rpy:425
+translate russian d19s01ntr_decision_aeef075e:
+
+    # lc "Easy words."
+    lc "Замечательно."
+
+# game/code/d19/d19s01ntr.rpy:428
+translate russian d19s01ntr_decision_5b1e303f:
+
+    # lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+    lc "Я обязательно проверю твою преданность, как только вернусь после того, как заберу тебя... Давай назовем это \"небольшим сюрпризом\"."
+

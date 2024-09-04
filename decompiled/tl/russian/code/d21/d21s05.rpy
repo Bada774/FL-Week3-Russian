@@ -76,25 +76,25 @@ translate russian d21s05_a777aa7b:
 translate russian d21s05_8cb8fcbd:
 
     # arj "Slainte!"
-    arj "Ваше здоровье!\n\n{size=-10}{i}(ориг. Slainte! - Гэльский язык){/i}{/size}"
+    arj "Ваше здоровье!\n\n{size=-10}{i}Ориг. гэльс., Slainte!{/i}{/size}"
 
 # game/code/d21/d21s05.rpy:136
 translate russian d21s05_2723ca54:
 
     # mk "Na Zdorovie!"
-    mk "На Здоровье!\n\n{size=-10}{i}(ориг. Na Zdorovie!){/i}{/size}"
+    mk "На Здоровье!\n\n{size=-10}{i}Ориг. Na Zdorovie!{/i}{/size}"
 
 # game/code/d21/d21s05.rpy:139
 translate russian d21s05_08f06a72:
 
     # mc "Uhm... Prost!"
-    mc "Кхм... Ваше здоровье!\n\n{size=-10}{i}(ориг. Prost! - Немецкий язык){i}{/size}"
+    mc "Кхм... Ваше здоровье!\n\n{size=-10}{i}Ориг. немец., Prost!{i}{/size}"
 
 # game/code/d21/d21s05.rpy:142
 translate russian d21s05_f4d57327:
 
     # mk "Harosh! What is this?!"
-    mk "Харош! Что это nfrjt?!\n\n{size=-10}{i}(ориг. Harosh!){/i}{/size}"
+    mk "Харош! Что это nfrjt?!\n\n{size=-10}{i}Ориг. Harosh!{/i}{/size}"
 
 # game/code/d21/d21s05.rpy:144
 translate russian d21s05_a8b8209b:

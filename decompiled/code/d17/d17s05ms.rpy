@@ -686,12 +686,12 @@ label d17s05ms:
     mh "I will. I love you."
 
     menu:
-        "I love you too"(hint="d17s05msm01c01") if True:
+        "I love you too"(hint="d17s05msm01c01"):
             $ d17s05_love_mh_sy = True
             scene d17s05-180-sy-mh-stacy-lyssa-house with dissolve
             play voice2 mc_yes_yeah1 noloop
             mc "I love you too."
-        "Kiss her instead"(hint="d17s05msm01c02") if True:
+        "Kiss her instead"(hint="d17s05msm01c02"):
 
             play voice2 d1s1_mmm noloop
             play sound maria_kiss1
@@ -725,4 +725,5 @@ label d17s05ms:
 
     stop music fadeout 4.0
     jump d17s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

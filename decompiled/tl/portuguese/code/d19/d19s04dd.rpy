@@ -232,7 +232,7 @@ translate portuguese d19s04dd_129af3bd:
 translate portuguese d19s04dd_after_9bd49a87:
 
 
-    mc "Acho que é bom eu encontrar essas chaves."
+    mc "Acho bom eu procurar as chaves."
 
 
 translate portuguese d19s04dd_after_22799aaf:
@@ -244,19 +244,19 @@ translate portuguese d19s04dd_after_22799aaf:
 translate portuguese d19s04dd_after_eecfc7a0:
 
 
-    mc "Garotinha levada. Você não me falou isso."
+    mc "Garotinha levada. Você não me avisou."
 
 
 translate portuguese d19s04dd_after_01e81fcf:
 
 
-    dd "Eu fiz o melhor que pude pra esquecer."
+    dd "Eu fiz o que podia pra esquecer."
 
 
 translate portuguese d19s04dd_after_2940e183:
 
 
-    dd "Você parecia meio estressado quando chegou. Se sente melhor agora?"
+    dd "Você parecia meio estressado quando chegou. Tá melhor agora?"
 
 
 translate portuguese d19s04dd_after_4aeb0365:
@@ -316,7 +316,7 @@ translate portuguese d19s04dd_after_3b54b469:
 translate portuguese d19s04dd_after_407cc883:
 
 
-    mc "Tudo bem, [d17s06_teddy_name]. O que você viu agora é perfeitamente natura, e-"
+    mc "Tudo bem, [d17s06_teddy_name]. O que você viu agora é perfeitamente natural, e-"
 
 
 translate portuguese d19s04dd_after_5d7f960e:
@@ -1100,7 +1100,7 @@ translate portuguese strings:
 
 
     old "Odd is Definitely the Way to Go"
-    new "Ímpar é Definitivamente o Caminho"
+    new "Com Certeza no Ímpar"
 
 
     old "Something like 2nd dozen, maybe"
@@ -1121,4 +1121,5 @@ translate portuguese strings:
 
     old "I need time to think"
     new "Preciso de tempo para pensar"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

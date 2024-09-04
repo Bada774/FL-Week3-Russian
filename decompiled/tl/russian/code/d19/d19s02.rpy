@@ -238,7 +238,7 @@ translate russian d19s02_7ddde078:
 translate russian d19s02_735ac68a:
 
     # sy "Bingo. Reported 207 at Lydia's place."
-    sy "Бинго. Пришёл код 207 из дома Лидии. \n\n{size=-10}(207 - код полиции США описывающий похищение){/size}"
+    sy "Бинго. Пришёл код 207 из дома Лидии. \n\n{size=-10}Код 207 - код полиции США описывающий похищение.{/size}"
 
 # game/code/d19/d19s02.rpy:270
 translate russian d19s02_c77772bd:

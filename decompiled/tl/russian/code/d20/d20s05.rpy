@@ -1258,7 +1258,7 @@ translate russian d20s05_plans_38ba9c79:
 translate russian d20s05_plans_a9767a82:
 
     # mc "So on and so on and scooby-dooby-doo."
-    mc "И так далее, и так далее, и Скуби-Дуби-Ду.\n\n{size=-10}{i}(Текст песни - \"Everyday People - Sly & the Family Stone\", в тоже время отсылка к мультсериалу \"Скуби-Ду\"){/i}{/size}"
+    mc "И так далее, и так далее, и Скуби-Дуби-Ду.\n\n{size=-10}{i}Текст песни - \"Everyday People - Sly & the Family Stone\", в тоже время отсылка к мультсериалу \"Скуби-Ду\".{/i}{/size}"
 
 # game/code/d20/d20s05.rpy:839
 translate russian d20s05_plans_d2dd6b71:

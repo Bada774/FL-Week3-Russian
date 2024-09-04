@@ -706,7 +706,7 @@ translate russian d20s08_jumped_a7f7c2f5:
 translate russian d20s08_jumped_be6cfd97:
 
     # js "What did five fingers say to the face!"
-    js "Что сказали пять пальцев, когда встретили лицо!\n\n{size=-10}(Шутка из американского комедийного сериала \"Шоу Шаппелла\"){/size}"
+    js "Что сказали пять пальцев, когда встретили лицо!\n\n{size=-10}{i}Шутка из американского комедийного сериала \"Шоу Шаппелла\".{/i}{/size}"
 
 # game/code/d20/d20s08.rpy:361
 translate russian d20s08_jumped_ca3ea80d:
@@ -1312,7 +1312,7 @@ translate russian d20s08_end_fd2f1a36:
 translate russian d20s08_end_269f47b0:
 
     # sy "It will wipe everything related from Fetish Locator so completely even the NSA won't be able to recover it."
-    sy "Она сотрёт всё, что связано с Фетиш Локатором, настолько хорошо, что даже АНБ не сможет это восстановить.\n\n{size=-10}{i}(АНБ - Агенство Национальной Безопасности США){/i}{/size}"
+    sy "Она сотрёт всё, что связано с Фетиш Локатором, настолько хорошо, что даже АНБ не сможет это восстановить.\n\n{size=-10}{i}АНБ - Агенство Национальной Безопасности США.{/i}{/size}"
 
 # game/code/d20/d20s08.rpy:682
 translate russian d20s08_end_67dca890:

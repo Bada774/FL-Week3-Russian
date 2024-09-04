@@ -244,7 +244,7 @@ translate russian d20s06_c220849d:
 translate russian d20s06_3848feb0:
 
     # op "Oh, yes. I found a nice French movie that I thought might be nice. It's called \"Amélie.\" Have you heard of it?"
-    op "О, да. Я нашёл хороший французский фильм, который, как мне показалось, весьма неплох. Оно называется \"Амели\". Видел его? \n\n{size=-10}(Амели - французкая романтическая комедия){/size}"
+    op "О, да. Я нашёл хороший французский фильм, который, как мне показалось, весьма неплох. Оно называется \"Амели\". Видел его? \n\n{size=-10}{i}\"Амели\" - французкая романтическая комедия.{/i}{/size}"
 
 # game/code/d20/d20s06.rpy:171
 translate russian d20s06_115a7891:

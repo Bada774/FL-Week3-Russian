@@ -52,7 +52,7 @@ translate russian e06s06_dfb3001e:
 translate russian e06s06_3d0bfa8a:
 
     # mh "Well, you're very flattering Miss Cox."
-    mh "Вы мне льстите, Мисс Кокс."
+    mh "Вы мне льстите, мисс Кокс."
 
 # game/code/e06/e06s06.rpy:119
 translate russian e06s06_02592ba3:
@@ -118,7 +118,7 @@ translate russian e06s06_cfb6d02e:
 translate russian e06s06_d14a3c55:
 
     # lc "Yes, so I am well aware of all the girls he's been with."
-    lc "Да, так что я хорошо знаю всех девушек, с которыми он был."
+    lc "Да, так что я прекрасно знаю всех девушек, с которыми он был."
 
 # game/code/e06/e06s06.rpy:152
 translate russian e06s06_50470c12:
@@ -142,7 +142,7 @@ translate russian e06s06_00c55189:
 translate russian e06s06_f4eacc76:
 
     # mh "You can understand that this is not something I hear on a daily basis, Miss Cox."
-    mh "Вы должны понять, это не то, чтобы я каждый день слышала, мисс Кокс."
+    mh "Вы можете понять, это не то, что я слышу каждый день, мисс Кокс."
 
 # game/code/e06/e06s06.rpy:163
 translate russian e06s06_99adb688:
@@ -166,7 +166,7 @@ translate russian e06s06_a25003b6:
 translate russian e06s06_19e06fdd:
 
     # mh "So... this is some kind of open relationship currently. But it will conclude when the two of you tie the knot?"
-    mh "Итак... сейчас это своего рода открытые отношения. Но всё закончится, когда вы двое свяжете себя узами брака?"
+    mh "То есть... сейчас это, своего рода, открытые отношения. Но всё закончится, когда вы двое свяжете себя узами брака?"
 
 # game/code/e06/e06s06.rpy:173
 translate russian e06s06_1c87520b:
@@ -184,7 +184,7 @@ translate russian e06s06_24a6696e:
 translate russian e06s06_1068aba2:
 
     # mh "So as I understand it, you're in some kind of harem, [mcname]."
-    mh "То есть, насколько я понимаю, это, своего рода гарем, [mcname]."
+    mh "То есть, [mcname], насколько я понимаю, это, своего рода гарем."
 
 # game/code/e06/e06s06.rpy:180
 translate russian e06s06_18b3ea92:
@@ -238,7 +238,7 @@ translate russian e06s06_4c5ab094:
 translate russian e06s06_8eb5269b:
 
     # arj "Haha. Oh she is a little more involved than that. She's basically been the second member of his harem for some time now."
-    arj "Хаха. О, она чуть больше вовлечена в это. По сути, она уже некоторое время является членом его гарема."
+    arj "Хаха. О, она вовлечена в это чуть больше. По сути, она уже некоторое время является членом его гарема."
 
 # game/code/e06/e06s06.rpy:205
 translate russian e06s06_c6f8bab9:
@@ -634,7 +634,7 @@ translate russian e06s06_mh_harem_82c0f931:
 translate russian e06s06_mh_harem_2a7f4487:
 
     # arj "My foot-fu is strong. Hahaha."
-    arj "Я мастер фут-фу. Хахаха.\n\n{size=-10}{i}(от названия боевых искусств \"Кунг-Фу\"){/i}{/size}"
+    arj "Я мастер фут-фу. Хахаха.\n\n{size=-10}{i}От названия боевых искусств \"Кунг-Фу\".{/i}{/size}"
 
 # game/code/e06/e06s06.rpy:487
 translate russian e06s06_mh_harem_12194e0e:
@@ -784,7 +784,7 @@ translate russian e06s06_fuck_mh_588ab6f7:
 translate russian e06s06_fuck_mh_c06a8f9e:
 
     # mct "Fuck that's so hot. I want to bury myself in AmRose... but not yet..."
-    mct "Черт, это так сексуально. Я хочу закопать себя в АмРоуз... но не сейчас..."
+    mct "Чёрт, это так сексуально. Я хочу закопать себя в АмРоуз... но не сейчас..."
 
 # game/code/e06/e06s06.rpy:649
 translate russian e06s06_fuck_mh_740ee993:
@@ -796,7 +796,7 @@ translate russian e06s06_fuck_mh_740ee993:
 translate russian e06s06_fuck_mh_85194617:
 
     # lc "Lyssa... you look so beautiful each time your body moves."
-    lc "Лисса... ты так красиво выглядишь, когда движется твоё тело."
+    lc "Лисса... когда движется твоё тело, ты выглядишь так красиво."
 
 # game/code/e06/e06s06.rpy:655
 translate russian e06s06_fuck_mh_9f0fdb48:
@@ -844,7 +844,7 @@ translate russian e06s06_fuck_mh_fc0bcc15:
 translate russian e06s06_fuck_mh_5eec93b7:
 
     # mh "Do not think I forgot about you, Miss Jenkins."
-    mh "Не думай, что я забыла о тебе, Мисс Дженкинс."
+    mh "Не думай, что я забыла о тебе, мисс Дженкинс."
 
 # game/code/e06/e06s06.rpy:716
 translate russian e06s06_fuck_mh_6ce4f9d1:

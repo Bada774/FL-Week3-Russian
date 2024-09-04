@@ -628,7 +628,7 @@ translate russian e01s02_a40abd5f:
 translate russian e01s02_895aab1d:
 
     # sy "You do that voodoo that you do so well."
-    sy "Сделай то, что делаешь так хорошо.\n\n{size=-10}{i}(ориг. You do that voodoo that you do so well - текст из песни \"You Do Something to Me - Paul Weller\"){/i}{/size}"
+    sy "Сделай то, что делаешь так хорошо.\n\n{size=-10}{i}Ориг. You do that voodoo that you do so well - текст песни \"You Do Something to Me - Paul Weller\".{/i}{/size}"
 
 # game/code/e01/e01s02.rpy:307
 translate russian e01s02_aa01dbb5:
@@ -724,7 +724,7 @@ translate russian e01s02_993d115f:
 translate russian e01s02_8cae717a:
 
     # sy "Now there's an idea. The Citizen Kane of porn."
-    sy "А это идея. Это будет порнографический \"Гражданин Кейн\".\n\n{size=-10}{i}(Гражданин Кейн - драматический фильм про жизнь медиамагната Чарльза Кейна){/i}{/size}"
+    sy "А это идея. Это будет порнографический \"Гражданин Кейн\".\n\n{size=-10}{i}\"Гражданин Кейн\" - драматический фильм про жизнь медиамагната Чарльза Кейна.{/i}{/size}"
 
 # game/code/e01/e01s02.rpy:360
 translate russian e01s02_23e692ac:

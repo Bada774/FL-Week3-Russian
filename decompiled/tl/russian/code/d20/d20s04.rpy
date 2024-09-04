@@ -328,13 +328,13 @@ translate russian d20s04_tl_2b67ef2b:
 translate russian d20s04_tl_ed9fdc7c:
 
     # mc "Così fan tutte."
-    mc "Così fan tutte.\n\n{size=-10}{i}(итал. Так поступают все женщины){/i}{/size}"
+    mc "\"Così fan tutte\".\n\n{size=-10}{i}Итал. Так поступают все женщины.{/i}{/size}"
 
 # game/code/d20/d20s04.rpy:184
 translate russian d20s04_tl_8bd9ed77:
 
     # tl "I assume you are referring to \"Così fan tutte, ossia La scuola degli amanti\"?"
-    tl "Я полагаю, ты имеешь в виду \"Così fan tutte, ossia La scuola degli amanti\"?\n\n{size=-10}{i}(итал. Так поступают все женщины или Школа влюблённых){/i}{/size}"
+    tl "Я полагаю, ты имеешь в виду \"Così fan tutte, ossia La scuola degli amanti\"?\n\n{size=-10}{i}Итал. \"Так поступают все женщины или Школа влюблённых\".{/i}{/size}"
 
 # game/code/d20/d20s04.rpy:187
 translate russian d20s04_tl_80bd254d:

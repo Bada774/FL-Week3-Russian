@@ -130,7 +130,6 @@ label replay_e13s02:
     queue voice3 aaleyah_closed_moan6 noloop
     nk "*Louder moans* God, I've been horny all day long."
 
-
     $ Lovense.stop()
 
     play voice2 mc_yes_yeah1 noloop
@@ -494,7 +493,6 @@ label e13s02_wrap:
     pause
     stop music fadeout 3.0
 
-
     $ Lovense.stop()
 
     $ unlock_gallery_slot("scene", "e13s02")
@@ -502,4 +500,5 @@ label e13s02_wrap:
     $ renpy.end_replay()
 
     jump e13s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

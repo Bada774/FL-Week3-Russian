@@ -115,10 +115,10 @@ translate portuguese after_credits_a17db195:
     sy "Ué, você conhece ela?"
 
 
-translate portuguese after_credits_6daca271:
+translate portuguese after_credits_870c1bff:
 
 
-    dd "Sim, ela é do Vinovella University!"
+    dd "Sim, ela é do Taboo University!"
 
 
 translate portuguese after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate portuguese after_credits_73eb5eb5:
     sy "Né! Mal posso esperar pra ver o que ViNovella tem guardado!"
 
 
-translate portuguese after_credits_e4b3c0d3:
+translate portuguese after_credits_826b65f0:
 
 
-    dd "Mas e Vinovella University?"
+    dd "Mas e Taboo University?"
 
 
 translate portuguese after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate portuguese after_credits_47a5d0a5:
     dd "Ei, prazer em conhecer também!"
 
 
-translate portuguese after_credits_37ad6ed0:
+translate portuguese after_credits_f1d2352a:
 
 
-    dd "E com vai Vinovella University? O que vem agora?"
+    dd "E com vai Taboo University? O que vem agora?"
 
 
-translate portuguese after_credits_cbe5ee17:
+translate portuguese after_credits_75e46767:
 
 
-    sm "Ah? Vocês jogaram VU?"
+    sm "Ah? Vocês jogaram TU?"
 
 
 translate portuguese after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate portuguese after_credits_23a10f35:
     dd "*Rindo* Desculpa! Não aguentei."
 
 
-translate portuguese after_credits_470ffbdd:
+translate portuguese after_credits_166c44bf:
 
 
-    sy "Vocês sabem quando vai ter uma versão finalizada de VU? Eu quero jogar tudo de uma vez."
+    sy "Vocês sabem quando vai ter uma versão finalizada de TU? Eu quero jogar tudo de uma vez."
 
 
 translate portuguese after_credits_4041f0a9:
@@ -373,10 +373,10 @@ translate portuguese after_credits_321e2b80:
     sy "Hm? Espera, então esse Livro-1 é que nem a Semana-1 do Fetish Locator?"
 
 
-translate portuguese after_credits_99a25d72:
+translate portuguese after_credits_175f3ea2:
 
 
-    sm "Quase. Cada livro do VU seria {i}bem{/i} maior que uma semana do FL."
+    sm "Quase. Cada livro do TU seria {i}bem{/i} maior que uma semana do FL."
 
 
 translate portuguese after_credits_03943779:
@@ -621,10 +621,75 @@ translate portuguese strings:
     new "O Lendário Fetish Locator voltará"
 
 
+translate portuguese after_credits_b06da193:
 
 
-translate portuguese after_credits_cb03f950:
+    sy "Então eu com certeza deveria {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}colocar o jogo na lista de desejos da Steam{/u}{/a}!"
 
 
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+translate portuguese after_credits_dcd001ba:
+
+
+    sy "Que triste! Pensei que você tivesse morrido."
+
+
+translate portuguese after_credits_5a67dd3f:
+
+
+    sy "*sniff*"
+
+
+translate portuguese after_credits_3b9a74dd:
+
+
+    dd "Ei, tudo bem. Eu tô super sudável agora."
+
+
+translate portuguese after_credits_62dbb988:
+
+
+    sy "*Hic* Eu sei.*sniff* Que bom que você está bem."
+
+
+translate portuguese after_credits_de67d958:
+
+
+    dd "Mmmhmm. É mesmo, Stacy."
+
+
+translate portuguese after_credits_697eed2b:
+
+
+    dd "E não esquece. Tem outro final comigo!"
+
+
+translate portuguese after_credits_26d7f508:
+
+
+    sy "Ah... verdade."
+
+
+translate portuguese after_credits_ae828622:
+
+
+    sy "Eu quase esqueci do final do Calabouço Sexual!"
+
+
+translate portuguese after_credits_a73caa2e:
+
+
+    dd "Stacy, não esquece do nosso outro final. Eu viro um brinquedinho sexual toda de látex no nosso próprio Calabouço Sexual!"
+
+
+translate portuguese after_credits_83a2ed10:
+
+
+    sy "É... Esse final parece divertido."
+
+
+translate portuguese after_credits_f4cf666b:
+
+
+    sy "Mal posso esperar pra me divertir lá com você."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

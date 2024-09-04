@@ -235,4 +235,5 @@ translate malay strings:
 
     old "You have finished playing ending number 13!"
     new "You have finished playing ending number 13!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

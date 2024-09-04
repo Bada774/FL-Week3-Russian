@@ -4,7 +4,7 @@
 translate deutsch d17s06pn_9f8e2b43:
 
 
-    mct "Wow. Polly & Nora look really close. {w}I hope I'm not a third wheel on this date."
+    mct "Wow. Polly und Nora stehen sich wirklich nah. {w}Ich hoffe, dass ich bei diesem Date kein drittes Rad bin."
 
 
 translate deutsch d17s06pn_46090f7c:
@@ -16,13 +16,13 @@ translate deutsch d17s06pn_46090f7c:
 translate deutsch d17s06pn_d06ed5fc:
 
 
-    mc "How's it going, ladies?"
+    mc "Wie geht's, meine Damen?"
 
 
 translate deutsch d17s06pn_530de1b9:
 
 
-    nk "Terrific! {w}We just watched the hottest movie!"
+    nk "Ausgezeichnet! {w}Wir haben gerade den heißesten Film gesehen!"
 
 
 translate deutsch d17s06pn_ee87e6f3:
@@ -34,151 +34,151 @@ translate deutsch d17s06pn_ee87e6f3:
 translate deutsch d17s06pn_2652a61d:
 
 
-    pw "Just a foreign film about a couple of lesbians that was playing over at the art house."
+    pw "Nur ein ausländischer Film über ein paar Lesben, der drüben im Kunsthaus lief."
 
 
 translate deutsch d17s06pn_277bcc28:
 
 
-    mc "Nice! How was it?"
+    mc "Schön! Wie war es?"
 
 
 translate deutsch d17s06pn_312f0375:
 
 
-    pw "It was sweet{w} and a little sad."
+    pw "Es war süß{w} und ein bisschen traurig."
 
 
 translate deutsch d17s06pn_463b122d:
 
 
-    nk "True, but it was also sexy as hell."
+    nk "Stimmt, aber es war auch verdammt sexy."
 
 
 translate deutsch d17s06pn_017570a4:
 
 
-    pw "Also true. {w}We could barely keep our hands off each other at parts."
+    pw "Auch wahr. {w}Wir konnten kaum die Hände voneinander lassen, an manchen Stellen."
 
 
 translate deutsch d17s06pn_7844d881:
 
 
-    nk "But it was so engrossing neither one of us took our eyes off the screen.{w}.. even if our hands did roam a lot."
+    nk "Aber es war so fesselnd, dass keiner von uns den Blick vom Bildschirm wenden konnte.{w}.. auch wenn unsere Hände viel herumgewandert sind."
 
 
 translate deutsch d17s06pn_1d074d32:
 
 
-    mc "That sounds like an awesome film. {w}So, are you ready for the amusement rides?"
+    mc "Das klingt nach einem großartigen Film. {w}Seid ihr bereit für die Fahrgeschäfte?"
 
 
 translate deutsch d17s06pn_86c220e6:
 
 
-    pw "I think we're both too horney to think straight, but Nora got us tickets to the Ferris Wheel."
+    pw "Ich glaube, wir sind beide zu geil, um klar zu denken, aber Nora hat uns Tickets für das Riesenrad besorgt."
 
 
 translate deutsch d17s06pn_074bd61d:
 
 
-    nk "We were just waiting for you to join us. I talked to the ticket seller and we should have time for a quickie."
+    nk "Wir haben nur darauf gewartet, dass du zu uns kommst. Ich habe mit dem Ticketverkäufer gesprochen und wir sollten Zeit für einen Quickie haben."
 
 
 translate deutsch d17s06pn_79369379:
 
 
-    mc "Seriously? You asked that?"
+    mc "Wirklich? Hast du das gefragt?"
 
 
 translate deutsch d17s06pn_72a47c0e:
 
 
-    nk "Not directly."
+    nk "Nicht direkt."
 
 
 translate deutsch d17s06pn_74e997b9:
 
 
-    pw "The important thing is - are you ready to join the 30 Foot High Club?"
+    pw "Das Wichtige ist - bist du bereit, dem Höhenflieger-Club beizutreten?"
 
 
 translate deutsch d17s06pn_819d4336:
 
 
-    mc "Hell yes!"
+    mc "Aber sicher!"
 
 
 translate deutsch d17s06pn_387b39a2:
 
 
-    pw "LET'S DO IT!!!"
+    pw "LASST ES UNS TUN!!!"
 
 
 translate deutsch d17s06pn_45d243e8:
 
 
-    nk "Oh good. I was afraid you'd still be in that cage."
+    nk "Oh, gut. Ich hatte Angst, du wärst immer noch in diesem Käfig."
 
 
 translate deutsch d17s06pn_07f47315:
 
 
-    mc "Oh, yeah. That's gone now."
+    mc "Oh ja. Der ist jetzt weg."
 
 
 translate deutsch d17s06pn_801af08d:
 
 
-    nk "I need you hard and inside me."
+    nk "Ich brauche dich hart und in mir drin."
 
 
 translate deutsch d17s06pn_bd25caea:
 
 
-    pw "Does this help?"
+    pw "Hilft das?"
 
 
 translate deutsch d17s06pn_995e4868:
 
 
-    mc "Yes. Yes it does."
+    mc "Ja. Ja, das hilft."
 
 
 translate deutsch d17s06pn_fe6db62a:
 
 
-    mc "Aren't we going to get in trouble for this?"
+    mc "Bekommen wir nicht Ärger dewegen?"
 
 
 translate deutsch d17s06pn_77dcebb2:
 
 
-    pw "Worry about that when we're back on the ground."
+    pw "Sorg dich darum, wenn wir wieder auf dem Boden sind."
 
 
 translate deutsch d17s06pn_60f763f4:
 
 
-    mc "That feels amazing, Nora."
+    mc "Das fühlt sich fantastisch an, Nora."
 
 
 translate deutsch d17s06pn_b6835559:
 
 
-    nk "Enough of that. You're hard. I'm horny."
+    nk "Genug davon. Du bist hart. Ich bin geil."
 
 
 translate deutsch d17s06pn_6d566f66:
 
 
-    nk "FUCK ME"
+    nk "FICK MICH"
 
 
 translate deutsch d17s06pn_50a41f2e:
 
 
-    nk "Not like Polly."
+    nk "Nicht wie Polly."
 
 
 translate deutsch d17s06pn_c6a4e8d2:
@@ -190,7 +190,7 @@ translate deutsch d17s06pn_c6a4e8d2:
 translate deutsch d17s06pn_955a0237:
 
 
-    mc "Vaginal sex. No anal for Nora."
+    mc "Vaginaler Sex. Kein Analsex für Nora."
 
 
 translate deutsch d17s06pn_82a9cd57:
@@ -202,523 +202,523 @@ translate deutsch d17s06pn_82a9cd57:
 translate deutsch d17s06pn_4b9dea94:
 
 
-    nk "Not tonight at least."
+    nk "Zumindest heute Abend nicht."
 
 
 translate deutsch d17s06pn_6cd93e8a:
 
 
-    mc "Fuck me. {w}You're so wet."
+    mc "Fick mich. {w}Du bist so nass."
 
 
 translate deutsch d17s06pn_94812e9d:
 
 
-    nk "Yes, I am! I am!! {w}Fuck YES!!!"
+    nk "Ja bin ich! Bin ich!! {w}Scheiße, JA!!!"
 
 
 translate deutsch d17s06pn_cdef5390:
 
 
-    mct "Damn! Dripping wet and tight as hell!"
+    mct "Verdammt! Tropfnass und höllisch eng!"
 
 
 translate deutsch d17s06pn_fd41814b:
 
 
-    nk "Fuck me! You're hard dick feels massive!"
+    nk "Fick mich! Dein harter Schwanz fühlt sich riesig an!"
 
 
 translate deutsch d17s06pn_48342ddb:
 
 
-    mc "Tell me you want it!"
+    mc "Sag mir, dass du es willst!"
 
 
 translate deutsch d17s06pn_f3394eff:
 
 
-    nk "I WANT IT ALL"
+    nk "ICH WILL ALLES"
 
 
 translate deutsch d17s06pn_9b78eb21:
 
 
-    mc "All yours!"
+    mc "Alles deins!"
 
 
 translate deutsch d17s06pn_05cafe76:
 
 
-    pw "Just remember that she's not on birth control, so no cumming inside her."
+    pw "Denk dran, dass sie nicht verhütet, also darfst du nicht in sie hineinspritzen."
 
 
 translate deutsch d17s06pn_63491ffa:
 
 
-    mc "Fuck yeah, no worries about that."
+    mc "Scheiße ja, darüber brauchst du dir keine Sorgen zu machen."
 
 
 translate deutsch d17s06pn_5f364685:
 
 
-    pw "If there's time, maybe you can cum inside me instead."
+    pw "Wenn du Zeit hast, kannst du vielleicht stattdessen in mir abspritzen."
 
 
 translate deutsch d17s06pn_02df8764:
 
 
-    mc "This date just keeps getting better and better."
+    mc "Dieses Date wird immer besser und besser."
 
 
 translate deutsch d17s06pn_f48f2093:
 
 
-    nk "I'M GOING TO CUUUuuuuUUUUUMMMM!!!"
+    nk "ICH KOOOOMMEEEEE!!!"
 
 
 translate deutsch d17s06pn_da9fbedc:
 
 
-    mc "OHH FUCK YES!!!"
+    mc "OHH FUCK JA!!!"
 
 
 translate deutsch d17s06pn_df7e7a26:
 
 
-    mc "That was really terrific... {w}You're amazing."
+    mc "Das war wirklich großartig... {w}Du bist großartig."
 
 
 translate deutsch d17s06pn_3f20987d:
 
 
-    nk "Thank you."
+    nk "Danke."
 
 
 translate deutsch d17s06pn_c5638422:
 
 
-    pw "Huh. The whole park is dark."
+    pw "Huh. Der ganze Park ist dunkel."
 
 
 translate deutsch d17s06pn_0b03baf9:
 
 
-    mc "Wha-?"
+    mc "Wa-?"
 
 
 translate deutsch d17s06pn_f77bf8c9:
 
 
-    pw "There's some sort of power outage. I think I saw sparks from a telephone pole over there."
+    pw "Es gibt einen Stromausfall. Ich glaube, ich habe Funken von einem Telefonmast dort drüben gesehen."
 
 
 translate deutsch d17s06pn_2a2bc10d:
 
 
-    mc "Oh. {w}I guess we were kinda distracted."
+    mc "Oh. {w}Ich denke, wir waren ein bisschen abgelenkt."
 
 
 translate deutsch d17s06pn_bdc8a229:
 
 
-    pw "I hope none of us are afraid of heights."
+    pw "Ich hoffe, niemand von uns hat Höhenangst."
 
 
 translate deutsch d17s06pn_b92ef7d9:
 
 
-    mc "I'm not. Why?"
+    mc "Ich nicht. Warum?"
 
 
 translate deutsch d17s06pn_7373224c:
 
 
-    pw "We're likely going to be here a while."
+    pw "Wir werden wahrscheinlich eine Weile hier sein."
 
 
 translate deutsch d17s06pn_a6a92c62:
 
 
-    mc "Nora? {w}You're kinda quiet. You okay?"
+    mc "Nora? {w}Du bist ziemlich still. Alles in Ordnung?"
 
 
 translate deutsch d17s06pn_76fe658a:
 
 
-    nk "Just recovering."
+    nk "Ich erhole mich nur."
 
 
 translate deutsch d17s06pn_c41abca6:
 
 
-    pw "You're not afraid of heights, are you dear?"
+    pw "Du hast doch keine Höhenangst, oder Liebling?"
 
 
 translate deutsch d17s06pn_a3ddb668:
 
 
-    nk "No, no... {w}Just well fucked."
+    nk "Nein, nein... {w}Nur gut gefickt."
 
 
 translate deutsch d17s06pn_b28d48f9:
 
 
-    pw "Really? It doesn't look like it."
+    pw "Wirklich? Sieht nicht danach aus."
 
 
 translate deutsch d17s06pn_a1ffe477:
 
 
-    nk "It's nothing."
+    nk "Es ist nichts."
 
 
 translate deutsch d17s06pn_799c9071:
 
 
-    mc "You do look kinda sad. {w}It's okay. We all get that way sometimes."
+    mc "Du siehst irgendwie traurig aus. {w}Das ist okay. Wir sind alle manchmal so."
 
 
 translate deutsch d17s06pn_6a8a2396:
 
 
-    pw "Yeah. Big damn endorphin rush, hard cum, then sad."
+    pw "Ja. Großer, verdammter Endorphinstoß, hart gekommen, dann traurig."
 
 
 translate deutsch d17s06pn_ca70bb2b:
 
 
-    nk "I'm not sad. I'm just-"
+    nk "Ich bin nicht traurig. Ich bin nur-"
 
 
 translate deutsch d17s06pn_6faf598d:
 
 
-    pw "What is it?"
+    pw "Was ist es?"
 
 
 translate deutsch d17s06pn_4f3f3766:
 
 
-    nk "I'm just thoughtful."
+    nk "Ich denke nur nach."
 
 
 translate deutsch d17s06pn_8aea760b:
 
 
-    mc "Anything in particular?"
+    mc "Ist es etwas Bestimmtes?"
 
 
 translate deutsch d17s06pn_a1ffe477_1:
 
 
-    nk "It's nothing."
+    nk "Es ist nichts."
 
 
 translate deutsch d17s06pn_108ceae2:
 
 
-    pw "You say that, but your expression... {w}You're worrying me. Are you sure you're okay?"
+    pw "Du sagst das, aber dein Gesichtsausdruck... {w}Du machst mir Sorgen. Bist du sicher, dass es dir gut geht?"
 
 
 translate deutsch d17s06pn_91554c72:
 
 
-    nk "I got an offer on the shop earlier this week."
+    nk "Ich habe diese Woche ein Angebot für den Laden erhalten."
 
 
 translate deutsch d17s06pn_37aabf75:
 
 
-    mc "Oh? {w}What kind of offer?"
+    mc "Oh? {w}Welche Art von Angebot?"
 
 
 translate deutsch d17s06pn_99aab7db:
 
 
-    nk "You helped me out a lot, but the Summer break is coming."
+    nk "Du hast mir sehr geholfen, aber die Sommerpause steht vor der Tür."
 
 
 translate deutsch d17s06pn_4037e55e:
 
 
-    nk "Even if students remember my coffee shop in the autumn semester, I still have to survive months without you guys."
+    nk "Selbst wenn die Studenten sich im Herbstsemester an mein Café erinnern, muss ich trotzdem Monate ohne euch überstehen."
 
 
 translate deutsch d17s06pn_0cdf9f39:
 
 
-    pw "What are you saying?"
+    pw "Was meinst du?"
 
 
 translate deutsch d17s06pn_b5fa0fd9:
 
 
-    nk "I have debts... {w}and I got a buy-out offer from a big corporate coffee place."
+    nk "Ich habe Schulden... {w}und ich habe ein Kaufangebot von einer großen Kaffeekette erhalten."
 
 
 translate deutsch d17s06pn_897ce0aa:
 
 
-    mc "What kind of debts?"
+    mc "Welche Art von Schulden?"
 
 
 translate deutsch d17s06pn_a6ae6fbd:
 
 
-    pw "Do you owe money to the sorts of people you shouldn't owe money to?"
+    pw "Schuldest du den Leuten Geld, denen man kein Geld schulden sollte?"
 
 
 translate deutsch d17s06pn_1ecb4cac:
 
 
-    nk "Yeah, I do. {w}Banks, credit cards, that sort of thing."
+    nk "Ja, tue ich. {w}Banken, Kreditkarten, solche Dinge."
 
 
 translate deutsch d17s06pn_a17e5344:
 
 
-    pw "I mean, they're not going to break your legs."
+    pw "Ich meine, sie werden dir nicht die Beine brechen."
 
 
 translate deutsch d17s06pn_8e6809c6:
 
 
-    nk "No, they'll just be able to ruin my life."
+    nk "Nein, sie werden nur mein Leben ruinieren."
 
 
 translate deutsch d17s06pn_14a2d43b:
 
 
-    mc "That's... {w}well, I guess that's true."
+    mc "Das ist... {w}nun ja, das stimmt wohl."
 
 
 translate deutsch d17s06pn_978cbd83:
 
 
-    pw "So, you're going to sell out?"
+    pw "Also, wirst du verkaufen?"
 
 
 translate deutsch d17s06pn_7ec65c03:
 
 
-    mc "Hey! There's nothing wrong with taking a legitimate offer if it helps her."
+    mc "Hey! Es ist nichts Falsch daran, ein gutes Angebot anzunehmen, wenn es ihr hilft."
 
 
 translate deutsch d17s06pn_32d304d3:
 
 
-    pw "I'm sorry. What are you going to do?"
+    pw "Tut mir leid. Was wirst du jetzt tun?"
 
 
 translate deutsch d17s06pn_065d8474:
 
 
-    nk "I don't know yet. {w}I mean, the smart thing would be to take the money and run."
+    nk "Ich weiß es noch nicht. {w}Ich meine, das Klügste wäre, das Geld zu nehmen und abzuhauen."
 
 
 translate deutsch d17s06pn_26ed208e:
 
 
-    mc "Depends on how much money... {w}and how much debt you have."
+    mc "Das hängt davon ab, wie viel Geld du hast... {w}und wie viele Schulden du hast."
 
 
 translate deutsch d17s06pn_2361553d:
 
 
-    nk "It's a generous deal."
+    nk "Es ist ein großzügiges Angebot."
 
 
 translate deutsch d17s06pn_b63c2684:
 
 
-    pw "How generous?"
+    pw "Wie großzügig?"
 
 
 translate deutsch d17s06pn_4b7cadce:
 
 
-    nk "Well, let me put it this way."
+    nk "Nun, lass es mich so ausdrücken."
 
 
 translate deutsch d17s06pn_9e6458c9:
 
 
-    nk "If I did business like last week for a couple of years straight this offer would be an insult."
+    nk "Wenn ich Geschäfte wie letzte Woche ein paar Jahre lang gemacht hätte, wäre dieses Angebot eine Beleidigung."
 
 
 translate deutsch d17s06pn_e68c066f:
 
 
-    nk "However, it's enough to pay my debts and put a sizable down payment on a new business."
+    nk "Aber es reicht aus, um meine Schulden zu bezahlen und eine gute Anzahlung für ein neues Geschäft zu leisten."
 
 
 translate deutsch d17s06pn_5164667c:
 
 
-    mc "Sounds like a good deal."
+    mc "Klingt nach einem guten Geschäft."
 
 
 translate deutsch d17s06pn_4351df8b:
 
 
-    pw "I'm guessing that new biz wouldn't be another coffee shop somewhere nearby."
+    pw "Ich vermute, dass das neue Geschäft nicht wieder ein Kaffeehaus in der Nähe sein wird."
 
 
 translate deutsch d17s06pn_bc3c447b:
 
 
-    nk "And that's the problem. All I know is coffee..."
+    nk "Und das ist das Problem. Alles, was ich kenne, ist Kaffee..."
 
 
 translate deutsch d17s06pn_98bcc197:
 
 
-    mc "But?"
+    mc "Aber?"
 
 
 translate deutsch d17s06pn_6c81f947:
 
 
-    nk "But... {w}I don't want to lose you guys."
+    nk "Aber... {w}Ich will euch nicht verlieren."
 
 
 translate deutsch d17s06pn_0e2b3960:
 
 
-    pw "I don't want to lose you either!"
+    pw "Ich will dich auch nicht verlieren!"
 
 
 translate deutsch d17s06pn_7b573689:
 
 
-    mc "Maybe there's another option?"
+    mc "Vielleicht gibt es eine andere Möglichkeit?"
 
 
 translate deutsch d17s06pn_4e62fbba:
 
 
-    pw "Like what?!{w} We both have another year of college and Nora will go broke before then!"
+    pw "Welche denn?! {w}Wir haben noch ein Jahr College und Nora wird pleite gehen, bevor es soweit ist!"
 
 
 translate deutsch d17s06pn_f62ea8b5:
 
 
-    mc "I mean, I should be here over the summer. We can figure something out."
+    mc "Ich meine, ich bin im Sommer hier. Wir könnten etwas finden."
 
 
 translate deutsch d17s06pn_dfc3a150:
 
 
-    nk "I don't know."
+    nk "Ich weiß nicht."
 
 
 translate deutsch d17s06pn_c4d9784e:
 
 
-    nk "I don't know what to do."
+    nk "Ich weiß nicht, was ich tun soll."
 
 
 translate deutsch d17s06pn_10576975:
 
 
-    pw "Let me make this easy for both of you."
+    pw "Lasst mich das für euch beide einfacher machen."
 
 
 translate deutsch d17s06pn_a890dec3:
 
 
-    mc "Huh? What are you talking about?"
+    mc "Huh? Wovon redest du?"
 
 
 translate deutsch d17s06pn_abc943fe:
 
 
-    pw "Nora, you know how much I love to suck cock."
+    pw "Nora, du weißt, wie sehr ich es liebe, Schwänze zu lutschen."
 
 
 translate deutsch d17s06pn_bdcbf623:
 
 
-    nk "Love? What are you talking about? {w}You hate it."
+    nk "Liebe? Worüber redest du? {w}Du hasst es."
 
 
 translate deutsch d17s06pn_50973456:
 
 
-    pw "Okay, so watch this."
+    pw "Okay, also schau dir das an."
 
 
 translate deutsch d17s06pn_451be461:
 
 
-    pw "[mcname], can I please suck your limp dick?"
+    pw "[mcname], kann ich bitte deinen schlaffen Schwanz lutschen??"
 
 
 translate deutsch d17s06pn_625d9bea:
 
 
-    mc "Um, sure."
+    mc "Um, klar."
 
 
 translate deutsch d17s06pn_52657b8c:
 
 
-    nk "What is this all about? I don't understand."
+    nk "Worum geht es hier? Ich verstehe es nicht."
 
 
 translate deutsch d17s06pn_a40a43af:
 
 
-    pw "I want to show you both how important you are to me."
+    pw "Ich möchte euch beiden zeigen, wie wichtig ihr für mich seid."
 
 
 translate deutsch d17s06pn_a1a73db6:
 
 
-    nk "I'm even more confused than ever."
+    nk "Ich bin jetzt noch verwirrter als vorher."
 
 
 translate deutsch d17s06pn_fb6992f2:
 
 
-    mc "I think what she's trying to say-"
+    mc "Ich glaube, was sie sagen will-"
 
 
 translate deutsch d17s06pn_24d1b0c3:
 
 
-    mc "Damn, Polly. How are you so good at something you don't enjoy?"
+    mc "Verdammt, Polly. Wie kannst du so gut sein in etwas, das dir keinen Spaß macht?"
 
 
 translate deutsch d17s06pn_c8dbe13d:
 
 
-    pw "You still taste of Nora's juices."
+    pw "Du schmeckst immer noch Noras Safte."
 
 
 translate deutsch d17s06pn_da0df191:
 
 
-    mc "Oh. {w}Anyway."
+    mc "Oh. {w}Wie auch immer."
 
 
 translate deutsch d17s06pn_6879fd9b:
 
 
-    mc "I think what she's trying to say is that it's the three of us against whatever."
+    mc "Ich glaube, was sie sagen will, ist, dass wir drei zusammen gegen alle anderen stehen."
 
 
 translate deutsch d17s06pn_9ff661a9:
 
 
-    mc "That she'll do anything-"
+    mc "Dass sie alles tun wird-"
 
 
 translate deutsch d17s06pn_34efeb2d:
 
 
-    mc "That feels fucking awesome."
+    mc "Das fühlt sich verdammt großartig an."
 
 
 translate deutsch d17s06pn_c685bd90:
@@ -730,85 +730,85 @@ translate deutsch d17s06pn_c685bd90:
 translate deutsch d17s06pn_d058318e:
 
 
-    mc "Polly will do anything for us-"
+    mc "Polly wird alles für uns tun-"
 
 
 translate deutsch d17s06pn_bf8ee60f:
 
 
-    mc "I mean, Polly will do anything for you {w}- to keep you happy {w}-to keep you-"
+    mc "Ich meine, Polly wird alles für dich tun {w}- um dich glücklich zu machen {w}- um dich-"
 
 
 translate deutsch d17s06pn_ca3ed66b:
 
 
-    pw "I want to fuck you now."
+    pw "Ich will dich jetzt ficken."
 
 
 translate deutsch d17s06pn_c209d0e9:
 
 
-    mc "I would love {w}-what?"
+    mc "Ich würde total gerne {w}-was?"
 
 
 translate deutsch d17s06pn_984993fc:
 
 
-    pw "I want to penetrate my pussy with your hard cock."
+    pw "Ich möchte mit deinem harten Schwanz in meine Muschi eindringen."
 
 
 translate deutsch d17s06pn_afdffd0d:
 
 
-    mc "Yes, please."
+    mc "Ja, bitte."
 
 
 translate deutsch d17s06pn_d3df108f:
 
 
-    pw "Good answer."
+    pw "Gute Antwort."
 
 
 translate deutsch d17s06pn_f8daad20:
 
 
-    mc "Oh gooooodness."
+    mc "Oh Gooooott."
 
 
 translate deutsch d17s06pn_1b9ccff0:
 
 
-    pw "I think you meant, \"Oh my goddess\"."
+    pw "Ich glaube du meinst, \"Oh meine Göttin\"."
 
 
 translate deutsch d17s06pn_6780e3d5:
 
 
-    mc "Anything you want."
+    mc "Alles was du willst."
 
 
 translate deutsch d17s06pn_10c8f1e4:
 
 
-    pw "Do you have any idea how long it has been since a man felt the inside of my holiest of holes?"
+    pw "Hast du eine Ahnung, wie lange es her ist, dass ein Mann das Innere meines heiligsten aller Löcher berührt hat?"
 
 
 translate deutsch d17s06pn_7f2004ac:
 
 
-    mc "I'm honored?"
+    mc "Darf ich mich geehrt fühlen?"
 
 
 translate deutsch d17s06pn_9d0b80a3:
 
 
-    mc "I can't believe how tight-"
+    mc "Ich kann nicht glauben, wie eng-"
 
 
 translate deutsch d17s06pn_16408618:
 
 
-    mc "Yet how supple-"
+    mc "Und doch, wie geschmeidig-"
 
 
 translate deutsch d17s06pn_628bf4a3:
@@ -820,19 +820,19 @@ translate deutsch d17s06pn_628bf4a3:
 translate deutsch d17s06pn_764df8b7:
 
 
-    pw "Nora, my love? Are you paying attention?"
+    pw "Nora, meine Liebe? Passt du auf?"
 
 
 translate deutsch d17s06pn_8a59e568:
 
 
-    nk "Of course. You've got an amazing pussy."
+    nk "Natürlich. Du hast eine tolle Muschi."
 
 
 translate deutsch d17s06pn_92f07f89:
 
 
-    pw "I have an incredible pussy.{w}.. and it is all yours."
+    pw "Ich habe eine unglaubliche Muschi.{w}.. und sie gehört ganz dir."
 
 
 translate deutsch d17s06pn_84b8b036:
@@ -844,97 +844,97 @@ translate deutsch d17s06pn_84b8b036:
 translate deutsch d17s06pn_93f868c1:
 
 
-    pw "I know you don't want to be with me."
+    pw "Ich weiß, du möchtest nicht mit mir zusammen sein."
 
 
 translate deutsch d17s06pn_59684a14:
 
 
-    nk "I do!"
+    nk "Doch!"
 
 
 translate deutsch d17s06pn_291f9e0a:
 
 
-    pw "I mean, you don't want to be with {i}JUST{/i} me."
+    pw "Ich meine, du möchtest nicht {i}NUR{/i} mit mir zusammen sein."
 
 
 translate deutsch d17s06pn_6dbd9ec8:
 
 
-    nk "I do love cock."
+    nk "Ich liebe Schwänze."
 
 
 translate deutsch d17s06pn_46a6f329:
 
 
-    pw "I'm yours."
+    pw "Ich gehöre dir."
 
 
 translate deutsch d17s06pn_ba4be3f6:
 
 
-    pw "You're [mcname]'s."
+    pw "Du gehörst zu [mcname]."
 
 
 translate deutsch d17s06pn_1b73a469:
 
 
-    pw "And [mcname] is mine. {w}Isn't that right?"
+    pw "Und [mcname] gehört mir. {w}Stimmt's?"
 
 
 translate deutsch d17s06pn_3284ce9a:
 
 
-    mc "Anything you want. {w}Just keep riding my dick."
+    mc "Alles was du willst. {w}Aber reite weiter auf meinem Schwanz."
 
 
 translate deutsch d17s06pn_5c9127d1:
 
 
-    nk "I think I understand."
+    nk "Ich glaube, ich verstehe."
 
 
 translate deutsch d17s06pn_30f48216:
 
 
-    pw "Do you mind if I speed things up a little bit?"
+    pw "Stört es dich, wenn ich die Dinge etwas beschleunige?"
 
 
 translate deutsch d17s06pn_c2a448f3:
 
 
-    mc "Please do."
+    mc "Bitte."
 
 
 translate deutsch d17s06pn_8fac4be7:
 
 
-    pw "I wasn't asking you."
+    pw "Ich habe dich nicht gefragt."
 
 
 translate deutsch d17s06pn_8ebf2c09:
 
 
-    nk "Do you want to cum for me? Or do you want him to cum?"
+    nk "Willst du für mich kommen? Oder willst du, dass er abspritzt?"
 
 
 translate deutsch d17s06pn_1fbf139a:
 
 
-    pw "It's your choice, my love."
+    pw "Es ist deine Entscheidung, meine Liebe."
 
 
 translate deutsch d17s06pn_661736d2:
 
 
-    nk "In that case.{w}.. I want you to cum together."
+    nk "In diesem Fall.{w}.. Möchte ich, dass ihr zusammen kommt."
 
 
 translate deutsch d17s06pn_e977491e:
 
 
-    pw "I think I can do that."
+    pw "Ich denke, dass schaffe ich."
 
 
 translate deutsch d17s06pn_54eb03a8:
@@ -946,55 +946,55 @@ translate deutsch d17s06pn_54eb03a8:
 translate deutsch d17s06pn_25be8ab6:
 
 
-    pw "YES!"
+    pw "JA!"
 
 
 translate deutsch d17s06pn_90d5667c:
 
 
-    mc "HOW ARE YOU SO GOOD AT THIS?!"
+    mc "WIESO BIST DU DARIN SO GUT??!"
 
 
 translate deutsch d17s06pn_547a1ac9:
 
 
-    pw "I know exactly what you want."
+    pw "Ich weiß genau, was du willst."
 
 
 translate deutsch d17s06pn_624d96d8:
 
 
-    mc "FUCK YES! {w}I'M CLOSE!"
+    mc "FUCK JA! {w}ICH BIN GLEICH SOWEIT!"
 
 
 translate deutsch d17s06pn_4ce3ba39:
 
 
-    pw "HOLD ON JUST A MINUTE MORE!!!"
+    pw "WARTE NOCH EINE MINUTE!!!"
 
 
 translate deutsch d17s06pn_5c2cc35e:
 
 
-    mc "WHERE?!"
+    mc "WAS?!"
 
 
 translate deutsch d17s06pn_1ca9e3ae:
 
 
-    pw "JUST A SEC-"
+    pw "NUR EINE SEK-"
 
 
 translate deutsch d17s06pn_02be82d6:
 
 
-    pw "CUM!! CUM INSIDE ME NOW!!!"
+    pw "KOMM!! KOMM IN MIR!!!"
 
 
 translate deutsch d17s06pn_97267910:
 
 
-    mc "FUUUUCKKKYESSSSSSSS"
+    mc "FUUUUCKKKJAAAAAAAA"
 
 
 translate deutsch d17s06pn_6c7c8381:
@@ -1006,133 +1006,134 @@ translate deutsch d17s06pn_6c7c8381:
 translate deutsch d17s06pn_61367668:
 
 
-    nk "I say, \"God damn!\" You are a hot couple."
+    nk "Ich würde sagen: \"Verdammt!\" Ihr seid ein heißes Paar."
 
 
 translate deutsch d17s06pn_948ebfa0:
 
 
-    pw "Thruple."
+    pw "Trio."
 
 
 translate deutsch d17s06pn_3ffa32c1:
 
 
-    nk "What?"
+    nk "Was?"
 
 
 translate deutsch d17s06pn_60dd78b4:
 
 
-    mc "We're an insanely hot and sexy as fuck threesome."
+    mc "Wir sind ein wahnsinnig heißer und verdammt sexy Dreier."
 
 
 translate deutsch d17s06pn_09c28ec4:
 
 
-    nk "Indeed."
+    nk "In der Tat."
 
 
 translate deutsch d17s06pn_35b49f3b:
 
 
-    pw "Would you like to clean us up?"
+    pw "Möchtest du uns sauber machen?"
 
 
 translate deutsch d17s06pn_cf41f269:
 
 
-    nk "Definitely."
+    nk "Auf jeden Fall."
 
 
 translate deutsch d17s06pn_1785e8ad:
 
 
-    mc "Well, that was an experience I'll never forget."
+    mc "Nun, das war eine Erfahrung, die ich nie vergessen werde."
 
 
 translate deutsch d17s06pn_3c30155f:
 
 
-    pw "Definitely."
+    pw "Auf jeden Fall."
 
 
 translate deutsch d17s06pn_46519f5e:
 
 
-    nk "I agree."
+    nk "Ich stimme zu."
 
 
 translate deutsch d17s06pn_115d7142:
 
 
-    mc "Do you know what you're going to do about that offer?"
+    mc "Weißt du schon, was du mit diesem Angebot machen wirst?"
 
 
 translate deutsch d17s06pn_c79a19cc:
 
 
-    nk "I have a pretty good idea."
+    nk "Ich habe schon eine Vorstellung."
 
 
 translate deutsch d17s06pn_82cfef52:
 
 
-    mc "Awesome."
+    mc "Fantastisch."
 
 
 translate deutsch d17s06pn_2f4b4dba:
 
 
-    nk "I sometimes wonder."
+    nk "Manchmal frage ich mich."
 
 
 translate deutsch d17s06pn_5ca0817d:
 
 
-    pw "How's that?"
+    pw "Was meinst du?"
 
 
 translate deutsch d17s06pn_de112656:
 
 
-    nk "I hear a lot of stories around the coffee shop about [mcname]. He's apparently quite the ladies' man."
+    nk "Ich höre viele Geschichten im Kaffeehaus über [mcname]. Anscheinend ist er bei den Frauen sehr beliebt."
 
 
 translate deutsch d17s06pn_d8d00b86:
 
 
-    pw "No argument there."
+    pw "Da gibt es nichts zu bestreiten."
 
 
 translate deutsch d17s06pn_4a751149:
 
 
-    mct "Good for them."
+    mct "Gut für sie."
 
 
 translate deutsch d17s06pn_a51c0980:
 
 
-    mct "The three of us are going to have a lot more fun together.{w}.. hopefully for a long, long time."
+    mct "Wir drei werden noch viel mehr Spaß zusammen haben... hoffentlich noch lange, lange Zeit."
 
 
 translate deutsch d17s06pn_048ae9d5:
 
 
-    flr "You have earned [d17s06_points] points."
+    flr "Du hast [d17s06_points] Punkte verdient."
 
 translate deutsch strings:
 
 
     old "Some time later"
-    new "Some time later"
+    new "Etwas später"
 
 
     old "They make a cute couple"
-    new "They make a cute couple"
+    new "Sie geben ein süßes Paar ab"
 
 
     old "We make a good trio"
-    new "We make a good trio"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Wir sind ein gutes Trio"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

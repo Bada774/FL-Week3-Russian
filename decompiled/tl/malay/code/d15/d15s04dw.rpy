@@ -1074,4 +1074,5 @@ translate malay strings:
 
     old "30 minutes later"
     new "30 minit kemudian"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

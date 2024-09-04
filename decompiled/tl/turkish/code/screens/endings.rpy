@@ -33,4 +33,13 @@ translate turkish strings:
 
     old "Exit to Mainmenu"
     new "Ana menüye çık"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+translate turkish strings:
+
+
+    old "Download free DLC containing this ending"
+    new "Bu sonu içeren ücretsiz DLC'yi indirin"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

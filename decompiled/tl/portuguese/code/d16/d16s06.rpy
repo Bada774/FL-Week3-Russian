@@ -779,4 +779,5 @@ translate portuguese d16s06_89a8c10f:
 
 
     flr "Você ganhou [d16s06_points] pontos."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

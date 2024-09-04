@@ -4,4 +4,5 @@ label d18s05:
         jump d18s05_ext
     elif True:
         jump d18s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

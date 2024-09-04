@@ -16,11 +16,11 @@ translate malay strings:
 
 
     old "Hints on"
-    new "Petunjuk\ndiaktifkan"
+    new "Petunjuk diaktifkan"
 
 
     old "Hints off"
-    new "Petunjuk\ndimatikan"
+    new "Petunjuk dimatikan"
 
 
     old "Page [page]"
@@ -41,4 +41,5 @@ translate malay strings:
 
     old "Coming Soon"
     new "Akan Datang"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

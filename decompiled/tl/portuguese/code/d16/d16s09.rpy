@@ -183,4 +183,5 @@ translate portuguese strings:
 
     old "Go to AmRose's House"
     new "Ir para a casa da AmRose"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -220,7 +220,7 @@ translate italian strings:
 
 
     old "Don't leave Maria"
-    new "Don't leave Maria"
+    new "Non abbandonare Maria"
 
 
     old "Day 21: Judge"
@@ -279,18 +279,86 @@ translate italian strings:
     new "Finale 10: Min & Nari"
 
 
+    old "Ending 12: Allison"
+    new "Finale 12: Allison"
+
+
+    old "Ending 12: Vanessa"
+    new "Finale 12: Vanessa"
+
+
+    old "Ending 14: Polly, Nora & Debbie"
+    new "Finale 14: Polly, Nora & Debbie"
+
 
 translate italian strings:
 
 
-    old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    old "Ending 11: Daisy & Janet"
+    new "Ending 11: Daisy & Janet"
 
 
-    old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    old "Ending 17: Dahlia & Room Service"
+    new "Ending 17: Dahlia & Room Service"
 
 
-    old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    old "Ending 17: Dahlia & Domina"
+    new "Ending 17: Dahlia & Domina"
+
+
+    old "Ending 17: Pregnant Dahlia"
+    new "Ending 17: Pregnant Dahlia"
+
+
+
+translate italian strings:
+
+
+    old "Ending 04: Lydia"
+    new "Ending 04: Lydia"
+
+
+    old "Ending 04: Lydia, Stacy & AmRose"
+    new "Ending 04: Lydia, Stacy & AmRose"
+
+
+    old "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Ending 04: Daisy, Lydia, Stacy & AmRose"
+
+
+    old "Ending 04: Lyssa & Lydia"
+    new "Ending 04: Lyssa & Lydia"
+
+
+    old "Ending 04: Lydia & Maria"
+    new "Ending 04: Lydia & Maria"
+
+
+    old "Ending 04: Harem"
+    new "Ending 04: Harem"
+
+
+    old "Ending 07: AmRose"
+    new "Ending 07: AmRose"
+
+
+    old "Ending 07: Lydia"
+    new "Ending 07: Lydia"
+
+
+    old "Ending 07: Lydia & Domina"
+    new "Ending 07: Lydia & Domina"
+
+
+    old "Ending 07: Lydia Gangbang"
+    new "Ending 07: Lydia Gangbang"
+
+
+    old "Ending 07: Public Toilet"
+    new "Ending 07: Public Toilet"
+
+
+    old "Ending 07: Lydia & AmRose"
+    new "Ending 07: Lydia & AmRose"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

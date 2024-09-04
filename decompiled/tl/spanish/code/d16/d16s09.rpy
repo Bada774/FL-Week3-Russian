@@ -183,4 +183,5 @@ translate spanish strings:
 
     old "Go to AmRose's House"
     new "Ir a la casa de AmRose"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

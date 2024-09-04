@@ -819,4 +819,5 @@ translate portuguese strings:
 
     old "In Fetish Locator: S&M Studio!"
     new "No Fetish Locator: S&M Studio!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

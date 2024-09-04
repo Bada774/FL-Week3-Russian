@@ -772,7 +772,7 @@ translate russian d16s08_e14609a8:
 translate russian d16s08_cf7952b1:
 
     # sy "It's not what he did. It's the amount of data obfuscation the app uses, I think."
-    sy "Это не то, что он сделал. Думаю, приложение использует алгоритмы обфускации.\n\n{size=-10}{i}(Обфускация - запутывание данных/кода с целью защиты от посторонних){/i}{/size}"
+    sy "Это не то, что он сделал. Думаю, приложение использует алгоритмы обфускации.\n\n{size=-10}{i}Обфускация - запутывание данных/кода с целью защиты от посторонних.{/i}{/size}"
 
 # game/code/d16/d16s08.rpy:420
 translate russian d16s08_7e913a3a:
@@ -946,7 +946,7 @@ translate russian d16s08_27bf13da:
 translate russian d16s08_bc6983b9:
 
     # mc "Not yet, but hopefully when we get to your house."
-    mc "Пока нет, но надеюсь что буду, когда мы доберёмся до твоего дома.\n\n{size=-10}{i}(ориг. - Are you coming? - игра слов, это можно перевести как \"Ты идёшь?\" и \"Ты кончаешь?\"){/i}{/size}"
+    mc "Пока нет, но надеюсь что буду, когда мы доберёмся до твоего дома.\n\n{size=-10}{i}Ориг. Are you coming? - игра слов, это можно перевести как \"Ты идёшь?\" и \"Ты кончаешь?\".{/i}{/size}"
 
 # game/code/d16/d16s08.rpy:508
 translate russian d16s08_719d7ead:

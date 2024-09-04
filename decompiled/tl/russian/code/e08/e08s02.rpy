@@ -226,7 +226,7 @@ translate russian e08s02_9e365426:
 translate russian e08s02_063d1a03:
 
     # mc "She's on vacation in Japan. She sent me some photos of her on Fuji-san."
-    mc "Она на отдыхе в Японии. Она прислала мне несколько фотографий, где она на Фудзи-сан.\n\n{size=-10}{i}(Фудзи-сан - вулкан Фудзияма){/i}{/size}"
+    mc "Она на отдыхе в Японии. Она прислала мне несколько фотографий, где она на Фудзи-сан.\n\n{size=-10}{i}Фудзи-сан - вулкан Фудзияма.{/i}{/size}"
 
 # game/code/e08/e08s02.rpy:168
 translate russian e08s02_a1326573:
@@ -280,7 +280,7 @@ translate russian e08s02_9654c5dc:
 translate russian e08s02_e334e13f:
 
     # mc "Something like that."
-    mc "Что-то вроде того."
+    mc "Да, что-то вроде того."
 
 # game/code/e08/e08s02.rpy:183
 translate russian e08s02_57bec497:
@@ -292,13 +292,13 @@ translate russian e08s02_57bec497:
 translate russian e08s02_f4e85547:
 
     # arj "I find it better to talk to others too though."
-    arj "Хотя я считаю, что лучше контактировать с людьми."
+    arj "Хотя я считаю, что лучше всё же контактировать с людьми."
 
 # game/code/e08/e08s02.rpy:186
 translate russian e08s02_10a3781b:
 
     # mc "That's one thing I liked about being in college. Just being in proximity with other people, you know? I could walk outside my room and find other people to talk to. And everyone always wanted something."
-    mc "Это единственное, что мне нравилось в учёбе в колледже. Просто находиться рядом с другими людьми, понимаешь? Я мог выйти из своей комнаты и найти людей, с которыми можно поговорить. И каждый всегда чего-то хотел."
+    mc "Единственная вещь, которая мне нравилось во время учёбы в колледже. Просто находиться рядом с другими людьми, понимаешь? Я мог выйти из своей комнаты и найти людей, с которыми можно поговорить. И каждый всегда чего-то хотел."
 
 # game/code/e08/e08s02.rpy:187
 translate russian e08s02_1fe77c46:
@@ -310,7 +310,7 @@ translate russian e08s02_1fe77c46:
 translate russian e08s02_cd8a5d2c:
 
     # arj "You know, I was reading a biography of a band that I like, and in it, the author described how bands on average stay together for about seven to eight years."
-    arj "Знаешь, я читала биографию одной музыкальной группы, которая мне нравится, и в ней автор описал, что группы в среднем существуют около семи-восьми лет."
+    arj "Знаешь, я читала биографию одной музыкальной группы, которая мне нравится, и в ней автор описал, что в среднем, группы существуют около семи-восьми лет."
 
 # game/code/e08/e08s02.rpy:194
 translate russian e08s02_57cd78d4:
@@ -358,7 +358,7 @@ translate russian e08s02_aecca327:
 translate russian e08s02_bab16cbb:
 
     # arj "I'm just wondering if we can beat the odds."
-    arj "Мне просто интересно, сможем ли мы превзойти статистику."
+    arj "Мне просто интересно, сможем ли мы превзойти эту статистику."
 
 # game/code/e08/e08s02.rpy:210
 translate russian e08s02_40a9c3a8:
@@ -388,7 +388,7 @@ translate russian e08s02_0214499b:
 translate russian e08s02_de9794b7:
 
     # mc "Nothing to feel sorry for. Let's clean the nests and then start boarding up the barn, and then we'll take a nice, long bath together, how's that sound?"
-    mc "Не за что извиняться. Давай почистим курятник, начнём забивать сарай, а потом вместе примем приятную и долгую ванну, как тебе идея?"
+    mc "Не за что извиняться. Давай почистим курятник, начнём забивать сарай, а потом вместе примем приятную и долгую ванну, как тебе такая идея?"
 
 # game/code/e08/e08s02.rpy:220
 translate russian e08s02_c7076d0b:
@@ -454,7 +454,7 @@ translate russian e08s02_5e0a4184:
 translate russian e08s02_a013e959:
 
     # mc "AmRose, you know how much I love you, right? You have nothing to be ashamed about, whatever you want to tell me, say it."
-    mc "АмРоуз, ты же знаешь, как сильно я тебя люблю, да? Тебе нечего стыдиться, что бы ты ни хотела мне сказать, скажи это."
+    mc "АмРоуз, ты же знаешь, как сильно я тебя люблю, да? Тебе нечего стыдиться, что бы ты ни хотела мне сказать, просто скажи это."
 
 # game/code/e08/e08s02.rpy:242
 translate russian e08s02_f7d709cd:
@@ -502,7 +502,7 @@ translate russian e08s02_d6bf403a:
 translate russian e08s02_aa854945:
 
     # arj "I do, but right now, I'm just talking about us two."
-    arj "Это так, но сейчас я говорю только о нас двоих."
+    arj "Понравились, но сейчас я говорю только о нас двоих."
 
 # game/code/e08/e08s02.rpy:263
 translate russian e08s02_4ae759af:
@@ -520,7 +520,7 @@ translate russian e08s02_ec39b12f:
 translate russian e08s02_27126c08:
 
     # mct "I know she gave me hints about it..."
-    mct "Я знаю, она намекала мне об этом..."
+    mct "Она мне об этом намекала..."
 
 # game/code/e08/e08s02.rpy:269
 translate russian e08s02_cc8294db:
@@ -562,7 +562,7 @@ translate russian e08s02_791b0620:
 translate russian e08s02_2f009658:
 
     # arj "I mean, that isn't to say that it didn't cause a lot of problems too, but..."
-    arj "Это не значит, что оно не вызвало огромное количество проблем, но..."
+    arj "Это не означает, что это не вызвало огромное количество проблем, но..."
 
 # game/code/e08/e08s02.rpy:285
 translate russian e08s02_9cec55cf:
@@ -586,7 +586,7 @@ translate russian e08s02_d7cc451b:
 translate russian e08s02_816ad4ff:
 
     # mc "Don't blame yourself. I never asked."
-    mc "Не обвиняй себя. Я никогда не спрашивал."
+    mc "Не вини себя. Я никогда не спрашивал."
 
 # game/code/e08/e08s02.rpy:297
 translate russian e08s02_ce9ce4b9:
@@ -622,13 +622,13 @@ translate russian e08s02_3559218c:
 translate russian e08s02_978e76ae:
 
     # mc "We tried everything else."
-    mc "Ну, просто мы уже попробовали всё остальное."
+    mc "Ну, просто всё остальное мы уже пробовали."
 
 # game/code/e08/e08s02.rpy:316
 translate russian e08s02_df663315:
 
     # arj "Wow. You're right. We really did."
-    arj "Вау. Ты прав. Мы действительно всё попробовали."
+    arj "Вау. Ты прав. Мы действительно пробовали всё."
 
 # game/code/e08/e08s02.rpy:319
 translate russian e08s02_9d88f87d:
@@ -676,7 +676,7 @@ translate russian e08s02_f15f0de7:
 translate russian e08s02_scat_70550dc0:
 
     # arj "Remember when we invented a new fetish once? Spinning in the chair?"
-    arj "Помните, мы однажды придумали новый фетиш? Крутящийся стул?"
+    arj "Помнишь, как мы однажды придумали новый фетиш? Крутящийся стул?"
 
 # game/code/e08/e08s02.rpy:341
 translate russian e08s02_scat_d5c941d6:
@@ -688,7 +688,7 @@ translate russian e08s02_scat_d5c941d6:
 translate russian e08s02_scat_c83d126f:
 
     # arj "Anyway, I never discussed my fetishes with anyone. I mean, how could I?"
-    arj "В любом случае, я никогда ни с кем не обсуждала свои фетиши. Как я могла?"
+    arj "В любом случае, я никогда ни с кем не обсуждала свои фетиши. Разве я могла?"
 
 # game/code/e08/e08s02.rpy:345
 translate russian e08s02_scat_e84e62e8:
@@ -706,7 +706,7 @@ translate russian e08s02_scat_e7a99843:
 translate russian e08s02_scat_800a96b0:
 
     # arj "I don't know. Depends on the family, I guess. I can't imagine broaching this topic with anyone. They'd just call me weird."
-    arj "Я не знаю. Зависит от семьи, я думаю. Не могу себе представить, чтобы обсуждать эту тему с кем-либо из семьи. Они бы просто считали меня ужасной."
+    arj "Я не знаю. Зависит от семьи, я думаю. Не могу себе представить, чтобы обсуждать эту тему с кем-либо из семьи. Они бы считали меня ужасной."
 
 # game/code/e08/e08s02.rpy:353
 translate russian e08s02_scat_56aa9ffb:
@@ -748,19 +748,19 @@ translate russian e08s02_scat_567e1fd6:
 translate russian e08s02_scat_fa13fe9a:
 
     # arj "Fetish Locator did really opened me up a lot. Even if I have a more than complicated relationship to it."
-    arj "Должна признать, что Фетиш Локатор многое для меня открыл. Даже если у меня к нему более чем негативное отношение."
+    arj "Должна признать, что Фетиш Локатор многое для меня открыл. Даже несмотря на тот факт, чтоу меня к нему более чем негативное отношение."
 
 # game/code/e08/e08s02.rpy:370
 translate russian e08s02_scat_8662cfc8:
 
     # mc "I don't want to just pepper you with questions."
-    mc "Я просто не хочу забрасывать тебя вопросами."
+    mc "Я просто не хочу закидывать тебя вопросами."
 
 # game/code/e08/e08s02.rpy:372
 translate russian e08s02_scat_0dae6ceb:
 
     # arj "No, it's okay."
-    arj "Нет, это нормально."
+    arj "Ничего, всё нормально."
 
 # game/code/e08/e08s02.rpy:373
 translate russian e08s02_scat_b6f9d3de:
@@ -790,7 +790,7 @@ translate russian e08s02_scat_eacc83c6:
 translate russian e08s02_scat_74d79b06:
 
     # arj "I'm glad you didn't press me on it."
-    arj "Я рада, что ты не давил на меня."
+    arj "Я благодарна, что ты не давил на меня."
 
 # game/code/e08/e08s02.rpy:384
 translate russian e08s02_scat_61625818:
@@ -838,7 +838,7 @@ translate russian e08s02_scat_90c72723:
 translate russian e08s02_scat_b30d3d60:
 
     # mc "So you were blackmailed. That isn't so great."
-    mc "Значит, тебя шантажировали. Не здорово."
+    mc "Получается, тебя шантажировали. Не так уж и здорово."
 
 # game/code/e08/e08s02.rpy:399
 translate russian e08s02_scat_4aa445d5:
@@ -850,7 +850,7 @@ translate russian e08s02_scat_4aa445d5:
 translate russian e08s02_scat_2c502396:
 
     # mc "That's why we're together, right?"
-    mc "Из-за этого ведь мы и вместе, да?"
+    mc "Из-за этого ведь мы и вместе, верно?"
 
 # game/code/e08/e08s02.rpy:405
 translate russian e08s02_scat_f308289e:
@@ -862,13 +862,13 @@ translate russian e08s02_scat_f308289e:
 translate russian e08s02_scat_cd13d502:
 
     # arj "I thought it was innocent enough, I initially started posting images of myself on there."
-    arj "Я думала, что это достаточно невинно, и сначала начала публиковать там свои фотографии."
+    arj "Я думала, что это достаточно невинно, и сначала просто загружала туда свои фотографии."
 
 # game/code/e08/e08s02.rpy:407
 translate russian e08s02_scat_2de7df43:
 
     # arj "I know what you're thinking. I didn't use my real name, I used an alias."
-    arj "Я знаю, о чём ты думаешь. Я не использовала своё настоящее имя, я использовал псевдоним."
+    arj "Я знаю, о чём ты думаешь. Я не использовала своё настоящее имя, у меня был псевдоним."
 
 # game/code/e08/e08s02.rpy:408
 translate russian e08s02_scat_dc8b0ab5:
@@ -898,7 +898,7 @@ translate russian e08s02_scat_2ad228d9:
 translate russian e08s02_scat_ddb74642:
 
     # arj "It was clear if anyone knew about this, it'd be over, but I didn't practice, in Stacy's words, opsec."
-    arj "Было очевидно, что если бы об этом кто-нибудь узнал, то всё было бы кончено, но я не практиковала, если выражаться словами Стейси, \"OpSec\".\n\n{size=-10}{i}(OpSec - Операционная безопасность - определённые алгоритмы, которые предпринимают для предотвращения утечки конфедициальной информации){/i}{/size}"
+    arj "Было очевидно, что если бы об этом кто-нибудь узнал, то всё было бы кончено, но я не практиковала, если выражаться словами Стейси, \"OpSec\".\n\n{size=-10}{i}OpSec - Операционная безопасность - определённые алгоритмы, которые предпринимают для предотвращения утечки конфедициальной информации.{/i}{/size}"
 
 # game/code/e08/e08s02.rpy:417
 translate russian e08s02_scat_32795bff:
@@ -922,7 +922,7 @@ translate russian e08s02_scat_781efbfd:
 translate russian e08s02_scat_7ea69251:
 
     # arj "I suspect it came about when whoever running the server had access to my computer. It was most likely a keylogger logging my passwords and login information."
-    arj "Я подозреваю, что это произошло, когда тот, кто управлял сервером, получил доступ к моему компьютеру. Скорее всего, это был кейлоггер, записывающий мои пароли и данные для авторизации."
+    arj "Я подозреваю, что это произошло, когда тот, кто управлял сервером, получил доступ к моему компьютеру. Скорее всего, это был какой-то кейлоггер, записывающий мои пароли и данные для авторизации."
 
 # game/code/e08/e08s02.rpy:423
 translate russian e08s02_scat_b3a5625f:
@@ -940,13 +940,13 @@ translate russian e08s02_scat_943aa007:
 translate russian e08s02_scat_c1624746:
 
     # arj "You should ask Stacy, she was the one who made it, remember? I guess you didn't really hear about it."
-    arj "Тебе следует спросить об этом Стейси, это ведь она это придумала, помнишь? Хотя, скорее всего, ты тогда нас даже не слушал."
+    arj "Тебе стоит спросить об этом Стейси, это ведь она это придумала, помнишь? Хотя, скорее всего, ты тогда нас даже не слушал."
 
 # game/code/e08/e08s02.rpy:429
 translate russian e08s02_scat_faebe400:
 
     # arj "Long story short, it was the tool which initially allowed us to crack into the FL servers via decryption."
-    arj "Короче говоря, это был инструмент, который позволил нам взломать серверы ФЛ посредством расшифровки."
+    arj "Короче говоря, это та штука, которая позволила нам взломать серверы ФЛ посредством расшифровки."
 
 # game/code/e08/e08s02.rpy:432
 translate russian e08s02_scat_d3240f85:
@@ -970,7 +970,7 @@ translate russian e08s02_scat_58cad028:
 translate russian e08s02_scat_d195930f:
 
     # arj "Depends on the reason, but you're probably right."
-    arj "Зависит от причины, но возможно, ты прав."
+    arj "Зависит от обстоятельств, но возможно, ты прав."
 
 # game/code/e08/e08s02.rpy:438
 translate russian e08s02_scat_aaf1d101:
@@ -988,7 +988,7 @@ translate russian e08s02_scat_dbe5d1c3:
 translate russian e08s02_scat_3bbf764d:
 
     # arj "And like all computers, all data is stored somewhere, and is accessible to someone else, other than yourself."
-    arj "И как и все компьютеры, все данные где-то хранятся и доступны кому-то ещё, кроме тебя."
+    arj "И как и все компьютеры, все данные где-то хранятся и доступны кому-то ещё, помимо тебя."
 
 # game/code/e08/e08s02.rpy:441
 translate russian e08s02_scat_80874ae1:
@@ -1066,19 +1066,19 @@ translate russian e08s02_scat_68842dfd:
 translate russian e08s02_scat_95b24e79:
 
     # arj "So you know."
-    arj "В общем, ты представляешь."
+    arj "В общем, ты представляешь, о чём я."
 
 # game/code/e08/e08s02.rpy:465
 translate russian e08s02_scat_6b54d770:
 
     # arj "If the news ever got out, how would I live with myself?"
-    arj "Если это когда-нибудь станет достоянием общественности, как я буду уживаться с самой собой?"
+    arj "Если это когда-нибудь станет достоянием общественности, как я буду уживаться сама собой?"
 
 # game/code/e08/e08s02.rpy:468
 translate russian e08s02_scat_9f6b4f11:
 
     # arj "My interest in the fetish isn't something I can just talk about with people, right? I mean, I already have difficulty telling you."
-    arj "Мой интерес к фетишам - это не то, что я могу просто обсуждать с людьми, верно? Я даже тебе об этом сказать нормально не могу."
+    arj "Мой интерес к фетишам - это не та тема, которую я могу спокойно обсуждать с людьми. Я даже тебе об этом сказать нормально не могу."
 
 # game/code/e08/e08s02.rpy:469
 translate russian e08s02_scat_a0eedd39:
@@ -1114,7 +1114,7 @@ translate russian e08s02_scat_5d10f88b:
 translate russian e08s02_scat_f60b5d0c:
 
     # mc "Love."
-    mc "Любви."
+    mc "И любви."
 
 # game/code/e08/e08s02.rpy:486
 translate russian e08s02_scat_202703e1:
@@ -1126,7 +1126,7 @@ translate russian e08s02_scat_202703e1:
 translate russian e08s02_scat_d11274f7:
 
     # mc "Sure. Of course I do."
-    mc "Конечно. Конечно, я помню."
+    mc "Конечно. Конечно помню."
 
 # game/code/e08/e08s02.rpy:489
 translate russian e08s02_scat_9d7bd09f:
@@ -1162,19 +1162,19 @@ translate russian e08s02_scat_43cf1376:
 translate russian e08s02_scat_be743df6:
 
     # mc "Just like that?"
-    mc "Просто так?"
+    mc "Вот как?"
 
 # game/code/e08/e08s02.rpy:503
 translate russian e08s02_scat_771c8607:
 
     # arj "Just like that. It was so blatant, pictures of myself being projected back at me on my phone, pictures of myself I had taken in private."
-    arj "Просто так. Это было так ужасно, мои фотографии были прикреплены к тому сообщению, фотографии, которые я делала наедине."
+    arj "Вот так. Это было так ужасно, мои фотографии были прикреплены к тому сообщению, фотографии, которые я делала наедине."
 
 # game/code/e08/e08s02.rpy:504
 translate russian e08s02_scat_3f16eac5:
 
     # arj "I thought about going to the police, telling the principal, telling my parents. Being humiliated and owning it would be better than being the object of this person's whims."
-    arj "Я думала пойти в полицию, рассказать об этом ректору, рассказать родителям. Быть униженной и признать это было бы лучше, чем быть игрушкой в руках этого человека."
+    arj "Я думала пойти в полицию, рассказать об этом ректору, рассказать родителям. Быть униженной и признать это было бы лучше, чем быть игрушкой в руках этих людей."
 
 # game/code/e08/e08s02.rpy:505
 translate russian e08s02_scat_90354454:
@@ -1192,7 +1192,7 @@ translate russian e08s02_scat_2f715c5d:
 translate russian e08s02_scat_c425b006:
 
     # arj "I was frozen in fear. I thought about not going to class that day. Maybe dropping out. I didn't know what to do."
-    arj "Я застыла от страха. В тот день я не хотела идти на занятия. Возможно, бросить учёбу. Я не знала, что делать."
+    arj "Я застыла от страха. Я не хотела идти на занятия. Возможно, бросить учёбу. Я не знала, что делать."
 
 # game/code/e08/e08s02.rpy:512
 translate russian e08s02_scat_1c6a33e2:
@@ -1210,7 +1210,7 @@ translate russian e08s02_scat_99de3d57:
 translate russian e08s02_scat_290494b9:
 
     # mc "I could tell from your eyes."
-    mc "Я мог бы понять это по твоим глазам."
+    mc "Я мог понять это по твоим глазам."
 
 # game/code/e08/e08s02.rpy:516
 translate russian e08s02_scat_3cde36f4:
@@ -1222,7 +1222,7 @@ translate russian e08s02_scat_3cde36f4:
 translate russian e08s02_scat_c5136816:
 
     # mc "I'm glad you did. A shot in the dark."
-    mc "Я рад, что ты это сделала. Это как выстрел в темноте."
+    mc "Я рад, что ты это сделала. Это как выстрел в темноту."
 
 # game/code/e08/e08s02.rpy:520
 translate russian e08s02_scat_c137253f:
@@ -1252,7 +1252,7 @@ translate russian e08s02_scat_b2c6114e:
 translate russian e08s02_scat_c0244305_1:
 
     # mc "You have some idea of what happened, but not the whole story, I bet."
-    mc "Уверен, у тебя естимеете некоторое представление о том, что произошло, но ты не знаешь всю историю."
+    mc "Уверен, у тебя есть некоторое представление о том, что произошло, но ты не знаешь всю историю."
 
 # game/code/e08/e08s02.rpy:534
 translate russian e08s02_scat_71ad12f9:
@@ -1294,13 +1294,13 @@ translate russian e08s02_scat_202703e1_1:
 translate russian e08s02_scat_d11274f7_1:
 
     # mc "Sure. Of course I do."
-    mc "Конечно. Конечно, я помню."
+    mc "Конечно. Конечно помню."
 
 # game/code/e08/e08s02.rpy:547
 translate russian e08s02_scat_3724e1b7:
 
     # arj "That was a week after I was invited to join the VIP program."
-    arj "Это было через неделю после того, как меня пригласили в VIP программу."
+    arj "Это было через неделю после того, как меня пригласили в VIP-программу."
 
 # game/code/e08/e08s02.rpy:548
 translate russian e08s02_scat_a7c62671_1:
@@ -1324,19 +1324,19 @@ translate russian e08s02_scat_1cdbb706:
 translate russian e08s02_scat_79e467f2:
 
     # mc "Were you posting stuff before?"
-    mc "Ты раньше что-то публиковала?"
+    mc "Ты что-то публиковала?"
 
 # game/code/e08/e08s02.rpy:555
 translate russian e08s02_scat_f71247d4:
 
     # arj "Well, you have to, it's invite only."
-    arj "Ну, ты должен был, это только по приглашению."
+    arj "Ну, приходилось, это же только по приглашению."
 
 # game/code/e08/e08s02.rpy:556
 translate russian e08s02_scat_e3f7879e:
 
     # arj "It was like a ladder. The text message said I won the competition, and that I would receive money in my account."
-    arj "Это было похоже на лестницу. В текстовом сообщении говорилось, что я выиграла соревнование и получу деньги на свой счёт."
+    arj "Это было похоже на лестницу. Мне пришло сообщение о том, что я выиграла соревнование и получу деньги на свой счёт."
 
 # game/code/e08/e08s02.rpy:557
 translate russian e08s02_scat_8a5e01f5:
@@ -1354,7 +1354,7 @@ translate russian e08s02_scat_e169a0ab:
 translate russian e08s02_scat_77740644:
 
     # mc "I mean, do you think every prince in Nigeria needs your help getting gold out of the country?"
-    mc "Я имел в виду, ты же не думаешь, что каждому принцу в Нигерии нужна твоя помощь в вывозе своего золота из страны?"
+    mc "Ну ты же не думаешь, что каждому принцу в Нигерии нужна твоя помощь в вывозе своего золота из страны?\n\n{size=-10}{i}Нигерийские письма - популярный ранее вид мошеничества с помощью электронных писем, когда жертва получала письмо с просьбами о помощи в многомиллионных денежных операциях.{/i}{/size}"
 
 # game/code/e08/e08s02.rpy:564
 translate russian e08s02_scat_3ce3a469:
@@ -1366,19 +1366,19 @@ translate russian e08s02_scat_3ce3a469:
 translate russian e08s02_scat_03346523:
 
     # arj "Why did you enter if not for money?"
-    arj "Зачем ты в это втянулся, если не ради денег?"
+    arj "А ты зачем в это втянулся, если не ради денег?"
 
 # game/code/e08/e08s02.rpy:567
 translate russian e08s02_scat_6606ac74:
 
     # mc "I wasn't really thinking about anything long-term. The cash motive was always vague. It was something that was on my mind, but it was something I always understood as out of my reach, if you know what I mean."
-    mc "Я вообще не думал ни о чём долгосрочном. Деньги - всегда были неопределённостью. Я думал об этом, но всегда понимал, что они вне моей досягаемости, если ты понимаете, о чём я."
+    mc "Я вообще не думал ни о чём долгосрочном. Деньги - всегда были под сомнением. Я думал о них, но всегда понимал, что они вне моей досягаемости, если ты понимаешь, о чём я."
 
 # game/code/e08/e08s02.rpy:568
 translate russian e08s02_scat_32c71aa3:
 
     # mc "it was more about the sex for me. You're a lot smarter than me."
-    mc "Для меня это было больше связано с сексом. Ты намного умнее меня."
+    mc "Для меня это больше было связано с сексом. Ты намного умнее меня."
 
 # game/code/e08/e08s02.rpy:569
 translate russian e08s02_scat_f697d76d:
@@ -1396,13 +1396,13 @@ translate russian e08s02_scat_ca8226bd:
 translate russian e08s02_scat_3adb7dde:
 
     # arj "I did end up joining the VIP program, after all."
-    arj "В конце концов, я присоединилась к VIP программе."
+    arj "В конце концов, я присоединилась к VIP-программе."
 
 # game/code/e08/e08s02.rpy:576
 translate russian e08s02_scat_3860565e:
 
     # arj "I was initially a bit suspicious about them having that much information. I mean, granted, it was all public information, but..."
-    arj "Мне изначально казалось странным, что у них есть так много информации. Да, конечно, это была общедоступная информация, но..."
+    arj "Мне изначально это показалось странным, что у них есть так много информации. Да, конечно, это была общедоступная информация, но..."
 
 # game/code/e08/e08s02.rpy:577
 translate russian e08s02_scat_7d0b47a9:
@@ -1414,19 +1414,19 @@ translate russian e08s02_scat_7d0b47a9:
 translate russian e08s02_scat_f589b029:
 
     # mc "That was never explained, was it a promise of bonus money if we found out who ran it?"
-    mc "Кстати, об этом не говорилось, но они обещали бонусные деньги, если мы выясним, кто этим управляет?"
+    mc "Кстати, об этом никогда не говорили, но они обещали бонусные деньги, если мы выясним, кто этим управляет?"
 
 # game/code/e08/e08s02.rpy:582
 translate russian e08s02_scat_2cbea338:
 
     # arj "If you were in the VIP program, it was. If you weren't, I don't think that information would have been disclosed. It was an additional incentive, I suppose. ‘Find out who I am, meet me, and I'll give you more money.' Something like that."
-    arj "Если ты участвовал в VIP программе - обещали. Если нет, не думаю, что эта информация была бы раскрыта. Полагаю, это был дополнительный стимул. \"Узнай, кто я, встреться со мной, и я дам тебе ещё денег\". Что-то вроде того."
+    arj "Если ты участвовал в VIP-программе - обещали. Если нет, не думаю, что эта информация была бы раскрыта. Полагаю, это был дополнительный стимул. \"Узнай, кто я, встреться со мной, и я дам тебе ещё денег\". Что-то вроде того."
 
 # game/code/e08/e08s02.rpy:583
 translate russian e08s02_scat_41b2cc58:
 
     # arj "It was ridiculous when you think about it. But it was presented as like a challenge, like it was someone on the campus."
-    arj "Было смешно, если об этом думать. Но это было своего рода вызовом, как будто это был кто-то из кампуса."
+    arj "Если об этом подумать, то становится смешно. Но это было своего рода вызовом, как будто это был кто-то из кампуса."
 
 # game/code/e08/e08s02.rpy:584
 translate russian e08s02_scat_1ba8cb09:
@@ -1438,7 +1438,7 @@ translate russian e08s02_scat_1ba8cb09:
 translate russian e08s02_scat_b1c97877:
 
     # arj "All too well."
-    arj "Всё слишком хорошо."
+    arj "Всё было слишком хорошо."
 
 # game/code/e08/e08s02.rpy:590
 translate russian e08s02_scat_bf58e106:
@@ -1486,7 +1486,7 @@ translate russian e08s02_scat_c30825b8:
 translate russian e08s02_scat_c5136816_1:
 
     # mc "I'm glad you did. A shot in the dark."
-    mc "Я рад, что ты это сделала. Это как выстрел в темноте."
+    mc "Я рад, что ты это сделала. Это как выстрел в темноту."
 
 # game/code/e08/e08s02.rpy:605
 translate russian e08s02_scat_c137253f_1:
@@ -1534,7 +1534,7 @@ translate russian e08s02_scat_1b591c11:
 translate russian e08s02_scat_0dba24f0:
 
     # arj "Like the actual poop does nothing for me, though I don't mind that either. I'm pretty used to the smell being in the farm and everything."
-    arj "Как бы, настоящие какашки для меня ничего не значат, хоть я и не имею ничего против. Я, вроде как, привыкла к запаху на ферме и всему остальному."
+    arj "Как бы, сами по себе какашки для меня ничего не значат, хоть я и не имею ничего против. Я, вроде как, привыкла к запаху на ферме и всему остальному."
 
 # game/code/e08/e08s02.rpy:620
 translate russian e08s02_scat_2c4f8519:
@@ -1660,7 +1660,7 @@ translate russian e08s02_scat_244ec997:
 translate russian e08s02_scat_af1ba824:
 
     # arj "You're not grossed out or anything?"
-    arj "У тебя это не вызывает отвращения или что-то в этом роде?"
+    arj "Это не вызывает у тебя отвращения или что-то в этом роде?"
 
 # game/code/e08/e08s02.rpy:661
 translate russian e08s02_scat_4b84f340:
@@ -1708,13 +1708,13 @@ translate russian e08s02_scat_9fec3298:
 translate russian e08s02_scat_82a7ddf7:
 
     # arj "You're going to make me cry."
-    arj "Ты заставишь меня расплакаться."
+    arj "Я сейчас заплачу."
 
 # game/code/e08/e08s02.rpy:678
 translate russian e08s02_scat_dfd3c3dc:
 
     # mc "Thank God we have the water hose here, we're going to need it."
-    mc "Слава богу, у нас тут есть шланг, он нам понадобится."
+    mc "Слава Богу, что у нас тут есть шланг, он нам понадобится."
 
 # game/code/e08/e08s02.rpy:680
 translate russian e08s02_scat_f4e1e983:
@@ -1762,7 +1762,7 @@ translate russian e08s02_scat_a6d608d2:
 translate russian e08s02_scat_f740019b:
 
     # mc "Alright, I'll take Remy inside the house, and let the animals roam outside for a bit while we finish up business in here."
-    mc "Ладно, я отведу Реми в дом и выпущу животных немного погулять снаружи, пока мы здесь закончим."
+    mc "Ладно, я отведу Реми в дом и выпущу животных немного погулять снаружи, пока мы закончим со своими делами."
 
 # game/code/e08/e08s02.rpy:696
 translate russian e08s02_scat_56a35b69:
@@ -1780,7 +1780,7 @@ translate russian e08s02_scat_8f25c17b:
 translate russian e08s02_scat_f375b39d:
 
     # mc "So think of what we need to do, while I take of this. Be right back."
-    mc "Так что подумай, что нам нужно сделать, пока я разбираюсь с делами. Скоро вернусь."
+    mc "Так что подумай, что нам потребуется, пока я разбираюсь с делами. Скоро вернусь."
 
 # game/code/e08/e08s02.rpy:706
 translate russian e08s02_scat_1bd6a06c:
@@ -1906,7 +1906,7 @@ translate russian e08s02_sex_47a58dd9:
 translate russian e08s02_sex_18c6e6c5:
 
     # arj "I feel so hot."
-    arj "Я чувствую такое возбуждение."
+    arj "Я так возбуждена."
 
 # game/code/e08/e08s02.rpy:777
 translate russian e08s02_sex_e967d9fb:
@@ -1930,7 +1930,7 @@ translate russian e08s02_sex_e83bd65a:
 translate russian e08s02_sex_4849bab0:
 
     # arj "Since we're not using lube, I have to get this wet so I can stick it in..."
-    arj "Поскольку мы не используем смазку, мне нужно его намочить, чтобы я смогла его вставить..."
+    arj "Поскольку мы не используем смазку, мне нужно его смочить, чтобы я смогла его вставить..."
 
 # game/code/e08/e08s02.rpy:796
 translate russian e08s02_sex_3cd9af0a:
@@ -2014,7 +2014,7 @@ translate russian e08s02_sex_d5a97166:
 translate russian e08s02_sex_cccc2d75:
 
     # arj "*Gasp* Ah..."
-    arj "*вздох* А  х..."
+    arj "*вздох* Ах..."
 
 # game/code/e08/e08s02.rpy:869
 translate russian e08s02_sex_c6c0f725:
@@ -2026,7 +2026,7 @@ translate russian e08s02_sex_c6c0f725:
 translate russian e08s02_sex_646a07c3:
 
     # arj "Ah, but that's dirty."
-    arj "Ах, но там же грязно."
+    arj "Ах, но он же грязный."
 
 # game/code/e08/e08s02.rpy:887
 translate russian e08s02_sex_31823452:
@@ -2290,7 +2290,7 @@ translate russian e08s02_sex_a712ecd9:
 translate russian e08s02_sex_c1812b9f:
 
     # arj "We'll see soon, because you're going to make me cum so hard."
-    arj "Так ты заставишь меня очень сильно кончить."
+    arj "Скоро увидим, потому что ты заставишь меня очень сильно кончить."
 
 # game/code/e08/e08s02.rpy:1119
 translate russian e08s02_sex_74ddfb01:
@@ -2320,7 +2320,7 @@ translate russian e08s02_sex_bffea011:
 translate russian e08s02_sex_aaac2461:
 
     # mc "Now take it up your slutty ass. I want to cum inside and see the fluids mixed up."
-    mc "Прими это в свою распутную задницу. Я хочу кончить внутрь и увидеть, как смешиваются жидкости."
+    mc "Прими это в свою распутную задницу. Я хочу кончить внутрь и увидеть, как смешиваются все жидкости."
 
 # game/code/e08/e08s02.rpy:1138
 translate russian e08s02_sex_8656ba21:

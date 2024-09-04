@@ -64,7 +64,7 @@ translate russian e02s06_edbd18b1:
 translate russian e02s06_cb3e24bc:
 
     # mh "Here you are, Frank. Nothing like a Chateau LaRose after a long day on the slopes."
-    mh "Пожалуйста, Фрэнк. Ничто не сравнится с Шато ЛаРоз после долгого дня на склонах.\n\n{size=-10}{i}(Шато ЛаРоз - вино){/i}{/size}"
+    mh "Пожалуйста, Фрэнк. Ничто не сравнится с Шато ЛаРоз после долгого дня на склонах.\n\n{size=-10}{i}\"Шато ЛаРоз\" - вино.{/i}{/size}"
 
 # game/code/e02/e02s06.rpy:103
 translate russian e02s06_3e64451a:

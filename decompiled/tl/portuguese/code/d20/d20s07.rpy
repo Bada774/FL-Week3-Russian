@@ -1623,4 +1623,5 @@ translate portuguese d20s07_last_show_b9af505f:
 
 
     nk "Você acha que vão fazer isso?"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

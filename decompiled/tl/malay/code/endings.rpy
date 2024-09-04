@@ -111,4 +111,5 @@ translate malay strings:
 
     old "Ending #12\nRedhead Resort"
     new "Ending #12\nRedhead Resort"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

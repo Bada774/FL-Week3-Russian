@@ -64,14 +64,12 @@ label ending_18_return hide:
             $ d18s11_end_quartet = True
             stop sound2 fadeout 3.0
             stop sound fadeout 1.0
-
             jump ending_18
 
         "Runaway with Allison & Vanessa"(hint="d18s11m01c02") if date_awvw is True:
             $ d18s11_end_awvw = True
             stop sound2 fadeout 3.0
             stop sound fadeout 1.0
-
             jump ending_12
 
         "Surprise the Judge at Her House"(hint="d18s11m01c03") if is_extended_edition is True and date_jdg is True:
@@ -80,7 +78,7 @@ label ending_18_return hide:
             stop sound fadeout 1.0
             stop music fadeout 4.0
             jump d18s11b_ext
-        "Get Drunk in the Bar"(hint="d18s11m01c04") if True:
+        "Get Drunk in the Bar"(hint="d18s11m01c04"):
 
             $ d18s11_get_drunk = True
             stop sound2 fadeout 3.0
@@ -117,8 +115,6 @@ label d18s11_bar:
     play voice2 mc_no_uhuh1 noloop
     mc "No keys. I don't drive."
     play sound sfx_bottle_pouring1
-
-
     scene d18s12-20 mc-bar-binge-dialog-bartender_c2 with dissolve
     pause
     scene d18s12-21 mc-bar-binge-dialog-bartender_c4 with dissolve
@@ -248,4 +244,5 @@ label d18s11_bar:
     stop music fadeout 4.0
 
     jump d19s01
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

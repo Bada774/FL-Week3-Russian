@@ -127,14 +127,14 @@ label d15s05:
     play voice3 maria_argh noloop
     mk "It's so much more than that. {w}That's what I want to show you."
     menu:
-        "Leave her alone to her fate"(hint="d15s05m01c01") if True:
+        "Leave her alone to her fate"(hint="d15s05m01c01"):
             $ d15s05_leave = True
             jump d15s05_gtfo
-        "She needs help. I'm getting her out of here"(hint="d15s05m01c02") if True:
+        "She needs help. I'm getting her out of here"(hint="d15s05m01c02"):
 
             $ d15s05_rescue = True
             jump d15s05_help
-        "Alright. I'm happy to watch this"(hint="d15s05m01c03") if True:
+        "Alright. I'm happy to watch this"(hint="d15s05m01c03"):
 
             $ d15s05_points = 12
             jump d15s05_sexmenu
@@ -222,14 +222,11 @@ label d15s05_help:
     play voice2 mc_disgust_meh4 noloop
     mc "Are you ready to go?"
     scene d15s05-17 mc-mk-toilet-help7_c1 with dissolve
-
-
     play voice3 min_happy_mmm noloop
     mk "But there's a cock waiting."
     scene d15s05-16 mc-mk-toilet-help6_c1 with dissolve
     play voice2 mc_arrogant_huh2 noloop
     mc "Let it wait. I don't want you ever coming back here again, understood?"
-
     mct "She needs some tough love."
     mc "Don't forget who owns you, bitch. AmRose & I don't want some fucked up cock slut."
     scene d15s05-17 mc-mk-toilet-help7_c1 with dissolve
@@ -254,7 +251,6 @@ label d15s05_help:
         jump d15s06
 
 label d15s05_sexmenu:
-
 
     $ Lovense.stop()
 
@@ -505,8 +501,6 @@ label d15s05_assfuck:
     play voice2 mc_arrogant_hm1 noloop
     mc "You're talking about anal."
     mk "Please, master. Can I fuck my ass with this stranger's filthy cock?"
-
-
     scene d15s05-28 mc-mk-toilet-pussy-talk3_c3 with dissolve
     play voice2 d9s5_auch2 noloop
     mc "Go ahed, fill your dirtbox with that nasty dick."
@@ -624,7 +618,6 @@ label d15s05_rimmed:
     mk "Why?"
     play voice2 mc_angry_hm1 noloop
     mc "Because I said so."
-
     scene d15s05-42 mc-mk-toilet-rim3_c2
     if cage_ntr is False:
         show d15s05-42-over mc-mk-toilet-rim3_lc_c2
@@ -801,17 +794,6 @@ label d15s05_end:
         stop sound fadeout 1.0
         stop voice3 fadeout 1.0
 
-
-
-
-
-
-
-
-
-
-
-
     $ Lovense.stop()
 
     scene d15s05-52 mc-mk-toilet-exit2_c1 with fade
@@ -908,4 +890,5 @@ label d15s05_end:
         jump d15s05b_ext
     elif True:
         jump d15s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

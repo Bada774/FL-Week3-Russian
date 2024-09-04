@@ -1195,4 +1195,5 @@ translate spanish strings:
 
     old "I'm getting kinda bored of the watersports"
     new "Me estoy aburriendo un poco de los deportes acuáticos."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

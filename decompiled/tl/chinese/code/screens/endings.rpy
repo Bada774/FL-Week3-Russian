@@ -33,4 +33,13 @@ translate chinese strings:
 
     old "Exit to Mainmenu"
     new "退出主菜单"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+translate chinese strings:
+
+
+    old "Download free DLC containing this ending"
+    new "下载包含此结局的免费DLC。"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

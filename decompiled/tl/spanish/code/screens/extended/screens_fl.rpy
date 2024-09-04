@@ -16,11 +16,11 @@ translate spanish strings:
 
 
     old "Hints on"
-    new "Sugerencias\nactivadas"
+    new "Sugerencias activadas"
 
 
     old "Hints off"
-    new "Sugerencias\ndesactivadas"
+    new "Sugerencias desactivadas"
 
 
     old "Page [page]"
@@ -37,4 +37,5 @@ translate spanish strings:
 
     old "Coming Soon"
     new "Próximamente"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

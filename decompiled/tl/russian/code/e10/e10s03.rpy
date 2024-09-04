@@ -40,13 +40,13 @@ translate russian e10s03_b2b9e19d:
 translate russian e10s03_9e5ad24c:
 
     # mes "It means it's all a ploy to keep up appearances to the outside world."
-    mes "Это означает, что всё это всего лишь хитрость, чтобы сохранить имидж перед внешним миром."
+    mes "Это означает, что всё это всего лишь уловка, чтобы сохранить имидж перед внешним миром."
 
 # game/code/e10/e10s03.rpy:42
 translate russian e10s03_3c0c0f5d:
 
     # mes "My comfort is just a nice little bonus."
-    mes "Мой комфорт - всего лишь приятный маленький бонус."
+    mes "Мой комфорт - всего лишь маленький приятный бонус."
 
 # game/code/e10/e10s03.rpy:46
 translate russian e10s03_297d66b0:
@@ -112,7 +112,7 @@ translate russian e10s03_24a8e19d:
 translate russian e10s03_3148def7:
 
     # mc "Of course! Where else would I go?"
-    mc "Конечно!"
+    mc "Конечно! Чего мне ещё хотеть?"
 
 # game/code/e10/e10s03.rpy:77
 translate russian e10s03_24095088:
@@ -136,7 +136,7 @@ translate russian e10s03_f6bf2850:
 translate russian e10s03_232ca5cc:
 
     # mc "Now what do you say we go put that comfy couch to some use?"
-    mc "А теперь, что ты скажешь, если мы найдём применение этому удобному дивану?"
+    mc "А теперь, что ты скажешь на то, если мы поищем применение этому удобному дивану?"
 
 # game/code/e10/e10s03.rpy:87
 translate russian e10s03_76d81018:
@@ -280,7 +280,7 @@ translate russian e10s03_73bdd3cc:
 translate russian e10s03_c3949d9f:
 
     # mes "Worse. I was basically paraded around the company and introduced to people."
-    mes "Хуже. Меня водили почти по всей компании и знакомили с людьми."
+    mes "Хуже. Меня водили по всей компании и знакомили с людьми."
 
 # game/code/e10/e10s03.rpy:193
 translate russian e10s03_b0a496bf:
@@ -316,7 +316,7 @@ translate russian e10s03_62bf1979:
 translate russian e10s03_d472ee2d:
 
     # mes "No, it's okay. I had dinner with dad and some of the board members."
-    mes "Нет, всё нормально. Я уже поужинала с отцом и некоторыми членами правления."
+    mes "Нет, всё нормально. Я уже поужинала с отцом и некоторыми членами совета директоров."
 
 # game/code/e10/e10s03.rpy:212
 translate russian e10s03_749b0df9:
@@ -382,13 +382,13 @@ translate russian e10s03_motage_end_f20be193:
 translate russian e10s03_motage_end_087444d0:
 
     # mc "From this existence where we watch idly as life drifts away. This life where we barely touch each other anymore."
-    mc "От этого существования, где мы праздно наблюдаем, как уходит наша жизнь. Жжизнь, в которой мы больше почти не прикасаемся друг к другу."
+    mc "От этого существования, где мы безучастно наблюдаем, как проходит наша жизнь. Жизнь, в которой мы больше почти не прикасаемся друг к другу."
 
 # game/code/e10/e10s03.rpy:447
 translate russian e10s03_motage_end_ce24f3e9:
 
     # mes "And how exactly do you intend to \"save us\" from this?"
-    mes "И как именно тв собираешься нас от этого \"спасти\"?"
+    mes "И как именно ты собираешься \"спасти\" нас от этого?"
 
 # game/code/e10/e10s03.rpy:450
 translate russian e10s03_motage_end_e6161be7:
@@ -454,7 +454,7 @@ translate russian e10s03_motage_end_dc26e23e:
 translate russian e10s03_motage_end_c41ffd82:
 
     # mc "Anyway. I know that this is what you want to do, and after having looked into it, I find it really interesting as well!"
-    mc "В любом случае. Я знаю, что это то, чем ты хочешь заняться, и после некоторого изучения этого вопроса, я тоже нахожу это действительно интересным!"
+    mc "В любом случае. Я знаю, что это то, чем ты хочешь заниматься, и после некоторого изучения этого вопроса, я тоже нахожу это действительно интересным!"
 
 # game/code/e10/e10s03.rpy:475
 translate russian e10s03_motage_end_2a3fdf7e:
@@ -496,7 +496,7 @@ translate russian e10s03_motage_end_7189925e:
 translate russian e10s03_motage_end_b27675ec:
 
     # mc "Min, I know you're not satisfied with this life either. You can do so much more than this. {i}Achieve{/i} so much more."
-    mc "Мин, я знаю, что тебя тоже не удовлетворяет такая жизнь. Ты можшье сделать гораздо больше. {i}Достичь{/i} гораздо большего."
+    mc "Мин, я знаю, что тебя тоже не удовлетворяет такая жизнь. Ты можешь сделать гораздо больше. {i}Достичь{/i} гораздо большего."
 
 # game/code/e10/e10s03.rpy:492
 translate russian e10s03_motage_end_80447ba0:

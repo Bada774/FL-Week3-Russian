@@ -113,7 +113,6 @@ label d18s09:
     play voice3 claudie_scared_oof noloop
     play sound sfx_bed_fall1
 
-
     $ Lovense.stop()
 
     scene d18s09-12 mc-hr-cf-look_c1 with hpunch
@@ -264,11 +263,11 @@ label d18s09:
     play voice3 claudie_sex_openmoan5 noloop
     cf "Please don't stop. I haven't come yet.{w} Please keep fucking me!"
     menu:
-        "Keep Fucking"(hint="d18s09m01c01") if True:
+        "Keep Fucking"(hint="d18s09m01c01"):
             $ d18s09_cf_cum = True
 
             jump d18s09_continue
-        "Leave Her Wanting More"(hint="d18s09m01c02") if True:
+        "Leave Her Wanting More"(hint="d18s09m01c02"):
 
             jump d18s09_stop
 
@@ -428,7 +427,6 @@ label d18s09_continue:
     mc "I should dress up."
     cf "Yeah."
 
-
     $ Lovense.stop()
 
     scene d18s09-27 cf-speak1_c1 with dissolve
@@ -551,7 +549,6 @@ label d18s09_stop:
     mc "Oh my - is that the time?"
     scene d18s09-41 cf-out-fast1_c1 with fade
 
-
     $ Lovense.stop()
 
     play voice2 d1s5b_emmm noloop
@@ -581,4 +578,5 @@ label d18s09_stop:
 
     stop music fadeout 3.5
     jump d18s10
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

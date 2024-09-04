@@ -34,3 +34,11 @@ translate russian strings:
     old "Exit to Mainmenu"
     new "Выйти в Главное Меню"
 
+# TODO: Translation updated at 2024-02-23 00:11
+
+translate russian strings:
+
+    # game/code/screens/endings.rpy:66
+    old "Download free DLC containing this ending"
+    new "Загрузите бесплатное DLC, содержащее эту концовку"
+

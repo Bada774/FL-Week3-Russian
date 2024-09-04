@@ -52,7 +52,7 @@ translate russian strings:
 
     # game/code/endings.rpy:94
     old "Ending #7\nA New Chair"
-    new "Концовка #07\nНовый стул"
+    new "Концовка #07\nНовое Кресло"
 
     # game/code/endings.rpy:124
     old "Ending #09\nFetish Locator: Rebooted"

@@ -4,359 +4,360 @@
 translate deutsch e10s06_4379716e:
 
 
-    mc "C'mon, just a little more..."
+    mc "Komm schon, noch ein bisschen..."
 
 
 translate deutsch e10s06_7d3f3bd6:
 
 
-    mc "Is that thing right?"
+    mc "Ist das Ding richtig?"
 
 
 translate deutsch e10s06_afeef655:
 
 
-    mc "{b}FUCK YEAH!!!{/b}"
+    mc "{b}VERDAMMT JA!!!{/b}"
 
 
 translate deutsch e10s06_b19d44e8:
 
 
-    mc "We did it."
+    mc "Wir haben es geschafft."
 
 
 translate deutsch e10s06_c9fe0ac3:
 
 
-    mes "We did."
+    mes "Das haben wir."
 
 
 translate deutsch e10s06_8fa23e95:
 
 
-    mes "Oh my god, [mcname]. Did we really have to do the party hats?"
+    mes "Oh mein Gott, [mcname]. Mussten wir wirklich die Partyhüte nehmen?"
 
 
 translate deutsch e10s06_7c6336c5:
 
 
-    mc "C'mon, it adds to the celebratory spirit!"
+    mc "Komm schon, es trägt zur festlichen Stimmung bei!"
 
 
 translate deutsch e10s06_39b8f855:
 
 
-    ns "Here you go, Sir."
+    ns "Hier, bitte, Sir."
 
 
 translate deutsch e10s06_51f02fe4:
 
 
-    mc "Thank you, Nari."
+    mc "Danke, Nari."
 
 
 translate deutsch e10s06_369c660c:
 
 
-    "Employees" "Speech! Speech! Speech!"
+    "Angestellte" "Rede! Rede! Rede!"
 
 
 translate deutsch e10s06_a727b3a6:
 
 
-    mc "Alright, alright, calm down."
+    mc "Schon gut, schon gut, beruhigt euch."
 
 
 translate deutsch e10s06_97436d37:
 
 
-    mc "I guess we should start saying \"15th time's the charm\", huh?"
+    mc "Ich nehme an, wir sollten anfangen zu sagen, \"Aller guten Dinge sind 15, was?\""
 
 
 translate deutsch e10s06_59a940a3:
 
 
-    mc "15 iterations. It took us 15 iterations of our algorithm to get to this..."
+    mc "15 Durchläufe. Es hat uns 15 Durchläufe unseres Algorithmus gebraucht, um hierher zu kommen..."
 
 
 translate deutsch e10s06_0aa35eef:
 
 
-    mc "Monumental milestone. Our first hundred thousand dollars earned."
+    mc "Ein Monumentaler Meilenstein. Unsere ersten hunderttausend verdienten Dollar."
 
 
 translate deutsch e10s06_f6cdd05c:
 
 
-    mc "From our humble beginnings with Me, Min and Nari, to where we are now."
+    mc "Von unseren bescheidenen Anfängen mit mir, Min und Nari bis zu dem Punkt, an dem wir jetzt sind."
 
 
 translate deutsch e10s06_a17d7888:
 
 
-    mc "It almost feels like a dream."
+    mc "Es fühlt sich fast an wie ein Traum."
 
 
 translate deutsch e10s06_c9b249f9:
 
 
-    mc "I know that we have a couple perfectionists in here that might be beating themselves up a bit over how it took us 15 iterations to get here."
+    mc "Ich weiß, dass wir hier ein paar Perfektionisten haben, die sich vielleicht ein wenig darüber ärgern, dass es 15 Durchläufe gebraucht hat, um hierher zu kommen."
 
 
 translate deutsch e10s06_2e69b944:
 
 
-    mc "But I want to stress how proud I am of each and every one of you. It's not about how fast we did it, it's about how well we did it."
+    mc "Aber ich möchte betonen, wie stolz ich auf jeden von euch bin. Es geht nicht darum, wie schnell wir es geschafft haben, sondern darum, wie gut wir es gemacht haben."
 
 
 translate deutsch e10s06_58fef226:
 
 
-    mc "And by God, we fucking did it well."
+    mc "Und verdammt, wir haben es richtig gut gemacht."
 
 
 translate deutsch e10s06_8378bd7b:
 
 
-    mc "And we wouldn't have been able to do any of it without my amazing partner."
+    mc "Und wir hätten das alles nicht ohne meine fantastische Partnerin schaffen können."
 
 
 translate deutsch e10s06_62777011:
 
 
-    mc "Her tenacity, her will, and her vision is what lead us to where we are today."
+    mc "Ihre Beharrlichkeit, ihr Wille und ihre Vision haben uns dahin geführt, wo wir heute sind."
 
 
 translate deutsch e10s06_76e88dd8:
 
 
-    mc "And so, I want to take the opportunity to ask you. To make one final request."
+    mc "Und so möchte ich die Gelegenheit nutzen, um dich zu fragen. Um eine letzte Bitte zu äußern."
 
 
 translate deutsch e10s06_f63474b4:
 
 
-    mc "Come work with me, Min."
+    mc "Komm, arbeite mit mir, Min."
 
 
 translate deutsch e10s06_e4e42ce0:
 
 
-    mes "{size=20}You're unbelievable.{/size}"
+    mes "{size=20}Du bist unglaublich.{/size}"
 
 
 translate deutsch e10s06_af0d69f2:
 
 
-    mc "Oh? What was that? Was that a yes I heard?"
+    mc "Oh? Was war das? Habe ich da ein Ja gehört?"
 
 
 translate deutsch e10s06_fdcf3625:
 
 
-    mes "Yes."
+    mes "Ja."
 
 
 translate deutsch e10s06_f63b6987:
 
 
-    mes "*Yelps* Put me down!"
+    mes "*Quiekt* Setz mich runter!"
 
 
 translate deutsch e10s06_15093f6b:
 
 
-    mes "I've been planning this for a while anyway, so I guess this can double as my inaugural announcement."
+    mes "Das habe ich sowieso schon eine Weile geplant, also denke ich, dass dies auch als meine offizielle Ankündigung dienen kann."
 
 
 translate deutsch e10s06_e7c1dabb:
 
 
-    mc "See? Already thinking up new ways to be more efficient. This is why she'll be a great CEO."
+    mc "Siehst du? Denkt schon an neue Möglichkeiten, effizienter zu sein. Das ist der Grund, warum sie eine großartige Geschäftsführerin sein wird."
 
 
 translate deutsch e10s06_0c64ce23:
 
 
-    mes "{i}Anyway.{/i} As [mcname] said, I'm proud of the work we've done here as well."
+    mes "{i}Jedenfalls.{/i} Wie [mcname] gesagt hat, bin ich stolz auf die Arbeit, die wir hier geleistet haben."
 
 
 translate deutsch e10s06_d63236db:
 
 
-    mes "We're created an exceptional team and I'm absolutely confident that we can accomplish every single task we set our minds to."
+    mes "Wir haben ein außergewöhnliches Team geschaffen, und ich bin absolut zuversichtlich, dass wir jede einzelne Aufgabe, die wir uns vorgenommen haben, bewältigen können."
 
 
 translate deutsch e10s06_6a1fc6a9:
 
 
-    mes "And beyond that, I'm excited to finally leave my father's company to work with people that I truly believe in."
+    mes "Und darüber hinaus freue ich mich darauf, endlich das Unternehmen meines Vaters zu verlassen, um mit Menschen zu arbeiten, an die ich wirklich glaube."
 
 
 translate deutsch e10s06_e60b1f3d:
 
 
-    mc "You're gonna be a great CEO."
+    mc "Du wirst eine großartige Geschäftsführerin sein."
 
 
 translate deutsch e10s06_4b6481a6:
 
 
-    mes "I know I'll be. But what will {i}you{/i} be?"
+    mes "Das weiß ich. Aber was wirst {i}du{/i} sein?"
 
 
 translate deutsch e10s06_ebd9e565:
 
 
-    mc "I was thinking...CMO. I'm much better at marketing and finagling the investors anyway."
+    mc "Ich habe da an... CMO gedacht. Ich bin sowieso viel besser im Marketing und im Umgang mit den Investoren."
 
 
 translate deutsch e10s06_dda8237d:
 
 
-    mes "Implying that I'm not good at marketing and finagling?"
+    mes "Du willst damit sagen, dass ich nicht gut im Marketing und im Umgang mit Investoren bin?"
 
 
 translate deutsch e10s06_1335e325:
 
 
-    mc "I love you, Min."
+    mc "Ich liebe dich, Min."
 
 
 translate deutsch e10s06_13e02b9e:
 
 
-    mes "I love you too."
+    mes "Ich liebe dich auch."
 
 
 translate deutsch e10s06_70ed879f:
 
 
-    mes "You uhm... Wanna go into your office and \"talk\" over the details of the contract?"
+    mes "Du ähm... Willst du in dein Büro gehen und die Details des Vertrags \"besprechen\"?"
 
 
 translate deutsch e10s06_d1e7f03e:
 
 
-    mc "Oh, {i}oh{/i}. Absolutely."
+    mc "Oh, {i}oh{/i}. Auf jeden Fall."
 
 
 translate deutsch e10s06_acf5d3bc:
 
 
-    mc "Wait, hold up."
+    mc "Warte, halt mal."
 
 
 translate deutsch e10s06_797d6ff9:
 
 
-    mc "Gotta have some noise to drown out any...\"heated conversations.\""
+    mc "Wir brauchen etwas Lärm haben, um... \"hitzige Gespräche\" zu übertönen."
 
 
 translate deutsch e10s06_e27f27ff:
 
 
-    mes "*Giggles* Right, right. Good idea."
+    mes "*Kichert* Richtig richtig. Gute Idee."
 
 
 translate deutsch e10s06_after_video_12a28887:
 
 
-    mes "Yes, yes yes! Fuck you're hitting me so deep right now, God. Harder!"
+    mes "Ja ja ja! Fuck, du triffst mich gerade so tief, Gott. Härter!"
 
 
 translate deutsch e10s06_after_video_c84da6ed:
 
 
-    mc "Yeah, you like that? Getting fucked like a slut, while all your employees are just outside."
+    mc "Ja, gefällt dir das? Du wirst wie eine Schlampe gefickt, während alle deine Angestellten draußen sind."
 
 
 translate deutsch e10s06_after_video_9a986de8:
 
 
-    mes "Yes! God, yes, it feels so good. You feel so good, [mcname]."
+    mes "Ja! Gott, ja, es fühlt sich so gut an. Du fühlst dich so gut an, [mcname]."
 
 
 translate deutsch e10s06_after_video_5e76f8a7:
 
 
-    ns "Sir? {size=20}Master?{/size}"
+    ns "Sir? {size=20}Meister?{/size}"
 
 
 translate deutsch e10s06_after_video_03d1e965:
 
 
-    mc "Yes, Nari?"
+    mc "Ja, Nari?"
 
 
 translate deutsch e10s06_after_video_5b1f9315:
 
 
-    ns "I have some documents I need you to look over, Sir."
+    ns "Ich habe einige Dokumente, die du dir ansehen müsstest."
 
 
 translate deutsch e10s06_after_video_c47a7964:
 
 
-    ns "May I...come in?"
+    ns "Darf ich... rein kommen?"
 
 
 translate deutsch e10s06_after_video_038406df:
 
 
-    mes "Not— *Strangled moans* Not right now, Nari."
+    mes "Nicht— *Ersticktes Stöhnen* Nicht jetzt, Nari."
 
 
 translate deutsch e10s06_after_video_4dc4249d:
 
 
-    mes "We can all three {i}talk{/i} later. He's mine right now."
+    mes "Wir können alle drei später {i}reden{/i}. Er gehört jetzt mir."
 
 
 translate deutsch e10s06_after_video_3971976f:
 
 
-    ns "Yes, {size=20}Mistress.{/size}"
+    ns "Ja, {size=20}Herrin.{/size}"
 
 
 translate deutsch e10s06_after_video_27cb68ee:
 
 
-    mc "*Chuckles* I love it when you act possessive."
+    mc "*Kichert* Ich liebe es, wenn du dich besitzergreifend gibst."
 
 
 translate deutsch e10s06_after_video_318fa452:
 
 
-    mes "I'm not acting."
+    mes "Ich schauspielere nicht."
 
 
 translate deutsch e10s06_after_video_d170b01b:
 
 
-    mes "Cum inside of me, [mcname]. I want to feel your cum dripping out of me while we walk home tonight."
+    mes "Komm in mir, [mcname]. Ich möchte spüren, wie dein Sperma aus mir heraustropft, während wir heute Abend nach Hause gehen."
 
 
 translate deutsch e10s06_after_video_152140b4:
 
 
-    mes "I want to feel you fill me up."
+    mes "Ich möchte spüren, wie du mich ausfüllst."
 
 
 translate deutsch e10s06_after_video_af0d1b57:
 
 
-    mc "Beg for it."
+    mc "Bitte darum."
 
 
 translate deutsch e10s06_after_video_0b338e9a:
 
 
-    mes "{i}Please.{/i} {i}{b}Please.{/b}{/i}"
+    mes "{i}Bitte.{/i} {i}{b}Bitte.{/b}{/i}"
 
 translate deutsch strings:
 
 
     old "Few months later"
-    new "Few months later"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Wenige Monate später"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

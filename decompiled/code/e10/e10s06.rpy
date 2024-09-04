@@ -312,7 +312,6 @@ label e10s06_after_video:
     queue sound3 dahlia_kiss_french1 noloop
     queue voice3 min_happy_mmm noloop
 
-
     $ Lovense.stop()
 
     if cage_ntr is True:
@@ -547,7 +546,6 @@ label e10s06_after_video:
     scene e10s06-78 cum-dripping-from-mes-pussy_c1 with dissolve
     pause
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -555,4 +553,5 @@ label e10s06_after_video:
 
     stop music fadeout 4.5
     jump e10s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

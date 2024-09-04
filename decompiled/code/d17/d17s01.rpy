@@ -197,7 +197,6 @@ label d17s01:
     play voice4 dahlia_happy_hmm2 noloop
     lc "The challenge. Cynthia and Min keep me on my toes. Min is excellent at everything she tries, so we compete."
     lc "Cynthia knows she can't beat either of us straight up, so she's clever and tricky."
-
     lc "Cynthia will do anything she can to try to keep up with us. Sometimes she even wins."
     scene d17s01-22 mc-arj-lc-girls-talking_c2 with fade
     play voice3 amrose_arrogant_huh2 noloop
@@ -427,7 +426,6 @@ label d17s01:
     play voice3 amrose_yes_yap noloop
     arj "Yeah, it is."
 
-
     $ Lovense.stop()
 
 label replay_d17s01:
@@ -480,7 +478,7 @@ label d17s01_ntr:
         play voice4 lydia_uhuh noloop
         lc "Not on the menu, I'm afraid."
     menu:
-        "Fuck AmRose's Ass"(hint="d17s01m01c01") if True:
+        "Fuck AmRose's Ass"(hint="d17s01m01c01"):
 
             $ d17s01_arj_assfuck = True
 
@@ -493,7 +491,7 @@ label d17s01_ntr:
             scene d17s01-66 mc-arj-lc-mc-asking-permission_c1 with dissolve
             play voice2 mc_arrogant_hm1 noloop
             mc "Mind if I jerk off meanwhile?"
-        "Decline"(hint="d17s01m01c02") if True:
+        "Decline"(hint="d17s01m01c02"):
 
 
             $ d17s01_points = 3
@@ -855,9 +853,6 @@ label d17s01_anal_sex:
         arj "Tell me, please"
         mc "I fucking love it."
         pause
-
-
-
         scene d17s01-a14-f with dissolve
         mc "It feels like it was made for my pleasure!"
         arj "FUCK YES!{w} Ravage my little starfish!"
@@ -960,7 +955,6 @@ label d17s01_end:
 
     $ renpy.music.set_volume(0.2, 3.0, "music")
     play sound ["<silence 0.5>", sfx_jeans_on1]
-
 
     $ Lovense.stop()
 
@@ -1080,4 +1074,5 @@ label d17s01_end:
     stop music fadeout 3.0
 
     jump d17s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

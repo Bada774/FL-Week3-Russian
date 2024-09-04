@@ -19,12 +19,12 @@ translate turkish strings:
     new "Yeni bir bonus içeriğin kilidini açtınız"
 
 
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "Oyun sahneyi\nvarsayılan oynatmaya göre yeniden oynayacak"
+    old "The game will replay the scene according to a default playthrough"
+    new "Oyun sahneyi varsayılan oynatmaya göre yeniden oynayacak"
 
 
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "Oyun, mevcut oynayışınıza göre\nsahneyi yeniden oynatmaya çalışacak"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "Oyun, mevcut oynayışınıza göre sahneyi yeniden oynatmaya çalışacak"
 
 
     old "You can only select two out of Min, Lyssa and Maria"
@@ -33,4 +33,5 @@ translate turkish strings:
 
     old "You can only select one out of Daisy and Dahlia"
     new "Daisy ve Dahlia'dan sadece birini seçebilirsiniz"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

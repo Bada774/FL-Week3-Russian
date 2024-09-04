@@ -245,22 +245,22 @@ label replay_d18s10:
     scene black with dissolve
     menu:
         "What is your darkest fantasy about Lydia?"
-        "Want to Cum in Lydia's Pussy"(hint="d16s03m04c01") if True:
+        "Want to Cum in Lydia's Pussy"(hint="d16s03m04c01"):
             $ d16s03_darkest_fantasy = "creampie"
             pass
-        "Want to Fuck Lydia's Ass"(hint="d16s03m04c02") if True:
+        "Want to Fuck Lydia's Ass"(hint="d16s03m04c02"):
             $ d16s03_darkest_fantasy = "anal"
             pass
-        "Want to Piss on & in Lydia"(hint="d16s03m04c03") if True:
+        "Want to Piss on & in Lydia"(hint="d16s03m04c03"):
             $ d16s03_darkest_fantasy = "pissonher"
             pass
-        "Want to Gag, Choke, and Deepthroat Lydia"(hint="d16s03m04c04") if True:
+        "Want to Gag, Choke, and Deepthroat Lydia"(hint="d16s03m04c04"):
             $ d16s03_darkest_fantasy = "gagging"
             pass
-        "Want to Bind and Dominate Lydia"(hint="d16s03m04c05") if True:
+        "Want to Bind and Dominate Lydia"(hint="d16s03m04c05"):
             $ d16s03_darkest_fantasy = "bdsm"
             pass
-        "Just Sex, a lot of Sex"(hint="d16s03m04c06") if True:
+        "Just Sex, a lot of Sex"(hint="d16s03m04c06"):
             $ d16s03_darkest_fantasy = None
             pass
 
@@ -312,7 +312,6 @@ label d18s10_open_door:
         $ renpy.music.set_volume(0.6, 0.0, "music")
         play music [music_final_reveal_drop, music_final_reveal]
         queue music music_final_reveal
-
 
         $ Lovense.stop()
 
@@ -809,7 +808,6 @@ label d18s10_end:
     elif True:
         play voice2 d3s7_mcemm noloop volume 2.5
 
-
         $ Lovense.stop()
 
         scene d18s10-21-07 mc-shocked-lc-fucks-pb_c1 with dissolve
@@ -852,4 +850,5 @@ label d18s10_end:
     stop music fadeout 4.5
 
     jump d18s11
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

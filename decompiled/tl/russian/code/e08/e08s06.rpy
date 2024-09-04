@@ -64,7 +64,7 @@ translate russian e08s06_473f6d41:
 translate russian e08s06_82d92223:
 
     # arj "You boys work too fast. I was just giving Ashley all my links for study guides for their college courses."
-    arj "Что-то вы ребята слишком быстро работаете. Я только что закончила давать Эшли все свои ссылки на учебные пособия для курсов в колледже."
+    arj "Что-то вы ребята слишком быстро работаете. Я только закончила давать Эшли все свои ссылки на учебные пособия для курсов в колледже."
 
 # game/code/e08/e08s06.rpy:106
 translate russian e08s06_8ba6c6b8:
@@ -94,7 +94,7 @@ translate russian e08s06_f30f4993:
 translate russian e08s06_0ba247b3:
 
     # ac "You're so sweet, AmRose. No rush, I'm sure we can manage somehow."
-    ac "АмРоуз, ты такая милая. Не торопись, я уверена, мы как-нибудь справимся."
+    ac "АмРоуз, ты такая милая. Не беспокойся, я уверена, мы как-нибудь справимся."
 
 # game/code/e08/e08s06.rpy:117
 translate russian e08s06_e6c9aa82:
@@ -262,7 +262,7 @@ translate russian e08s06_home_alone_ed52d7fd:
 translate russian e08s06_home_alone_18e41d90:
 
     # arj "We've gotten invites to two barn-raisings, a christening and the open-mic night."
-    arj "Нас пригласили на две стройки сарая, на крестины и на вечер открытого микрофона.\n\n{size=-10}{i}(В строительстве сараев принимает участие вся община - своего рода, жест поддержки и принятия){/i}{/size}"
+    arj "Нас пригласили на две стройки сарая, на крестины и на вечер открытого микрофона.\n\n{size=-10}{i}В строительстве сараев принимает участие вся община - своего рода, жест поддержки и принятия.{/i}{/size}"
 
 # game/code/e08/e08s06.rpy:240
 translate russian e08s06_home_alone_e3f2d36b:
@@ -274,7 +274,7 @@ translate russian e08s06_home_alone_e3f2d36b:
 translate russian e08s06_home_alone_23462a37:
 
     # arj "Yup. I guess they fix up the farm on Thursdays and turn it into something like the 'Chuckle Barn'."
-    arj "Ага. Полагаю, по четвергам они переоборудуют ферму и превращают её во что-то вроде \"Амбара Смеха\".\n\n{size=-10}{i}(Амбар Смеха - стендап клуб из канадской комедии \"Заправка на углу\"){/i}{/size}"
+    arj "Ага. Полагаю, по четвергам они переоборудуют ферму и превращают её во что-то вроде \"Амбара Смеха\".\n\n{size=-10}{i}Амбар Смеха - стендап клуб из канадской комедии \"Заправка на углу\".{/i}{/size}"
 
 # game/code/e08/e08s06.rpy:246
 translate russian e08s06_home_alone_b85746b1:
@@ -358,7 +358,7 @@ translate russian e08s06_home_alone_be31a9f3:
 translate russian e08s06_home_alone_45622b03:
 
     # arj "You are my rock, since that day at the beach, and through the tornado... and whatever comes next."
-    arj "Ты моя опора с того дня на пляже, и даже торнадо... или что бы ни случилось дальше."
+    arj "Ты моя опора с того дня на пляже, и даже через торнадо... или что бы ни случилось дальше."
 
 # game/code/e08/e08s06.rpy:300
 translate russian e08s06_home_alone_5f9eb387:
@@ -526,7 +526,7 @@ translate russian e08s06_sex_47f537be:
 translate russian e08s06_sex_6938f6ef:
 
     # arj "Of course I do. But... I decided I wanted a baby with you after the tornado..."
-    arj "Конечно они мне нравятся. Но... после торнадо я решила, что хочу от тебя ребенка..."
+    arj "Конечно, они мне нравятся. Но... после торнадо я решила, что хочу от тебя ребёнка..."
 
 # game/code/e08/e08s06.rpy:474
 translate russian e08s06_sex_bf32719e:
@@ -550,7 +550,7 @@ translate russian e08s06_sex_8310b45b:
 translate russian e08s06_sex_5e0a434a:
 
     # arj "Mmmhmm. Nope. Until I'm pregnant, you have free reign."
-    arj "Мммхмм. Не-а. Пока я не забеременела, у тебя полная свобода действий."
+    arj "Мммхмм. Неа. Пока я не забеременела, у тебя полная свобода действий."
 
 # game/code/e08/e08s06.rpy:482
 translate russian e08s06_sex_cce621b4:

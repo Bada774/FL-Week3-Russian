@@ -184,7 +184,7 @@ translate russian d17s06dw_71fa3616:
 translate russian d17s06dw_06ba8908:
 
     # sb "*sarcastically* Oh good, my way. Thank you Vizzini. {w}Which way is my way?"
-    sb "*саркастически* Ох хорошо, своим способом. Спасибо, Виззини. {w}А какой способ - мой способ?\n\n{size=-10}{i}(отслыка к фильму \"Принцесса-невеста\"){/i}{/size}"
+    sb "*саркастически* Ох хорошо, своим способом. Спасибо, Виззини. {w}А какой способ - мой способ?\n\n{size=-10}{i}Отсылка к фильму \"Принцесса-невеста\".{/i}{/size}"
 
 # game/code/d17/d17s06dw.rpy:157
 translate russian d17s06dw_2464f166:

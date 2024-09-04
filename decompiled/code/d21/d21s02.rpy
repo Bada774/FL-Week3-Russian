@@ -110,12 +110,12 @@ label d21s02:
         sy "Fine..."
     elif True:
         menu:
-            "Select AmRose"(hint="d21s02m01c01") if True:
+            "Select AmRose"(hint="d21s02m01c01"):
                 $ d21s02_bring_arj = True
                 scene d21s02-21 mc-arj-choosing-amrose with dissolve
                 play voice2 mc_arrogant_hm1 noloop
                 mc "Alright. AmRose, you're with me. Don't fuck this up."
-            "Select Stacy"(hint="d21s02m01c02") if True:
+            "Select Stacy"(hint="d21s02m01c02"):
 
                 $ d21s02_bring_sy = True
                 scene d21s02-23 mc-sy-choosing-stacy with dissolve
@@ -709,4 +709,5 @@ label d21s02_end:
         sy "I don't know. It was kinda fun."
 
     jump d21s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

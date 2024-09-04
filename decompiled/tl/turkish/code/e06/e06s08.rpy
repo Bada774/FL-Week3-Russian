@@ -1921,4 +1921,5 @@ translate turkish strings:
 
     old "Lydia should Blow Lyssa's mind (and cock)"
     new "Lydia, Lyssa'nın aklını (ve sikini) uçurmalı"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

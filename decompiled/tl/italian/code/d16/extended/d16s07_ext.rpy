@@ -926,5 +926,6 @@ translate italian strings:
 
 
     old "Cum outside"
-    new "Cum outside"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Vieni fuori"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

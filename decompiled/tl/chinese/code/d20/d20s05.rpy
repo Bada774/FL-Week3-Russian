@@ -1353,4 +1353,5 @@ translate chinese d20s05_pool_5f2ca332:
 
 
     mc "让我们稍微改变一下。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

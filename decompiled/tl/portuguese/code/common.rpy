@@ -1169,4 +1169,213 @@ translate portuguese strings:
 
     old "mute main"
     new "mutar principal"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "Clique para setar o atributo, clique direito para setar atributo negativo."
+
+
+    old "Click to set transform, right click to add to transform list."
+    new "Clique para setar o transform, clique direito para adicionar à lista de transform."
+
+
+    old "Click to set, right click to add to behind list."
+    new "Clique para setar, clique direito para adicionar à lista traseira."
+
+
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "Este save foi criado num dispositivo diferente. Saves criados maliciosamente podem danificar seu computador. Você confia em quem criou este save e todos que podem ter alterado este arquivo?"
+
+
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "Você confia no dispositivo onde este save foi criado? Você deve escolher sim apenas se for o(a) único(a) usuário(a) deste dispositivo."
+
+
+    old "audio when unfocused"
+    new "áudio quando fora de foco"
+
+
+    old "web cache preload"
+    new "web cache preload"
+
+
+    old "voice after game menu"
+    new "voz após o menu do jogo"
+
+
+    old "Speech Bubble Editor"
+    new "Editor de Balão de Diálogo"
+
+
+    old "(hide)"
+    new "(esconder)"
+
+
+    old "Sync downloaded."
+    new "Sync baixada."
+
+
+    old "Could not connect to the Ren'Py Sync server."
+    new "Não foi possível conectar com o servidor Ren'Py Sync."
+
+
+    old "The Ren'Py Sync server timed out."
+    new "Deu timeout no servidor Ren'Py Sync."
+
+
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "Um erro desconhecido ocorreu enquanto tentava conectar com o servidor Ren'Py Sync."
+
+
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "O servidor Ren'Py Sync não possui uma cópia deste sync. O ID sync pode estar inválido, ou pode ter ocorrido um timeout."
+
+
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Por favor, entre com o ID de sync que você gerou.\nNunca ponha um ID de sync que você não criou."
+
+
+    old "The sync ID is not in the correct format."
+    new "O ID de sync não está no formato correto."
+
+
+    old "The sync could not be decrypted."
+    new "Não foi possível decriptar o sync."
+
+
+    old "The sync belongs to a different game."
+    new "O código de sync pertence a um jogo diferente."
+
+
+    old "The sync contains a file with an invalid name."
+    new "O sync contém um arquivo com um nome inválido."
+
+
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "Isso vai upar os saves para o {a=https://sync.renpy.org}Servidor Ren'Py Sync{/a}.\nDeseja continuar?"
+
+
+    old "Enter Sync ID"
+    new "Entre com o ID de Sync"
+
+
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "Isso vai contatar o {a=https://sync.renpy.org}Servidor Ren'Py Sync{/a}."
+
+
+    old "Sync Success"
+    new "Sucesso de Sync"
+
+
+    old "The Sync ID is:"
+    new "O ID de Sync é:"
+
+
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "Você pode usar esse ID para baixar seu save em outro dispositivo.\nEste sync expira em uma hora.\\Ren'Py Sync é bancado pelo {a=https://www.renpy.org/sponsors.html}Patrocinadores do Ren'Py's{/a}."
+
+
+    old "Sync Error"
+    new "Erro de Sync"
+
+
+
+translate portuguese strings:
+
+
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menu de Acessibilidade. Use setas cima e baixo para navegar, e enter para ativar botões e barras."
+
+
+    old "Customize director.transforms to add more transforms."
+    new "Customize director.transforms para adicionar mais transforms."
+
+
+    old "Click to set."
+    new "Clique para setar."
+
+
+    old "Customize director.transitions to add more transitions."
+    new "Customize diretor.transitions para adicionar mais transições."
+
+
+    old "Customize director.audio_channels to add more channels."
+    new "Customize director.audio_channels para adicionar mais canais."
+
+
+    old "Are you sure you want to continue where you left off?"
+    new "Deseja continuar de onde parou?"
+
+
+    old "self voicing enable"
+    new "habilitar voz automática"
+
+
+    old "self voicing disable"
+    new "desabilitar voz automática"
+
+
+    old "clipboard voicing enable"
+    new "habilitar voz da área de transferência"
+
+
+    old "clipboard voicing disable"
+    new "desabilitar voz da área de transferência"
+
+
+    old "debug voicing enable"
+    new "habilitar voz de debug"
+
+
+    old "debug voicing disable"
+    new "desabilitar voz da área de debug"
+
+
+    old "restore window position"
+    new "restaurar posição da janela"
+
+
+    old "reset"
+    new "resetar"
+
+
+    old "(clear retained bubbles)"
+    new "(limpar balões guardados)"
+
+
+    old "No update methods found."
+    new "Não foram encontrados formas de update."
+
+
+    old "Could not download file list: "
+    new "Não foi possível baixar a lista de arquivos: "
+
+
+    old "File list digest does not match."
+    new "Resumo da lista de arquivos não bate."
+
+
+    old "Preparing to download the game data."
+    new "Preparando para baixar dados do jogo."
+
+
+    old "Downloading the game data."
+    new "Baixando dados do jogo."
+
+
+    old "The game data has been downloaded."
+    new "Os dados do jogo foram baixados."
+
+
+    old "An error occured when trying to download game data:"
+    new "Um erro ocorreu quando tentava baixar dados do jogo:"
+
+
+    old "This game cannot be run until the game data has been downloaded."
+    new "Esse jogo não pode rodar até os dados terem sido baixados."
+
+
+    old "Retry"
+    new "Tentar novamente"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

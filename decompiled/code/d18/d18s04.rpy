@@ -282,7 +282,6 @@ label d18s04:
     scene d18s04-59 mc-vw-aw-conflict-resolution with dissolve
     aw "But I'm going to make you feel pain like you've never felt before."
 
-
     $ Lovense.stop()
 
     play sound sfx_shoes_off1 volume 1.5
@@ -397,7 +396,7 @@ label d18s04:
     aw "I'm gonna..."
     scene d18s04-84 mc-vw-aw-conflict-resolution with dissolve
     menu:
-        "Stop This Now"(hint="d18s04m01c01") if True:
+        "Stop This Now"(hint="d18s04m01c01"):
 
             $ d18s04_stop_aw = True
             $ date_awvw = False
@@ -407,7 +406,6 @@ label d18s04:
             play voice2 mc_hey_hey1 noloop
             mc "Allison, stop! Look at what you're doing! This isn't what you're here for!"
             play voice3 kanya_sex_closedmoan3 noloop
-
 
             $ Lovense.stop()
 
@@ -468,7 +466,7 @@ label d18s04:
 
             stop music fadeout 3.5
             jump d18s05
-        "Let Allison Continue"(hint="d18s04m01c02") if True:
+        "Let Allison Continue"(hint="d18s04m01c02"):
 
             pass
 
@@ -540,13 +538,12 @@ label d18s04:
     play voice2 d1s5_mcthinks noloop
     mct "I think they've completely forgotten that I'm even here."
     menu:
-        "Quietly Leave the Hotel Room"(hint="d18s04m02c01") if True:
+        "Quietly Leave the Hotel Room"(hint="d18s04m02c01"):
 
             $ d18s04_leave_quiet = True
             $ date_awvw = False
 
             scene d18s04-119 mc-vw-aw-conflict-resolution with dissolve
-
 
             $ Lovense.stop()
 
@@ -556,7 +553,7 @@ label d18s04:
 
             stop music fadeout 3.5
             jump d18s05
-        "Remind Them You Are There"(hint="d18s04m02c02") if True:
+        "Remind Them You Are There"(hint="d18s04m02c02"):
 
             $ d18s04_points = 12
             pass
@@ -799,7 +796,7 @@ label d18s04:
     scene d18s04-159 mc-vw-aw-conflict-resolution with vpunch
     aw "Ahhhhh!"
     menu:
-        "Cum inside"(hint="d18s04m03c01") if True:
+        "Cum inside"(hint="d18s04m03c01"):
 
             $ d18s04_cum_inside = True
 
@@ -809,7 +806,7 @@ label d18s04:
             with vpunch
             scene d18s04-165 mc-vw-aw-conflict-resolution with dissolve
             pause
-        "Cum outside"(hint="d18s04m03c02") if True:
+        "Cum outside"(hint="d18s04m03c02"):
 
 
             play voice2 d1s5_orgasm2 noloop
@@ -835,7 +832,6 @@ label d18s04:
     pause
     scene d18s04-169 mc-vw-aw-conflict-resolution with dissolve
     play voice4 chloe_disappointed_ehh7 noloop
-
 
     $ Lovense.stop()
 
@@ -986,4 +982,5 @@ label d18s04:
 
     stop music fadeout 4.5
     jump d18s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

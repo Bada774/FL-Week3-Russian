@@ -90,10 +90,9 @@ label d19s05:
     play voice2 mc_happy_hah2 noloop
     mct "Well, what do we have here..."
     menu:
-        "Peruse her wears"(hint="d19s05m01c01") if True:
+        "Peruse her wears"(hint="d19s05m01c01"):
 
             $ d19s05_use_panty = True
-
 
             $ Lovense.stop()
 
@@ -162,7 +161,6 @@ label d19s05:
             scene d19s05-27-01 mc-puts-panties-back_c1 with dissolve
             pause
 
-
             $ Lovense.stop()
 
             $ renpy.music.set_volume(0.3, 3.5, "music")
@@ -175,7 +173,7 @@ label d19s05:
             $ unlock_gallery_slot("scene", "d19s05")
 
             jump d19s05_minigame
-        "Don't"(hint="d19s05m01c02") if True:
+        "Don't"(hint="d19s05m01c02"):
 
             play voice2 mc_arrogant_nah1 noloop
             scene d19s05-27-01 mc-puts-panties-back_c1 with dissolve
@@ -318,4 +316,5 @@ label d19s05_after_minigame:
     $ renpy.end_replay()
 
     jump d19s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

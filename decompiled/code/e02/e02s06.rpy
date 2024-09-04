@@ -270,10 +270,10 @@ label e02s06:
     mh "I'm glad we could help."
     scene e02s06-44 ac-gives-fuckme-eyes-choice_c1 with dissolve
     menu:
-        "Help them experiment"(hint="e02s06m01c01") if True:
+        "Help them experiment"(hint="e02s06m01c01"):
             $ e02s06_experiment = True
             jump e02s06_experiment
-        "Just give them some advice"(hint="e02s06m01c02") if True:
+        "Just give them some advice"(hint="e02s06m01c02"):
 
             jump e02s06_no_sex
 
@@ -357,7 +357,6 @@ label e02s06_experiment:
     scene e02s06-58 ac-shows-ass-knows-how-start-off_c1 with dissolve
     play voice4 claudie_happy_mmm1 noloop
     ac "Excellent. I think I know just how to start us off."
-
 
     $ Lovense.stop()
 
@@ -832,7 +831,6 @@ label e02s06_experiment:
     play voice5 boy5_surprised_oh1 noloop
     fc "And then some!"
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -877,4 +875,5 @@ label e02s06_end:
 
     $ renpy.music.set_volume(0.2, 3.0, "music" )
     jump e02s05_menu
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

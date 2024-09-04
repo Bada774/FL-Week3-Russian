@@ -104,7 +104,7 @@ label replay_d16s02 hide:
     arj "*Giggles* So what do you say?"
 
     menu:
-        "Rock her world"(hint="d16s02m01c01") if True:
+        "Rock her world"(hint="d16s02m01c01"):
 
             $ d16s02_arj_eatout = True
             $ d16s02_points = 12
@@ -114,7 +114,6 @@ label replay_d16s02 hide:
             play voice2 mc_arrogant_heh1 noloop
             mc "What do you think?"
             play voice3 dahlia_thinking_hmm3 noloop
-
 
             $ Lovense.stop()
 
@@ -171,33 +170,6 @@ label replay_d16s02 hide:
             queue voice3 amrose_old_moaning
             arj "*Yelps*"
             pause
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
             $ renpy.music.set_volume(0.2, 0.0, "sound3")
             play sound3 ["<silence 1.0>", sfx_fisting_fist1, "<silence 2.0>", sfx_fisting_fist2, "<silence 1.0>"]
@@ -264,14 +236,11 @@ label replay_d16s02 hide:
             scene d16s02-16 mc-arj-entrance-tease2_c1 with dissolve
             play voice2 mc_arrogant_huh2 noloop
             mc "Just \"nice?\"?"
-
-
             $ renpy.end_replay()
             $ unlock_gallery_slot("cg", "d16s02")
             $ unlock_gallery_slot("scene", "d16s02")
             $ renpy.music.set_volume(1.0, 0.0, "sound3")
             play sound3 sfx_cloth_rustling1 noloop
-
 
             $ Lovense.stop()
 
@@ -282,7 +251,7 @@ label replay_d16s02 hide:
             stop sound3 fadeout 3.0
             call add_points (d16s02_points) from _call_add_points_8
             flr "You have earned [d16s02_points] points."
-        "Not right now"(hint="d16s02m01c02") if True:
+        "Not right now"(hint="d16s02m01c02"):
 
 
             $ renpy.music.set_volume(0.4, 4.0, "music")
@@ -300,4 +269,5 @@ label replay_d16s02 hide:
     stop sound2 fadeout 2.5
     $ renpy.music.set_volume(1.0, 2.0, "sound3")
     jump d16s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -106,7 +106,7 @@ translate russian d17s03_73a840f5:
 translate russian d17s03_a4969e9f:
 
     # ir "It Fucks stuff Up Beyond All Recognition."
-    ir "Ну или просто Ф.У.Б.А.Р. \n\n{size=-10}{i}(ориг. - It Fucks stuff Up Beyond All Recognition - прим. перев. - Херовый инструмент за пределами всякого понимания){/i}{/size}"
+    ir "Ну или просто Ф.У.Б.А.Р. \n\n{size=-10}{i}Ориг. It Fucks stuff Up Beyond All Recognition - прим. перев. - Херовый инструмент за пределами всякого понимания.{/i}{/size}"
 
 # game/code/d17/d17s03.rpy:73
 translate russian d17s03_394bb1a6:

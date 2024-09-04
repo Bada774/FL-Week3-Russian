@@ -781,4 +781,5 @@ translate portuguese d19s02_b0400d74:
 
 
     mct "Eu vou aí"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

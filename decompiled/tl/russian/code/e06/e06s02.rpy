@@ -16,7 +16,7 @@ translate russian e06s02_04c67d06:
 translate russian e06s02_993c9720:
 
     # mct "I really hope Min isn't calling security on us."
-    mct "Я очень надеюсь, что Мин не вызовет охрану."
+    mct "Я очень надеюсь, что Мин не вызовет к нам охрану."
 
 # game/code/e06/e06s02.rpy:61
 translate russian e06s02_f4a250c1:
@@ -166,7 +166,7 @@ translate russian e06s02_d7816bd5:
 translate russian e06s02_aed3a517:
 
     # mc "I think there's a-"
-    mc "Мне кажется, есть вариа..."
+    mc "Я думаю, что там..."
 
 # game/code/e06/e06s02.rpy:160
 translate russian e06s02_a0faa57d:
@@ -238,7 +238,7 @@ translate russian e06s02_cfa3eceb:
 translate russian e06s02_3c306ef9:
 
     # mes "*Sniff* That judge must have been huffing glue in their chambers. Lydia might be innocent in the eyes of the law..."
-    mes "*всхлипывает* Скорее всего, эта судья в своём кабинете надышалась клеем. Лидия может и невиновна в глазах закона..."
+    mes "*всхлипывает* Должно быть, эта судья нанюхалась клея в своём кабинете. Лидия может и невиновна в глазах закона..."
 
 # game/code/e06/e06s02.rpy:200
 translate russian e06s02_de7714ea:
@@ -256,7 +256,7 @@ translate russian e06s02_29994ac1:
 translate russian e06s02_ebb6ca1c:
 
     # lc "Oh no!"
-    lc "О нет!"
+    lc "Оу, нет!"
 
 # game/code/e06/e06s02.rpy:217
 translate russian e06s02_f42241db:
@@ -268,13 +268,13 @@ translate russian e06s02_f42241db:
 translate russian e06s02_898f3335:
 
     # lc "H-h-how is it so cold? It's the middle of summer-r-r."
-    lc "П-п-почему так холодно? Сейчас середина л-л-лета."
+    lc "П-п-почему так холодно? Сейчас же середина л-л-лета."
 
 # game/code/e06/e06s02.rpy:229
 translate russian e06s02_af03f88c:
 
     # mes "*Chuckles* I've been keeping it cold. A brisk polar bear swim in the morning does wonders for your brain."
-    mes "*смеётся* Я поддерживаю там низкую температуру. Бодрая закалка по утрам творит чудеса с мозгом." 
+    mes "*хихикает* Я поддерживаю там низкую температуру. Бодрая закалка по утрам творит чудеса с мозгом." 
 
 # game/code/e06/e06s02.rpy:232
 translate russian e06s02_52e54ea8:
@@ -298,7 +298,7 @@ translate russian e06s02_inside_33ca22c3:
 translate russian e06s02_inside_3055d669:
 
     # lc "Thank you. And Min-"
-    lc "Спасибо тебе. И Мин..."
+    lc "Спасибо. И Мин..."
 
 # game/code/e06/e06s02.rpy:259
 translate russian e06s02_inside_38b32cd4:
@@ -424,7 +424,7 @@ translate russian e06s02_inside_0c764b95:
 translate russian e06s02_inside_80be8b53:
 
     # mes "You've truly forgiven her?"
-    mes "Ты правда её простил?"
+    mes "Ты правда простил её?"
 
 # game/code/e06/e06s02.rpy:327
 translate russian e06s02_inside_ffc7e92f:
@@ -442,7 +442,7 @@ translate russian e06s02_inside_18de6647:
 translate russian e06s02_inside_900df7fa:
 
     # mc "Jean de La Bruyère would be proud."
-    mc "Жан де Лабрюйер этим бы гордился.\n\n{size=-10}{i}(Жан де Лабрюйер - французский психолог, писатель){/i}{/size}"
+    mc "Жан де Лабрюйер гордился бы этим.\n\n{size=-10}{i}Жан де Лабрюйер - французский психолог, писатель.{/i}{/size}"
 
 # game/code/e06/e06s02.rpy:336
 translate russian e06s02_inside_6656d334:
@@ -454,7 +454,7 @@ translate russian e06s02_inside_6656d334:
 translate russian e06s02_inside_cd98dd5d:
 
     # mc "It's not up to your family what you do here, Min. This is your decision."
-    mc "От твоей семьи не зависит то, что ты здесь будешь делать, Мин. Это твоё решение."
+    mc "От твоей семьи не зависит то, что ты будешь делать здесь, Мин. Это твоё решение."
 
 # game/code/e06/e06s02.rpy:342
 translate russian e06s02_inside_418eb0a1:
@@ -472,7 +472,7 @@ translate russian e06s02_inside_86dcc93d:
 translate russian e06s02_inside_95eef4a4:
 
     # mc "You two were so close. It's hitting Lydia hard."
-    mc "Вы очень близки. Это сильно ранит Лидию."
+    mc "Вы двое были очень близки. Это сильно ранит Лидию."
 
 # game/code/e06/e06s02.rpy:351
 translate russian e06s02_inside_ac67bcd1:
@@ -484,7 +484,7 @@ translate russian e06s02_inside_ac67bcd1:
 translate russian e06s02_inside_59e30423:
 
     # mes "They want me to go back to Korea and never leave."
-    mes "Они хотят, чтобы я вернулась в Корею и никогда больше оттуда не уезжала."
+    mes "Они хотят, чтобы я вернулась в Корею и больше никогда оттуда не уезжала."
 
 # game/code/e06/e06s02.rpy:355
 translate russian e06s02_inside_11455b53:
@@ -514,7 +514,7 @@ translate russian e06s02_inside_81aef917:
 translate russian e06s02_inside_48001862:
 
     # lc "Please don't go, Min."
-    lc "Мин, пожалуйста, не уезжай."
+    lc "Пожалуйста, не уезжай, Мин."
 
 # game/code/e06/e06s02.rpy:371
 translate russian e06s02_inside_414e4e6f:
@@ -526,7 +526,7 @@ translate russian e06s02_inside_414e4e6f:
 translate russian e06s02_inside_83bf5d23:
 
     # mes "I'm so sorry. You just look ridiculous, Lydia."
-    mes "Прости. Ты просто очень смешно выглядишь, Лидия."
+    mes "Простите. Ты просто очень смешно выглядишь, Лидия."
 
 # game/code/e06/e06s02.rpy:377
 translate russian e06s02_inside_2bc8af86:
@@ -664,7 +664,7 @@ translate russian e06s02_inside_a9ed4e36:
 translate russian e06s02_inside_38bf30c7:
 
     # mes "*Chuckle* I'll admit, a part of me did get a little bored always being first."
-    mes "*смеётся* Признаюсь, какой-то части меня надоело всегда быть первой."
+    mes "*смеётся* Признаюсь, какой-то моей части надоело всегда быть первой."
 
 # game/code/e06/e06s02.rpy:430
 translate russian e06s02_inside_339aaba1:
@@ -748,7 +748,7 @@ translate russian e06s02_inside_7acf4641:
 translate russian e06s02_inside_1ccb6013:
 
     # lc "Oh well... I figured no matter what, you couldn't resist helping me after I made a fool of myself."
-    lc "Ох, ну... Я подумала, что если я выставлю себя на посмешище, то после этого ты не сможешь мне отказать."
+    lc "Ох, ну... Я подумала, что если я выставлю себя на посмещище, то после этого ты не сможешь мне отказать."
 
 # game/code/e06/e06s02.rpy:478
 translate russian e06s02_inside_9f413db3:
@@ -778,7 +778,7 @@ translate russian e06s02_inside_a58d0e37:
 translate russian e06s02_inside_14982f2a:
 
     # mes "It's been more than a month since I've seen you. And if you don't give me some dick right now, I'm kicking you both out of my house."
-    mes "Уже прошло больше месяца, с нашей последней встречи. И если вы прямо сейчас не дадите мне какой-нибудь член, я выкину вас обоих из своего дома."
+    mes "С нашей последней встречи прошло уже больше месяца. И если вы прямо сейчас не дадите мне какой-нибудь член, я выкину вас обоих из своего дома."
 
 # game/code/e06/e06s02.rpy:507
 translate russian e06s02_inside_c760cdf3:
@@ -904,7 +904,7 @@ translate russian e06s02_bj_e0c9be44:
 translate russian e06s02_bj_762345b2:
 
     # mc "Your wishes my command."
-    mc "Твоё желание - закон."
+    mc "Твои желания - закон."
 
 # game/code/e06/e06s02.rpy:660
 translate russian e06s02_bj_d32d92d6:
@@ -952,7 +952,7 @@ translate russian e06s02_bj_d6cdde8f:
 translate russian e06s02_bj_3176f909:
 
     # lc "Oh... yes.. Keep touching me there."
-    lc "Ох... да... Продолжай меня там трогать."
+    lc "Ох... да... Продолжай трогать меня там."
 
 # game/code/e06/e06s02.rpy:706
 translate russian e06s02_bj_a7c9e738:
@@ -1048,13 +1048,13 @@ translate russian e06s02_sex_1a2e8223:
 translate russian e06s02_sex_632589fb:
 
     # mes "Mhmm... how does he taste, Lydia.?"
-    mes "Мхмм... какой он на вкус, Лидия?"
+    mes "Мхмм... каков он на вкус, Лидия?"
 
 # game/code/e06/e06s02.rpy:801
 translate russian e06s02_sex_d29c183d:
 
     # lc "Incredible. He's been leaking precum ever since I started."
-    lc "Невероятно. С тех пор, как я начала, у него уже начала подтекать сперма."
+    lc "Невероятен. С тех пор, как я начала, у него уже начала подтекать сперма."
 
 # game/code/e06/e06s02.rpy:804
 translate russian e06s02_sex_fd9a6df5:
@@ -1150,7 +1150,7 @@ translate russian e06s02_sex_8079190a:
 translate russian e06s02_sex_9ff35125:
 
     # mes "Don't you fucking dare..."
-    mes "Даже, не смей, блядь..."
+    mes "Даже, блядь, не смей..."
 
 # game/code/e06/e06s02.rpy:870
 translate russian e06s02_sex_44279e60:
@@ -1234,7 +1234,7 @@ translate russian e06s02_sex_e2cb8e1e:
 translate russian e06s02_sex_efcb925e:
 
     # mc "And Min, even when you forget to beg, I'll always love you."
-    mc "И Мин, даже когда ты забудешь перестанешь умолять, я всё равно буду любить тебя."
+    mc "И Мин, даже когда ты перестанешь умолять, я всё равно буду любить тебя."
 
 # game/code/e06/e06s02.rpy:920
 translate russian e06s02_sex_9d9492e6:
@@ -1246,7 +1246,7 @@ translate russian e06s02_sex_9d9492e6:
 translate russian e06s02_sex_43e2a595:
 
     # lc "I think I'm getting good at translating Min's words when her mouth is full of pussy."
-    lc "Думаю, я смогу переводить слова Мин, когда её рот забит кисками."
+    lc "Думаю, я смогу переводить слова Мин, когда её рот закрыт кисками."
 
 # game/code/e06/e06s02.rpy:923
 translate russian e06s02_sex_03993b2e:
@@ -1306,7 +1306,7 @@ translate russian e06s02_sex_194b53bf:
 translate russian e06s02_sex_573585a0:
 
     # mes "Okay... I'll try. He just feels so intense when he rails me."
-    mes "Ладно... я постараюсь. Он просто такой интенсивный, когда ебёт меня."
+    mes "Ладно... я постараюсь. Просто он такой интенсивный, когда ебёт меня."
 
 # game/code/e06/e06s02.rpy:983
 translate russian e06s02_sex_5c5f66e3:
@@ -1384,7 +1384,7 @@ translate russian e06s02_sex_05a75e57:
 translate russian e06s02_sex_9b9c29e2:
 
     # mes "Please... let me cum, Lydia. I feel like my brain is melting."
-    mes "Пожалуйста... Лидия, разреши мне кончить. Я чувствую как плавится мой мозг."
+    mes "Пожалуйста... разреши мне кончить, Лидия. Я чувствую как плавится мой мозг."
 
 # game/code/e06/e06s02.rpy:1053
 translate russian e06s02_sex_a57d201d:
@@ -1492,13 +1492,13 @@ translate russian e06s02_sex_fa5295ee:
 translate russian e06s02_sex_4d1ce34d:
 
     # mes "Lydia. Since you are serious about making amends, the thought occurs that you cannot stop at just my forgiveness."
-    mes "Лидия. Раз ты серьёзно настроена загладить свою вину, у меня возникла мысль, что ты не можешь остановиться только на моём прощении."
+    mes "Лидия. Раз ты так серьёзно настроена загладить свою вину, у меня возникла мысль, что ты не можешь остановиться только на моём прощении."
 
 # game/code/e06/e06s02.rpy:1135
 translate russian e06s02_sex_ab066432:
 
     # mes "Fetish Locator cast a wide net."
-    mes "Фетиш Локатор раскинул широкую сеть."
+    mes "Фетиш Локатор широко раскинул свои сети."
 
 # game/code/e06/e06s02.rpy:1138
 translate russian e06s02_sex_d8c51d34:
@@ -1534,7 +1534,7 @@ translate russian e06s02_sex_6e3fb5a0:
 translate russian e06s02_sex_cfdfa501:
 
     # mes "Besides, I'm sure you can ask [mcname] to help smooth out the rough edges."
-    mes "Кроме того, я уверенп, что ты можешь попросить [mcname] помочь сгладить острые углы."
+    mes "Кроме того, я уверена, что ты можешь попросить [mcname] помочь сгладить острые углы."
 
 # game/code/e06/e06s02.rpy:1152
 translate russian e06s02_sex_0dc69c3d:
@@ -1576,7 +1576,7 @@ translate russian e06s02_sex_e405fecc:
 translate russian e06s02_sex_f3fb6e46:
 
     # lc "Hehehe."
-    lc "Хехехе"
+    lc "Хехехе."
 
 # game/code/e06/e06s02.rpy:1179
 translate russian e06s02_sex_e8d5948f:

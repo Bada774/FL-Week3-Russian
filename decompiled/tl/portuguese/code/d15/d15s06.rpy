@@ -1703,4 +1703,5 @@ translate portuguese strings:
 
     old "I love you too"
     new "Eu também te amo"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

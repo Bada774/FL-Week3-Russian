@@ -417,4 +417,5 @@ label e02s09_next_morning:
 
     stop music fadeout 3.0
     jump e02s10
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

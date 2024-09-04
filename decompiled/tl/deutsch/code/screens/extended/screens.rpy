@@ -4,11 +4,11 @@ translate deutsch strings:
 
 
     old "PLAY"
-    new "PLAY"
+    new "SPIELEN"
 
 
     old "LOAD"
-    new "LOAD"
+    new "LADEN"
 
 
     old "BONUS"
@@ -16,11 +16,11 @@ translate deutsch strings:
 
 
     old "SETTINGS"
-    new "SETTINGS"
+    new "PRÄF"
 
 
     old "LANGUAGE"
-    new "LANGUAGE"
+    new "SPRACHE"
 
 
     old "INFO"
@@ -28,53 +28,62 @@ translate deutsch strings:
 
 
     old "Support us on Patreon"
-    new "Support us on Patreon"
+    new "Unterstütze uns auf Patreon"
 
 
     old "Join us on Discord"
-    new "Join us on Discord"
+    new "Komm auf unseren Discord"
 
 
     old "Quit Game"
-    new "Quit Game"
+    new "Spiel verlassen"
 
 
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "Besorg dir ein Lovense-Spielzeug"
 
 
-    old "Wishlist Vinovella University in Steam"
-    new "Wishlist Vinovella University in Steam"
+    old "Wishlist Taboo University on Steam"
+    new "Wishliste Taboo University auf Steam"
 
 
-    old "Try our new game Vinovella University"
-    new "Try our new game Vinovella University"
+    old "Try our new game Taboo University"
+    new "Probier unser neues Spiel Taboo University"
 
 
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
-    new "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+    new "BEANTWORTE DEN FRAGEBOGEN UND STARTE EIN NEUES SPIEL"
 
 
     old "LOAD A SAVE FROM WEEK 2"
-    new "LOAD A SAVE FROM WEEK 2"
+    new "LADE EINEN SPIELSTAND AUS WOCHE 2"
 
 
     old "ABOUT"
-    new "ABOUT"
+    new "ÜBER"
 
 
     old "HELP"
-    new "HELP"
+    new "HILFE"
 
 
     old "CG\nGALLERY"
-    new "CG\nGALLERY"
+    new "CG\nGALERIE"
 
 
     old "REPLAY ROOM"
-    new "REPLAY ROOM"
+    new "WIEDERHOLUNGS\nRAUM"
 
 
     old "BONUS CONTENT"
-    new "BONUS CONTENT"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "BONUS INHALT"
+
+
+
+translate deutsch strings:
+
+
+    old "Get free DLC containing 6 endings from Steam"
+    new "Get free DLC containing 6 endings from Steam"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
