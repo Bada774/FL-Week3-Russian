@@ -8,9 +8,10 @@ translate deutsch strings:
 
 
     old "BDSM - Submissive"
-    new "BDSM - Submissive"
+    new "BDSM - Unterwürfig"
 
 
     old "Rimming"
-    new "Rimming"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Afterlecken"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

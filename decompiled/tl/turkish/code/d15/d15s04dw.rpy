@@ -1071,4 +1071,5 @@ translate turkish strings:
 
     old "Let the girls think it was entirely up to them"
     new "Bırakın kızlar her şeyin kendi ellerinde olduğunu düşünsünler"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -85,3 +85,15 @@ translate russian strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Вы можете выбрать только одну: Дэйзи или Далия"
 
+# TODO: Translation updated at 2024-02-23 00:11
+
+translate russian strings:
+
+    # game/code/functions.rpy:279
+    old "The game will replay the scene according to a default playthrough"
+    new "Повтор будет воспроизвёден в режиме по умолчанию"
+
+    # game/code/functions.rpy:281
+    old "The game will try to replay the scene according to your current playthrough"
+    new "Повтор будет воспроизведён в соответствии с Вашим последним прохождением"
+

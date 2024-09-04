@@ -82,12 +82,12 @@ label d19s08:
         mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
         mct "What's the point of trying? It'd just be a waste of time anyway."
         menu:
-            "Ask Lyssa for help"(hint="d19s08m01c01") if True:
+            "Ask Lyssa for help"(hint="d19s08m01c01"):
                 $ d19s08_mh_help = True
                 scene d19s08-16 mc-calls-mh_c1 with dissolve
                 play voice2 mc_arrogant_heh1 noloop
                 mct "I guess there still might be a chance. Might as well take it."
-            "Don't bother"(hint="d19s08m01c02") if True:
+            "Don't bother"(hint="d19s08m01c02"):
 
                 scene d19s08-16 mc-calls-mh_c1 with dissolve
                 play voice2 mc_arrogant_hm3 noloop
@@ -156,7 +156,7 @@ label d19s08:
         play voice2 mc_happy_hah1 noloop
         mc "*Chuckles* Uh-huh."
         menu:
-            "Ask for a picture"(hint="d19s08m02c01") if True:
+            "Ask for a picture"(hint="d19s08m02c01"):
                 $ d19s08_mh_pic = True
 
                 scene d19s08-29 mc-wants-picture-mh-masturbating_c1 with dissolve
@@ -169,7 +169,7 @@ label d19s08:
                 play voice3 lissa_haha noloop
                 mh "*Laughs* Fine, fine. But not right now."
                 mh "Continue what you were saying first."
-            "Don't"(hint="d19s08m02c02") if True:
+            "Don't"(hint="d19s08m02c02"):
 
                 pass
 
@@ -295,4 +295,5 @@ label d19s08:
             mc "Love you too."
 
     jump d19s09
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -569,4 +569,5 @@ translate chinese e02s02_e94ef34d:
 
 
     mh "向左转，沿着小路走，小心别撞到那些树。我们在下面见。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

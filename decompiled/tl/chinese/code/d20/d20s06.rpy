@@ -525,4 +525,5 @@ translate chinese strings:
 
     old "Eat Oliver's cum"
     new "吃奥利弗的精液"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

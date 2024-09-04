@@ -1135,4 +1135,5 @@ translate chinese strings:
 
     old "We make a good trio"
     new "我们是绝妙三人组"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

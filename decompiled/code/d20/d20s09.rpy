@@ -255,4 +255,5 @@ label d20s09:
 
     stop music fadeout 3.0
     jump d21s01
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

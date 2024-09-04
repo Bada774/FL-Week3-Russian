@@ -39,10 +39,6 @@ translate chinese strings:
     new "结尾"
 
 
-
-translate chinese strings:
-
-
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
     new "回答问卷并开始新游戏"
 
@@ -75,10 +71,6 @@ translate chinese strings:
     new "结尾"
 
 
-
-translate chinese strings:
-
-
     old "Support us on Patreon"
     new "在Patreon上支持我们"
 
@@ -91,26 +83,19 @@ translate chinese strings:
     new "退出游戏"
 
 
-
-translate chinese strings:
-
-
-    old "Wishlist Vinovella University on Steam"
-    new "Wishlist Vinovella University on Steam"
-
-
-
-translate chinese strings:
+    old "Wishlist Taboo University on Steam"
+    new "在Steam上推荐《禁忌大学》"
 
 
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "获取Lovense爱感玩具"
 
 
-    old "Wishlist Vinovella University in Steam"
-    new "Wishlist Vinovella University in Steam"
+    old "Try our new game Taboo University"
+    new "试玩我们的新游戏《禁忌大学》"
 
 
-    old "Try our new game Vinovella University"
-    new "Try our new game Vinovella University"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    old "Get free DLC containing 6 endings from Steam"
+    new "从Steam免费获取包含6个结局的 DLC"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -603,4 +603,5 @@ translate chinese d19s08_57356ffb:
 
 
     mct "算了。去他妈的。对于萨拉，我无能为力。但我还是要给丽莎打电话。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

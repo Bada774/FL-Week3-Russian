@@ -238,7 +238,6 @@ label d20s07:
     play voice4 aaleyah_disappointed_mff noloop
     nk "Ugh, men really think with their dicks, don't they?"
     scene d20s07-49 pw-mc-talk-while-nk with dissolve
-
     play voice2 mc_no_no1 noloop
     mc "Not all of them. Some are eunuchs."
     scene d20s07-50 pw-mc-talk-while-nk with dissolve
@@ -464,7 +463,7 @@ label d20s07:
     $ unlock_ending("14")
     call update_ending_variables from _call_update_ending_variables_7
     menu:
-        "Go with Polly and Nora"(hint="d20s07m01c01") if True:
+        "Go with Polly and Nora"(hint="d20s07m01c01"):
             $ d20s07_go_with_pn = True
 
             $ renpy.music.set_volume(0.4, 1.5, "music")
@@ -508,7 +507,7 @@ label d20s07:
             pw "I'm already on it."
 
             jump d20s07_last_show
-        "Go home"(hint="d20s07m01c02") if True:
+        "Go home"(hint="d20s07m01c02"):
 
             $ d20s07_go_with_pn = False
 
@@ -563,7 +562,6 @@ label d20s07_last_show:
     scene d20s07-133 pw-mc-talk-while-nk_strip with dissolve
     pause
     play sound sfx_skirt_off2
-
 
     $ Lovense.stop()
 
@@ -858,7 +856,6 @@ label d20s07_last_show:
     scene d20s07-a10
     pause
     $ renpy.music.set_volume(0.7, 0.6, "sound2")
-
     play sound2 classroom fadein 3.5
     play sound sfx_door_open1
     scene d20s07-195 pw-mc-talk-while-nk_norasexfloor with dissolve
@@ -873,7 +870,6 @@ label d20s07_last_show:
     scene d20s07-197 pw-mc-talk-while-nk_norasexfloor with dissolve
     play voice4 polly_laugh noloop
     pw "I think the customers want a better look. Right?"
-
     $ renpy.music.set_volume(0.18, 4.6, "sound2")
     scene d20s07-198 pw-mc-talk-while-nk_norasexfloor with dissolve
     play voice3 nora_orgasm3 noloop
@@ -887,7 +883,6 @@ label d20s07_last_show:
     play voice3 nora_sucking1 noloop
     scene d20s07-200 pw-mc-talk-while-nk_shutmouth with dissolve
     pause
-
     play voice3 aaleyah_open_moans1
     play voice2 d7s4_mcbreathing
     $ Lovense.pattern("5;8", 1700)
@@ -1236,7 +1231,6 @@ label d20s07_end:
 
     scene d20s07-261 pw-mc-talk-while-nk_announcement with Fade(0.4, 0.4, 0.4)
 
-
     $ Lovense.stop()
 
     pause
@@ -1269,11 +1263,11 @@ label d20s07_end:
 
     stop sound fadeout 3.0
     stop sound2 fadeout 3.0
-
     if d20s07_go_with_pn is True:
         stop music fadeout 3.0
         jump ending_14
     elif True:
         stop music fadeout 3.0
         jump d20s08
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

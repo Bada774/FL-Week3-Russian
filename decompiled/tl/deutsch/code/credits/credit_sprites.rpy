@@ -4,49 +4,50 @@ translate deutsch strings:
 
 
     old "Story Writing -"
-    new "Story Writing -"
+    new "Geschichte -"
 
 
     old "Art -"
-    new "Art -"
+    new "Design -"
 
 
     old "Programming -"
-    new "Programming -"
+    new "Programmierung -"
 
 
     old "Sound design -"
-    new "Sound design -"
+    new "Sound Design -"
 
 
     old "Music -"
-    new "Music -"
+    new "Musik -"
 
 
     old "Testing, Proofreading\n& Translation -"
-    new "Testing, Proofreading\n& Translation -"
+    new "Test, Korrekturlesen\n& Übersetzung -"
 
 
     old "Special Thanks -"
-    new "Special Thanks -"
+    new "Besonderer Dank -"
 
 
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
-    new "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
+    new "Dieses Spiel wurde\nmöglich gemacht von\nallen Supportern\nauf Patreon\nund SubscribeStar"
 
 
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
-    new "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
+    new "Vielen Dank an\nalle unsere Fans\nund alle die uns\nunterstützt und\ngeholfen haben\ndiese Story zum Leben zu erwecken"
 
 
     old "SKIP"
-    new "SKIP"
+    new "ÜBERSPRINGEN"
 
 
     old "Thank you for playing the game!"
-    new "Thank you for playing the game!"
+    new "Vielen Dank, dass du das Spiel gespielt hast!"
 
 
     old "We'll see you soon!"
-    new "We'll see you soon!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Wir werden uns bald wiedersehen!"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

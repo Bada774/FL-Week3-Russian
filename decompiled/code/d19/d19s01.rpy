@@ -26,4 +26,5 @@ label d19s01:
         jump d19s01lc
     elif True:
         jump d19s01ntr
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

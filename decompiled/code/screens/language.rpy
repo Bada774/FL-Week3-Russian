@@ -1,9 +1,9 @@
-
+﻿
 
 
 
 init python:
-    for i in ("lang_en", "lang_cn", "lang_pt", "lang_es", "lang_ko", "lang_it", "lang_ms", "lang_ru", "lang_tr"):
+    for i in ("lang_en", "lang_cn", "lang_pt", "lang_es", "lang_ko", "lang_it", "lang_ms", "lang_de", "lang_ru", "lang_tr"):
         j = i[5:]
         style.button[i].idle_background             = "images/utility/flags/flag_{0}_idle.webp".format(j)
         style.button[i].hover_background            = "images/utility/flags/flag_{0}_hover.webp".format(j)
@@ -18,7 +18,8 @@ init python:
 
 screen language_buttons(splash=False):
 
-    grid 3 3:
+    grid 3 4:
+        allow_underfull True
         style_prefix "language"
         xpos 100
         yalign 0.5
@@ -68,13 +69,33 @@ screen language_buttons(splash=False):
                 action Function(language_setter, newlang="turkish")
             else:
                 action (Function(language_setter, newlang="turkish"), Return())
+
         button id "lang_ru":
             text "Русский"
             style style.button["lang_ru"]
+            selected (preferences.language == "russian")
             if splash is False:
                 action Function(language_setter, newlang="russian")
             else:
                 action (Function(language_setter, newlang="russian"), Return())
+
+        button id "lang_it":
+            text "Italiano"
+            style style.button["lang_it"]
+            selected (preferences.language == "italian")
+            if splash is False:
+                action Function(language_setter, newlang="italian")
+            else:
+                action (Function(language_setter, newlang="italian"), Return())
+
+        button id "lang_de":
+            text "Deutsch"
+            style style.button["lang_de"]
+            selected (preferences.language == "deutsch")
+            if splash is False:
+                action Function(language_setter, newlang="deutsch")
+            else:
+                action (Function(language_setter, newlang="deutsch"), Return())
 
         if config.developer is True:
             button id "lang_ko":
@@ -86,15 +107,6 @@ screen language_buttons(splash=False):
                 else:
                     action (Function(language_setter, newlang="korean"), Return())
 
-            button id "lang_it":
-                text "Italiano"
-                style style.button["lang_it"]
-                selected (preferences.language == "italian")
-                if splash is False:
-                    action Function(language_setter, newlang="italian")
-                else:
-                    action (Function(language_setter, newlang="italian"), Return())
-
             button id "lang_ms":
                 text "Malay"
                 style style.button["lang_ms"]
@@ -103,11 +115,6 @@ screen language_buttons(splash=False):
                     action Function(language_setter, newlang="malay")
                 else:
                     action (Function(language_setter, newlang="malay"), Return())
-
-        else:
-            null height 200 width 300
-            null height 200 width 300
-            null height 200 width 300
 
 screen language_chooser():
     tag menu
@@ -417,6 +424,9 @@ translate chinese style bonus_trade_text_title:
 translate chinese style bonus_trade_text_body:
     font "fonts/Arial-Unicode.ttf"
 
+translate chinese style bonus_horny_meme_text:
+    font "fonts/Arial-Unicode.ttf"
+
 
 
 translate korean style default:
@@ -691,6 +701,9 @@ translate korean style bonus_trade_text_title:
 translate korean style bonus_trade_text_body:
     font "fonts/Arial-Unicode.ttf"
 
+translate korean style bonus_horny_meme_text:
+    font "fonts/Arial-Unicode.ttf"
+
 
 
 translate portuguese style lovense_info_vbox:
@@ -778,6 +791,10 @@ translate italian style bonus_change_mind_text_2:
     xpos 870
     ypos 650
 
+translate italian style prologue_yes_button:
+    left_padding 25
+    right_padding 20
+
 
 
 translate malay style lovense_info_vbox:
@@ -831,217 +848,59 @@ translate turkish style bonus_change_mind_text_2:
     size 55
     xpos 885
     ypos 655
-    
 
 
-translate russian style default:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style mainmenu_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style navigation_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style slot_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style fl_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style say_label:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style choice_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style confirm_prompt_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style confirm_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style history_name_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style history_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style history_label_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style help_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style help_label_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style help_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style pref_label_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style radio_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style check_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style slider_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style about_label_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style about_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style quick_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style notify_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style skip_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style gui_label_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style overlay_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style fl_points_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style sex_counter_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style pool_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style renamer_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style renamer_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style free_roam_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style prologue_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style prologue_yta_button_text:
-    font "fonts/Andika-Regular.ttf"
-    size 36
-
-translate russian style disclaimer:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style skip_recap_button_text:
-    font "fonts/Andika-Regular.ttf"
 
 translate russian style sub_menu_bonus_text:
-    font "fonts/Andika-Regular.ttf"
-    size 55
+    font "fonts/new/KaushanScript-Regular.ttf"
+    size 60
 
 translate russian style sub_menu_play_text:
-    font "fonts/Andika-Regular.ttf"
-    size 40
+    font "fonts/new/KaushanScript-Regular.ttf"
+    size 50
 
 translate russian style ext_mm_text:
-    font "fonts/Andika-Regular.ttf"
+    font "fonts/new/KaushanScript-Regular.ttf"
     size 30
 
-translate russian style scene_transistion_text:
-    font "fonts/Andika-Regular.ttf"
 
-translate russian style game_end_text:
-    font "fonts/Andika-Regular.ttf"
 
-translate russian style connect_toy_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style sub_menu_play_text:
+    line_spacing -35
 
-translate russian style lovense_connect_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style lovense_info_vbox:
+    spacing 10
 
-translate russian style lovense_pref_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style lovense_info_text:
+    size 23
 
-translate russian style lovense_test_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style lovense_steps_text:
+    line_spacing 0
 
-translate russian style prologue_yes_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style prologue_no_sp_button:
+    xsize 200
 
-translate russian style prologue_no_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style prologue_no_sp_button_text:
+    xpos -10
 
-translate russian style prologue_no_sp_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style sub_menu_bonus_text:
+    size 60
 
-translate russian style prologue_name_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style bonus_change_mind_text_1:
+    xpos 860
+    ypos 465
+    size 60
 
-translate russian style prologue_fetishes_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style bonus_change_mind_text_2:
+    size 45
+    xpos 860
+    ypos 640
 
-translate russian style ending_menu_label_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style bonus_rm_rf_text_2:
+    size 49
 
-translate russian style about_button_text:
-    font "fonts/Andika-Regular.ttf"
+translate deutsch style prologue_yes_button:
+    left_padding 35
+    right_padding 30
 
-translate russian style fetish_selection_button_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style thank_you_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style credits_roll_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style credit_start_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style ending_start_screen_label_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style dark_character:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_high_score_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_front_nine_text:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_change_mind_text_1:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_change_mind_text_2:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_rm_rf_text_1:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_rm_rf_text_2:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_rm_rf_text_3:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_cherry_popped_text_big:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_cherry_popped_text_small:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_trade_text_title:
-    font "fonts/Andika-Regular.ttf"
-
-translate russian style bonus_trade_text_body:
-    font "fonts/Andika-Regular.ttf"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

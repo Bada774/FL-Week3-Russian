@@ -1073,4 +1073,18 @@ translate malay strings:
 
     old "Go Fuck Yourself"
     new "Pergi Mampus"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+translate malay d19s01ntr_decision_aeef075e:
+
+
+    lc "Easy words."
+
+
+translate malay d19s01ntr_decision_5b1e303f:
+
+
+    lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

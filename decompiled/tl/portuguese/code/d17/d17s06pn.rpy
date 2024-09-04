@@ -1135,4 +1135,5 @@ translate portuguese strings:
 
     old "We make a good trio"
     new "Nós formamos um belo trio"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

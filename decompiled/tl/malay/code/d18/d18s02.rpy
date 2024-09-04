@@ -305,4 +305,5 @@ translate malay strings:
 
     old "1 hour later\nAt Stacy's house"
     new "Sejam kemudian\nDi rumah Stacy"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

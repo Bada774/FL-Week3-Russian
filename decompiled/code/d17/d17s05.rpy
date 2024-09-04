@@ -108,7 +108,7 @@ label d17s05:
             scene d17s05-02-lh-on-phone-close-up with dissolve
             mh "Stacy?{w} Sure. I've been meaning to talk to her a bit more."
             mh "I think Stacy would be lovely."
-        "Bring no one"(hint="d17s05m01c03") if True:
+        "Bring no one"(hint="d17s05m01c03"):
 
 
             $ d17s05_mh = True
@@ -240,4 +240,5 @@ label d17s05:
 
         stop music fadeout 3.5
         jump d17s05mh
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

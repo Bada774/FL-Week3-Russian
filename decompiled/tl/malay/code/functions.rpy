@@ -15,12 +15,12 @@ translate malay strings:
     new "Anda telah membuka kandungan bonus baharu"
 
 
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "Permainan ini akan memainkan semula adegan\nmengikut permainan lalai"
+    old "The game will replay the scene according to a default playthrough"
+    new "Permainan ini akan memainkan semula adegan mengikut permainan lalai"
 
 
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "Permainan ini akan cuba memainkan semula adegan\nmengikut permainan semasa anda"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "Permainan ini akan cuba memainkan semula adegan mengikut permainan semasa anda"
 
 
     old "You can only select two out of Min, Lyssa and Maria"
@@ -36,4 +36,5 @@ translate malay strings:
 
     old "You have unlocked Ending #{}"
     new "You have unlocked Ending #{}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

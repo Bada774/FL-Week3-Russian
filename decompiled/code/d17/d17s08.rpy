@@ -355,7 +355,6 @@ label replay_d17s08:
         play voice2 mc_disappointed_off2 noloop
         mc "Oh, okay."
 
-
         $ Lovense.stop()
 
         scene d17s08-28 mc-sy-handjob_c1 with dissolve
@@ -447,7 +446,6 @@ label replay_d17s08:
         mc "OH FUCK YESSS"
         $ renpy.music.set_volume(0.3, 3.5, "music")
         scene d17s08-31 mc-sy-leave-talk1_c1 with fade
-
 
         $ Lovense.stop()
 
@@ -668,4 +666,5 @@ label replay_d17s08:
     stop music fadeout 4.0
 
     jump d18s01
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -229,4 +229,5 @@ transform minigame_low_hp():
         linear 1.0 alpha 0.1
         linear 1.0 alpha 0.3
         repeat
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

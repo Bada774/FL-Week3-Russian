@@ -1505,4 +1505,5 @@ translate chinese strings:
 
     old "No, I don't want to see that."
     new "不，我不想看。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

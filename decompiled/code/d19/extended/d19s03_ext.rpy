@@ -157,10 +157,10 @@ label replay_d19s03:
     scene black with dissolve
     menu:
         "Do you want to see watersports?"
-        "Yes" if True:
+        "Yes":
             $ fl_watersports = True
             pass
-        "No" if True:
+        "No":
 
             $ fl_watersports = False
             pass
@@ -168,7 +168,6 @@ label replay_d19s03:
     jump d19s03_bj
 
 label d19s03_bj:
-
 
 
     $ Lovense.stop()
@@ -298,7 +297,7 @@ label d19s03_bj:
         mh "I want to feel you cum down my throat, [mcname]!"
         scene d19s03-38 mc-tils-mh-head-up-makes-choice_c1 with dissolve
     menu:
-        "Give Lyssa what she wants"(hint="d19s03m01c01") if True:
+        "Give Lyssa what she wants"(hint="d19s03m01c01"):
             $ d19s03_give_mh = True
 
             scene d19s03-39 mc-warns-mh-not-to-spil-single-drop_c1 with dissolve
@@ -355,7 +354,7 @@ label d19s03_bj:
             mc "C'mon. Get in the bed. I want to you up today."
 
             jump d19s03_sex
-        "Save it for her ass"(hint="d19s03m01c02") if True:
+        "Save it for her ass"(hint="d19s03m01c02"):
 
             scene d19s03-46b mc-tells-mh-get-on-bed_c1 with dissolve
             if date_mh_bdsm is True:
@@ -408,7 +407,7 @@ label d19s03_sex:
     scene d19s03-a50-03-f with dissolve
     pause
     menu:
-        "Jerk off Lyssa"(hint="d19s03m02c01") if True:
+        "Jerk off Lyssa"(hint="d19s03m02c01"):
             $ d19s03_jerk_mh = True
 
             stop voice3 fadeout 1.0
@@ -463,7 +462,7 @@ label d19s03_sex:
             $ Lovense.vibrate(18)
             scene d19s03-53 mc-cums-inside-mh-cums-on-her-belly_c1 with hpunch
             pause
-        "Don't"(hint="d19s03m02c02") if True:
+        "Don't"(hint="d19s03m02c02"):
 
             stop voice2 fadeout 1.0
             stop voice3 fadeout 1.0
@@ -697,7 +696,7 @@ label d19s03_watersports:
     mc "I think I'm gonna cum."
     mh "*Heaving* Me too! Cum with me!"
     menu:
-        "Cum inside"(hint="d19s03m03c01") if True:
+        "Cum inside"(hint="d19s03m03c01"):
             $ d19s03_cum_inside = True
 
             play voice3 lissa_moan9 noloop
@@ -716,7 +715,7 @@ label d19s03_watersports:
             $ Lovense.vibrate(4)
             scene d19s03-85 mc-pulls-out-cums-drip-on-ass-leg_c1 with dissolve
             pause
-        "Cum outside"(hint="d19s03m03c02") if True:
+        "Cum outside"(hint="d19s03m03c02"):
 
             play voice3 lissa_moan9 noloop
             stop sound fadeout 1.0
@@ -747,7 +746,6 @@ label d19s03_watersports:
     mc "Uh... We should probably shower and clean this up."
     play voice3 lissa_yes noloop
     mh "*Giggles* Yes, yes we should. Especially before Stacy gets back."
-
 
     $ Lovense.stop()
 
@@ -799,10 +797,10 @@ label d19s03_talk:
     play voice3 dahlia_thinking_hmm4 noloop
     mh "What are you thinking about?"
     menu:
-        "Ask Lyssa for help"(hint="d19s03m04c01") if True:
+        "Ask Lyssa for help"(hint="d19s03m04c01"):
             $ d19s03_mh_help = True
             jump d19s03_ask_mh
-        "Don't bother"(hint="d19s03m04c02") if True:
+        "Don't bother"(hint="d19s03m04c02"):
 
             jump d19s03_dont_ask
 
@@ -898,4 +896,5 @@ label d19s03_dont_ask:
 
     stop music fadeout 3.5
     jump d19s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

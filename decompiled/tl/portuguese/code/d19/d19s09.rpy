@@ -941,4 +941,5 @@ translate portuguese d19s09_end_9cc11ce7:
 
 
     sy "É... até que bem interessante. Quem construiu ele não era completamente burro."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

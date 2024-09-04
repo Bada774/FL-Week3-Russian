@@ -34,7 +34,7 @@ translate russian e06s01_2ad5c857:
 translate russian e06s01_055c1548:
 
     # mc "Or worse, it's about to turn into a nightmare, and not the fun Tim Burton kind..."
-    mc "Или, что ещё хуже, что это вот-вот превратится в кошмар, причём не в такой весёлый, как у Тима Бёртона...\n\n{size=-10}{i}(Тим Бёртон - американский кинорежиссёр){/size}"
+    mc "Или, что ещё хуже, что это вот-вот превратится в кошмар, причём не в такой весёлый, как у Тима Бёртона...\n\n{size=-10}{i}Тим Бёртон - американский кинорежиссёр.{/i}{/size}"
 
 # game/code/e06/e06s01.rpy:112
 translate russian e06s01_adf3e322:
@@ -82,7 +82,7 @@ translate russian e06s01_37ddab42:
 translate russian e06s01_fef40d9b:
 
     # lc "Haha. No... nothing like that. After being in that cell and then wearing these clothes again, I feel utterly disgusting."
-    lc "Хаха. Нет... ничего подобного. После той камеры, снова надев эту одежду, я чувствую себя совершенно отвратительно."
+    lc "Хаха. Нет... ничего подобного. После пребывания в той камере, и снова надев эту одежду, я чувствую себя совершенно отвратительно."
 
 # game/code/e06/e06s01.rpy:128
 translate russian e06s01_16d03227:
@@ -160,7 +160,7 @@ translate russian e06s01_d4465dcc:
 translate russian e06s01_812193e1:
 
     # lc "There is no Fetish Locator without me telling Jerome about my secret."
-    lc "Не было бы никакого Фетиш Локатора, если бы я не рассказала Джерому о своём секрете."
+    lc "Если бы я не рассказала Джерому о своём секрете, не было бы никакого Фетиш Локатора."
 
 # game/code/e06/e06s01.rpy:177
 translate russian e06s01_200dcac1:
@@ -178,7 +178,7 @@ translate russian e06s01_cdfb4896:
 translate russian e06s01_d0468e36:
 
     # lc "I could have caught it. Maybe if I came clean to you... Instead of-"
-    lc "Я могла бы его поймать. Может быть, если бы я рассказала тебе правду... Вместо..."
+    lc "Я могла бы поймать его. Может быть, если бы я просто рассказала тебе правду... Вместо..."
 
 # game/code/e06/e06s01.rpy:184
 translate russian e06s01_d28de22e:
@@ -190,13 +190,13 @@ translate russian e06s01_d28de22e:
 translate russian e06s01_3006cfa2:
 
     # lc "I guess my phone is alive again."
-    lc "О, мой вроде телефон ожил."
+    lc "О, мой телефон вроде ожил."
 
 # game/code/e06/e06s01.rpy:200
 translate russian e06s01_310ee3d8:
 
     # mct "And that would be mine."
-    mct "А вот это мой."
+    mct "А вот это должно быть мой."
 
 # game/code/e06/e06s01.rpy:203
 translate russian e06s01_d11cf752:
@@ -274,7 +274,7 @@ translate russian e06s01_9e7c3fbe:
 translate russian e06s01_9be5f820:
 
     # lc "That wasn't me, that was Ridley. You know, the A.I."
-    lc "Это была не я, это был Ридли. Ну знаешь, И.И."
+    lc "Это была не я, это был Ридли. Ну, знаешь, И.И."
 
 # game/code/e06/e06s01.rpy:239
 translate russian e06s01_17ec13ae:
@@ -358,7 +358,7 @@ translate russian e06s01_3c92b8d1:
 translate russian e06s01_d883f10f:
 
     # mc "Haha. You don't want to lock her up in a cage to make her listen to your side?"
-    mc "Хаха. Ты же не хочешь запереть её в клетку, чтобы заставить её тебя слушать?"
+    mc "Хаха. Ты же не хочешь запереть её в клетку, чтобы заставить её тебя выслушать?"
 
 # game/code/e06/e06s01.rpy:276
 translate russian e06s01_1a5f1b10:
@@ -376,7 +376,7 @@ translate russian e06s01_f7cce481:
 translate russian e06s01_fa0bce90:
 
     # mc "Of course. Just don't be surprised if I'm more animal than man when we finally make love."
-    mc "Конечно. Только не удивляйся, если я больше буду похож на животное, чем на человека, когда мы наконец займёмся любовью."
+    mc "Конечно. Только не удивляйся, если я буду больше похож на животное, чем на человека, когда мы наконец займёмся любовью."
 
 # game/code/e06/e06s01.rpy:283
 translate russian e06s01_22085584:
@@ -388,7 +388,7 @@ translate russian e06s01_22085584:
 translate russian e06s01_d45dc55a:
 
     # lc "When you're... unrestrained..."
-    lc "Когда ты... необузданный..."
+    lc "Когда ты... необуздан..."
 
 # game/code/e06/e06s01.rpy:295
 translate russian e06s01_b3614f1d:

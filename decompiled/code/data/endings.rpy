@@ -20,4 +20,5 @@ init python:
     ("E17" , _("Not Guilty")               , "e17_menu_jump" , "reached_e17" , 2 ),
     ("E18" , _("Quartet")                  , "e18_menu_jump" , "reached_e18" , 3 ),
     )
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

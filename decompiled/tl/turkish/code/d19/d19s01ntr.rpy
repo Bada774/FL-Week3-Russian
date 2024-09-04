@@ -1073,4 +1073,19 @@ translate turkish strings:
 
     old "Go Fuck Yourself"
     new "Git kendini becer"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+
+translate turkish d19s01ntr_decision_aeef075e:
+
+
+    lc "Kolay kelimeler."
+
+
+translate turkish d19s01ntr_decision_5b1e303f:
+
+
+    lc "Seni almaya döndüğümde bağlılığını test edeceğimden emin olabilirsin. Buna küçük bir sürpriz diyelim."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

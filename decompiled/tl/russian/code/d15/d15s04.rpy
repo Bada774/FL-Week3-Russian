@@ -244,7 +244,7 @@ translate russian d15s04_studying_a81d15e8:
 translate russian d15s04_studying_50f0b0b4:
 
     # mct "Business, business, business. I need to get my hands on whatever Unikitty's on."
-    mct "Бизнес, бизнес, бизнес. Мне нужно заполучить в свои руки всё, что есть у Юникитти. \n\n{size=-10}{i}(Юникитти - радужная кошечка из \"Лего Фильма\"){/i}{/size}."
+    mct "Бизнес, бизнес, бизнес. Мне нужно заполучить в свои руки всё, что есть у Юникитти. \n\n{size=-10}{i}Юникитти - радужная кошечка из мульфильма \"Лего Фильм\".{/i}{/size}."
 
 # game/code/d15/d15s04.rpy:154
 translate russian d15s04_studying_1df2c329:

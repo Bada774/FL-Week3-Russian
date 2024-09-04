@@ -28,7 +28,7 @@ translate russian e08s04_68ef5c8f:
 translate russian e08s04_17ba94dc:
 
     # mc "Yeah. I'm guessing you're from around here, but I had never seen you around in any of the town hall meetings."
-    mc "Ага. Вы отсюда? Я никогда Вас не видел ни на одном из городских собраний."
+    mc "Ага. Вы неместная? Никогда Вас не видел ни на одном из городских собраний."
 
 # game/code/e08/e08s04.rpy:80
 translate russian e08s04_d503a21f:
@@ -88,7 +88,7 @@ translate russian e08s04_377ac4ad:
 translate russian e08s04_a15ee08f:
 
     # mc "The clock isn't moving."
-    mc "Но часы не движутся."
+    mc "Но часы не идут."
 
 # game/code/e08/e08s04.rpy:98
 translate russian e08s04_7f9c56e9:
@@ -130,7 +130,7 @@ translate russian e08s04_21ca2efa:
 translate russian e08s04_a6029b1c:
 
     # hh "However, helping when I don't have anything is the most loving thing one can do."
-    hh "Однако помогать, когда у меня ничего нет - это самое приятное, что можно сделать."
+    hh "Однако оказывать помощь, когда у тебя ничего нет - это самое приятное, что можно сделать."
 
 # game/code/e08/e08s04.rpy:110
 translate russian e08s04_f62a21ad:
@@ -142,7 +142,7 @@ translate russian e08s04_f62a21ad:
 translate russian e08s04_4f63b894:
 
     # mc "I'll only be a minute, one minute, and I'll be back."
-    mc "Я отойду всего на минуту, одну минуту, и вернусь."
+    mc "Я отойду всего на минуту, всего одну минуту, и вернусь."
 
 # game/code/e08/e08s04.rpy:112
 translate russian e08s04_6c87dac1:
@@ -244,7 +244,7 @@ translate russian e08s04_a9d7bde6:
 translate russian e08s04_c7dac84e:
 
     # mc "You must have really been thirsty."
-    mc "Вы, должно быть, очень хотели пить."
+    mc "Вы, должно быть, очень сильно хотели пить."
 
 # game/code/e08/e08s04.rpy:160
 translate russian e08s04_cbae4e19:
@@ -292,7 +292,7 @@ translate russian e08s04_e70f1875:
 translate russian e08s04_ef523f71:
 
     # arj "I heard you were leaving. So before you did..."
-    arj "Я слышала, что вы уезжаете. Прежде чем Вы уйдёте..."
+    arj "Я слышала, что Вы уезжаете. Прежде чем Вы уйдёте..."
 
 # game/code/e08/e08s04.rpy:174
 translate russian e08s04_576a38a2:
@@ -304,7 +304,7 @@ translate russian e08s04_576a38a2:
 translate russian e08s04_6dc61341:
 
     # arj "Here's some eggs. If you need to take it home, we have enough food to tide us over."
-    arj "Вот немного яиц. Можете забрать их домой, у нас еды хватит."
+    arj "Здесь немного яиц. Можете забрать их к себе домой, у нас еды хватит."
 
 # game/code/e08/e08s04.rpy:177
 translate russian e08s04_2f8291f5:
@@ -364,7 +364,7 @@ translate russian e08s04_bdf3e13d:
 translate russian e08s04_5d0925df:
 
     # mct "Why else is she talking in old-timey language?"
-    mct "Почему она говорит каким-то старинным языком?"
+    mct "Почему она говорит на каком-то старинном языке?"
 
 # game/code/e08/e08s04.rpy:196
 translate russian e08s04_b3b6f7f8:
@@ -400,7 +400,7 @@ translate russian e08s04_03bd3623:
 translate russian e08s04_97df7fc2:
 
     # mc "I mean... that's great."
-    mc "Я имел в виду... это замечательно."
+    mc "Я хотел сказать... это замечательно."
 
 # game/code/e08/e08s04.rpy:210
 translate russian e08s04_94504d03:
@@ -472,7 +472,7 @@ translate russian e08s04_e9eebe06:
 translate russian e08s04_fa508aba:
 
     # arj "No, all our clocks are broken in the house. Probably an electrical problem."
-    arj "Нет, у нас в доме сломались все часы. Возможно, проблемы с электричеством."
+    arj "Нет, у нас дома ни одни часы не работают. Может, проблемы с электричеством."
 
 # game/code/e08/e08s04.rpy:231
 translate russian e08s04_91b8ca9e:
@@ -490,13 +490,13 @@ translate russian e08s04_5c2a3567:
 translate russian e08s04_d19c35ce:
 
     # hh "It's a couple of miles from here. By the town library."
-    hh "Это в паре миль отсюда. У городской библиотеки."
+    hh "Это в паре миль отсюда. Возле городской библиотеки."
 
 # game/code/e08/e08s04.rpy:236
 translate russian e08s04_75dc7ec8:
 
     # arj "Do you want us to drive you?"
-    arj "Хотите, мы Вас туда отвезём?"
+    arj "Хотите, мы можем Вас туда отвезти?"
 
 # game/code/e08/e08s04.rpy:238
 translate russian e08s04_d29109ae:
@@ -508,7 +508,7 @@ translate russian e08s04_d29109ae:
 translate russian e08s04_a2895728:
 
     # hh "Thank you."
-    hh "Спасибо вам."
+    hh "Благодарю вас."
 
 # game/code/e08/e08s04.rpy:240
 translate russian e08s04_529d20c0:
@@ -526,7 +526,7 @@ translate russian e08s04_626d3f7a:
 translate russian e08s04_34ef4a0b:
 
     # hh "When you see me again, I hope it will be under better circumstances."
-    hh "Если вы увидите меня снова, я надеюсь, это будет при лучших обстоятельствах."
+    hh "Если мы ещё встретимся, я надеюсь, это случится при более лучших обстоятельствах."
 
 # game/code/e08/e08s04.rpy:251
 translate russian e08s04_c72f89a9:
@@ -562,13 +562,13 @@ translate russian e08s04_0f32110e:
 translate russian e08s04_be42fadc:
 
     # mct "She was like a ghost."
-    mct "Она похожа на привидение."
+    mct "Она была похожа на привидение."
 
 # game/code/e08/e08s04.rpy:261
 translate russian e08s04_a39ca151:
 
     # mc "I didn't know there was a shelter around here."
-    mc "Не знал, что здесь где-то есть приют."
+    mc "Не знал, что где-то здесь есть приют."
 
 # game/code/e08/e08s04.rpy:263
 translate russian e08s04_0f5bc6d6:
@@ -592,7 +592,7 @@ translate russian e08s04_ee96946c:
 translate russian e08s04_b24eb4c3:
 
     # mc "We don't really go anywhere."
-    mc "Мы особо никуда не ходим."
+    mc "Мы ведь особо никуда не ходим."
 
 # game/code/e08/e08s04.rpy:270
 translate russian e08s04_09370ab9:
@@ -610,7 +610,7 @@ translate russian e08s04_516904ab:
 translate russian e08s04_74e9f063:
 
     # mc "Our house looks okay, somehow."
-    mc "Снаружи наш дом выглядит нормально."
+    mc "Снаружи дом выглядит нормально."
 
 # game/code/e08/e08s04.rpy:277
 translate russian e08s04_567ab456:
@@ -634,13 +634,13 @@ translate russian e08s04_09965611:
 translate russian e08s04_ef186835:
 
     # mc "About zero. Same with the water, and the internet."
-    mc "Около нуля. То же самое с водой и интернетом."
+    mc "Около нулевая. То же самое с водой и интернетом."
 
 # game/code/e08/e08s04.rpy:284
 translate russian e08s04_aac4cdf0:
 
     # mc "It'll probably take a couple of days for it to be restored."
-    mc "Скорее всего, так будет ещё пару дней, пока это всё не восстановят."
+    mc "Скорее всего, так будет ещё пару дней, пока всё не восстановят."
 
 # game/code/e08/e08s04.rpy:287
 translate russian e08s04_1a539e70:
@@ -658,7 +658,7 @@ translate russian e08s04_be19ab44:
 translate russian e08s04_c285c125:
 
     # mc "Then we can start boiling some water, so we can take a bath together, because I really need one."
-    mc "Потом можем вскипятить воду, чтобы вместе принять ванну."
+    mc "Потом можем начать кипятить воду, чтобы вместе принять ванну."
 
 # game/code/e08/e08s04.rpy:292
 translate russian e08s04_026bb471:
@@ -706,13 +706,13 @@ translate russian e08s04_bc7d21b5:
 translate russian e08s04_45a78f33:
 
     # arj "Are we using pots as the measurement?"
-    arj "Мы используем горшки в качестве мерной чаши?"
+    arj "Мы используем кастрюли в качестве мерной чаши?"
 
 # game/code/e08/e08s04.rpy:312
 translate russian e08s04_a37dbe43:
 
     # mc "I suppose so."
-    mc "Полагаю, что да."
+    mc "Видимо что да."
 
 # game/code/e08/e08s04.rpy:313
 translate russian e08s04_ec5971d9:
@@ -934,7 +934,7 @@ translate russian e08s04_6cb072c2:
 translate russian e08s04_566ab0c8:
 
     # mc "Medical supplies should be all in the pantry. Water's unaffected, it's still running."
-    mc "Все медицинские принадлежности должны быть в кладовой. Вода на них не повлияла, они всё ещё в порядке."
+    mc "Все медицинские принадлежности должны быть в кладовой. Вода к ним не добралась, так что они всё ещё в порядке."
 
 # game/code/e08/e08s04.rpy:404
 translate russian e08s04_a77262c6:
@@ -946,7 +946,7 @@ translate russian e08s04_a77262c6:
 translate russian e08s04_bathtub_bb3d3d52:
 
     # arj "I think we're still one pot short, and the water's not as hot as we'd like it."
-    arj "Кажется, нам всё ещё не хватает одного горшочка, и вода не такая горячая, как нам хотелось бы."
+    arj "Кажется, нам всё ещё не хватает одной кастрюльки, и вода не такая горячая, как нам хотелось бы."
 
 # game/code/e08/e08s04.rpy:417
 translate russian e08s04_bathtub_1f2018e8:
@@ -994,13 +994,13 @@ translate russian e08s04_bathtub_875550b4:
 translate russian e08s04_bathtub_2e392384:
 
     # arj "What happened to her?"
-    arj "Что случилось с Эшли?"
+    arj "Что с ней произошло?"
 
 # game/code/e08/e08s04.rpy:439
 translate russian e08s04_bathtub_b0d5abf2:
 
     # mc "Their barn exploded."
-    mc "Их сарай взорвался."
+    mc "У них сарай взорвался."
 
 # game/code/e08/e08s04.rpy:441
 translate russian e08s04_bathtub_e15a70a6:
@@ -1018,13 +1018,13 @@ translate russian e08s04_bathtub_cf1adef2:
 translate russian e08s04_bathtub_8aceed5d:
 
     # arj "Exploded? That's a lot to take in."
-    arj "Взорвался? Есть о чём поразмышлять."
+    arj "Взорвался? Есть над чем поразмыслить."
 
 # game/code/e08/e08s04.rpy:446
 translate russian e08s04_bathtub_ccf2a2ee:
 
     # arj "Did Ashley get hurt?"
-    arj "Она пострадала?"
+    arj "Эшли пострадала?"
 
 # game/code/e08/e08s04.rpy:448
 translate russian e08s04_bathtub_eb9c1f6d:
@@ -1054,19 +1054,19 @@ translate russian e08s04_bathtub_8967be26:
 translate russian e08s04_bathtub_00ef3952:
 
     # mc "At least everyone is okay."
-    mc "По крайней мере, всё в порядке."
+    mc "По крайней мере, все целы."
 
 # game/code/e08/e08s04.rpy:457
 translate russian e08s04_bathtub_2b777c6f:
 
     # mc "But that Havisham lady has seen better days."
-    mc "Но вот у леди Хэвишем явно были дни и получше."
+    mc "Но вот у Мисс Хэвишем явно бывали дни и получше."
 
 # game/code/e08/e08s04.rpy:459
 translate russian e08s04_bathtub_b23ad953:
 
     # arj "We can probably go for a visit downtown, and see if they have any supplies left. Maybe we can get something for the shelter."
-    arj "Мы можем съездить в центр и посмотреть, остались ли у них какие-нибудь припасы. Может быть, у нас получится купить что-нибудь для приюта."
+    arj "Мы можем съездить в центр и посмотреть, остались ли там какие-нибудь припасы. Может быть, у нас получится купить что-нибудь для приюта."
 
 # game/code/e08/e08s04.rpy:461
 translate russian e08s04_bathtub_606e2d02:
@@ -1102,7 +1102,7 @@ translate russian e08s04_bathtub_3849c4ba:
 translate russian e08s04_bathtub_8c150848:
 
     # mc "Are you worried that they might hear us?"
-    mc "Ты волнуешься, что они могут нас услышать?"
+    mc "Ты волнуешься, что они нас услышат?"
 
 # game/code/e08/e08s04.rpy:478
 translate russian e08s04_bathtub_f763bdc5:
@@ -1114,7 +1114,7 @@ translate russian e08s04_bathtub_f763bdc5:
 translate russian e08s04_bathtub_2d03b089:
 
     # mc "It's just that seeing you as such a caring and loving person makes me want to share in that love, is that so weird?"
-    mc "Просто я видел всю твою заботу и любовь, и хочу разделить эти чувства, разве это так странно?"
+    mc "Просто я наблюдал за твоей заботой и любовью, и хочу разделить эти чувства, разве это так странно?"
 
 # game/code/e08/e08s04.rpy:481
 translate russian e08s04_bathtub_ae2c595c:
@@ -1186,7 +1186,7 @@ translate russian e08s04_bathtub_efb3aab4:
 translate russian e08s04_bathtub_4e230a01:
 
     # arj "Fuck you!"
-    arj "Фак тебе!"
+    arj "Фак!"
 
 # game/code/e08/e08s04.rpy:518
 translate russian e08s04_bathtub_11455b53:
@@ -1198,7 +1198,7 @@ translate russian e08s04_bathtub_11455b53:
 translate russian e08s04_bathtub_d7219c59:
 
     # arj "If I don't fall, or flail around, I guess a middle finger directed at you?"
-    arj "Если я не упаду и не начну барахтаться, думаю, средний палец сможет тебе объяснить?"
+    arj "Если я не упаду и не начну барахтаться, думаю, средний палец сможет тебе всё объяснить?"
 
 # game/code/e08/e08s04.rpy:521
 translate russian e08s04_bathtub_ed8d8168:
@@ -1210,13 +1210,13 @@ translate russian e08s04_bathtub_ed8d8168:
 translate russian e08s04_bathtub_7a8a3b39:
 
     # mc "Works for me."
-    mc "Меня устраивает."
+    mc "Ладно, меня устраивает."
 
 # game/code/e08/e08s04.rpy:534
 translate russian e08s04_bathtub_a7be9f6f:
 
     # mc "Alright, hold on tight."
-    mc "Хорошо, держись крепче."
+    mc "Ну, держись крепче."
 
 # game/code/e08/e08s04.rpy:536
 translate russian e08s04_bathtub_1871830e:
@@ -1258,7 +1258,7 @@ translate russian e08s04_bathtub_b2004faf:
 translate russian e08s04_bathtub_faa45fdc:
 
     # arj "We must have."
-    arj "Должны были."
+    arj "Наверное должны были."
 
 # game/code/e08/e08s04.rpy:574
 translate russian e08s04_bathtub_0648d4db:
@@ -1390,7 +1390,7 @@ translate russian e08s04_bathtub_987622d5:
 translate russian e08s04_bathtub_7e76e26a:
 
     # arj "But this is great."
-    arj "Но это здорово."
+    arj "Но это - здорово."
 
 # game/code/e08/e08s04.rpy:670
 translate russian e08s04_bathtub_1eba8318:
@@ -1402,13 +1402,13 @@ translate russian e08s04_bathtub_1eba8318:
 translate russian e08s04_bathtub_3160286e:
 
     # mc "It's like our honeymoon again."
-    mc "Это снова похоже на наш медовый месяц."
+    mc "Это как ещё один медовый месяц."
 
 # game/code/e08/e08s04.rpy:685
 translate russian e08s04_bathtub_d90dd1cd:
 
     # arj "Under the most fucked up situation imaginable, but yeah, just like our honeymoon."
-    arj "В самой дурацкой ситуации, которую только можно себе представить, но да, прямо как в наш медовый месяц."
+    arj "В самой дурацкой ситуации, которую только можно себе представить, но да, прямо как медовый месяц."
 
 # game/code/e08/e08s04.rpy:696
 translate russian e08s04_bathtub_83078e78:
@@ -1420,7 +1420,7 @@ translate russian e08s04_bathtub_83078e78:
 translate russian e08s04_bathtub_4bcaa12a:
 
     # arj "I love you back."
-    arj "Я тебя тоже."
+    arj "И я тебя тоже."
 
 # game/code/e08/e08s04.rpy:706
 translate russian e08s04_bathtub_50c68e9e:
@@ -1432,7 +1432,7 @@ translate russian e08s04_bathtub_50c68e9e:
 translate russian e08s04_bathtub_7c661363:
 
     # arj "That's what you're worried about?"
-    arj "Вот что тебя беспокоит?"
+    arj "Это то, что тебя сейчас беспокоит?"
 
 # game/code/e08/e08s04.rpy:711
 translate russian e08s04_bathtub_a70c3a02:
@@ -1510,7 +1510,7 @@ translate russian e08s04_next_morning_681a35ab:
 translate russian e08s04_next_morning_04e4b955:
 
     # arj "Maybe next time."
-    arj "Может быть, в следующий раз."
+    arj "Может в следующий раз."
 
 # game/code/e08/e08s04.rpy:791
 translate russian e08s04_next_morning_f7be70e0:
@@ -1522,7 +1522,7 @@ translate russian e08s04_next_morning_f7be70e0:
 translate russian e08s04_next_morning_a9f65c58:
 
     # arj "It's actually a spoke."
-    arj "Спицевое колесо, если точно."
+    arj "Спицевое колесо, если точнее."
 
 # game/code/e08/e08s04.rpy:794
 translate russian e08s04_next_morning_91537e2f:
@@ -1540,7 +1540,7 @@ translate russian e08s04_next_morning_79260cb3:
 translate russian e08s04_next_morning_ed9efe0e:
 
     # arj "We'll need to stockpile supplies and clean up."
-    arj "Соберём припасы и приберёмся."
+    arj "Собрать припасы и прибраться."
 
 # game/code/e08/e08s04.rpy:799
 translate russian e08s04_next_morning_bcc35a99:
@@ -1558,7 +1558,7 @@ translate russian e08s04_next_morning_fcf340b6:
 translate russian e08s04_next_morning_4e6a8397:
 
     # arj "We need to start as soon as possible, and distribute what we have on the farm."
-    arj "Нам нужно как можно скорее начать и раздать то, что есть на ферме."
+    arj "Нам нужно как можно скорее начать, и раздать то, что есть на ферме."
 
 # game/code/e08/e08s04.rpy:805
 translate russian e08s04_next_morning_5bc7f88a:
@@ -1606,7 +1606,7 @@ translate russian e08s04_next_morning_2ed07cdf:
 translate russian e08s04_next_morning_746606c9:
 
     # mc "The helping out part is part of our duty now, isn't it?"
-    mc "Помогать - теперь является частью нашего долга, не так ли?"
+    mc "Помогать - теперь часть нашего долга, не так ли?"
 
 # game/code/e08/e08s04.rpy:818
 translate russian e08s04_next_morning_5b263957:
@@ -1618,7 +1618,7 @@ translate russian e08s04_next_morning_5b263957:
 translate russian e08s04_next_morning_f330af3f:
 
     # arj "You can get started with the refurnishing."
-    arj "Ты можешь пока приступить к ремонту."
+    arj "Ты можешь пока заняться ремонтом."
 
 # game/code/e08/e08s04.rpy:820
 translate russian e08s04_next_morning_576a38a2:
@@ -1630,7 +1630,7 @@ translate russian e08s04_next_morning_576a38a2:
 translate russian e08s04_next_morning_a5637873:
 
     # mc "Is this for the tractor? I mean, this is kinda old-fashioned."
-    mc "Оно для трактора? Это немного старомодно."
+    mc "Оно для трактора? Просто, это как-то немного старомодно."
 
 # game/code/e08/e08s04.rpy:826
 translate russian e08s04_next_morning_62c25714:
@@ -1666,7 +1666,7 @@ translate russian e08s04_next_morning_5ebbc493:
 translate russian e08s04_next_morning_01c29271:
 
     # mct "Look at me, I'm talking to a dog."
-    mct "Взгляните на меня, я разговариваю с собакой."
+    mct "Вы только посмотрите на меня, я разговариваю с собакой."
 
 # game/code/e08/e08s04.rpy:847
 translate russian e08s04_next_morning_d41de262:
@@ -1720,7 +1720,7 @@ translate russian e08s04_next_morning_d2ca9a70:
 translate russian e08s04_next_morning_011b48fd:
 
     # mc "You're pushing yourself too hard. You're taking care of Ashley, I mean you're barely sleeping."
-    mc "Ты слишком сильно нагружаешь себя. Ты заботишься об Эшли, почти не спишь."
+    mc "Ты слишком сильно себя нагружаешь. Ты заботишься об Эшли, почти не спишь."
 
 # game/code/e08/e08s04.rpy:866
 translate russian e08s04_next_morning_2e3829e4:
@@ -1732,7 +1732,7 @@ translate russian e08s04_next_morning_2e3829e4:
 translate russian e08s04_next_morning_e8514221:
 
     # fc "I can't just sit by and not help."
-    fc "Я же не могу просто сидеть и не помогать."
+    fc "Я не могу просто сидеть и не помогать."
 
 # game/code/e08/e08s04.rpy:870
 translate russian e08s04_next_morning_e6e8af46:
@@ -1750,7 +1750,7 @@ translate russian e08s04_next_morning_a5309bfc:
 translate russian e08s04_next_morning_03321975:
 
     # mc "Alright, just don't burn yourself out. I can't afford to take care of both you and Ashley."
-    mc "Хорошо, только не перетрудись. Я не могу позволить себе заботиться и о тебе, и об Эшли."
+    mc "Хорошо, только не перетрудись. Я не могу себе позволить заботиться и о тебе, и об Эшли."
 
 # game/code/e08/e08s04.rpy:877
 translate russian e08s04_next_morning_8565110b:
@@ -1804,7 +1804,7 @@ translate russian e08s04_next_morning_dd9b9fbd:
 translate russian e08s04_next_morning_ff32d7f0:
 
     # mc "I wish I took a class on dealing with acts of God."
-    mc "Хотелось бы мне пройти курс по борьбе с стихийными бедствиями."
+    mc "Хотелось бы мне пройти курс по борьбе со стихийными бедствиями."
 
 # game/code/e08/e08s04.rpy:898
 translate russian e08s04_next_morning_50cb222c:
@@ -1822,13 +1822,13 @@ translate russian e08s04_next_morning_589b57f1:
 translate russian e08s04_next_morning_dcc319bf:
 
     # fc "Really? You didn't seem like the college-going type."
-    fc "Правда? Ты не был похож на студента колледжа."
+    fc "Правда? Ты не был похож на человека, который ходил в колледж."
 
 # game/code/e08/e08s04.rpy:903
 translate russian e08s04_next_morning_84c0a736:
 
     # fc "Anyway, don't worry too much. We're all figuring it out on our own time."
-    fc "В любом случае, не волнуйся слишком сильно. Разбирайся с проблемами, когда приходит время."
+    fc "В любом случае, не беспокойся. Разбирайся с проблемами, когда придёт время."
 
 # game/code/e08/e08s04.rpy:905
 translate russian e08s04_next_morning_bd571ad8:
@@ -1840,7 +1840,7 @@ translate russian e08s04_next_morning_bd571ad8:
 translate russian e08s04_next_morning_35b94a0f:
 
     # mc "What are the chances of us needing a huge wheel spoke?"
-    mc "Нам может понадобится огромное спицевое колесо?"
+    mc "Каковы шансы, что нам может понадобится огромное спицевое колесо?"
 
 # game/code/e08/e08s04.rpy:912
 translate russian e08s04_next_morning_9b2e5382:
@@ -1864,7 +1864,7 @@ translate russian e08s04_next_morning_d54ad45d:
 translate russian e08s04_next_morning_04a6265a:
 
     # mct "The hard part's over, and now the real work begins."
-    mct "Сложная часть позади, и теперь начинается настоящая работа."
+    mct "Сложная часть позади, а теперь начинается настоящая работа."
 
 translate russian strings:
 

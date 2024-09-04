@@ -748,7 +748,7 @@ translate russian d20s02zw_sex_7057d577:
 translate russian d20s02zw_sex_f52ec768:
 
     # mc "*Chuckles* We really just made her into a human Twinkie."
-    mc "*смеётся* Мы только что превратили её в Человека-Твинки. \n\n{size=-10}{i}(Твинки - амереканский кекс, заполненный кремовой начинкой){/i}{/size}"
+    mc "*смеётся* Мы только что превратили её в Человека-Твинки. \n\n{size=-10}{i}\"Твинки\" - амереканский кекс, заполненный кремовой начинкой.{/i}{/size}"
 
 # game/code/d20/d20s02zw.rpy:570
 translate russian d20s02zw_sex_ed6c6886_1:

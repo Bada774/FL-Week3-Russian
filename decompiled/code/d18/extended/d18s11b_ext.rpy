@@ -138,7 +138,7 @@ label d18s11b_ext:
     "Male Voice" "Who?"
     scene d18s11b-17-mc-mys-confused with dissolve
     menu:
-        "Sucker Punch the Guy"(hint="d18s11bm01c01") if True:
+        "Sucker Punch the Guy"(hint="d18s11bm01c01"):
             $ renpy.music.set_volume(0.75, 3.0, "music")
             play music rape_god_loop
             play sound sfx_kick3
@@ -162,7 +162,7 @@ label d18s11b_ext:
             mc "I've never knocked anyone out before. You think he's alright?"
 
             jump d18s11b_continue
-        "Run for It"(hint="d18s11bm01c02") if True:
+        "Run for It"(hint="d18s11bm01c02"):
 
             $ d18s11b_run = True
 
@@ -204,7 +204,6 @@ label d18s11b_continue:
     play voice3 nora_oh noloop
     jdg "Oh, and you'd better tie me up as well."
     mc "Meh. Sure, why not."
-
 
     $ Lovense.stop()
 
@@ -402,7 +401,7 @@ label d18s11b_continue:
     play voice2 mc_yes_yeah7 noloop
     mc "Yeah, how would that even work?"
     menu:
-        "Spitroast the Judge"(hint="d18s11bm02c01") if True:
+        "Spitroast the Judge"(hint="d18s11bm02c01"):
             $ d18s11b_spitroast = True
 
             scene d18s11b-58-mc-jdg-talking with dissolve
@@ -429,7 +428,7 @@ label d18s11b_continue:
             play voice2 mc_thinking_mmm2 noloop
             mc "Don't worry, it's going to feel a lot more interesting once I start fucking her in the ass."
             stop voice4 fadeout 1.0
-        "Just Fuck Her Ass"(hint="d18s11bm02c02") if True:
+        "Just Fuck Her Ass"(hint="d18s11bm02c02"):
 
             scene d18s11b-58-mc-jdg-talking with dissolve
             play voice2 mc_thinking_hmm1 noloop
@@ -639,7 +638,6 @@ label d18s11b_end_talk:
     mc "Whatever. I trust you can keep his mouth shut and explain everything to him?"
     jdg "Yes, sir. I'll take care of it."
 
-
     $ Lovense.stop()
 
     scene d18s11b-74-mc-talking with dissolve
@@ -671,4 +669,5 @@ label d18s11b_end:
     $ renpy.end_replay()
 
     jump d18s11_bar
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

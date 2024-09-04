@@ -430,7 +430,7 @@ translate russian d18s06_4e85cb4d:
 translate russian d18s06_bba20693:
 
     # sy "Land shark!"
-    sy "Сухопутная акула!\n\n{size=-10}{i}(Отсылка к персонажу комедийного шоу \"Saturday Night Live\". Это акула, которая стучала в дверь и нападала, когда ей открывали){/i}{/size}"
+    sy "Сухопутная акула!\n\n{size=-10}{i}Отсылка к персонажу комедийного шоу \"Saturday Night Live\". Это акула, которая стучала в дверь и нападала, когда ей открывали.{/i}{/size}"
 
 # game/code/d18/d18s06.rpy:218
 translate russian d18s06_3cccfc57:
@@ -478,7 +478,7 @@ translate russian d18s06_dd422714:
 translate russian d18s06_b82b80f4:
 
     # hr "How did I get teamed up with the 3 Stooges?"
-    hr "Как я попала в команду трёх балбесов?\n\n(англ. 3 Stooges - отсылка к одноимённому комедийному шоу)"
+    hr "Как я попала в команду трёх балбесов?\n\n{size=-10}{i}Ориг. 3 Stooges - отсылка к одноимённому комедийному шоу.{/i}{/size}"
 
 # game/code/d18/d18s06.rpy:243
 translate russian d18s06_03ddde42:
@@ -550,7 +550,7 @@ translate russian d18s06_1473741d:
 translate russian d18s06_87f50194:
 
     # sy "I thought we were [mcname]'s Angels."
-    sy "Я думала, что мы Ангелы [mcname].\n\n{size=-10}{i}(Отсылка к серии фильмов \"Ангелы Чарли\"){/i}{/size}"
+    sy "Я думала, что мы Ангелы [mcname].\n\n{size=-10}{i}Отсылка к серии фильмов \"Ангелы Чарли\".{/i}{/size}"
 
 # game/code/d18/d18s06.rpy:278
 translate russian d18s06_90d6aef7:

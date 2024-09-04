@@ -59,6 +59,6 @@ translate russian strings:
 translate russian strings:
 
     # game/code/credits/credit_sprites.rpy:169
-    old "Русская локализация - Bada774"
-    new ""
+    old "Russian localization - Bada774"
+    new "Русская локализация - Bada774"
 

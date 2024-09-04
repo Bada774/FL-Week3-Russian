@@ -1281,4 +1281,101 @@ translate chinese strings:
 
     old "Sync Error"
     new "Sync Error"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+
+
+    old "Customize director.transforms to add more transforms."
+    new "Customize director.transforms to add more transforms."
+
+
+    old "Click to set."
+    new "Click to set."
+
+
+    old "Customize director.transitions to add more transitions."
+    new "Customize director.transitions to add more transitions."
+
+
+    old "Customize director.audio_channels to add more channels."
+    new "Customize director.audio_channels to add more channels."
+
+
+    old "Are you sure you want to continue where you left off?"
+    new "Are you sure you want to continue where you left off?"
+
+
+    old "self voicing enable"
+    new "self voicing enable"
+
+
+    old "self voicing disable"
+    new "self voicing disable"
+
+
+    old "clipboard voicing enable"
+    new "clipboard voicing enable"
+
+
+    old "clipboard voicing disable"
+    new "clipboard voicing disable"
+
+
+    old "debug voicing enable"
+    new "debug voicing enable"
+
+
+    old "debug voicing disable"
+    new "debug voicing disable"
+
+
+    old "restore window position"
+    new "restore window position"
+
+
+    old "reset"
+    new "reset"
+
+
+    old "(clear retained bubbles)"
+    new "(clear retained bubbles)"
+
+
+    old "No update methods found."
+    new "No update methods found."
+
+
+    old "Could not download file list: "
+    new "Could not download file list: "
+
+
+    old "File list digest does not match."
+    new "File list digest does not match."
+
+
+    old "Preparing to download the game data."
+    new "Preparing to download the game data."
+
+
+    old "Downloading the game data."
+    new "Downloading the game data."
+
+
+    old "The game data has been downloaded."
+    new "The game data has been downloaded."
+
+
+    old "An error occured when trying to download game data:"
+    new "An error occured when trying to download game data:"
+
+
+    old "This game cannot be run until the game data has been downloaded."
+    new "This game cannot be run until the game data has been downloaded."
+
+
+    old "Retry"
+    new "Retry"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

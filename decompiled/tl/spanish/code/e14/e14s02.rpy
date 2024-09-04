@@ -4,7 +4,7 @@
 translate spanish e14s02_4e897067:
 
 
-    pw "¡El primer día de \"Nora's\"! ¡Guau!"
+    pw "¡El primer día de \"Nora\"! ¡Guau!"
 
 
 translate spanish e14s02_2771b748:
@@ -809,4 +809,5 @@ translate spanish e14s02_fee50629:
 
 
     pw "Está bien."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

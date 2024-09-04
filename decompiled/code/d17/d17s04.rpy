@@ -177,16 +177,15 @@ label d17s04_rough:
     play voice2 mc_thinking_emm1 noloop
     mc "Ummm..."
 
-
     $ Lovense.stop()
 
     menu:
-        "Do It Her Way"(hint="d17s04m01c01") if True:
+        "Do It Her Way"(hint="d17s04m01c01"):
             $ d17s04_refuse = False
             $ d17s04_points = 12
 
             jump d17s04_anal_hard
-        "Refuse"(hint="d17s04m01c02") if True:
+        "Refuse"(hint="d17s04m01c02"):
 
             $ d17s04_refuse = True
             $ d17s04_points = 8
@@ -474,7 +473,6 @@ label d17s04_anal_hard:
     scene black with dissolve
     $ renpy.music.set_volume(0.4, 4.0, "music")
 
-
     $ Lovense.stop()
 
     scene d17s04-14 mc-hr-kinky-talk8_c1 with dissolve
@@ -646,7 +644,6 @@ label d17s04_anal_soft:
     mc "Um, thank you."
     scene d17s04-32 mc-hr-entry_c1 with fade
 
-
     $ Lovense.stop()
 
     play voice2 d1s5b_ehhh noloop
@@ -742,4 +739,5 @@ label d17s04_end:
 
     stop music fadeout 3.5
     jump d17s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

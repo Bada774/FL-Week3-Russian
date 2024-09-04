@@ -1241,4 +1241,5 @@ translate spanish strings:
 
     old "Don't Care"
     new "No importa"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

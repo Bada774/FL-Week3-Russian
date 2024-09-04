@@ -52,7 +52,7 @@ translate russian d18s03_3ae3eefb:
 translate russian d18s03_fb7bcec0:
 
     # mc "Well, this gouda claims to be from Holland..."
-    mc "Ну, этот гауда утверждает, что он из Голландии...\n\n{size=-10}{i}(Гауда - сорт сыра){/i}{/size}"
+    mc "Ну, этот гауда утверждает, что он из Голландии...\n\n{size=-10}{i}\"Гауда\" - сорт сыра.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:97
 translate russian d18s03_31732d27:
@@ -94,7 +94,7 @@ translate russian d18s03_019e500b:
 translate russian d18s03_2093761c:
 
     # mes "I am. I know just the right Malbec to pair with this."
-    mes "Это точно. Я знаю, какой Мальбек подойдет к этому сыру.\n\n{size=-10}{i}(Мальбек - сорт винограда, из которого производят вино){/i}{/size}"
+    mes "Это точно. Я знаю, какой Мальбек подойдет к этому сыру.\n\n{size=-10}{i}Мальбек - сорт винограда, из которого производят вино.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:121
 translate russian d18s03_a91ab50d:
@@ -496,19 +496,19 @@ translate russian d18s03_f28eb19a:
 translate russian d18s03_ba080a07:
 
     # mes "My turn. What does the acronym CTBT stand for?"
-    mes "Моя очередь. Что означает аббревиатура {size=-15}англ.{/size} CTBT?"
+    mes "Моя очередь. Что означает аббревиатура CTBT?"
 
 # game/code/d18/d18s03.rpy:343
 translate russian d18s03_8ae901c4:
 
     # mc "Cognitive Therapy and Behavioral Therapy?"
-    mc "Когнитивная Терапия и Поведенческая Терапия?\n\n{size=-10}(англ. Cognitive Therapy and Behavioral Therapy){/size}"
+    mc "Когнитивная Терапия и Поведенческая Терапия?\n\n{size=-10}{i}Ориг. Cognitive Therapy and Behavioral Therapy.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:346
 translate russian d18s03_a101669b:
 
     # mes "Sorry, no.{w} I think you are thinking of Cognitive Behavioral Therapy - or CBT."
-    mes "Прости, но нет.{w} Ты наверное думаешь о Когнитивно-Поведенческой терапии - или КПТ. \n\n{size=-10}(англ. Cognitive Behavioral Therapy - or CBT){/size}"
+    mes "Прости, но нет.{w} Ты наверное думаешь о Когнитивно-Поведенческой терапии - или КПТ. \n\n{size=-10}{i}Ориг. Cognitive Behavioral Therapy - or CBT.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:349
 translate russian d18s03_38b5e631:
@@ -520,7 +520,7 @@ translate russian d18s03_38b5e631:
 translate russian d18s03_cd67cd7b:
 
     # mc "Cock, Taint, and Ball Torture?"
-    mc "Член, Промежность и Пытка Яиц? \n\n{size=-10}(англ. Cock, Taint, and Ball Torture){/size}"
+    mc "Член, Промежность и Пытка Яиц? \n\n{size=-10}{i}Ориг. Cock, Taint, and Ball Torture.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:359
 translate russian d18s03_3c285b10:
@@ -532,7 +532,7 @@ translate russian d18s03_3c285b10:
 translate russian d18s03_1a7619cf:
 
     # mc "Oh, wait, that's CBT - Cock and Ball Torture."
-    mc "Ох, может, правильно будет CBT - Пытка Члена и Яиц. \n\n{size=-10}(англ. CBT - Cock and Ball Torture.){/size}"
+    mc "Ох, может, правильно будет CBT - Пытка Члена и Яиц. \n\n{size=-10}{i}Ориг. CBT - Cock and Ball Torture.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:365
 translate russian d18s03_77b50799:
@@ -556,7 +556,7 @@ translate russian d18s03_af99ffb9:
 translate russian d18s03_6e485b39:
 
     # mc "CTBT stands for Comprehensive Test Ban Treaty."
-    mc "CTBT означает Договор о всеобъемлющем запрещении ядерных испытаний. \n\n{size=-10}(англ. Comprehensive Test Ban Treaty){/size}"
+    mc "CTBT означает Договор о всеобъемлющем запрещении ядерных испытаний. \n\n{size=-10}{i}Ориг. Comprehensive Test Ban Treaty.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:382
 translate russian d18s03_1187ac2a:
@@ -574,7 +574,7 @@ translate russian d18s03_22d5a102:
 translate russian d18s03_b3b0e397:
 
     # mc "Let's see...{w} Commercial...{w} Tax Based...{w} Tariff?"
-    mc "Может...{w} Коммерческий...{w} Тариф...{w} Основанный на налогах...? \n\n{size=-10}(англ. Commercial Tax Based Tariff){/size}"
+    mc "Может...{w} Коммерческий...{w} Тариф...{w} Основанный на налогах...? \n\n{size=-10}{i}Ориг. Commercial Tax Based Tariff.{/i}{/size}"
 
 # game/code/d18/d18s03.rpy:393
 translate russian d18s03_107d8b31:

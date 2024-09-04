@@ -202,7 +202,7 @@ translate russian d18s11b_ext_8c6f0801:
 translate russian d18s11b_ext_d2de97bd:
 
     # "Male Voice" "Do you have any Baileys?"
-    "Мужской голос" "У тебя есть Бейлис?\n\n{size=-10}{i}(Бейлис - ирландский виски){/i}{/size}"
+    "Мужской голос" "У тебя есть \"Бейлис\"?\n\n{size=-10}{i}\"Бейлис\" - ирландский виски.{/i}{/size}"
 
 # game/code/d18/extended/d18s11b_ext.rpy:125
 translate russian d18s11b_ext_a75f96e3:

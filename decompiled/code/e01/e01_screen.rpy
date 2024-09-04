@@ -116,4 +116,5 @@ style fetish_selection_button:
 style fetish_selection_button_text:
     idle_color "#000000"
     hover_color gui.accent_color
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

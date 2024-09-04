@@ -12,27 +12,27 @@ translate deutsch strings:
 
 
     old "Two Girls Two Dicks"
-    new "Two Girls Two Dicks"
+    new "Zwei Mädchen, zwei Schwänze"
 
 
     old "My Sex Dungeon"
-    new "My Sex Dungeon"
+    new "Mein Sex-Dungeon"
 
 
     old "Sausage Party"
-    new "Sausage Party"
+    new "Würstchen-Party"
 
 
     old "Queen's Harem"
-    new "Queen's Harem"
+    new "Harem der Königin"
 
 
     old "A New Chair"
-    new "A New Chair"
+    new "Ein neuer Stuhl"
 
 
     old "My Happy Ginger Family"
-    new "My Happy Ginger Family"
+    new "Meine glückliche Ingwer-Familie"
 
 
     old "Fetish Locator: Rebooted"
@@ -40,19 +40,19 @@ translate deutsch strings:
 
 
     old "Runaway"
-    new "Runaway"
+    new "Ausreißer"
 
 
     old "Red Diamond"
-    new "Red Diamond"
+    new "Roter Diamant"
 
 
     old "Redhead Resort"
-    new "Redhead Resort"
+    new "Rothaar-Resort"
 
 
     old "Pregnant Nora"
-    new "Pregnant Nora"
+    new "Schwangere Nora"
 
 
     old "Polly & Nora"
@@ -60,17 +60,18 @@ translate deutsch strings:
 
 
     old "Waterfall"
-    new "Waterfall"
+    new "Wasserfall"
 
 
     old "Breeding Ponies"
-    new "Breeding Ponies"
+    new "Zuchtponys"
 
 
     old "Not Guilty"
-    new "Not Guilty"
+    new "Nicht schuldig"
 
 
     old "Quartet"
-    new "Quartet"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Quartett"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

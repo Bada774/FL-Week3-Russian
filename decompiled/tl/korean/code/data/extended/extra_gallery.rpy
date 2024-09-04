@@ -263,8 +263,8 @@ translate korean strings:
     new "I WANT TO KEEP\nFETISH LOCATOR"
 
 
-    old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
+    old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
+    new "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
 
 
     old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
@@ -301,4 +301,69 @@ translate korean strings:
 
     old "The whole\nharem pregnant"
     new "The whole\nharem pregnant"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+    old "30. What? You wanted more?"
+    new "30. What? You wanted more?"
+
+
+    old "Finish all 6 Endings from DLC-1"
+    new "Finish all 6 Endings from DLC-1"
+
+
+    old "31. Go Debbie Go"
+    new "31. Go Debbie Go"
+
+
+    old "Have sex with Debbie"
+    new "Have sex with Debbie"
+
+
+    old "32. Fully Cooked"
+    new "32. Fully Cooked"
+
+
+    old "Get max points in Lydia's challenges in e07"
+    new "Get max points in Lydia's challenges in e07"
+
+
+    old "33. Full House"
+    new "33. Full House"
+
+
+    old "Play with all the characters in e04"
+    new "Play with all the characters in e04"
+
+
+    old "34. Day and Night"
+    new "34. Day and Night"
+
+
+    old "Finish e04 and e07"
+    new "Finish e04 and e07"
+
+
+    old "35. A lucky dozen"
+    new "35. A lucky dozen"
+
+
+    old "Finish 12 endings"
+    new "Finish 12 endings"
+
+
+    old "ORNY"
+    new "ORNY"
+
+
+    old "H"
+    new "H"
+
+
+    old "UNGRY"
+    new "UNGRY"
+
+
+    old "APPY"
+    new "APPY"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

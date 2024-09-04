@@ -4,1007 +4,1008 @@
 translate portuguese e14s07_c3ba4728:
 
 
-    pw ""
+    pw "Outro ótimo dia na cafeteria."
 
 
 translate portuguese e14s07_01385f58:
 
 
-    mc ""
+    mc "Realmente, senhoria."
 
 
 translate portuguese e14s07_36eeb37e:
 
 
-    nk ""
+    nk "Vocês tão rimando?"
 
 
 translate portuguese e14s07_ae89110b:
 
 
-    pw ""
+    pw "O que te deu a impressão que essa é a situação?"
 
 
 translate portuguese e14s07_f46fbf59:
 
 
-    mc ""
+    mc "Ah, e veja, a maneira que você que você usou aquela bandeja-"
 
 
 translate portuguese e14s07_330f877f:
 
 
-    nk ""
+    nk "Vocês são ridículos."
 
 
 translate portuguese e14s07_554e955f:
 
 
-    pw ""
+    pw "Eu amo vocês, sabia."
 
 
 translate portuguese e14s07_3e07b065:
 
 
-    pw ""
+    pw "Quem diria que eu ia encontrar um lugar, querer criar uma vida... Começar a pensar em coisa estranha tipo o futuro."
 
 
 translate portuguese e14s07_a55a68f4:
 
 
-    mc ""
+    mc "Que tipo de pensamento que você tem?"
 
 
 translate portuguese e14s07_2a95ec2a:
 
 
-    pw ""
+    pw "Não sei... A gente parece que ficou estável."
 
 
 translate portuguese e14s07_430382e1:
 
 
-    nk ""
+    nk "Eu não diria 'estável', provavelmente-"
 
 
 translate portuguese e14s07_4717ee41:
 
 
-    mc ""
+    mc "Na verdade, o Nora's tem ido bem até."
 
 
 translate portuguese e14s07_17b62a74:
 
 
-    mc ""
+    mc "Eu dei uma olhada nas contas hoje de manhã. Voltamos a lucrar, bem antes de ter que pagar contas. O Nora's pode acabar dando altos lucros até onde se pode ver!"
 
 
 translate portuguese e14s07_b53acf05:
 
 
-    nk ""
+    nk "Hmm. Eu devia ter saído do outro lugar anos atrás e contratado um cara que saiu da faculdade de negócios."
 
 
 translate portuguese e14s07_52d4506a:
 
 
-    mc ""
+    mc "Ei! Eu quase peguei o diploma!"
 
 
 translate portuguese e14s07_9fca308f:
 
 
-    nk ""
+    nk "Quase sendo o principal."
 
 
 translate portuguese e14s07_2c6f4537:
 
 
-    pw ""
+    pw "Mas ainda bem que você esperou pra vir. Imagina o que teria acontecido se a gente não tivesse se encontrado?"
 
 
 translate portuguese e14s07_5b9fb21d:
 
 
-    nk ""
+    nk "Eu acho que a gente teria se encontrado. Talvez a gente não tivesse entrado no nosso... [mcname], como que você sempre chama isso mesmo?"
 
 
 translate portuguese e14s07_4c68a978:
 
 
-    mc ""
+    mc "O nosso trisalzinho."
 
 
 translate portuguese e14s07_1da510ea:
 
 
-    nk ""
+    nk "Isso. O trisal."
 
 
 translate portuguese e14s07_badb3d28:
 
 
-    pw ""
+    pw "Se não fosse pelo [mcname], isso provavelmente nem teria acontecido."
 
 
 translate portuguese e14s07_7da8b2cd:
 
 
-    mc ""
+    mc "Sei não, Polly. Você é bem persistente."
 
 
 translate portuguese e14s07_a96f4fc4:
 
 
-    nk ""
+    nk "Verdade. Eu estive pensando bastante esses tempos."
 
 
 translate portuguese e14s07_fa81eb49:
 
 
-    nk ""
+    nk "Se eu continuasse como estava... Eu devia muita gente. Acho que eu não era muito feliz lá."
 
 
 translate portuguese e14s07_789edc30:
 
 
-    nk ""
+    nk "Aí veio a Polly... e você, [mcname], e eu senti que a vida tem ficado bem melhor desde que vocês apareceram."
 
 
 translate portuguese e14s07_dd5b47db:
 
 
-    nk ""
+    nk "Eu não sei se agradeci vocês por isso."
 
 
 translate portuguese e14s07_b5849565:
 
 
-    pw ""
+    pw "Nora, você tem que me agradecer por nada."
 
 
 translate portuguese e14s07_aa492c72:
 
 
-    mc ""
+    mc "Mas você provavelmente devia me agradecer pelo meu papel integral em juntar vocês."
 
 
 translate portuguese e14s07_05df396a:
 
 
-    mc ""
+    mc "Ei, cuidado com o rosto! É só isso que mantém o Nora's de pé!"
 
 
 translate portuguese e14s07_6b32dcf7:
 
 
-    nk ""
+    nk "Tem certeza que não são os peitos da Polly?"
 
 
 translate portuguese e14s07_9d517380:
 
 
-    pw ""
+    pw "É, [mcname], você tá tentando fazer pouco da minha contribuição?!"
 
 
 translate portuguese e14s07_222878ea:
 
 
-    mc ""
+    mc "O que, não! Nunca. Você tem uns ótimos peitos, Polly."
 
 
 translate portuguese e14s07_edda271d:
 
 
-    pw ""
+    pw "Poxa, obrigada, eles são bem legais."
 
 
 translate portuguese e14s07_05ebd45e:
 
 
-    pw ""
+    pw "Você já se perguntou como seria ter filhos?"
 
 
 translate portuguese e14s07_88c13814:
 
 
-    nk ""
+    nk "Eita, bela mudança de assunto."
 
 
 translate portuguese e14s07_55078020:
 
 
-    pw ""
+    pw "Foi mal, é que eu estava pensando em como os meus peitos são bons, e o que ia acontecer se eles ficassem maiores, e-"
 
 
 translate portuguese e14s07_4c67dc1f:
 
 
-    pw ""
+    pw "Aí eu pensei em engravidar."
 
 
 translate portuguese e14s07_f96d957c:
 
 
-    mc ""
+    mc "Mas calma... Polly, você quer engravidar?"
 
 
 translate portuguese e14s07_e2f06565:
 
 
-    pw ""
+    pw "Sim."
 
 
 translate portuguese e14s07_ed441448:
 
 
-    nk ""
+    nk "Polly, o espírito livre, 'sem rótulos', essa Polly quer engravidar?"
 
 
 translate portuguese e14s07_548f4888:
 
 
-    pw ""
+    pw "Você por acaso tornou o meu 'sem rótulos' em um rótulo?"
 
 
 translate portuguese e14s07_47126a6b:
 
 
-    mc ""
+    mc "É meio que o que você faz."
 
 
 translate portuguese e14s07_ad4bd900:
 
 
-    nk ""
+    nk "Desculpa, ainda tô tentando entender você querendo engravidar."
 
 
 translate portuguese e14s07_dc87042e:
 
 
-    pw ""
+    pw "O que tem de tão estranho?!"
 
 
 translate portuguese e14s07_927db912:
 
 
-    nk ""
+    nk "Foi mal, não queria te provocar tanto. Só fiquei surpresa."
 
 
 translate portuguese e14s07_55211993:
 
 
-    pw ""
+    pw "Por quê? O que tem de tanto surpreendente?"
 
 
 translate portuguese e14s07_ab7fe8e0:
 
 
-    nk ""
+    nk "Sei lá. É que eu nunca imaginei."
 
 
 translate portuguese e14s07_6e0df16d:
 
 
-    nk ""
+    nk "[mcname], o que você acha?"
 
 
 translate portuguese e14s07_eaabc3e9:
 
 
-    nk ""
+    nk "O que te faz querer engravidar?"
 
 
 translate portuguese e14s07_862e74a9:
 
 
-    pw ""
+    pw "Não sei. Eu encontrei pessoas que eu amo, moro num lugar lindo, adoro o meu trabalho, e a gente tá indo bem com dinheiro."
 
 
 translate portuguese e14s07_695410f1:
 
 
-    mc ""
+    mc "Essas todas são bons motivos, mas todo mundo tem esses motivos, Polly."
 
 
 translate portuguese e14s07_9a9e62c9:
 
 
-    pw ""
+    pw "É... É a próxima grande aventura."
 
 
 translate portuguese e14s07_b288a7e2:
 
 
-    pw ""
+    pw "Eu fiz muitas coisas e nunca pensei que estaria numa situação que eu poderia ter filhos."
 
 
 translate portuguese e14s07_0871371b:
 
 
-    pw ""
+    pw "Mas com vocês dois, eu sei que eu posso embarcar em qualquer aventura. Tudo é possível com vocês."
 
 
 translate portuguese e14s07_b24b5938:
 
 
-    nk ""
+    nk "Caramba, Polly, eu te amo."
 
 
 translate portuguese e14s07_a44d17ee:
 
 
-    pw ""
+    pw "Você só tá me abraçando pra esconder que tá chorando?"
 
 
 translate portuguese e14s07_10ee21f1:
 
 
-    nk ""
+    nk "Cala a boca."
 
 
 translate portuguese e14s07_sex_097a4576:
 
 
-    pw ""
+    pw "Vem [mcname], você também tem que entrar aqui."
 
 
 translate portuguese e14s07_sex_0a2c8c36:
 
 
-    nk ""
+    nk "[mcname]. Você... Você por acaso tá de pau duro agora?"
 
 
 translate portuguese e14s07_sex_3673d254:
 
 
-    mc ""
+    mc "Aaaaahm."
 
 
 translate portuguese e14s07_sex_3042669d:
 
 
-    nk ""
+    nk "A gente tá tentando ter um momento emocional aqui, seu pervertido."
 
 
 translate portuguese e14s07_sex_378204d4:
 
 
-    mc ""
+    mc "Foi mal! Ainda não tô acostumado a mulheres lindas se abraçando na minha frente."
 
 
 translate portuguese e14s07_sex_a87ac1e9:
 
 
-    nk ""
+    nk "Bem, sabemos que ele topa."
 
 
 translate portuguese e14s07_sex_246c80c7:
 
 
-    pw ""
+    pw "Você topa, [mcname]?"
 
 
 translate portuguese e14s07_sex_f24ed512:
 
 
-    mc ""
+    mc "Topo o que...?"
 
 
 translate portuguese e14s07_sex_6287308e:
 
 
-    nk ""
+    nk "O seu sangue ou vai pro pau ou vai pro cérebro, hein?"
 
 
 translate portuguese e14s07_sex_ca30401b:
 
 
-    pw ""
+    pw "Você quer me engravidar?"
 
 
 translate portuguese e14s07_sex_ac84ebb5:
 
 
-    mc ""
+    mc "Ah, isso que você quer dizer."
 
 
 translate portuguese e14s07_sex_d5dd3938:
 
 
-    nk ""
+    nk "Você é a única pessoa aqui que pode fazer isso."
 
 
 translate portuguese e14s07_sex_e396f3e0:
 
 
-    mc ""
+    mc "Claro que topo! Polly, eu acho que você daria uma ótima mãe."
 
 
 translate portuguese e14s07_sex_3f9417fe:
 
 
-    pw ""
+    pw "Que foi, Nora?"
 
 
 translate portuguese e14s07_sex_b13eb89c:
 
 
-    nk ""
+    nk "É que eu..."
 
 
 translate portuguese e14s07_sex_14692967:
 
 
-    nk ""
+    nk "Vocês dois vão tomar um grande passo. E eu tô... nervosa que vocês vão me deixar pra trás."
 
 
 translate portuguese e14s07_sex_e5f9626d:
 
 
-    pw ""
+    pw "Nunca, Nora. Você é a minha parceira, que nem o [mcname]."
 
 
 translate portuguese e14s07_sex_2df20adc:
 
 
-    nk ""
+    nk "Polly. Você usou rótulo na gente?"
 
 
 translate portuguese e14s07_sex_b089e543:
 
 
-    pw ""
+    pw "Eu-"
 
 
 translate portuguese e14s07_sex_b3cd1e88:
 
 
-    mc ""
+    mc "Ela usou!"
 
 
 translate portuguese e14s07_sex_4b6623f4:
 
 
-    pw ""
+    pw "Sabe de uma coisa? Tá bom. Usei. O único {i}rótulo{/i} que eu vou usar. Vocês são os meus parceiros."
 
 
 translate portuguese e14s07_sex_4418a9e6:
 
 
-    pw ""
+    pw "Eu amo tanto vocês."
 
 
 translate portuguese e14s07_sex_a71928e1:
 
 
-    pw ""
+    pw "Agora me mostra que me ama e me engravida, [mcname]."
 
 
 translate portuguese e14s07_sex_4c6d584d:
 
 
-    mc ""
+    mc "Podemos fazer isso."
 
 
 translate portuguese e14s07_sex_0b52a2fb:
 
 
-    nk ""
+    nk "Você vai foder ele pra distrair a gente do nosso novo rótulo?"
 
 
 translate portuguese e14s07_sex_4d06e82e:
 
 
-    mc ""
+    mc "Eu não me importo em ser distraído."
 
 
 translate portuguese e14s07_sex_53f448b8:
 
 
-    nk ""
+    nk "Que novidade."
 
 
 translate portuguese e14s07_sex_376eeff1:
 
 
-    nk ""
+    nk "Vocês vão me deixar de fora?"
 
 
 translate portuguese e14s07_sex_c1b79280:
 
 
-    nk ""
+    nk "Hora de lembrar vocês que eu tô aqui!"
 
 
 translate portuguese e14s07_sex_98fc022d:
 
 
-    mc ""
+    mc "Caralho, Nora!"
 
 
 translate portuguese e14s07_sex_10013a80:
 
 
-    nk ""
+    nk "Eu the avishei!"
 
 
 translate portuguese e14s07_sex_7f08e106:
 
 
-    pw ""
+    pw "Mmmm, [mcname], enfia!"
 
 
 translate portuguese e14s07_sex_bad6be2e:
 
 
-    pw ""
+    pw "Aaaih, isso. Eu {i}preciso{/i} que você goze beeem fundo!"
 
 
 translate portuguese e14s07_sex_a17ce7d5:
 
 
-    pw ""
+    pw "Quero que goze bem fundo no meu útero!"
 
 
 translate portuguese e14s07_sex_af6e5b06:
 
 
-    nk ""
+    nk "Agora isso sim é é uma conversa gostosa."
 
 
 translate portuguese e14s07_sex_43fc97ff:
 
 
-    pw ""
+    pw "O que eu posso dizer, estava inspirada!"
 
 
 translate portuguese e14s07_sex_a7ff537f:
 
 
-    mc ""
+    mc "Eu adorei."
 
 
 translate portuguese e14s07_sex_79971cc0:
 
 
-    pw ""
+    pw "Vou lembrar disso."
 
 
 translate portuguese e14s07_sex_6fbb535c:
 
 
-    nk ""
+    nk "Eu posso participar agora?"
 
 
 translate portuguese e14s07_sex_fa541dcd:
 
 
-    mc ""
+    mc "Pode apostar."
 
 
 translate portuguese e14s07_sex_be5d1548:
 
 
-    nk ""
+    nk "Polly, pode fazer as honras?"
 
 
 translate portuguese e14s07_sex_c53c816c:
 
 
-    mc ""
+    mc "Eu vejo uma bunda bem tentadora na minha frente."
 
 
 translate portuguese e14s07_sex_223ea53d:
 
 
-    pw ""
+    pw "É porque ela tá tentando a entrar!"
 
 
 translate portuguese e14s07_sex_48dca118:
 
 
-    nk ""
+    nk "Mmmm, voshê é debifiosa pha caalho, Pooollyyy!"
 
 
 translate portuguese e14s07_sex_ebceac5b:
 
 
-    pw ""
+    pw "Vocêêê taambéééém!"
 
 
 translate portuguese e14s07_sex_a994fced:
 
 
-    mc ""
+    mc "Porra, eu consigo sentir as minhas bolas esfregando na cara da Nora, que delícia!"
 
 
 translate portuguese e14s07_sex_48145111:
 
 
-    pw ""
+    pw "Ahoo qe eu vooh gozaaaaah tahbéeem!"
 
 
 translate portuguese e14s07_sex_2e648a75:
 
 
-    mc ""
+    mc "Porra, a sua bunda tá apertando!"
 
 
 translate portuguese e14s07_sex_c055e206:
 
 
-    nk ""
+    nk "Nnnggghhh!"
 
 
 translate portuguese e14s07_sex_eaa63443:
 
 
-    pw ""
+    pw "[mcname], eu adoro gozar com o seu pau no cu."
 
 
 translate portuguese e14s07_sex_379eff55:
 
 
-    nk ""
+    nk "É bem legal."
 
 
 translate portuguese e14s07_sex_57115af3:
 
 
-    mc ""
+    mc "E aí, Nora, quer a sua vez?"
 
 
 translate portuguese e14s07_sex_df912be2:
 
 
-    nk ""
+    nk "Sim, por favor!"
 
 
 translate portuguese e14s07_sex_11d8c451:
 
 
-    mc ""
+    mc "Quantas cintas você tem escondidas por aqui?!"
 
 
 translate portuguese e14s07_sex_cbc555b1:
 
 
-    pw ""
+    pw "Você não vai querer saber."
 
 
 translate portuguese e14s07_sex_6ebd71ff:
 
 
-    nk ""
+    nk "Eu até que gostaria."
 
 
 translate portuguese e14s07_sex_bc2c1570:
 
 
-    pw ""
+    pw "Shhh, tenho uma ideia melhor pra sua boca agora."
 
 
 translate portuguese e14s07_sex_b5631f70:
 
 
-    pw ""
+    pw "Acho que tô começando a entender essa parada de boquete."
 
 
 translate portuguese e14s07_sex_f49fff8f:
 
 
-    mc ""
+    mc "É?"
 
 
 translate portuguese e14s07_sex_a3099c1f:
 
 
-    pw ""
+    pw "É tão gostoso ver a Nora chupar o meu pau."
 
 
 translate portuguese e14s07_sex_bffe4405:
 
 
-    mc ""
+    mc "É mesmo, sexy demais."
 
 
 translate portuguese e14s07_sex_b4cedc79:
 
 
-    mc ""
+    mc "Merda, acho que eu vou gozar!"
 
 
 translate portuguese e14s07_sex_64116900:
 
 
-    pw ""
+    pw "Manda."
 
 
 translate portuguese e14s07_sex_05500ff6:
 
 
-    mc ""
+    mc "Hã?"
 
 
 translate portuguese e14s07_sex_704b4626:
 
 
-    pw ""
+    pw "[mcname], goza no cu dela. Quero que você goze bem fundo."
 
 
 translate portuguese e14s07_sex_f13eb4e2:
 
 
-    mc ""
+    mc "Aah, caraaaalho!"
 
 
 translate portuguese e14s07_sex_ad8c9231:
 
 
-    nk ""
+    nk "Caramba, Polly."
 
 
 translate portuguese e14s07_sex_b5b17b6f:
 
 
-    pw ""
+    pw "Eu não consigo parar de pensar no gozo do [mcname]. Foi mal."
 
 
 translate portuguese e14s07_sex_16553248:
 
 
-    nk ""
+    nk "Eu ah, não achei ruim."
 
 
 translate portuguese e14s07_sex_d1e72800:
 
 
-    pw ""
+    pw "Vou lembrar disso."
 
 
 translate portuguese e14s07_sex_6c4015eb:
 
 
-    mc ""
+    mc "Eu prevejo mais anal no seu futuro, Nora."
 
 
 translate portuguese e14s07_sex_6ce364d4:
 
 
-    nk ""
+    nk "Ótimo, eu gosto {i}muito{/i}."
 
 
 translate portuguese e14s07_sex_c273ac79:
 
 
-    mc ""
+    mc "Ainda não acredito como você gostá de anal."
 
 
 translate portuguese e14s07_sex_9498076c:
 
 
-    nk ""
+    nk "Eu virei uma putinha anal pra você."
 
 
 translate portuguese e14s07_sex_e804fa8a:
 
 
-    pw ""
+    pw "Foi mal, achei que tinha visto um leitinho."
 
 
 translate portuguese e14s07_sex_598544db:
 
 
-    nk ""
+    nk "Ah, com certeza tem um pouco."
 
 
 translate portuguese e14s07_sex_ff5d4f36:
 
 
-    mc ""
+    mc "Vocês são muito travessas."
 
 
 translate portuguese e14s07_sex_b833e9fb:
 
 
-    mc ""
+    mc "As {i}duas{/i} tão chupando o meu pau tão bem."
 
 
 translate portuguese e14s07_sex_6b7280ee:
 
 
-    mc ""
+    mc "Porra, eu vou gozar de novo."
 
 
 translate portuguese e14s07_sex_9d332e32:
 
 
-    mc ""
+    mc "Porra, to quase lá!"
 
 
 translate portuguese e14s07_sex_e29da269:
 
 
-    pw ""
+    pw "Nada disso, você vai gozar dentro de mim."
 
 
 translate portuguese e14s07_sex_b84d3c99:
 
 
-    mc ""
+    mc "Eu não tenho problema algum com isso."
 
 
 translate portuguese e14s07_sex_4e774577:
 
 
-    pw ""
+    pw "Ótimo. Você é o único que eu tenho deixo gozar dentro de mim... Faz um bom tempo até. Muitos queriam, mas só deixei você."
 
 
 translate portuguese e14s07_sex_ff7003e9:
 
 
-    mc ""
+    mc "Eu me sinto honrado."
 
 
 translate portuguese e14s07_sex_e31c199f:
 
 
-    pw ""
+    pw "E devia!"
 
 
 translate portuguese e14s07_sex_cab253aa:
 
 
-    pw ""
+    pw "Nora, o que você vai fazer?"
 
 
 translate portuguese e14s07_sex_39efa9b5:
 
 
-    nk ""
+    nk "Acho que... eu vou assistir."
 
 
 translate portuguese e14s07_sex_df6d70c2:
 
 
-    nk ""
+    nk "Aparentemente ver o [mcname] te foder me dá um tesão foda."
 
 
 translate portuguese e14s07_sex_bffb8a01:
 
 
-    pw ""
+    pw "Eu sabia que você era uma esquisitona que nem eu!"
 
 
 translate portuguese e14s07_sex_7b6e7a72:
 
 
-    pw ""
+    pw "Mmmm, iiissooo, sentir o seu pau pulsando bem fundo é uma maravilha."
 
 
 translate portuguese e14s07_sex_5e08d360:
 
 
-    nk ""
+    nk "Ver isso também é tão- mmmm- gostoso!"
 
 
 translate portuguese e14s07_sex_6bb86764:
 
 
-    pw ""
+    pw "Eu preciso que você goze no meu útero. Eu {i}preciso{/i}!"
 
 
 translate portuguese e14s07_sex_1545b64c:
 
 
-    nk ""
+    nk "Ngggggh, eu tô quaaaseee gozaandoooooo!"
 
 
 translate portuguese e14s07_sex_acc20661:
 
 
-    mc ""
+    mc "Eu também!"
 
 
 translate portuguese e14s07_sex_63eda9e5:
 
 
-    pw ""
+    pw "Eu tô sentindo ele tremendo, dá pra perceber que você tá pra gozar!"
 
 
 translate portuguese e14s07_sex_5e9af747:
 
 
-    pw ""
+    pw "Jorra esse leitinho bem fundo e me engravida!"
 
 
 translate portuguese e14s07_sex_5c2d3df3:
 
 
-    mc ""
+    mc "Porra, lá vem!"
 
 
 translate portuguese e14s07_sex_6605151b:
 
 
-    pw ""
+    pw "ISSO, PORRA!"
 
 
 translate portuguese e14s07_sex_1ee3df16:
 
 
-    nk ""
+    nk "Aaaih caraaaalhoooo!"
 
 
 translate portuguese e14s07_end_3cfa321f:
 
 
-    nk ""
+    nk "O que você tá fazendo, Polly?"
 
 
 translate portuguese e14s07_end_0d6fb027:
 
 
-    pw ""
+    pw "Eu vi em algum lugar que yoga pode aumentar a chance de engravidar."
 
 
 translate portuguese e14s07_end_1a09a2b9:
 
 
-    mc ""
+    mc "É, 'Cara'?"
 
 
 translate portuguese e14s07_end_0afcab24:
 
 
-    nk ""
+    nk "Você tem pensado bastante nisso, hein?"
 
 
 translate portuguese e14s07_end_2a64f0c0:
 
 
-    pw ""
+    pw "... Talvez."
 
 
 translate portuguese e14s07_end_d67a27e1:
 
 
-    nk ""
+    nk "Que porra você tá fazendo agora?"
 
 
 translate portuguese e14s07_end_323ea5db:
 
 
-    mc ""
+    mc "Se for ajudar a Polly a engravidar, eu vou fazer."
 
 
 translate portuguese e14s07_end_2a9a0fbc:
 
 
-    nk ""
+    nk "Você é um idiota."
 
 
 translate portuguese e14s07_end_6f230d7c:
 
 
-    pw ""
+    pw "Acho que é a maneira dela falar que te ama."
 
 
 translate portuguese e14s07_end_fd6f33e0:
 
 
-    mc ""
+    mc "Também acho."
 
 
 translate portuguese e14s07_end_1b1a2a71:
 
 
-    nk ""
+    nk "Sei, sei. Eu ainda não esqueci que agora fazemos parte de um rotulado trisal."
 
 translate portuguese strings:
 
 
     old "You have finished playing ending number 14!"
-    new ""
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Você concluiu o final #14!"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

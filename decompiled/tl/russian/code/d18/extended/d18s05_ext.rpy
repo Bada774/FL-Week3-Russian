@@ -4,7 +4,7 @@
 translate russian d18s05_ext_0d9b52ab:
 
     # mct "You spin me right 'round, baby right 'round, like a record, baby..."
-    mct "Ты крутишь меня, детка, прямо, как пластинку, детка...\n\n{size=-10}{i}(Текст песни \"You Spin Me Round - Dead or Alive\"){/i}{/size}"
+    mct "Ты крутишь меня, детка, прямо, как пластинку, детка...\n\n{size=-10}{i}Текст песни \"You Spin Me Round - Dead or Alive\".{/i}{/size}"
 
 # game/code/d18/extended/d18s05_ext.rpy:69
 translate russian d18s05_ext_e88c3bd3:

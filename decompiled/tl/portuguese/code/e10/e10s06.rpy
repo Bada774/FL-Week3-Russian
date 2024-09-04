@@ -359,4 +359,5 @@ translate portuguese strings:
 
     old "Few months later"
     new "Alguns meses depois"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

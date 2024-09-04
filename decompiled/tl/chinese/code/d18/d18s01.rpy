@@ -1313,4 +1313,5 @@ translate chinese strings:
 
     old "Thursday\nDay-18"
     new "周四\n第18天"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

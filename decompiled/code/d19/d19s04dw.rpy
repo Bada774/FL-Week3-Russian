@@ -68,7 +68,6 @@ label d19s04dw:
     play voice3 dahlia_old_argh noloop volume 1.3
     dw "Good. Get to it then."
 
-
     $ Lovense.stop()
 
     scene d19s04-10 dw-mc-lean-glass-of-water-undress with dissolve
@@ -294,7 +293,7 @@ label d19s04dw:
     scene d19s04-45 dd-dw-mc-slap-02 with hpunch
     pause
     menu:
-        "Cum"(hint="d19s04dwm01c01") if True:
+        "Cum"(hint="d19s04dwm01c01"):
 
             $ d19s04_dw_cum = True
 
@@ -323,7 +322,7 @@ label d19s04dw:
             scene d19s04-56 dd-dw-mc-untie-him with dissolve
             play voice3 dahlia_angry_oh noloop
             dw "Untie him, Daisy."
-        "Don't"(hint="d19s04dwm01c02") if True:
+        "Don't"(hint="d19s04dwm01c02"):
 
 
             play voice3 dahlia_old_orgasm1 noloop
@@ -391,7 +390,6 @@ label d19s04dw:
             scene d19s04-73 dd-after-fade-daisy-resting-eyes with dissolve
             pause
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -458,7 +456,7 @@ label ending_17_return hide:
 
             stop music fadeout 3.5
             jump d19s05
-        "No..."(hint="d19s04dwm02c02") if True:
+        "No..."(hint="d19s04dwm02c02"):
 
             $ d19s04_dw_end = True
 
@@ -505,4 +503,5 @@ label ending_17_return hide:
 
             stop music fadeout 3.5
             jump ending_17
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

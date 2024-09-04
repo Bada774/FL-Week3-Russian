@@ -166,7 +166,7 @@ translate italian week_2_recap_5b6f68b3:
 translate italian week_2_recap_4a9edaa2:
 
 
-    "[mcname] ha incontrato Nora per il loro terzo " appuntamento al buio ". La scelta dell'abbigliamento del barista ha quasi fatto cadere [mcname] in piedi."
+    "[mcname] ha incontrato Nora per il loro terzo \"appuntamento al buio\". La scelta dell'abbigliamento del barista ha quasi fatto cadere [mcname] in piedi."
 
 
 translate italian week_2_recap_110afbd4:
@@ -1012,7 +1012,7 @@ translate italian week_2_day_12_22c8d5fd:
 translate italian week_2_day_12_47706d6e:
 
 
-    "[mcname] riceve una telefonata inaspettata dal giudice che aveva incontrato in precedenza. La donna era " molto " interessata a incontrarlo di nuovo."
+    "[mcname] riceve una telefonata inaspettata dal giudice che aveva incontrato in precedenza. La donna era \"molto\" interessata a incontrarlo di nuovo."
 
 
 translate italian week_2_day_12_306ef8e8:
@@ -1601,4 +1601,5 @@ translate italian strings:
 
     old "Recap of Week-2 Events"
     new "Riepilogo degli eventi della Week-2"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

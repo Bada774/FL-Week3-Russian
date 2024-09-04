@@ -4,7 +4,7 @@ translate deutsch strings:
 
 
     old "Switch Language"
-    new "Switch Language"
+    new "Sprache wechseln"
 
 
 
@@ -12,5 +12,6 @@ translate deutsch strings:
 
 
     old "Choose Language"
-    new "Choose Language"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Sprache wählen"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

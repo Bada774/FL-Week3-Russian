@@ -1933,4 +1933,5 @@ translate chinese d06s08_mh_25ab182b:
 
 
     mh "哦哦哦哦....."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

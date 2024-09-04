@@ -148,9 +148,6 @@ label d16s04:
         play voice2 mc_yes_yeah4 noloop
         mc "Alright. Bye."
     elif True:
-
-
-
         scene d16s04-01-3 mc-mes-classroom-enter2_c1 with dissolve
         pause
         play music cute_times fadein 3.0
@@ -163,9 +160,6 @@ label d16s04:
     scene d16s04-55 mc-kb-classroom-talk6_c2 with dissolve
     play voice2 mc_happy_a1 noloop
     mc "Just waiting for the class to start.{w} What's up?"
-
-
-
     scene d16s04-21 mc-kb-classroom-talk1_c1 with dissolve
     play voice3 kevin_thinking_hmm6 noloop
     kb "Feels like we haven't talked in forever."
@@ -403,7 +397,7 @@ label d16s04:
         mct "I want to be out of this fucking thing yesterday, but getting it off right now might be...awkward."
 
         menu:
-            "Freedom, {i}{b}now{/b}{/i}"(hint="d16s04m01c01") if True:
+            "Freedom, {i}{b}now{/b}{/i}"(hint="d16s04m01c01"):
 
                 $ d16s04_cage_out = True
                 $ cockcage_released = True
@@ -413,7 +407,6 @@ label d16s04:
                 scene d16s04-49 mc-kb-classroom-thinking1_c2 with dissolve
                 play voice2 mc_angry_hm2 noloop
                 mct "Fuck that. I want out, {i}{b}now{/b}{/i}"
-
 
                 $ Lovense.stop()
 
@@ -425,7 +418,6 @@ label d16s04:
                 flr "Your request has been received and approved. Enjoy your freedom!"
                 scene d16s04-47 mc-kb-classroom-open-pent1_c2 with dissolve
 
-
                 $ Lovense.stop()
 
                 play voice3 kevin_surprised_huh1 noloop
@@ -433,12 +425,6 @@ label d16s04:
                 scene d16s04-46 mc-kb-classroom-open-talk1_c2 with dissolve
                 play voice2 mc_surprised_huh2 noloop
                 mct "Shit, I forgot that Kevin was here."
-
-
-
-
-
-
                 mc "Don't freak out. It's just I need to do this right now."
                 scene d16s04-46 mc-kb-classroom-open-talk1_c1 with dissolve
                 play voice3 kevin_happy_heh2 noloop
@@ -515,7 +501,7 @@ label d16s04:
                     mc "Thanks, man. I appreciate it."
                 scene d16s04-49-4 mc-kb-classroom-thinking4_c2 with dissolve
                 pause
-            "Hold out for a better opportunity"(hint="d16s04m01c02") if True:
+            "Hold out for a better opportunity"(hint="d16s04m01c02"):
 
 
                 play sound sfx_hair_scratch1 volume 0.7
@@ -574,7 +560,7 @@ label d16s04:
             play voice2 mc_thinking_hmm1 noloop
             mct "Hm, this might be my chance to talk to Allison about what went down at the party."
         menu:
-            "I'll be over"(hint="d16s05m03c01") if True:
+            "I'll be over"(hint="d16s05m03c01"):
                 play sound sfx_message_out1
                 mct "Sure im in class rn."
                 scene d16s04-45 mc-kb-classroom-phone4_c2 with dissolve
@@ -582,7 +568,7 @@ label d16s04:
                 mct "I can be over in a bit tho."
                 play sound sfx_message_in1
                 aw "Great! Thank you."
-            "I won't be able to come"(hint="d16s05m03c02") if True:
+            "I won't be able to come"(hint="d16s05m03c02"):
 
 
                 $ d16_aw_reject = True
@@ -602,4 +588,5 @@ label d16s04:
     stop music fadeout 3.0
 
     jump d16s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

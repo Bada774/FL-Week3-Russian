@@ -229,7 +229,7 @@ label d16s05:
     sy "Don't like it though. But I get it."
 
     menu:
-        "Kiss her"(hint="d16s05m01c01") if True:
+        "Kiss her"(hint="d16s05m01c01"):
 
             $ d16s05_kiss_sy = True
 
@@ -250,7 +250,7 @@ label d16s05:
             scene d16s05-18-2 mc-sy-subway9_c3 with dissolve
             play voice2 mc_arrogant_heh3 noloop
             mc "I'm kidding. Thank you. I'm happy you understand."
-        "Don't"(hint="d16s05m01c02") if True:
+        "Don't"(hint="d16s05m01c02"):
 
             pass
 
@@ -486,7 +486,7 @@ label d16s05:
     mc "Yeah, it's kinda annoying."
     if fl_watersports is True:
         menu:
-            "Ask her if she got any pictures"(hint="d16s05m02c01") if True:
+            "Ask her if she got any pictures"(hint="d16s05m02c01"):
                 play voice2 mc_thinking_mmm2 noloop
                 mc "Did you get any pictures though?"
                 scene d16s05-52 mc-sy-pm-subway-phone_c1 with dissolve
@@ -499,7 +499,7 @@ label d16s05:
                 scene d16s05-62 sy-toilet1_c2 with dissolve
                 $ unlock_gallery_slot("cg", "d16s05p")
                 pause
-            "Don't"(hint="d16s05m02c02") if True:
+            "Don't"(hint="d16s05m02c02"):
 
                 pass
 
@@ -557,7 +557,7 @@ label d16s05:
         if date_awvw:
             mct "Hm, this might be my chance to talk to Allison about what went down at the party."
         menu:
-            "I'll be over"(hint="d16s05m03c01") if True:
+            "I'll be over"(hint="d16s05m03c01"):
                 play sound sfx_message_out1
                 mct "Sure im with someone right now."
                 scene d16s05-60 mc-sy-subway-phone4_c1 with dissolve
@@ -565,7 +565,7 @@ label d16s05:
                 mct "I can be over in a bit tho."
                 play sound sfx_message_in1
                 aw "Great! Thank you."
-            "I won't be able to come"(hint="d16s05m03c02") if True:
+            "I won't be able to come"(hint="d16s05m03c02"):
 
 
                 $ d16_aw_reject = True
@@ -595,4 +595,5 @@ label d16s05:
     stop sound2 fadeout 3.0
     stop music fadeout 3.5
     jump d16s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

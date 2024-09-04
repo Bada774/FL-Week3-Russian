@@ -53,7 +53,7 @@ label d15s04:
 
     menu:
         mc "What should I do now?"
-        "Continue Studying for Exams"(hint="d15s04m01c01") if True:
+        "Continue Studying for Exams"(hint="d15s04m01c01"):
             mct "Study is what I need to fucking do now."
             scene d15s04-03 mc-study-get-up_c1 with dissolve
             play voice2 mc_angry_huh2 noloop
@@ -159,4 +159,5 @@ label d15s04_studying:
     stop sound2 fadeout 3.5
 
     jump d15s05
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

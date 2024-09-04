@@ -275,7 +275,6 @@ label e06s08_cake:
     play voice5 min_no_nah noloop
     mes "Not according to the program."
 
-
     $ Lovense.stop()
 
     scene e06s08-35 sy-turns-mc-ask-him-decide-conflict_c1 with dissolve
@@ -355,10 +354,10 @@ label e06s08_cake:
     scene e06s08-a46-glambot-2 with dissolve
     pause
     menu:
-        "Fuck Stacy While She Gives The First Toast"(hint="e06s08m01c01") if True:
+        "Fuck Stacy While She Gives The First Toast"(hint="e06s08m01c01"):
             $ e06s08_pick_sy = True
             jump d06s08_sy
-        "Fuck Min While She Gives The First Toast"(hint="e06s08m01c02") if True:
+        "Fuck Min While She Gives The First Toast"(hint="e06s08m01c02"):
 
             $ e06s08_pick_sy = False
             jump d06s08_mes
@@ -369,9 +368,9 @@ label d06s08_sy:
     play voice4 stacy_thinking_hmm1 noloop
     sy "So, how do you want to do this?"
     menu:
-        "Fuck Stacy's Pussy"(hint="e06s08m02c01") if True:
+        "Fuck Stacy's Pussy"(hint="e06s08m02c01"):
             $ e06s08_preg_sy = True
-        "Sodomize Stacy"(hint="e06s08m02c02") if True:
+        "Sodomize Stacy"(hint="e06s08m02c02"):
 
             $ e06s08_preg_sy = False
 
@@ -388,12 +387,7 @@ label d06s08_sy:
         play voice2 mc_pain_mff1 noloop
         pause
 
-
-
-
     if e06s08_preg_sy is True:
-
-
         play voice2 d7s4_mcbreathing volume 1.5
         play voice4 stacy_fmoans1
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -401,8 +395,6 @@ label d06s08_sy:
         scene e06s08-a47-p-1
         pause
     elif True:
-
-
         play voice2 d7s4_mcbreathing volume 1.5
         play voice4 stacy_fmoans1
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -411,7 +403,6 @@ label d06s08_sy:
         pause
     sy "Mmmm... that feels good."
     sy "Oh, right. My toast. Well, I've known [mcname] as far back as I can remember."
-
     queue voice4 stacy_moans2
     if e06s08_preg_sy is True:
         scene e06s08-a47-p-2 with dissolve
@@ -443,13 +434,11 @@ label d06s08_sy:
     queue voice4 stacy_moans2
     play voice2 d7s4_mcbreathing
     if e06s08_preg_sy is True:
-
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         $ Lovense.pattern("8;12", 900)
         scene e06s08-a47-p-1-f with dissolve
         pause
     elif True:
-
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         $ Lovense.pattern("8;12", 900)
         scene e06s08-a47-a-1-f with dissolve
@@ -475,7 +464,6 @@ label d06s08_sy:
         scene e06s08-47-10-01 mes-dd-watch-sy-toast-no-dd_c1 with dissolve
     sy "Mom was screaming about how much that cost and how careless and stupid I was and all sorts of things."
     sy "Next thing I knew I was being hugged by [mcname]."
-
     if e06s08_preg_sy is True:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a47-p-2-f with dissolve
@@ -579,13 +567,13 @@ label d06s08_mes:
     play voice4 min_arrogant_huh2 noloop
     mes "How would you like me, [mcname]?"
     menu:
-        "Vaginal Intercourse with Min"(hint="e06s08m03c01") if True:
+        "Vaginal Intercourse with Min"(hint="e06s08m03c01"):
             $ e06s08_preg_mes = True
             scene e06s08-48-02 mes-puts-dick-inside-mes-pussy_c1 with dissolve
             $ Lovense.vibrate(6)
             play voice2 mc_angry_errr4 noloop
             pause
-        "Anal Intercourse with Min"(hint="e06s08m03c02") if True:
+        "Anal Intercourse with Min"(hint="e06s08m03c02"):
 
             $ e06s08_preg_mes = False
             scene e06s08-48-02-01 mes-puts-dick-inside-mes-ass_c1 with dissolve
@@ -613,11 +601,9 @@ label d06s08_mes:
         $ Lovense.pattern("7;11", 1800)
         scene e06s08-a48-a-1
         pause
-
     mes "As best man, it's Stacy's job to talk about the groom."
     mes "As maid-of-honor, it is my honor to talk about Lydia."
     mes "We met on the first day of Kindergarten."
-
     if e06s08_preg_mes is True:
         scene e06s08-a48-p-2 with dissolve
         pause
@@ -627,7 +613,6 @@ label d06s08_mes:
     mes "I don't know if you remember that day, but that first day a bunch of kids freaked out that they were being left behind by their parents."
     mes "So, the teacher was dealing with like five kids crying at the door, a bunch of other kids crying and whining, and then the two of us."
     mes "Lydia and I were just standing there perfectly calm and wondering what was wrong with all these other kids."
-
     if e06s08_preg_mes is True:
         scene e06s08-a48-p-3 with dissolve
         pause
@@ -651,7 +636,6 @@ label d06s08_mes:
     play voice5 stacy_angryhuh noloop
     mes "Eventually I figured out how to talk to her. Pretty soon she asked if I knew how to tie my shoes yet."
     mes "Of course I did, so we decided to make it a competition. Who could tie our shoes the fastest?"
-
     play voice4 min_old_longmoan1
     if e06s08_preg_mes is True:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
@@ -667,7 +651,6 @@ label d06s08_mes:
     mes "We were both quick. We tied at tying. So, she challenged me to untying."
     mes "No sooner had I accepted and started reaching for my knot than she pulled one string and her shoes were untied."
     mes "It's so obvious now, but I was amazed."
-
     if e06s08_preg_mes is True:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a48-p-2-f with dissolve
@@ -753,9 +736,9 @@ label d06s08_arj:
     play voice4 amrose_thinking_hmm4 noloop
     arj "Take me any way you want, [mcname]."
     menu:
-        "Creampie AmRose's Fuckhole"(hint="e06s08m04c01") if True:
+        "Creampie AmRose's Fuckhole"(hint="e06s08m04c01"):
             $ e06s08_preg_arj = True
-        "Creampie AmRose's Shithole"(hint="e06s08m04c02") if True:
+        "Creampie AmRose's Shithole"(hint="e06s08m04c02"):
 
             $ e06s08_preg_arj = False
 
@@ -768,8 +751,6 @@ label d06s08_arj:
     arj "Thanks. Partially because I want to take our time and really enjoy this."
     arj "Partially because I want to collect my thoughts."
     if e06s08_preg_arj is True:
-
-
         play voice2 d7s4_mcbreathing
         play voice4 amrose_old_moaning
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -777,23 +758,18 @@ label d06s08_arj:
         scene e06s08-a49-p-1
         pause
     elif True:
-
-
         play voice2 d7s4_mcbreathing
         play voice4 amrose_old_moaning
         play sound sfx_vagina_penetration1_fast loop volume 0.6
         $ Lovense.pattern("7;11", 1800)
         scene e06s08-a49-a-1
         pause
-
     arj "There are two kinds of people - plotters and pantsers."
     arj "Plotters plan everything out. Pantsers fly by the seat of their pants."
     arj "I'm definitely a plotter. I even lay in bed at night planning conversations I'll have so they can seem spontaneous the next day."
-
     arj "So, naturally, you'd expect that I planned out this speech - this toast - very carefully ahead of time."
     arj "And I did, but something happened when Stacy was giving her toast and now everything I wanted to say just seems wrong."
     arj "I guess the first thing I want to say is that I've been in love with [mcname] ever since our freshman year."
-
     if e06s08_preg_arj is True:
         scene e06s08-a49-p-2 with dissolve
         pause
@@ -817,12 +793,10 @@ label d06s08_arj:
     arj "I lied to myself again and again. I told myself she wasn't good enough for him."
     arj "I told myself I wasn't good enough for him."
     if e06s08_preg_arj is True:
-
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a49-p-1-f with dissolve
         pause
     elif True:
-
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a49-a-1-f with dissolve
         pause
@@ -838,7 +812,6 @@ label d06s08_arj:
     play voice5 min_thinking_hmm3 noloop
     arj "I realized that while Stacy was talking. When she spoke about how he reacted when she broke the television."
     arj "Unconditional love."
-
     play voice4 amrose_old_moaning3
     if e06s08_preg_arj is True:
         scene e06s08-a49-p-3-f with dissolve
@@ -915,8 +888,6 @@ label d06s08_arj:
     lc "Yes."
     arj "I mean, we already forgave you."
     lc "I know that."
-
-
     arj "Okay... I guess... if you're sure..."
     play voice3 daisy_sucking
     scene e06s08-49-22 lc-sits-mc-lap-eats-arj_c1 with dissolve
@@ -958,20 +929,17 @@ label d06s08_dd:
     play voice4 daisy_hmm2 noloop
     dd "Wreck me, [mcname]. Which way would you like me?"
     menu:
-        "Take Daisy from the Front"(hint="e06s08m05c01") if True:
+        "Take Daisy from the Front"(hint="e06s08m05c01"):
             $ e06s08_preg_dd = True
             scene e06s08-50-04 mc-fucks-dd-pussy-anim_c1 with dissolve
             pause
-        "Get Daisy on the Back End"(hint="e06s08m05c02") if True:
+        "Get Daisy on the Back End"(hint="e06s08m05c02"):
 
             $ e06s08_preg_dd = False
             scene e06s08-50-04-01 mc-fucks-dd-ass-anim_c1 with dissolve
             pause
 
-
     if e06s08_preg_dd is True:
-
-
         play voice4 daisy_moaning2
         play voice2 d7s4_mcbreathing
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -979,8 +947,6 @@ label d06s08_dd:
         scene e06s08-a50-p-2
         pause
     elif True:
-
-
         play voice4 daisy_moaning2
         play voice2 d7s4_mcbreathing
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -990,7 +956,6 @@ label d06s08_dd:
     dd "Lydia & [mcname]. When I met you both I could tell there was something very special about you."
     dd "I've always felt like if the story of my life were a novel or a video game or something, that I wasn't the main character."
     dd "I'm my own protagonist and my own story is great, but my story is just a small part of something bigger."
-
     if e06s08_preg_dd is True:
         scene e06s08-a50-p-1 with dissolve
         pause
@@ -1000,7 +965,6 @@ label d06s08_dd:
     dd "When I met [mcname], and later when I met Lydia, I got the impression that they were important."
     dd "These are two main characters. Their love story is what the game or book or whatever is really about."
     dd "I'm just so fucking delighted to be a part of that story and to be with you both."
-
     if e06s08_preg_dd is True:
         scene e06s08-a50-p-3 with dissolve
         pause
@@ -1010,8 +974,6 @@ label d06s08_dd:
     dd "I couldn't be fucked better-"
     dd "I mean, I couldn't be fucking happier-"
     dd "Fuck, [mcname], I can feel the tip of your cock in my stomach!"
-
-
     if e06s08_preg_dd is True:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         $ Lovense.pattern("7;11", 900)
@@ -1023,7 +985,6 @@ label d06s08_dd:
         scene e06s08-a50-a-1-f with dissolve
         pause
     dd "Screw whatever I was saying. Just keep fucking me!"
-
     play voice4 daisy_scream6 noloop
     queue voice4 daisy_moaning2
     if e06s08_preg_dd is True:
@@ -1120,9 +1081,7 @@ label d06s08_mh:
     $ Lovense.pattern("7;11", 1800)
     scene e06s08-a51-a-1
     pause
-
     mh "I haven't known either Lydia or [mcname] as long as some of you. I met both of them on the same night."
-
     scene e06s08-a51-a-2 with dissolve
     pause
     mh "They were both at the same party - separately. I don't know if they knew each other before that."
@@ -1144,7 +1103,6 @@ label d06s08_mh:
     mh "Yet you still found me and hung out with me while Min performed the main event."
     mc "I guess there was just something about you."
     mh "And I've finished you off many times since."
-
     play sound sfx_sex_bodyslaps1 loop volume 0.6
     $ Lovense.pattern("7;11", 900)
     scene e06s08-a51-a-1-f with dissolve
@@ -1152,7 +1110,6 @@ label d06s08_mh:
     mc "About to be one more."
     mh "Shit? Are you going to cum already?"
     mc "It's not my fault your ass is so tight."
-
     play sound sfx_sex_bodyslaps1 loop volume 0.6
     scene e06s08-a51-a-2-f with dissolve
     pause
@@ -1235,9 +1192,9 @@ label d06s08_mh:
 
     menu:
         mct "Hmm..."
-        "Lydia should Rim Lyssa's ass"(hint="e06s08m06c01") if True:
+        "Lydia should Rim Lyssa's ass"(hint="e06s08m06c01"):
             $ e06s08_mh_blowjob = False
-        "Lydia should Blow Lyssa's mind (and cock)"(hint="e06s08m06c02") if True:
+        "Lydia should Blow Lyssa's mind (and cock)"(hint="e06s08m06c02"):
             $ e06s08_mh_blowjob = True
 
     if e06s08_mh_blowjob is True:
@@ -1316,7 +1273,6 @@ label d06s08_end:
     lc "A nap does sound good. I might need you to carry me."
     lc "But I definitely want you to fuck the living shit out of me tonight."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -1324,4 +1280,5 @@ label d06s08_end:
     stop music fadeout 3.5
     stop sound3 fadeout 3.0
     jump e06s09
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

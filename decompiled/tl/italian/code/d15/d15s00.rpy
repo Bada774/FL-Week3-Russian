@@ -13,4 +13,5 @@ translate italian strings:
 
     old "Play Week-3"
     new "Gioca la 3° settimana"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

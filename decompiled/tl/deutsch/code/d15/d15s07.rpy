@@ -1194,4 +1194,5 @@ translate deutsch strings:
 
     old "I'm getting kinda bored of the watersports"
     new "Ich werde etwas gelangweilt von Wasserspielen"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

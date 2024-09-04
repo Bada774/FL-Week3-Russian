@@ -74,6 +74,7 @@ define ly = Character("Lily", color="#eb9b3b")
 define rs = Character("Room Service", color="#e7dbce")
 define gb = Character("Domina", color="#000000" , who_style = "dark_character" )
 define jd = Character("Janet", color="#b73b26")
+define gc = Character("Gary", color="#b75b26")
 
 
 define sm = Character("Silvia"          , color = "#6e50c3" , who_style = "dark_character" )
@@ -89,4 +90,5 @@ style dark_character:
     yalign 0.5
     outlines [(1, "#e1e1e1", 0, 0)]
     kerning 1
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

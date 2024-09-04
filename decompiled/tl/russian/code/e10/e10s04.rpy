@@ -34,13 +34,13 @@ translate russian e10s04_21695b74:
 translate russian e10s04_4bf7fd41:
 
     # mc "Well, I'm not saying that it's bad, but it certainly makes pivoting to our business harder if you get rooted in your father's company."
-    mc "Ну, я не говорю, что это плохо, но это определенно усложняет переход к нашему бизнесу, если ты  укоренишься в компании своего отца."
+    mc "Ну, я не говорю, что это плохо, но это определенно усложняет переход к нашему бизнесу, если ты укоренишься в компании своего отца."
 
 # game/code/e10/e10s04.rpy:39
 translate russian e10s04_a66d88b0:
 
     # mes "...Alright. I guess that makes sense."
-    mes "...Ладно. Это имеет смысл."
+    mes "...Ладно. Пожалуй, в этом есть смысл."
 
 # game/code/e10/e10s04.rpy:42
 translate russian e10s04_b61d2cee:
@@ -52,7 +52,7 @@ translate russian e10s04_b61d2cee:
 translate russian e10s04_c29d33da:
 
     # mes "Me having to deal with my family's shit if I go into this."
-    mes "Ох, мне придётся разгребать дерьмо от всей моей семьи, если я ввяжусь в это."
+    mes "Мне придётся разгребать дерьмо от всей моей семьи, если я ввяжусь в это."
 
 # game/code/e10/e10s04.rpy:48
 translate russian e10s04_00b1fe18:
@@ -82,13 +82,13 @@ translate russian e10s04_292f22ab:
 translate russian e10s04_b6ccefc3:
 
     # "Drop out."
-    "Отчисление."
+    "Потеря диплома."
 
 # game/code/e10/e10s04.rpy:61
 translate russian e10s04_a2a1aa04:
 
     # mc "If I do this, I'll be dropping out to fully focus on this. So, sayonara business degree."
-    mc "Если я этим займусь, то брошу учебу, чтобы полностью сосредоточиться на этом. Значит, прощай мой диплом по бизнеса."
+    mc "Если я этим займусь, то брошу учебу, чтобы полностью сосредоточиться на этом. Значит, прощай мой диплом по бизнесу."
 
 # game/code/e10/e10s04.rpy:64
 translate russian e10s04_a9aef880:
@@ -106,7 +106,7 @@ translate russian e10s04_736bbaa7:
 translate russian e10s04_49f0b737:
 
     # mes "Are you completely sure that you want to just abandon your studies when you're so close to finishing it?"
-    mes "Ты уверен, что хочешь просто бросить учёбу, когда ты так близок к её окончанию?"
+    mes "Ты уверен, что хочешь просто бросить учёбу, когда ты так близок к её завершению?"
 
 # game/code/e10/e10s04.rpy:73
 translate russian e10s04_ddc8c888:
@@ -130,7 +130,7 @@ translate russian e10s04_49f5654b:
 translate russian e10s04_f8ef467d:
 
     # mc "I think that's enough cons for now. Let's do a couple pros."
-    mc "Думаю, на данный момент минусов достаточно. Давайте займёмся плюсами."
+    mc "Думаю, пока что минусов достаточно. Давай займёмся плюсами."
 
 # game/code/e10/e10s04.rpy:84
 translate russian e10s04_d902cf3c:
@@ -172,7 +172,7 @@ translate russian e10s04_393e7a79:
 translate russian e10s04_297a17c9:
 
     # mc "Exactly— Oh! And the biggest thing."
-    mc "Точно... О! И самое главное."
+    mc "Именно... О! И самое главное."
 
 # game/code/e10/e10s04.rpy:101
 translate russian e10s04_f1125abb:
@@ -328,7 +328,7 @@ translate russian e10s04_1b7ff983:
 translate russian e10s04_0f1f5fb8:
 
     # mes "Oh!"
-    mes "Ох!"
+    mes "О!"
 
 # game/code/e10/e10s04.rpy:195
 translate russian e10s04_f628524d:
@@ -346,7 +346,7 @@ translate russian e10s04_da14a39e:
 translate russian e10s04_933f7836:
 
     # mes "She applied to my father's company, but I swiped her file 'cause she looked perfect."
-    mes "Она подала заявление в компанию моего отца, но я забрала её дело, потому что она выглядела идеально."
+    mes "Она подала заявление в компанию моего отца, но я забрала её дело, потому что она выглядела слишком идеально."
 
 # game/code/e10/e10s04.rpy:204
 translate russian e10s04_da6e0ea1:
@@ -358,7 +358,7 @@ translate russian e10s04_da6e0ea1:
 translate russian e10s04_71ec72e9:
 
     # mes "She would've been constricted at my father's place anyway."
-    mes "Ей бы всё равно трудно бы пришлось в компании моего отца."
+    mes "В компании моего отца ей бы всё равно трудно пришлось."
 
 # game/code/e10/e10s04.rpy:208
 translate russian e10s04_7d53b585:
@@ -370,7 +370,7 @@ translate russian e10s04_7d53b585:
 translate russian e10s04_4540b306:
 
     # mc "She's cute. Send me the details. I'll check her out."
-    mc "Она милая. Пришли мне подробности. Я её проверю."
+    mc "Миленькая. Пришли мне подробности. Я её проверю."
 
 # game/code/e10/e10s04.rpy:214
 translate russian e10s04_f9a91182:

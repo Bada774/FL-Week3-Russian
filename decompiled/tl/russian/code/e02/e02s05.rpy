@@ -622,7 +622,7 @@ translate russian e02s05_menu_37338b68:
 translate russian e02s05_menu_ac0b9fc9:
 
     # mh "Same thing we do every night, Pinky."
-    mh "То же самое, что мы делаем каждую ночь, Пинки.\n\n{size=-10}{i}(Отсылка к американскому мультсериалу \"Брейн и Пинки\"){/i}{/size}"
+    mh "То же самое, что мы делаем каждую ночь, Пинки.\n\n{size=-10}{i}Отсылка к американскому мультсериалу \"Брейн и Пинки\".{/i}{/size}"
 
 # game/code/e02/e02s05.rpy:340
 translate russian e02s05_menu_51657ec4:
@@ -658,7 +658,7 @@ translate russian e02s05_menu_59122bb5:
 translate russian e02s05_menu_de18fb8e:
 
     # mc "Chicken butt."
-    mc "Куриная попка.\n\n{size=-10}{i}(Всё ещё отсылка к \"Брейн и Пинки\". Они притворяются персонажами мультфильма){/i}{/size}"
+    mc "Куриная попка.\n\n{size=-10}{i}Всё ещё отсылка к \"Брейн и Пинки\". Они притворяются персонажами мультфильма.{/i}{/size}"
 
 # game/code/e02/e02s05.rpy:362
 translate russian e02s05_menu_c8bdaec4:

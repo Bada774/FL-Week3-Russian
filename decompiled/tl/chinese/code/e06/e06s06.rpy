@@ -1253,4 +1253,5 @@ translate chinese e06s06_d14a3c55:
 
 
     lc "是的，所以我很清楚他交往过的所有女孩。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -346,7 +346,7 @@ translate russian e06s08_cake_ed0681dd:
 translate russian e06s08_cake_f99cf382:
 
     # sy "Stuff it, Maid-of-Dishonor!"
-    sy "Мечтай, бесчестная служанка!\n\n{size=-10}{i}(ориг. Maid-of-Dishonor! - унизительное изменение словосочетания \"maid-of-honor\" - подруга невесты){/i}{/size}"
+    sy "Мечтай, бесчестная служанка!\n\n{size=-10}{i}Ориг. Maid-of-Dishonor! - унизительное изменение словосочетания \"maid-of-honor\" - подруга невесты.{/i}{/size}"
 
 # game/code/e06/e06s08.rpy:324
 translate russian e06s08_cake_c0c642de:
@@ -1276,7 +1276,7 @@ translate russian d06s08_arj_bcdee576:
 translate russian d06s08_arj_1c69dbe4:
 
     # arj "May I quote Pulp Fiction at least?"
-    arj "Можно я хотя бы процитирую \"Криминальное чтиво\"?\n\n{size=-10}{i}(Криминальное чтиво - известный фильм режиссёра Квентина Тарантино){/i}{/size}"
+    arj "Можно я хотя бы процитирую \"Криминальное чтиво\"?\n\n{size=-10}{i}Криминальное чтиво - известный фильм режиссёра Квентина Тарантино.{/i}{/size}"
 
 # game/code/e06/e06s08.rpy:933
 translate russian d06s08_arj_421877cc:

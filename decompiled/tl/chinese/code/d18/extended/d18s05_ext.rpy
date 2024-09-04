@@ -709,4 +709,5 @@ translate chinese d18s05_after_sex_511784d8:
 
 
     dw ""
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

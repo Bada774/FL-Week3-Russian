@@ -12,7 +12,9 @@ init python:
 
 
 
-    extra_gallery_slots = [
+    extra_gallery_slots = []
+
+    main_game_extra_gallery_slots = [
         ("d21s99n01" , _("01. Worst Nightmare"                  ) , _("Unlock the hidden 19th ending"                         ) ),
         ("d19s05n01" , _("02. GG EZ Videogame"                  ) , _("Get a high score in the minigame"                      ) ),
         ("d21s25n01" , _("03. Somebody that I Used to Know"     ) , _("Unlock Lydia's music video"                            ) ),
@@ -42,7 +44,20 @@ init python:
         ("d17s06n03" , _("27. May I panic now, Mistress?"       ) , _("Braved the funhouse with Dahlia"                       ) ),
         ("d17s06n04" , _("28. Fifty-Five Foot Club"             ) , _("Join Polly and Nora on the ferris wheel"               ) ),
         ("d15s04n01" , _("29. That Was Cathartic... for Them"   ) , _("Fix Dahlia and Samiya's relationship"                  ) ),
-    ]
+        ]
+
+    extra_gallery_slots.extend(main_game_extra_gallery_slots)
+
+    dlc_1_extra_gallery_slots =  [
+        ("dlc01n01"  , _("30. What? You wanted more?"           ) , _("Finish all 6 Endings from DLC-1"                       ) ),
+        ("e14s06n01" , _("31. Go Debbie Go"                     ) , _("Have sex with Debbie"                                  ) ),
+        ("e07s07n01" , _("32. Fully Cooked"                     ) , _("Get max points in Lydia's challenges in e07"           ) ),
+        ("e04s08n01" , _("33. Full House"                       ) , _("Play with all the characters in e04"                   ) ),
+        ("dlc01n02"  , _("34. Day and Night"                    ) , _("Finish e04 and e07"                                    ) ),
+        ("dlc01n03"  , _("35. A lucky dozen"                    ) , _("Finish 12 endings"                                     ) ),
+        ]
+
+    dlc_2_extra_gallery_slots =  []
 
 
 
@@ -220,6 +235,29 @@ init python:
     extra_gallery.image("promo-stacy-dahlia-01-4k_c2")
     extra_gallery.image("promo-stacy-dahlia-01-4k_c3")
 
+
+    extra_gallery.button("dlc01n01")
+
+
+    extra_gallery.button("e14s06n01")
+    extra_gallery.image("sy_christmas_bonus_art_sm")
+
+
+    extra_gallery.button("e07s07n01")
+    extra_gallery.image("lydiaxlydia_promo")
+
+
+    extra_gallery.button("e04s08n01")
+    extra_gallery.image("sy_halloween_bonus_art")
+
+
+    extra_gallery.button("dlc01n02")
+    extra_gallery.image("lydiaxlydia_meme_bonus")
+
+
+    extra_gallery.button("dlc01n03")
+    extra_gallery.image("mh_christmas_bonus_art")
+
     for i in extra_gallery_slots:
         renpy.image("gallery_tnextra_" + i[0], Image("images/extended/extra/" + i[0] + ".webp"))
 
@@ -349,7 +387,7 @@ screen bonus_rm_rf():
 
     text _("I WANT TO KEEP\nFETISH LOCATOR") style "bonus_rm_rf_text_1"
     if is_steam_edition is True:
-        text _("TO MAKR SURE NO ONE\nWILL BE BLACKMAILED") style "bonus_rm_rf_text_2"
+        text _("TO MAKE SURE NO ONE\nWILL BE BLACKMAILED") style "bonus_rm_rf_text_2"
     else:
         text _("YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?") style "bonus_rm_rf_text_2"
     text _("RIGHT?") style "bonus_rm_rf_text_3"
@@ -662,4 +700,53 @@ image pw_28_bonus_art_6 = Composite(
     (0, 0), "black",
     (420, 0), "pw-canvas-2_c3"
     )
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+screen bonus_horny_meme():
+    tag menu
+
+
+    add "black"
+    add "images/extended/dlc-1-bonus/meme_2_square_bg.webp" xalign 0.5
+
+    text _("ORNY") xanchor 0.5 xpos 970 yalign 0.2 style "bonus_horny_meme_text"
+    text _("H") xanchor 0.5 xpos 1230 yalign 0.24 style "bonus_horny_meme_text"
+    text _("UNGRY") xanchor 0.5 xpos 680 yalign 0.36 style "bonus_horny_meme_text"
+    text _("APPY") xalign 0.505 yalign 0.73 style "bonus_horny_meme_text"
+
+    button:
+        action ShowMenu("extra")
+
+style bonus_horny_meme_text:
+    size 60
+    font "fonts/impact.ttf"
+    color "#fff"
+    outlines [(3, "#000", 0, 0)]
+    text_align 0.5
+
+
+
+image sy_christmas_bonus_art_sm = Composite(
+    (1920, 1080),
+    (0, 0), "black",
+    (403, 0), "cristmas_sy_sm_bonus_4"
+    )
+
+
+
+image sy_halloween_bonus_art = Composite(
+    (1920, 1080),
+    (0, 0), "black",
+    (283, 0), "halloween_sy_bonus_5"
+    )
+
+
+
+image mh_christmas_bonus_art = Composite(
+    (1920, 1080),
+    (0, 0), "black",
+    (208, 0), "cristmas_mh_bonus_2"
+    )
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -1251,4 +1251,5 @@ translate spanish strings:
 
     old "Fuck Lyssa while she fucks AmRose"
     new "Follar a Lyssa mientras se folla a AmRose"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

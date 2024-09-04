@@ -444,10 +444,10 @@ label d21s01:
     play voice3 chloe_hey_whisper noloop
     hr "Hey, I just came in here to get this and leave. Come get it while the offer's good."
     menu:
-        "Suck my cock."(hint="d21s01m01c01") if True:
+        "Suck my cock."(hint="d21s01m01c01"):
             $ d21s01_bj = True
             jump d21s01_bj
-        "No thanks."(hint="d21s01m01c02") if True:
+        "No thanks."(hint="d21s01m01c02"):
 
             jump d21s01_no_bj
 
@@ -469,11 +469,11 @@ label d21s01_bj:
     play voice3 chloe_happy_hmm noloop
     hr "...{w}do you want it?"
     menu:
-        "I do"(hint="d21s01m02c01") if True:
+        "I do"(hint="d21s01m02c01"):
             $ d21s01_roleplay = True
             play voice2 d9s2_mcyes noloop volume 2.5
             mc "Yes. I do."
-        "I don't"(hint="d21s01m02c02") if True:
+        "I don't"(hint="d21s01m02c02"):
 
             play voice2 mc_no_nah2 noloop
             mc "No. I don't."
@@ -644,7 +644,6 @@ label d21s01_bj:
     scene d21s01-39-12 mc-hr-more-slaps with dissolve
     play voice2 mc_thinking_hmm2 noloop
     mc "Close your eyes, and open your mouth."
-
     $ Lovense.stop()
 
     play voice3 hana_argh2 noloop
@@ -754,7 +753,6 @@ label d21s01_bj:
     scene d21s01-41-03 mc-hr-collapsing with fade
 
     $ Lovense.stop()
-
     play sound sfx_bed_fall1
     play voice2 d1s5b_ehhh noloop volume 1.4
     pause
@@ -799,7 +797,7 @@ label d21s01_bj:
     play voice3 chloe_arrogant_heh4 noloop
     hr "I'll tell you in the shower."
     menu:
-        "Join her"(hint="d21s01m03c01") if True:
+        "Join her"(hint="d21s01m03c01"):
             $ d21s01_join_shower = True
             scene d21s01-21-06 mc-hr-talking with dissolve
             play voice2 mc_yes_yeah5 noloop
@@ -813,7 +811,7 @@ label d21s01_bj:
             scene d21s01-20 mc-hr-talking with dissolve
             play voice3 chloe_disappointed_off noloop
             hr "We'll talk..."
-        "Don't join her."(hint="d21s01m03c02") if True:
+        "Don't join her."(hint="d21s01m03c02"):
 
             scene d21s01-21-06 mc-hr-talking with dissolve
             play voice2 mc_thinking_mmm5 noloop
@@ -873,4 +871,5 @@ label d21s01_end:
     stop sound2 fadeout 3.0
 
     jump d21s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

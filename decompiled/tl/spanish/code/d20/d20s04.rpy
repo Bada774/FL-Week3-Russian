@@ -1450,4 +1450,5 @@ translate spanish strings:
 
     old "She was just visiting."
     new "Ella sólo estaba de visita"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

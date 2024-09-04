@@ -506,7 +506,7 @@ label d21s07_jdg_quickie:
     play voice5 boy5_arrogant_yeah noloop
     "Bailiff" "Pretend I'm not even here."
     menu:
-        "Facefuck the Judge During Recess"(hint="d21s07m01c01") if True:
+        "Facefuck the Judge During Recess"(hint="d21s07m01c01"):
             $ d21s07_fuck_judge = True
 
             play voice2 mc_yes_okay2 noloop
@@ -594,7 +594,7 @@ label d21s07_jdg_quickie:
             jdg "Either way, thank you."
             jdg "Thank you both."
             $ unlock_gallery_slot("scene", "d21s07")
-        "Refuse Her Request"(hint="d21s07m01c02") if True:
+        "Refuse Her Request"(hint="d21s07m01c02"):
 
             scene d21s07-57 jdg-mc-talk3_c1 with dissolve
             play voice2 mc_no_no5 noloop
@@ -626,12 +626,12 @@ label d21s07_offer_p2:
     call update_ending_variables from _call_update_ending_variables_3
     $ unlock_ending("04")
     menu:
-        "Enslave Lydia in Her Own Dungeon"(hint="d21s07m02c01") if True:
+        "Enslave Lydia in Her Own Dungeon"(hint="d21s07m02c01"):
             $ d21s07_sex_dungeon = True
 
             play voice2 mc_yes_yeah1 noloop
             mc "I'm sure this is in everyone's best interest."
-        "Reject the Offer"(hint="d21s07m02c02") if True:
+        "Reject the Offer"(hint="d21s07m02c02"):
 
             $ d21s07_sex_dungeon = False
 
@@ -648,8 +648,11 @@ label d21s07_offer_p2:
 
 label d21s07_closing:
 
+    if from_ending_menu is True:
+        $ renpy.music.set_volume(0.35, 3.0, "music" )
+        play music vidala_en_verde fadein 3.0
     play sound sfx_court_hammer1
-    scene d21s07-21 jdg-def-p-lc-hr-baf-mc-grill12_c4 with fade
+    scene d21s07-21 jdg-def-p-lc-hr-baf-mc-grill12_c4 with Fade(0.5, 0.5, 0.5)
     play voice5 boy5_hey_angry noloop
     "Bailiff" "All Rise!{w} The People v. Lydia Cox and Jerome Skinner will now resume."
     "Bailiff" "Be seated."
@@ -728,7 +731,7 @@ label d21s07_closing:
         stop voice3 fadeout 3.0
         js "Nooooooo!"
         play sound sfx_court_hammer1
-
+        stop music fadeout 3.0
 
         jump ending_04
 
@@ -916,7 +919,7 @@ label d21s07_harem_end hide:
     call update_ending_variables from _call_update_ending_variables_4
     $ unlock_ending("06")
     menu:
-        "Propose Marriage to Lydia"(hint="d21s07m03c01") if True:
+        "Propose Marriage to Lydia"(hint="d21s07m03c01"):
             $ d21s07_engagement = True
             $ d21s07_last_menu = 01
             jump d21s07_marry_lc
@@ -1068,4 +1071,5 @@ label d21s07_endings:
         jump ending_01
     elif True:
         jump d21s99
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

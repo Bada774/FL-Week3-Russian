@@ -82,13 +82,13 @@ translate russian d17s06dd_95f8edf5:
 translate russian d17s06dd_5ffa9bb3:
 
     # mc "Hmm... Bodo Bass?"
-    mc "Хмм... Бодо Баас?\n\n{size=-10}{i}(Бодо Баас - персонаж вселенной \"Звёздных Войн\"){/i}{/size}"
+    mc "Хмм... Бодо Баас?\n\n{size=-10}{i}Бодо Баас - персонаж вселенной \"Звёздных Войн\".{/i}{/size}"
 
 # game/code/d17/d17s06dd.rpy:94
 translate russian d17s06dd_cff7c7bb:
 
     # dd "No. {w}Are you a Mordecai?"
-    dd "Не. {w}Может Мордекай?\n\n{size=-10}{i}(Мордекай - персонаж мультсериала \"Обычный мультик\"){/i}{/size}"
+    dd "Не. {w}Может Мордекай?\n\n{size=-10}{i}Мордекай - персонаж мультсериала \"Обычный мультик\".{/i}{/size}"
 
 # game/code/d17/d17s06dd.rpy:98
 translate russian d17s06dd_f613bff3:
@@ -136,7 +136,7 @@ translate russian d17s06dd_40fd60a7:
 translate russian d17s06dd_2136e9fe:
 
     # mc "Reminds me of that friend of Buffy's."
-    mc "Напоминает мне того друга Баффи.\n\n{size=-10}{i}(отсылка к сериалу \"Баффи - Истребительница вампиров\"){/i}{/size}"
+    mc "Напоминает мне того друга Баффи.\n\n{size=-10}{i}Отсылка к сериалу \"Баффи - Истребительница вампиров\".{/i}{/size}"
 
 # game/code/d17/d17s06dd.rpy:123
 translate russian d17s06dd_68884bce:
@@ -160,7 +160,7 @@ translate russian d17s06dd_40fd60a7_1:
 translate russian d17s06dd_0b48190e:
 
     # mc "Reminds me of that chocolate factory."
-    mc "Напоминает мне ту шоколадную фабрику. \n\n{size=-10}{i}(отсылка к фильму \"Чарли и Шоколадная Фабрика\"){/i}{/size}"
+    mc "Напоминает мне ту шоколадную фабрику. \n\n{size=-10}{i}Отсылка к фильму \"Чарли и Шоколадная Фабрика\".{/i}{/size}"
 
 # game/code/d17/d17s06dd.rpy:134
 translate russian d17s06dd_9094b13f:
@@ -970,7 +970,7 @@ translate russian d17s06dd_a63f6ef5:
 translate russian d17s06dd_8644a22a:
 
     # dd "IUD"
-    dd "ВМС.\n\n{size=-10}{i}(ВМС - внутриматочная спираль){/i}{/size}"
+    dd "ВМС.\n\n{size=-10}{i}ВМС - внутриматочная спираль.{/i}{/size}"
 
 # game/code/d17/d17s06dd.rpy:588
 translate russian d17s06dd_c16df516:
@@ -1030,7 +1030,7 @@ translate russian d17s06dd_d23aa313:
 translate russian d17s06dd_8644a22a_1:
 
     # dd "IUD"
-    dd "ВМС.\n\n{size=-10}{i}(ВМС - внутриматочная спираль){/i}{/size}"
+    dd "ВМС.\n\n{size=-10}{i}ВМС - внутриматочная спираль.{/i}{/size}"
 
 # game/code/d17/d17s06dd.rpy:617
 translate russian d17s06dd_11455b53:

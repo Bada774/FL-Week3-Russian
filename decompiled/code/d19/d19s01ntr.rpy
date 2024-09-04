@@ -103,7 +103,6 @@ label d19s01ntr:
 label replay_d19s01ntr:
 label d19s01ntr_flashback:
 
-
     $ Lovense.stop()
 
     play sound sfx_memory_back4
@@ -268,7 +267,6 @@ label d19s01ntr_continue:
     play voice2 mc_pain_rrrr noloop
     play sound sfx_kick3
 
-
     $ Lovense.stop()
 
     scene d19s01ntr-39 mc_lc_pd_ntr_lydias_dungeon_blur with hpunch
@@ -289,7 +287,7 @@ label d19s01ntr_questions:
 
     scene d19s01ntr-43 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
     menu:
-        "How did I get here?"(hint="d19s01ntrm01c01") if True:
+        "How did I get here?"(hint="d19s01ntrm01c01"):
             $ d19s01ntr_q1 = True
             scene d19s01ntr-44 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
             lc "Apparently you called a taxi. You were passed out in the back seat when it arrived at my house."
@@ -300,7 +298,7 @@ label d19s01ntr_questions:
             scene d19s01ntr-46 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
             play voice3 dahlia_happy_laugh4 noloop
             lc "This is my true home."
-        "I thought you were a virgin!"(hint="d19s01ntrm01c02") if True:
+        "I thought you were a virgin!"(hint="d19s01ntrm01c02"):
 
             $ d19s01ntr_q2 = True
             scene d19s01ntr-48 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
@@ -319,7 +317,7 @@ label d19s01ntr_questions:
             scene d19s01ntr-52 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
             play voice3 dahlia_yes_yeah2 noloop
             lc "I did. I implied. I have manipulated. I even gaslit you - but I never lied."
-        "How is Kevin involved in all this"(hint="d19s01ntrm01c03") if True:
+        "How is Kevin involved in all this"(hint="d19s01ntrm01c03"):
 
             $ d19s01ntr_q3 = True
             scene d19s01ntr-54 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
@@ -331,7 +329,7 @@ label d19s01ntr_questions:
             scene d19s01ntr-44 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
             play voice3 lydia_aga noloop
             lc "Don't worry about them. They'll join you here in a day or two. I'm certain they'll be very excited to do my bidding."
-        "Where are we?"(hint="d19s01ntrm01c04") if True:
+        "Where are we?"(hint="d19s01ntrm01c04"):
 
             $ d19s01ntr_q4 = True
             scene d19s01ntr-56 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
@@ -355,7 +353,7 @@ label d19s01ntr_questions:
             scene d19s01ntr-52 mc_lc_pd_ntr_lydias_dungeon_questions with dissolve
             play voice3 lydia_aga noloop
             lc "You're better at finding g-spots than hidden doors."
-        "No Questions"(hint="d19s01ntrm01c05") if True:
+        "No Questions"(hint="d19s01ntrm01c05"):
 
             $ d19s01ntr_no_ques = True
             pass
@@ -382,7 +380,14 @@ label d19s01ntr_decision:
     scene d19s01ntr-64 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
     play voice3 dahlia_happy_hmm1 noloop
     lc "Much better."
-    scene d19s01ntr-65 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
+label e07_start_label hide:
+    if from_ending_menu is False:
+        scene d19s01ntr-65 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
+    elif True:
+        $ renpy.music.set_volume(0.6, 1.0, "music")
+        scene d19s01ntr-65 mc_lc_pd_ntr_lydias_dungeon_decision with Fade(0.5, 0.5, 0.5)
+        play music music_cumtusion
+        play voice3 dahlia_happy_hmm1 noloop
     lc "So now, you have a choice to make."
     lc "You can choose to accept your life as my slave."
     scene d19s01ntr-66 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
@@ -410,16 +415,22 @@ label ending_07_return hide:
     $ unlock_ending("07")
     call update_ending_variables from _call_update_ending_variables_14
     menu:
-        "That is a Really Good Deal"(hint="d19s01ntrm02c01") if True:
+        "That is a Really Good Deal"(hint="d19s01ntrm02c01"):
             $ d19s01ntr_slave = True
             scene d19s01ntr-73 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
             play voice2 mc_happy_a1 noloop
             mc "You have my heart, my soul, and my loyalty, Mistress."
-
+            scene d19s01ntr-79 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
+            play voice3 dahlia_arrogant_pff noloop
+            lc "Easy words."
+            scene d19s01ntr-80 mc_lc_pd_ntr_lydias_dungeon_end with dissolve
+            play voice3 dahlia_arrogant_heh noloop
+            lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+            stop music fadeout 3.0
 
             jump ending_07
-        "Go Fuck Yourself"(hint="d19s01ntrm02c02") if True:
 
+        "Go Fuck Yourself"(hint="d19s01ntrm02c02") if from_ending_menu is False:
             scene d19s01ntr-74 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
             play voice2 mc_thinking_emm1 noloop
             mc "That sounds like a really good deal, but I have a better one."
@@ -682,4 +693,5 @@ label d19s01ntr_end:
 
     stop music fadeout 3.5
     jump d19s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

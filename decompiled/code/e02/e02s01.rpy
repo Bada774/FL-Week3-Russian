@@ -445,7 +445,6 @@ label e02s01_hot_bath:
     mc "You know how people say a relationship can't last only on sex?"
     mc "That it has to be built on more stable foundations?"
 
-
     $ Lovense.stop()
 
     play sound dahlia_kiss_french1
@@ -515,13 +514,13 @@ label e02s01_hot_bath:
     play voice2 mc_yes_yeah1 noloop
     mc "Something like that."
     menu:
-        "Let Lyssa take control"(hint="e02s01m01c01") if True:
+        "Let Lyssa take control"(hint="e02s01m01c01"):
             jump e02s01_mh_control
-        "Give Lyssa pleasure"(hint="e02s01m01c02") if True:
+        "Give Lyssa pleasure"(hint="e02s01m01c02"):
 
             $ e02s01_give_pleasure = True
             jump e02s01_give_pleasure
-        "Why Not Both?"(hint="e02s01m01c03") if True:
+        "Why Not Both?"(hint="e02s01m01c03"):
 
             $ e02s01_both = True
             jump e02s01_mh_control
@@ -672,8 +671,6 @@ label e02s01_mh_control:
     mc "Plus, you're going to go faster, so that you'll cum and we can continue this inside."
     mh "Good idea..."
     pause
-
-
     scene e02s01-98 mh-getting-close_c1 with dissolve
     play voice3 lissa_moan8 noloop
     mh "I'm close..."
@@ -823,7 +820,6 @@ label e02s01_give_pleasure:
     $ renpy.music.set_volume(0.5, 3.0, "music" )
 
 
-
     $ Lovense.stop()
 
     play sound sfx_cloth_rustling4 volume 2.0
@@ -854,4 +850,5 @@ label e02s01_give_pleasure:
 label e02s01_end:
 
     jump e02s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

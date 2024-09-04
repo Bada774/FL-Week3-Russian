@@ -60,7 +60,7 @@ label d15s02:
     nk "How do you feel?"
     scene d15s02-02 mc-nk-cafe-entry2_c2 with dissolve
     menu:
-        "Itching to Break Free"(hint="d15s02m01c01") if True:
+        "Itching to Break Free"(hint="d15s02m01c01"):
 
             $ d15s02_nk_settledown = False
 
@@ -76,7 +76,7 @@ label d15s02:
             mc "Well... I wouldn't mind just one either. If it's someone special."
             play voice3 dahlia_happy_hmm2 noloop
             nk "*Snickers* Mm-hm."
-        "Had Enough Fun for Now"(hint="d15s02m01c02") if True:
+        "Had Enough Fun for Now"(hint="d15s02m01c02"):
 
 
             $ d15s02_nk_settledown = True
@@ -225,4 +225,5 @@ label d15s02:
 
     stop music fadeout 3.0
     jump d15s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

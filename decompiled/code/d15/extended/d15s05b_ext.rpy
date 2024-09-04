@@ -121,7 +121,6 @@ label d15s05b_ext:
     play voice2 mc_surprised_what3 noloop
     mc "What? Really?"
     nk "There were like twenty people in the coffee shop and just because no one is ordering a drink..."
-
     scene d15s05b-03 mc-nk-pw-park-talk3_c3 with dissolve
     play voice3 polly_wooh noloop
     pw "We're here!"
@@ -130,7 +129,6 @@ label d15s05b_ext:
     nk "Oh, nice."
     play voice2 mc_thinking_hmm2 noloop
     mc "Cool, so can we know what the plan is now?"
-
     nk "I hope you two don't plan to tie me up to this tree and have your way with me."
     scene d15s05b-05 mc-nk-pw-park-spot1_c3 with dissolve
     play voice2 mc_happy_yay2 noloop
@@ -225,7 +223,6 @@ label d15s05b_ext:
     play voice4 nora_mmm noloop volume 1.4
     nk "That would be fine. I could swallow his cum like Triple-A Kona."
     pw "Good to know. Just remember we need to get a snapshot of him shooting his load."
-
     pw "Shall we get started?"
     scene d15s05b-06-01 mc-nk-pw-park-undress1_c3 with dissolve
     play voice2 d2s9_confused noloop volume 1.2
@@ -267,7 +264,7 @@ label d15s05b_ext:
     play voice4 nora_hey noloop
     nk "I'm pretty sure I could take it off. Even without the key."
     menu:
-        "Inquire further"(hint="d15s05bm01c01") if True:
+        "Inquire further"(hint="d15s05bm01c01"):
 
             $ d15s05b_inquire = True
 
@@ -333,13 +330,12 @@ label d15s05b_ext:
             play voice3 dahlia_happy_hmm1 noloop
             pw "Everyone assumed she had pretended to be stuck just to kiss that man."
             nk "Or woman."
-
             pw "Or woman."
             scene d15s05b-06-05 mc-nk-pw-park-undress5_c2 with dissolve
             play voice4 nora_aga noloop
             nk "Of course, that was just in the afternoons. Every morning I worked at a coffee shop."
             nk "Anyway. I'm sure I could unlock whatever device you are wearing and put it back on before anyone notices."
-        "Let it go"(hint="d15s05bm01c02") if True:
+        "Let it go"(hint="d15s05bm01c02"):
 
 
             $ d15s05b_inquire = False
@@ -390,7 +386,6 @@ label d15s05b_fisto:
     play voice3 polly_impressed noloop
     pw "Should I lay down like I did last time?"
 
-
     $ Lovense.stop()
 
     scene d15s05b-07-01 mc-nk-pw-park-teach1_c2 with dissolve
@@ -415,7 +410,6 @@ label d15s05b_fisto:
     scene d15s05b-07-03 mc-nk-pw-park-teach3_c1 with dissolve
     play voice2 mc_happy_hah2 noloop
     mc "You heard the woman. Face down, ass up, that's the way we like to-"
-
     scene d15s05b-07-03 mc-nk-pw-park-teach3_c3 with dissolve
     play voice3 polly_huh noloop
     pw "How does that look?"
@@ -467,7 +461,6 @@ label d15s05b_fisto:
     scene d15s05b-07-04 mc-nk-pw-park-teach4_c3 with dissolve
     play voice4 dahlia_thinking_hmm4 noloop
     nk "Okay then."
-
     play voice3 stacy_moan4 noloop
     $ Lovense.vibrate(3)
     scene d15s05b-07-05 mc-nk-pw-park-finger_c2 with dissolve
@@ -484,7 +477,6 @@ label d15s05b_fisto:
     scene d15s05b-07-04 mc-nk-pw-park-teach4_c3 with dissolve
     play voice4 dahlia_yes_ugu noloop
     nk "Okay, I think I've got this. What's next?"
-
     scene d15s05b-07-03 mc-nk-pw-park-teach3_c1 with dissolve
     play voice2 mc_thinking_mmm2 noloop
     mc "Have you ever heard of the Silent Duck?"
@@ -500,7 +492,6 @@ label d15s05b_fisto:
     nk "No, I've never heard of the Quiet Goose."
     mc "Silent Duck. It's a hand position."
     nk "Okay."
-
     play voice2 mc_thinking_hmm4 noloop
     mc "It is like this."
     scene d15s05b-07-04 mc-nk-pw-park-teach4_c3 with dissolve
@@ -516,7 +507,6 @@ label d15s05b_fisto:
     play voice3 polly_moans
     play sound3 ["<silence 1.3>", sfx_fisting_fist1, "<silence 2.8>", sfx_fisting_fist2, "<silence 1.3>"]
     scene d15s05b-a10-1 with dissolve
-
     play voice2 mc_yes_aga1 noloop
     mc "I think she's got it."
     nk "Polly's sphincter makes this easy. I'm pretty sure I can-"
@@ -530,7 +520,6 @@ label d15s05b_fisto:
     $ Lovense.vibrate(7)
     scene d15s05b-a10-3 with dissolve
     pw "Ooooooooo yEah..."
-
     play voice4 nora_hmm noloop volume 1.6
     nk "Any other tips and tricks?"
     play voice2 mc_yes_yeah4 noloop
@@ -556,7 +545,6 @@ label d15s05b_fisto:
     scene d15s05b-a10-3-f with dissolve
     play voice4 nora_aga noloop
     nk "Sure thing, hon."
-
     stop sound3 fadeout 0.5
     play voice3 polly_yes2 noloop
     $ Lovense.vibrate(9)
@@ -578,8 +566,6 @@ label d15s05b_fisto:
     scene d15s05b-07-04 mc-nk-pw-park-teach4_c3 with dissolve
     play voice2 mc_surprised_wow2 noloop
     mc "I think she really likes that."
-
-
     scene d15s05b-07-04 mc-nk-pw-park-teach4_c4 with dissolve
     play voice3 polly_breathing noloop
     pw "Fucking oh fuck fuck fuck fuck..."
@@ -593,8 +579,6 @@ label d15s05b_fisto:
     jump d15s05b_lesbians
 
 label d15s05b_lesbians:
-
-
 
     if _in_replay:
         $ renpy.music.set_volume(0.6, 0.0, "sound6")
@@ -618,7 +602,7 @@ label d15s05b_lesbians:
     play voice3 polly_nono noloop
     pw "Not literally...{w} Just tell me heads or tails."
     menu:
-        "Heads"(hint="d15s05bm02c01") if True:
+        "Heads"(hint="d15s05bm02c01"):
 
             $ d15s05b_heads = True
 
@@ -636,7 +620,7 @@ label d15s05b_lesbians:
                 queue music melting_rudeness
 
             jump d15s05b_lesbians_nora
-        "Tails"(hint="d15s05bm02c02") if True:
+        "Tails"(hint="d15s05bm02c02"):
 
 
             $ d15s05b_heads = False
@@ -667,8 +651,6 @@ label d15s05b_lesbians:
 
 label d15s05b_lesbians_nora:
 
-
-
     scene d15s05b-08-04 mc-nk-pw-strapon4_c1 with dissolve
     if cage_ntr is False:
         show d15s05b-08-04-2 mc-nk-pw-strapon4-lc_c1
@@ -691,7 +673,6 @@ label d15s05b_lesbians_nora:
     scene d15s05b-a11-2 with dissolve
     play voice2 polly_breathing noloop
     pause
-
     $ renpy.music.set_volume(0.5, 1.5, "voice4")
     stop voice2 fadeout 1.0
     scene d15s05b-08-05 mc-nk-pw-strapon5_c1 with dissolve
@@ -729,7 +710,6 @@ label d15s05b_lesbians_nora:
     scene d15s05b-08-07 mc-nk-pw-strapon7_c3 with dissolve
     play voice4 aaleyah_closed_moan5 noloop
     nk "Okay. Now I'm ready."
-
     $ renpy.music.set_volume(0.4, 3.0, "music")
     scene d15s05b-17 mc-nk-pw-pegging-strapon_c2 with dissolve
     play voice4 nora_heh noloop
@@ -743,7 +723,6 @@ label d15s05b_lesbians_nora:
     pw "I think it's hot.{w} You look good with a cock."
     play voice4 dahlia_thinking_oh noloop
     nk "Well, there's something I've never heard before."
-
     scene d15s05b-08-07 mc-nk-pw-strapon7_c3 with dissolve
     play voice4 dahlia_thinking_mmm2 noloop
     nk "How do you want to take me?"
@@ -752,7 +731,6 @@ label d15s05b_lesbians_nora:
     pw "That looks perfect."
     play voice4 dahlia_thinking_hmm1 noloop
     nk "Yeah? Just like this?"
-
     $ renpy.music.set_volume(0.6, 3.0, "music")
     play voice3 polly_moans
     play voice4 nora_moans1
@@ -784,7 +762,6 @@ label d15s05b_lesbians_nora:
     scene d15s05b-07-06 mc-nk-pw-park-cum_c1 with hpunch
     pause
 
-
     $ Lovense.vibrate(1)
 
     if d15s05b_heads is False:
@@ -803,14 +780,11 @@ label d15s05b_lesbians_nora:
 
 label d15s05b_lesbians_polly:
 
-
-
     scene d15s05b-13 mc-nk-pw-park-fuck2_c1 with fade
     play voice4 dahlia_disappointed_hmm1 noloop
     nk "You're sure you are ready for this?"
     play voice3 polly_yes1 noloop
     pw "Yes."
-
     scene d15s05b-13 mc-nk-pw-park-fuck2_c2 with dissolve
     play voice4 nora_huuuh noloop
     nk "You're absolutely certain you want this inside you?"
@@ -818,12 +792,10 @@ label d15s05b_lesbians_polly:
     pw "Yes, please!"
     play voice4 nora_arghh noloop
     nk "Tell me how much you want it."
-
     scene d15s05b-13 mc-nk-pw-park-fuck2_c3 with dissolve
     play voice3 dahlia_sex_closedmoan5 noloop
     pw "Please!{w} I'll do anything for it.{w} I'll eat your-"
     $ renpy.music.set_volume(0.6, 3.0, "music")
-
     $ Lovense.vibrate(5)
     scene d15s05b-a13-1 with dissolve
     play voice4 dahlia_angry_hm1 noloop
@@ -831,10 +803,8 @@ label d15s05b_lesbians_polly:
     play voice3 [polly_orgasm4, "<silence 0.5>"] noloop
     queue voice3 polly_moans
     nk "LIKE THIS?!"
-
     scene d15s05b-a13-2 with dissolve
     pw "HOLY FUCK YES!!!"
-
     scene d15s05b-a13-3 with dissolve
     pause
     scene d15s05b-08-07 mc-nk-pw-strapon7_c4 with dissolve
@@ -854,7 +824,6 @@ label d15s05b_lesbians_polly:
     nk "What will you do for it?"
     pw "Anything!{w} Everything!"
     nk "Alright, then"
-
     play voice4 nora_moans1
     play voice3 polly_orgasm3 noloop
     queue voice3 polly_moans
@@ -868,7 +837,6 @@ label d15s05b_lesbians_polly:
     scene d15s05b-a13-3-f with dissolve
     pw "No!"
     nk "What about if we fuck a little...{w}nice and slowly now."
-
     play voice3 polly_yes2 noloop
     queue voice3 polly_moans
     scene d15s05b-a13-1 with dissolve
@@ -882,7 +850,6 @@ label d15s05b_lesbians_polly:
     scene d15s05b-13 mc-nk-pw-park-fuck2_c1 with hpunch
     pause
     stop voice3 fadeout 1.0
-
 
     $ Lovense.vibrate(1)
 
@@ -900,8 +867,6 @@ label d15s05b_lesbians_polly:
         jump d15s05b_post_lesbians
 
 label d15s05b_post_lesbians:
-
-
 
     $ renpy.music.set_volume(0.2, 3.0, "music")
     scene d15s05b-09-01 mc-nk-pw-post-fun1_c1 with fade
@@ -975,12 +940,11 @@ label d15s05b_menu_03:
         "Put on a Strapon and Spitroast Nora"(hint="d15s05bm03c02") if d15s05b_spitroast is False:
             $ d15s05b_spitroast = True
             jump d15s05b_spitroast
-        "Say that is enough for today"(hint="d15s05bm03c03") if True:
+        "Say that is enough for today"(hint="d15s05bm03c03"):
 
             jump d15s05b_end
 
 label d15s05b_pegging:
-
 
     scene d15s05b-09-03 mc-nk-pw-post-fun3_c3 with dissolve
     play voice2 mc_yes_okay2 noloop
@@ -995,11 +959,9 @@ label d15s05b_pegging:
     mc "..."
     scene d15s05b-08-03 mc-nk-pw-strapon3_c3 with dissolve
     play voice4 dahlia_thinking_mmm1 noloop
-
     nk "Um, I think I want to be the one to get you ready.{w} Would you let me?"
     play voice2 mc_yes_sure1 noloop
     mc "Sure. Why not?"
-
 
     scene d15s05b-16-1 mc-nk-pw-pegging-intro1_c4 with fade
     play voice4 dahlia_arrogant_hm noloop
@@ -1012,7 +974,6 @@ label d15s05b_pegging:
     scene d15s05b-16-2 mc-nk-pw-pegging-intro2_c4 with dissolve
     play voice4 nora_mmm noloop volume 1.5
     nk "You're doing really well. Ready for a second finger?"
-
     scene d15s05b-16-2 mc-nk-pw-pegging-intro2_c2 with dissolve
     play sound sfx_fisting_fist2
     play voice4 dahlia_thinking_mmm1 noloop
@@ -1025,18 +986,15 @@ label d15s05b_pegging:
     nk "Well, not without your prior consent..."
     nk "Or a very strong set of shackles."
     nk "All done."
-
     scene d15s05b-16-2 mc-nk-pw-pegging-intro2_c1 with dissolve
     play voice4 nora_aga noloop
     nk "You can let go now."
     play voice2 d1s5b_ehhh noloop volume 1.5
     mc "I'm trying...{w} Sorry."
-
     nk "There you go."
     scene d15s05b-17 mc-nk-pw-pegging-strapon_c1 with dissolve
     play voice3 polly_huh noloop
     pw "Are you ready for this?"
-
     scene d15s05b-17 mc-nk-pw-pegging-strapon_c2 with dissolve
     play voice4 nora_yes noloop
     nk "Definitely."
@@ -1049,7 +1007,6 @@ label d15s05b_pegging:
     pw "Are you sure?"
     mc "Let's do this."
 
-
     scene d15s05b-18 mc-nk-pw-pegging-strapon2_c1 with dissolve
     play voice4 dahlia_thinking_hmm1 noloop
     nk "He said that he's ready, so now it's my turn."
@@ -1059,7 +1016,6 @@ label d15s05b_pegging:
     scene d15s05b-18 mc-nk-pw-pegging-strapon2_c2 with dissolve
     play voice4 nora_arghh noloop
     nk "I'M GONNA WRECK IT!!"
-
     play sound sfx_fisting_fist2
     queue voice4 aaleyah_angry_grrr1 noloop
     $ Lovense.vibrate(11)
@@ -1082,7 +1038,6 @@ label d15s05b_pegging:
     nk "Oh, really???"
     play voice2 mc_yes_yeah1 noloop
     mc "Well, they say it's not the size, it's how you use it.{w} Give it a wiggle or something."
-
     $ renpy.music.set_volume(0.6, 3.0, "music")
     scene d15s05b-a16-3 with dissolve
     play voice4 dahlia_disappointed_hmm1 noloop
@@ -1095,7 +1050,6 @@ label d15s05b_pegging:
     scene d15s05b-a16-1 with dissolve
     play voice2 [mc_pain_auh2, "<silence 1.5>", mc_pain_mff4, "<silence 1.5>", mc_pain_auh6, "<silence 1.5>", mc_pain_ffff, "<silence 1.5>", mc_pain_mff2, "<silence 1.5>", mc_disappointed_off2, "<silence 1.5>"]
     mc "Are you sure you're doing anything back there?"
-
     play sound3 sfx_fisting_fast1
     $ Lovense.pattern("6;9", 1100)
     scene d15s05b-a16-3-f with dissolve
@@ -1105,7 +1059,6 @@ label d15s05b_pegging:
     play sound3 sfx_fisting_fast1
     scene d15s05b-a16-0-f with dissolve
     nk "Ha!{w} Polly, will you shut his fool mouth?"
-
     scene d15s05b-16-3 mc-nk-pw-pegging-intro3_c2 with dissolve
     play voice3 polly_huh noloop volume 1.2
     pw "Huh?{w} How would I-?"
@@ -1113,7 +1066,6 @@ label d15s05b_pegging:
     play voice2 mc_pain_rrrr noloop
     queue voice2 [mc_pain_mff1, "<silence 1.5>", mc_pain_mff4, "<silence 1.5>", mc_pain_ou1, "<silence 1.5>", mc_pain_ffff, "<silence 1.5>", mc_pain_mff2, "<silence 1.5>", mc_disappointed_off2, "<silence 1.5>"]
     mc "C'mon, Polly.{w} My mouth is ready for you."
-
     stop sound3 fadeout 1.0
     scene d15s05b-20 mc-nk-pw-pegging11_c4 with dissolve
     play voice3 polly_oh noloop
@@ -1128,7 +1080,6 @@ label d15s05b_pegging:
     scene d15s05b-20-1 mc-nk-pw-park-lick_c4 with dissolve
     mc "*deep breath*"
     mc "It'll give me something to do while Nora pretends to fuck me with her little-"
-
     scene d15s05b-20-2 mc-nk-pw-park-lick2_c1 with dissolve
     if cage_ntr is False:
         show d15s05b-20-2-2 mc-nk-pw-park-lick2-lc_c1
@@ -1154,7 +1105,6 @@ label d15s05b_pegging:
     scene d15s05b-20-1 mc-nk-pw-park-lick_c3 with dissolve
     play voice4 nora_hey noloop
     nk "Looks like he's about to cum too."
-
     stop sound3 fadeout 1.0
     $ Lovense.stop()
     $ Lovense.vibrate(17)
@@ -1169,7 +1119,6 @@ label d15s05b_pegging:
     pw "AAAAAAA-"
     queue voice3 polly_breathing noloop
     pw "*gasps* AMAZING!"
-
     $ Lovense.vibrate(2)
     scene d15s05b-20 mc-nk-pw-pegging11_c3 with dissolve
     play voice2 mc_disappointed_ah2 noloop
@@ -1190,7 +1139,6 @@ label d15s05b_pegging:
     jump d15s05b_menu_03
 
 label d15s05b_spitroast:
-
     scene d15s05b-21 mc-nk-pw-splitroast1_c1 with fade
     play voice2 d1s5_mchappy noloop volume 1.6
     mc "If I do this, does that make me an honorary lesbian?"
@@ -1210,7 +1158,6 @@ label d15s05b_spitroast:
     pw "Wait, I just noticed a problem with this."
     play voice2 mc_arrogant_heh1 noloop
     mc "Well, it's not going to feel any different to my dick. Which holes do you want us to plow?"
-
     scene d15s05b-22 mc-nk-pw-splitroast2_c4 with dissolve
     play voice4 nora_pleasure noloop
     nk "I definitely want Polly to fuck my mouth."
@@ -1230,7 +1177,6 @@ label d15s05b_spitroast:
     play voice4 dahlia_arrogant_hm noloop
     nk "Surprise me."
     mct "Shocker it is.{w} Hope she doesn't mind when I shove this little dildo up her back door."
-
     $ renpy.music.set_volume(0.6, 3.0, "music")
     scene d15s05b-25-a25-01 mc-nk-pw-splitroast-sex-anim-25-01-01_i with dissolve
     play voice2 mc_happy_hah1 noloop
@@ -1249,7 +1195,6 @@ label d15s05b_spitroast:
     queue voice5 polly_moans
     pw "Ha! Gotcha."
     nk "MMmmmmpphh!"
-
     scene d15s05b-a25-2 with dissolve
     pw "Is this doing anything for you?{w} I feel like I could be replaced by some fucking machine."
     play voice2 mc_yes_yeah1 noloop
@@ -1274,7 +1219,6 @@ label d15s05b_spitroast:
     scene d15s05b-a25-3-f with dissolve
     pw "I..."
     pw "Thank you.{w} I never thought of it that way."
-
     play voice4 [nora_sucking4, nora_sucking3] noloop
     stop voice5 fadeout 0.5
     $ Lovense.stop()
@@ -1309,7 +1253,6 @@ label d15s05b_end:
     $ unlock_gallery_slot("scene", "d15s05b")
     $ renpy.music.set_volume(0.15, 3.0, "music")
 
-
     $ Lovense.stop()
 
     scene d15s05b-27 mc-nk-pw-dressup1_c1 with fade
@@ -1318,7 +1261,6 @@ label d15s05b_end:
     play voice2 mc_arrogant_hm3 noloop
     mc "Putting clothes back on?"
     pw "Yeah."
-
     scene d15s05b-27 mc-nk-pw-dressup1_c2 with dissolve
     play voice4 nora_hey noloop
     nk "Why don't you help me close up tonight?"
@@ -1330,7 +1272,6 @@ label d15s05b_end:
     nk "Then maybe after closing we can see those clothes come off again."
     play voice3 polly_likethat noloop
     pw "I like the sound of that."
-
     scene d15s05b-30 mc-nk-pw-end4_c1 with fade
     play voice2 mc_arrogant_heh2 noloop
     mct "I guess I'm not invited."
@@ -1362,4 +1303,5 @@ label d15s05b_end:
     $ renpy.music.set_volume(1.0, 15.0, "sound6")
 
     jump d15s06
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

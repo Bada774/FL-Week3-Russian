@@ -305,4 +305,5 @@ translate chinese strings:
 
     old "1 hour later\nAt Stacy's house"
     new "1小时后\n史黛西家里"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

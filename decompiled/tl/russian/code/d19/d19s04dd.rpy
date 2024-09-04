@@ -568,7 +568,7 @@ translate russian d19s04dd_plushie_e0e7f8ad:
 translate russian d19s04dd_plushie_6fbe08e6:
 
     # mc "I forget. I'm pretty sure it was Wesley Snipes who said it in some movie."
-    mc "Я забыл. Я почти уверен, что это сказал Уэсли Снайпс в каком-то фильме.\n\n{size=-10}{i}(Уэсли Снайпс - американсий актёр){/i}{/size}"
+    mc "Я забыл. Я почти уверен, что это сказал Уэсли Снайпс в каком-то фильме.\n\n{size=-10}{i}Уэсли Снайпс - американсий актёр.{/i}{/size}"
 
 # game/code/d19/d19s04dd.rpy:536
 translate russian d19s04dd_plushie_116641dc:

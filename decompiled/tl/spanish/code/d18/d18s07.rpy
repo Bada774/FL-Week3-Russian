@@ -311,4 +311,5 @@ translate spanish d18s07_7764a381:
 
 
     mc "De acuerdo. Vamos, ella claramente puede manejar esto."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

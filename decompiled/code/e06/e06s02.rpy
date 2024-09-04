@@ -206,7 +206,6 @@ label e06s02:
     scene e06s02-51 hand_lydia_falls with dissolve
     lc "Oh no!"
     play sound sfx_water_run2
-
     play sound3 sfx_water_dive2 noloop volume 2.5
     play voice3 lydia_ah noloop
     scene e06s02-52 hand_lydia_falls with vpunch
@@ -528,7 +527,6 @@ label replay_e06s02 hide:
     scene e06s02-151 min_laugh with dissolve
     play voice4 polly_laugh2 noloop
     mes "*Chuckles playfully*"
-
 
     $ Lovense.stop()
 
@@ -1119,7 +1117,6 @@ label e06s02_sex:
     queue sound sfx_barefoot_steps1 loop
     pause
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -1186,4 +1183,5 @@ label e06s02_sex:
 
     stop music fadeout 3.5
     jump e06s03
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -22,7 +22,7 @@ translate portuguese d19s01ntr_f42241db:
 translate portuguese d19s01ntr_31d80bbc:
 
 
-    lc "Pode me chamar de \"Mestra\" aqui."
+    lc "Pode me chamar de \"Senhora\" aqui."
 
 
 translate portuguese d19s01ntr_e065ec42:
@@ -148,7 +148,7 @@ translate portuguese d19s01ntr_flashback_c0062715:
 translate portuguese d19s01ntr_flashback_68dec3f8:
 
 
-    pb "Mestra?!"
+    pb "Senhora?!"
 
 
 translate portuguese d19s01ntr_flashback_d5158065:
@@ -160,7 +160,7 @@ translate portuguese d19s01ntr_flashback_d5158065:
 translate portuguese d19s01ntr_flashback_27c5aa17:
 
 
-    pb "Sim, mestra."
+    pb "Sim, senhora."
 
 
 translate portuguese d19s01ntr_flashback_12fd0565:
@@ -172,7 +172,7 @@ translate portuguese d19s01ntr_flashback_12fd0565:
 translate portuguese d19s01ntr_flashback_9130db2f:
 
 
-    pb "Talvez um jogo novo, mestra. Um jogo que você possa jogar - com um novo brinquedo."
+    pb "Talvez um jogo novo, senhora. Um jogo que você possa jogar - com um novo brinquedo."
 
 
 translate portuguese d19s01ntr_flashback_c01637c1:
@@ -376,7 +376,7 @@ translate portuguese d19s01ntr_continue_bef1d859:
 translate portuguese d19s01ntr_continue_ce472ccd:
 
 
-    lc "Sou sua Mestra e você é meu escravo."
+    lc "Sou sua Senhora e você é meu escravo."
 
 
 translate portuguese d19s01ntr_continue_a40b5d13:
@@ -406,7 +406,7 @@ translate portuguese d19s01ntr_continue_3e9a6aae:
 translate portuguese d19s01ntr_continue_52e59d8c:
 
 
-    mc "Ainda tem uma coisa que não entendo, Mestra."
+    mc "Ainda tem uma coisa que não entendo, Senhora."
 
 
 translate portuguese d19s01ntr_continue_b9d940a2:
@@ -550,13 +550,13 @@ translate portuguese d19s01ntr_decision_94222b0a:
 translate portuguese d19s01ntr_decision_59577f47:
 
 
-    mc "Digo \"Sem perguntas, Mestra\"."
+    mc "Digo \"Sem perguntas, Senhora\"."
 
 
 translate portuguese d19s01ntr_decision_ea8c9ba3:
 
 
-    mc "Digo \"Sem mais perguntas, Mestra\"."
+    mc "Digo \"Sem mais perguntas, Senhora\"."
 
 
 translate portuguese d19s01ntr_decision_eb30b049:
@@ -580,7 +580,7 @@ translate portuguese d19s01ntr_decision_449f68cf:
 translate portuguese d19s01ntr_decision_446b3627:
 
 
-    mc "Qual é minha outra opção, Mestra?"
+    mc "Qual é minha outra opção, Senhora?"
 
 
 translate portuguese d19s01ntr_decision_c2034f06:
@@ -610,7 +610,7 @@ translate portuguese d19s01ntr_decision_e1a0041c:
 translate portuguese d19s01ntr_decision_52e65e99:
 
 
-    mc "Entendi, Mestra."
+    mc "Entendi, Senhora."
 
 
 translate portuguese d19s01ntr_decision_2f065d13:
@@ -622,13 +622,13 @@ translate portuguese d19s01ntr_decision_2f065d13:
 translate portuguese d19s01ntr_decision_ae5ec326:
 
 
-    mc "Sim, Mestra. Eu decidi."
+    mc "Sim, Senhora. Eu decidi."
 
 
 translate portuguese d19s01ntr_decision_765104a8:
 
 
-    mc "Você tem meu coração, minha alma e minha lealdade, Mestra."
+    mc "Você tem meu coração, minha alma e minha lealdade, Senhora."
 
 
 translate portuguese d19s01ntr_decision_1c645d62:
@@ -658,7 +658,7 @@ translate portuguese d19s01ntr_decision_1fcc28c6:
 translate portuguese d19s01ntr_decision_080d3df8:
 
 
-    mc "... com todo respeito, Mestra."
+    mc "... com todo respeito, Senhora."
 
 
 translate portuguese d19s01ntr_decision_e831191f:
@@ -1073,4 +1073,19 @@ translate portuguese strings:
 
     old "Go Fuck Yourself"
     new "Vai Se Foder"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+
+translate portuguese d19s01ntr_decision_aeef075e:
+
+
+    lc "Palavras fáceis."
+
+
+translate portuguese d19s01ntr_decision_5b1e303f:
+
+
+    lc "Eu vou me certificar de testar a sua devoção quando eu voltar para te trazer... Vamos dizer que é uma surpresa."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

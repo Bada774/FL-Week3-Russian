@@ -115,10 +115,10 @@ translate chinese after_credits_a17db195:
     sy "等等，你认识她？"
 
 
-translate chinese after_credits_6daca271:
+translate chinese after_credits_870c1bff:
 
 
-    dd "对呀，她是Vinovella大学的!"
+    dd "对呀，她是Taboo大学的!"
 
 
 translate chinese after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate chinese after_credits_73eb5eb5:
     sy "是吧！我迫不及待地想看ViNovella接下来为我们准备了什么！"
 
 
-translate chinese after_credits_e4b3c0d3:
+translate chinese after_credits_826b65f0:
 
 
-    dd "但是Vinovell大学呢？"
+    dd "但是Taboo大学呢？"
 
 
 translate chinese after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate chinese after_credits_47a5d0a5:
     dd "嗨，我也很高兴认识你！"
 
 
-translate chinese after_credits_37ad6ed0:
+translate chinese after_credits_f1d2352a:
 
 
-    dd "Vinovella大学怎么样了？下一步是什么？"
+    dd "Taboo大学怎么样了？下一步是什么？"
 
 
-translate chinese after_credits_cbe5ee17:
+translate chinese after_credits_75e46767:
 
 
-    sm "哦？你玩过VU吗？"
+    sm "哦？你玩过TU吗？"
 
 
 translate chinese after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate chinese after_credits_23a10f35:
     dd "*笑* 对不起！我控制不住自己。"
 
 
-translate chinese after_credits_470ffbdd:
+translate chinese after_credits_166c44bf:
 
 
-    sy "你们俩知道什么时候会有VU的完成版吗？我到时候要狂欢。"
+    sy "你们俩知道什么时候会有TU的完成版吗？我到时候要狂欢。"
 
 
 translate chinese after_credits_4041f0a9:
@@ -373,7 +373,7 @@ translate chinese after_credits_321e2b80:
     sy "哦？等等，第1册和性趣探测器的第1周一样吗？"
 
 
-translate chinese after_credits_99a25d72:
+translate chinese after_credits_175f3ea2:
 
 
     sm "差不多。每一册都比性趣探测器的一周内容{i}大得多{/i}。"
@@ -621,10 +621,75 @@ translate chinese strings:
     new "传说中的性趣探测器会回来的"
 
 
+translate chinese after_credits_b06da193:
 
 
-translate chinese after_credits_cb03f950:
+    sy "那我一定要{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}在Steam上推荐这款游戏{/u}{/a}了！"
 
 
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+translate chinese after_credits_dcd001ba:
+
+
+    sy "我好伤心来着！还以为你死了。"
+
+
+translate chinese after_credits_5a67dd3f:
+
+
+    sy "*抽鼻子*"
+
+
+translate chinese after_credits_3b9a74dd:
+
+
+    dd "嘿，没事的。我现在健康得很。"
+
+
+translate chinese after_credits_62dbb988:
+
+
+    sy "*抽鼻子* 我知道。*抽鼻子* 我很高兴你没事。"
+
+
+translate chinese after_credits_de67d958:
+
+
+    dd "噢噢噢~我也是，史黛西。"
+
+
+translate chinese after_credits_697eed2b:
+
+
+    dd "别忘了。我还被安排了另一个结局呢！"
+
+
+translate chinese after_credits_26d7f508:
+
+
+    sy "哦...对哦。"
+
+
+translate chinese after_credits_ae828622:
+
+
+    sy "我差点忘了性爱地牢那个结局！"
+
+
+translate chinese after_credits_a73caa2e:
+
+
+    dd "别忘了我们的另一个结局，史黛西。我可以在我们自己的性爱地牢里做一个性感的乳胶性爱娃娃！"
+
+
+translate chinese after_credits_83a2ed10:
+
+
+    sy "是啊... 这个结局听起来很有意思。"
+
+
+translate chinese after_credits_f4cf666b:
+
+
+    sy "我等不及要和你一起享受这个结局了！"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

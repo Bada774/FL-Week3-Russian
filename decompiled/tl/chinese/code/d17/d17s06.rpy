@@ -105,4 +105,5 @@ translate chinese strings:
 
     old "Go back to studying"
     new "继续学习"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

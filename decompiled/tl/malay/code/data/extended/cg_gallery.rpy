@@ -8,7 +8,7 @@ translate malay strings:
 
 
     old "Day 15: Dahlia & Samia"
-    new "Hari 15: Dahlia & Samia"
+    new "Hari 15: Dahlia Dan Samia"
 
 
     old "Day 15: Daisey"
@@ -92,11 +92,11 @@ translate malay strings:
 
 
     old "Day 17: Dahlia & Samiya"
-    new "Hari 17: Dahlia & Samiya"
+    new "Hari 17: Dahlia Dan Samiya"
 
 
     old "Day 17: Polly & Nora"
-    new "Hari 17: Polly & Nora"
+    new "Hari 17: Polly Dan Nora"
 
 
     old "Day 17: Jessie"
@@ -104,7 +104,7 @@ translate malay strings:
 
 
     old "Day 18: Dahlia & Samiya"
-    new "Hari 18: Dahlia & Samiya"
+    new "Hari 18: Dahlia Dan Samiya"
 
 
     old "Day 18: Cynthia"
@@ -116,7 +116,7 @@ translate malay strings:
 
 
     old "Day 19: Stacy & Lyssa"
-    new "Hari 19: Stacy & Lyssa"
+    new "Hari 19: Stacy Dan Lyssa"
 
 
     old "Day 19: Daisy"
@@ -140,62 +140,63 @@ translate malay strings:
 
 
     old "Day 19: Lyssa"
-    new "Day 19: Lyssa"
+    new "Hari 19: Lyssa"
 
 
     old "Day 20: Stacy & AmRose"
-    new "Day 20: Stacy & AmRose"
+    new "Hari 20: Stacy & AmRose"
 
 
     old "Day 20: Min"
-    new "Day 20: Min"
+    new "Hari 20: Min"
 
 
     old "Ending 10: Min"
     new "Pengakhiran 10: Min"
 
 
+
 translate malay strings:
 
 
     old "Day 21: Stacy"
-    new "Day 21: Stacy"
+    new "Hari 21: Stacy"
 
 
     old "Day 21: Lyssa"
-    new "Day 21: Lyssa"
+    new "Hari 21: Lyssa"
 
 
     old "Day 21: Min"
-    new "Day 21: Min"
+    new "Hari 21: Min"
 
 
     old "Unlock Waterfall Ending"
-    new "Unlock Waterfall Ending"
+    new "Buka Kunci Pengakhiran Air Terjun"
 
 
     old "Ending 02: Lyssa"
-    new "Ending 02: Lyssa"
+    new "Pengakhiran 02: Lyssa"
 
 
     old "Spend time with everyone"
-    new "Spend time with everyone"
+    new "Luangkan masa dengan semua orang"
 
 
     old "Ending 06: Lydia"
-    new "Ending 06: Lydia"
+    new "Pengakhiran 06: Lydia"
 
 
     old "Ending 06: Harem"
-    new "Ending 06: Harem"
+    new "Pengakhiran 06: Harem"
 
 
     old "Ending 06: Marriage"
-    new "Ending 06: Marriage"
+    new "Pengakhiran 06: Perkahwinan"
 
 
     old "Ending 08: AmRose & Stacy"
-    new "Ending 08: AmRose & Stacy"
+    new "Pengakhiran 08: AmRose Dan Stacy"
 
 
 
@@ -203,9 +204,34 @@ translate malay strings:
 
 
     old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    new "Pengakhiran 12: Vanessa Dan Allison"
 
 
     old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Pengakhiran 14: Polly Dan Nora"
+
+
+
+translate malay strings:
+
+
+    old "Ending 11: Daisy"
+    new "Pengakhiran 11: Daisy"
+
+
+    old "Ending 17: Dahlia"
+    new "Pengakhiran 17: Dahlia"
+
+
+
+translate malay strings:
+
+
+    old "Ending 04: Girls"
+    new "Ending 04: Girls"
+
+
+    old "Ending 07: Girls"
+    new "Ending 07: Girls"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

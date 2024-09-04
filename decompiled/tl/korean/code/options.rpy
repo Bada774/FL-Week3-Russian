@@ -9,4 +9,5 @@ translate korean strings:
 
     old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
     new "ViNovella Games 제작\n\n{a=https://discord.gg/efmQRNtFks}Discord{/a}에서 저희와 함께하세요"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

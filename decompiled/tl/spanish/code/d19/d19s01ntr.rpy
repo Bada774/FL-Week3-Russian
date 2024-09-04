@@ -1073,4 +1073,19 @@ translate spanish strings:
 
     old "Go Fuck Yourself"
     new "Vete a la mierda"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+
+
+translate spanish d19s01ntr_decision_aeef075e:
+
+
+    lc "Palabras que no significan mucho."
+
+
+translate spanish d19s01ntr_decision_5b1e303f:
+
+
+    lc "Me aseguraré de probar tu devoción una vez que regrese a buscarte... Lo llamaremos una pequeña sorpresa."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

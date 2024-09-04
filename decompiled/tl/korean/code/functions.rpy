@@ -15,12 +15,12 @@ translate korean strings:
     new "새로운 보너스 콘텐츠를 해금했습니다"
 
 
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "다시 보기 장면을\n기본 설정에 따라 재생합니다"
+    old "The game will replay the scene according to a default playthrough"
+    new "다시 보기 장면을기본 설정에 따라 재생합니다"
 
 
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "다시 보기 장면을\n현재 플레이 내역에 따라 재생합니다"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "다시 보기 장면을현재 플레이 내역에 따라 재생합니다"
 
 
     old "You can only select two out of Min, Lyssa and Maria"
@@ -37,4 +37,5 @@ translate korean strings:
 
     old "You have unlocked Ending #{}"
     new "You have unlocked Ending #{}"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

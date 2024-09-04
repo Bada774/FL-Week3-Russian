@@ -562,7 +562,7 @@ translate russian e02s02_31e6d6b0:
 translate russian e02s02_4eb99c59:
 
     # mct "This is a nightmare, I'll need inertial dampeners at this rate."
-    mct "Какой ужас, такими темпами мне понадобятся инерционные демпферы.\n\n{size=-10}{i}(Демпферы - устройства, служащие для глушения колебаний){/i}{/size}"
+    mct "Какой ужас, такими темпами мне понадобятся инерционные демпферы.\n\n{size=-10}{i}Демпферы - устройства, служащие для глушения вибраций/колебаний.{/i}{/size}"
 
 # game/code/e02/e02s02.rpy:343
 translate russian e02s02_e94ef34d:

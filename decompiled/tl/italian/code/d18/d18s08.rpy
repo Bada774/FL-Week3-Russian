@@ -269,4 +269,5 @@ translate italian d18s08_a2f0bfe0:
 
 
     hr "Andiamo a cercare la nuova professoressa. Non abbiamo tempo da perdere."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

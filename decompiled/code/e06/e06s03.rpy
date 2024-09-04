@@ -414,7 +414,6 @@ label e06s03_service:
     play voice4 polly_angry noloop
     sy "Ahem. Today the sexy and noble Judge will designate the special punishment for the prisoner."
 
-
     $ Lovense.stop()
 
     play sound [sfx_dildo_head1, sfx_dildo_head2] loop
@@ -1127,7 +1126,6 @@ label e06s03_end:
     play voice2 mc_yes_yeah1 noloop
     mc "You're very welcome."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
@@ -1192,4 +1190,5 @@ label e06s03_end:
 
     stop music fadeout 3.5
     jump e06s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

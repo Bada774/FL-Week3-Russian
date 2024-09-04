@@ -100,7 +100,7 @@ translate russian e02s10_0ad8f2a9:
 translate russian e02s10_06324e9c:
 
     # mc "It's like the song says, 'Baby, you're worth it'."
-    mc "Это как в той песне, \"Детка, ты этого стоишь\".\n\n{size=-10}{i}(песня \"baby you're worth it - Kina\"){/i}{/size}"
+    mc "Это как в той песне, \"Детка, ты этого стоишь\".\n\n{size=-10}{i}Песня \"baby you're worth it - Kina\".{/i}{/size}"
 
 # game/code/e02/e02s10.rpy:100
 translate russian e02s10_6af77995:
@@ -160,7 +160,7 @@ translate russian e02s10_bd73d1c4:
 translate russian e02s10_c4b51821:
 
     # mc "Haha. Yup. I'm pretty good when I've had my eight hours."
-    mc "Хаха. Ага. Я умён, если я достаточно выспался.\n\n{size=-10}{i}(Предположительно, это отсылка на мультсериал \"Американский Папаша!\"){/i}{/size}"
+    mc "Хаха. Ага. Я умён, если я достаточно выспался.\n\n{size=-10}{i}Предположительно, это отсылка на мультсериал \"Американский Папаша!\".{/i}{/size}"
 
 # game/code/e02/e02s10.rpy:133
 translate russian e02s10_97842f80:
@@ -658,7 +658,7 @@ translate russian e02s10_double_anal_c7cf2826:
 translate russian e02s10_double_anal_66d01ea3:
 
     # mct "Captain, I think I have a problem with my brain missing."
-    mct "Капитан, мне кажется, у меня проблема с недостаточностью моих мозгов.\n\n{size=-10}{i}(Отсылка к американскому сериалу \"Светлячок\"){/i}{/size}"
+    mct "Капитан, мне кажется, у меня проблема с недостаточностью моих мозгов.\n\n{size=-10}{i}Отсылка к американскому сериалу \"Светлячок\".{/i}{/size}"
 
 # game/code/e02/e02s10.rpy:523
 translate russian e02s10_double_anal_fc0fe1ba:

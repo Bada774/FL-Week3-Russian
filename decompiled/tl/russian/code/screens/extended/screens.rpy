@@ -90,3 +90,15 @@ translate russian strings:
     old "Try our new game Taboo University"
     new "Попробуйте нашу новую игру Taboo University"
 
+# TODO: Translation updated at 2024-02-23 00:11
+
+translate russian strings:
+
+    # game/code/screens/extended/screens.rpy:227
+    old "Wishlist Taboo University on Steam"
+    new "Добавить Taboo University в список желаний Steam"
+
+    # game/code/screens/extended/screens.rpy:246
+    old "Get free DLC containing 6 endings from Steam"
+    new "Получите бесплатное DLC с 6-ую концовками из Steam"
+

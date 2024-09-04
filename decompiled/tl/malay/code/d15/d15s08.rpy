@@ -1159,4 +1159,5 @@ translate malay d15s08_58dfa537:
 
 
     mc "Baiklah, Angels! Mari kita imbas semula. Fetish Locator sepatutnya ada pelayan fizikal di dalam atau berhampiran kampus."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -311,4 +311,5 @@ translate italian d18s07_7764a381:
 
 
     mc "Bene, andiamo, può cavarsela da sola."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

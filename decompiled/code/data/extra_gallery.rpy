@@ -35,5 +35,12 @@ init python:
         "d17s06n03"  : "",
         "d17s06n04"  : "",
         "d15s04n01"  : "",
-    }
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+        "dlc01n01"   : "",
+        "e14s06n01"  : "",
+        "e07s07n01"  : "",
+        "e04s08n01"  : "",
+        "dlc01n02"   : "",
+        "dlc01n03"   : "",
+        }
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

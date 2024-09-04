@@ -538,7 +538,7 @@ translate russian e02s03_lodge_64ffe7e5:
 translate russian e02s03_lodge_3d276eaa:
 
     # mc "Haha. I am not some lowly beast. I'm the king of romance, like Cyrano de Bergerac. That's why you're with me."
-    mc "Хаха. Я не какое-то там низкое животное. Я король романтики, как Сирано де Бержерак. Именно по этому ты со мной.\n\n{size=-10}{i}(Сирано де Бержерак - французкий писатель){/i}{/size}"
+    mc "Хаха. Я не какое-то там низкое животное. Я король романтики, как Сирано де Бержерак. Именно по этому ты со мной.\n\n{size=-10}{i}Сирано де Бержерак - французкий писатель.{/i}{/size}"
 
 # game/code/e02/e02s03.rpy:342
 translate russian e02s03_lodge_ad426ffb:

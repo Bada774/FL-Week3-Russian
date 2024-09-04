@@ -1459,4 +1459,5 @@ translate malay strings:
 
     old "We aren't friends, but I need this."
     new "Kami bukan kawan, tapi saya perlukan ini."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

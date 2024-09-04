@@ -416,7 +416,6 @@ init -501 screen fl_points_screen(points=0, is_enabled=True):
                 textbutton "[points]"
                 at transform:
                     linear 0.5 alpha 1.0
-                    
             null height 30
             hbox:
                 xalign 0.5
@@ -434,7 +433,6 @@ init -501 screen fl_points_screen(points=0, is_enabled=True):
                         add "utility/menu/gold_star.webp"
                     if fl_goldstars >= 5:
                         add "utility/menu/gold_star.webp"
-
 init -1 style fl_points_button_text is text:
     idle_color gui.accent_color
     insensitive_color gui.accent_color
@@ -1292,4 +1290,5 @@ init -501 screen patch_info():
         action Quit(confirm=False)
         xalign 0.99
         yalign 0.99
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

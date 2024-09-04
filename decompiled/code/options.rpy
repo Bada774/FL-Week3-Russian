@@ -23,7 +23,7 @@ define gui.show_name = True
 
 
 
-define config.version = "3.0.29"
+define config.version = "3.3.15"
 
 
 
@@ -53,7 +53,6 @@ define config.mouse["default"] = [("gui/cursor.png", 6, 6)]
 define config.has_sound = True
 define config.has_music = True
 define config.has_voice = True
-
 
 
 
@@ -173,4 +172,5 @@ define config.cache_surfaces = True
 
 
 define config.image_cache_size_mb = 700
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

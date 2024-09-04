@@ -4,7 +4,7 @@ translate malay strings:
 
 
     old "Day 15: Lydia & AmRose LC Path"
-    new "Hari 15: Laluan Lydia & AmRose LC"
+    new "Hari 15: Laluan Lydia Dan AmRose LC"
 
 
     old "Love conquers all"
@@ -12,7 +12,7 @@ translate malay strings:
 
 
     old "Day 15: Lydia & AmRose NTR Path"
-    new "Hari 15: Laluan NTR Lydia & AmRose"
+    new "Hari 15: Laluan NTR Lydia Dan AmRose"
 
 
     old "Needlessly tight restriction"
@@ -28,7 +28,7 @@ translate malay strings:
 
 
     old "Day 15: Dahlia & Samiya"
-    new "Hari 15: Dahlia & Samiya"
+    new "Hari 15: Dahlia Dan Samiya"
 
 
     old "Don't take credit"
@@ -44,7 +44,7 @@ translate malay strings:
 
 
     old "Day 15: Polly & Nora"
-    new "Hari 15: Polly & Nora"
+    new "Hari 15: Polly Dan Nora"
 
 
     old "Let Lyssa take your anal cherry"
@@ -52,7 +52,7 @@ translate malay strings:
 
 
     old "Day 15: Min & Lydia"
-    new "Hari 15: Min & Lydia"
+    new "Hari 15: Min Dan Lydia"
 
 
     old "Tell the truth"
@@ -76,11 +76,11 @@ translate malay strings:
 
 
     old "Day 17: Lydia & AmRose LC Path"
-    new "Hari 17: Laluan Lydia & AmRose LC"
+    new "Hari 17: Laluan Lydia Dan AmRose LC"
 
 
     old "Day 17: Lydia & AmRose NTR Path"
-    new "Hari 17: Laluan NTR Lydia & AmRose"
+    new "Hari 17: Laluan NTR Lydia Dan AmRose"
 
 
     old "Day 17: Hana"
@@ -116,7 +116,7 @@ translate malay strings:
 
 
     old "Day 18: Vanessa & Allison"
-    new "Hari 18: Vanessa & Allison"
+    new "Hari 18: Vanessa Dan Allison"
 
 
     old "Stay with them till the end"
@@ -124,7 +124,7 @@ translate malay strings:
 
 
     old "Day 18: Samiya, Dahlia & Pete"
-    new "Hari 18: Samiya, Dahlia & Pete"
+    new "Hari 18: Samiya, Dahlia Dan Pete"
 
 
     old "Day 18: Claudie Fulton"
@@ -164,11 +164,11 @@ translate malay strings:
 
 
     old "Day 19: Cynthia & AmRose Video"
-    new "Hari 19: Cynthia & AmRose Video"
+    new "Hari 19: Cynthia Dan AmRose Video"
 
 
     old "Day 19: Min & Cynthia"
-    new "Hari 19: Min & Cynthia"
+    new "Hari 19: Min Dan Cynthia"
 
 
     old "Day 19: Maria"
@@ -176,7 +176,7 @@ translate malay strings:
 
 
     old "Day 19: Stacy & AmRose"
-    new "Hari 19: Stacy & AmRose"
+    new "Hari 19: Stacy Dan AmRose"
 
 
     old "Day 20: Stacy"
@@ -188,7 +188,7 @@ translate malay strings:
 
 
     old "Day 20: Maria & Ronald Nordin"
-    new "Day 20: Maria & Ronald Nordin"
+    new "Hari 20: Maria Dan Ronald Nordin"
 
 
     old "Share Maria"
@@ -204,7 +204,7 @@ translate malay strings:
 
 
     old "Day 20: Lyssa & Zarah Waller"
-    new "Hari 20: Lyssa & Zarah Waller"
+    new "Hari 20: Lyssa Dan Zarah Waller"
 
 
     old "Give Zarah a piece of your mind"
@@ -212,7 +212,7 @@ translate malay strings:
 
 
     old "Day 20: Kevin & Chloe"
-    new "Hari 20: Kevin & Chloe"
+    new "Hari 20: Kevin Dan Chloe"
 
 
     old "Day 20: Oliver"
@@ -224,7 +224,7 @@ translate malay strings:
 
 
     old "Day 20: Polly & Nora"
-    new "Hari 20: Polly & Nora"
+    new "Hari 20: Polly Dan Nora"
 
 
     old "Ending 10: Montage"
@@ -232,7 +232,7 @@ translate malay strings:
 
 
     old "Ending 10: Min & Nari"
-    new "Pengakhiran 10: Min & Nari"
+    new "Pengakhiran 10: Min Dan Nari"
 
 
 
@@ -264,7 +264,7 @@ translate malay strings:
 
 
     old "Ending 08: Stacy & Pregnant AmRose"
-    new "Pengakhiran 08: Stacy & AmRose Hamil"
+    new "Pengakhiran 08: Stacy Dan AmRose Hamil"
 
 
     old "Ending 08: Pregnant AmRose"
@@ -276,52 +276,125 @@ translate malay strings:
 
 
     old "Day 21: Hana"
-    new "Day 21: Hana"
+    new "Hari 21: Hana"
 
 
     old "Ending 02: Lyssa, Ashley & Frank"
-    new "Ending 02: Lyssa, Ashley & Frank"
+    new "Pengakhiran 02: Lyssa, Ashley Dan Frank"
 
 
     old "Ending 02: Lyssa, Dorothy & Mikaela"
-    new "Ending 02: Lyssa, Dorothy & Mikaela"
+    new "Pengakhiran 02: Lyssa, Dorothy Dan Mikaela"
 
 
     old "Ending 02: Lyssa, Angela & Alexander"
-    new "Ending 02: Lyssa, Angela & Alexander"
+    new "Pengakhiran 02: Lyssa, Angela Dan Alexander"
 
 
     old "Ending 06: Lydia & Min"
-    new "Ending 06: Lydia & Min"
+    new "Pengakhiran 06: Lydia Dan Min"
 
 
     old "Ending 06: Lydia, Stacy & AmRose"
-    new "Ending 06: Lydia, Stacy & AmRose"
+    new "Pengakhiran 06: Lydia, Stacy Dan AmRose"
 
 
     old "Ending 06: Bachelor Party"
-    new "Ending 06: Bachelor Party"
+    new "Pengakhiran 06: Parti Bujang"
 
 
     old "Ending 06: Lyssa & AmRose"
-    new "Ending 06: Lyssa & AmRose"
+    new "Pengakhiran 06: Lyssa Dan AmRose"
 
 
     old "Ending 06: Wedding Reception"
-    new "Ending 06: Wedding Reception"
+    new "Pengakhiran 06: Majlis Perkahwinan"
+
 
 
 translate malay strings:
 
 
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "Pengakhiran 12: Allison"
 
 
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "Pengakhiran 12: Vanessa"
 
 
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Pengakhiran 14: Polly, Nora Dan Debbie"
+
+
+
+translate malay strings:
+
+
+    old "Ending 11: Daisy & Janet"
+    new "Pengakhiran 11: Daisy Dan Janet"
+
+
+    old "Ending 17: Dahlia & Room Service"
+    new "Pengakhiran 17: Dahlia Dan Servis Bilik"
+
+
+    old "Ending 17: Dahlia & Domina"
+    new "Pengakhiran 17: Dahlia Dan Domina"
+
+
+    old "Ending 17: Pregnant Dahlia"
+    new "Pengakhiran 17: Dahlia Mengandung"
+
+
+translate malay strings:
+
+
+    old "Ending 04: Lydia"
+    new "Ending 04: Lydia"
+
+
+    old "Ending 04: Lydia, Stacy & AmRose"
+    new "Ending 04: Lydia, Stacy & AmRose"
+
+
+    old "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Ending 04: Daisy, Lydia, Stacy & AmRose"
+
+
+    old "Ending 04: Lyssa & Lydia"
+    new "Ending 04: Lyssa & Lydia"
+
+
+    old "Ending 04: Lydia & Maria"
+    new "Ending 04: Lydia & Maria"
+
+
+    old "Ending 04: Harem"
+    new "Ending 04: Harem"
+
+
+    old "Ending 07: AmRose"
+    new "Ending 07: AmRose"
+
+
+    old "Ending 07: Lydia"
+    new "Ending 07: Lydia"
+
+
+    old "Ending 07: Lydia & Domina"
+    new "Ending 07: Lydia & Domina"
+
+
+    old "Ending 07: Lydia Gangbang"
+    new "Ending 07: Lydia Gangbang"
+
+
+    old "Ending 07: Public Toilet"
+    new "Ending 07: Public Toilet"
+
+
+    old "Ending 07: Lydia & AmRose"
+    new "Ending 07: Lydia & AmRose"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -1277,4 +1277,5 @@ translate chinese strings:
 
     old "After watching tv for some time"
     new "看了一段时间的电视后"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

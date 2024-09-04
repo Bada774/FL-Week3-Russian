@@ -466,11 +466,6 @@ label e08s01_arj_back:
     scene e8s01-88 amr-mc-remy-talk-mc-pov with dissolve
     play voice2 mc_yes_aga2 noloop
     mc "I know. I noticed once the problems start, they never stop. They just keep piling on."
-
-
-
-
-
     mc "I should ask Frank or someone in the community about how to set it up. I know he worked on something like this."
     play sound sfx_coffee_machine volume 2.0
     scene e8s01-90 amr-talk-take-coffee with dissolve
@@ -603,7 +598,6 @@ label replay_e08s01 hide:
     pause
     play sound sfx_cloth_rustling1
 
-
     $ Lovense.stop()
 
     $ Lovense.vibrate(1)
@@ -628,7 +622,6 @@ label replay_e08s01 hide:
     scene e08s01-a110-3 with dissolve
     arj "It feels so good."
     pause
-
     $ Lovense.pattern("6;9", 900)
     scene e08s01-a110-1-f with dissolve
     arj "Keep going like that."
@@ -711,10 +704,10 @@ label replay_e08s01 hide:
     pause
     stop voice3 fadeout 1.0
 
-
     $ Lovense.stop()
     $ renpy.end_replay()
 
     stop music fadeout 4.5
     jump e08s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

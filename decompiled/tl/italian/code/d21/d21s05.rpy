@@ -1211,4 +1211,5 @@ translate italian strings:
 
     old "Just facefuck Aaleyah instead"
     new "Scopa solo Aaleyah in faccia"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

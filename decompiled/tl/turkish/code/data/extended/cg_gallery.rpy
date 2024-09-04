@@ -199,14 +199,27 @@ translate turkish strings:
     new "Bitiş 13: Hamile Nora"
 
 
-
-translate turkish strings:
-
-
     old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    new "12. Bitiş: Vanessa & Allison"
 
 
     old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "14. Son: Polly & Nora"
+
+
+    old "Ending 11: Daisy"
+    new "11. Son: Daisy"
+
+
+    old "Ending 17: Dahlia"
+    new "17. Son: Dahlia"
+
+
+    old "Ending 04: Girls"
+    new "4. Son: Kızlar"
+
+
+    old "Ending 07: Girls"
+    new "7. Son: Kızlar"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

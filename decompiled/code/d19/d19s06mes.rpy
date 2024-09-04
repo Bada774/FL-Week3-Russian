@@ -219,11 +219,11 @@ label replay_d19s06mes hide:
         scene black with dissolve
         menu:
             "Do you want to see watersports?"
-            "Yes" if True:
+            "Yes":
                 $ fl_watersports = True
                 $ d15s07_more_watersports = True
                 pass
-            "No" if True:
+            "No":
 
                 $ fl_watersports = False
                 $ d15s07_more_watersports = False
@@ -245,7 +245,6 @@ label replay_d19s06mes hide:
     scene d19s06mes-57 mc_mes_cl_cynthias_punishment with dissolve
     play voice3 min_thinking_oh noloop
     mes "I figure you do whatever you want below the waist, and I'll do whatever I want above the waist."
-
 
     $ Lovense.stop()
 
@@ -808,7 +807,6 @@ label replay_d19s06mes hide:
 
     scene d19s06mes-194 mc_mes_cl_cynthias_punishment with dissolve
 
-
     $ Lovense.stop()
 
     play voice3 min_thinking_hmm1 noloop
@@ -817,4 +815,5 @@ label replay_d19s06mes hide:
     $ unlock_gallery_slot("scene", "d19s06mes")
 
     jump d19s06_lewald
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

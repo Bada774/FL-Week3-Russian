@@ -91,6 +91,15 @@ init python:
         ("e02s10"    ,_("Ending 02: Lyssa"                        ), _(""                                   )),
         ]
 
+    ending_04_gallery_slots = [
+        ("e04s02"    ,_("Ending 04: Lydia"                        ), _(""                                   )),
+        ("e04s03"    ,_("Ending 04: Lydia, Stacy & AmRose"        ), _(""                                   )),
+        ("e04s04"    ,_("Ending 04: Daisy, Lydia, Stacy & AmRose" ), _(""                                   )),
+        ("e04s05"    ,_("Ending 04: Lyssa & Lydia"                ), _(""                                   )),
+        ("e04s06"    ,_("Ending 04: Lydia & Maria"                ), _(""                                   )),
+        ("e04s07"    ,_("Ending 04: Harem"                        ), _(""                                   )),
+        ]
+
     ending_06_gallery_slots = [
         ("e06s02"    ,_("Ending 06: Lydia & Min"                  ), _(""                                   )),
         ("e06s03"    ,_("Ending 06: Lydia, Stacy & AmRose"        ), _(""                                   )),
@@ -98,6 +107,16 @@ init python:
         ("e06s06"    ,_("Ending 06: Lyssa & AmRose"               ), _(""                                   )),
         ("e06s08"    ,_("Ending 06: Wedding Reception"            ), _(""                                   )),
         ("e06s09"    ,_("Ending 06: Lydia"                        ), _(""                                   )),
+        ]
+
+    ending_07_gallery_slots = [
+        ("e07s01"    ,_("Ending 07: AmRose"                       ), _(""                                   )),
+        ("e07s02"    ,_("Ending 07: Lydia"                        ), _(""                                   )),
+        ("e07s03"    ,_("Ending 07: Lydia & Domina"               ), _(""                                   )),
+        ("e07s04"    ,_("Ending 07: Lydia & Domina"               ), _(""                                   )),
+        ("e07s05"    ,_("Ending 07: Lydia Gangbang"               ), _(""                                   )),
+        ("e07s06"    ,_("Ending 07: Public Toilet"                ), _(""                                   )),
+        ("e07s07"    ,_("Ending 07: Lydia & AmRose"               ), _(""                                   )),
         ]
 
     ending_08_gallery_slots = [
@@ -118,6 +137,11 @@ init python:
         ]
 
     ending_11_gallery_slots = [
+        ("e11s02"    ,_("Ending 11: Daisy & Janet"                ), _(""                                   )),
+        ("e11s03"    ,_("Ending 11: Daisy"                        ), _(""                                   )),
+        ("e11s04"    ,_("Ending 11: Daisy"                        ), _(""                                   )),
+        ("e11s05"    ,_("Ending 11: Daisy"                        ), _(""                                   )),
+        ("e11s07"    ,_("Ending 11: Daisy"                        ), _(""                                   )),
         ]
 
     ending_12_gallery_slots = [
@@ -143,6 +167,13 @@ init python:
         ]
 
     ending_17_gallery_slots = [
+        ("e17s01a"   ,_("Ending 17: Dahlia"                       ), _(""                                   )),
+        ("e17s01"    ,_("Ending 17: Dahlia & Room Service"        ), _(""                                   )),
+        ("e17s02"    ,_("Ending 17: Dahlia & Domina"              ), _(""                                   )),
+        ("e17s03"    ,_("Ending 17: Dahlia & Domina"              ), _(""                                   )),
+        ("e17s04"    ,_("Ending 17: Dahlia"                       ), _(""                                   )),
+        ("e17s05"    ,_("Ending 17: Dahlia"                       ), _(""                                   )),
+        ("e17s06"    ,_("Ending 17: Pregnant Dahlia"              ), _(""                                   )),
         ]
 
 
@@ -518,6 +549,42 @@ init python:
             "option":{"e02s10_double_anal":False},
         },
 
+        "e04s02": {
+            "label" :"replay_e04s02",
+            "scope" :{},
+            "option":{"alt_mcname":"Warden", "d17s01_arj_assfuck":False},
+        },
+
+        "e04s03": {
+            "label" :"replay_e04s03",
+            "scope" :{},
+            "option":{"alt_mcname":"Warden"},
+        },
+
+        "e04s04": {
+            "label" :"replay_e04s04",
+            "scope" :{},
+            "option":{"alt_mcname":"Warden"},
+        },
+
+        "e04s05": {
+            "label" :"replay_e04s05",
+            "scope" :{"date_mh":True},
+            "option":{"alt_mcname":"Warden", "is_antagonist_mode":False, "fl_watersports":True},
+        },
+
+        "e04s06": {
+            "label" :"replay_e04s06",
+            "scope" :{},
+            "option":{"alt_mcname":"Warden", "e04s06_mk_available":True, "is_antagonist_mode":False, "date_mh":True, "d15s05_leave":False},
+        },
+
+        "e04s07": {
+            "label" :"replay_e04s07",
+            "scope" :{},
+            "option":{"alt_mcname":"Warden", "date_mh":True, "e04s07_fuck_yeah":False, "e04s06_mk_available":True, "d21s05_fivesome":False, "fl_watersports":True},
+        },
+
         "e06s02": {
             "label" :"replay_e06s02",
             "scope" :{},
@@ -552,6 +619,48 @@ init python:
             "label" :"replay_e06s09",
             "scope" :{},
             "option":{"e06s05_dd_harem":True, "e06s06_mh_harem":True},
+        },
+
+        "e07s01": {
+            "label" :"replay_e07s01",
+            "scope" :{},
+            "option":{"e07_mc_wins":0, "e07_lcname":"Queen", "e07_mcname":"Limpdick", "e07_pbname":"Neanderthal", "e07_trname":"Cocksucker", "e07_ahname":"Cuntlicker", "e07_arjname":"Skank"},
+        },
+
+        "e07s02": {
+            "label" :"replay_e07s02",
+            "scope" :{},
+            "option":{"e07_mc_wins":0, "e07_lcname":"Queen", "e07_mcname":"Limpdick", "e07_pbname":"Neanderthal", "e07_trname":"Cocksucker", "e07_ahname":"Cuntlicker", "e07_arjname":"Skank"},
+        },
+
+        "e07s03": {
+            "label" :"replay_e07s03",
+            "scope" :{},
+            "option":{"e07_mc_wins":0, "e07_lcname":"Queen", "e07_mcname":"Limpdick", "e07_pbname":"Neanderthal", "e07_trname":"Cocksucker", "e07_ahname":"Cuntlicker", "e07_arjname":"Skank"},
+        },
+
+        "e07s04": {
+            "label" :"replay_e07s04",
+            "scope" :{},
+            "option":{"e07_mc_wins":0, "e07_lcname":"Queen", "e07_mcname":"Limpdick", "e07_pbname":"Neanderthal", "e07_trname":"Cocksucker", "e07_ahname":"Cuntlicker", "e07_arjname":"Skank", "e07s03_give_all":True},
+        },
+
+        "e07s05": {
+            "label" :"replay_e07s05",
+            "scope" :{},
+            "option":{"e07_mc_wins":0, "e07_lcname":"Queen", "e07_mcname":"Limpdick", "e07_pbname":"Neanderthal", "e07_trname":"Cocksucker", "e07_ahname":"Cuntlicker", "e07_arjname":"Skank", "e07s05_menu_return":0, "e07s05_door_1":False, "e07s05_door_2":False, "e07s05_door_3":False, "e07s05_current_door":None, "e07s05_early_end":False},
+        },
+
+        "e07s06": {
+            "label" :"replay_e07s06",
+            "scope" :{},
+            "option":{"e07_mc_wins":3, "e07_lcname":"Queen", "e07_mcname":"Limpdick", "e07_pbname":"Neanderthal", "e07_trname":"Cocksucker", "e07_ahname":"Cuntlicker", "e07_arjname":"Skank"},
+        },
+
+        "e07s07": {
+            "label" :"replay_e07s07",
+            "scope" :{},
+            "option":{"e07_mc_wins":5, "e07_challange_count":5, "e07_lcname":"Queen", "e07_mcname":"Limpdick", "e07_pbname":"Neanderthal", "e07_trname":"Cocksucker", "e07_ahname":"Cuntlicker", "e07_arjname":"Skank", "date_arj_romance":True},
         },
 
         "e08s01": {
@@ -618,6 +727,36 @@ init python:
             "label" : "replay_e10s06",
             "scope" : {"date_mes":True},
             "option": {"cage_ntr":True, "e10s06_skip_video":False, "e10s05_threesome":False},
+        },
+
+        "e11s02": {
+            "label" : "replay_e11s02",
+            "scope" : {},
+            "option": {"e11s02_play_dumb":False, "e11s02_clear":False},
+        },
+
+        "e11s03": {
+            "label" : "replay_e11s03",
+            "scope" : {},
+            "option": {"e11s03_suck_fingers":False, "e11s03_anal":False},
+        },
+
+        "e11s04": {
+            "label" : "replay_e11s04",
+            "scope" : {},
+            "option": {"temp_mcname":None},
+        },
+
+        "e11s05": {
+            "label" : "replay_e11s05",
+            "scope" : {},
+            "option": {},
+        },
+
+        "e11s07": {
+            "label" : "replay_e11s07",
+            "scope" : {},
+            "option": {},
         },
 
         "e12s01": {
@@ -704,9 +843,51 @@ init python:
             "option": {},
         },
 
+        "e17s01a": {
+            "label" : "replay_e17s01a",
+            "scope" : {},
+            "option": {},
+        },
+
+        "e17s01": {
+            "label" : "replay_e17s01",
+            "scope" : {},
+            "option": {},
+        },
+
+        "e17s02": {
+            "label" : "replay_e17s02",
+            "scope" : {},
+            "option": {"e17s02_pegging":False},
+        },
+
+        "e17s03": {
+            "label" : "replay_e17s03",
+            "scope" : {},
+            "option": {},
+        },
+
+        "e17s04": {
+            "label" : "replay_e17s04",
+            "scope" : {},
+            "option": {"e17s04_impregnate":False},
+        },
+
+        "e17s05": {
+            "label" : "replay_e17s05",
+            "scope" : {},
+            "option": {},
+        },
+
+        "e17s06": {
+            "label" : "replay_e17s06",
+            "scope" : {},
+            "option": {},
+        },
     }
 
     for i in scene_gallery_slots:
         renpy.image("gallery_tnscene_" + i[0], Image("images/extended/scene/" + i[0] + ".webp"))
     renpy.image("gallery_locked_button", Image("images/extended/gallery/gallery_locked_button.webp"))
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

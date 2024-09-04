@@ -16,73 +16,73 @@ translate turkish e12s05_141503e9:
 translate turkish e12s05_ce02ebf1:
 
 
-    mc "I didn't know they were still letting you use the gym here."
+    mc "Burada hala spor salonunu kullanmana izin verdiklerini bilmiyordum."
 
 
 translate turkish e12s05_3b81d355:
 
 
-    aw "Nobody ever uses it, so the hotel didn't care."
+    aw "Kimse kullanmıyor, bu yüzden otel umursamadı."
 
 
 translate turkish e12s05_603694c9:
 
 
-    mc "I've been looking around for you."
+    mc "Etrafta seni arıyordum."
 
 
 translate turkish e12s05_87cd8fba:
 
 
-    aw "What's up."
+    aw "N'aber."
 
 
 translate turkish e12s05_371a23c5:
 
 
-    mc "You've just been a bit distant since last week."
+    mc "Geçen haftadan beri biraz mesafelisin."
 
 
 translate turkish e12s05_9e5e23ee:
 
 
-    aw "Just buckling down on training."
+    aw "Sadece antrenmana odaklanıyorum."
 
 
 translate turkish e12s05_2689b56d:
 
 
-    mc "That's it?"
+    mc "Bu kadar mı?"
 
 
 translate turkish e12s05_aa25011d:
 
 
-    aw "Yep."
+    aw "Evet."
 
 
 translate turkish e12s05_8ea6caae:
 
 
-    mc "Allison, you know you can talk to me, right?"
+    mc "Allison, benimle konuşabileceğini biliyorsun, değil mi?"
 
 
 translate turkish e12s05_6da3fe67:
 
 
-    aw "There's nothing to talk about."
+    aw "Konuşacak bir şey yok."
 
 
 translate turkish e12s05_37aaed28:
 
 
-    mc "Uh-huh."
+    mc "Hı-hı."
 
 
 translate turkish e12s05_0dacb0fa:
 
 
-    mct "Man, she is really playing tough today. Time to turn it up a notch I guess."
+    mct "Dostum, bugün gerçekten sert oynuyor. Sanırım bir çentik açma zamanı."
 
 
 translate turkish e12s05_8c454763:
@@ -94,151 +94,151 @@ translate turkish e12s05_8c454763:
 translate turkish e12s05_73ecf938:
 
 
-    aw "What [mcname]."
+    aw "Ne [mcname]."
 
 
 translate turkish e12s05_c3235565:
 
 
-    mc "What the hell is going on. You're not really sleeping at home anymore, you're always gone."
+    mc "Neler oluyor. Artık evde uyumuyorsun, hep dışarıdasın."
 
 
 translate turkish e12s05_a191889b:
 
 
-    aw "I told you, just-"
+    aw "Sana söyledim, sadece-"
 
 
 translate turkish e12s05_5cacd0ea:
 
 
-    mc "Bull shit."
+    mc "Saçmalık."
 
 
 translate turkish e12s05_48e7518b:
 
 
-    aw "What?"
+    aw "Ne?"
 
 
 translate turkish e12s05_b0210552:
 
 
-    mc "This isn't just training Allison."
+    mc "Bu sadece Allison'ı eğitmek değil."
 
 
 translate turkish e12s05_c745aae5:
 
 
-    aw "It is."
+    aw "Öyle."
 
 
 translate turkish e12s05_53d29b29:
 
 
-    mc "Please Allison, just talk to me."
+    mc "Lütfen Allison, sadece konuş benimle."
 
 
 translate turkish e12s05_5a224d36:
 
 
-    aw "Maybe I'm still upset with you and Mom."
+    aw "Belki hala sana ve anneme kızgınım."
 
 
 translate turkish e12s05_34bfb60d:
 
 
-    aw "Maybe I'm still upset with you and Vanessa."
+    aw "Belki hala sana ve Vanessa'ya kızgınım."
 
 
 translate turkish e12s05_ba62e8fd:
 
 
-    mc "Okay... You know you can tell us that, right?"
+    mc "Tamam... Bunu bize söyleyebileceğini biliyorsun, değil mi?"
 
 
 translate turkish e12s05_7a8d1daf:
 
 
-    aw "Okay."
+    aw "Tamam."
 
 
 translate turkish e12s05_1b199792:
 
 
-    mc "Okay?"
+    mc "Tamam mı?"
 
 
 translate turkish e12s05_5377d77e:
 
 
-    aw "I'm upset with you and Mom."
+    aw "Sana ve anneme kızgınım."
 
 
 translate turkish e12s05_f3b2ff5f:
 
 
-    aw "I'm upset with you and Vanessa."
+    aw "Sana ve Vanessa'ya kızgınım."
 
 
 translate turkish e12s05_e77f3218:
 
 
-    mc "This is a good start-"
+    mc "Bu iyi bir başlangıç-"
 
 
 translate turkish e12s05_0ad16276:
 
 
-    aw "I want to be pregnant."
+    aw "Hamile kalmak istiyorum."
 
 
 translate turkish e12s05_ee8d0e6c:
 
 
-    mc "Is that what you want?"
+    mc "İstediğin bu mu?"
 
 
 translate turkish e12s05_78f8e3de:
 
 
-    aw "Yes. No. I..."
+    aw "Evet. Hayır. Ben..."
 
 
 translate turkish e12s05_3481c3e2:
 
 
-    aw "Fuck, I don't know."
+    aw "Siktir, bilmiyorum."
 
 
 translate turkish e12s05_ec6d0871:
 
 
-    mc "What the hell is going on Allison."
+    mc "Neler oluyor Allison."
 
 
 translate turkish e12s05_52f5eb4b:
 
 
-    aw "I'm upset... I want... I want to be pregnant with Mom."
+    aw "I'm upset... I want... Anneme hamile kalmak istiyorum."
 
 
 translate turkish e12s05_b3154bcd:
 
 
-    aw "I'm upset... I want... I want to be pregnant with Vanessa."
+    aw "I'm upset... I want... Vanessa'dan hamile kalmak istiyorum."
 
 
 translate turkish e12s05_3b6eb1a5:
 
 
-    aw "But I also want to compete. I 'need' to compete. I've finally found the drive to compete and..."
+    aw "Ama ben de rekabet etmek istiyorum. Rekabet etmeye 'ihtiyacım' var. Sonunda rekabet etme dürtüsünü buldum ve..."
 
 
 translate turkish e12s05_8678883e:
 
 
-    aw "I don't know what to do."
+    aw "Ne yapacağımı bilmiyorum."
 
 
 translate turkish e12s05_fabc6dc5:
@@ -250,595 +250,595 @@ translate turkish e12s05_fabc6dc5:
 translate turkish e12s05_da378bf3:
 
 
-    mc "That's a lot. It's okay to be upset."
+    mc "Bu çok fazla. Üzülmen normal."
 
 
 translate turkish e12s05_d86c8a29:
 
 
-    aw "Why couldn't you two just wait for me?"
+    aw "Siz ikiniz neden beni bekleyemediniz?"
 
 
 translate turkish e12s05_2bd7491a:
 
 
-    mc "We didn't plan on Vanessa getting pregnant."
+    mc "Vanessa'nın hamile kalmasını planlamamıştık."
 
 
 translate turkish e12s05_b66b0976:
 
 
-    aw "You know that doesn't make it any better, right?"
+    aw "Bunun durumu daha iyi yapmadığını biliyorsun, değil mi?"
 
 
 translate turkish e12s05_2485f494:
 
 
-    mc "I..."
+    mc "Ben..."
 
 
 translate turkish e12s05_25b086e4:
 
 
-    aw "That could have been me."
+    aw "Bu ben olabilirdim."
 
 
 translate turkish e12s05_b50514d1:
 
 
-    mc "What are you saying?"
+    mc "Ne diyorsun?"
 
 
 translate turkish e12s05_095c514a:
 
 
-    aw "We've been fucking just as long. And at any moment..."
+    aw "We've been fucking just as long. Ve her an..."
 
 
 translate turkish e12s05_d01793b7:
 
 
-    aw "I could have gotten pregnant. Then I would be... Out of the Iron Kayak..."
+    aw "Hamile kalabilirdim. O zaman ben... Demir Kayık'ın dışında..."
 
 
 translate turkish e12s05_6a6d0fbe:
 
 
-    mc "Well what do you want Allison?"
+    mc "Peki ne istiyorsun Allison?"
 
 
 translate turkish e12s05_878c448f:
 
 
-    aw "I don't know! Don't you get it? I want both!"
+    aw "Bilmiyorum! Anlamıyor musun? İkisini de istiyorum!"
 
 
 translate turkish e12s05_08bbce8c:
 
 
-    aw "It's killing me."
+    aw "Bu beni öldürüyor."
 
 
 translate turkish e12s05_1dfd08ef:
 
 
-    mc "It's okay. I didn't know that this was going to be so hard on you."
+    mc "Sorun değil. Bunun senin için bu kadar zor olacağını bilmiyordum."
 
 
 translate turkish e12s05_6235edad:
 
 
-    mc "If I had any idea of what this was going to do to you, I never would have gotten Vanessa pregnant."
+    mc "Bunun sana ne yapacağı hakkında bir fikrim olsaydı, Vanessa'yı asla hamile bırakmazdım."
 
 
 translate turkish e12s05_2713ae8d:
 
 
-    aw "This doesn't mean that I'm not upset with you anymore."
+    aw "Bu artık sana kızgın olmadığım anlamına gelmiyor."
 
 
 translate turkish e12s05_cfcc2293:
 
 
-    mc "I know."
+    mc "Biliyorum."
 
 
 translate turkish e12s05_de6112d1:
 
 
-    aw "But thank you."
+    aw "Ama teşekkür ederim."
 
 
 translate turkish e12s05_d5c41c4f:
 
 
-    mc "Vanessa and I are here for you, no matter what."
+    mc "Vanessa ve ben senin için buradayız, ne olursa olsun."
 
 
 translate turkish e12s05_118acfad:
 
 
-    aw "I know that."
+    aw "Bunu biliyorum."
 
 
 translate turkish e12s05_092815ee:
 
 
-    mc "You just need to talk to us."
+    mc "Sadece bizimle konuşmanız gerekiyor."
 
 
 translate turkish e12s05_f850877c:
 
 
-    aw "I know that too..."
+    aw "Bunu ben de biliyorum..."
 
 
 translate turkish e12s05_a8c8d9c9:
 
 
-    mc "We both love you."
+    mc "İkimiz de seni seviyoruz."
 
 
 translate turkish e12s05_843c74c1:
 
 
-    aw "And I love you both too."
+    aw "Ben de ikinizi seviyorum."
 
 
 translate turkish e12s05_4c5b4a39:
 
 
-    mc "Getting a little feisty."
+    mc "Biraz alınganlaşıyor."
 
 
 translate turkish e12s05_6f811f60:
 
 
-    aw "I have been getting my blood pumping."
+    aw "Kanımı pompalamaya başladım."
 
 
 translate turkish e12s05_e0a93125:
 
 
-    aw "Do you know how horny I get when I work out?"
+    aw "Egzersiz yaparken ne kadar azdığımı biliyor musun?"
 
 
 translate turkish e12s05_eda6a5ba:
 
 
-    mc "Sounds like we should mix up your cardio workout."
+    mc "Kardiyo egzersizini karıştırmamız gerekiyor gibi görünüyor."
 
 
 translate turkish e12s05_b32451cd:
 
 
-    aw "Got any ideas?"
+    aw "Herhangi bir fikrin var mı?"
 
 
 translate turkish e12s05_5bf0eaef:
 
 
-    mc "A few."
+    mc "Birkaç tane."
 
 
 translate turkish e12s05_sex_4f85a28d:
 
 
-    aw "Mmmm, that feels good."
+    aw "Mmmm, bu iyi hissettiriyor."
 
 
 translate turkish e12s05_sex_16c8ce30:
 
 
-    aw "You hit all the right spots [mcname]."
+    aw "Tüm doğru noktalara vurdun [mcname]."
 
 
 translate turkish e12s05_sex_0eb0366c:
 
 
-    mc "Do you have any wrong spots?"
+    mc "Hiç yanlış noktanız var mı?"
 
 
 translate turkish e12s05_sex_55282314:
 
 
-    aw "Nope. But a few are better than others."
+    aw "Hayır. Ama birkaçı diğerlerinden daha iyi."
 
 
 translate turkish e12s05_sex_200b35e4:
 
 
-    aw "Would you like to see one of the better places?"
+    aw "Daha iyi yerlerden birini görmek ister misiniz?"
 
 
 translate turkish e12s05_sex_fc86e50b:
 
 
-    mc "Show me."
+    mc "Göster bana."
 
 
 translate turkish e12s05_sex_8e7059e5:
 
 
-    aw "Fuck that's definitely one of the better spots."
+    aw "Kahretsin bu kesinlikle en iyi yerlerden biri."
 
 
 translate turkish e12s05_sex_fe29064d:
 
 
-    aw "I'm - Jesus - I'm already cumming!"
+    aw "Ben - Tanrım - zaten boşalıyorum!"
 
 
 translate turkish e12s05_sex_07c576f0:
 
 
-    aw "Keep going, I'm going to cum again."
+    aw "Devam et, yine boşalacağım."
 
 
 translate turkish e12s05_sex_ff3e261b:
 
 
-    aw "Yes, right there, yes!"
+    aw "Evet, tam orası, evet!"
 
 
 translate turkish e12s05_sex_ce5697fb:
 
 
-    aw "There it is, fuck!"
+    aw "İşte orada, siktir!"
 
 
 translate turkish e12s05_sex_87e97baf:
 
 
-    aw "Holy shit [mcname]."
+    aw "Kahretsin [mcname]."
 
 
 translate turkish e12s05_sex_671c891f:
 
 
-    aw "We should do this one more often."
+    aw "Bunu daha sık yapmalıyız."
 
 
 translate turkish e12s05_sex_430e6871:
 
 
-    aw "FUCK [mcname]! You gotta give me some warning-"
+    "S.KTİR [mcname]! Beni biraz uyarmalısın-"
 
 
 translate turkish e12s05_sex_a1877ae8:
 
 
-    aw "After this next one, I'm going to need a break."
+    aw "Bundan sonra, bir molaya ihtiyacım olacak."
 
 
 translate turkish e12s05_sex_5b36eabf:
 
 
-    mc "Then I'll have to make this next one count."
+    mc "O zaman bir sonrakini saydırmam gerekecek."
 
 
 translate turkish e12s05_sex_c6d477c6:
 
 
-    aw "Yes, yes, yes!"
+    aw "Evet, evet, evet!"
 
 
 translate turkish e12s05_sex_02e91aa7:
 
 
-    aw "Fu... Fuh... Put... Me down."
+    aw "Fu... Fuh... Put... Beni yere bırak."
 
 
 translate turkish e12s05_sex_7a02fcb8:
 
 
-    vw "Hope I'm not interrupting you two."
+    vw "Umarım ikinizi de bölmüyorumdur."
 
 
 translate turkish e12s05_sex_4d81266d:
 
 
-    aw "Hey Mom."
+    aw "Hey Anne."
 
 
 translate turkish e12s05_sex_4d9dd7bd:
 
 
-    aw "Hey Vanessa."
+    aw "Selam Vanessa."
 
 
 translate turkish e12s05_sex_9d83a8e2:
 
 
-    mc "What are you doing here?"
+    mc "Burada ne yapıyorsun?"
 
 
 translate turkish e12s05_sex_ae5e81c2:
 
 
-    vw "I wanted to bring Allison a protein shake."
+    vw "Allison'a bir protein shake getirmek istedim."
 
 
 translate turkish e12s05_sex_5fcf8fca:
 
 
-    vw "I made a promise that I'd take care of my star athlete."
+    vw "Yıldız atletimle ilgileneceğime dair bir söz verdim."
 
 
 translate turkish e12s05_sex_b3a8f4bd:
 
 
-    aw "Thanks Mom."
+    aw "Teşekkürler anne."
 
 
 translate turkish e12s05_sex_a7ca40ba:
 
 
-    aw "Thanks Vanessa."
+    aw "Teşekkürler Vanessa."
 
 
 translate turkish e12s05_sex_61646006:
 
 
-    vw "Of course sweetie."
+    vw "Tabii ki tatlım."
 
 
 translate turkish e12s05_sex_9fe25e55:
 
 
-    vw "It looks like you've started to get comfortable with island life."
+    vw "Görünüşe göre ada hayatına alışmaya başlamışsın."
 
 
 translate turkish e12s05_sex_44abf46e:
 
 
-    aw "It's one of the perks definitely."
+    aw "Bu kesinlikle avantajlardan biri."
 
 
 translate turkish e12s05_sex_a1c56fbb:
 
 
-    vw "And it looks like you two have kissed and made up."
+    vw "Ve görünüşe göre siz ikiniz öpüşüp barışmışsınız."
 
 
 translate turkish e12s05_sex_89957ffa:
 
 
-    aw "Were... You watching us?"
+    aw "Were... Bizi mi izliyordun?"
 
 
 translate turkish e12s05_sex_f7a89287:
 
 
-    vw "Maybe a little bit. Besides, I'd recognize the taste of my daughter anywhere."
+    vw "Belki biraz. Ayrıca, kızımın tadını her yerde tanırım."
 
 
 translate turkish e12s05_sex_dca474c7:
 
 
-    vw "Maybe a little bit. Besides, I'd recognize the taste of Allison anywhere."
+    vw "Belki biraz. Ayrıca, Allison'ın tadını her yerde tanırım."
 
 
 translate turkish e12s05_sex_5354a7cc:
 
 
-    mc "Wow Vanessa, you have turned into a little horny devil."
+    mc "Vay canına Vanessa, küçük azgın bir şeytana dönüşmüşsün."
 
 
 translate turkish e12s05_sex_0c2cf0f4:
 
 
-    vw "I know. Must be something in the water."
+    vw "Biliyorum. Suda bir şey olmalı."
 
 
 translate turkish e12s05_sex_ae6db4b6:
 
 
-    aw "Or your cervix."
+    aw "Ya da serviksin."
 
 
 translate turkish e12s05_sex_1d584507:
 
 
-    vw "Sweetie, what's wrong?"
+    vw "Tatlım, sorun ne?"
 
 
 translate turkish e12s05_sex_4f451faf:
 
 
-    aw "I'm... Still upset about our situation."
+    aw "I'm... Durumumuz için hala üzgünüm."
 
 
 translate turkish e12s05_sex_6b040495:
 
 
-    vw "Oh hun, we can change that at any time."
+    vw "Oh hun, bunu istediğimiz zaman değiştirebiliriz."
 
 
 translate turkish e12s05_sex_dbbbeafa:
 
 
-    vw "It looks like we could even change that right now."
+    vw "Görünüşe göre bunu şu anda bile değiştirebiliriz."
 
 
 translate turkish e12s05_sex_c0c76817:
 
 
-    aw "Mom, could you just stop thinking with your pussy for like two minutes!?"
+    aw "Anne, iki dakikalığına amınla düşünmeyi bırakabilir misin?!"
 
 
 translate turkish e12s05_sex_821255a5:
 
 
-    aw "Vanessa, could you just stop thinking with your pussy for like two minutes?"
+    aw "Vanessa, iki dakikalığına amınla düşünmeyi bırakabilir misin?"
 
 
 translate turkish e12s05_sex_c1a19322:
 
 
-    vw "I'm sorry Allison. I didn't mean to upset you."
+    vw "Üzgünüm Allison. Seni üzmek istememiştim."
 
 
 translate turkish e12s05_sex_02859a74:
 
 
-    aw "Whatever."
+    aw "Her neyse."
 
 
 translate turkish e12s05_sex_f7b36654:
 
 
-    mc "Okay you two, I think we need to have a talk. The three of us."
+    mc "Tamam siz ikiniz, sanırım konuşmamız gerek. Üçümüz."
 
 
 translate turkish e12s05_sex_5912129c:
 
 
-    aw "Sure."
+    aw "Elbette."
 
 
 translate turkish e12s05_sex_e3bc581e:
 
 
-    vw "I think this will be good for us."
+    vw "Bence bu bizim için iyi olacak."
 
 
 translate turkish e12s05_sex_7bf4f60f:
 
 
-    mc "I do too."
+    mc "Ben de."
 
 
 translate turkish e12s05_sex_87d58c13:
 
 
-    aw "I guess I'm still just upset with you both."
+    aw "Sanırım hala ikinize de kızgınım."
 
 
 translate turkish e12s05_sex_ce840def:
 
 
-    vw "How can we make it better?"
+    vw "Nasıl daha iyi yapabiliriz?"
 
 
 translate turkish e12s05_sex_bd515063:
 
 
-    aw "I... Don't know."
+    aw "Ben... Bilmiyorum."
 
 
 translate turkish e12s05_sex_0833bb07:
 
 
-    aw "That's the whole problem. I don't know what to do. I want to get pregnant. I want to be pregnant with both of you."
+    aw "Bütün sorun bu. Ne yapacağımı bilmiyorum. Hamile kalmak istiyorum. İkinizden de hamile kalmak istiyorum."
 
 
 translate turkish e12s05_sex_3b7fc76c:
 
 
-    aw "But I know deep down I also need to compete. Win or lose, I finally need to 'try'."
+    aw "Ama içten içe rekabet etmem gerektiğini de biliyorum. Kazan ya da kaybet, sonunda 'denemeye' ihtiyacım var."
 
 
 translate turkish e12s05_sex_49d09722:
 
 
-    aw "I will always regret not giving this my all, but I can't help but feel left out."
+    aw "Her zaman elimden geleni yapmadığım için pişman olacağım, ama kendimi dışlanmış hissetmekten alıkoyamıyorum."
 
 
 translate turkish e12s05_sex_d28cf3f8:
 
 
-    aw "I can't stop imagining what it will feel like when I have [mcname]'s child inside me."
+    aw "İçimde [mcname]'in çocuğu olduğunda nasıl hissedeceğimi hayal etmeden duramıyorum."
 
 
 translate turkish e12s05_sex_25d9eab0:
 
 
-    aw "One half of me wants one thing and the other half wants something else. It's tearing me apart."
+    aw "Bir yarım bir şey istiyor ve diğer yarım başka bir şey istiyor. Bu beni parçalıyor."
 
 
 translate turkish e12s05_sex_e2f4bd57:
 
 
-    aw "It's not fair to blame you two, but it's hard to ignore the feeling sometimes."
+    aw "İkinizi suçlamak adil değil, ama bazen bu duyguyu görmezden gelmek zor."
 
 
 translate turkish e12s05_sex_72c0ceda:
 
 
-    vw "Allison, if I had known what this was going to do to you I would never have put you through this."
+    vw "Allison, bunun sana ne yapacağını bilseydim, sana bunu asla yaşatmazdım."
 
 
 translate turkish e12s05_sex_89f31afd:
 
 
-    mc "I also promise that as soon as you're ready, we can do whatever you want."
+    mc "Ben de söz veriyorum, sen hazır olur olmaz ne istersen yapabiliriz."
 
 
 translate turkish e12s05_sex_d1ad31f6:
 
 
-    aw "That doesn't change how I feel right now though."
+    aw "Bu şu anda nasıl hissettiğimi değiştirmez."
 
 
 translate turkish e12s05_sex_21c16a0f:
 
 
-    vw "Allison... I will do anything to make this better. Your happiness is the most important thing in my life."
+    vw "Allison... Bunu daha iyi hale getirmek için her şeyi yapacağım. Senin mutluluğun benim hayatımdaki en önemli şey."
 
 
 translate turkish e12s05_sex_7648d523:
 
 
-    mc "Mine too."
+    mc "Benim de."
 
 
 translate turkish e12s05_sex_4a4bb475:
 
 
-    aw "Thank you."
+    aw "Teşekkür ederim."
 
 
 translate turkish e12s05_sex_61646006_1:
 
 
-    vw "Of course sweetie."
+    vw "Tabii ki tatlım."
 
 
 translate turkish e12s05_sex_567bb860:
 
 
-    vw "I was out of your life for so long. I have so much to make up for. I'm ready to do anything for you."
+    vw "Uzun zamandır hayatının dışındaydım. Telafi etmem gereken çok şey var. Senin için her şeyi yapmaya hazırım."
 
 
 translate turkish e12s05_sex_f48a9d1e:
 
 
-    aw "Anything?"
+    aw "Bir şey var mı?"
 
 
 translate turkish e12s05_sex_ddd1d95c:
 
 
-    mc "Anything, promise."
+    mc "Her şey, söz."
 
 
 translate turkish e12s05_sex_1a14464c:
 
 
-    mc "I have an idea."
+    mc "Bir fikrim var."
 
 
 translate turkish e12s05_sex_46270015:
 
 
-    mc "What if Vanessa and I joined you on your sex break?"
+    mc "Ya Vanessa ve ben seks molanızda size katılırsak?"
 
 
 translate turkish e12s05_sex_2335746d:
 
 
-    mc "You've mentioned that you miss how all three of us were doing everything together. So what if Vanessa and I did something with you?"
+    mc "Üçümüzün her şeyi birlikte yapmamızı özlediğini söylemiştin. Peki ya Vanessa ve ben seninle bir şeyler yaparsak?"
 
 
 translate turkish e12s05_sex_d670f4f8:
@@ -850,19 +850,19 @@ translate turkish e12s05_sex_d670f4f8:
 translate turkish e12s05_sex_6fe590d4:
 
 
-    mc "It's the least we could do, right Vanessa?"
+    mc "En azından bunu yapabiliriz, değil mi Vanessa?"
 
 
 translate turkish e12s05_sex_7af28563:
 
 
-    vw "I, uhhh..."
+    vw "Ben, uhhh..."
 
 
 translate turkish e12s05_sex_5f6160c4:
 
 
-    aw "Mom?"
+    aw "Anne?"
 
 
 translate turkish e12s05_sex_443fcb94:
@@ -874,385 +874,385 @@ translate turkish e12s05_sex_443fcb94:
 translate turkish e12s05_sex_3b289b02:
 
 
-    vw "Sorry sweetie. It's... A big commitment."
+    vw "Üzgünüm tatlım. Bu... Büyük bir taahhüt."
 
 
 translate turkish e12s05_sex_bf518746:
 
 
-    aw "Kind of like getting pregnant, huh."
+    aw "Hamile kalmak gibi, huh."
 
 
 translate turkish e12s05_sex_aedc861c:
 
 
-    aw "God. I should've known."
+    aw "Tanrım. Bilmeliydim."
 
 
 translate turkish e12s05_sex_99fb0393:
 
 
-    vw "I'm sorry Allison. I... It's a lot. I wasn't expecting to be asked to..."
+    vw "Üzgünüm Allison. I... Bu çok fazla. Benden istenmesini beklemiyordum..."
 
 
 translate turkish e12s05_sex_1d2ecc78:
 
 
-    vw "But I think it's a great idea. And I want to do anything to make you happy."
+    vw "Ama bence bu harika bir fikir. Ve seni mutlu etmek için her şeyi yapmak istiyorum."
 
 
 translate turkish e12s05_sex_5bcde85e:
 
 
-    vw "I want you to believe I've changed, I'm a different woman now. If this is the best way to do it-"
+    vw "Değiştiğime inanmanı istiyorum, artık farklı bir kadınım. Eğer bunu yapmanın en iyi yolu buysa-"
 
 
 translate turkish e12s05_sex_98238d1f:
 
 
-    vw "Then I can take a sex break too."
+    vw "O zaman ben de seks molası verebilirim."
 
 
 translate turkish e12s05_sex_5a4126c7:
 
 
-    aw "Would... Would you really do that for me?"
+    aw "Would... Bunu benim için gerçekten yapar mısın?"
 
 
 translate turkish e12s05_sex_cd92c2aa:
 
 
-    vw "Of course, Allison."
+    vw "Elbette, Allison."
 
 
 translate turkish e12s05_sex_77b35919:
 
 
-    vw "I told you I'd do anything to make you happy. Even if I don't really like it."
+    vw "Seni mutlu etmek için her şeyi yapacağımı söylemiştim. Gerçekten hoşlanmasam bile."
 
 
 translate turkish e12s05_sex_a853cc58:
 
 
-    aw "Thank you, Mom."
+    aw "Teşekkür ederim anne."
 
 
 translate turkish e12s05_sex_aabbf889:
 
 
-    aw "Thank you, Vanessa."
+    aw "Teşekkür ederim, Vanessa."
 
 
 translate turkish e12s05_sex_61646006_2:
 
 
-    vw "Of course sweetie."
+    vw "Tabii ki tatlım."
 
 
 translate turkish e12s05_sex_f55fe250:
 
 
-    aw "Are you going to be able to do it?"
+    aw "Bunu yapabilecek misin?"
 
 
 translate turkish e12s05_sex_c34b975f:
 
 
-    mc "I have some self-control, Allison."
+    mc "Kendimi kontrol edebiliyorum, Allison."
 
 
 translate turkish e12s05_sex_0e4bf67f:
 
 
-    aw "Even with Mom being ultra horny from being knocked up?"
+    aw "Annem hamile kaldığı için aşırı azgın olsa bile mi?"
 
 
 translate turkish e12s05_sex_159cb76b:
 
 
-    aw "Even with Vanessa being ultra horny from being knocked up?"
+    aw "Vanessa hamile kaldığı için aşırı azgın olsa bile mi?"
 
 
 translate turkish e12s05_sex_22a53ed2:
 
 
-    mc "Even with that."
+    mc "Bununla bile."
 
 
 translate turkish e12s05_sex_00e41ac3:
 
 
-    aw "Even when her tits get bigger and filled with milk, her nipples get super sensitive and the slightest touch makes her cum?"
+    aw "Memeleri büyüdüğünde ve sütle dolduğunda bile, meme uçları süper hassaslaşıyor ve en ufak bir dokunuş onu boşaltıyor mu?"
 
 
 translate turkish e12s05_sex_1bf60051:
 
 
-    mc "Of course."
+    mc "Tabii ki."
 
 
 translate turkish e12s05_sex_242921f4:
 
 
-    mct "Fuck this is going to be hard."
+    mct "Sikeyim bu zor olacak."
 
 
 translate turkish e12s05_sex_7bd43aa3:
 
 
-    aw "Even when all Mom can do is think about getting railed by your cock [mcname] morning, noon, and night?"
+    aw "Annemin yapabildiği tek şey sabah, öğle ve gece senin sikin [mcname] tarafından tecavüze uğramayı düşünmek olsa bile mi?"
 
 
 translate turkish e12s05_sex_37694416:
 
 
-    aw "Even when all Vanessa can do is think about getting railed by your cock [mcname] morning, noon, and night?"
+    aw "Vanessa'nın yapabildiği tek şey sabah, öğle ve gece senin sikin [mcname] tarafından kovulmayı düşünmek olsa bile mi?"
 
 
 translate turkish e12s05_sex_dce6d8d0:
 
 
-    aw "When she dreams of getting facefucked? When all she can see is your tongue swirling around her pussy, your fingers in her ass, screaming your name as she cums?"
+    "Yüzünden sikilmeyi hayal ettiğinde mi? Tek görebildiği dilinin amının etrafında döndüğü, parmaklarının götünde olduğu, boşalırken adını haykırdığı zaman?"
 
 
 translate turkish e12s05_sex_6fa10e63:
 
 
-    mc "Am I still allowed to jerk off?"
+    mc "Hala mastürbasyon yapmaya iznim var mı?"
 
 
 translate turkish e12s05_sex_b91ed933:
 
 
-    mc "No matter what happens, or how horny we get, we can make that promise to you, Allison."
+    mc "Ne olursa olsun ya da ne kadar azarsak azalım, sana bu sözü verebiliriz Allison."
 
 
 translate turkish e12s05_sex_7a8d1daf:
 
 
-    aw "Okay."
+    aw "Tamam."
 
 
 translate turkish e12s05_sex_24cb125f:
 
 
-    vw "Can I ask for a small favor though?"
+    vw "Küçük bir iyilik isteyebilir miyim?"
 
 
 translate turkish e12s05_sex_2f3041c4:
 
 
-    aw "Of course, Mom."
+    aw "Tabii ki anne."
 
 
 translate turkish e12s05_sex_85773185:
 
 
-    aw "Of course, Vanessa."
+    aw "Elbette, Vanessa."
 
 
 translate turkish e12s05_sex_ddc2e724:
 
 
-    vw "All this talk of fucking and watching you two has me a little worked up."
+    vw "Tüm bu sikişme muhabbeti ve ikinizi izlemek beni biraz heyecanlandırdı."
 
 
 translate turkish e12s05_sex_3597a263:
 
 
-    vw "Can we have one last hurrah before we take our sex break?"
+    vw "Seks molası vermeden önce son bir kez daha eğlenebilir miyiz?"
 
 
 translate turkish e12s05_sex_f2f9309e:
 
 
-    aw "I think we can do that. What do you think [mcname]?"
+    aw "Sanırım bunu yapabiliriz. Ne düşünüyorsun [mcname]?"
 
 
 translate turkish e12s05_sex_f15c5ea0:
 
 
-    mc "I think I could make something happen."
+    mc "Sanırım bir şeyler yapabilirim."
 
 
 translate turkish e12s05_sex_25c62731:
 
 
-    aw "Good."
+    aw "Güzel."
 
 
 translate turkish e12s05_sex_431d3101:
 
 
-    vw "I couldn't agree more."
+    vw "Daha fazla katılamazdım."
 
 
 translate turkish e12s05_sex_again_62ceeafc:
 
 
-    aw "This is about to be a lot of fun, isn't it?"
+    aw "Bu çok eğlenceli olacak, değil mi?"
 
 
 translate turkish e12s05_sex_again_96685b91:
 
 
-    mc "Can't let the superstar get too far out of practice."
+    mc "Süperstarın antrenmandan çok uzaklaşmasına izin veremeyiz."
 
 
 translate turkish e12s05_sex_again_6e8bc655:
 
 
-    aw "You think it's all about me?"
+    aw "Her şeyin benimle ilgili olduğunu mu sanıyorsun?"
 
 
 translate turkish e12s05_sex_again_fc196c38:
 
 
-    aw "Because I don't think that's true."
+    aw "Çünkü bunun doğru olduğunu düşünmüyorum."
 
 
 translate turkish e12s05_sex_again_73d5a114:
 
 
-    aw "Time to prove it."
+    aw "Kanıtlama zamanı."
 
 
 translate turkish e12s05_sex_again_a7757132:
 
 
-    vw "You didn't forget about me, did you?"
+    vw "Beni unutmadın, değil mi?"
 
 
 translate turkish e12s05_sex_again_566994f9:
 
 
-    mc "I could never."
+    mc "Asla yapamam."
 
 
 translate turkish e12s05_sex_again_4d4a7ac9:
 
 
-    mct "Holy shit, I don't think I'll ever get used to having two redheads sucking my dick."
+    mct "Kahretsin, iki kızılın sikimi yalamasına alışabileceğimi hiç sanmıyorum."
 
 
 translate turkish e12s05_sex_again_d3b149f7:
 
 
-    mc "Holy shit you two, you're not even giving me a fighting chance here."
+    mc "Lanet olsun ikinize, bana burada savaşma şansı bile vermiyorsunuz."
 
 
 translate turkish e12s05_sex_again_e13959d9:
 
 
-    aw "I have to prove a point."
+    aw "Bir şeyi kanıtlamak zorundayım."
 
 
 translate turkish e12s05_sex_again_70a67383:
 
 
-    mc "You did it. Let me return the favor a little bit."
+    mc "Sen yaptın. İzin ver iyiliğine biraz karşılık vereyim."
 
 
 translate turkish e12s05_sex_again_3c3158ff:
 
 
-    aw "Lay down, I need to do some warm up stretches."
+    aw "Uzan, biraz ısınma hareketleri yapmam lazım."
 
 
 translate turkish e12s05_sex_again_4bd6b37f:
 
 
-    aw "Okay, now Mom, sit on his face."
+    aw "Tamam, şimdi anne, yüzüne otur."
 
 
 translate turkish e12s05_sex_again_894a8845:
 
 
-    aw "Okay Vanessa, now sit on his face."
+    aw "Tamam Vanessa, şimdi onun yüzüne otur."
 
 
 translate turkish e12s05_sex_again_e7e689f4:
 
 
-    vw "You don't need to tell me twice."
+    vw "Bana iki kez söylemene gerek yok."
 
 
 translate turkish e12s05_sex_again_3d2f2124:
 
 
-    aw "It's not all for you though. I am still a little mad at you."
+    aw "Yine de hepsi senin için değil. Sana hala biraz kızgınım."
 
 
 translate turkish e12s05_sex_again_1367edd3:
 
 
-    aw "And eating your daughter's ass feels like a good start."
+    aw "Ve kızının kıçını yemek iyi bir başlangıç gibi hissettiriyor."
 
 
 translate turkish e12s05_sex_again_69f081dd:
 
 
-    aw "Eating my ass feels like a good way to make it up to me."
+    aw "Kıçımı yemek kendimi affettirmek için iyi bir yol gibi geliyor."
 
 
 translate turkish e12s05_sex_again_71adf0e4:
 
 
-    aw "Mmm fuck. I've got some ideas for today. But first, stretching."
+    aw "Mmm fuck. Bugün için bazı fikirlerim var. Ama önce, esneme."
 
 
 translate turkish e12s05_sex_again_a2cd8937:
 
 
-    vw "Anything to make you happy, Allison."
+    vw "Seni mutlu etmek için her şeyi yaparım, Allison."
 
 
 translate turkish e12s05_sex_again_45f9934f:
 
 
-    aw "Keep doing that because it'll make me-"
+    aw "Bunu yapmaya devam et çünkü bu beni-"
 
 
 translate turkish e12s05_sex_again_ab368083:
 
 
-    aw "Fucking cum, holy shit."
+    aw "Kahrolası cum, kutsal bok."
 
 
 translate turkish e12s05_sex_again_9fbb22e2:
 
 
-    vw "I'm getting close too."
+    vw "Ben de yaklaşıyorum."
 
 
 translate turkish e12s05_sex_again_f28ea7f4:
 
 
-    aw "Not yet, I think you've cum enough over the last few weeks."
+    aw "Henüz değil, sanırım son birkaç haftadır yeterince boşaldın."
 
 
 translate turkish e12s05_sex_again_aa5f0232:
 
 
-    aw "I think you need to wait your turn before you're allowed to get off."
+    aw "Sanırım inmeden önce sıranı beklemen gerekiyor."
 
 
 translate turkish e12s05_sex_again_bbf03732:
 
 
-    aw "I think it's time to do some pull ups, come over here [mcname]."
+    aw "Sanırım biraz barfiks çekmenin zamanı geldi, buraya gel [mcname]."
 
 
 translate turkish e12s05_sex_again_928021d9:
 
 
-    aw "[mcname]. Make her deep throat you."
+    aw "[mcname]. Seni boğazlamasını sağla."
 
 
 translate turkish e12s05_sex_again_3c1ca933:
 
 
-    aw "I wanna see you shove your cock down her throat."
+    aw "Aletini onun boğazına soktuğunu görmek istiyorum."
 
 
 translate turkish e12s05_sex_again_f83da62b:
@@ -1264,7 +1264,7 @@ translate turkish e12s05_sex_again_f83da62b:
 translate turkish e12s05_sex_again_218c6544:
 
 
-    aw "Don't let her up yet."
+    aw "Henüz kalkmasına izin verme."
 
 
 translate turkish e12s05_sex_again_081ebbea:
@@ -1276,61 +1276,61 @@ translate turkish e12s05_sex_again_081ebbea:
 translate turkish e12s05_sex_again_bc2ccc3a:
 
 
-    aw "Fucking- one more- yes!"
+    aw "Sikiş- bir daha- evet!"
 
 
 translate turkish e12s05_sex_again_ce455383:
 
 
-    aw "Lay down. I want [mcname] to fuck me while you lick me."
+    aw "Uzan. Sen beni yalarken [mcname]'in beni becermesini istiyorum."
 
 
 translate turkish e12s05_sex_again_f6b4c9ac:
 
 
-    aw "You just going to stare all day, or are you going to fuck me?"
+    aw "Bütün gün öylece bakacak mısın yoksa beni sikecek misin?"
 
 
 translate turkish e12s05_sex_again_b023de9c:
 
 
-    mc "I was thinking about staring a bit longer."
+    mc "Biraz daha uzun süre bakmayı düşünüyordum."
 
 
 translate turkish e12s05_sex_again_46a0f02d:
 
 
-    aw "Just shut up and put your dick in me."
+    aw "Sadece çeneni kapa ve sikini içime sok."
 
 
 translate turkish e12s05_sex_again_64075a83:
 
 
-    aw "It's so hot knowing Mom has a front row seat to you fucking me."
+    aw "Annemin beni becerirken ön sırada oturduğunu bilmek çok ateşli."
 
 
 translate turkish e12s05_sex_again_b3017cde:
 
 
-    aw "It's so hot knowing Vanessa has a front row seat to you fucking me."
+    aw "Vanessa'nın beni becerirken ön sırada oturduğunu bilmek çok ateşli."
 
 
 translate turkish e12s05_sex_again_23167d54:
 
 
-    aw "That she has to wait her turn before she gets to feel you in her."
+    aw "Seni içinde hissetmeden önce sırasını beklemek zorunda."
 
 
 translate turkish e12s05_sex_again_42506ed0:
 
 
-    aw "Thinking about it has made me cum three times already."
+    aw "Bunu düşünmek beni şimdiden üç kez boşalttı."
 
 
 translate turkish e12s05_sex_again_dbccede5:
 
 
-    aw "Mmmm, make it 4, damn."
+    aw "Mmmm, 4 yap, lanet olsun."
 
 
 translate turkish e12s05_sex_again_2a878790:
@@ -1342,229 +1342,229 @@ translate turkish e12s05_sex_again_2a878790:
 translate turkish e12s05_sex_again_3814bf14:
 
 
-    aw "Oh no, not yet."
+    aw "Oh hayır, henüz değil."
 
 
 translate turkish e12s05_sex_again_f1598de2:
 
 
-    aw "It's not your turn yet. I want you to feel me cum on your face one more time though."
+    aw "Henüz senin sıran değil. Bir kez daha yüzüne boşalmamı hissetmeni istiyorum."
 
 
 translate turkish e12s05_sex_again_71be2a35:
 
 
-    aw "Fuck, just like that. Fuuuuuuck!"
+    aw "Lanet olsun, aynen böyle.Lanet olsun, aynen böyle. Siktirrrrrr!"
 
 
 translate turkish e12s05_sex_again_c3912e21:
 
 
-    vw "Allison, please-"
+    vw "Allison, lütfen-"
 
 
 translate turkish e12s05_sex_again_a7ada4cf:
 
 
-    aw "You still need to wait your turn."
+    aw "Hala sıranı beklemen gerekiyor."
 
 
 translate turkish e12s05_sex_again_b66ad656:
 
 
-    aw "Get over here."
+    aw "Buraya gel."
 
 
 translate turkish e12s05_sex_again_d2a9e0d1:
 
 
-    aw "I want to do some lifting and need a spotter."
+    aw "Biraz ağırlık kaldırmak istiyorum ve bir gözcüye ihtiyacım var."
 
 
 translate turkish e12s05_sex_again_f67c725a:
 
 
-    mc "Someone is feeling a little bossy today."
+    mc "Birisi bugün biraz otoriter hissediyor."
 
 
 translate turkish e12s05_sex_again_4cb5df42:
 
 
-    aw "Maybe this is how I'm working through my problems."
+    aw "Belki de sorunlarımın üstesinden böyle geliyorumdur."
 
 
 translate turkish e12s05_sex_again_3e3e6985:
 
 
-    aw "I promise you'll have a turn- Fucking Christ!"
+    aw "Söz veriyorum bir dönüş yapacaksın- Lanet olsun!"
 
 
 translate turkish e12s05_sex_again_8cd50349:
 
 
-    aw "I can't lie, you watching me makes this so much better, fuck."
+    aw "Yalan söyleyemem, beni izlemen bunu çok daha iyi yapıyor, siktir."
 
 
 translate turkish e12s05_sex_again_10da858b:
 
 
-    vw "Allison, please..."
+    vw "Allison, lütfen..."
 
 
 translate turkish e12s05_sex_again_759e51c4:
 
 
-    aw "Please what, Mom?"
+    aw "Lütfen ne, anne?"
 
 
 translate turkish e12s05_sex_again_6159aa16:
 
 
-    aw "Please what, Vanessa?"
+    aw "Lütfen ne, Vanessa?"
 
 
 translate turkish e12s05_sex_again_3795675a:
 
 
-    vw "Please can I use [mcname]'s foot to cum?"
+    vw "Lütfen boşalmak için [mcname]'in ayağını kullanabilir miyim?"
 
 
 translate turkish e12s05_sex_again_0186ca38:
 
 
-    aw "Yes you may."
+    aw "Evet yapabilirsin."
 
 
 translate turkish e12s05_sex_again_efe13c85:
 
 
-    aw "Fuck, keep going."
+    aw "Siktir, devam et."
 
 
 translate turkish e12s05_sex_again_1052f652:
 
 
-    aw "Do it."
+    aw "Yap."
 
 
 translate turkish e12s05_sex_again_09a7e51d:
 
 
-    aw "Fuck that's hot."
+    aw "Kahretsin, bu çok ateşli.Kahretsin, bu çok ateşli."
 
 
 translate turkish e12s05_sex_again_0fb03a2b:
 
 
-    aw "How's it feel to fuck yourself with his foot."
+    aw "Kendini onun ayağıyla becermek nasıl bir duygu."
 
 
 translate turkish e12s05_sex_again_43b06e9d:
 
 
-    vw "Soo goooood."
+    vw "çokkk güzelllll"
 
 
 translate turkish e12s05_sex_again_e50d1df5:
 
 
-    aw "Are you going to cum on his foot?"
+    aw "Onun ayağına boşalacak mısın?"
 
 
 translate turkish e12s05_sex_again_4f609d9e:
 
 
-    vw "Yesssss!"
+    vw "Evettttt!"
 
 
 translate turkish e12s05_sex_again_62b6faa0:
 
 
-    mct "Who knew there were so many uses for a foot?"
+    mct "Bir ayağın bu kadar çok kullanım alanı olduğunu kim bilebilirdi?"
 
 
 translate turkish e12s05_sex_again_5fef44f2:
 
 
-    aw "I want to watch you cum."
+    aw "Boşalmanı izlemek istiyorum."
 
 
 translate turkish e12s05_sex_again_0a78894b:
 
 
-    aw "Cum all over his toes."
+    aw "Ayak parmaklarının her yerine boşal."
 
 
 translate turkish e12s05_sex_again_93081063:
 
 
-    aw "Cum on [mcname]'s toes while he fucks your daughter."
+    aw "Kızını sikerken [mcname]'in ayak parmaklarına boşal."
 
 
 translate turkish e12s05_sex_again_40d1ffe5:
 
 
-    aw "Cum on [mcname]'s toes while he fucks me. Do it."
+    aw "O beni sikerken [mcname]'in ayak parmaklarına boşal. Yap şunu."
 
 
 translate turkish e12s05_sex_again_13d0d53b:
 
 
-    vw "Fuuuuck, I'm cumming!"
+    vw "Siktirrrrr, Boşalıyorumm!"
 
 
 translate turkish e12s05_sex_again_2c5405ed:
 
 
-    aw "How you holding up there?"
+    aw "Orada nasılsın?"
 
 
 translate turkish e12s05_sex_again_49de0433:
 
 
-    mc "That was super hot. But I promised you a show."
+    mc "Bu süper ateşliydi. Ama sana bir gösteri sözü vermiştim."
 
 
 translate turkish e12s05_sex_again_035954f8:
 
 
-    vw "You're doing great so far."
+    vw "Şimdiye kadar harika gidiyorsun."
 
 
 translate turkish e12s05_sex_again_c6848d33:
 
 
-    aw "I think it's time to show Mom what she's been missing so far from the show."
+    aw "Sanırım anneme dizide şimdiye kadar neyi kaçırdığını göstermenin zamanı geldi."
 
 
 translate turkish e12s05_sex_again_f270d2d8:
 
 
-    aw "I think it's time to show Vanessa what she's been missing so far from the show."
+    aw "Sanırım Vanessa'ya dizide şimdiye kadar neyi kaçırdığını göstermenin zamanı geldi."
 
 
 translate turkish e12s05_sex_again_4e104126:
 
 
-    mc "We can do that."
+    mc "Bunu yapabiliriz."
 
 
 translate turkish e12s05_sex_again_5ba4d8e5:
 
 
-    aw "Haven't you two been slowly working up to butt stuff?"
+    aw "Siz ikiniz yavaş yavaş popo şeylerine çalışmıyor musunuz?"
 
 
 translate turkish e12s05_sex_again_dfbf7181:
 
 
-    vw "Well..."
+    vw "Şey..."
 
 
 translate turkish e12s05_sex_again_edd4b5bf:
 
 
-    mc "Oh she absolutely has been. She really, 'really' likes it when I play with her ass."
+    mc "Oh kesinlikle öyle. Kıçıyla oynamamdan gerçekten çok hoşlanıyor."
 
 
 translate turkish e12s05_sex_again_c1086d4e:
@@ -1576,13 +1576,13 @@ translate turkish e12s05_sex_again_c1086d4e:
 translate turkish e12s05_sex_again_de44d299:
 
 
-    mc "What! It's true."
+    mc "Ne! Bu doğru."
 
 
 translate turkish e12s05_sex_again_6c77709f:
 
 
-    aw "Have you fucked her in the ass yet?"
+    aw "Onu daha kıçından sikmedin mi?"
 
 
 translate turkish e12s05_sex_again_f1d757e0:
@@ -1594,79 +1594,79 @@ translate turkish e12s05_sex_again_f1d757e0:
 translate turkish e12s05_sex_again_6ff41185:
 
 
-    mc "Nope."
+    mc "Hayır."
 
 
 translate turkish e12s05_sex_again_df867556:
 
 
-    aw "Since I missed you knocking her up, I'd love to be here for the first time you fuck her in the ass."
+    aw "Onu hamile bırakmanı özlediğimden beri, onu ilk kez kıçından becerdiğinde burada olmayı çok isterim."
 
 
 translate turkish e12s05_sex_again_b45a4b1e:
 
 
-    mct "I didn't think this could get better."
+    mct "Bunun daha iyi olabileceğini düşünmemiştim."
 
 
 translate turkish e12s05_sex_again_4b188940:
 
 
-    mc "What do you think, Vanessa?"
+    mc "Ne düşünüyorsun, Vanessa?"
 
 
 translate turkish e12s05_sex_again_17dcf2c2:
 
 
-    vw "I have been thinking about it a lot lately..."
+    vw "Son zamanlarda bunu çok düşünüyorum..."
 
 
 translate turkish e12s05_sex_again_0c0c7c1b:
 
 
-    vw "And I would love for you to be here with me, Allison."
+    vw "Ve burada benimle olmanı çok isterim, Allison."
 
 
 translate turkish e12s05_sex_again_a194c517:
 
 
-    aw "Are you ready [mcname] to fuck Mom's tight asshole? For the first time?"
+    aw "Annenin daracık göt deliğini sikmeye hazır mısın [mcname]? İlk kez mi?"
 
 
 translate turkish e12s05_sex_again_de9703eb:
 
 
-    aw "Are you ready [mcname] to fuck Vanessa's tight asshole? For the first time?"
+    aw "Vanessa'nın dar göt deliğini sikmeye hazır mısın [mcname]? İlk kez mi?"
 
 
 translate turkish e12s05_sex_again_a5b360e3:
 
 
-    mc "Fuck Allison. Yeah, I'm ready."
+    mc "Sikeyim Allison'ı. Evet, hazırım."
 
 
 translate turkish e12s05_sex_again_ca2fafdc:
 
 
-    aw "Are you okay?"
+    aw "İyi misin?"
 
 
 translate turkish e12s05_sex_again_f7a50948:
 
 
-    vw "Yes. I just need a minute. His dick just feels so big in my ass."
+    vw "Evet. Sadece bir dakikaya ihtiyacım var. Aleti kıçımda çok büyük hissediyorum."
 
 
 translate turkish e12s05_sex_again_75f37f17:
 
 
-    mc "Take it slow, Vanessa."
+    mc "Yavaş ol, Vanessa."
 
 
 translate turkish e12s05_sex_again_24cc69bc:
 
 
-    vw "I'm ready."
+    vw "Ben hazırım."
 
 
 translate turkish e12s05_sex_again_34459958:
@@ -1678,139 +1678,139 @@ translate turkish e12s05_sex_again_34459958:
 translate turkish e12s05_sex_again_95c7633a:
 
 
-    mc "Are you okay?"
+    mc "İyi misin?"
 
 
 translate turkish e12s05_sex_again_c5c551e1:
 
 
-    vw "My ass is slowly stretching, and it hurts."
+    vw "Kıçım yavaşça geriliyor ve acıyor."
 
 
 translate turkish e12s05_sex_again_9eddc2f3:
 
 
-    vw "But it also feels incredible."
+    vw "Ama aynı zamanda inanılmaz hissettiriyor."
 
 
 translate turkish e12s05_sex_again_6310e1c4:
 
 
-    mc "You're in control Vanessa, whenever you're ready just start riding me."
+    mc "Kontrol sende Vanessa, ne zaman hazır olursan bana binmeye başla."
 
 
 translate turkish e12s05_sex_again_24cc69bc_1:
 
 
-    vw "I'm ready."
+    vw "Ben hazırım."
 
 
 translate turkish e12s05_sex_again_29787e39:
 
 
-    vw "Fuuuuuuuuuuck!"
+    vw "Siktirrrrrr!"
 
 
 translate turkish e12s05_sex_again_ee7a1cc4:
 
 
-    aw "Mmmm fuck this is hot."
+    aw "Mmmm siktir bu çok ateşli."
 
 
 translate turkish e12s05_sex_again_b656176b:
 
 
-    vw "Holy shit, holy shit."
+    vw "Kahretsin, kahretsin."
 
 
 translate turkish e12s05_sex_again_df343a81:
 
 
-    aw "Tell me what it's like. Tell me what it's like to impale your ass on [mcname]'s dick?"
+    aw "Bana nasıl bir şey olduğunu söyle. Bana kıçını [mcname]'in sikine kazığa oturtmanın nasıl bir şey olduğunu söyle?"
 
 
 translate turkish e12s05_sex_again_4625823b:
 
 
-    vw "It's so fucking big. It's getting so deep. Fuuuuck."
+    vw "It's so fucking big. Çok derinleşiyor. Fuuuuck."
 
 
 translate turkish e12s05_sex_again_87845433:
 
 
-    vw "I never- Fuck- Never would have even thought to try this."
+    vw "Asla- Siktir- Bunu denemek aklıma bile gelmezdi."
 
 
 translate turkish e12s05_sex_again_09f7130d:
 
 
-    vw "And now I've got a dick buried in my ass 'and I love it'!"
+    vw "Ve şimdi kıçıma gömülü bir sikim var 've onu seviyorum'!"
 
 
 translate turkish e12s05_sex_again_86e0804a:
 
 
-    aw "How does it feel fucking my Mom in her ass for the first time?"
+    aw "Annemi ilk kez götünden sikmek nasıl bir duygu?"
 
 
 translate turkish e12s05_sex_again_75a4ba0d:
 
 
-    aw "How does it feel fucking Vanessa in the ass for the first time?"
+    aw "Vanessa'yı ilk kez götten sikmek nasıl bir duygu?"
 
 
 translate turkish e12s05_sex_again_6ce7ac36:
 
 
-    mc "It's so fucking good."
+    mc "O kadar iyi ki."
 
 
 translate turkish e12s05_sex_again_288d606f:
 
 
-    mct "And so fucking tight, holy shit. I won't be able to do this for too long. Especially with Allison look at me with those eyes."
+    mct "Ve çok sıkı, kutsal bok. Bunu uzun süre yapamayacağım. Özellikle Allison bana o gözlerle bakarken."
 
 
 translate turkish e12s05_sex_again_4d6cdc06:
 
 
-    aw "What about you Mom, how do you like getting fucked in the ass?"
+    aw "Peki ya sen anne, götten sikilmekten hoşlanır mısın?"
 
 
 translate turkish e12s05_sex_again_00d3a9a0:
 
 
-    aw "What about you Vanesa, do you like getting fucked in the ass?"
+    aw "Peki ya sen Vanesa, götten sikilmekten hoşlanır mısın?"
 
 
 translate turkish e12s05_sex_again_1a3cb0f2:
 
 
-    vw "It's sooooo fuuu-fuuuucking good! Why- Why did it take me- this long. Holy shit."
+    vw "Bu çoooooook iyi! Neden- Neden bu kadar uzun sürdü. Hassiktir."
 
 
 translate turkish e12s05_sex_again_65a22f0e:
 
 
-    vw "Yesyesyesyesyes! Keep doing that [mcname]. Oh God."
+    vw "Yesyesyesyesyes! Bunu yapmaya devam et [mcname]. Oh Tanrım."
 
 
 translate turkish e12s05_sex_again_7b2246c9:
 
 
-    vw "Allison, please, please tell me I can cum."
+    vw "Allison, lütfen, lütfen boşalabileceğimi söyle."
 
 
 translate turkish e12s05_sex_again_d3db89b8:
 
 
-    aw "That's a good girl getting permission."
+    aw "Bu iyi bir kız izin alıyor."
 
 
 translate turkish e12s05_sex_again_da009a1c:
 
 
-    aw "You've got permission to cum, Vanessa."
+    aw "Boşalmak için iznin var, Vanessa."
 
 
 translate turkish e12s05_sex_again_4e5b7291:
@@ -1828,7 +1828,7 @@ translate turkish e12s05_sex_again_c856aa5f:
 translate turkish e12s05_sex_again_38765c7f:
 
 
-    aw "That good?"
+    aw "Bu kadar iyi mi?"
 
 
 translate turkish e12s05_sex_again_b850f338:
@@ -1840,151 +1840,151 @@ translate turkish e12s05_sex_again_b850f338:
 translate turkish e12s05_sex_again_c46388dc:
 
 
-    vw "I just need a minute."
+    vw "Sadece bir dakikaya ihtiyacım var."
 
 
 translate turkish e12s05_sex_again_7f1a9381:
 
 
-    mc "Take your time, Vanessa."
+    mc "Acele etme, Vanessa."
 
 
 translate turkish e12s05_sex_again_5f561f53:
 
 
-    aw "Then you won't mind if I take a turn."
+    aw "O zaman bir tur atmamın sakıncası yok."
 
 
 translate turkish e12s05_sex_again_6ac27991:
 
 
-    aw "Oh fuck, [mcname]. Watching you pound her ass made me so wet."
+    aw "Oh fuck, [mcname]. Onun kıçına vurmanı izlemek beni çok ıslattı."
 
 
 translate turkish e12s05_sex_again_9d2ebe2b:
 
 
-    aw "*screaming* Fuuuuuck."
+    aw "*çığlık* Fuuuuuck."
 
 
 translate turkish e12s05_sex_again_1edf5f69:
 
 
-    aw "Do you know how hard it is to not have sex with you?"
+    aw "Seninle seks yapmamanın ne kadar zor olduğunu biliyor musun?"
 
 
 translate turkish e12s05_sex_again_919e1567:
 
 
-    aw "Every day I think about you. About fucking you. All the positions, cumming over and over again on your dick."
+    aw "Her gün seni düşünüyorum. Seni becermek hakkında. Tüm pozisyonları, sikine tekrar tekrar boşalmayı."
 
 
 translate turkish e12s05_sex_again_1a63e99f:
 
 
-    aw "Watching you fuck my Mom. Helping you fuck her. Watching her cum when I cum."
+    aw "Watching you fuck my Mom. Onu becermene yardım ederken. Ben boşaldığımda onun boşalmasını izlemek."
 
 
 translate turkish e12s05_sex_again_e3244e7f:
 
 
-    aw "Watching you fuck Vanessa. Helping you fuck her, fucking her, watching her cum when I cum."
+    aw "Seni Vanessa'yı sikerken izliyorum. Onu becermene yardım ediyorum, onu beceriyorum, ben boşaldığımda onun boşalmasını izliyorum."
 
 
 translate turkish e12s05_sex_again_1252ed52:
 
 
-    aw "It's so fucking hard and so fucking hot."
+    aw "Çok sert ve çok ateşli."
 
 
 translate turkish e12s05_sex_again_8c1d1e31:
 
 
-    vw "Oh God."
+    vw "Aman Tanrım."
 
 
 translate turkish e12s05_sex_again_49fb8e85:
 
 
-    aw "You hear that? I think Mom is going to cum from watching us."
+    aw "Duydun mu? Sanırım annem bizi izlerken boşalacak."
 
 
 translate turkish e12s05_sex_again_7ba99f27:
 
 
-    aw "You hear that? I think Vanessa is going to cum from watching us."
+    aw "Bunu duydun mu? Sanırım Vanessa bizi izlerken boşalacak."
 
 
 translate turkish e12s05_sex_again_de79a4dc:
 
 
-    mc "God damn."
+    mc "Allah kahretsin."
 
 
 translate turkish e12s05_sex_again_dfdda9d0:
 
 
-    vw "Mmmmph, oh yeah."
+    vw "Mmmmph, oh evet."
 
 
 translate turkish e12s05_sex_again_6a048ab3:
 
 
-    aw "Is it turning you on knowing that this same dick was just in your ass?"
+    aw "Aynı aletin az önce kıçında olduğunu bilmek seni tahrik ediyor mu?"
 
 
 translate turkish e12s05_sex_again_e45ad256:
 
 
-    vw "Fuck!"
+    vw "Siktir!"
 
 
 translate turkish e12s05_sex_again_b5e118d2:
 
 
-    aw "Agghhhhhhh! Fuuuuck me!"
+    aw "Agghhhhhhh! Sikkkkkk beni!"
 
 
 translate turkish e12s05_sex_again_e4509a4f:
 
 
-    vw "[mcname], I want to eat your ass."
+    vw "[mcname], kıçını yemek istiyorum."
 
 
 translate turkish e12s05_sex_again_82f1487f:
 
 
-    mc "Fuck Vanessa your tongue is amazing."
+    mc "Sikeyim Vanessa dilin harika."
 
 
 translate turkish e12s05_sex_again_e6cf7c70:
 
 
-    mct "Shit I can't do this for too long."
+    mct "Kahretsin, bunu çok uzun süre yapamam."
 
 
 translate turkish e12s05_sex_again_0c9b2470:
 
 
-    aw "Is it too much [mcname]?"
+    aw "Çok mu fazla [mcname]?"
 
 
 translate turkish e12s05_sex_again_0244a64d:
 
 
-    mc "It's great, baby."
+    mc "Bu harika, bebeğim."
 
 
 translate turkish e12s05_sex_again_c0b7071d:
 
 
-    aw "What, are you saying that my tight pussy and Mom's warm tongue isn't good enough?"
+    aw "Ne yani, dar amımın ve annemin sıcak dilinin yeterince iyi olmadığını mı söylüyorsun?"
 
 
 translate turkish e12s05_sex_again_5875ca9c:
 
 
-    aw "What, are you saying that my tight pussy and Vanessa's warm tongue isn't good enough?"
+    aw "Ne yani, benim dar amımın ve Vanessa'nın sıcak dilinin yeterince iyi olmadığını mı söylüyorsun?"
 
 
 translate turkish e12s05_sex_again_ee675b30:
@@ -1996,247 +1996,247 @@ translate turkish e12s05_sex_again_ee675b30:
 translate turkish e12s05_sex_again_f2ffea9b:
 
 
-    aw "I know that can't be true."
+    aw "Bunun doğru olamayacağını biliyorum."
 
 
 translate turkish e12s05_sex_again_bcabc189:
 
 
-    mc "Fuck Allison, I'm getting close."
+    mc "Allison'ı sikeyim, yaklaşıyorum."
 
 
 translate turkish e12s05_sex_again_abe3b1e1:
 
 
-    mc "Fuck Vanessa, we can't. I'm too close."
+    mc "Vanessa'yı sikeyim, yapamayız. Çok yakınım."
 
 
 translate turkish e12s05_sex_again_26acf51d:
 
 
-    aw "You better not cum in me!"
+    aw "İçime boşalmasan iyi edersin!"
 
 
 translate turkish e12s05_sex_again_44396264:
 
 
-    aw "Besides I have a better idea."
+    aw "Ayrıca daha iyi bir fikrim var."
 
 
 translate turkish e12s05_sex_again_6a170c5d:
 
 
-    mc "Oh holy shit."
+    mc "Oh kutsal bok."
 
 
 translate turkish e12s05_sex_again_9c2f2953:
 
 
-    aw "I thought you might like that."
+    aw "Bundan hoşlanabileceğini düşünmüştüm."
 
 
 translate turkish e12s05_sex_again_0ce2405e:
 
 
-    vw "Fuck, I'm close."
+    vw "Siktir, yaklaştım."
 
 
 translate turkish e12s05_sex_again_74fc6761:
 
 
-    mc "Me too."
+    mc "Ben de."
 
 
 translate turkish e12s05_sex_again_5b18d568:
 
 
-    aw "Can we all cum together?"
+    aw "Hep birlikte boşalabilir miyiz?"
 
 
 translate turkish e12s05_sex_again_00d92822:
 
 
-    vw "Fuuu- Yes, please!"
+    vw "Fuuu- Evet, lütfen!"
 
 
 translate turkish e12s05_sex_again_a6a025c2:
 
 
-    mc "Oh God. I'm just about to-"
+    mc "Oh Tanrım. Ben de tam-"
 
 
 translate turkish e12s05_sex_again_4c4d565d:
 
 
-    vw "Me too!"
+    vw "Ben de!"
 
 
 translate turkish e12s05_sex_again_2c6387be:
 
 
-    aw "I'm cumming!"
+    aw "Boşalıyorum!"
 
 
 translate turkish e12s05_end_0eb8512c:
 
 
-    aw "I think I've made a decision."
+    aw "Sanırım bir karar verdim."
 
 
 translate turkish e12s05_end_f49fff8f:
 
 
-    mc "Yeah?"
+    mc "Evet?"
 
 
 translate turkish e12s05_end_53a607ec:
 
 
-    aw "I think I'm going to do the Iron Kayak."
+    aw "Sanırım Demir Kayık'ı yapacağım."
 
 
 translate turkish e12s05_end_2c25542d:
 
 
-    aw "And if you two-"
+    aw "Ve eğer sen-"
 
 
 translate turkish e12s05_end_0f714f7b:
 
 
-    mc "Of course we can take a break Allison."
+    mc "Tabii ki ara verebiliriz Allison."
 
 
 translate turkish e12s05_end_4ff5268e:
 
 
-    mc "I think after this one I'm going to need to take a break anyways."
+    mc "Sanırım bundan sonra biraz ara vermem gerekecek."
 
 
 translate turkish e12s05_end_eb7d4251:
 
 
-    vw "If that's what you truly want sweetie, we can do that."
+    vw "Eğer gerçekten istediğin buysa tatlım, bunu yapabiliriz."
 
 
 translate turkish e12s05_end_c34b87e8:
 
 
-    aw "Thank you, both of you."
+    aw "İkinize de teşekkür ederim."
 
 
 translate turkish e12s05_end_00287a13:
 
 
-    aw "I can't tell you both enough how much I appreciate you."
+    aw "İkinize de ne kadar minnettar olduğumu yeterince anlatamam."
 
 
 translate turkish e12s05_end_6625520d:
 
 
-    aw "I don't think I'd be able to do this without either of you. You've supported me and loved me and helped me."
+    aw "İkiniz de olmasaydınız bunu yapabileceğimi sanmıyorum. Beni desteklediniz, sevdiniz ve bana yardım ettiniz."
 
 
 translate turkish e12s05_end_d4d774ac:
 
 
-    aw "I know it's been rocky with us, but you're the best mom I could have asked for."
+    aw "Aramızın kötü olduğunu biliyorum ama sen isteyebileceğim en iyi annesin."
 
 
 translate turkish e12s05_end_654a1b18:
 
 
-    vw "I couldn't have been gifted with a better daughter either, Allison."
+    vw "Ben de daha iyi bir kıza sahip olamazdım, Allison."
 
 
 translate turkish e12s05_end_e493e6a4:
 
 
-    aw "I love you, Mom."
+    aw "Seni seviyorum anne."
 
 
 translate turkish e12s05_end_849a0975:
 
 
-    aw "We've had our ups and downs, but I'm grateful you're back in my life."
+    aw "İnişlerimiz ve çıkışlarımız oldu ama hayatıma geri döndüğün için minnettarım."
 
 
 translate turkish e12s05_end_7cc21240:
 
 
-    vw "I'm glad to be back in your life too, Allison."
+    vw "Ben de senin hayatına geri döndüğüm için mutluyum, Allison."
 
 
 translate turkish e12s05_end_5cb5e1c1:
 
 
-    aw "I love you, Vanessa."
+    aw "Seni seviyorum, Vanessa."
 
 
 translate turkish e12s05_end_199a9b07:
 
 
-    aw "And I love you [mcname]."
+    aw "Ve seni seviyorum [mcname]."
 
 
 translate turkish e12s05_end_e714ac3b:
 
 
-    vw "I love you too."
+    vw "Ben de seni seviyorum."
 
 
 translate turkish e12s05_end_285cea1a:
 
 
-    mc "And I love you three."
+    mc "Ve ben seni üç seviyorum."
 
 
 translate turkish e12s05_end_a67790fc:
 
 
-    vw "I'd love to stay and cuddle in our post sex bliss, but I do need to get back to work. And fix my makeup."
+    vw "Seks sonrası mutluluğumuzda kalıp sarılmayı çok isterdim ama işe dönmem gerekiyor. Ve makyajımı düzeltmeliyim."
 
 
 translate turkish e12s05_end_377ff47f:
 
 
-    mc "We are also still in the public gym at the hotel."
+    mc "Biz de hala oteldeki halka açık spor salonundayız."
 
 
 translate turkish e12s05_end_6f4feba8:
 
 
-    aw "And I should probably get back to training."
+    aw "Ve muhtemelen antrenmana geri dönmeliyim."
 
 
 translate turkish e12s05_end_45738470:
 
 
-    vw "How about we postpone the cuddle until tonight?"
+    vw "Sarılmayı bu geceye ertelesek nasıl olur?"
 
 
 translate turkish e12s05_end_4030e5ac:
 
 
-    aw "As long as everyone keeps their hands above the covers."
+    aw "Herkes ellerini örtülerin üzerinde tuttuğu sürece."
 
 
 translate turkish e12s05_end_b1639ada:
 
 
-    mc "I promise to be good."
+    mc "İyi olacağıma söz veriyorum."
 
 
 translate turkish e12s05_end_b74d9a43:
 
 
-    aw "I'll believe it when I see it."
+    aw "Gördüğüm zaman inanacağım."
 
 
 translate turkish e12s05_end_9cd5b370:
 
 
-    vw "Me too"
+    vw "Ben de"
 
 
 translate turkish e12s05_end_699878f6:
@@ -2248,9 +2248,10 @@ translate turkish strings:
 
 
     old "Get in there"
-    new "Get in there"
+    new "Gir içeri"
 
 
     old "Not now"
-    new "Not now"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Şimdi olmaz."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

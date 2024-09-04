@@ -115,10 +115,10 @@ translate malay after_credits_a17db195:
     sy "Tunggu, kau kenal dia?"
 
 
-translate malay after_credits_6daca271:
+translate malay after_credits_870c1bff:
 
 
-    dd "Ya, dia dari Universiti Vinovella!"
+    dd "Ya, dia dari Universiti Taboo!"
 
 
 translate malay after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate malay after_credits_73eb5eb5:
     sy "Kan! Aku tak sabar nak tengok apa yang ViNovella sediakan untuk kita seterusnya!"
 
 
-translate malay after_credits_e4b3c0d3:
+translate malay after_credits_826b65f0:
 
 
-    dd "Tapi macam mana pula dengan Universiti Vinovella?"
+    dd "Tapi macam mana pula dengan Universiti Taboo?"
 
 
 translate malay after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate malay after_credits_47a5d0a5:
     dd "Hei, gembira berkenalan juga!"
 
 
-translate malay after_credits_37ad6ed0:
+translate malay after_credits_f1d2352a:
 
 
-    dd "Macam nana dengan Universiti Vinovella? Apa seterusnya?"
+    dd "Macam nana dengan Universiti Taboo? Apa seterusnya?"
 
 
-translate malay after_credits_cbe5ee17:
+translate malay after_credits_75e46767:
 
 
-    sm "Oh? Kau dah main VU ke?"
+    sm "Oh? Kau dah main TU ke?"
 
 
 translate malay after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate malay after_credits_23a10f35:
     dd "*Ketawa* Maaf! Tak dapat tahan pula tadi."
 
 
-translate malay after_credits_470ffbdd:
+translate malay after_credits_166c44bf:
 
 
-    sy "Korang berdua tahu bila VU versi siap akan tersedia?"
+    sy "Korang berdua tahu bila TU versi siap akan tersedia?"
 
 
 translate malay after_credits_4041f0a9:
@@ -373,10 +373,10 @@ translate malay after_credits_321e2b80:
     sy "Oh? Tunggu, Buku-1 seperti Minggu-1 dalam Fetish Locator?"
 
 
-translate malay after_credits_99a25d72:
+translate malay after_credits_175f3ea2:
 
 
-    sm "Lebih kurang. Setiap buku VU akan menjadi {i}jauh{/i} lebih besar daripada Minggu FL."
+    sm "Lebih kurang. Setiap buku TU akan menjadi {i}jauh{/i} lebih besar daripada Minggu FL."
 
 
 translate malay after_credits_03943779:
@@ -623,9 +623,75 @@ translate malay strings:
     new "The legendary Fetish Locator will return"
 
 
+translate malay after_credits_b06da193:
 
-translate malay after_credits_cb03f950:
+
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
 
 
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+translate malay after_credits_dcd001ba:
+
+
+    sy "It is so sad! I thought you died."
+
+
+translate malay after_credits_5a67dd3f:
+
+
+    sy "*sniffs*"
+
+
+translate malay after_credits_3b9a74dd:
+
+
+    dd "Hey, it's okay. I'm healthy as a clam now."
+
+
+translate malay after_credits_62dbb988:
+
+
+    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+
+
+translate malay after_credits_de67d958:
+
+
+    dd "Mmmhmm. Me too, Stacy."
+
+
+translate malay after_credits_697eed2b:
+
+
+    dd "And don't forget. There's is another ending with me!"
+
+
+translate malay after_credits_26d7f508:
+
+
+    sy "Oh...right."
+
+
+translate malay after_credits_ae828622:
+
+
+    sy "I almost forgot about the Sex Dungeon ending!"
+
+
+translate malay after_credits_a73caa2e:
+
+
+    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+
+
+translate malay after_credits_83a2ed10:
+
+
+    sy "Yeah... That ending sounds like fun."
+
+
+translate malay after_credits_f4cf666b:
+
+
+    sy "I can't wait to enjoy it with you."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

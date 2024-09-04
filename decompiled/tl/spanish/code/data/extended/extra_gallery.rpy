@@ -263,7 +263,7 @@ translate spanish strings:
     new "QUIERO MANTENER EL\nLOCALIZADOR DE FETICHES"
 
 
-    old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
+    old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
     new "PARA ASEGURARSE DE QUE\nNADIE SERÁ CHANTAJEADO"
 
 
@@ -305,4 +305,69 @@ translate spanish strings:
 
     old "TRADE OFFER"
     new "OFERTA DE INTERCAMBIO"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+    old "30. What? You wanted more?"
+    new "30. ¿Qué? ¿Querías más?"
+
+
+    old "Finish all 6 Endings from DLC-1"
+    new "Termina los 6 finales del DLC-1"
+
+
+    old "31. Go Debbie Go"
+    new "31. Vamos Debbie Vamos"
+
+
+    old "Have sex with Debbie"
+    new "Ten sexo con Debbie"
+
+
+    old "32. Fully Cooked"
+    new "32. Totalmente Cocinado"
+
+
+    old "Get max points in Lydia's challenges in e07"
+    new "Consigue el máximo de puntos en los desafíos de Lydia en el final 07"
+
+
+    old "33. Full House"
+    new "33. Casa llena"
+
+
+    old "Play with all the characters in e04"
+    new "Juega con todos los personajes del final 04"
+
+
+    old "34. Day and Night"
+    new "34. Día y Noche"
+
+
+    old "Finish e04 and e07"
+    new "Termina el final 04 y el final 07"
+
+
+    old "35. A lucky dozen"
+    new "35. Una docena de afortunados"
+
+
+    old "Finish 12 endings"
+    new "Termina los 12 finales"
+
+
+    old "ORNY"
+    new "ORNY"
+
+
+    old "H"
+    new "H"
+
+
+    old "UNGRY"
+    new "UNGRY"
+
+
+    old "APPY"
+    new "APPY"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

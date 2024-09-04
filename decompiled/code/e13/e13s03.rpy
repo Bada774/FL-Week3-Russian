@@ -18,7 +18,6 @@ label e13s03:
     scene e13s03-01 mc-j-nk-bar-entry1_c3 with dissolve
     pause
     stop sound fadeout 0.7
-
     play voice3 nora_huh noloop
     scene e13s03-01-4 mc-j-nk-bar-entry4_c2_i with dissolve
     pause
@@ -113,4 +112,5 @@ label e13s03_after_clip:
     stop music fadeout 4.0
 
     jump e13s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

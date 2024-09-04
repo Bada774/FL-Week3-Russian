@@ -1459,4 +1459,5 @@ translate portuguese strings:
 
     old "We aren't friends, but I need this."
     new "Não somos amigos, mas eu preciso disso."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

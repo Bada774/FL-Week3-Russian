@@ -258,7 +258,7 @@ translate chinese strings:
     new "我想保留\n性趣探测器"
 
 
-    old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
+    old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
     new "确保没有人会被勒索"
 
 
@@ -279,7 +279,7 @@ translate chinese strings:
 
 
     old "TRADE OFFER"
-    new "TRADE OFFER"
+    new "提供交易"
 
 
     old "I receive:"
@@ -300,4 +300,69 @@ translate chinese strings:
 
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
     new "高分：\n[persistent.minigame_max_score]"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+
+    old "30. What? You wanted more?"
+    new "30. 怎么？你还想要更多?"
+
+
+    old "Finish all 6 Endings from DLC-1"
+    new "完成DLC-1中的全部6个结局"
+
+
+    old "31. Go Debbie Go"
+    new "31. 加油，黛比，加油"
+
+
+    old "Have sex with Debbie"
+    new "和黛比做爱"
+
+
+    old "32. Fully Cooked"
+    new "32. 完全熟透"
+
+
+    old "Get max points in Lydia's challenges in e07"
+    new "在结局07莉迪亚的挑战中获得最高分"
+
+
+    old "33. Full House"
+    new "33. 欢乐满屋"
+
+
+    old "Play with all the characters in e04"
+    new "玩转结局04中的所有角色"
+
+
+    old "34. Day and Night"
+    new "34. 日与夜"
+
+
+    old "Finish e04 and e07"
+    new "完成结局04和结局07"
+
+
+    old "35. A lucky dozen"
+    new "35. 幸运一行人"
+
+
+    old "Finish 12 endings"
+    new "完成12个结局"
+
+
+    old "ORNY"
+    new "饥渴"
+
+
+    old "H"
+    new "Ji"
+
+
+    old "UNGRY"
+    new "饥饿"
+
+
+    old "APPY"
+    new "积极愉快"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

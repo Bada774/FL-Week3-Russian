@@ -640,13 +640,13 @@ translate russian d16s10_843f8867:
 translate russian d16s10_c20fefc5:
 
     # arj "Spin! Spin! {w}Spin the black circle!!"
-    arj "Вращай! Вращай! {w}Вращай чёрный круг!!! \n\n{size=-10}{i}(cтрока из песни \"Spin the Black Circle - Pearl Jam\"){/i}{/size}"
+    arj "Вращай! Вращай! {w}Вращай чёрный круг!!! \n\n{size=-10}{i}Cтрока из песни \"Spin the Black Circle - Pearl Jam\".{/i}{/size}"
 
 # game/code/d16/d16s10.rpy:352
 translate russian d16s10_b4119be2:
 
     # arj "You spin me right-round baby right-round! {w}Like a record!!!"
-    arj "Ты крутишь меня по кругу, детка, по кругу! {w}Как пластинку!!!\n\n{size=-10}{i}(cтрока из песни \"You Spin Me Round - Dead or Alive\"){/i}{/size}"
+    arj "Ты крутишь меня по кругу, детка, по кругу! {w}Как пластинку!!!\n\n{size=-10}{i}Cтрока из песни \"You Spin Me Round - Dead or Alive\".{/i}{/size}"
 
 # game/code/d16/d16s10.rpy:353
 translate russian d16s10_53303534:

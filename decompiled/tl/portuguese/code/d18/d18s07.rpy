@@ -311,4 +311,5 @@ translate portuguese d18s07_7764a381:
 
 
     mc "Beleza. Vamos, ela obviamente consegue cuidar disso."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

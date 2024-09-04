@@ -232,7 +232,7 @@ translate russian d21s04_a4b32f3b:
 translate russian d21s04_9bfc4d0e:
 
     # mh "Good. I know a good asian place. Their spicy tonkatsu will sort you out."
-    mh "Отлично. Я знаю хорошее местечко, с азиатской кухней. Их острый тонкацу тебя отвлечёт.\n\n{size=-10}{i}(Тонкацу - свиная отбивная, зажеренная во фритюре){/i}{/size}"
+    mh "Отлично. Я знаю хорошее местечко, с азиатской кухней. Их острый тонкацу тебя отвлечёт.\n\n{size=-10}{i}Тонкацу - свиная отбивная, зажеренная во фритюре.{/i}{/size}"
 
 # game/code/d21/d21s04.rpy:152
 translate russian d21s04_b77e22dd:

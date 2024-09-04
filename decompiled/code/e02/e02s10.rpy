@@ -145,7 +145,6 @@ label replay_e02s10 hide:
     play voice3 lissa_moan3 noloop
     mh "I hope you got a full rest last night..."
 
-
     $ Lovense.stop()
 
     play sound ["<silence 1.0>", maria_kiss3]
@@ -377,10 +376,10 @@ label e02s10_sex:
     mh "Your cock... smothered in your cum... jammed inside me."
     mh "*playfully moans* There is nothing quite like it, my love."
     menu:
-        "Double Anal with Lyssa"(hint="e02s10m01c01") if True:
+        "Double Anal with Lyssa"(hint="e02s10m01c01"):
             $ e02s10_double_anal = True
             jump e02s10_double_anal
-        "Don't do Double Anal"(hint="e02s10m01c02") if True:
+        "Don't do Double Anal"(hint="e02s10m01c02"):
 
             jump e02s10_sex_end
 
@@ -518,7 +517,6 @@ label e02s10_double_anal:
     play voice3 dahlia_thinking_mmm2 noloop
     mh "[mcname]?"
     play voice2 mc_angry_huh2 noloop
-
     mct "Captain, I think I have a problem with my brain missing."
     mh "You there?"
     stop sound fadeout 1.0
@@ -532,7 +530,6 @@ label e02s10_double_anal:
     mc "Everything is good when I'm with you."
 
 label e02s10_sex_end:
-
 
     $ Lovense.stop()
 
@@ -637,4 +634,5 @@ label e02s10_end:
     $ fl_achievement_unlock("e02_finish")
 
     jump end
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

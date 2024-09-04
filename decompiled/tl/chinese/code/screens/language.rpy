@@ -12,5 +12,6 @@ translate chinese strings:
 
 
     old "Choose Language"
-    new "Choose Language"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "选择语言"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -302,3 +302,75 @@ translate russian strings:
     old "The whole\nharem pregnant"
     new "Весь\nгарем оплодотворён"
 
+# TODO: Translation updated at 2024-02-23 00:11
+
+translate russian strings:
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "30. What? You wanted more?"
+    new "30. Что? Хочешь ещё?"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish all 6 Endings from DLC-1"
+    new "Завершите все 6 концовок DLC-1"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "31. Go Debbie Go"
+    new "31. Давай Дебби, Давай"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Have sex with Debbie"
+    new "Займитесь сексом с Дебби"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "32. Fully Cooked"
+    new "32. Полностью приготовленный"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Get max points in Lydia's challenges in e07"
+    new "Получите максимальное количество очков в испытаниях Лидии в Концовке 07."
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "33. Full House"
+    new "33. Full House"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Play with all the characters in e04"
+    new "Сыграйте со всеми персонажами в Концовке 04."
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "34. Day and Night"
+    new "34. День и Ночь"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish e04 and e07"
+    new "Завершите Концовки 04 и 07"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "35. A lucky dozen"
+    new "35. Счастливая дюжина"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish 12 endings"
+    new "Завершите 12 концовок"
+
+    # game/code/data/extended/extra_gallery.rpy:390
+    old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
+    new "ЧТОБЫ УБЕДИТЬСЯ, ЧТО НИКОГО\nНЕ БУДУТ ШАНТАЖИРОВАТЬ"
+
+    # game/code/data/extended/extra_gallery.rpy:713
+    old "ORNY"
+    new "ORNY"
+
+    # game/code/data/extended/extra_gallery.rpy:714
+    old "H"
+    new "H"
+
+    # game/code/data/extended/extra_gallery.rpy:715
+    old "UNGRY"
+    new "UNGRY"
+
+    # game/code/data/extended/extra_gallery.rpy:716
+    old "APPY"
+    new "APPY"
+

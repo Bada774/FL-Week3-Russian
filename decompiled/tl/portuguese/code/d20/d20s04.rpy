@@ -1459,4 +1459,5 @@ translate portuguese strings:
 
     old "She was just visiting."
     new "Ela só estava visitando."
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -364,7 +364,6 @@ label d17s06dd:
     play voice2 d3s7_mcemm noloop volume 1.6
     mc "Fuck, umm... {w}Alright!"
 
-
     $ Lovense.stop()
 
     play sound sfx_jeans_on1
@@ -571,7 +570,7 @@ label d17s06dd:
     mc "Agreed. {w}Fuck that game."
     dd "Shut up and fuck me more!"
     menu:
-        "Wait - Is it safe?"(hint="d17s06ddm01c01") if True:
+        "Wait - Is it safe?"(hint="d17s06ddm01c01"):
 
             $ d17s06_dd_preg = False
 
@@ -586,7 +585,7 @@ label d17s06dd:
             mc "Are you on birth control?"
             dd "IUD"
             mc "Oh, good!"
-        "Don't Care"(hint="d17s06ddm01c02") if True:
+        "Don't Care"(hint="d17s06ddm01c02"):
 
 
             $ d17s06_dd_preg = True
@@ -676,7 +675,6 @@ label d17s06dd:
     dd "You said it."
     scene d17s06a-150-dd-mc-laying-on-the-floor with fade
 
-
     $ Lovense.stop()
 
     pause
@@ -726,4 +724,5 @@ label d17s06dd:
     stop music2 fadeout 3.0
     stop sound2 fadeout 3.0
     jump d17s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

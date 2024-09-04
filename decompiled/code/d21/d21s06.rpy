@@ -407,17 +407,6 @@ label d21s06:
         mc "We'll talk about it some other time. After the trial. I swear, Stacy."
 
 
-
-
-
-
-
-
-
-
-
-
-
         jump d21s06_no_fl
     elif True:
 
@@ -568,10 +557,10 @@ label ending_09_return hide:
     call update_ending_variables from _call_update_ending_variables_11
     $ unlock_ending("09")
     menu:
-        "Yes, I want to try to reboot Fetish Locator"(hint="d21s06m01c01") if True:
+        "Yes, I want to try to reboot Fetish Locator"(hint="d21s06m01c01"):
             $ d21s06_reboot_fl = True
             jump d21s06_reboot_fl
-        "No, forget it"(hint="d21s06m01c02") if True:
+        "No, forget it"(hint="d21s06m01c02"):
 
             mc "No...?"
             jump d21s06_no_fl
@@ -807,7 +796,6 @@ label d21s06_reboot_fl:
     play voice2 mc_arrogant_hm3 noloop
     mc "Let's ask AmRose."
 
-
     jump ending_09
 
 label d21s06_no_fl:
@@ -1027,7 +1015,7 @@ label ending_15_return hide:
     call update_ending_variables from _call_update_ending_variables_12
     $ unlock_ending("15")
     menu:
-        "Yes, this is what I want to do."(hint="d21s06m02c01") if True:
+        "Yes, this is what I want to do."(hint="d21s06m02c01"):
             $ d21s06_chose_waterfall = True
 
             $ renpy.music.set_volume(0.0, 1.0, "sound2" )
@@ -1040,7 +1028,7 @@ label ending_15_return hide:
             mes "Yes."
 
             jump d21s06_wellness_spa
-        "No, I have to give it more thought."(hint="d21s06m02c02") if True:
+        "No, I have to give it more thought."(hint="d21s06m02c02"):
 
             $ d21s06_chose_waterfall = False
 
@@ -1227,12 +1215,6 @@ label d21s06_wellness_spa:
     scene d21s06-82 min-waterfall8_c1 with dissolve
     play voice3 min_arrogant_huh2 noloop
     mes "I hope you have an idea. I'm going to drop out."
-
-
-
-
-
-
     scene d21s06-81 min-waterfall7_c1 with dissolve
     play voice3 min_arrogant_heh2 noloop
     mes "Bye."
@@ -1246,11 +1228,11 @@ label d21s06_wellness_spa:
     play voice2 mc_yes_yeah1 noloop
     mc "I'm willing to try!"
 
-
     jump ending_15
 
 label d21s06_end:
 
     stop music fadeout 3.5
     jump d21s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

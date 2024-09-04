@@ -75,12 +75,27 @@ init python:
         "e02s08"     : "e02s08-162 ap-atp-share-laugh_c1"                 ,
         "e02s10"     : "e02s10-36 mc-wants-mh-go-easy-no-rush_c1"         ,
 
+        "e04s02"     : "e04s02-66 mc-lc-end4_c1"                          ,
+        "e04s03"     : "e04s03-166 mc-kisses-sy_c1"                       ,
+        "e04s04"     : "e04s04-301 a_daisyn_lockup_mc_smile"              ,
+        "e04s05"     : "e04s05-94 mc-lc-sy-arj-mh-dd-walk3_c1"            ,
+        "e04s06"     : "e04s06-176-lc-close-up"                           ,
+        "e04s07"     : "e04s07-233 lc-yes-mc-good-girl_c1"                ,
+
         "e06s02"     : "e06s02-299 min_on_back_msnry_mc_talk"             ,
         "e06s03"     : "e06s03-185 mc-cums-inside-arj_c1"                 ,
         "e06s05"     : "e06s05-241 mc-slaps-dd-again-liquid-flows_c1"     ,
         "e06s06"     : "e06s06-189 cuddling_on_couch_mc_kiss"             ,
         "e06s08"     : "e06s08-52 lc-floor-licking-last-cum_c1"           ,
         "e06s09"     : "e06s09-27 lc-knew-cuz-mc-told-her_c1"             ,
+
+        "e07s01"     : "e07s01-58 mc-lc-arj-end2_c2"                      ,
+        "e07s02"     : "e07s02-86 lc-mc-pb-end1_c3"                       ,
+        "e07s03"     : "e07s03-281-arj-look-pb-zh"                        ,
+        "e07s04"     : "e07s04-38-mc-lc-talking"                          ,
+        "e07s05"     : "e07s05-185 lc-pulls-out_c1"                       ,
+        "e07s06"     : "e07s06-01 final_challenge_walkingn_lc_talk_turn"  ,
+        "e07s07"     : "e07s07-176 mc-leaves-dungeon-end-scene_c1"        ,
 
         "e08s01"     : "e8s01-115-02 amr-mc-sex-3-cum-drip"               ,
         "e08s02"     : "e08s02-115 mc-wants-arj-put-hands-behind-back_c1" ,
@@ -94,6 +109,13 @@ init python:
         "e10s03"     : "e10s03-71 mc-breathes-out_c1"                     ,
         "e10s05"     : "e10s05-a908-1 mc-ns-mes-scissoring-01"            ,
         "e10s06"     : "e10s06-78 cum-dripping-from-mes-pussy_c1"         ,
+
+        "e11s02"     : "e11s02-110 dd-checking-time-answering_c1"         ,
+        "e11s03"     : "e11s03-196 a_dayn_venice_part3_mc_talk"           ,
+        "e11s04"     : "e11s04-90 mc-dd-end1_c2"                          ,
+        "e11s05"     : "e11s05-75 mc-dd-laugh-end-scene_c1"               ,
+        "e11s06"     : "e11s06-71-mc-talk-ly"                             ,
+        "e11s07"     : "e11s07-176-glamour-shot"                          ,
 
         "e12s01"     : "e12s01-148-pose-change"                           ,
         "e12s02"     : "e12s02-36 mc-vw-blowjob_c2"                       ,
@@ -110,5 +132,14 @@ init python:
         "e14s04"     : "e14s04-110 mc-nk-pw-end1_c3"                      ,
         "e14s06"     : "e14s06-360 i_fought_the_law_mc_looks_talks"       ,
         "e14s07"     : "e14s07-113 mc-joing-nk-asking-what-he-doing_c1"   ,
+
+        "e17s01a"    : "e17s01_01_mc_talk"                                ,
+        "e17s01"     : "e17s01_153_hotel_bedroom_cum_dw_talk"             ,
+        "e17s02"     : "e17s02-191 dw-heads-out-mc-follows-her_c1"        ,
+        "e17s03"     : "e17s03-87 mc-tells-gb-has-go-mistress-calling_c1" ,
+        "e17s04"     : "e17s04_224 la_catastrofe_hospital_mc_curious"     ,
+        "e17s05"     : "e17s05-103 mc-dw-both-elated-thank-warden_c1"     ,
+        "e17s06"     : "e17s06-124 mc-dw-fall-asleep-end-scene_c1"        ,
     }
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

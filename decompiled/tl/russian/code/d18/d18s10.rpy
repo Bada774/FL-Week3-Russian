@@ -16,7 +16,7 @@ translate russian d18s10_22043291:
 translate russian d18s10_74a083be:
 
     # mc "Or was it the flagon with the dragon?"
-    mc "Или в кружке с драконом?\n\n{size=-10}(Отсылка на старую комедию \"Придворный шут\"){/size}"
+    mc "Или в кружке с драконом?\n\n{size=-10}{i}Отсылка к старой комедии \"Придворный шут\".{/i}{/size}"
 
 # game/code/d18/d18s10.rpy:104
 translate russian d18s10_5f8acdad:
@@ -94,7 +94,7 @@ translate russian d18s10_spaceballs_8fd5cdb9:
 translate russian d18s10_boobs_d5ff8839:
 
     # mct "Hehehehehehe... BOOB."
-    mct "Хехехехехе... Сиськи. \n\n{size=-10}(ориг. BOOB - 8008){/size}"
+    mct "Хехехехехе... Сиськи. \n\n{size=-10}{i}Ориг. BOOB - 8008.{/i}{/size}"
 
 # game/code/d18/d18s10.rpy:239
 translate russian d18s10_boobs_84b76a9d:
@@ -124,7 +124,7 @@ translate russian d18s10_open_door_2f61051d:
 translate russian d18s10_open_door_084634ca:
 
     # mct "Not a spinning egg chair in sight..."
-    mct "Ни одного крутящегося кресла-яйца...\n\n{size=-10}{i}(У злодеев из фильмов часто есть кресло, в форме яйца){/i}{/size}"
+    mct "Ни одного крутящегося кресла-яйца...\n\n{size=-10}{i}У злодеев из фильмов часто есть кресло, в форме яйца.{/i}{/size}"
 
 # game/code/d18/d18s10.rpy:296
 translate russian d18s10_open_door_8717045e:

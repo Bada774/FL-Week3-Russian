@@ -68,8 +68,6 @@ label d16s07_ext:
     play sound2 ["<silence 0.3>", sfx_camera_fly1] noloop
     scene d16s07-a6 with dissolve
     queue sound ["<silence 0.1>", sfx_horror_violin2] volume 1.5
-
-
     play voice2 d4s8_scared noloop volume 1.5
     mc "Jesus fuck! Jessie!?"
     scene d16s07-07 mc_jf_kv_zebra_sex_with_jessie with vpunch
@@ -253,11 +251,11 @@ label d16s07_ext:
         jump d16s08
 
     menu:
-        "...I'm open to it"(hint="d16s07m01c01") if True:
+        "...I'm open to it"(hint="d16s07m01c01"):
             $ d16s07_jf_sex = True
             $ d16s07_points = 12
             pass
-        "{i}{b}No{/b}{/i}"(hint="d16s07m01c02") if True:
+        "{i}{b}No{/b}{/i}"(hint="d16s07m01c02"):
 
 
             scene d16s07-44 mc_jf_kv_zebra_sex_with_jessie with dissolve
@@ -439,7 +437,6 @@ label d16s07_ext:
     scene d16s07-95 mc_jf_kv_zebra_sex_with_jessie with dissolve
     pause
     play sound sfx_photocamera_flash1
-
 
     $ Lovense.stop()
 
@@ -660,7 +657,7 @@ label d16s07_ext:
     pause
     scene d16s07-114 mc_jf_kv_zebra_sex_with_jessie with dissolve
     menu:
-        "Cum inside"(hint="d16s07m02c01") if True:
+        "Cum inside"(hint="d16s07m02c01"):
 
             $ d16s07_jf_creampie = True
 
@@ -675,7 +672,7 @@ label d16s07_ext:
             play voice2 mc_undermask_orgasm noloop
             play sound sfx_photocamera_flash1
             scene d16s07-117 mc_jf_kv_zebra_sex_with_jessie with Fade(.25, 0, .75, color="#fff")
-        "Cum outside"(hint="d16s07m02c02") if True:
+        "Cum outside"(hint="d16s07m02c02"):
 
 
             play voice3 jessie_cum noloop
@@ -722,7 +719,6 @@ label d16s07_ext:
         pause
     $ renpy.music.set_volume(0.25, 4.0, "music")
 
-
     $ Lovense.stop()
 
     scene d16s07-125 mc_jf_kv_zebra_sex_with_jessie with fade
@@ -759,4 +755,5 @@ label d16s07_ext:
     $ renpy.end_replay()
 
     jump d16s08
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

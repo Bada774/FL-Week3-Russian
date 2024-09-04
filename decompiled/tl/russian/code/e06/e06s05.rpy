@@ -70,7 +70,7 @@ translate russian e06s05_d61c9b7b:
 translate russian e06s05_fa0a9567:
 
     # arj "You are going to love this - if half of what I've heard about you is true."
-    arj "Тебе это понравится - если хотя быыы половина того, что я о тебе слышала, правда."
+    arj "Тебе это понравится - если хотя бы половина того, что я о тебе слышала, правда."
 
 # game/code/e06/e06s05.rpy:124
 translate russian e06s05_4871923e:
@@ -328,7 +328,7 @@ translate russian e06s05_show_start_ca00f03b:
 translate russian e06s05_show_start_213ce832:
 
     # dd "I bet. Are you shaking?"
-    dd "Готова поспроить. Ты что, дрожишь?"
+    dd "Готова поспорить, что так и есть. Ты что это, дрожишь?"
 
 # game/code/e06/e06s05.rpy:262
 translate russian e06s05_show_start_37e56182:
@@ -436,7 +436,7 @@ translate russian e06s05_show_start_92327a42:
 translate russian e06s05_show_start_503ff245:
 
     # dd "Lydia? A couple times. Seems like a wonderful woman."
-    dd "С Лидией? Пару раз. Кажется, она замечательная женщина."
+    dd "С Лидией? Пару раз. Кажется, она замечательная девушка."
 
 # game/code/e06/e06s05.rpy:309
 translate russian e06s05_show_start_0b0bfbcf:
@@ -658,7 +658,7 @@ translate russian e06s05_mes_cane_0abf10ca:
 translate russian e06s05_mes_cane_80f0e2a9:
 
     # mc "Seriously, are you a Bond villain or something?"
-    mc "Серьёзно, ты что, злодей из фильмов про Бонда?\n\n{size=-10}{i}(Джеймс Бонд - главный персонаж романов и фильмов про супер-шпиона){/i}{/size}"
+    mc "Серьёзно, ты что, злодей из фильмов про Бонда?\n\n{size=-10}{i}Джеймс Бонд - главный персонаж романов и фильмов про супер-шпиона.{/i}{/size}"
 
 # game/code/e06/e06s05.rpy:416
 translate russian e06s05_mes_cane_b52ad568:
@@ -1222,7 +1222,7 @@ translate russian e06s05_sy_puke_8499262c:
 translate russian e06s05_sy_puke_96830551:
 
     # mc "Is the goal to suffocate her?"
-    mc "Твоя цель – задушить её?"
+    mc "Твоя цель - задушить её?"
 
 # game/code/e06/e06s05.rpy:715
 translate russian e06s05_sy_puke_6e54c6d2:
@@ -1282,7 +1282,7 @@ translate russian e06s05_sy_puke_fc8862af:
 translate russian e06s05_sy_strapon_54a2fa06:
 
     # sy "*singing* I'm gonna tap dat ass. I don't have twenty dollars nor a pocket."
-    sy "*поёт* Я собираюсь отшлёпать эту задницу. У меня нет двадцати долларов, как и карманов.\n\n{size=-10}{i}(Изменённая песня \"Thrift Shop - Macklemore And Ryan Lewis\"){/i}{/size}"
+    sy "*поёт* Я собираюсь отшлёпать эту задницу. У меня нет двадцати долларов, как и карманов.\n\n{size=-10}{i}Изменённая песня \"Thrift Shop - Macklemore And Ryan Lewis\".{/i}{/size}"
 
 # game/code/e06/e06s05.rpy:773
 translate russian e06s05_sy_strapon_95287c6e:
@@ -2080,7 +2080,7 @@ translate russian e06s05_arj_enema_707837b7:
 translate russian e06s05_arj_enema_f46a5e3d:
 
     # mc "I imagine it will be more like flooding the Nile."
-    mc "Я думаю, это будет больше похоже на разлив Нила.\n\n{size=-10}{/i}(Разлив Нила - очень важное событие для египтян и является у них праздником){/i}{/size}"
+    mc "Я думаю, это будет больше похоже на разлив Нила.\n\n{size=-10}{/i}Разлив Нила - очень важное событие для египтян и является у них праздником.{/i}{/size}"
 
 # game/code/e06/e06s05.rpy:1135
 translate russian e06s05_arj_enema_6ab8b812:
@@ -2152,7 +2152,7 @@ translate russian e06s05_arj_enema_443b9298:
 translate russian e06s05_arj_enema_a3714c4a:
 
     # dd "I need a towel, a shower, and a pint of vodka."
-    dd "Мне нужно полотенце, душ и пинта водки.\n\n{size=-10}{i}(Пинта - примерно 0.5 литра){/i}{/size}"
+    dd "Мне нужно полотенце, душ и пинта водки.\n\n{size=-10}{i}Пинта - примерно 0.5 литра.{/i}{/size}"
 
 # game/code/e06/e06s05.rpy:1165
 translate russian e06s05_arj_enema_e0356027:
@@ -2740,7 +2740,7 @@ translate russian e06s05_dd_bound_2f4871b0:
 translate russian e06s05_dd_bound_7c6c2a31:
 
     # arj "You like that? I bet you do."
-    arj "Тебе это нравится? Готова поспорить, что да"
+    arj "Тебе это нравится? Готова поспорить, что да."
 
 # game/code/e06/e06s05.rpy:1497
 translate russian e06s05_dd_bound_e645bcef:
@@ -2830,7 +2830,7 @@ translate russian e06s05_dd_bound_df2f7c13:
 translate russian e06s05_dd_bound_961e6101:
 
     # mes "I bet."
-    mes "Готово поспорить, что так и есть."
+    mes "Так и есть."
 
 # game/code/e06/e06s05.rpy:1541
 translate russian e06s05_dd_bound_25853d98:
@@ -2884,7 +2884,7 @@ translate russian e06s05_dd_bound_9c4f5c77:
 translate russian e06s05_dd_bound_ae48796d:
 
     # sy "We bind her to that Saint Andrew's Cross over there and let [mcname] whip the living shit out of her."
-    sy "Мы привяжем её к тому Андреевскому Кресту и позволим [mcname] выбить из неё всё дерьмо.\n\n{size=-10}{i}(Крест Святого Андрея - крест, на котором распяли Андрея Первозванного, одного из учеников Иисуса Христа){/i}{/size}"
+    sy "Мы привяжем её к тому Андреевскому Кресту и позволим [mcname] выбить из неё всё дерьмо.\n\n{size=-10}{i}Крест Святого Андрея - крест, на котором распяли Андрея Первозванного, одного из учеников Иисуса Христа.{/i}{/size}"
 
 # game/code/e06/e06s05.rpy:1564
 translate russian e06s05_dd_bound_10e6b53c:
@@ -3004,7 +3004,7 @@ translate russian e06s05_dd_cross_e42ab4d0:
 translate russian e06s05_dd_cross_6b8896fe:
 
     # mes "My work here is done."
-    mes "Здесь моя работа окончена."
+    mes "На этом, моя работа окончена."
 
 # game/code/e06/e06s05.rpy:1645
 translate russian e06s05_dd_cross_3aa8f9b4:

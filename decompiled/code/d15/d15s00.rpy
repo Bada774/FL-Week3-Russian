@@ -9,7 +9,7 @@ screen prologue_recap_choice():
         vbox:
             xalign 0.5
             null height 10
-            text _("Do you want to watch the recap of previous weeks?")
+            text _("Do you want to watch the recap of previous weeks?") text_align 0.5
             null height 150
         vbox:
             xalign 0.5
@@ -24,7 +24,7 @@ screen prologue_recap_choice():
                         idle "images/utility/prologue/watch_recap_idle.webp"
                         hover "images/utility/prologue/watch_recap_hover.webp"
                         action Jump("week_1_recap")
-                    text _("Watch the Recap") style_prefix "name" xalign 0.5
+                    text _("Watch the Recap") style_prefix "name" xalign 0.5 text_align 0.5
                 vbox:
                     xsize 300
                     spacing 10
@@ -32,7 +32,7 @@ screen prologue_recap_choice():
                         idle "images/utility/prologue/play_week3_idle.webp"
                         hover "images/utility/prologue/play_week3_hover.webp"
                         action Jump("d15s01")
-                    text _("Play Week-3") style_prefix "name" xalign 0.5
+                    text _("Play Week-3") style_prefix "name" xalign 0.5 text_align 0.5
 
 label d15s00:
 
@@ -48,4 +48,5 @@ label d15s00:
     call screen prologue_recap_choice
 
     jump week_1_recap
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

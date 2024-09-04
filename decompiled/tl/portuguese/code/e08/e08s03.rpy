@@ -1109,4 +1109,5 @@ translate portuguese strings:
 
     old "One late afternoon"
     new "Um fim de tarde"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

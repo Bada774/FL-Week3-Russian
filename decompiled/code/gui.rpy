@@ -450,4 +450,5 @@ init -2 python:
 
     if renpy.variant("touch"):
         gui.quick_button_borders = Borders(60, 21, 60, 0)
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

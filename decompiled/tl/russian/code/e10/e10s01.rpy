@@ -22,7 +22,7 @@ translate russian e10s01_a31340dd:
 translate russian e10s01_4ffe1cdc:
 
     # mes "Really. It's a lot more expensive elsewhere, so the restaurants that aren't the chains, will skimp on them."
-    mes "Серьёзно. В других местах это намного дороже, поэтому рестораны будут пытаться экономить на ингредиентах."
+    mes "Серьёзно. В других местах достать ингридиенты намного дороже, поэтому рестораны пытаются экономить на ингредиентах."
 
 # game/code/e10/e10s01.rpy:94
 translate russian e10s01_123491cb:
@@ -34,7 +34,7 @@ translate russian e10s01_123491cb:
 translate russian e10s01_18206c0c:
 
     # mes "The rice is so light, you feel like you can eat it forever. Every food benefits from it, especially the barbecue."
-    mes "Рис настолько лёгкий, что кажется, что его можно есть вечно. Любая еда от этого выигрывает, особенно барбекю."
+    mes "Рис настолько лёгкий, что кажется, что его можно есть вечно. Любая еда от этого только выигрывает, особенно барбекю."
 
 # game/code/e10/e10s01.rpy:99
 translate russian e10s01_effa5701:
@@ -58,7 +58,7 @@ translate russian e10s01_88861341:
 translate russian e10s01_5ef3d681:
 
     # mc "Seoul is so clean, the people are friendly. The city is so technologically advanced, yet the buildings are a mix of new and traditional. This is what the future looks like."
-    mc "Сеул такой чистый, и люди здесь дружелюбные. Город очень технологически развит, но здания смешивают в себе стиль новизны и традиционности. Так и должно выглядеть будущее."
+    mc "Сеул такой чистый, и люди здесь дружелюбные. Город так технологически развит, но при этом здания смешивают в себе стили новизны и традиционности. Так и должно выглядеть будущее."
 
 # game/code/e10/e10s01.rpy:107
 translate russian e10s01_9708b1fd:
@@ -70,13 +70,13 @@ translate russian e10s01_9708b1fd:
 translate russian e10s01_1f5b417b:
 
     # mes "I haven't been to that cat cafe until today. It must be new. I enjoyed stroking the black and white one. She reminds me of the grinning cat from the Lewis Carroll books."
-    mes "До сегодняшнего дня я не была в этом кошачьем кафе. Оно должно быть новое. Мне понравился черно-белый котик. Он напоминает мне ухмыляющегося кота из книг Льюиса Кэрролла.\n\n{size=-10}{i}(Льюиса Кэрролл - английский писатель, написавший книгу \"Алиса в Стране чудес\"){/i}{/size}"
+    mes "До сегодняшнего дня я не была в этом кошачьем кафе. Оно должно быть новое. Мне понравилась чёрно-белая кошечка. Она напоминает мне ухмыляющегося кота из книг Льюиса Кэрролла.\n\n{size=-10}{i}Льюис Кэрролл - английский писатель, написавший книгу \"Алиса в Стране чудес\".{/i}{/size}"
 
 # game/code/e10/e10s01.rpy:112
 translate russian e10s01_6642c96e:
 
     # mc "That cat was the one that bit me."
-    mc "Этот кот меня укусил."
+    mc "Та кошка меня укусила."
 
 # game/code/e10/e10s01.rpy:113
 translate russian e10s01_89a574d9:
@@ -100,7 +100,7 @@ translate russian e10s01_bf87cec9:
 translate russian e10s01_662cb197:
 
     # mes "Back then, you had to go to a PC bang to use a computer, even. Now even children have a computer in their pockets."
-    mes "В те времена чтобы воспользоваться компьютером, приходилось идти в компьютерный клуб. А теперь даже у детей есть свой собственный компьютер в кармане."
+    mes "В те времена, чтобы воспользоваться компьютером, приходилось идти в компьютерный клуб. А теперь даже у детей есть свой собственный компьютер в кармане."
 
 # game/code/e10/e10s01.rpy:124
 translate russian e10s01_4020ede7:
@@ -142,7 +142,7 @@ translate russian e10s01_75a4fb5f:
 translate russian e10s01_23876527:
 
     # mc "That aggression will not stand. And neither will I."
-    mc "Этот сарказм не выдерживает нагрузки. И я тоже."
+    mc "Этот сарказм не выдерживает нагрузки. Как и я."
 
 # game/code/e10/e10s01.rpy:146
 translate russian e10s01_89737979:
@@ -184,13 +184,13 @@ translate russian e10s01_68859e1b:
 translate russian e10s01_6d97e7c8:
 
     # mes "My brother wanted an exemption, but he didn't qualify. It was a whole mess. My dad wanted me to come down and convince him to join."
-    mes "Мой брат хотел избавиться от уплаты налогов, но он не соответствовал социальным критериям. Это был ужас. Мой отец хотел, чтобы я приехала и убедила его пойти в армию."
+    mes "Мой брат хотел избавиться от уплаты налогов, но он не соответствовал социальным критериям. Это был просто ужас. Мой отец хотел, чтобы я приехала и убедила его пойти в армию."
 
 # game/code/e10/e10s01.rpy:160
 translate russian e10s01_6e4c2ccc:
 
     # mes "I mean, he is compelled to join, but the situation called for a little feminine touch. Which involved lots of crying and hugging and patting his head."
-    mes "Конечно же, ему пришлось согласится, но ситуация требовала женственной нежности. Это включало в себя много плача, объятий и поглаживаний его по голове."
+    mes "Конечно же, ему пришлось согласится, но ситуация требовала женственной нежности. Это включало в себя много слёз, объятий и поглаживаний его по голове."
 
 # game/code/e10/e10s01.rpy:164
 translate russian e10s01_88baef9e:
@@ -310,7 +310,7 @@ translate russian e10s01_99569622:
 translate russian e10s01_99f079f3:
 
     # mc "If I have a cigarette, I might hurl."
-    mc "Если бы я курил, я смог бы бросить."
+    mc "Если я закурю сигарету, то меня может стошнить."
 
 # game/code/e10/e10s01.rpy:214
 translate russian e10s01_29b6e0e5:
@@ -340,7 +340,7 @@ translate russian e10s01_7c156129:
 translate russian e10s01_e41bfd67:
 
     # mes "Appa, gwenchanayo. Ne. Eomma nin yo?"
-    mes "Appa, gwenchanayo. Ne. Eomma nin yo?\n\n{size=-10}{i}(Корейский - Отец, я в порядке. Да. А как там мама?){/i}{/size}"
+    mes "Appa, gwenchanayo. Ne. Eomma nin yo?\n\n{size=-10}{i}Корей. Отец, я в порядке. Да. А как там мама?{/i}{/size}"
 
 # game/code/e10/e10s01.rpy:232
 translate russian e10s01_eb3ddd60:
@@ -388,7 +388,7 @@ translate russian e10s01_824c43b1:
 translate russian e10s01_cf995eb5:
 
     # mes "I can never tell if you're joking or not."
-    mes "Я никогда не смогу понять, шутишь ты или нет."
+    mes "Я никогда не могу понять, шутишь ты или нет."
 
 # game/code/e10/e10s01.rpy:247
 translate russian e10s01_2694ac5d:
@@ -490,7 +490,7 @@ translate russian e10s01_ece83362:
 translate russian e10s01_49eee869:
 
     # mes "It's why I went to school. You can't run a company without a degree."
-    mes "Вот почему я и поступила в колледж. Ты не можешь управлять компанией, не имея диплома."
+    mes "Именно поэтому я и поступила в колледж. Ты не можешь управлять компанией, не имея диплома."
 
 # game/code/e10/e10s01.rpy:284
 translate russian e10s01_abb96135:
@@ -508,7 +508,7 @@ translate russian e10s01_33799903:
 translate russian e10s01_a2cd203d:
 
     # mc "Because I didn't know what else to do. I didn't even know what matriculation meant. Still don't think I do."
-    mc "Потому что я не знал, что ещё делать. Я даже не знал, что такое \"аттестат зрелости\". И пожалуй, всё ещё не знаю.\n\n{size=-10}{i}(Аттестат зрелости - аттестат об окончании среднего образования){/i}{/size}"
+    mc "Потому что я не знал, что ещё делать. Я даже не знал, что такое \"аттестат зрелости\". И пожалуй, всё ещё не знаю.\n\n{size=-10}{i}Аттестат зрелости - аттестат об окончании среднего образования.{/i}{/size}"
 
 # game/code/e10/e10s01.rpy:290
 translate russian e10s01_6e7f5540:
@@ -526,13 +526,13 @@ translate russian e10s01_75848567:
 translate russian e10s01_134f269e:
 
     # mes "It's the same space, though. There's overlap between both."
-    mes "Хотя это одна и то же сфера. Оба варианта пересекаются."
+    mes "Хотя это одна и та же сфера. Оба варианта пересекаются."
 
 # game/code/e10/e10s01.rpy:296
 translate russian e10s01_c0f2f88d:
 
     # mc "I suppose that's true. Just saying I would never work at a bank or the federal government. Too big to fail, what a crock."
-    mc "Полагаю, это правда. Просто говорю, что никогда не буду работать в банке или правительстве. Слишком большой шанс потерпеть неудачу."
+    mc "Полагаю, это действительно так. Просто говорю, что никогда не буду работать в банке или на правительство. Слишком большой шанс потерпеть неудачу."
 
 # game/code/e10/e10s01.rpy:298
 translate russian e10s01_4ca8c4ec:
@@ -562,7 +562,7 @@ translate russian e10s01_9ca63887:
 translate russian e10s01_f3989196:
 
     # mes "I like being in different worlds, inhabiting other perspectives. It's a guide to how a person's mind works, if done well."
-    mes "Мне нравится пребывать в разных мирах, жить в других перспективах. Если всё сделано правильно, то это как руководство к тому, как работает человеческий разум."
+    mes "Мне нравится пребывать в разных мирах, жить в других перспективах. Если всё сделано правильно, то это как руководство к осознанию, как работает человеческий разум."
 
 # game/code/e10/e10s01.rpy:310
 translate russian e10s01_7bfac4e6:
@@ -574,7 +574,7 @@ translate russian e10s01_7bfac4e6:
 translate russian e10s01_db299f70:
 
     # mes "Like harlequin fantasies?"
-    mes "Типа \"Harlequin\"?\n\n{size=-10}{i}(Harlequin - серия книг с любовными романами){/i}{/size}"
+    mes "Типа \"Harlequin\"?\n\n{size=-10}{i}\"Harlequin\" - серия книг с любовными романами.{/i}{/size}"
 
 # game/code/e10/e10s01.rpy:315
 translate russian e10s01_cf1adef2:
@@ -634,7 +634,7 @@ translate russian e10s01_745354df:
 translate russian e10s01_25f51653:
 
     # mc "I'm trying, but I don't think I can move for another twenty minutes."
-    mc "Я пытаюсь, но не думаю, что смогу двигаться ещё минут двадцать."
+    mc "Я пытаюсь, но не думаю, что смогу двигаться ещё ближайшие минут двадцать."
 
 # game/code/e10/e10s01.rpy:338
 translate russian e10s01_45fc26bb:
@@ -646,7 +646,7 @@ translate russian e10s01_45fc26bb:
 translate russian e10s01_2eac4bd5:
 
     # mes "Ahjusshi!"
-    mes "Ahjusshi!\n\n{size=-10}{i}(Корейский - дедуля!){/i}{/size}"
+    mes "Ahjusshi!\n\n{size=-10}{i}Корей. Дедуля!{/i}{/size}"
 
 # game/code/e10/e10s01.rpy:344
 translate russian e10s01_2b7b5e27:
@@ -664,19 +664,19 @@ translate russian e10s01_e2f8970e:
 translate russian e10s01_0baa45b6:
 
     # mct "I mean he's done a good job raising her... She's everything you can want from a daughter, hyper-intelligent, beautiful, responsible."
-    mct "Он ведь хорошо её воспитал... Она - всё, что можно желать от дочери: сверхумная, красивая, ответственная."
+    mct "Он ведь хорошо её воспитал... Она - всё, чего можно желать от дочери: сверхумная, красивая, ответственная."
 
 # game/code/e10/e10s01.rpy:349
 translate russian e10s01_2a26e1f3:
 
     # mct "But Min's probably not lying either... how will I handle this?"
-    mct "Но Мин, наверное, тоже не врёт... как мне справиться с этим?"
+    mct "Но Мин, скорее всего, тоже не врёт... как мне справиться с этим?"
 
 # game/code/e10/e10s01.rpy:352
 translate russian e10s01_da309584:
 
     # mes "Want one? Looks like you're deep in thought."
-    mes "Хочешь одну? Похоже, ты глубоко задумался."
+    mes "Хочешь одну? Кажется, ты глубоко задумался."
 
 # game/code/e10/e10s01.rpy:354
 translate russian e10s01_12a3df29:
@@ -688,7 +688,7 @@ translate russian e10s01_12a3df29:
 translate russian e10s01_f58d336c:
 
     # mes "Alright, can you move now?"
-    mes "Ладно, ты уже можешь двигаться?"
+    mes "Ладно, теперь уже можешь двигаться?"
 
 # game/code/e10/e10s01.rpy:384
 translate russian e10d01_sex_a1aaab13:
@@ -736,7 +736,7 @@ translate russian e10d01_sex_7150423f:
 translate russian e10d01_sex_05443a28:
 
     # mes "Maybe. Isn't that exciting?"
-    mes "Возможно. Разве это не захватывающе?"
+    mes "Может быть. Разве это не захватывающе?"
 
 # game/code/e10/e10s01.rpy:412
 translate russian e10d01_sex_dc5a82fe:
@@ -862,7 +862,7 @@ translate russian e10d01_sex_39b0ec7f:
 translate russian e10d01_sex_086b8564:
 
     # mc "That's so good. How are you so good at that?"
-    mc "Это так хорошо. Как у тебя это так хорошо получается?"
+    mc "Это так приятно. Как у тебя это так хорошо получается?"
 
 # game/code/e10/e10s01.rpy:491
 translate russian e10d01_sex_ac1f5f03:
@@ -880,7 +880,7 @@ translate russian e10d01_sex_52297805:
 translate russian e10d01_sex_25c51c31:
 
     # mct "She's afraid of taking charge in her personal life, and so she's channeling her aggression into sex."
-    mct "Она боится брать на себя ответственность за личную жизнь и поэтому направляет свою агрессию в секс."
+    mct "Она боится брать на себя ответственность за свою личную жизнь, и поэтому направляет свою агрессию в секс."
 
 # game/code/e10/e10s01.rpy:501
 translate russian e10d01_sex_2a526e60:
@@ -892,7 +892,7 @@ translate russian e10d01_sex_2a526e60:
 translate russian e10d01_sex_1e3651a2:
 
     # mc "Ready to take this into the next stage?"
-    mc "Готовы перейти на следующий этап?"
+    mc "Готова перейти на следующий этап?"
 
 # game/code/e10/e10s01.rpy:514
 translate russian e10d01_sex_3a6c3407:
@@ -922,7 +922,7 @@ translate russian e10d01_sex_b70d89f2:
 translate russian e10d01_sex_7bfb85f2:
 
     # mes "Sex is something that binds us all together."
-    mes "Секс - это то, что объединяет нас всех."
+    mes "Секс - это то, что всех нас объединяет."
 
 # game/code/e10/e10s01.rpy:592
 translate russian e10d01_sex_899803e7:
@@ -934,7 +934,7 @@ translate russian e10d01_sex_899803e7:
 translate russian e10d01_sex_2f3e3777:
 
     # mes "You're filling me all the way inside."
-    mes "Ты заполняешь меня полностью."
+    mes "Ты полностью меня заполняешь."
 
 # game/code/e10/e10s01.rpy:598
 translate russian e10d01_sex_211f6668:
@@ -976,7 +976,7 @@ translate russian e10d01_sex_05034740:
 translate russian e10d01_sex_5bc5723f:
 
     # mes "Don't worry, I had the depo shot. Fill me up."
-    mes "Не волнуйся, я сделала укол Депо-Провера. Заполни меня.\n\n{size=-10}{i}(Депо-Провера - препарат, который можно использовать в качестве метода контрацепции){/i}{/size}"
+    mes "Не волнуйся, я сделала укол Депо-Провера. Заполни меня.\n\n{size=-10}{i}Депо-Провера - препарат, который можно использовать в качестве метода контрацепции.{/i}{/size}"
 
 # game/code/e10/e10s01.rpy:631
 translate russian e10d01_sex_505daf63:
@@ -1042,19 +1042,19 @@ translate russian e10d01_sex_001fa65b:
 translate russian e10d01_sex_28116321:
 
     # mes "Do you want me to clean it for you? Can't do it yourself?"
-    mes "Хочешь, я почищу его для тебя? Не можешь сделать это сам?"
+    mes "Хочешь, чтобы я почистила его для тебя? Не можешь сделать это сам?"
 
 # game/code/e10/e10s01.rpy:711
 translate russian e10d01_sex_6ff41185:
 
     # mc "Nope."
-    mc "Не-а."
+    mc "Неа."
 
 # game/code/e10/e10s01.rpy:739
 translate russian e10s01_final_sex_f141aa80:
 
     # mes "How am I going to explain us to my father?"
-    mes "И как я буду говорить о нас отцу?"
+    mes "И как я буду объяснить все это своему отцу?"
 
 # game/code/e10/e10s01.rpy:740
 translate russian e10s01_final_sex_074f17ae:
@@ -1084,7 +1084,7 @@ translate russian e10s01_final_sex_be90e7e2:
 translate russian e10s01_final_sex_783dbaed:
 
     # mes "It's romantic, isn't it?"
-    mes "Это так романтично, не так ли?"
+    mes "Это так романтично, правда?"
 
 # game/code/e10/e10s01.rpy:753
 translate russian e10s01_final_sex_8ed9fe6a:

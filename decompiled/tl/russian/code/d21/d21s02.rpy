@@ -64,7 +64,7 @@ translate russian d21s02_4017227e:
 translate russian d21s02_e00c48cb:
 
     # sy "Let me at her. I'm here to chew gum and send Lydia to GenPop-"
-    sy "Пустите меня к ней. Я здесь, чтобы пожевать жвачку и отправить Лидию в ГенПоп... \n\n{size=-10}{i}(англ. GenPop - американский термин для основной части заключенных в тюрьме, к которым не применяют особые правила дисциплины){/i}{/size}"
+    sy "Пустите меня к ней. Я здесь, чтобы пожевать жвачку и отправить Лидию в GenPop...\n\n{size=-10}{i}Ориг. GenPop - американский термин для основной части заключенных в тюрьме, к которым не применяют особые правила дисциплины.{/i}{/size}"
 
 # game/code/d21/d21s02.rpy:62
 translate russian d21s02_175e7f8b:
@@ -178,7 +178,7 @@ translate russian d21s02_1110c5a1:
 translate russian d21s02_meet_lc_4684c542:
 
     # mc "Ah. Hello, Clarice"
-    mc "Ах. Ну здравствуй, Клариса. \n\n{size=-10}{i}(Отсылка к Ганнибалу Лектеру из фильма \"Молчание ягнят\"){/i}{/size}"
+    mc "Ах. Ну здравствуй, Клариса.\n\n{size=-10}{i}Отсылка к фильму/роману \"Молчание ягнят\".{/i}{/size}"
 
 # game/code/d21/d21s02.rpy:138
 translate russian d21s02_meet_lc_0baf648b:
@@ -202,7 +202,7 @@ translate russian d21s02_meet_lc_fb3b26b5:
 translate russian d21s02_meet_lc_95b433d4:
 
     # lc "I ain't seen nobody buffalo Bill like you buffalo'd Bill."
-    lc "Никому на свете ещё не удавалось так облапошить Билла.\n\n{size=-10}{i}(Отсылка к фильму \"Убить Билла 2\"){/i}{/size}"
+    lc "Никому на свете ещё не удавалось так облапошить Билла.\n\n{size=-10}{i}Отсылка к фильму \"Убить Билла 2\".{/i}{/size}"
 
 # game/code/d21/d21s02.rpy:151
 translate russian d21s02_meet_lc_22e2ad21:
@@ -292,7 +292,7 @@ translate russian d21s02_ntr_arj_75d4337c:
 translate russian d21s02_ntr_arj_6c834469:
 
     # arj "Nice cage. Shouldn't you have some sort of Hannibal Lector mask or something?"
-    arj "Хорошая клетка. Разве у тебя не должно быть какой-нибудь маски, как у Ганнибала Лектора?\n\n{size=-10}{i}Ганнибал Лектор - серийный убийца, каннибал, персонаж фильма/романа \"Молчание ягнят\"){/i}{/size}"
+    arj "Хорошая клетка. Разве у тебя не должно быть какой-нибудь маски, как у Ганнибала Лектора?\n\n{size=-10}{i}Ганнибал Лектор - серийный убийца, каннибал, персонаж фильма/романа \"Молчание ягнят\"{/i}{/size}"
 
 # game/code/d21/d21s02.rpy:216
 translate russian d21s02_ntr_arj_a598cc7f:

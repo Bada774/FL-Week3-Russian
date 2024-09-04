@@ -16,7 +16,7 @@ translate turkish e13s04_93557ce5:
 translate turkish e13s04_9095cd3d:
 
 
-    mc "Mm. He is an {i}extremely{/i} opinionated young gentleman."
+    mc "Mm. O {i}son derece{/i} düşünceli bir genç beyefendi."
 
 
 translate turkish e13s04_99af8c52:
@@ -227,4 +227,5 @@ translate turkish strings:
 
     old "You have finished playing ending number 13!"
     new "13 numaralı bitişi oynamayı bitirdiniz!"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -269,4 +269,5 @@ translate malay strings:
 
     old "15 minutes later"
     new "15 minit kemudian"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

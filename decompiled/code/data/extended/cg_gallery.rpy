@@ -72,10 +72,18 @@ init python:
         ( "e02s09"    , _("Ending 02: Lyssa"             ), _(""                                         ) ),
         ]
 
+    ending_04_cg_slots = [
+        ( "e04s01"    , _("Ending 04: Girls"             ), _(""                                         ) ),
+        ]
+
     ending_06_cg_slots = [
         ( "e06s01"    , _("Ending 06: Lydia"             ), _(""                                         ) ),
         ( "e06s04"    , _("Ending 06: Harem"             ), _(""                                         ) ),
         ( "e06s07"    , _("Ending 06: Marriage"          ), _(""                                         ) ),
+        ]
+
+    ending_07_cg_slots = [
+        ( "e07s01"    , _("Ending 07: Girls"             ), _(""                                         ) ),
         ]
 
     ending_08_cg_slots = [
@@ -89,6 +97,7 @@ init python:
         ]
 
     ending_11_cg_slots = [
+        ( "e11s01"    , _("Ending 11: Daisy"             ), _(""                                         ) ),
         ]
 
     ending_12_cg_slots = [
@@ -105,6 +114,8 @@ init python:
         ]
 
     ending_17_cg_slots = [
+        ( "e17s01"    , _("Ending 17: Dahlia"            ), _(""                                         ) ),
+        ( "e17s02"    , _("Ending 17: Dahlia"            ), _(""                                         ) ),
         ]
 
 
@@ -338,6 +349,15 @@ init python:
     cg_gallery.unlock_image("e02s09-57 mh-tells-mc-been-patient-mc-not-about-change_c1")
     cg_gallery.unlock_image("e02s09-64 mc-mh-sleep-cuddled_c1")
 
+    cg_gallery.button("e04s01")
+    cg_gallery.unlock_image("e04s03-30 arj-biting-lip-project-deserves-chrisening-sy-claps-hands_c1")
+    cg_gallery.unlock_image("e04s03-38 sy-holding-double-sided-dildo-wasnt-very-nice_c1")
+    cg_gallery.image("e04s03-169 gang-happy-end-scene_c1")
+    cg_gallery.unlock_image("e04s07-11 sy-this-just-her-they-carried-one-bag-each_c1")
+    cg_gallery.unlock_image("e04s07-73 mh-kinky-look-certainly-long-way-wondering-about-something_c1")
+    cg_gallery.image("e04s07-186-01 girls-front-mc-ready-be-fucked-mh-included_c1")
+    cg_gallery.unlock_image("e04s07-227 mc-good-work-prisoner-one-wants-sy-go-clean-her-sy-ok_c1")
+
     cg_gallery.button("e06s01")
     cg_gallery.unlock_image("e06s01-14-2 mc-lc-talk12_c2")
     cg_gallery.unlock_image("e06s01-15 mc-lc-reentry1_c2")
@@ -363,6 +383,14 @@ init python:
     cg_gallery.unlock_image("e06s07-25 sy-listens-lc-vow_c1")
     cg_gallery.unlock_image("e06s07-52 mh-agrees-as-well_c1")
     cg_gallery.unlock_image("e06s07-62 lc-mh-hold-hands-as-mh-forgot-detail_c1")
+
+    cg_gallery.button("e07s01")
+    cg_gallery.unlock_image("e07s01-38 mc-lc-arj-walk1_c2")
+    cg_gallery.unlock_image("e07s03-08-gb-talk-lc")
+    cg_gallery.unlock_image("e07s03-100-zh-talk-gb")
+    cg_gallery.unlock_image("e07s04-31-arj-coming")
+    cg_gallery.unlock_image("e07s05-30 lc-look-mc_c1")
+    cg_gallery.image("e07s07-103 pb-fucks-arj-doggystyle-mc-watches-anim_c2")
 
     cg_gallery.button("e08s01")
     cg_gallery.unlock_image("e8s01-07-02 amr-look-up")
@@ -391,6 +419,13 @@ init python:
     cg_gallery.unlock_image("e10s04-52 mc-mes-both-laugh_c1")
     cg_gallery.unlock_image("e10s04-54 mc-kisses-mes_c1")
 
+    cg_gallery.button("e11s01")
+    cg_gallery.image("e11s01-83-ly-look-mc")
+    cg_gallery.unlock_image("e11s03-54 a_dayn_venice_gondola_mc_dd_amused_laugh")
+    cg_gallery.unlock_image("e11s04-41 mc-dd-top1_c2")
+    cg_gallery.unlock_image("e11s05-11 dd-talks-payout-goes-towards-mc-ask-if-sure-she-absolutely_c1")
+    cg_gallery.unlock_image("e11s06-67-mc-talk-ly")
+
     cg_gallery.button("e12s01")
     cg_gallery.unlock_image("e12s03-24 aw-shows-pool_c1")
     cg_gallery.unlock_image("e12s03-42 vw-plenty-time-teach-mc-ask-that-bad_c1")
@@ -416,6 +451,24 @@ init python:
     cg_gallery.unlock_image("e14s02-65 new-customer-walks-in_c1")
     cg_gallery.unlock_image("e14s07-115 all-do-yoga-end-scene_c1")
 
+    cg_gallery.button("e17s01")
+    cg_gallery.unlock_image("e17s01_63_hotel_lobby_dw_talk")
+    cg_gallery.unlock_image("e17s02-37 dh-thinks-90s-look-mc-no-madam_c1")
+    cg_gallery.unlock_image("e17s02-43 dh-ask-too-much-burton-mc-thinks-not-showing-best-assets_c1")
+    cg_gallery.unlock_image("e17s02-49 mc-thinks-fuck-seeing-dh-outfit_c1")
+    cg_gallery.unlock_image("e17s02-70 mc-sits-front-dh_c1")
+    cg_gallery.unlock_image("e17s02-116 gb-very-much-acceptable_c1")
+    cg_gallery.unlock_image("e17s02-155 sub-brings-box-to-dw_c1")
+
+    cg_gallery.button("e17s02")
+    cg_gallery.image("e17s03-35 dw-hands-over-whip-gb_c1")
+    cg_gallery.unlock_image("e17s04_139 la_catastrofe_dw_talk_menu_scratch_chest")
+    cg_gallery.unlock_image("e17s05-95 mc-dw-look-at-camera-war-ask-interupting_c1")
+    cg_gallery.unlock_image("e17s05-98 dw-instictively-answers-warden-he-smart-girl_c1")
+    cg_gallery.unlock_image("e17s05-104 dw-jump-mc-embrace-they-kiss-end-scene_c1")
+    cg_gallery.unlock_image("e17s06-26 dw-enters-room-in-bdsm-outfit_c1")
+
     for i in cg_gallery_slots:
         renpy.image("gallery_tncg_" + i[0], Image("images/extended/cg/" + i[0] + ".webp"))
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -941,4 +941,5 @@ translate chinese d19s09_end_9cc11ce7:
 
 
     sy "其实...有点意思。建造它的人并不算很蠢。"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

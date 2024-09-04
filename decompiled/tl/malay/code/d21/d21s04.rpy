@@ -837,4 +837,5 @@ translate malay strings:
 
     old "I need to think about this"
     new "Aku perlu fikir tentang ini"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

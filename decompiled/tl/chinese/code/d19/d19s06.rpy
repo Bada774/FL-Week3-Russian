@@ -1035,4 +1035,5 @@ translate chinese strings:
 
     old "Both Cynthia and Her Mother"
     new "辛西娅和她妈妈都要在"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

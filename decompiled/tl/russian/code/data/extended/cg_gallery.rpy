@@ -210,3 +210,27 @@ translate russian strings:
     old "Ending 14: Polly & Nora"
     new "Концовка 14: Полли & Нора"
 
+# TODO: Translation updated at 2023-12-16 21:29
+
+translate russian strings:
+
+    # game/code/data/extended/cg_gallery.rpy:91
+    old "Ending 11: Daisy"
+    new "Концовка 11: Дейзи"
+
+    # game/code/data/extended/cg_gallery.rpy:108
+    old "Ending 17: Dahlia"
+    new "Концовка 17: Далия"
+
+# TODO: Translation updated at 2024-02-23 00:11
+
+translate russian strings:
+
+    # game/code/data/extended/cg_gallery.rpy:75
+    old "Ending 04: Girls"
+    new "Концовка 04: Девочки"
+
+    # game/code/data/extended/cg_gallery.rpy:85
+    old "Ending 07: Girls"
+    new "Концовка 07: Девочки"
+

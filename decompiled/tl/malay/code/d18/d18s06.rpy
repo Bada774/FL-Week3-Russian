@@ -581,4 +581,5 @@ translate malay strings:
 
     old "Some time later\nAt the college campus"
     new "Kemudiannya...\nDi kampus kolej"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

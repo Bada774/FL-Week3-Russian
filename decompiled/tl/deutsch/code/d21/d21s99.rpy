@@ -4,9 +4,10 @@ translate deutsch strings:
 
 
     old "Not reaching an ending is also an ending..."
-    new "Not reaching an ending is also an ending..."
+    new "Ein Ende nicht zu erreichen ist auch ein Ende..."
 
 
     old "Just not a good one"
-    new "Just not a good one"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Nur kein gutes"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

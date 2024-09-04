@@ -73,7 +73,7 @@ label d17s06:
 
             stop music fadeout 3.0
             jump d17s06pn
-        "Go back to studying"(hint="d17s06m01c04") if True:
+        "Go back to studying"(hint="d17s06m01c04"):
 
 
             $ d17s06_choice_study = True
@@ -103,4 +103,5 @@ label d17s06_study:
 
     stop music fadeout 3.0
     jump d17s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

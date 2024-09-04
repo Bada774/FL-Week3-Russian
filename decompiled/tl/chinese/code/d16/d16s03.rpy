@@ -2001,4 +2001,5 @@ translate chinese strings:
 
     old "Tell Lydia That You Enjoyed It As Well"
     new "告诉莉迪亚，你也很享受"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

@@ -463,4 +463,5 @@ translate chinese strings:
 
     old "Had Enough Fun for Now"
     new "现在已经玩够了"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

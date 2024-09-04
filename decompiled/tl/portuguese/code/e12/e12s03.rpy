@@ -4,1217 +4,1218 @@
 translate portuguese e12s03_92d88967:
 
 
-    vw ""
+    vw "O que vocês acham?"
 
 
 translate portuguese e12s03_69a2ee32:
 
 
-    mc ""
+    mc "Vanessa, esse lugar é fantástico."
 
 
 translate portuguese e12s03_7f61aa29:
 
 
-    aw ""
+    aw "Eu adorei, Mãe!"
 
 
 translate portuguese e12s03_c0915a58:
 
 
-    aw ""
+    aw "Eu adoro!"
 
 
 translate portuguese e12s03_4a134d6b:
 
 
-    vw ""
+    vw "Ainda bem que gostaram."
 
 
 translate portuguese e12s03_f95b0ba5:
 
 
-    vw ""
+    vw "Ali fica o quarto principal com uma cama grande o bastante para nós três."
 
 
 translate portuguese e12s03_6ed468b4:
 
 
-    vw ""
+    vw "O banheiro tem um daqueles chuveiros com efeito de chuva."
 
 
 translate portuguese e12s03_790a2560:
 
 
-    vw ""
+    vw "E Allison, tem bastante espaço nos fundos para os seus caiaques."
 
 
 translate portuguese e12s03_be6e18e8:
 
 
-    vw ""
+    vw "Eu tenho um escritório naquele corredor. Também tem espaço para o que você quiser fazer, [mcname]."
 
 
 translate portuguese e12s03_c32ab535:
 
 
-    mct ""
+    mct "Cacete, esse lugar é enorme."
 
 
 translate portuguese e12s03_fa29e54e:
 
 
-    mc ""
+    mc "Como que você pagou por isso tudo?"
 
 
 translate portuguese e12s03_17f81102:
 
 
-    vw ""
+    vw "Eu estava guardando um dinheiro faz uns anos."
 
 
 translate portuguese e12s03_4a50230f:
 
 
-    aw ""
+    aw "Espero que você aprenda um pouco com isso, [mcname]."
 
 
 translate portuguese e12s03_e3eb80d0:
 
 
-    mc ""
+    mc "Eu também espero. Mas caramba, esse lugar deve ter custado uma fortuna."
 
 
 translate portuguese e12s03_b8a2543b:
 
 
-    vw ""
+    vw "Custou, mas eu estava guardando dinheiro faz um bom tempo. É bom ter uma casa onde a Allison pode treinar para o Caiaque de Ferro."
 
 
 translate portuguese e12s03_0d6588f6:
 
 
-    aw ""
+    aw "Eu não tenho como te agradecer por isso."
 
 
 translate portuguese e12s03_e52ac2b0:
 
 
-    mct ""
+    mct "Nossa."
 
 
 translate portuguese e12s03_fe3d47e8:
 
 
-    vw ""
+    vw "Tudo bem, [mcname]?"
 
 
 translate portuguese e12s03_a390dc75:
 
 
-    mc ""
+    mc "Sim. Eu nunca pensei que estaria num lugar tão incrível com duas mulheres lindas."
 
 
 translate portuguese e12s03_17e87ee6:
 
 
-    aw ""
+    aw "Uma grande família feliz."
 
 
 translate portuguese e12s03_41f907e6:
 
 
-    vw ""
+    vw "Eu estou tão feliz que estamos todos aqui. Não sei dizer quanto tempo eu esperei por isso. Bem, a maior parte disso."
 
 
 translate portuguese e12s03_59b911a1:
 
 
-    vw ""
+    vw "Eu nunca teria imaginado alguém como você [mcname] entrando na minha vida e me reunindo com a minha filha."
 
 
 translate portuguese e12s03_fbf00492:
 
 
-    vw ""
+    vw "Eu nunca teria imaginado alguém como você [mcname] entrando na minha vida e me reunindo com a Allison."
 
 
 translate portuguese e12s03_370d82fc:
 
 
-    vw ""
+    vw "Fico feliz que finalmente temos um lugar que podemos chamar de casa. Para o que vier agora."
 
 
 translate portuguese e12s03_94b27188:
 
 
-    aw ""
+    aw "E eu fico feliz que estamos todos juntos aqui, Mãe."
 
 
 translate portuguese e12s03_3442fe7a:
 
 
-    aw ""
+    aw "Eu também fico feliz que estamos todos juntos aqui."
 
 
 translate portuguese e12s03_bf5be803:
 
 
-    aw ""
+    aw "Mal posso esperar pra ver como essa nossa nova vida vai ser. Começando por isso!"
 
 
 translate portuguese e12s03_344b6134:
 
 
-    aw ""
+    aw "Finalmente, liberdade."
 
 
 translate portuguese e12s03_1bb76067:
 
 
-    mct ""
+    mct "A gente devia ter se mudado antes."
 
 
 translate portuguese e12s03_f1d757e0:
 
 
-    vw ""
+    vw "Allison!"
 
 
 translate portuguese e12s03_aa41f95d:
 
 
-    aw ""
+    aw "Que foi? Eu sei que você gosta."
 
 
 translate portuguese e12s03_b314386e:
 
 
-    aw ""
+    aw "Você só vai ter que se acostumar."
 
 
 translate portuguese e12s03_57592c17:
 
 
-    mc ""
+    mc "Acho que nunca vi a Allison tão feliz."
 
 
 translate portuguese e12s03_cc8b95f2:
 
 
-    vw ""
+    vw "Também faz um bom tempo desde que vi ela tão feliz."
 
 
 translate portuguese e12s03_ddf35f4f:
 
 
-    vw ""
+    vw "E é tudo graças a você."
 
 
 translate portuguese e12s03_c22434b4:
 
 
-    aw ""
+    aw "Não posso deixar vocês sozinhos por um instante, hein."
 
 
 translate portuguese e12s03_10168bd4:
 
 
-    vw ""
+    vw "Allison-"
 
 
 translate portuguese e12s03_21f963d2:
 
 
-    aw ""
+    aw "Tudo bem, eu entendo."
 
 
 translate portuguese e12s03_296d983c:
 
 
-    aw ""
+    aw "Mas antes que a gente se distraia muito, você tem que ver isso. Vem!"
 
 
 translate portuguese e12s03_0f9fa639:
 
 
-    mc ""
+    mc "Eu não pensei que isso podia ficar melhor."
 
 
 translate portuguese e12s03_4b8f4e33:
 
 
-    aw ""
+    aw "Vocês ainda nem entraram na piscina."
 
 
 translate portuguese e12s03_b3167d4e:
 
 
-    vw ""
+    vw "O meu maiô ainda está na mala."
 
 
 translate portuguese e12s03_6f54f0e5:
 
 
-    aw ""
+    aw "Pra que você precisa de um?"
 
 
 translate portuguese e12s03_78fdd4f1:
 
 
-    mc ""
+    mc "Ela tem razão."
 
 
 translate portuguese e12s03_2286d6a7:
 
 
-    vw ""
+    vw "E se alguém nos vir?"
 
 
 translate portuguese e12s03_3c60bd28:
 
 
-    mc ""
+    mc "Essa casa agora é nossa, não é?"
 
 
 translate portuguese e12s03_9a4135a4:
 
 
-    mc ""
+    mc "A gente pode fazer o que quiser!"
 
 
 translate portuguese e12s03_cdf850df:
 
 
-    mc ""
+    mc "Acho que eu preciso dar uma pausa."
 
 
 translate portuguese e12s03_7815b25d:
 
 
-    aw ""
+    aw "Aaa, qualé!"
 
 
 translate portuguese e12s03_42d765ec:
 
 
-    vw ""
+    vw "Eu também estou bem perto de sair."
 
 
 translate portuguese e12s03_dd5efe40:
 
 
-    aw ""
+    aw "Que chato."
 
 
 translate portuguese e12s03_717801fe:
 
 
-    vw ""
+    vw "Sabe o que seria bom? Um mojito."
 
 
 translate portuguese e12s03_c1cffff2:
 
 
-    aw ""
+    aw "Tá bom, isso seria menos chato."
 
 
 translate portuguese e12s03_2d70b688:
 
 
-    mc ""
+    mc "Então vou lá fazer uns drinks pra gente."
 
 
 translate portuguese e12s03_f7a40947:
 
 
-    vw ""
+    vw "Jájá eu vou lá te ajudar."
 
 
 translate portuguese e12s03_relax_fa9ed629:
 
 
-    mc ""
+    mc "Vou ter que me desculpar agora. Não faço ideia de como fazer um mojito."
 
 
 translate portuguese e12s03_relax_67eb991d:
 
 
-    vw ""
+    vw "Bem, parece que está certo!"
 
 
 translate portuguese e12s03_relax_ec272cb5:
 
 
-    vw ""
+    vw "Mas a aparência é a única coisa certa."
 
 
 translate portuguese e12s03_relax_c5c09466:
 
 
-    mc ""
+    mc "Ficou tão ruim assim?"
 
 
 translate portuguese e12s03_relax_209de5a9:
 
 
-    aw ""
+    aw "Meu Deus. Sim, ficou tão ruim."
 
 
 translate portuguese e12s03_relax_5cb82388:
 
 
-    mct ""
+    mct "Nossa, elas estão incríveis."
 
 
 translate portuguese e12s03_relax_abecc4dd:
 
 
-    mc ""
+    mc "Allison, você tá pensando no quê?"
 
 
 translate portuguese e12s03_relax_fdbee4d3:
 
 
-    aw ""
+    aw "A competição de caiaque."
 
 
 translate portuguese e12s03_relax_8af92ede:
 
 
-    vw ""
+    vw "Nervosa?"
 
 
 translate portuguese e12s03_relax_04f6c400:
 
 
-    aw ""
+    aw "Sim, um pouquinho."
 
 
 translate portuguese e12s03_relax_3b1c3e86:
 
 
-    mc ""
+    mc "Não fica. Você é uma ótima atleta, e vai deixar o pessoal comendo poeira. Ou engolindo água."
 
 
 translate portuguese e12s03_relax_58baaa26:
 
 
-    vw ""
+    vw "Você vai ser ótima, querida."
 
 
 translate portuguese e12s03_relax_23a7b6c6:
 
 
-    aw ""
+    aw "É que eu preciso treinar mais duro que já treinei na minha vida toda."
 
 
 translate portuguese e12s03_relax_64e0e67a:
 
 
-    mc ""
+    mc "A gente tá aqui pra te ajudar. Vamos te colocar num esquema de treino."
 
 
 translate portuguese e12s03_relax_eb6ef4f8:
 
 
-    vw ""
+    vw "E vamos fazer você entrar numa dieta para atletas. Eu adoraria fazer comida para minha filha de novo."
 
 
 translate portuguese e12s03_relax_c99ca55c:
 
 
-    vw ""
+    vw "E vamos fazer você entrar numa dieta para atletas. Eu adoraria fazer comida para você de novo."
 
 
 translate portuguese e12s03_relax_51b9e930:
 
 
-    mc ""
+    mc "A gente tá aqui pra te ajudar em tudo, Allison."
 
 
 translate portuguese e12s03_relax_db49d3ef:
 
 
-    aw ""
+    aw "Tudo?"
 
 
 translate portuguese e12s03_relax_472f16ac:
 
 
-    vw ""
+    vw "Qualquer coisa."
 
 
 translate portuguese e12s03_relax_e47cf3e0:
 
 
-    aw ""
+    aw "Tem uma coisa..."
 
 
 translate portuguese e12s03_relax_394ef713:
 
 
-    vw ""
+    vw "O quê?"
 
 
 translate portuguese e12s03_relax_0fda5456:
 
 
-    aw ""
+    aw "Acho que vocês não vão gostar."
 
 
 translate portuguese e12s03_relax_4201c708:
 
 
-    mc ""
+    mc "Allison, seja o que for, a gente vai te ajudar."
 
 
 translate portuguese e12s03_relax_6a17b7a1:
 
 
-    aw ""
+    aw "Acho que preciso dar uma pausa do sexo."
 
 
 translate portuguese e12s03_relax_5729c22f:
 
 
-    mc ""
+    mc "Uma o quê?"
 
 
 translate portuguese e12s03_relax_a74095b1:
 
 
-    aw ""
+    aw "Eu amo vocês dois. Tanto. E estando aqui, eu finalmente fiquei livre de tudo que me distrai."
 
 
 translate portuguese e12s03_relax_4697c525:
 
 
-    aw ""
+    aw "Exceto vocês dois. A gente faz \"tanto sexo\"."
 
 
 translate portuguese e12s03_relax_be75ea7e:
 
 
-    aw ""
+    aw "E é incrível. Toda. Bendita. Vez. Mas eu sei que no fundo isso tá me distraindo do treino."
 
 
 translate portuguese e12s03_relax_5d67c9a5:
 
 
-    aw ""
+    aw "E se eu quero fazer isso, se quero mesmo ter sucesso, preciso entrar de cabeça nessa competição."
 
 
 translate portuguese e12s03_relax_9342001b:
 
 
-    vw ""
+    vw "Eu pensei que você gostava de fazer sexo tanto quanto nós."
 
 
 translate portuguese e12s03_relax_3b4a18ba:
 
 
-    aw ""
+    aw "Eu gosto-"
 
 
 translate portuguese e12s03_relax_2c767951:
 
 
-    vw ""
+    vw "Tipo hoje de manhã quando eu lambi a sua bunda e o [mcname] enfiou o pau na sua garganta."
 
 
 translate portuguese e12s03_relax_aed69eac:
 
 
-    mc ""
+    mc "Ou quando eu te fodi por trás enquanto a Vanessa lambia o seu clitóris."
 
 
 translate portuguese e12s03_relax_3ef0ff08:
 
 
-    vw ""
+    vw "Ou quando você gozou no meu rosto enquanto o [mcname] me fodia."
 
 
 translate portuguese e12s03_relax_06e28df3:
 
 
-    mc ""
+    mc "Ou quando você usou uma cinta e a gente fodeu a sua mãe juntos."
 
 
 translate portuguese e12s03_relax_39377f8c:
 
 
-    mc ""
+    mc "Ou quando você usou uma cinta e a gente fodeu a Vanessa juntos."
 
 
 translate portuguese e12s03_relax_75bf9eb7:
 
 
-    aw ""
+    aw "Eu adoro! Adoro que a gente fode de manhã, de tarde e de noite."
 
 
 translate portuguese e12s03_relax_5090ba6f:
 
 
-    aw ""
+    aw "Se eu pudesse, só faria isso. Eu nuca gozei tanto na minha vida quanto aqui com vocês dois."
 
 
 translate portuguese e12s03_relax_6b599f7c:
 
 
-    aw ""
+    aw "Mas isso tá me distraindo do treino. E eu sei que eu vou me arrepender se não der uma pausa."
 
 
 translate portuguese e12s03_relax_67f70ec4:
 
 
-    aw ""
+    aw "Agora que cheguei aqui, eu sei que preciso fazer o que puder pra ganhar."
 
 
 translate portuguese e12s03_relax_e6ef3ea4:
 
 
-    mc ""
+    mc "A gente te disse que faria o que fosse possível pra te apoiar, Allison. Se é isso que você quer, vamos te apoiar."
 
 
 translate portuguese e12s03_relax_402f9492:
 
 
-    vw ""
+    vw "Tudo pelo seu sonho, Allison."
 
 
 translate portuguese e12s03_relax_08983cef:
 
 
-    aw ""
+    aw "Eu agradeço tanto, gente."
 
 
 translate portuguese e12s03_relax_c534ffec:
 
 
-    aw ""
+    aw "Hora de começar uma nova vida de atleta. Tenho que fazer uma revisão nums vídeos e ler uns livros."
 
 
 translate portuguese e12s03_relax_1a036185:
 
 
-    vw ""
+    vw "Tudo bem, amor. Eu vou entrar um pouco. Preciso começar a pensar na sua dieta."
 
 
 translate portuguese e12s03_relax_138ca5a4:
 
 
-    vw ""
+    vw "Precisamos te ensinar como fazer um mojito direito. Isso aqui quase não dá para beber."
 
 
 translate portuguese e12s03_relax_01745772:
 
 
-    mc ""
+    mc "Quer que eu leve lá pra dentro?"
 
 
 translate portuguese e12s03_relax_ef417fd6:
 
 
-    vw ""
+    vw "Eu disse '{i}quase{/i}' não dá para beber."
 
 
 translate portuguese e12s03_relax_a7b3fe21:
 
 
-    mc ""
+    mc "Tudo bem com você, Vanessa?"
 
 
 translate portuguese e12s03_relax_33dc87a8:
 
 
-    vw ""
+    vw "Sim. Eu não esperava isso da Allison."
 
 
 translate portuguese e12s03_relax_70b37912:
 
 
-    mc ""
+    mc "Somos dois."
 
 
 translate portuguese e12s03_relax_bb97fd0e:
 
 
-    vw ""
+    vw "Eu só quero que ela seja feliz."
 
 
 translate portuguese e12s03_relax_5010619c:
 
 
-    mc ""
+    mc "Você criou uma filha forte, Vanessa."
 
 
 translate portuguese e12s03_relax_23cc1103:
 
 
-    mc ""
+    mc "Você ajudou a criar uma mulher forte, Vanessa."
 
 
 translate portuguese e12s03_relax_0af06792:
 
 
-    mc ""
+    mc "Ela sabe o que quer e tá correndo atrás disso. Não tenho dúvidas que ela vai vencer essa competição."
 
 
 translate portuguese e12s03_relax_5bb36d97:
 
 
-    mc ""
+    mc "Se ela acha que sexo é uma distração, a gente vai ter que esperar um pouco."
 
 
 translate portuguese e12s03_relax_901f792c:
 
 
-    mc ""
+    mc "Essa competição vai acabar antes que a gente perceba."
 
 
 translate portuguese e12s03_relax_e8dba0b3:
 
 
-    vw ""
+    vw "Você sempre sabe como me alegrar."
 
 
 translate portuguese e12s03_relax_deecd8aa:
 
 
-    vw ""
+    vw "[mcname], você às vezes pensa no futuro?"
 
 
 translate portuguese e12s03_relax_881a439e:
 
 
-    mc ""
+    mc "Onde eu vou estar em dez anos?"
 
 
 translate portuguese e12s03_relax_994a32a9:
 
 
-    vw ""
+    vw "Allison disse que você nunca respondeu ela."
 
 
 translate portuguese e12s03_relax_a4635cf9:
 
 
-    mc ""
+    mc "Eu realmente não sei."
 
 
 translate portuguese e12s03_relax_f5037b28:
 
 
-    vw ""
+    vw "Não consegue ver um futuro com nós duas?"
 
 
 translate portuguese e12s03_relax_b724a4d4:
 
 
-    mc ""
+    mc "Não é isso. Se você tivesse me perguntado seis meses atrás se eu achava que ia estar numa ilha do Caribe com você e a Allison, eu não teria achado possível."
 
 
 translate portuguese e12s03_relax_0130bd86:
 
 
-    mc ""
+    mc "Mas aqui estou eu. A vida mudou bastante pra mim."
 
 
 translate portuguese e12s03_relax_05b6daa8:
 
 
-    mc ""
+    mc "Então eu não sei o que o futuro guarda pra mim. Porque eu já estaria tão errado."
 
 
 translate portuguese e12s03_relax_d867d572:
 
 
-    vw ""
+    vw "Bem, se você pudesse ter qualquer coisa, o que seria?"
 
 
 translate portuguese e12s03_relax_cc981ae7:
 
 
-    mc ""
+    mc "Acho que eu já tenho tudo que eu quero."
 
 
 translate portuguese e12s03_relax_7478a6d6:
 
 
-    vw ""
+    vw "Tudo?"
 
 
 translate portuguese e12s03_relax_2a7effc2:
 
 
-    mc ""
+    mc "O que mais eu posso querer?"
 
 
 translate portuguese e12s03_relax_4aba8a18:
 
 
-    vw ""
+    vw "Não sei. Que tal crianças?"
 
 
 translate portuguese e12s03_relax_883e5e7c:
 
 
-    mc ""
+    mc "Crianças?"
 
 
 translate portuguese e12s03_relax_6da04477:
 
 
-    vw ""
+    vw "Sim. Eu acho que quero ter crianças."
 
 
 translate portuguese e12s03_relax_3952b857:
 
 
-    vw ""
+    vw "Já tive muito tempo para pensar nisso. Tenho tantos arrependimentos criando a Allison. Quero tentar de novo. acho que dessa vez posso criar melhor uma criança."
 
 
 translate portuguese e12s03_relax_657428ef:
 
 
-    vw ""
+    vw "Já tive muito tempo para pensar nisso. Depois de ver a Allison crescendo... Eu acho que sei ser uma boa mãe agora."
 
 
 translate portuguese e12s03_relax_78487c45:
 
 
-    vw ""
+    vw "Especialmente se eu tenho você e a Allison comigo."
 
 
 translate portuguese e12s03_relax_be2d557f:
 
 
-    mc ""
+    mc "Eu adoaria ter uma criança com você."
 
 
 translate portuguese e12s03_relax_3976bcde:
 
 
-    vw ""
+    vw "Sério?"
 
 
 translate portuguese e12s03_relax_a427bdd7:
 
 
-    mc ""
+    mc "Sério. Eu acho que você é uma ótima mãe. Eu adoraria aumentar a nossa família."
 
 
 translate portuguese e12s03_relax_7767d784:
 
 
-    mc ""
+    mc "Sério. Eu acho que você daria uma ótima Mãe, Vanessa."
 
 
 translate portuguese e12s03_sex_79ed93b8:
 
 
-    vw ""
+    vw "[mcname], eu te amo."
 
 
 translate portuguese e12s03_sex_68021f86:
 
 
-    mc ""
+    mc "Eu também te amo, Vanessa."
 
 
 translate portuguese e12s03_sex_cfc89293:
 
 
-    vw ""
+    vw "Nossa, como isso é gostoso."
 
 
 translate portuguese e12s03_sex_95e51700:
 
 
-    vw ""
+    vw "Jesus, isso é incrível."
 
 
 translate portuguese e12s03_sex_45dece75:
 
 
-    vw ""
+    vw "Porra, que gostoso o seu dedo."
 
 
 translate portuguese e12s03_sex_32235e36:
 
 
-    vw ""
+    vw "Isso, continua. Assim mesmo."
 
 
 translate portuguese e12s03_sex_3c8db4e9:
 
 
-    vw ""
+    vw "*Geme* Vai, continua. Eu vou já gozar se continuar."
 
 
 translate portuguese e12s03_sex_757683db:
 
 
-    mct ""
+    mct "Caramba, esse cuzinho dela é tão apertado."
 
 
 translate portuguese e12s03_sex_43f0f2b7:
 
 
-    vw ""
+    vw "Os seus dedos estão me enchendo tanto."
 
 
 translate portuguese e12s03_sex_0f61572c:
 
 
-    vw ""
+    vw "*Geme* Isso, isso, isso! Eu estou tão perto, amor."
 
 
 translate portuguese e12s03_sex_dc461630:
 
 
-    vw ""
+    vw "Meu Deus."
 
 
 translate portuguese e12s03_sex_6a8e1e03:
 
 
-    vw ""
+    vw "Isso, isso, *geme*, ISSO. EU ESTOU GOZAAANDOOO!"
 
 
 translate portuguese e12s03_sex_ac821172:
 
 
-    vw ""
+    vw "Se você continuar brincando com o meu cuzinho assim, vai ter que meter nele qualquer dia desses."
 
 
 translate portuguese e12s03_sex_f49b0788:
 
 
-    mc ""
+    mc "Mas não hoje, hoje tenho outros planos pra você."
 
 
 translate portuguese e12s03_sex_90ec3a6d:
 
 
-    vw ""
+    vw "Espero que esse plano inclua enfiar em mim."
 
 
 translate portuguese e12s03_sex_10ff4545:
 
 
-    mc ""
+    mc "Acho que a gente sabe o que quer, pelo menos no futuro imediato."
 
 
 translate portuguese e12s03_sex_7d8cdddd:
 
 
-    vw ""
+    vw "*Geme* Dá para sentir você tão fundo."
 
 
 translate portuguese e12s03_sex_dceccdde:
 
 
-    vw ""
+    vw "Você está me enchendo."
 
 
 translate portuguese e12s03_sex_d66c72fa:
 
 
-    mct ""
+    mct "Eu sinto como se ela estivesse me sugando."
 
 
 translate portuguese e12s03_sex_47bf826b:
 
 
-    mc ""
+    mc "Porra, Vanessa. A sua boceta tá tão molhada agora."
 
 
 translate portuguese e12s03_sex_9eaa4522:
 
 
-    vw ""
+    vw "Só de pensar em você me dando um bebê me dá tanto tesão."
 
 
 translate portuguese e12s03_sex_54b6276a:
 
 
-    mc ""
+    mc "É mesmo? Só de pensar em eu encher você de porra te deixa molhadinha assim?"
 
 
 translate portuguese e12s03_sex_d17057c4:
 
 
-    vw ""
+    vw "Sim. *Geme* Fala mais."
 
 
 translate portuguese e12s03_sex_e899e03e:
 
 
-    mc ""
+    mc "Quer que eu ponha um filho em você? Jorrar a minha semente dentro de você?"
 
 
 translate portuguese e12s03_sex_adc5a686:
 
 
-    vw ""
+    vw "Aih, porra, [mcname]. Que gostoso."
 
 
 translate portuguese e12s03_sex_f3bd2c72:
 
 
-    mc ""
+    mc "Eu vou jorrar o meu sêmen fértil bem dentro de você."
 
 
 translate portuguese e12s03_sex_a8cdd9ca:
 
 
-    vw ""
+    vw "*Geme*"
 
 
 translate portuguese e12s03_sex_daa201ed:
 
 
-    mc ""
+    mc "Vou fazer a sua barriga ficar cheinha com a nossa criança."
 
 
 translate portuguese e12s03_sex_e825d1aa:
 
 
-    vw ""
+    vw "Porra, eu preciso sentir você mais fundo."
 
 
 translate portuguese e12s03_sex_52bc7379:
 
 
-    vw ""
+    vw "Enfia seu pau de novo e faz eu virar mãe."
 
 
 translate portuguese e12s03_sex_c9cc1600:
 
 
-    mct ""
+    mct "Eu não fazia ideia de como isso seria sexy."
 
 
 translate portuguese e12s03_sex_498f90db:
 
 
-    vw ""
+    vw "Nossa, você está tão fundo agora."
 
 
 translate portuguese e12s03_sex_30deee7a:
 
 
-    mc ""
+    mc "Consegue sentir o meu pau batendo no seu útero?"
 
 
 translate portuguese e12s03_sex_a8cdd9ca_1:
 
 
-    vw ""
+    vw "*Geme*"
 
 
 translate portuguese e12s03_sex_06e81229:
 
 
-    mc ""
+    mc "Imagina só. A sua barriga grávida, mondando em mim. Nosso bebê dentro de você."
 
 
 translate portuguese e12s03_sex_65267372:
 
 
-    vw ""
+    vw "Porra, continua."
 
 
 translate portuguese e12s03_sex_ff726f2e:
 
 
-    mc ""
+    mc "Os seus peitos batendo contra o seu corpo, pesados e cheios de leite."
 
 
 translate portuguese e12s03_sex_3ee0f84e:
 
 
-    vw ""
+    vw "Aih, porra! Mmm, eu adoro essa sensação."
 
 
 translate portuguese e12s03_sex_98457d26:
 
 
-    vw ""
+    vw "Você metendo em mim, o seu dedo empurrando contra o meu cuzinho."
 
 
 translate portuguese e12s03_sex_0046a287:
 
 
-    vw ""
+    vw "Porra, continua!"
 
 
 translate portuguese e12s03_sex_5faa6f74:
 
 
-    mc ""
+    mc "Talvez eu meta nesse seu cuzinho apertado quando você estiver grávida."
 
 
 translate portuguese e12s03_sex_8f5a0d4f:
 
 
-    vw ""
+    vw "Estou quase gozando. Porra, mete mais fundo."
 
 
 translate portuguese e12s03_sex_966b67a1:
 
 
-    mc ""
+    mc "Me mostra o quanto você quer isso."
 
 
 translate portuguese e12s03_sex_37480fd3:
 
 
-    mc ""
+    mc "Agora fala."
 
 
 translate portuguese e12s03_sex_61fd87b5:
 
 
-    vw ""
+    vw "Eu quero que você me engravide. Quero que me você ponha um bebê em mim. Quero fazer você virar pai."
 
 
 translate portuguese e12s03_sex_9252a214:
 
 
-    vw ""
+    vw "Dá para sentir o seu pau entrando tão fundo."
 
 
 translate portuguese e12s03_sex_cb962ae7:
 
 
-    vw ""
+    vw "Eu quero sentir o seu sêmen me enchendo."
 
 
 translate portuguese e12s03_sex_1befe1f7:
 
 
-    vw ""
+    vw "Poorrraa, quase lá."
 
 
 translate portuguese e12s03_sex_bf875181:
 
 
-    mc ""
+    mc "Eu também estou quase."
 
 
 translate portuguese e12s03_sex_1a0500a4:
 
 
-    vw ""
+    vw "Nem ouse tirar agora. Quero que você seja o pai da minha criança."
 
 
 translate portuguese e12s03_sex_efa74a4a:
 
 
-    vw ""
+    vw "Aaaaai, aaaih, porra. Não para. Quero sentir o seu sêmen quentinho dentro de mim."
 
 
 translate portuguese e12s03_sex_0ff5dfca:
 
 
-    vw ""
+    vw "Põe um filho em mim, quero um bebê aqui dentro."
 
 
 translate portuguese e12s03_sex_4172edf2:
 
 
-    vw ""
+    vw "Eu vou, porra, eu vou-"
 
 
 translate portuguese e12s03_sex_da578ebb:
 
 
-    mc ""
+    mc "Ah porra, tô gozando!"
 
 
 translate portuguese e12s03_sex_4e010527:
 
 
-    vw ""
+    vw "Goza dentro do meu útero! Eu vou fazer o que você quiser, só preciso que o seu sêmen fértil me engravide!"
 
 
 translate portuguese e12s03_sex_9fbfe51f:
 
 
-    vw ""
+    vw "Aaaih poooooooorraaa!"
 
 
 translate portuguese e12s03_sex_166624d9:
 
 
-    vw ""
+    vw "Nossa. Esse sexo foi um dos melhores que eu já fiz."
 
 
 translate portuguese e12s03_sex_68fce365:
 
 
-    mc ""
+    mc "Eu sei. Não pensei que você falando pra eu te engravidar fosse ser tão gostoso."
 
 
 translate portuguese e12s03_sex_86a4bcbf:
 
 
-    vw ""
+    vw "Nem eu. Vamos precisar fazer isso de novo."
 
 
 translate portuguese e12s03_sex_750b14c0:
 
 
-    mc ""
+    mc "Me dá uns dez minutos que dá."
 
 
 translate portuguese e12s03_sex_012a93bd:
 
 
-    vw ""
+    vw "Seu diabinho! Não podemos. Eu prometi a Allison que ia fazer uma comida."
 
 
 translate portuguese e12s03_sex_c0b8917b:
 
 
-    vw ""
+    vw "E eu preciso lavar toda essa areia."
 
 
 translate portuguese e12s03_sex_771c9b60:
 
 
-    mc ""
+    mc "Eu nem percebi que a gente estava coberto de areia."
 
 
 translate portuguese e12s03_sex_701cc629:
 
 
-    vw ""
+    vw "Você acha que pode ter me engravidado?"
 
 
 translate portuguese e12s03_sex_c5b104ff:
 
 
-    mc ""
+    mc "Talvez. Pra falar a verdade, eu tô é surpreso que eu não já te engravidei."
 
 
 translate portuguese e12s03_sex_cdd98db9:
 
 
-    vw ""
+    vw "Eu ainda consigo sentir o seu sêmen dentro de mim. Talvez dessa vez você tenha me engravidado de verdade."
 
 
 translate portuguese e12s03_sex_3da00167:
 
 
-    mc ""
+    mc "Eu disse que precisava de dez minutos? 5 agora."
 
 
 translate portuguese e12s03_sex_4a53788f:
 
 
-    vw ""
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    vw "Ah, te aquieta. Só me abraça, e vamos ver pôr do sol antes de eu ir fazer a janta."
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

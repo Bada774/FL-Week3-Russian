@@ -66,18 +66,14 @@ label e02s03:
     scene e02s03-11 mc-mh-eat11_c1 with dissolve
     play voice2 mc_yes_yeah2 noloop
     mc "Totally. But you know me. I make friends easily."
-
     scene e02s03-10 mc-mh-eat10_c2 with dissolve
     play voice3 lissa_aga noloop
     mh "Yes, but games always help. You did not forget that without Secret Oral Santa, we might never have met."
-
     play voice2 mc_thinking_mmm3 noloop
     mc "Mmm. I don't think so."
-
     scene e02s03-11 mc-mh-eat11_c2 with dissolve
     play voice3 lissa_oh2 noloop
     mh "Oh? And why is that?"
-
     play sound sfx_plate_place1
     scene e02s03-12 mc-mh-eat12_c1 with dissolve
     play voice2 d1s5b_ehhh noloop volume 1.7
@@ -85,18 +81,14 @@ label e02s03:
     scene e02s03-12 mc-mh-eat12_c2 with dissolve
     play voice3 dahlia_happy_hmm1 noloop
     mh "Mmm, like we were meant to be."
-
     scene e02s03-18 mc-mh-ac-fc-eat18_c2 with dissolve
     mh "That's very sweet, [mcname]."
-
     play sound sfx_plate_place1
     scene e02s03-18-1 mc-mh-ac-fc-eat19_c2 with dissolve
     play voice3 lissa_ugu noloop
     mh "I think we would have found one another as well."
-
     scene e02s03-18-2 mc-mh-ac-fc-eat20_c2 with dissolve
     mh "Speaking of finding people."
-
     play sound sfx_cup_place1
     scene e02s03-19 mc-mh-ac-fc-talk1_c2 with dissolve
     play voice3 dahlia_thinking_hmm4 noloop
@@ -166,45 +158,37 @@ label e02s03:
     scene e02s03-29-2 mc-mh-ac-fc-handshake2_c2 with dissolve
     play voice4 claudie_thinking_hmm2 noloop
     ac "The pleasure is all mine."
-
     play sound sfx_kick3 volume 0.5
     scene e02s03-29-3 mc-mh-ac-fc-handshake3_c2 with dissolve
     play voice5 boy5_arrogant_hm noloop
     fc "So is this a pre-engagement trip? Or are you two here for the sessions?"
-
     scene e02s03-29-3 mc-mh-ac-fc-handshake3_c1 with dissolve
     play voice2 mc_scared_oh4 noloop
     mc "It's our first big trip together. It's been amazing."
     play voice3 lissa_ugu noloop
     mh "Mmhmm."
-
     scene e02s03-30 mc-mh-ac-fc-talk1_c2 with dissolve
     play voice5 boy5_disappointed_oh2 noloop
     fc "Ah, my mistake. I can see it now, that glow on you both."
     fc "Well I'm still happy to meet you, we came up here for-"
-
     scene e02s03-30 mc-mh-ac-fc-talk1_c1 with dissolve
     play voice4 claudie_angry_eh noloop
     ac "Frank!"
     ac "Don't bore our new friends."
-
     play voice5 boy5_disappointed_hmm noloop
     fc "I'm just saying, they're very cozy. I figured they didn't come up for the couples' therapy."
-
     scene e02s03-32 mc-mh-ac-fc-talk3_c1 with dissolve
     play voice3 lissa_thinking noloop volume 1.4
     mh "Therapy?"
     play voice4 claudie_yes_simple noloop
     ac "Ahem.. yes. It's the main part of why we came here."
     scene e02s03-32 mc-mh-ac-fc-talk3_c2 with dissolve
-
     play voice5 boy5_arrogant_yeah noloop
     fc "Yeah but it's not really true therapy. The therapist got hurt so it's unlikely they'll make it here."
     fc "But we talked to the other couples and have still been trying to... I don't know, to share and figure out solutions."
     scene e02s03-32 mc-mh-ac-fc-talk3_c1 with dissolve
     play voice3 dahlia_thinking_hmm2 noloop
     mh "Interesting."
-
     scene e02s03-33 mc-mh-ac-fc-talk4_c1 with dissolve
     play voice4 claudie_thinking_hmm1 noloop
     ac "You two are welcome to join us. We set another meeting for two days from now."
@@ -215,7 +199,6 @@ label e02s03:
     mh "Are you sure we wouldn't be imposing?"
     play voice2 mc_angry_huh2 noloop
     mct "Hmmm."
-
     scene e02s03-34 mc-mh-ac-fc-talk5_c2 with dissolve
     play voice5 boy5_no_high noloop
     fc "That's kind of you, but I think it would be fine. Especially if you met the other couples."
@@ -225,28 +208,23 @@ label e02s03:
     ac "Except for the stress that we haven't made any progress because we don't actually know what we're doing."
     play voice5 boy5_thinking_huh noloop
     fc "Well, we gotta get points for trying."
-
     play voice3 dahlia_thinking_mmm1 noloop
     mh "What do you talk about there?"
-
     scene e02s03-35 mc-mh-ac-fc-talk6_c2 with dissolve
     play voice5 boy5_arrogant_hah noloop
     fc "Anything that comes to mind, really."
     scene e02s03-36 mc-mh-ac-fc-talk7_c2 with dissolve
     play voice4 claudie_thinking_emm noloop
     ac "We try to focus on our problems, but well... then sometimes we only focus on those, instead of solutions."
-
     scene e02s03-36 mc-mh-ac-fc-talk7_c1 with dissolve
     play voice5 lissa_aga noloop
     mh "Well, if you really don't mind, we will think about stopping by."
     play voice2 d2s9_confused noloop
     mct "We will? I didn't picture Lyssa as a people watcher."
-
     scene e02s03-38 mc-mh-ac-fc-wink_c2 with dissolve
     play voice4 claudie_happy_yay noloop
     ac "Excellent."
     mct "Huh? Did Ashley just wink at me?"
-
     play sound sfx_heels_steps1 loop
     play sound3 sfx_heels_steps1
     scene e02s03-39 mc-mh-ac-fc-exit_c1 with dissolve
@@ -254,7 +232,6 @@ label e02s03:
     mc "*Whispers* Well this should be interesting."
     play voice3 lissa_laugh2 noloop
     mh "*Whispers* I was thinking the same thing."
-
     scene e02s03-39 mc-mh-ac-fc-exit_c2 with dissolve
     mh "*Whispers* Overall, I'm sure we'll just end up hanging out with them to help make their stay better since the therapist couldn't make it."
     mct "Even on a trip, Lyssa still likes to help people in need."
@@ -350,7 +327,6 @@ label replay_e02s03 hide:
     scene e02s03-51 mc-mh-bed_c2 with dissolve
     play voice2 mc_angry_hm1 noloop
     mc "I can live with that. Now come here..."
-
 
     $ Lovense.stop()
 
@@ -464,10 +440,10 @@ label replay_e02s03 hide:
     play voice3 lissa_moan2 noloop
     mh "You did."
     menu:
-        "I think I can make you cum again"(hint="e02s03m01c01") if True:
+        "I think I can make you cum again"(hint="e02s03m01c01"):
             $ e02s03_cum_again = True
             jump e02s03_cum_again
-        "That was amazing"(hint="e02s03m01c02") if True:
+        "That was amazing"(hint="e02s03m01c02"):
 
             jump e02s03_end
 
@@ -539,11 +515,11 @@ label e02s03_end:
     play voice3 dahlia_happy_hmm1 noloop
     mh "Mmm. After that, I'm sure I'll be dreaming of you, my love..."
 
-
     $ Lovense.stop()
 
     $ renpy.end_replay()
 
     stop music fadeout 3.5
     jump e02s04
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

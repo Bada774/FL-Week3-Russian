@@ -292,4 +292,5 @@ default persistent.has_e06 = True
 default persistent.has_e08 = True
 default persistent.has_e10 = True
 default persistent.has_e13 = True
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

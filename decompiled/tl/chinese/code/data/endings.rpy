@@ -179,4 +179,5 @@ translate chinese strings:
 
     old "E18 - Quartet"
     new "E18 - 四重奏"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

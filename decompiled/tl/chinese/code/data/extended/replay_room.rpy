@@ -312,13 +312,86 @@ translate chinese strings:
 
 
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "结局12：艾利森"
 
 
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "结局12：瓦妮莎"
 
 
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "结局14：波莉、诺拉和黛比"
+
+
+
+translate chinese strings:
+
+
+    old "Ending 11: Daisy & Janet"
+    new "结局11：黛西和珍妮特"
+
+
+    old "Ending 17: Dahlia & Room Service"
+    new "结局17：黛丽娅和客房服务"
+
+
+    old "Ending 17: Dahlia & Domina"
+    new "结局17：黛丽娅和主母"
+
+
+    old "Ending 17: Pregnant Dahlia"
+    new "结局17：怀孕的黛丽娅"
+
+
+
+translate chinese strings:
+
+
+    old "Ending 04: Lydia"
+    new "结局04：莉迪亚"
+
+
+    old "Ending 04: Lydia, Stacy & AmRose"
+    new "结局04：莉迪亚、史黛西和爱洛丝"
+
+
+    old "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "结局04：黛西、莉迪亚、史黛西和爱洛丝 "
+
+
+    old "Ending 04: Lyssa & Lydia"
+    new "结局04：丽莎和莉迪亚"
+
+
+    old "Ending 04: Lydia & Maria"
+    new "结局04：莉迪亚和玛丽亚"
+
+
+    old "Ending 04: Harem"
+    new "结局04：后宫"
+
+
+    old "Ending 07: AmRose"
+    new "结局07：爱洛丝"
+
+
+    old "Ending 07: Lydia"
+    new "结局07：莉迪亚"
+
+
+    old "Ending 07: Lydia & Domina"
+    new "结局07：莉迪亚和主母"
+
+
+    old "Ending 07: Lydia Gangbang"
+    new "结局07：莉迪亚轮奸"
+
+
+    old "Ending 07: Public Toilet"
+    new "结局07：公共厕所 "
+
+
+    old "Ending 07: Lydia & AmRose"
+    new "结局07：莉迪亚和爱洛丝"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

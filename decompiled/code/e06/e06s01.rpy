@@ -311,4 +311,5 @@ label e06s01:
 
     stop music fadeout 4.0
     jump e06s02
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

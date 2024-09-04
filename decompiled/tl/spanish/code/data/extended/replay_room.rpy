@@ -284,13 +284,86 @@ translate spanish strings:
 
 
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "Final 12: Allison"
 
 
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "Final 12: Vanessa"
 
 
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "Final 14: Polly, Nora y Debbie"
+
+
+
+translate spanish strings:
+
+
+    old "Ending 11: Daisy & Janet"
+    new "Final 11: Daisy y Janet"
+
+
+    old "Ending 17: Dahlia & Room Service"
+    new "Final 17: Dahlia y el servicio de habitaciones"
+
+
+    old "Ending 17: Dahlia & Domina"
+    new "Final 17: Dahlia y Domina"
+
+
+    old "Ending 17: Pregnant Dahlia"
+    new "Final 17: Dahlia embarazada"
+
+
+
+translate spanish strings:
+
+
+    old "Ending 04: Lydia"
+    new "Final 04: Lydia"
+
+
+    old "Ending 04: Lydia, Stacy & AmRose"
+    new "Final 04: Lydia, Stacy y AmRose"
+
+
+    old "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Final 04: Daisy, Lydia, Stacy y AmRose"
+
+
+    old "Ending 04: Lyssa & Lydia"
+    new "Final 04: Lyssa y Lydia"
+
+
+    old "Ending 04: Lydia & Maria"
+    new "Final 04: Lydia y Maria"
+
+
+    old "Ending 04: Harem"
+    new "Final 04: Harem"
+
+
+    old "Ending 07: AmRose"
+    new "Final 07: AmRose"
+
+
+    old "Ending 07: Lydia"
+    new "Final 07: Lydia"
+
+
+    old "Ending 07: Lydia & Domina"
+    new "Final 07: Lydia y Domina"
+
+
+    old "Ending 07: Lydia Gangbang"
+    new "Final 07: Lydia Gangbang"
+
+
+    old "Ending 07: Public Toilet"
+    new "Final 07: Baño público"
+
+
+    old "Ending 07: Lydia & AmRose"
+    new "Final 07: Lydia y AmRose"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

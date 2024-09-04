@@ -58,7 +58,7 @@ translate russian e06s03_7f7c2584:
 translate russian e06s03_d0254cf2:
 
     # mc "I'd like to see anyone ever try taking me away from you."
-    mc "Хотел бы я видеть что произойдёт с человеком, который попытается тебя у меня забрать."
+    mc "Хотел бы я видеть что произойдёт с человеком, который попытается забрать тебя у меня."
 
 # game/code/e06/e06s03.rpy:104
 translate russian e06s03_71a0942f:
@@ -94,7 +94,7 @@ translate russian e06s03_2a1b6bb8:
 translate russian e06s03_1401f5f5:
 
     # mc "This is not going to be a walk in the park."
-    mc "Это не будет как прогулка по парку."
+    mc "Это не будет прогулкой по парку."
 
 # game/code/e06/e06s03.rpy:121
 translate russian e06s03_6da6abd4:
@@ -166,7 +166,7 @@ translate russian e06s03_60ee095e:
 translate russian e06s03_d4c7d9e3:
 
     # mc "I'd bet you my last dollar that alcohol was involved in that message. Don't take them seriously."
-    mc "Я готов поставить свой последний доллар, что в этом послании был замешан алкоголь. Не воспринимай это всерьёз."
+    mc "Я готов поставить свой последний доллар, что этим посланием был руководил алкоголь. Не воспринимай это всерьёз."
 
 # game/code/e06/e06s03.rpy:149
 translate russian e06s03_2875e422:
@@ -196,13 +196,13 @@ translate russian e06s03_eddc5f02:
 translate russian e06s03_40a7ac38:
 
     # mc "Huh? No, she has a ticklish spot."
-    mc "Чего? Нет, она боится щекотки."
+    mc "Чего? Нет, у неё есть слабое щекоточное место."
 
 # game/code/e06/e06s03.rpy:159
 translate russian e06s03_1ed2c6f3:
 
     # mc "I touch her there, and she'll go weak in the knees."
-    mc "Если прикоснутся к ней там, у неё подкосятся колени."
+    mc "Стоит мне коснуться её там, как у неё подкосятся колени."
 
 # game/code/e06/e06s03.rpy:162
 translate russian e06s03_3f9e660c:
@@ -286,7 +286,7 @@ translate russian e06s03_e86af5ad:
 translate russian e06s03_3f1d299e:
 
     # arj "You have hardly replied to us in days, and you just waltz in here and wave at us?"
-    arj "Ты не отвечал нам уже несколько дней, и теперь ты просто сюда приходишь и просто нам машешь?"
+    arj "Ты не отвечал нам уже несколько дней, и теперь ты просто приходишь сюда и машешь нам ручкой?"
 
 # game/code/e06/e06s03.rpy:215
 translate russian e06s03_35db4599:
@@ -340,7 +340,7 @@ translate russian e06s03_54024e72:
 translate russian e06s03_d0b62d46:
 
     # arj "All I could think about was how people would react when they saw the photo of me."
-    arj "Всё, о чем я могла думать, это о том, как отреагируют люди, когда увидят мои фотографии."
+    arj "Всё, о чём я могла думать, это о том, как отреагируют люди, когда увидят мои фотографии."
 
 # game/code/e06/e06s03.rpy:236
 translate russian e06s03_9d94e82f:
@@ -424,7 +424,7 @@ translate russian e06s03_92c1d28f:
 translate russian e06s03_0668af91:
 
     # sy "[mcname] is a big boy, I know he can take care of himself."
-    sy "[mcname] взрослый мальчик, я знаю, что он может о себе позаботиться."
+    sy "[mcname] большой мальчик, я знаю, что он может о себе позаботиться."
 
 # game/code/e06/e06s03.rpy:273
 translate russian e06s03_d428c531:
@@ -442,7 +442,7 @@ translate russian e06s03_e0aa3777:
 translate russian e06s03_8147e47f:
 
     # arj "I bet."
-    arj "Действительно."
+    arj "Готова поспорить."
 
 # game/code/e06/e06s03.rpy:285
 translate russian e06s03_33cfffce:
@@ -472,7 +472,7 @@ translate russian e06s03_176560fe:
 translate russian e06s03_efdad690:
 
     # arj "When he found out, [mcname] told us almost immediately."
-    arj "Когда [mcname] об этом узнал, он почти сразу нам об этом рассказал."
+    arj "Когда об этом узнал [mcname], он почти сразу всё нам рассказал."
 
 # game/code/e06/e06s03.rpy:300
 translate russian e06s03_0f7c0542:
@@ -562,13 +562,13 @@ translate russian e06s03_f4633499:
 translate russian e06s03_ebae7157:
 
     # sy "We get it, Lydia screwed up, and you and AmRose have forgiven her."
-    sy "Мы поняли, Лидия облажалась, и ты с АмРоуз её простили."
+    sy "Мы поняли, Лидия облажалась, и вы с АмРоуз её простили."
 
 # game/code/e06/e06s03.rpy:357
 translate russian e06s03_22e913ec:
 
     # sy "But before there can be total forgiveness, there must be atonement!"
-    sy "Но прежде чем получить полное прощение, нужно искупиться!"
+    sy "Но прежде чем получить полное прощение, нужно искупить свои грехи!"
 
 # game/code/e06/e06s03.rpy:360
 translate russian e06s03_3d08d3a7:
@@ -586,13 +586,13 @@ translate russian e06s03_5038670e:
 translate russian e06s03_075af1e7:
 
     # lc "*Whispers*, And if this is what she needs from me to forgive me, I need to see it through"
-    lc "*шепчет* И если это то, что ей нужно чтобы меня простить, мне нужно довести это до конца."
+    lc "*шепчет* И если это то, что ей от меня нужно чтобы простить меня, мне нужно довести это до конца."
 
 # game/code/e06/e06s03.rpy:367
 translate russian e06s03_313bb945:
 
     # mc "*Whispers* Okay, just don't say I didn't warn you."
-    mc "*шепчет* Ладно, только не говори, что я тебя не предупреждал."
+    mc "*шепчет* Ладно, только не говори потом, что я тебя не предупреждал."
 
 # game/code/e06/e06s03.rpy:373
 translate russian e06s03_02b424f5:
@@ -628,7 +628,7 @@ translate russian e06s03_service_27032a6a:
 translate russian e06s03_service_ad3719a2:
 
     # sy "Don't make me overrule you."
-    sy "Не заставляй меня тебя отчитывать."
+    sy "Не заставляй меня отчитывать тебя."
 
 # game/code/e06/e06s03.rpy:415
 translate russian e06s03_service_5dcc1aa2:
@@ -670,7 +670,7 @@ translate russian e06s03_service_2b35b6fe:
 translate russian e06s03_service_a04ee837:
 
     # sy "Pssssst. [mcname], that's you."
-    sy "Пшшшшш. [mcname], это ты."
+    sy "Эй. [mcname], это ты."
 
 # game/code/e06/e06s03.rpy:439
 translate russian e06s03_service_fff3224f:
@@ -706,7 +706,7 @@ translate russian e06s03_service_ee29ec27:
 translate russian e06s03_service_7fbc65f1:
 
     # arj "Well, your Honor?"
-    arj "Ну, Ваша честь?"
+    arj "Ну что, Ваша честь?"
 
 # game/code/e06/e06s03.rpy:452
 translate russian e06s03_service_3bc300aa:
@@ -730,7 +730,7 @@ translate russian e06s03_service_afb30fb7:
 translate russian e06s03_service_0d42bb71:
 
     # mc "Service your Mistresses with your tongue. Show them how badly you wish to atone."
-    mc "Удовлетвори желания Госпож своим языком. Покажи им, как сильно ты хочешь искупить свою вину."
+    mc "Удовлетвори Госпож своим языком. Покажи им, как сильно ты хочешь искупить свою вину."
 
 # game/code/e06/e06s03.rpy:462
 translate russian e06s03_service_a5be4a41:
@@ -766,13 +766,13 @@ translate russian e06s03_service_1110a118:
 translate russian e06s03_service_a648420d:
 
     # sy "We can't have that can we?"
-    sy "Мы не можем этого позволить, не так ли?"
+    sy "Мы не можем это так оставить, не так ли?"
 
 # game/code/e06/e06s03.rpy:502
 translate russian e06s03_service_fa904c00:
 
     # sy "Your Mistress wants her beaver cleaned, she doesn't want you to just tickle her folds."
-    sy "Твоя Госпожа хочет, чтобы ты вычистила всю её промежность, она не хочет, чтобы ты просто щекотала её складочки."
+    sy "Твоя Госпожа хочет, чтобы ты вычистила всю её промежность, она не хочет, чтобы ты просто пощекотала её складочки."
 
 # game/code/e06/e06s03.rpy:503
 translate russian e06s03_service_2fd08782:
@@ -1000,7 +1000,7 @@ translate russian e06s03_bj_52999c32:
 translate russian e06s03_bj_6d4b2e35:
 
     # sy "It feels like I'm touching an open flame."
-    sy "Будто я прикасаюсь к открытому огню."
+    sy "Я как будто прикасаюсь к открытому огню."
 
 # game/code/e06/e06s03.rpy:649
 translate russian e06s03_bj_7585c07b:
@@ -1126,7 +1126,7 @@ translate russian e06s03_sex_bed_51a6cbf0:
 translate russian e06s03_sex_bed_bb846fd5:
 
     # mct "These three... draining my balls whenever I want."
-    mct "Эти трое... осушат мои яйца в любой момент, когда я только захочу."
+    mct "Эти трое... готовы осушить мои яйца, в любой момент, когда я только захочу."
 
 # game/code/e06/e06s03.rpy:718
 translate russian e06s03_sex_bed_95d40fd0:
@@ -1150,7 +1150,7 @@ translate russian e06s03_sex_bed_0e9ef0e3:
 translate russian e06s03_sex_bed_119e25c6:
 
     # mc "I'm glad you know your place."
-    mc "Я рад, что ты знаешь свое место."
+    mc "Я рад, что ты знаешь своё место."
 
 # game/code/e06/e06s03.rpy:738
 translate russian e06s03_sex_bed_3dc87386:
@@ -1180,7 +1180,7 @@ translate russian e06s03_sex_bed_ef00f982:
 translate russian e06s03_sex_bed_728023a3:
 
     # sy "Yeah! Science, Bitch!"
-    sy "Да! Это наука, сучки!\n\n{size=-10}{i}(Отсылка к сериалу \"Во все тяжкие\"){/i}{/size}"
+    sy "Да! Это наука, сучки!\n\n{size=-10}{i}Отсылка к сериалу \"Во все тяжкие\".{/i}{/size}"
 
 # game/code/e06/e06s03.rpy:747
 translate russian e06s03_sex_bed_ebfac050:
@@ -1240,7 +1240,7 @@ translate russian e06s03_sex_chair_arj_6c28cf88:
 translate russian e06s03_sex_chair_arj_042897da:
 
     # lc "Mmmrrrh... yes... every time you move, the scent gets stronger."
-    lc "Мммрррх... да... с каждым вашим движением этот аромат становится сильнее."
+    lc "Мммрррх... да... с каждым вашим движением этот аромат становится всё сильнее."
 
 # game/code/e06/e06s03.rpy:795
 translate russian e06s03_sex_chair_arj_607ff8d2:
@@ -1282,7 +1282,7 @@ translate russian e06s03_sex_chair_arj_d029452d:
 translate russian e06s03_sex_chair_arj_59fd9fc2:
 
     # mc "No worries. Everyone here who wants to be nice and full will get the chance."
-    mc "Не волнуйся. Каждый, кто хочет хочет быть послушной и заполненной, получит свой шанс."
+    mc "Не волнуйся. Каждый, кто хочет быть послушной и заполненной, получит свой шанс."
 
 # game/code/e06/e06s03.rpy:814
 translate russian e06s03_sex_chair_arj_041469db:
@@ -1324,7 +1324,7 @@ translate russian e06s03_sex_chair_arj_c0187d5d:
 translate russian e06s03_sex_chair_arj_8d985b3d:
 
     # lc "I can... Muuah... Oh [mcname]... It looks like you're getting bigger inside her."
-    lc "Я могу... Мууах... О, [mcname]... Похоже, ты становишься больше."
+    lc "Я могу... Мууах... О, [mcname]... Кажется, ты становишься больше."
 
 # game/code/e06/e06s03.rpy:856
 translate russian e06s03_sex_chair_arj_4c25762e:
@@ -1468,7 +1468,7 @@ translate russian e06s03_sex_chair_sy_8b689d95:
 translate russian e06s03_sex_chair_sy_4bfd98c9:
 
     # mc "What do you two say?"
-    mc "А вы что скажете?"
+    mc "Что вы на это скажете?"
 
 # game/code/e06/e06s03.rpy:930
 translate russian e06s03_sex_chair_sy_791988fc:
@@ -1492,7 +1492,7 @@ translate russian e06s03_sex_chair_sy_bc955a7b:
 translate russian e06s03_sex_chair_sy_042dbffb:
 
     # sy "*Moaning louder* Maybe just a little. I like a challenge, and watching you cave... it would be rich!"
-    sy "*стонет громче* Ну, может быть совсем чуть-чуть. Мне нравится бросать вызов, и смотреть, как ты сдаёшься... это было бы здорово!"
+    sy "*стонет громче* Ну, может быть совсем чуть-чуть. Мне нравится бросать тебе вызов, и смотреть, как ты сдаёшься... это было бы здорово!"
 
 # game/code/e06/e06s03.rpy:941
 translate russian e06s03_sex_chair_sy_cb0a1a62:
@@ -1660,19 +1660,19 @@ translate russian e06s03_sex_anal_14b523cf:
 translate russian e06s03_sex_anal_6a77af02:
 
     # mc "Fuck me, AmRose. You been doing kegel exercises or something?"
-    mc "Боже, АмРоуз. Ты делала упражнения Кегеля или что-то такое?\n\n{size=-10}{i}(Упражнения Кегеля - специальное упражнение, для тренировки мышц в области таза){/i}{/size}"
+    mc "Боже, АмРоуз. Ты делала упражнения Кегеля или что-то такое?\n\n{size=-10}{i}Упражнения Кегеля - специальное упражнение, для тренировки мышц в области таза.{/i}{/size}"
 
 # game/code/e06/e06s03.rpy:1045
 translate russian e06s03_sex_anal_1d22e379:
 
     # arj "It doesn't... oof... matter how tight I try to be."
-    arj "Это не... ох... неважно, важно то, насколько сильно я стараюсь быть тугой."
+    arj "Это не... ох... неважно, насколько сильно я стараюсь быть тугой."
 
 # game/code/e06/e06s03.rpy:1046
 translate russian e06s03_sex_anal_24aa1eee:
 
     # arj "Your cock always finds a way through."
-    arj "Твой член всегда находит проход."
+    arj "Твой член всегда находит путь внутрь."
 
 # game/code/e06/e06s03.rpy:1047
 translate russian e06s03_sex_anal_1b5eceb8:
@@ -1702,13 +1702,13 @@ translate russian e06s03_sex_anal_c57d2322:
 translate russian e06s03_sex_anal_40e9b84d:
 
     # sy "Each time you bottom out, her tongue slips deeper."
-    sy "Каждый раз, когда ты входишь глубже, её язык глубже проскальзывает."
+    sy "Каждый раз, когда ты входишь глубже, её язык проскальзывает глубже."
 
 # game/code/e06/e06s03.rpy:1080
 translate russian e06s03_sex_anal_ef6778fa:
 
     # sy "AmRose... you're going to make me... Ohuaaah... yes... YES!"
-    sy "АмРоуз... ты заставишь меня... Охуааах... да... ДА!"
+    sy "АмРоуз... ты сейчас заставишь меня... Охуааах... да... ДА!"
 
 # game/code/e06/e06s03.rpy:1083
 translate russian e06s03_sex_anal_6982ab5e:

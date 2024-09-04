@@ -303,7 +303,6 @@ label d15s06_house:
     scene d15s06-05_mc_mh_montage with dissolve
     pause
 
-
     $ Lovense.stop()
 
     play sound maria_kiss2
@@ -455,7 +454,7 @@ label d15s06_house:
         mh "I want to make you feel good, Sir."
 
     menu:
-        "Let her eat your ass"(hint="d15s06m01c01") if True:
+        "Let her eat your ass"(hint="d15s06m01c01"):
             $ d15s06_asslicked = True
             $ d15s06_points += 3
 
@@ -504,7 +503,7 @@ label d15s06_house:
                 mh "How was that?"
                 play voice2 mc_scared_oh4 noloop
                 mc "That...felt great."
-        "Don't"(hint="d15s06m01c02") if True:
+        "Don't"(hint="d15s06m01c02"):
 
             $ renpy.music.set_volume(0.5, 5.0, "music")
             scene d15s06-11 mc-mh-bedroom-ass-looking3_c3 with dissolve
@@ -528,7 +527,7 @@ label d15s06_house:
     elif True:
         mh "[mcname]... I want to fuck your ass."
     menu:
-        "Allow Lyssa to take your anal cherry"(hint="d15s06m02c01") if True:
+        "Allow Lyssa to take your anal cherry"(hint="d15s06m02c01"):
             $ d15s06_assfucked = True
             $ d15s06_points += 6
 
@@ -634,14 +633,6 @@ label d15s06_house:
             $ Lovense.stop()
             $ Lovense.vibrate(7)
             window auto
-
-
-
-
-
-
-
-
 
             if cage_ntr is False:
                 scene d15s06-01-a4-2 mc-mh-sex-1-anim-4-2-01_i with dissolve
@@ -769,7 +760,7 @@ label d15s06_house:
             play voice2 mc_yes_yeah1 noloop
             mc "Yeah..."
             $ unlock_gallery_slot("scene", "d15s06")
-        "Don't"(hint="d15s06m02c02") if True:
+        "Don't"(hint="d15s06m02c02"):
 
             $ renpy.music.set_volume(0.5, 5.0, "music")
             scene d15s06-11 mc-mh-bedroom-ass-looking3_c3 with dissolve
@@ -902,9 +893,6 @@ label d15s06_pillowtalk:
         play voice3 lissa_shyoh noloop
         mh "Aw, that's sweet."
         mh "I think it might be good for you.{w}.. to branch out a little I mean."
-
-
-
         scene d15s06-32 mc-mh-bedroom-pillow-talk7_c3 with dissolve
         play voice3 lissa_haha noloop
         mh "I really like that about you. It'll be interesting to hear about at least."
@@ -932,12 +920,12 @@ label d15s06_pillowtalk:
     play voice3 lissa_moan2 noloop
     mh "I love you."
     menu:
-        "I love you too"(hint="d15s06m03c01") if True:
+        "I love you too"(hint="d15s06m03c01"):
             $ d15s06_luvutoo = True
             scene d15s06-32 mc-mh-bedroom-pillow-talk7_c3 with dissolve
             play voice2 d9s2_mcyes noloop
             mc "I love you too."
-        "Kiss her"(hint="d15s06m03c02") if True:
+        "Kiss her"(hint="d15s06m03c02"):
 
             pass
 
@@ -966,7 +954,6 @@ label d15s06_pillowtalk:
     mc "And made by the amazing Melissa Harris of all people? I really am a lucky man."
     play voice3 lissa_yes noloop
     mh "You really are.{w} Come on."
-
 
     $ Lovense.stop()
 
@@ -1271,4 +1258,5 @@ label d15s06_end:
     stop sound3 fadeout 3.0
 
     jump d15s07
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc

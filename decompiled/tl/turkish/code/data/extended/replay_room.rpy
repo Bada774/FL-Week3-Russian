@@ -216,7 +216,7 @@ translate turkish strings:
 
 
     old "Day 21: Fivesome"
-    new "Day 21: Fivesome"
+    new "21. Gün: Fivesome"
 
 
     old "Don't leave Maria"
@@ -279,18 +279,79 @@ translate turkish strings:
     new "Bitiş 10: Min & Nari"
 
 
-
-translate turkish strings:
-
-
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "12. Son: Allison"
 
 
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "12. Son: Vanessa"
 
 
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+    new "14.Son: Polly, Nora & Debbie"
+
+
+    old "Ending 11: Daisy & Janet"
+    new "11.Son: Daisy & Janet"
+
+
+    old "Ending 17: Dahlia & Room Service"
+    new "17. Son: Dahlia & Room Service"
+
+
+    old "Ending 17: Dahlia & Domina"
+    new "17. Son: Dahlia & Domina"
+
+
+    old "Ending 17: Pregnant Dahlia"
+    new "17. Son: Pregnant Dahlia"
+
+
+    old "Ending 04: Lydia"
+    new "Bitiş 04: Lydia"
+
+
+    old "Ending 04: Lydia, Stacy & AmRose"
+    new "Bitiş 04: Lydia, Stacy & AmRose"
+
+
+    old "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Bitiş 04: Daisy, Lydia, Stacy & AmRose"
+
+
+    old "Ending 04: Lyssa & Lydia"
+    new "Bitiş 04: Lyssa & Lydia"
+
+
+    old "Ending 04: Lydia & Maria"
+    new "Bitiş 04: Lydia & Maria"
+
+
+    old "Ending 04: Harem"
+    new "Bitiş 04: Harem"
+
+
+    old "Ending 07: AmRose"
+    new "Bitiş 07: AmRose"
+
+
+    old "Ending 07: Lydia"
+    new "Bitiş 07: Lydia"
+
+
+    old "Ending 07: Lydia & Domina"
+    new "Bitiş 07: Lydia & Domina"
+
+
+    old "Ending 07: Lydia Gangbang"
+    new "Bitiş 07: Lydia Gangbang"
+
+
+    old "Ending 07: Public Toilet"
+    new "Bitiş 07: Umumi Tuvalet"
+
+
+    old "Ending 07: Lydia & AmRose"
+    new "Bitiş 07: Lydia & AmRose"
+
+  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
