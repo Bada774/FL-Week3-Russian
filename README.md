@@ -4,7 +4,7 @@
 
 ![label](assets/label.png "label")
 
-<p align="center">Здесь вы можете найти <i>неофициальную</i> русскую локализацаю от <a href="https://steamcommunity.com/id/bada774">Bada774</a>
+<p align="center">Здесь вы можете найти <i>неофициальную</i> русскую локализацию от <a href="https://steamcommunity.com/id/bada774">Bada774</a>
 
 ---
 
