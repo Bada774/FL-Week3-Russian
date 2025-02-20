@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d21s06_a1ce140a:
 
 
@@ -1315,48 +1313,6 @@ translate portuguese d21s06_reboot_fl_00d7d5cb:
     sy "Então, qual nome você acha melhor?"
 
 
-translate portuguese d21s06_reboot_fl_334a8367:
-
-
-    sy "[fl_rebooted_name]."
-
-
-translate portuguese d21s06_reboot_fl_1923ec31:
-
-
-    sy "Esse seria um nome."
-
-
-translate portuguese d21s06_reboot_fl_db9edca0:
-
-
-    arj "Seria?"
-
-
-translate portuguese d21s06_reboot_fl_6ae37544:
-
-
-    sy "Pelo menos ele não falou Locate Fetish."
-
-
-translate portuguese d21s06_reboot_fl_acaa56d1:
-
-
-    sy "Locate Fetish? Sério???"
-
-
-translate portuguese d21s06_reboot_fl_f4d2de8b:
-
-
-    mc "Ei, se você não gosta, então pense numa alternativa. Caso contrário, não reclame."
-
-
-translate portuguese d21s06_reboot_fl_3efe3ff8:
-
-
-    sy "Eu não falei nada."
-
-
 translate portuguese d21s06_reboot_fl_2bad061a:
 
 
@@ -1615,12 +1571,6 @@ translate portuguese d21s06_reboot_fl_e8bc5c3f:
     sy "Você quer isso por escrito?"
 
 
-translate portuguese d21s06_reboot_fl_6d70e240:
-
-
-    arj "Tá bom, tá bom. Eu não acho que vocês tem más intenções como os desenvolvedores do Fetish Locator."
-
-
 translate portuguese d21s06_reboot_fl_e3616b15:
 
 
@@ -1649,12 +1599,6 @@ translate portuguese d21s06_reboot_fl_1e4e84ed:
 
 
     sy "Você pode ser mais específica? O que você não quer que aconteça de novo?"
-
-
-translate portuguese d21s06_reboot_fl_bec7bdda:
-
-
-    arj "Todos os pontos negativos que eu citei. Sem mentiras, enganação, manipulação."
 
 
 translate portuguese d21s06_reboot_fl_d3a6634e:
@@ -1735,12 +1679,6 @@ translate portuguese d21s06_reboot_fl_a0e38f39:
     arj "Ah, agora você vai me deixar corada."
 
 
-translate portuguese d21s06_reboot_fl_ad278b3d:
-
-
-    sy "Agora vamos começar a organizar os detalhes, e como vamos começar a conversar sobre como a gente vai trazer as primeiras pessoas."
-
-
 translate portuguese d21s06_reboot_fl_8db8be57:
 
 
@@ -1757,96 +1695,6 @@ translate portuguese d21s06_reboot_fl_9e70a3cd:
 
 
     mc "Então, onde temos que começar?"
-
-
-translate portuguese d21s06_reboot_fl_0d92e239:
-
-
-    mc "Você conhece alguém? Investidores?"
-
-
-translate portuguese d21s06_reboot_fl_0e58addf:
-
-
-    sy "Investidores?"
-
-
-translate portuguese d21s06_reboot_fl_f0aedc6b:
-
-
-    mc "Bom, pra começar um negócio, você teria que ter alguns, não?"
-
-
-translate portuguese d21s06_reboot_fl_3da9e714:
-
-
-    sy "Bem, inicialmente, eu estava pensando em ter um conteúdo antes de começar a empresa."
-
-
-translate portuguese d21s06_reboot_fl_018cbf7d:
-
-
-    sy "Criar uma reputação, entende?"
-
-
-translate portuguese d21s06_reboot_fl_192c5851:
-
-
-    mc "Isso se chama marketing."
-
-
-translate portuguese d21s06_reboot_fl_e45dc7f1:
-
-
-    sy "Sim, mas não esquece que nós somos a marca. Nós somos a empresa. A gente precisa começar a pensar em filmes que podemos fazer, aí podemos formar a empresa."
-
-
-translate portuguese d21s06_reboot_fl_3acfcab7:
-
-
-    mc "Legalmente falando."
-
-
-translate portuguese d21s06_reboot_fl_4e12a8be:
-
-
-    sy "É."
-
-
-translate portuguese d21s06_reboot_fl_a3a5f868:
-
-
-    sy "Vamos pensar num nome pro aplicativo."
-
-
-translate portuguese d21s06_reboot_fl_91c8e45d:
-
-
-    mc "Alguma ideia?"
-
-
-translate portuguese d21s06_reboot_fl_2af34ea1:
-
-
-    sy "Vou fazer um café, aí podemos ter um brainstorming."
-
-
-translate portuguese d21s06_reboot_fl_e5455d01:
-
-
-    sy "Que tal Zona Stacy's Bone Zone?"
-
-
-translate portuguese d21s06_reboot_fl_69033c5a:
-
-
-    sy "Ou Finder. É como aquele outro aplicativo, só que eu substituí a primeira letra com um F."
-
-
-translate portuguese d21s06_reboot_fl_593599a5:
-
-
-    mc "Vamos perguntar pra AmRose."
 
 
 translate portuguese d21s06_no_fl_2cd1dfd8:
@@ -1931,18 +1779,6 @@ translate portuguese d21s06_no_fl_6ec24262:
 
 
     sy "Tá bom."
-
-
-translate portuguese d21s06_no_fl_0772c775:
-
-
-    arj "[mcname]. Você quer vir comigo?"
-
-
-translate portuguese d21s06_no_fl_72d3767e:
-
-
-    mc "Ah, eu estava esperando falar um pouco com a Stacy. Você quer que eu te leve lá?"
 
 
 translate portuguese d21s06_no_fl_db3325ec:
@@ -2131,42 +1967,6 @@ translate portuguese d21s06_waterfall_4e10ecd5:
     arj "Bem, se for bem rápido."
 
 
-translate portuguese d21s06_waterfall_fabbae7d:
-
-
-    sy "Então, do que você queria falar?"
-
-
-translate portuguese d21s06_waterfall_3c70276f:
-
-
-    mc "Desde que estamos no tópico de começar um novo negócio, eu tinha uma proposta."
-
-
-translate portuguese d21s06_waterfall_a0ae5ef0:
-
-
-    arj "Eu te disse, não tô interessada no Fetish Locator!"
-
-
-translate portuguese d21s06_waterfall_301468b6:
-
-
-    mc "Não é isso, eu juro!"
-
-
-translate portuguese d21s06_waterfall_6c8a3e95:
-
-
-    sy "E esse negócio, o que é? Vai ser aqui?"
-
-
-translate portuguese d21s06_waterfall_ea280ad5:
-
-
-    mc "Não exatamente. Vai ser num lugar completamente diferente. Leste, ao invés de oeste."
-
-
 translate portuguese d21s06_waterfall_7ef67f79:
 
 
@@ -2239,12 +2039,6 @@ translate portuguese d21s06_waterfall_6612d04c:
     mes "Você pode ter percebido que o [mcname] e eu gostamos desse tipo de coisa."
 
 
-translate portuguese d21s06_waterfall_eeb65300:
-
-
-    sy "É, o evento principal da sua festa foi uma boa dica."
-
-
 translate portuguese d21s06_waterfall_7d45ad20:
 
 
@@ -2257,46 +2051,10 @@ translate portuguese d21s06_waterfall_ffe2788e:
     mes "A gente pensou em formar um spa."
 
 
-translate portuguese d21s06_waterfall_a1e01b67:
-
-
-    mes "Você gosta de esguichar, né?"
-
-
-translate portuguese d21s06_waterfall_17c9a9d8:
-
-
-    sy "Não tanto quanto você, mas sim."
-
-
 translate portuguese d21s06_waterfall_b11d2580:
 
 
     mes "Antes de seguirmos adiante, quero a sua opinião. Isso é algo que você quer fazer ou não?"
-
-
-translate portuguese d21s06_waterfall_d31e043e:
-
-
-    sy "É disso que estamos chamando??"
-
-
-translate portuguese d21s06_waterfall_2ece8a99:
-
-
-    mes "As pessoas estão procurando por uma experiência que vai suprir suas fantasias sexuais, e estamos aqui pra providenciar isso."
-
-
-translate portuguese d21s06_waterfall_ebab741e:
-
-
-    mc "Num spa?"
-
-
-translate portuguese d21s06_waterfall_fdcf3625:
-
-
-    mes "Sim."
 
 
 translate portuguese d21s06_waterfall_9705fa57:
@@ -2395,24 +2153,6 @@ translate portuguese d21s06_wellness_spa_8519df16:
     mes "Até que fiquem satisfeitos."
 
 
-translate portuguese d21s06_wellness_spa_a14fb21a:
-
-
-    arj "Quanto?"
-
-
-translate portuguese d21s06_wellness_spa_da2002db:
-
-
-    sy "Até ficarem satisfeitos, como a Min te disse."
-
-
-translate portuguese d21s06_wellness_spa_f308289e:
-
-
-    arj "Certo."
-
-
 translate portuguese d21s06_wellness_spa_690198d9:
 
 
@@ -2435,60 +2175,6 @@ translate portuguese d21s06_wellness_spa_8da06c74:
 
 
     mes "E muito mais."
-
-
-translate portuguese d21s06_wellness_spa_626aaba9:
-
-
-    sy "Venha um, venham todos; esse tipo de coisa?"
-
-
-translate portuguese d21s06_wellness_spa_74b1c957:
-
-
-    mes "É tudo opcional. As pessoas podem pagar pra aproveitar a experiência normal de um spa."
-
-
-translate portuguese d21s06_wellness_spa_c4ca3301:
-
-
-    mes "Elas não fariam ideia do que acontece do outro lado da parede."
-
-
-translate portuguese d21s06_wellness_spa_bea752a5:
-
-
-    mes "Você só vai descobrir se decidir participar com a gente."
-
-
-translate portuguese d21s06_wellness_spa_82dc0057:
-
-
-    mes "Todos vão se divertir o suficiente. Eu pensei nesse slogan. O que vocês acham?"
-
-
-translate portuguese d21s06_wellness_spa_3545488f:
-
-
-    mc "É um pouco seco."
-
-
-translate portuguese d21s06_wellness_spa_40d0b7e7:
-
-
-    mes "Essa é a ideia. Slogan seco, experiência molhada."
-
-
-translate portuguese d21s06_wellness_spa_9c3827ac:
-
-
-    mc "É um tanto... obscuro pros nossos propósitos, talvez?"
-
-
-translate portuguese d21s06_wellness_spa_907f9b61:
-
-
-    arj "Eu gostei?... tem contraste com o tema não-tradicional."
 
 
 translate portuguese d21s06_wellness_spa_5ea4823b:
@@ -2539,18 +2225,6 @@ translate portuguese d21s06_wellness_spa_8fbe034e:
     mes "Era isso ou Spa Esguicho. Esse teria sido óbvio demais."
 
 
-translate portuguese d21s06_wellness_spa_30f17f59:
-
-
-    mes "Se você tem alternativas, você pode pensar em alguma no futuro."
-
-
-translate portuguese d21s06_wellness_spa_20f6652d:
-
-
-    mes "Agora eu tô no processo de pensar num nome."
-
-
 translate portuguese d21s06_wellness_spa_ebbfb5a8:
 
 
@@ -2563,202 +2237,10 @@ translate portuguese d21s06_wellness_spa_08f69221:
     mes "Podemos fazer isso dar certo com uma injeção de capital. Nós conhecemos umas pessoas no campus que conseguiram fazer algo semelhante. Empréstimos e tal."
 
 
-translate portuguese d21s06_wellness_spa_936da8a3:
-
-
-    arj "Como anda o seu crédito?"
-
-
-translate portuguese d21s06_wellness_spa_81c2261b:
-
-
-    mc "O meu? Não consigo nem encontrar um apartamento."
-
-
-translate portuguese d21s06_wellness_spa_41e3722b:
-
-
-    arj "Você conseguiu. Mas não você. Eu quis dizer a Min."
-
-
-translate portuguese d21s06_wellness_spa_080a4b24:
-
-
-    mes "Meu crédito? Normal. Mas como eu disse, os investidores vão ajudar pra caramba. Talvez seja difícil, mas conseguir financiamento não é o nosso objetivo principal."
-
-
-translate portuguese d21s06_wellness_spa_20ebb525:
-
-
-    mes "Nosso objetivo principal é o spa."
-
-
 translate portuguese d21s06_wellness_spa_39ad58cf:
 
 
     sy "Ahm, parece complicado."
-
-
-translate portuguese d21s06_wellness_spa_5563f226:
-
-
-    arj "E é."
-
-
-translate portuguese d21s06_wellness_spa_26ee5270:
-
-
-    mc "Pra falar a verdade, vocês estão focando na coisa errada. É menos sobre o spa como um negócio pra fetiche de urina."
-
-
-translate portuguese d21s06_wellness_spa_50bfa3fd:
-
-
-    mc "É mais uma desculpa pra formar um harém imperial chinês."
-
-
-translate portuguese d21s06_wellness_spa_378f0c06:
-
-
-    mes "Eu sou coreana."
-
-
-translate portuguese d21s06_wellness_spa_5506f6cf:
-
-
-    mc "Eu sei, é como esse tipo de estrutura se chama."
-
-
-translate portuguese d21s06_wellness_spa_14702122:
-
-
-    mes "Eu pensei que harém fosse uma palavra árabe."
-
-
-translate portuguese d21s06_wellness_spa_54288f40:
-
-
-    mc "Provavelmente é, mas, ahm..."
-
-
-translate portuguese d21s06_wellness_spa_23cdc614:
-
-
-    mc "Deixa pra lá, do que eu estava falando mesmo?"
-
-
-translate portuguese d21s06_wellness_spa_c0683fe6:
-
-
-    mes "Você estava falando de sexo num ambiente profissional."
-
-
-translate portuguese d21s06_wellness_spa_e1acbb60:
-
-
-    mc "E não é sobre sexo?"
-
-
-translate portuguese d21s06_wellness_spa_36a29d41:
-
-
-    mes "Não. O spa é uma coisa profissional. Só que vai ter umas coisas a mais."
-
-
-translate portuguese d21s06_wellness_spa_e4b4e4a6:
-
-
-    mc "Ei, nós temos haréns aqui também."
-
-
-translate portuguese d21s06_wellness_spa_d461c933:
-
-
-    sy "Você quer se mudar pra algum lugar?"
-
-
-translate portuguese d21s06_wellness_spa_1bf1e07c:
-
-
-    mc "Não sei. Min, você quer montar esse negócio na Ásia?"
-
-
-translate portuguese d21s06_wellness_spa_b5098d8a:
-
-
-    mes "Não. Eles não permitiriam spas do formato que estamos propondo."
-
-
-translate portuguese d21s06_wellness_spa_a31340dd:
-
-
-    mc "Sério?"
-
-
-translate portuguese d21s06_wellness_spa_2da98b91:
-
-
-    mc "Eu não quis dizer isso."
-
-
-translate portuguese d21s06_wellness_spa_93902784:
-
-
-    mc "Beleza, então vai ser aqui em algum lugar. Algum lugar legal."
-
-
-translate portuguese d21s06_wellness_spa_efefd519:
-
-
-    sy "Quem são os investidores? Se não se importa com a pergunta."
-
-
-translate portuguese d21s06_wellness_spa_115dbcaf:
-
-
-    mes "Não decidimos isso ainda. O que fizemos foi decidir quem vamos trazer pra isso."
-
-
-translate portuguese d21s06_wellness_spa_7454332c:
-
-
-    mc "Na verdade, temos uma lista."
-
-
-translate portuguese d21s06_wellness_spa_2cd4c788:
-
-
-    mc "Só precisamos convencer eles."
-
-
-translate portuguese d21s06_wellness_spa_9bd64567:
-
-
-    mes "Espero que você tenha uma ideia. Vou dar uma saída."
-
-
-translate portuguese d21s06_wellness_spa_a437bdda:
-
-
-    mes "Tchau."
-
-
-translate portuguese d21s06_wellness_spa_2924e892:
-
-
-    sy "Então você vai mesmo fazer isso?"
-
-
-translate portuguese d21s06_wellness_spa_85107a33:
-
-
-    sy "Eu vou com você se tiver certeza que vai dar certo. Porque isso é uma séria decisão de vida."
-
-
-translate portuguese d21s06_wellness_spa_4dc9a4dc:
-
-
-    mc "Eu tô disposto a tentar!"
 
 translate portuguese strings:
 
@@ -2786,4 +2268,99 @@ translate portuguese strings:
     old "No, I have to give it more thought."
     new "Não, tenho que pensar mais um pouco."
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate portuguese d21s06_waterfall_0992f61d:
+
+
+    mc "Sim. Eu quero fazer isso com você, Min."
+
+
+translate portuguese d21s06_wellness_spa_2ece8a99:
+
+
+    mes "As pessoas estão atrás de uma experiência que satisfaça suas fantasias sexuais, e estamos aqui pra dar isso."
+
+
+translate portuguese d21s06_wellness_spa_8a7edf54:
+
+
+    mes "Essa não vai ser a parte difícil. A parte difícil vai ser preparar o prédio e criar uma base de clientes para ter lucro."
+
+
+translate portuguese d21s06_wellness_spa_699caa95:
+
+
+    arj "Sim. Desculpa [mcname], mas não posso entrar nessa com você. Pelo menos não ainda."
+
+
+translate portuguese d21s06_wellness_spa_c425dcb9:
+
+
+    arj "Tenho que terminar a faculdade."
+
+
+translate portuguese d21s06_wellness_spa_43c9e2c9:
+
+
+    mes "Faz sentido. Mas você ainda está dentro né, [mcname]?"
+
+
+translate portuguese d21s06_wellness_spa_5844ae44:
+
+
+    mc "Com certeza."
+
+
+translate portuguese d21s06_wellness_spa_591bfaae:
+
+
+    mes "Excelente. Então vou continuar o planejamento."
+
+
+translate portuguese d21s06_wellness_spa_dbcc212b:
+
+
+    mes "Acho bom você dar uma passada, aí a gente pode ver os detalhes."
+
+
+translate portuguese d21s06_wellness_spa_546d00c0:
+
+
+    mc "Já vou."
+
+
+translate portuguese d21s06_reboot_fl_6d5e9610:
+
+
+    mc "Vamos chamar de {w} {b}Fetish Locator Rebootado!{/b}"
+
+
+translate portuguese d21s06_reboot_fl_304163ca:
+
+
+    sy "Adorei."
+
+
+translate portuguese d21s06_reboot_fl_b23fc0ce:
+
+
+    arj "Perfeito. Direto ao ponto e fácil de entender."
+
+
+translate portuguese d21s06_reboot_fl_d0e75550:
+
+
+    arj "Tá bom, eu sei que vocês não têm más intenções que nem a Lydia."
+
+
+translate portuguese d21s06_reboot_fl_82e617fe:
+
+
+    arj "Todos os pontos negativos que eu disse. Sem mentiras. Sem enganação, e sem manipulação."
+
+
+translate portuguese d21s06_reboot_fl_041fcc70:
+
+
+    sy "Agora vamos ajustar os menores detalhes, tipo quem seriam as primeiras pessoas a trazer."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

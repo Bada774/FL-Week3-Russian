@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e14s07_c3ba4728:
 
 
@@ -1007,5 +1005,4 @@ translate deutsch strings:
 
     old "You have finished playing ending number 14!"
     new "Du hast Ende #14 gespielt!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

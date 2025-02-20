@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -354,4 +352,93 @@ translate turkish strings:
     old "Ending 07: Lydia & AmRose"
     new "Bitiş 07: Lydia & AmRose"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate turkish strings:
+
+
+    old "Ending 05: Oliver"
+    new "5. Son: Oliver"
+
+
+    old "Ending 05: Lyssa"
+    new "5. Son: Lyssa"
+
+
+    old "Ending 16: Jessie and Molly"
+    new "16. Son : Jessie ve Molly"
+
+
+    old "Ending 16: Jessie and Kanya"
+    new "16. Son: Jessie ve Kanya"
+
+
+    old "Ending 16: Sage and Kristen"
+    new "16. Son: Sage ve Kristen"
+
+
+    old "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "16. Son: Jessie, Molly, Sage & Kristen"
+
+translate turkish strings:
+
+
+    old "Ending 15: Min & Stacy"
+    new "15. Son: Min & Stacy"
+
+
+    old "Ending 15: Watersports"
+    new "15. Son: Su Sporları"
+
+
+    old "Ending 15: Olivia, Bell & Annie"
+    new "15.Son: Olivia, Bell & Annie"
+
+
+    old "Ending 15: Lyssa, Stacy & Gemma"
+    new "15. Son: Lyssa, Stacy & Gemma"
+
+
+    old "Ending 15: Min, Stacy & Olivia"
+    new "15. Son: Min, Stacy & Olivia"
+
+
+    old "Ending 18: Samiya, Dahlia & Pete"
+    new "18. Son: Samiya, Dahlia & Pete"
+
+
+    old "Ending 18: Quartet, Londyn & Kendell"
+    new "18. Son: Quartet, Londyn & Kendell"
+
+
+    old "Ending 18: Samiya"
+    new "18. Son: Samiya"
+
+translate turkish strings:
+
+
+    old "Ending 03: Lyssa & Stacy"
+    new "3. Son: Lyssa & Stacy"
+
+
+    old "Ending 03: Lyssa, Chiara & Stacy"
+    new "3. Son: Lyssa, Chiara & Stacy"
+
+
+    old "Ending 09: AmRose & Allison"
+    new "9. Son: AmRose & Allison"
+
+
+    old "Ending 09: Stacy, AmRose & Allison"
+    new "9. Son: Stacy, AmRose & Allison"
+
+
+    old "Ending 09: Hana & Londyn"
+    new "9. Son: Hana & Londyn"
+
+
+    old "Ending 09: Hana & Allison"
+    new "9. Son: Hana & Allison"
+
+
+    old "Ending 09: Party Girls"
+    new "9. Son: Parti Kızları"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

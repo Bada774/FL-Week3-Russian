@@ -1,6 +1,4 @@
 
-
-
 translate turkish e10s04_b53797f0:
 
 
@@ -388,6 +386,5 @@ translate turkish strings:
 
 
     old "Weeks later\nAt the end of Summer"
-    new "Haftalar sonra\\NYaz sonunda"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "Haftalar sonra\nYaz sonunda"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

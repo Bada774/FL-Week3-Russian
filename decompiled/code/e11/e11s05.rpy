@@ -159,7 +159,7 @@ label e11s05:
         dd "Put it all on Second Dozen"
     elif d19s04_dd_corner is True:
         dd "Everything I've got on the corner bet - 17, 18, 20, and 21!"
-    elif True:
+    else:
         dd "I'm putting it all on Seventeen!"
     play voice5 boy5_surprised_geez noloop
     "Sir Douchebag" "Holy Shit!"
@@ -524,5 +524,4 @@ label replay_e11s05:
 
     stop music fadeout 3.0
     jump e11s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

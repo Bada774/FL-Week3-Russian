@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e04s07_0939b90e:
 
 
@@ -2101,5 +2099,4 @@ translate portuguese strings:
 
     old "Don't piss on Prisoner 001"
     new "Não mijar na Prisioneira 001"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

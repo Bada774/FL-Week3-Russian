@@ -1,6 +1,4 @@
 
-
-
 translate korean d20s05_47e7cec6:
 
 
@@ -1351,5 +1349,4 @@ translate korean strings:
 
     old "Talk About Your Summer Plans"
     new "자신의 여름 계획에 관해 말한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

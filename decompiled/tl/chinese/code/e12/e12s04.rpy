@@ -1,6 +1,4 @@
 
-
-
 translate chinese e12s04_3fbd998c:
 
 
@@ -1507,5 +1505,4 @@ translate chinese strings:
 
     old "I'm good Vanessa."
     new "我很好，瓦妮莎"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

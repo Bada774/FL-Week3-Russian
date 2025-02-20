@@ -1,6 +1,4 @@
 
-
-
 translate spanish d16s03_dd526ff9:
 
 
@@ -2001,5 +1999,4 @@ translate spanish strings:
 
     old "Tell Lydia That You Enjoyed It As Well"
     new "Dile a Lydia que tú también lo disfrutaste"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

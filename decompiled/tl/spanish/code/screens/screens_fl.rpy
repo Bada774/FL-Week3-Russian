@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -230,8 +228,6 @@ translate spanish strings:
     old "Skip Recap\nof Week-2"
     new "Omitir resumen\nde la semana 2"
 
-
-
 translate spanish strings:
 
 
@@ -242,12 +238,77 @@ translate spanish strings:
     old "Close the game"
     new "Cerrar el juego"
 
-
-
 translate spanish strings:
 
 
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Si decides continuar, es posible que no puedas cargar los guardados de la Semana 2. No se te volverá a informar. ¿Estás seguro?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate spanish strings:
+
+
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sincroniza tus archivos de guardado con el servidor de sincronización de Ren'Py"
+
+
+    old "Upload Saves"
+    new "Cargar archivos guardados"
+
+
+    old "Download Saves"
+    new "Descargar archivos guardados"
+
+translate spanish strings:
+
+
+    old "Touch input supported"
+    new "Compatible con entrada táctil"
+
+
+    old "Navigation"
+    new "Navegación"
+
+
+    old "Pause Menu"
+    new "Menú de pausa"
+
+
+    old "Quick Save"
+    new "Guardado rápido"
+
+
+    old "Roll Back"
+    new "Retroceder"
+
+
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Seleccionar"
+
+
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Regresar"
+
+
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Saltar"
+
+
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Ocultar interfaz de usuario"
+
+
+    old "Roll Forward"
+    new "Avanzar"
+
+
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "Encontrará esta disposición en el menú {b}Ayuda{/b}."
+
+
+    old "CLOSE"
+    new "CERRAR"
+
+
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Obtén Taboo University Libro 1 en Steam{/u}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -3,7 +3,7 @@ label d15s08:
     if not hasattr(renpy.store, "d12s02_gavepass"):
         if hasattr(renpy.store, "d11s02_gavepass"):
             $ d12s02_gavepass = d11s02_gavepass
-        elif True:
+        else:
             $ d12s02_gavepass = False
 
     scene black
@@ -73,7 +73,7 @@ label d15s08:
     play voice3 stacy_oh noloop
     if is_antagonist_mode is False:
         sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
-    elif True:
+    else:
         sy "The business of saving the world from the horrors of Fetish Locator?"
     scene d15s08-07 mc-hr-sy-arj-talking with dissolve
     play voice2 mc_yes_yeah5 noloop
@@ -119,7 +119,7 @@ label d15s08:
         scene d15s08-17 mc-hr-sy-arj-talking with dissolve
         play voice4 amrose_angry_ergh noloop
         arj "I agree with Stacy."
-    elif True:
+    else:
         play voice2 mc_yes_yeah4 noloop
         mc "Yeah..."
     scene d15s08-19 mc-hr-sy-arj-talking with dissolve
@@ -392,7 +392,7 @@ label d15s08:
         play voice4 stacy_huh noloop
         if persistent.is_special is True:
             sy "What? I can't show a little affection to my brother?"
-        elif True:
+        else:
             sy "What? I can't show a little affection to my closest friend?"
         scene d15s08-45 mc-hr-sy-arj-talking with dissolve
         play voice2 mc_scared_oh4 noloop
@@ -441,7 +441,7 @@ label d15s08:
         arj "I mean, don't get me wrong. At first it was a hell of a shock."
         if persistent.is_special is True:
             arj "I mean, you fucked your sister. {w}You are fucking your sister."
-        elif True:
+        else:
             arj "I mean, you fucked Stacy. You two are fucking."
         arj "That's pretty shocking. Stacy isn't just another girl. You two are really important to each other."
 
@@ -455,7 +455,7 @@ label d15s08:
         play voice3 amrose_old_psst2 noloop
         if cage_ntr is True:
             arj "{i}{b}*whispers*{/b} I don't feel like it's a competition that maybe I'm losing.{/i}"
-        elif True:
+        else:
             arj "{i}{b}*whispers*{/b} Although, I am starting to like Lydia.{/i}"
         arj "I feel like Stacy and I can share you together."
         play voice2 mc_yes_okay1 noloop
@@ -522,7 +522,7 @@ label d15s08:
 
         $ unlock_gallery_slot("cg", "d15s08")
         stop music fadeout 3.0
-    elif True:
+    else:
 
         scene black with fade
         pause
@@ -574,5 +574,4 @@ label d15s08:
         stop voice2 fadeout 3.0
 
     jump d16s01
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

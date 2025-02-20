@@ -1,6 +1,4 @@
 
-
-
 translate turkish d15s07_a875bc2a:
 
 
@@ -1195,5 +1193,4 @@ translate turkish strings:
 
     old "I'm getting kinda bored of the watersports"
     new "Su sporlarından biraz sıkılmaya başladım"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

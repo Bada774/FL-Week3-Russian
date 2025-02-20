@@ -1,6 +1,4 @@
 
-
-
 translate italian d18s10_0b2e1d6b:
 
 
@@ -759,5 +757,4 @@ translate italian strings:
 
     old "Just Sex, a lot of Sex"
     new "Solo sesso, tanto sesso"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

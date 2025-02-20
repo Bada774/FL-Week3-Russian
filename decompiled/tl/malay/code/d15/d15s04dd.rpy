@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s04dd_ab7f1b7a:
 
 
@@ -917,8 +915,6 @@ translate malay strings:
     new "Jangan"
 
 
-
-
 translate malay d15s04dd_ff7b6382:
 
 
@@ -947,5 +943,4 @@ translate malay strings:
 
     old "1 hour later"
     new "Sejam kemudian"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

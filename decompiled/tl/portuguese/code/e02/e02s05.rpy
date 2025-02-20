@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e02s05_71d34fa3:
 
 
@@ -711,5 +709,4 @@ translate portuguese strings:
 
     old "Enjoy Your Vacation And Go Home"
     new "Aproveitar as Férias e Ir Para Casa"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

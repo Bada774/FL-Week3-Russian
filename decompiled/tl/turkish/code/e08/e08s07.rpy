@@ -1,6 +1,4 @@
 
-
-
 translate turkish e08s07_f90765bb:
 
 
@@ -953,5 +951,4 @@ translate turkish strings:
 
     old "You have finished playing Ending #08!"
     new "Bitiş #08'i oynamayı bitirdiniz!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

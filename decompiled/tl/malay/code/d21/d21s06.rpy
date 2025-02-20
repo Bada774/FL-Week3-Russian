@@ -1,6 +1,4 @@
 
-
-
 translate malay d21s06_a1ce140a:
 
 
@@ -1315,48 +1313,6 @@ translate malay d21s06_reboot_fl_00d7d5cb:
     sy "Jadi apa kita patut namakannya?"
 
 
-translate malay d21s06_reboot_fl_334a8367:
-
-
-    sy "[fl_rebooted_name]."
-
-
-translate malay d21s06_reboot_fl_1923ec31:
-
-
-    sy "Itulah namanya."
-
-
-translate malay d21s06_reboot_fl_db9edca0:
-
-
-    arj "Betul?"
-
-
-translate malay d21s06_reboot_fl_6ae37544:
-
-
-    sy "Sekurang-kurangnya dia tak namakannya Locate Fetish."
-
-
-translate malay d21s06_reboot_fl_acaa56d1:
-
-
-    sy "Locate Fetish? Betul???"
-
-
-translate malay d21s06_reboot_fl_f4d2de8b:
-
-
-    mc "Hey, kalau kau tak menyukainya, maka kau datang dengan alternatif. Kalau tak, jangan merungut."
-
-
-translate malay d21s06_reboot_fl_3efe3ff8:
-
-
-    sy "aku tak berkata apa-apa."
-
-
 translate malay d21s06_reboot_fl_2bad061a:
 
 
@@ -1615,12 +1571,6 @@ translate malay d21s06_reboot_fl_e8bc5c3f:
     sy "Kau nak ia dalam bentuk bertulis?"
 
 
-translate malay d21s06_reboot_fl_6d70e240:
-
-
-    arj "Okay, okay. Aku tak fikir korang semua mempunyai niat buruk seperti pemaju di belakang Fetish Locator."
-
-
 translate malay d21s06_reboot_fl_e3616b15:
 
 
@@ -1649,12 +1599,6 @@ translate malay d21s06_reboot_fl_1e4e84ed:
 
 
     sy "Boleh kau lebih spesifik sedikit? Apa yang kau tak nak berlaku lagi?"
-
-
-translate malay d21s06_reboot_fl_bec7bdda:
-
-
-    arj "Semua keburukan aku nyatakan. Tak kepada pembohongan, penipuan, manipulasi."
 
 
 translate malay d21s06_reboot_fl_d3a6634e:
@@ -1735,12 +1679,6 @@ translate malay d21s06_reboot_fl_a0e38f39:
     arj "Oh, sekarang kau akan buat aku tersipu-sipu."
 
 
-translate malay d21s06_reboot_fl_ad278b3d:
-
-
-    sy "Sekarang, mari kita mula menyusun beberapa butiran yang lebih baik, dan tentang cara kita mula bercakap tentang orang awal yang boleh kita berikan kepada tawaran ini."
-
-
 translate malay d21s06_reboot_fl_8db8be57:
 
 
@@ -1757,96 +1695,6 @@ translate malay d21s06_reboot_fl_9e70a3cd:
 
 
     mc "Jadi di mana kita harus bermula dahulu?"
-
-
-translate malay d21s06_reboot_fl_0d92e239:
-
-
-    mc "Kau kenal sesiapa? Ada pelabur ke?"
-
-
-translate malay d21s06_reboot_fl_0e58addf:
-
-
-    sy "Pelabur?"
-
-
-translate malay d21s06_reboot_fl_f0aedc6b:
-
-
-    mc "Untuk memulakan perniagaan, kau kena ada beberapa pelabur, bukan?"
-
-
-translate malay d21s06_reboot_fl_3da9e714:
-
-
-    sy "Baiklah, pada mulanya, aku berfikir tentang betul-betul ada beberapa kandungan terlebih dahulu sebelum kita memulakan syarikat."
-
-
-translate malay d21s06_reboot_fl_018cbf7d:
-
-
-    sy "Membina reputasi, kau tahu?"
-
-
-translate malay d21s06_reboot_fl_192c5851:
-
-
-    mc "Itu namanya pemasaran."
-
-
-translate malay d21s06_reboot_fl_e45dc7f1:
-
-
-    sy "Yeah, tapi kita adalah jenama, jangan lupa. Kita adalah syarikat. Jadi kita perlu mula memikirkan filem yang boleh kita rakam, dan kemudian kita boleh membentuk syarikat itu."
-
-
-translate malay d21s06_reboot_fl_3acfcab7:
-
-
-    mc "Dalam pengertian undang-undang."
-
-
-translate malay d21s06_reboot_fl_4e12a8be:
-
-
-    sy "Yeah."
-
-
-translate malay d21s06_reboot_fl_a3a5f868:
-
-
-    sy "Mari kita fikirkan nama untuk apl itu."
-
-
-translate malay d21s06_reboot_fl_91c8e45d:
-
-
-    mc "Ada idea?"
-
-
-translate malay d21s06_reboot_fl_2af34ea1:
-
-
-    sy "Aku akan buatkan kopi untuk kita sekejap."
-
-
-translate malay d21s06_reboot_fl_e5455d01:
-
-
-    sy "Bagaimana dengan Zon Tulang Stacy?"
-
-
-translate malay d21s06_reboot_fl_69033c5a:
-
-
-    sy "Atau Finder. Ia seperti aplikasi dating yang lain, kecuali saya menggantikan huruf pertama dengan F."
-
-
-translate malay d21s06_reboot_fl_593599a5:
-
-
-    mc "Mari bertanya AmRose."
 
 
 translate malay d21s06_no_fl_2cd1dfd8:
@@ -1931,18 +1779,6 @@ translate malay d21s06_no_fl_6ec24262:
 
 
     sy "Baiklah."
-
-
-translate malay d21s06_no_fl_0772c775:
-
-
-    arj "[mcname]. Aku nak ikut aku ke?"
-
-
-translate malay d21s06_no_fl_72d3767e:
-
-
-    mc "Oh, aku berharap untuk bercakap dengan Stacy sedikit. Kau nak aku bawa kau ke sana?"
 
 
 translate malay d21s06_no_fl_db3325ec:
@@ -2131,42 +1967,6 @@ translate malay d21s06_waterfall_4e10ecd5:
     arj "Baiklah, kalau ia betul-betul cepat."
 
 
-translate malay d21s06_waterfall_fabbae7d:
-
-
-    sy "Jadi apa yang kau nak bincangkan?"
-
-
-translate malay d21s06_waterfall_3c70276f:
-
-
-    mc "Memandangkan kita dalam topik memulakan perniagaan baru, aku ada cadangan."
-
-
-translate malay d21s06_waterfall_a0ae5ef0:
-
-
-    arj "Aku dah cakap, saya tak berminat dengan Fetish Locator!"
-
-
-translate malay d21s06_waterfall_301468b6:
-
-
-    mc "Bukan itu, aku sumpah."
-
-
-translate malay d21s06_waterfall_6c8a3e95:
-
-
-    sy "Dan perniagaan ini, apakah itu? Adakah ia akan berada di sini?"
-
-
-translate malay d21s06_waterfall_ea280ad5:
-
-
-    mc "Tak juga. Ia akan menuju ke arah yang sama sekali berbeza. Timur bukannya barat."
-
-
 translate malay d21s06_waterfall_7ef67f79:
 
 
@@ -2239,12 +2039,6 @@ translate malay d21s06_waterfall_6612d04c:
     mes "Kau mungkin perasan yang [mcname] dan aku meminati jenis perkara itu."
 
 
-translate malay d21s06_waterfall_eeb65300:
-
-
-    sy "Yeah, acara utama dalam parti kau adalah petunjuk besar."
-
-
 translate malay d21s06_waterfall_7d45ad20:
 
 
@@ -2257,46 +2051,10 @@ translate malay d21s06_waterfall_ffe2788e:
     mes "Kami sedang memikirkan tentang membentuk spa kesihatan."
 
 
-translate malay d21s06_waterfall_a1e01b67:
-
-
-    mes "Kau suka memancut, kan?"
-
-
-translate malay d21s06_waterfall_17c9a9d8:
-
-
-    sy "Bukan macam kau, tapi yeah."
-
-
 translate malay d21s06_waterfall_b11d2580:
 
 
     mes "Sebelum kita pergi lebih dalam, aku nak pendapat kau. Adakah ini sesuatu yang kau nak lakukan atau tak?"
-
-
-translate malay d21s06_waterfall_d31e043e:
-
-
-    sy "Adakah itu yang kita panggil?"
-
-
-translate malay d21s06_waterfall_2ece8a99:
-
-
-    mes "Orang ramai mencari pengalaman yang akan memenuhi fantasi seksual mereka, dan kami berada di sini untuk memberikannya kepada mereka."
-
-
-translate malay d21s06_waterfall_ebab741e:
-
-
-    mc "Di spa?"
-
-
-translate malay d21s06_waterfall_fdcf3625:
-
-
-    mes "Ya."
 
 
 translate malay d21s06_waterfall_9705fa57:
@@ -2395,24 +2153,6 @@ translate malay d21s06_wellness_spa_8519df16:
     mes "Sehingga mereka berpuas hati."
 
 
-translate malay d21s06_wellness_spa_a14fb21a:
-
-
-    arj "Berapa banyak?"
-
-
-translate malay d21s06_wellness_spa_da2002db:
-
-
-    sy "Sampai mereka puas hati, Min baru beritahu."
-
-
-translate malay d21s06_wellness_spa_f308289e:
-
-
-    arj "Betul."
-
-
 translate malay d21s06_wellness_spa_690198d9:
 
 
@@ -2435,60 +2175,6 @@ translate malay d21s06_wellness_spa_8da06c74:
 
 
     mes "Dan banyak lagi."
-
-
-translate malay d21s06_wellness_spa_626aaba9:
-
-
-    sy "Datang satu, datang semua; perkara semacam itu?"
-
-
-translate malay d21s06_wellness_spa_74b1c957:
-
-
-    mes "Semuanya pilihan. Orang ramai boleh membayar untuk menikmati pengalaman spa vanila."
-
-
-translate malay d21s06_wellness_spa_c4ca3301:
-
-
-    mes "Mereka tak akan tahu apa yang berlaku di sebelah."
-
-
-translate malay d21s06_wellness_spa_bea752a5:
-
-
-    mes "Kau hanya akan mengetahui kalau kau memilih untuk terbang bersama kami."
-
-
-translate malay d21s06_wellness_spa_82dc0057:
-
-
-    mes "Jumlah keseronokan yang betul akan dikecapi oleh semua. Aku mencipta slogan itu. Apa pendapat korang semua?"
-
-
-translate malay d21s06_wellness_spa_3545488f:
-
-
-    mc "Agak kering."
-
-
-translate malay d21s06_wellness_spa_40d0b7e7:
-
-
-    mes "Itulah maksudnya, slogan kering, pengalaman basah."
-
-
-translate malay d21s06_wellness_spa_9c3827ac:
-
-
-    mc "Sedikit... musykil untuk tujuan kita, mungkin?"
-
-
-translate malay d21s06_wellness_spa_907f9b61:
-
-
-    arj "Aku suka?... Berbeza dengan tema bukan tradisional."
 
 
 translate malay d21s06_wellness_spa_5ea4823b:
@@ -2539,18 +2225,6 @@ translate malay d21s06_wellness_spa_8fbe034e:
     mes "Ia sama ada itu atau Spa Pancut. Itu mungkin terlalu jelas."
 
 
-translate malay d21s06_wellness_spa_30f17f59:
-
-
-    mes "Kalau korang ada alternatif, korang boleh memikirkan beberapa pada masa hadapan."
-
-
-translate malay d21s06_wellness_spa_20f6652d:
-
-
-    mes "Sekarang adalah proses melontarkan idea."
-
-
 translate malay d21s06_wellness_spa_ebbfb5a8:
 
 
@@ -2563,202 +2237,10 @@ translate malay d21s06_wellness_spa_08f69221:
     mes "Kita boleh membuatnya berfungsi dengan suntikan modal. Kami mengenali beberapa orang di kampus yang mencapai sesuatu yang serupa. Pinjaman dan sebagainya."
 
 
-translate malay d21s06_wellness_spa_936da8a3:
-
-
-    arj "Macam mana dengan skor kredit kau?"
-
-
-translate malay d21s06_wellness_spa_81c2261b:
-
-
-    mc "Aku? Aku tak jumpa tempat pun."
-
-
-translate malay d21s06_wellness_spa_41e3722b:
-
-
-    arj "Kau ada. Maksud aku, Min."
-
-
-translate malay d21s06_wellness_spa_080a4b24:
-
-
-    mes "Skor kredit aku? Tak mengapa. Tapi macam yang aku katakan, pelabur akan membantu. Mungkin mengambil sedikit kerja, tapi mendapatkan pembiayaan bukanlah matlamat utama kami."
-
-
-translate malay d21s06_wellness_spa_20ebb525:
-
-
-    mes "Matlamat utama kami ialah spa."
-
-
 translate malay d21s06_wellness_spa_39ad58cf:
 
 
     sy "Uh, kedengaran rumit."
-
-
-translate malay d21s06_wellness_spa_5563f226:
-
-
-    arj "Ia adalah."
-
-
-translate malay d21s06_wellness_spa_26ee5270:
-
-
-    mc "Sejujurnya, korang semua memberi tumpuan kepada perkara yang salah. Ia kurang mengenai spa sebagai perniagaan sukan air."
-
-
-translate malay d21s06_wellness_spa_50bfa3fd:
-
-
-    mc "Lebih daripada alasan untuk membentuk harem Cina empayar."
-
-
-translate malay d21s06_wellness_spa_378f0c06:
-
-
-    mes "Aku orang Korea."
-
-
-translate malay d21s06_wellness_spa_5506f6cf:
-
-
-    mc "Aku tahu, itu hanya apa yang dipanggil strukturnya."
-
-
-translate malay d21s06_wellness_spa_14702122:
-
-
-    mes "Aku fikir harem adalah perkataan Arab."
-
-
-translate malay d21s06_wellness_spa_54288f40:
-
-
-    mc "Ianya mungkin, tapi, uh..."
-
-
-translate malay d21s06_wellness_spa_23cdc614:
-
-
-    mc "Tak apalah, apa yang aku cakap tadi?"
-
-
-translate malay d21s06_wellness_spa_c0683fe6:
-
-
-    mes "Kau membawa seks ke dalam suasana profesional."
-
-
-translate malay d21s06_wellness_spa_e1acbb60:
-
-
-    mc "Bukan tentang seks?"
-
-
-translate malay d21s06_wellness_spa_36a29d41:
-
-
-    mes "Tak. Spa ini dikendalikan secara profesional. Ia hanya akan mempunyai beberapa tambahan."
-
-
-translate malay d21s06_wellness_spa_e4b4e4a6:
-
-
-    mc "Hey, kami ada harem di sini juga."
-
-
-translate malay d21s06_wellness_spa_d461c933:
-
-
-    sy "Kau nak pindah tempat?"
-
-
-translate malay d21s06_wellness_spa_1bf1e07c:
-
-
-    mc "Aku tak pasti. Min, kau nak sediakan bisnes ini di Asia?"
-
-
-translate malay d21s06_wellness_spa_b5098d8a:
-
-
-    mes "Tak. Mereka tak akan benarkan spa apa yang kami cadangkan."
-
-
-translate malay d21s06_wellness_spa_a31340dd:
-
-
-    mc "Betul?"
-
-
-translate malay d21s06_wellness_spa_2da98b91:
-
-
-    mc "Aku tak bermaksud begitu."
-
-
-translate malay d21s06_wellness_spa_93902784:
-
-
-    mc "Baiklah, jadi ia akan berada di sekitar sini di suatu tempat. Di suatu tempat yang sah."
-
-
-translate malay d21s06_wellness_spa_efefd519:
-
-
-    sy "Siapa pelaburnya? Kalau kau tak kisah aku tanya."
-
-
-translate malay d21s06_wellness_spa_115dbcaf:
-
-
-    mes "Itu kami belum putuskan. Apa yang kami putuskan ialah siapa yang kami bawa bersama dengan ini."
-
-
-translate malay d21s06_wellness_spa_7454332c:
-
-
-    mc "Sebenarnya, kami ada senarai."
-
-
-translate malay d21s06_wellness_spa_2cd4c788:
-
-
-    mc "Kita hanya perlu yakinkan mereka untuk sertai."
-
-
-translate malay d21s06_wellness_spa_9bd64567:
-
-
-    mes "Aku harap kau ada idea. Aku pergi dulu."
-
-
-translate malay d21s06_wellness_spa_a437bdda:
-
-
-    mes "Bye."
-
-
-translate malay d21s06_wellness_spa_2924e892:
-
-
-    sy "Jadi kau betul-betul lakukan ini?"
-
-
-translate malay d21s06_wellness_spa_85107a33:
-
-
-    sy "Aku akan pergi dengan kau kalau kau pasti ini akan berjaya. Kerana ini adalah keputusan hidup yang serius."
-
-
-translate malay d21s06_wellness_spa_4dc9a4dc:
-
-
-    mc "Aku sanggup cuba!"
 
 translate malay strings:
 
@@ -2786,4 +2268,99 @@ translate malay strings:
     old "No, I have to give it more thought."
     new "Tidak, saya perlu memikirkannya."
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate malay d21s06_waterfall_0992f61d:
+
+
+    mc "Yes. I want to do this with you, Min."
+
+
+translate malay d21s06_wellness_spa_2ece8a99:
+
+
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+
+translate malay d21s06_wellness_spa_8a7edf54:
+
+
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+
+translate malay d21s06_wellness_spa_699caa95:
+
+
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+
+translate malay d21s06_wellness_spa_c425dcb9:
+
+
+    arj "I need to finish college."
+
+
+translate malay d21s06_wellness_spa_43c9e2c9:
+
+
+    mes "Understandable. But you're still in, right [mcname]?"
+
+
+translate malay d21s06_wellness_spa_5844ae44:
+
+
+    mc "Hell yeah."
+
+
+translate malay d21s06_wellness_spa_591bfaae:
+
+
+    mes "Excellent. Then I'm going to continue on the planning."
+
+
+translate malay d21s06_wellness_spa_dbcc212b:
+
+
+    mes "You should come over and we can start working on the details."
+
+
+translate malay d21s06_wellness_spa_546d00c0:
+
+
+    mc "I'll be right there."
+
+
+translate malay d21s06_reboot_fl_6d5e9610:
+
+
+    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+
+
+translate malay d21s06_reboot_fl_304163ca:
+
+
+    sy "I love it."
+
+
+translate malay d21s06_reboot_fl_b23fc0ce:
+
+
+    arj "It's perfect. On point and easy to understand."
+
+
+translate malay d21s06_reboot_fl_d0e75550:
+
+
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+
+
+translate malay d21s06_reboot_fl_82e617fe:
+
+
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+
+
+translate malay d21s06_reboot_fl_041fcc70:
+
+
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

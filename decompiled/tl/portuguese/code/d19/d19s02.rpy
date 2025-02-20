@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d19s02_0c7b4226:
 
 
@@ -767,19 +765,14 @@ translate portuguese strings:
     new "Ir até ela"
 
 
-
-
 translate portuguese d19s02_d138a5d3:
 
 
     mct "Esqueci de perguntar pra AmRose enquanto ela tá aqui."
 
 
-
-
 translate portuguese d19s02_b0400d74:
 
 
     mct "Eu vou aí"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d19s06_417adba7:
 
 
@@ -1035,5 +1033,4 @@ translate deutsch strings:
 
     old "Both Cynthia and Her Mother"
     new "Sowohl Cynthia als auch ihre Mutter"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

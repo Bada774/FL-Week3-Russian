@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -222,8 +220,6 @@ translate chinese strings:
     old "Ending 10: Min & Nari"
     new "结尾10：明和娜丽"
 
-
-
 translate chinese strings:
 
 
@@ -257,8 +253,6 @@ translate chinese strings:
 
     old "Ending 08: Pregnant AmRose"
     new "结局08：怀孕的爱洛丝"
-
-
 
 translate chinese strings:
 
@@ -306,8 +300,6 @@ translate chinese strings:
     old "Ending 06: Lydia"
     new "结局06：莉迪亚"
 
-
-
 translate chinese strings:
 
 
@@ -321,8 +313,6 @@ translate chinese strings:
 
     old "Ending 14: Polly, Nora & Debbie"
     new "结局14：波莉、诺拉和黛比"
-
-
 
 translate chinese strings:
 
@@ -341,8 +331,6 @@ translate chinese strings:
 
     old "Ending 17: Pregnant Dahlia"
     new "结局17：怀孕的黛丽娅"
-
-
 
 translate chinese strings:
 
@@ -394,4 +382,93 @@ translate chinese strings:
     old "Ending 07: Lydia & AmRose"
     new "结局07：莉迪亚和爱洛丝"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate chinese strings:
+
+
+    old "Ending 05: Oliver"
+    new "结局05：奥利弗"
+
+
+    old "Ending 05: Lyssa"
+    new "结局05：丽莎"
+
+
+    old "Ending 16: Jessie and Molly"
+    new "结局16：杰西和莫莉"
+
+
+    old "Ending 16: Jessie and Kanya"
+    new "结局16：杰西和康雅"
+
+
+    old "Ending 16: Sage and Kristen"
+    new "结局16：杰西和克里斯汀"
+
+
+    old "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "结局16：杰西、莫莉、赛奇和克里斯汀"
+
+translate chinese strings:
+
+
+    old "Ending 15: Min & Stacy"
+    new "结局15：明和史黛西"
+
+
+    old "Ending 15: Watersports"
+    new "结局15：水上运动"
+
+
+    old "Ending 15: Olivia, Bell & Annie"
+    new "结局15：奥利维亚、贝尔和安妮"
+
+
+    old "Ending 15: Lyssa, Stacy & Gemma"
+    new "结局15：丽莎、史黛西和杰玛"
+
+
+    old "Ending 15: Min, Stacy & Olivia"
+    new "结局15：明、史黛西和奥利维亚"
+
+
+    old "Ending 18: Samiya, Dahlia & Pete"
+    new "结局18：萨米亚、黛丽娅和皮特"
+
+
+    old "Ending 18: Quartet, Londyn & Kendell"
+    new "结局18：四重奏、朗迪恩和肯德尔"
+
+
+    old "Ending 18: Samiya"
+    new "结局18：萨米亚"
+
+translate chinese strings:
+
+
+    old "Ending 03: Lyssa & Stacy"
+    new "结局03：丽莎和史黛西"
+
+
+    old "Ending 03: Lyssa, Chiara & Stacy"
+    new "结局03：丽莎，琪娅拉和史黛西"
+
+
+    old "Ending 09: AmRose & Allison"
+    new "结局09：爱洛丝和艾莉森"
+
+
+    old "Ending 09: Stacy, AmRose & Allison"
+    new "结局09：史黛西、爱洛丝和艾莉森"
+
+
+    old "Ending 09: Hana & Londyn"
+    new "结局09：哈娜和朗迪恩"
+
+
+    old "Ending 09: Hana & Allison"
+    new "结局09：哈娜和艾莉森"
+
+
+    old "Ending 09: Party Girls"
+    new "结局09：派对女孩们"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

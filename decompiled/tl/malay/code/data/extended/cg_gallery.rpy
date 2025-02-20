@@ -1,5 +1,3 @@
-
-
 translate malay strings:
 
 
@@ -65,8 +63,6 @@ translate malay strings:
 
     old "Ending 13: Pregnant Nora"
     new "Pengakhiran 13: Nora Mengandung"
-
-
 
 translate malay strings:
 
@@ -154,8 +150,6 @@ translate malay strings:
     old "Ending 10: Min"
     new "Pengakhiran 10: Min"
 
-
-
 translate malay strings:
 
 
@@ -198,8 +192,6 @@ translate malay strings:
     old "Ending 08: AmRose & Stacy"
     new "Pengakhiran 08: AmRose Dan Stacy"
 
-
-
 translate malay strings:
 
 
@@ -209,8 +201,6 @@ translate malay strings:
 
     old "Ending 14: Polly & Nora"
     new "Pengakhiran 14: Polly Dan Nora"
-
-
 
 translate malay strings:
 
@@ -222,8 +212,6 @@ translate malay strings:
     old "Ending 17: Dahlia"
     new "Pengakhiran 17: Dahlia"
 
-
-
 translate malay strings:
 
 
@@ -234,4 +222,47 @@ translate malay strings:
     old "Ending 07: Girls"
     new "Ending 07: Girls"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate malay strings:
+
+
+    old "Ending 05: Lyssa & Oliver"
+    new "Ending 05: Lyssa & Oliver"
+
+
+    old "Ending 16: Jessie & Kanya"
+    new "Ending 16: Jessie & Kanya"
+
+
+    old "Ending 16: Farm Animals"
+    new "Ending 16: Farm Animals"
+
+translate malay strings:
+
+
+    old "Ending 03: Girls"
+    new "Ending 03: Girls"
+
+
+    old "Ending 09: Girls"
+    new "Ending 09: Girls"
+
+
+    old "Ending 09: Greek Goddesses"
+    new "Ending 09: Greek Goddesses"
+
+
+    old "Ending 15: Girls"
+    new "Ending 15: Girls"
+
+
+    old "Ending 18: Samiya & Dahlia"
+    new "Ending 18: Samiya & Dahlia"
+
+
+    old "Ending 18: Kendell & Londyn"
+    new "Ending 18: Kendell & Londyn"
+
+
+    old "Ending 18: Four Beauties"
+    new "Ending 18: Four Beauties"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate italian e08s01_40e3b63d:
 
 
@@ -1285,5 +1283,4 @@ translate italian strings:
 
     old "After watching tv for some time"
     new "Dopo aver guardato la tv per un  po'"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

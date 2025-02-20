@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s01_66e01943:
 
 
@@ -510,12 +508,9 @@ translate malay d16s01_fa3a59b5:
 
     sy "Sial betul."
 
-
-
 translate malay strings:
 
 
     old "Tuesday\nDay-16"
     new "Selasa\nHari-16"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

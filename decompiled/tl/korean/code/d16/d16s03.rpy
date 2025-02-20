@@ -1,6 +1,4 @@
 
-
-
 translate korean d16s03_dd526ff9:
 
 
@@ -2001,5 +1999,4 @@ translate korean strings:
 
     old "Tell Lydia That You Enjoyed It As Well"
     new "리디아에게 나도 즐거웠다고 말한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

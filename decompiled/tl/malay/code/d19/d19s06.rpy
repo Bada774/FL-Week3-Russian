@@ -1,6 +1,4 @@
 
-
-
 translate malay d19s06_417adba7:
 
 
@@ -1035,5 +1033,4 @@ translate malay strings:
 
     old "Both Cynthia and Her Mother"
     new "Cynthia dan Ibunya"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

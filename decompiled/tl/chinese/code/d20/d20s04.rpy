@@ -1,6 +1,4 @@
 
-
-
 translate chinese d20s04_63ba38f0:
 
 
@@ -1441,8 +1439,6 @@ translate chinese strings:
     new "说谎"
 
 
-
-
 translate chinese d20s04_zw_wrong_6a261f5c:
 
 
@@ -1459,5 +1455,4 @@ translate chinese strings:
 
     old "She was just visiting."
     new "她只是来玩的。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

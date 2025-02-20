@@ -815,5 +815,4 @@ label e10s01_final_sex:
     $ unlock_gallery_slot("scene", "e10s01")
 
     jump e10s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

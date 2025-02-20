@@ -43,7 +43,7 @@ label d18s02:
         sy "Barely, but I think we'll manage.{w} All due to my extraordinary genius of course."
         play voice2 mc_yes_yeah3 noloop
         mc "Right, right. I'll buy you some of that cookie dough ice cream you like after all this."
-    elif True:
+    else:
         play voice4 polly_aga noloop
         sy "Yep. We got plenty. Now we just need to turn it into something useful."
     scene d18s02-7 sy-arj-face3_c1 with dissolve
@@ -171,7 +171,7 @@ label d18s02:
         scene d18s02-21 arj-mc-bag1_c1 with dissolve
         play voice3 amrose_disappointed_ehh2 noloop
         arj "I love you. See you at lunch."
-    elif True:
+    else:
         scene d18s02-21 arj-mc-bag1_c1 with dissolve
     queue voice3 amrose_disappointed_oh4 noloop
     arj "Oh, and I'll tell Stacy to meet up after lunch as well!"
@@ -188,5 +188,4 @@ label d18s02:
 
     stop music fadeout 3.0
     jump d18s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

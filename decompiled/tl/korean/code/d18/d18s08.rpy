@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s08_2004fe1c:
 
 
@@ -269,5 +267,4 @@ translate korean d18s08_a2f0bfe0:
 
 
     hr "새로 왔다니 교수나 찾으러 가자. 낭비할 시간 없어."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

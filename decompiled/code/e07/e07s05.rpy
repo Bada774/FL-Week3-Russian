@@ -368,7 +368,7 @@ label e07s05_menu_return:
         lc "Which door are you going to pick first?"
     elif e07s05_menu_return == 4:
         jump e07s05_arj_pb_bj_cum
-    elif True:
+    else:
         play voice3 dahlia_arrogant_heh noloop
         lc "Which door is next, [e07_mcname!t]?"
     menu:
@@ -787,7 +787,7 @@ label e07s05_arj_pb_bj_1:
     play sound sfx_handjob_cream1 volume 2.0
     if e07s05_door_3 is True:
         arj "And I don't think they really need my help right now."
-    elif True:
+    else:
         arj "I already helped out the team, so..."
     play voice5 pete_surprised_oh1 noloop
     pb "Oh, oh shit. Okay, hell yeah. You can definitely suck my dick."
@@ -1054,7 +1054,7 @@ label e07s05_arj_pb_bj_cum:
 
     if e07s05_early_end is True:
         jump e07s05_early_end_2
-    elif True:
+    else:
         jump e07s05_grand_finale
 
 label e07s05_grand_finale:
@@ -1258,5 +1258,4 @@ label e07s05_win:
 
     stop music fadeout 3.0
     jump e07s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate malay after_credits_583c0fde:
 
 
@@ -589,8 +587,6 @@ translate malay after_credits_050e12e8:
     dd "Bagus kalau begitu..."
 
 
-
-
 translate malay buzz_4377a2f7:
 
 
@@ -613,8 +609,6 @@ translate malay metalknock2_40511e6c:
 
 
     "*ketuk ketuk*"
-
-
 
 translate malay strings:
 
@@ -693,5 +687,4 @@ translate malay after_credits_f4cf666b:
 
 
     sy "I can't wait to enjoy it with you."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

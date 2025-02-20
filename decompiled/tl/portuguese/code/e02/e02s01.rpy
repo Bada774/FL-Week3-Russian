@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e02s01_e6009a2c:
 
 
@@ -715,12 +713,6 @@ translate portuguese e02s01_hot_bath_75a144f0:
     mh "Hmm, acho que você está certo, estou ficando um tanto burguesa."
 
 
-translate portuguese e02s01_hot_bath_1ec01878:
-
-
-    mc "É verdade que se aprende mais sobre as pessoas durante adversidade."
-
-
 translate portuguese e02s01_hot_bath_47631e6c:
 
 
@@ -731,12 +723,6 @@ translate portuguese e02s01_hot_bath_454ecb0d:
 
 
     mc "Muito do quê?"
-
-
-translate portuguese e02s01_hot_bath_79bd615b:
-
-
-    mh "Adversidade."
 
 
 translate portuguese e02s01_hot_bath_d1f576cc:
@@ -1263,19 +1249,26 @@ translate portuguese strings:
     new "Satisfazer Lyssa"
 
 
-
-
 translate portuguese e02s01_give_pleasure_f7d6991f:
 
 
     mh "Me fode mais forte!"
 
-
-
 translate portuguese strings:
 
 
     old "Ending #2\nSnowy Peaks"
-    new "Ending #02\nSnowy Peaks"
+    new "Final #02\nSnowy Peaks"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate portuguese e02s01_hot_bath_d6431c08:
+
+
+    mc "É verdade que se aprende mais sobre as pessoas durante adversidade."
+
+
+translate portuguese e02s01_hot_bath_c527c472:
+
+
+    mh "Adversidade."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

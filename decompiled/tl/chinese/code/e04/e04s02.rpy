@@ -1,6 +1,4 @@
 
-
-
 translate chinese e04s02_c212447d:
 
 
@@ -857,5 +855,4 @@ translate chinese strings:
 
     old "What do you want Lydia to call you?"
     new "你想让莉迪亚怎么叫你？"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

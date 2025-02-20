@@ -1,6 +1,4 @@
 
-
-
 translate korean d17s05_de5c1d3a:
 
 
@@ -355,5 +353,4 @@ translate korean strings:
 
     old "Bring no one"
     new "누구도 데리고 가지 않는다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

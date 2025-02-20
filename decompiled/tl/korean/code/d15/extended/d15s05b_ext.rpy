@@ -1,6 +1,4 @@
 
-
-
 translate korean d15s05b_ext_247f8221:
 
 
@@ -2411,5 +2409,4 @@ translate korean strings:
 
     old "Say that is enough for today"
     new "오늘은 이걸로 충분하다고 말한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s01_f8914e3e:
 
 
@@ -1313,5 +1311,4 @@ translate korean strings:
 
     old "Thursday\nDay-18"
     new "목요일\n18일차"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

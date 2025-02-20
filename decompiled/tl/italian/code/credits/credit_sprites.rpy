@@ -1,5 +1,3 @@
-
-
 translate italian strings:
 
 
@@ -49,5 +47,4 @@ translate italian strings:
 
     old "We'll see you soon!"
     new "Ci vediamo presto!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

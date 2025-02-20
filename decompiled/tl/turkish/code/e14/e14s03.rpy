@@ -1,6 +1,4 @@
 
-
-
 translate turkish e14s03_60cf1b26:
 
 
@@ -616,7 +614,7 @@ translate turkish replay_e14s03_3827d03b:
 translate turkish replay_e14s03_ec672233:
 
 
-    pw "H-holy... oh holy shituaaah!"
+    pw "L-Lanet... oh lanet olsuntuaaah!"
 
 
 translate turkish replay_e14s03_91d8a70c:
@@ -766,7 +764,7 @@ translate turkish e14s03_let_pw_take_charge_35380ac4:
 translate turkish e14s03_let_pw_take_charge_29613640:
 
 
-    nk "I can't wait..."
+    nk "Sabırsızlanıyorum...."
 
 
 translate turkish e14s03_let_pw_take_charge_cffff662:
@@ -790,7 +788,7 @@ translate turkish e14s03_let_pw_take_charge_c7b58889:
 translate turkish e14s03_let_pw_take_charge_3404e4a7:
 
 
-    pw "*panting* Oh goddess."
+    pw "*nefes nefese* Oh tanrımm."
 
 
 translate turkish e14s03_let_pw_take_charge_8abc184d:
@@ -1301,5 +1299,4 @@ translate turkish strings:
 
     old "Take over for a bit"
     new "Bir süreliğine devral"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -647,7 +647,7 @@ label e17s04_impregnate:
         scene e17s04-a152-4-f with dissolve
         dw "Now's your chance. Take me. Break me. I'll never give you another chance."
         pause
-    elif True:
+    else:
         dw "Yes, that's it slave. Push every inch inside of me."
         dw "If you disappoint your Mistress now, I might just leave you at the hotel."
         scene e17s04-a152-2 with dissolve
@@ -743,7 +743,7 @@ label e17s04_impregnate:
         scene e17s04_173 la_catastrofe_dw_talk_pulls_leash with dissolve
         play voice3 dahlia_disappointed_ehh2 noloop
         dw "Don't make me regret this, worm."
-    elif True:
+    else:
         play sound3 sfx_sex_bodyslaps1
         scene e17s04-a159-2-f with dissolve
         mct "I must do better, or my Mistress will not be satisfied!"
@@ -973,5 +973,4 @@ label e17s04_end:
     stop sound fadeout 3.0
     stop music fadeout 3.0
     jump e17s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

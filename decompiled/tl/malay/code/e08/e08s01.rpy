@@ -1,6 +1,4 @@
 
-
-
 translate malay e08s01_40e3b63d:
 
 
@@ -1281,5 +1279,4 @@ translate malay strings:
 
     old "After watching tv for some time"
     new "After watching tv for some time"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

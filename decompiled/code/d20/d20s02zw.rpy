@@ -665,5 +665,4 @@ label d20s02zw_end:
 
     stop music fadeout 3.0
     jump d20s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

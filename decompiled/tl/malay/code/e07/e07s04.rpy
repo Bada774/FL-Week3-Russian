@@ -1,6 +1,4 @@
 
-
-
 translate malay e07s04_13ff1a58:
 
 
@@ -1059,5 +1057,4 @@ translate malay strings:
 
     old "Volunteer"
     new "Volunteer"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

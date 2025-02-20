@@ -24,7 +24,6 @@ label d19s01:
 
     if cage_ntr is False:
         jump d19s01lc
-    elif True:
+    else:
         jump d19s01ntr
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

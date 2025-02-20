@@ -187,7 +187,7 @@ label e12s04:
     play voice3 kanya_hey_attention noloop
     if persistent.is_special is True:
         aw "Hey [mcname]! Welcome home. Mom, think you'd be able to make me a protein shake?"
-    elif True:
+    else:
         aw "Hey [mcname]! Welcome home. Vanessa, think you'd be able to make me a protein shake?"
     scene e12s04_41 the_discovery_entering_vw_talk with dissolve
     play voice4 chloe_yes_simple noloop
@@ -274,7 +274,7 @@ label e12s04:
     play voice4 chloe_disappointed_oh noloop
     if persistent.is_special is True:
         vw "[mcname], am I losing my daughter again?"
-    elif True:
+    else:
         vw "[mcname], am I losing Allison again?"
     scene e12s04_70 the_discovery_vw_talks_teary with dissolve
     play voice4 allison_pain_sniff1 noloop
@@ -316,7 +316,7 @@ label e12s04:
         scene e12s04_81 the_discovery_aw_talks_taboo with dissolve
         play voice3 kanya_thinking_hmm3 noloop
         aw "Maybe I wanted to get pregnant at the same time as my mom."
-    elif True:
+    else:
         mc "Can you tell me what's bothering you? Vanessa is worried she's losing you."
         scene e12s04_81 the_discovery_aw_talks_taboo with dissolve
         play voice3 kanya_thinking_hmm3 noloop
@@ -330,7 +330,7 @@ label e12s04:
     if persistent.is_special is True:
         scene e12s04_84 the_discovery_aw_talks_exression softens with dissolve
         aw "When Mom held up that pregnancy test... I guess I realized that I wanted to have kids."
-    elif True:
+    else:
         scene e12s04_84 the_discovery_aw_talks_exression softens with dissolve
         aw "When Vanessa held up that pregnancy test... I guess I realized how much I actually want kids."
     scene e12s04_85 the_discovery_mc_talks_exression softens with dissolve
@@ -352,7 +352,7 @@ label e12s04:
     play voice3 kanya_happy_relief2 noloop
     if persistent.is_special is True:
         aw "I didn't expect you to knock up my Mom while I was on my sex break."
-    elif True:
+    else:
         aw "I didn't expect you to knock up Vanessa while I was on my sex break."
     scene e12s04_91 the_discovery_mc_talks with dissolve
     play voice2 mc_arrogant_heh3 noloop
@@ -383,7 +383,7 @@ label e12s04:
     if persistent.is_special is True:
         play voice3 kanya_disappointed_oof noloop
         aw "And now we just... Live together. Mom is pregnant without me. You two are fucking without me. All I do is train, train, train."
-    elif True:
+    else:
         play voice3 kanya_disappointed_oof noloop
         aw "And now we just... Live together. But Vanessa is pregnant and instead of having you pound my pussy until I can't walk, I'm just here, grinding away."
     scene e12s04_100 the_discovery_mc_talks_pacing with dissolve
@@ -431,7 +431,7 @@ label e12s04_sex:
     play voice3 kanya_no_nonono1 noloop
     if persistent.is_special is True:
         aw "It's okay, Mom."
-    elif True:
+    else:
         aw "It's okay, Vanessa."
     scene e12s04_113 the_discovery_vw_talks with dissolve
     play voice4 aaleyah_disappointed_mff2 noloop
@@ -555,7 +555,7 @@ label e12s04_sex:
     play voice3 kanya_sex_openmoans1
     if persistent.is_special is True:
         aw "God, God, just like that, Mom. Holy fuck."
-    elif True:
+    else:
         aw "God, God, just like that Vanessa. Holy fuck."
     scene e12s04_151 the_discovery_grab_deeper with dissolve
     pause
@@ -589,7 +589,7 @@ label e12s04_sex:
     play voice4 chloe_arrogant_huh noloop
     if persistent.is_special is True:
         vw "Better than your own mother?"
-    elif True:
+    else:
         vw "Better than me?"
     scene e12s04_162 the_discovery_aw_talks_squeeze_ass_taboo with dissolve
     aw "Mmmmm, I didn't say that."
@@ -612,7 +612,7 @@ label e12s04_sex:
     scene e12s04_169 the_discovery_aw_talks_grab_vw_hair with dissolve
     if persistent.is_special is True:
         aw "If you keep doing that, Mom. I'm going to."
-    elif True:
+    else:
         aw "If you keep doing that Vanessa, I'm going to."
     play voice3 kanya_sex_orgasm1 noloop
     stop voice2 fadeout 1.0
@@ -719,7 +719,7 @@ label e12s04_sex:
     play voice4 vanessa_moans
     if persistent.is_special is True:
         vw "Mmmm, be a good girl for mommy and don't stop! I'm so close."
-    elif True:
+    else:
         vw "Mmmm, be a good girl and keep going, I'm almost there."
     scene e12s04_196 the_discovery_threeway_vw_strokes_grinding_aw with dissolve
     pause
@@ -754,7 +754,7 @@ label e12s04_sex:
     play voice4 dahlia_old_laugh1 noloop
     if persistent.is_special is True:
         vw "I love watching you have sex with my daughter, [mcname]."
-    elif True:
+    else:
         vw "I love watching you two have sex."
     scene e12s04-a204-2 with dissolve
     aw "*Moans* Gooood, that feels so good!"
@@ -860,7 +860,7 @@ label e12s04_sex:
     play voice4 dahlia_disappointed_hmm2 noloop
     if persistent.is_special is True:
         vw "Make my baby girl cum again. I want to see it."
-    elif True:
+    else:
         vw "Make Allison cum, I want to see her face when she does."
     play voice3 kanya_sex_openmoans2
     scene e12s04_229 the_discovery_sex_aw_talk_behind_mc_fuck_faster with dissolve
@@ -981,7 +981,7 @@ label e12s04_sex:
         play voice3 kanya_surprised_oh noloop
         if persistent.is_special is True:
             aw "Oh shit. I'm sorry, Mom."
-        elif True:
+        else:
             aw "Oh shit, sorry Vanessa."
         scene e12s04_259 the_discovery_vw_talks with dissolve
         play voice4 chloe_no_nonono noloop
@@ -1148,7 +1148,7 @@ label e12s04_sex:
     play voice4 aaleyah_happy_mmm2 noloop
     if persistent.is_special is True:
         vw "Let your mommy clean that up for you."
-    elif True:
+    else:
         vw "Let me clean that up for you two."
     play voice4 aaleyah_sucking_soft
     scene e12s04_297 the_discovery_vw_lick with dissolve
@@ -1207,5 +1207,4 @@ label e12s04_end:
     $ renpy.end_replay()
 
     jump e12s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

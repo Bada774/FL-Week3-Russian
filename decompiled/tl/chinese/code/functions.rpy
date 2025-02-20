@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -30,12 +28,9 @@ translate chinese strings:
     old "You can only select one out of Daisy and Dahlia"
     new "你只能从黛西和黛丽娅中选择一人"
 
-
-
 translate chinese strings:
 
 
     old "You have unlocked Ending #{}"
     new "您已解锁结局#{}"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

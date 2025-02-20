@@ -1,6 +1,4 @@
 
-
-
 translate spanish e17s02_6edbf36c:
 
 
@@ -1457,5 +1455,4 @@ translate spanish strings:
 
     old "Mistress, I want only to serve you tonight"
     new "Señora, sólo quiero servirte esta noche."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

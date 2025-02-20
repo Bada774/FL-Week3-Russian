@@ -1,6 +1,4 @@
 
-
-
 translate spanish e14s07_c3ba4728:
 
 
@@ -1007,5 +1005,4 @@ translate spanish strings:
 
     old "You have finished playing ending number 14!"
     new "¡Has terminado de jugar el final n.° 14!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

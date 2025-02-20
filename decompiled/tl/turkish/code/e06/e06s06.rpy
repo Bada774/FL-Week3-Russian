@@ -1,6 +1,4 @@
 
-
-
 translate turkish e06s06_820294b7:
 
 
@@ -1251,5 +1249,4 @@ translate turkish strings:
 
     old "Fuck Lyssa while she fucks AmRose"
     new "AmRose'u sikerken Lyssa'yı sikeyim"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

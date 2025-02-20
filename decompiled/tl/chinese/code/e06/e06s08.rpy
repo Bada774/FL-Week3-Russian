@@ -1,6 +1,4 @@
 
-
-
 translate chinese e06s08_4a8802e8:
 
 
@@ -1905,22 +1903,16 @@ translate chinese strings:
     new "莉迪亚应该让丽莎性奋起来，给她吹箫"
 
 
-
-
 translate chinese d06s08_sy_4a9a11a2:
 
 
     sy "我想被你内射，[mcname!u]!!!"
-
-
 
 translate chinese strings:
 
 
     old "Lydia should Rim Lyssa's ass"
     new "莉迪亚应该给丽莎舔肛"
-
-
 
 
 translate chinese d06s08_mh_0aa48b5e:
@@ -1933,5 +1925,4 @@ translate chinese d06s08_mh_25ab182b:
 
 
     mh "哦哦哦哦....."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -80,7 +80,7 @@ label d21s07:
     play voice2 mc_arrogant_heh1 noloop
     if cage_ntr is True:
         mc "*whispers* I think we broke up. If we were ever really dating..."
-    elif True:
+    else:
         mc "*whispers* Did it ever occur to you that she might be telling the truth - from her point of view."
     scene d21s07-05 jdg-def-p-lc-hr-baf-mc-entry3_c5 with dissolve
     play voice3 hana_argh noloop
@@ -175,7 +175,7 @@ label d21s07:
         scene d21s07-14 jdg-def-p-lc-hr-baf-mc-grill5_c3 with dissolve
         play voice3 dahlia_disappointed_ehh3 noloop
         lc "Um...{w} Oh! Sometimes we watched videos while getting intimate. That's probably how my fingerprints got on that keyboard."
-    elif True:
+    else:
         lc "I did go to that room, but only after [mcname] told me about it. I was trying to shut it down!"
     scene d21s07-12 jdg-def-p-lc-hr-baf-mc-grill3_c2 with dissolve
     play voice5 pete_no_uhuh noloop
@@ -222,7 +222,7 @@ label d21s07:
         play voice2 mc_no_no5 noloop
         if lc_lc_guilty is True:
             mc "No, I'm too nauseous. I feel like I betrayed her."
-        elif True:
+        else:
             mc "No, I'm too worried about the verdict. I hope she's not guilty."
         scene d21s07-74 jdg-def-p-lc-hr-baf-mc-closing5_c5 with dissolve
         play voice3 hana_yeah2 noloop
@@ -238,7 +238,7 @@ label d21s07:
         mc "That's what I'm worried about."
 
         jump d21s07_closing
-    elif True:
+    else:
 
         scene d21s07-30 jdg-p-baf-mc-talk1_c4 with dissolve
         play voice4 aaleyah_happy_mmm2 noloop
@@ -251,7 +251,7 @@ label d21s07:
         jdg "We are going to take a 1 hour recess, then return for closing arguments."
         if d21s07_is_dungeon_available is True:
             jdg "[mcname] Young, please remain. Prosecutor, please remain as well."
-        elif True:
+        else:
             jdg "[mcname] Young, please remain."
         jdg "Bailiff, please escort everyone else out."
         play sound sfx_court_hammer1
@@ -262,7 +262,7 @@ label d21s07:
             jump d21s07_offer
         elif is_extended_edition is True and d18s11_surprise_jdg is True:
             jump d21s07_jdg_quickie
-        elif True:
+        else:
             scene d21s07-46 jdg-p-baf-mc-talk16_c2 with fade
             play voice2 mc_yes_yeah8 noloop
             mc "Yes, your honor? You wanted to see me?"
@@ -468,7 +468,7 @@ label d21s07_offer:
     if is_extended_edition is True and d18s11_surprise_jdg is True:
         jdg "While you decide...{w} don't mind me."
         jump d21s07_jdg_quickie
-    elif True:
+    else:
         jump d21s07_offer_p2
 
 label replay_d21s07:
@@ -611,7 +611,7 @@ label d21s07_jdg_quickie:
 
     if d21s07_is_dungeon_available is True:
         jump d21s07_offer_p2
-    elif True:
+    else:
         jump d21s07_closing
 
 label ending_04_return hide:
@@ -818,7 +818,7 @@ label d21s07_closing:
         scene d21s07-74 jdg-def-p-lc-hr-baf-mc-closing5_c1 with dissolve
         play voice2 d9s2_yeah noloop volume 2.0
         mc "Fair enough."
-    elif True:
+    else:
         scene d21s07-97 lc-mc-queen11_c1 with dissolve
         play voice4 aaleyah_angry_hm1 noloop
         jdg "Jerome Skinner, I find you Guilty on all charges."
@@ -868,7 +868,7 @@ label d21s07_closing:
         hr "You are so...{w} NEVER AGAIN."
     if d21s07_is_harem_available is True:
         jump d21s07_harem_end
-    elif True:
+    else:
         jump d21s07_endings
 
 label d21s07_harem_end hide:
@@ -1031,7 +1031,7 @@ label d21s07_breakup:
         lc "Is it AmRose?"
     elif d21s07_is_stacy_available is True:
         lc "Is it Stacy?"
-    elif True:
+    else:
         jump d21s07_endings
 
     scene d21s07-102 lc-mc-queen16_c2 with dissolve
@@ -1069,7 +1069,6 @@ label d21s07_endings:
     elif d21s07_is_stacy_available is True:
         $ unlock_ending("01")
         jump ending_01
-    elif True:
+    else:
         jump d21s99
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

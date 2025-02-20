@@ -1,6 +1,4 @@
 
-
-
 translate spanish d15s05_c7c01bd8:
 
 
@@ -1423,5 +1421,4 @@ translate spanish strings:
 
     old "Wrap this Up"
     new "Envuelve esto"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e08s03_33275fb1:
 
 
@@ -1109,5 +1107,4 @@ translate deutsch strings:
 
     old "One late afternoon"
     new "An einem späten Nachmittag"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish e14s04_d635bce6:
 
 
@@ -1539,5 +1537,4 @@ translate turkish strings:
 
     old "A little later"
     new "Biraz sonra"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

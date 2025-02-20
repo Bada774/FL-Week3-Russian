@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d18s10_0b2e1d6b:
 
 
@@ -759,5 +757,4 @@ translate deutsch strings:
 
     old "Just Sex, a lot of Sex"
     new "Nur Sex, viel Sex"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

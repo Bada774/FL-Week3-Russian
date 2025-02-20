@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -370,4 +368,125 @@ translate spanish strings:
     old "APPY"
     new "APPY"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate spanish strings:
+
+
+    old "Finish Ending 4 and Ending 7"
+    new "Termina los finales 4 y 7"
+
+
+    old "36. Don't threaten me with a good time"
+    new "36. No me amenaces con pasar un buen rato"
+
+
+    old "Finish all 6 Endings from DLC-2"
+    new "Termina los 6 finales del DLC-2"
+
+
+    old "37. I saw, I came, I conquered"
+    new "37. Yo vi, yo vine, yo vencí"
+
+
+    old "Have all Characters in last orgy in Ending 9"
+    new "Tener a todos los Personajes en la última orgía del Final 9"
+
+
+    old "38. Golden Pass"
+    new "38. Pase Dorado"
+
+
+    old "Have all Characters in Ending 15"
+    new "Consigue a todos los personajes del final 15"
+
+
+    old "39. She belongs in a museum"
+    new "39. Ella pertenece a un museo"
+
+
+    old "Find golden Lyssa (Ending 3)"
+    new "Encuentra a la Lyssa dorada (Final 3)"
+
+
+    old "40. Do the Pulp Fiction Thing"
+    new "40. Haz lo de Pulp Fiction"
+
+
+    old "Do the pulp fiction thing (Ending 18)"
+    new "Haz lo de pulp fiction (Final 18)"
+
+
+    old "41. Backdoor Cat Girl"
+    new "41. La chica gata por la puerta trasera"
+
+
+    old "Backdoor Cat Girl (Ending 16)"
+    new "41. La chica gata por la puerta trasera (Final 16)"
+
+
+    old "42. Pee Bootcamp"
+    new "42. Pee Bootcamp"
+
+
+    old "Begin Olivia's Training"
+    new "Comienza el entrenamiento de Olivia"
+
+
+    old "43. Choo-choo"
+    new "43. Choo-choo"
+
+
+    old "Choo-choo (Ending 5)"
+    new "Choo-choo (Final 5)"
+
+
+    old "44. Londyn Twice"
+    new "44. Londyn Dos Veces"
+
+
+    old "Meet Londyn in Ending 9 and Ending 18"
+    new "Conoce a Londyn en los finales 9 y 18"
+
+
+    old "45. I've seen all the possible outcomes"
+    new "45. He visto todos los resultados posibles"
+
+
+    old "Finish all 18 Endings"
+    new "Completa los 18 finales"
+
+
+    old "SPIT ON THAT THANG!"
+    new "¡ESCUPE SOBRE ESA COSA!"
+
+
+    old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "CUANDO SE LAS ARREGLA PARA QUE TODO EL MUNDO VAYA A TU NUEVO Y LUJOSO SPA"
+
+
+    old "Fucking\na girl"
+    new "Fóllate\na una chica"
+
+
+    old "Fucking\na catgirl"
+    new "Fóllate\na una chica gata"
+
+
+    old "Hard to\nswallow\npills"
+    new "Pastillas\ndifíciles\nde tragar"
+
+
+    old "He will never\nrun out of pee"
+    new "Nunca se quedará\nsin orina."
+
+
+    old "NEXT STOP"
+    new "SIGUIENTE PARADA"
+
+
+    old "PENETRATION STATION"
+    new "ESTACIÓN PENETRACIÓN"
+
+
+    old "They don't know that\nI appear in two endings"
+    new "No saben\nque aparezco en dos finales"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

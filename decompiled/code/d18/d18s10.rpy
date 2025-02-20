@@ -162,7 +162,7 @@ label d18s10_enter_code:
         hide screen d18s10_keypad
 
         jump d18s10_boobs
-    elif True:
+    else:
 
         $ d18s10_keys_pressed = []
         hide screen d18s10_keypad
@@ -294,7 +294,7 @@ label d18s10_open_door:
         scene d18s10-14 mc-notices-lc_c1 with dissolve
         play voice2 mc_scared_huh2 noloop
         mct "Is that-?{w} No, that can't be right."
-    elif True:
+    else:
         scene d18s10-15-3 lc-using-computer with dissolve
         pause
         scene d18s10-14 mc-notices-lc_c1 with dissolve
@@ -352,9 +352,9 @@ label d18s10_open_door:
             jump d18s10_gag
         elif d16s03_darkest_fantasy == "bdsm":
             jump d18s10_bdsm
-        elif True:
+        else:
             jump d18s10_vanilla
-    elif True:
+    else:
         jump d18s10_lc_reveal
 
 label d18s10_lc_reveal:
@@ -385,7 +385,7 @@ label d18s10_lc_reveal:
     mct "Lydia was behind Fetish Locator??"
     if is_antagonist_mode is False:
         mct "Lydia has been manipulating me through the VIP Program???"
-    elif True:
+    else:
         mct "Lydia has been manipulating me through the Retention Program???"
     scene d18s10-22-02 computer-doesnt-work_c1 with dissolve
     play voice2 mc_pain_rrrr noloop
@@ -805,7 +805,7 @@ label d18s10_end:
     $ renpy.music.set_volume(0.2, 3.0, "music")
     if cage_ntr is False:
         scene d18s10-22-09 mc-leaves-camera-pov_c1 with dissolve
-    elif True:
+    else:
         play voice2 d3s7_mcemm noloop volume 2.5
 
         $ Lovense.stop()
@@ -850,5 +850,4 @@ label d18s10_end:
     stop music fadeout 4.5
 
     jump d18s11
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

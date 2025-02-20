@@ -1,6 +1,4 @@
 
-
-
 translate chinese d19s09_6670f26a:
 
 
@@ -929,8 +927,6 @@ translate chinese strings:
     new "换人"
 
 
-
-
 translate chinese d19s09_end_8a44ad0b:
 
 
@@ -941,5 +937,4 @@ translate chinese d19s09_end_9cc11ce7:
 
 
     sy "其实...有点意思。建造它的人并不算很蠢。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

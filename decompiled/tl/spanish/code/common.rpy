@@ -1,18 +1,16 @@
-
-
 translate spanish strings:
 
 
     old "Self-voicing disabled."
-    new "Auto-voz deshabilitada."
+    new "Voz propia deshabilitada."
 
 
     old "Clipboard voicing enabled. "
-    new "Voz del portapapeles habilitada. "
+    new "Voz del portapapeles habilitada."
 
 
     old "Self-voicing enabled. "
-    new "Auto-voz habilitada. "
+    new "Voz propia habilitada."
 
 
     old "bar"
@@ -24,7 +22,7 @@ translate spanish strings:
 
 
     old "viewport"
-    new "ventana gráfica"
+    new "mirador"
 
 
     old "horizontal scroll"
@@ -52,7 +50,7 @@ translate spanish strings:
 
 
     old "Font Override"
-    new "Sustitución de fuentes"
+    new "Anulación de fuente"
 
 
     old "Default"
@@ -60,11 +58,11 @@ translate spanish strings:
 
 
     old "DejaVu Sans"
-    new "DejaVu Sans"
+    new "Deja Vu Sans"
 
 
     old "Opendyslexic"
-    new "Opendyslexic"
+    new "abiertodisléxico"
 
 
     old "Text Size Scaling"
@@ -80,11 +78,11 @@ translate spanish strings:
 
 
     old "High Contrast Text"
-    new "High Contrast Text"
+    new "Texto de alto contraste"
 
 
     old "Enable"
-    new "Habilitar"
+    new "Permitir"
 
 
     old "Disable"
@@ -92,7 +90,7 @@ translate spanish strings:
 
 
     old "Self-Voicing"
-    new "Autovoz"
+    new "Voz propia"
 
 
     old "Off"
@@ -112,7 +110,7 @@ translate spanish strings:
 
 
     old "Self-Voicing Volume Drop"
-    new "Caída de volumen autovocalizada"
+    new "Caída de volumen de voz propia"
 
 
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -124,155 +122,155 @@ translate spanish strings:
 
 
     old "{#weekday}Monday"
-    new "{#weekday}Lunes"
+    new "{#weekday}lunes"
 
 
     old "{#weekday}Tuesday"
-    new "{#weekday}Martes"
+    new "{#weekday}martes"
 
 
     old "{#weekday}Wednesday"
-    new "{#weekday}Miércoles"
+    new "{#weekday}miércoles"
 
 
     old "{#weekday}Thursday"
-    new "{#weekday}Jueves"
+    new "{#weekday}jueves"
 
 
     old "{#weekday}Friday"
-    new "{#weekday}Viernes"
+    new "{#weekday}viernes"
 
 
     old "{#weekday}Saturday"
-    new "{#weekday}Sábado"
+    new "{#weekday}sábado"
 
 
     old "{#weekday}Sunday"
-    new "{#weekday}Domingo"
+    new "{#weekday}domingo"
 
 
     old "{#weekday_short}Mon"
-    new "{#weekday_short}Lun"
+    new "{#weekday_short}lunes"
 
 
     old "{#weekday_short}Tue"
-    new "{#weekday_short}Mar"
+    new "{#weekday_short}martes"
 
 
     old "{#weekday_short}Wed"
-    new "{#weekday_short}Mié"
+    new "{#weekday_short}miércoles"
 
 
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Jue"
+    new "{#weekday_short}jueves"
 
 
     old "{#weekday_short}Fri"
-    new "{#weekday_short}Vie"
+    new "{#weekday_short}vie"
 
 
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Sab"
+    new "{#weekday_short}sábado"
 
 
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Dom"
+    new "{#weekday_short}Sol"
 
 
     old "{#month}January"
-    new "{#month}Enero"
+    new "{#month}enero"
 
 
     old "{#month}February"
-    new "{#month}Febrero"
+    new "{#month}febrero"
 
 
     old "{#month}March"
-    new "{#month}Marzo"
+    new "{#month}marzo"
 
 
     old "{#month}April"
-    new "{#month}Abril"
+    new "{#month}abril"
 
 
     old "{#month}May"
-    new "{#month}Mayo"
+    new "{#month}mayo"
 
 
     old "{#month}June"
-    new "{#month}Junio"
+    new "{#month}junio"
 
 
     old "{#month}July"
-    new "{#month}Julio"
+    new "{#month}julio"
 
 
     old "{#month}August"
-    new "{#month}Agosto"
+    new "{#month}agosto"
 
 
     old "{#month}September"
-    new "{#month}Septiembre"
+    new "{#month}septiembre"
 
 
     old "{#month}October"
-    new "{#month}Octubre"
+    new "{#month}octubre"
 
 
     old "{#month}November"
-    new "{#month}Noviembre"
+    new "{#month}noviembre"
 
 
     old "{#month}December"
-    new "{#month}Diciembre"
+    new "{#month}diciembre"
 
 
     old "{#month_short}Jan"
-    new "{#month_short}Ene"
+    new "{#month_short}ene"
 
 
     old "{#month_short}Feb"
-    new "{#month_short}Feb"
+    new "{#month_short}febrero"
 
 
     old "{#month_short}Mar"
-    new "{#month_short}Mar"
+    new "{#month_short}marzo"
 
 
     old "{#month_short}Apr"
-    new "{#month_short}Abr"
+    new "{#month_short}abr"
 
 
     old "{#month_short}May"
-    new "{#month_short}May"
+    new "{#month_short}mayo"
 
 
     old "{#month_short}Jun"
-    new "{#month_short}Jun"
+    new "{#month_short}junio"
 
 
     old "{#month_short}Jul"
-    new "{#month_short}Jul"
+    new "{#month_short}julio"
 
 
     old "{#month_short}Aug"
-    new "{#month_short}Ago"
+    new "{#month_short}agosto"
 
 
     old "{#month_short}Sep"
-    new "{#month_short}Sep"
+    new "{#month_short}septiembre"
 
 
     old "{#month_short}Oct"
-    new "{#month_short}Oct"
+    new "{#month_short}octubre"
 
 
     old "{#month_short}Nov"
-    new "{#month_short}Nov"
+    new "{#month_short}noviembre"
 
 
     old "{#month_short}Dec"
-    new "{#month_short}Dic"
+    new "{#month_short}diciembre"
 
 
     old "%b %d, %H:%M"
@@ -280,7 +278,7 @@ translate spanish strings:
 
 
     old "Save slot %s: [text]"
-    new "Ranura de guardado %s: [text]"
+    new "Guardar ranura %s: [text]"
 
 
     old "Load slot %s: [text]"
@@ -300,7 +298,7 @@ translate spanish strings:
 
 
     old "File page [text]"
-    new "Página de archivos [text]"
+    new "Página de archivo [text]"
 
 
     old "Page {}"
@@ -316,11 +314,11 @@ translate spanish strings:
 
 
     old "Next file page."
-    new "Página siguiente del archivo."
+    new "Página del archivo siguiente."
 
 
     old "Previous file page."
-    new "Página anterior del archivo."
+    new "Página del archivo anterior."
 
 
     old "Quick save complete."
@@ -332,7 +330,7 @@ translate spanish strings:
 
 
     old "Quick load."
-    new "Quick load."
+    new "Carga rápida."
 
 
     old "Language [text]"
@@ -340,7 +338,7 @@ translate spanish strings:
 
 
     old "Open [text] directory."
-    new "Directorio [text] abierto."
+    new "Abra el directorio [text]."
 
 
     old "The interactive director is not enabled here."
@@ -360,11 +358,11 @@ translate spanish strings:
 
 
     old "(statement)"
-    new "(statement)"
+    new "(declaración)"
 
 
     old "(tag)"
-    new "(tag)"
+    new "(etiqueta)"
 
 
     old "(attributes)"
@@ -388,7 +386,7 @@ translate spanish strings:
 
 
     old "Change"
-    new "Cambio"
+    new "Cambiar"
 
 
     old "Add"
@@ -415,12 +413,24 @@ translate spanish strings:
     new "Atributos:"
 
 
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new "Haga clic para alternar el atributo, haga clic con el botón derecho para alternar el atributo negativo."
+
+
     old "Transforms:"
     new "Transforma:"
 
 
+    old "Click to set transform, right click to add to transform list."
+    new "Haga clic para configurar la transformación, haga clic con el botón derecho para agregar a la lista de transformación."
+
+
     old "Behind:"
     new "Detrás:"
+
+
+    old "Click to set, right click to add to behind list."
+    new "Haga clic para configurar, haga clic con el botón derecho para agregar a la lista posterior."
 
 
     old "Transition:"
@@ -436,19 +446,19 @@ translate spanish strings:
 
 
     old "Are you sure?"
-    new "¿Estás seguro?"
+    new "¿Está seguro?"
 
 
     old "Are you sure you want to delete this save?"
-    new "¿Estás seguro de que quieres eliminar este archivo de guardado?"
+    new "¿Está seguro de que desea eliminar este guardado?"
 
 
     old "Are you sure you want to overwrite your save?"
-    new "¿Estás seguro de que quieres sobrescribir tu archivo guardado?"
+    new "¿Está seguro de que desea sobrescribir su guardado?"
 
 
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "La carga perderá el progreso no guardado.\n¿Seguro que quieres hacer esto?"
+    new "La carga perderá el progreso no guardado.\n¿Estás seguro de que quieres hacer esto?"
 
 
     old "Are you sure you want to quit?"
@@ -460,23 +470,31 @@ translate spanish strings:
 
 
     old "Are you sure you want to end the replay?"
-    new "¿Estás seguro de que quieres terminar la reproducción?"
+    new "¿Seguro que quieres terminar la repetición?"
 
 
     old "Are you sure you want to begin skipping?"
-    new "¿Estás seguro de que quieres comenzar a saltar?"
+    new "¿Está seguro de que desea comenzar a saltar?"
 
 
     old "Are you sure you want to skip to the next choice?"
-    new "¿Estás seguro de que quieres saltar a la siguiente opción?"
+    new "¿Está seguro de que desea pasar a la siguiente opción?"
 
 
     old "Are you sure you want to skip unseen dialogue to the next choice?"
     new "¿Está seguro de que desea saltar el diálogo invisible a la siguiente opción?"
 
 
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "Este guardado se creó en un dispositivo diferente. Los archivos guardados malintencionados pueden dañar su computadora. ¿Confías en el creador de este guardado y en todos los que podrían haber cambiado el archivo?"
+
+
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "¿Confías en el dispositivo en el que se creó el guardado? Solo debe elegir sí si es el único usuario del dispositivo."
+
+
     old "Failed to save screenshot as %s."
-    new "Error al guardar la captura de pantalla como %s."
+    new "No se pudo guardar la captura de pantalla como %s."
 
 
     old "Saved screenshot as %s."
@@ -508,7 +526,7 @@ translate spanish strings:
 
 
     old "show empty window"
-    new "smostrar ventana vacía"
+    new "mostrar ventana vacía"
 
 
     old "text speed"
@@ -516,11 +534,11 @@ translate spanish strings:
 
 
     old "joystick"
-    new "joystick"
+    new "palanca de mando"
 
 
     old "joystick..."
-    new "joystick..."
+    new "palanca de mando..."
 
 
     old "skip"
@@ -536,7 +554,7 @@ translate spanish strings:
 
 
     old "begin skipping"
-    new "comenzar a saltar"
+    new "empezar a saltar"
 
 
     old "after choices"
@@ -568,7 +586,7 @@ translate spanish strings:
 
 
     old "wait for voice"
-    new "esperar la voz"
+    new "espera la voz"
 
 
     old "voice sustain"
@@ -584,7 +602,7 @@ translate spanish strings:
 
 
     old "clipboard voicing"
-    new "voz en portapapeles"
+    new "portapapeles"
 
 
     old "debug voicing"
@@ -596,7 +614,7 @@ translate spanish strings:
 
 
     old "rollback side"
-    new "rollback side"
+    new "lado de reversión"
 
 
     old "gl powersave"
@@ -608,7 +626,7 @@ translate spanish strings:
 
 
     old "gl tearing"
-    new "parpadeo gl"
+    new "lagrimeo"
 
 
     old "font transform"
@@ -624,7 +642,7 @@ translate spanish strings:
 
 
     old "system cursor"
-    new "system cursor"
+    new "cursor del sistema"
 
 
     old "renderer menu"
@@ -643,6 +661,18 @@ translate spanish strings:
     new "audio cuando está minimizado"
 
 
+    old "audio when unfocused"
+    new "audio cuando está desenfocado"
+
+
+    old "web cache preload"
+    new "precarga de caché web"
+
+
+    old "voice after game menu"
+    new "menú de voz después del juego"
+
+
     old "main volume"
     new "volumen principal"
 
@@ -655,24 +685,20 @@ translate spanish strings:
     new "volumen de sonido"
 
 
-    old "voice volume"
-    new "volumen de voz"
-
-
     old "mute main"
     new "silenciar principal"
 
 
     old "mute music"
-    new "silenciar música"
+    new "musica muda"
 
 
     old "mute sound"
-    new "silenciar sonido"
+    new "Sin sonido"
 
 
     old "mute voice"
-    new "silenciar voz"
+    new "voz muda"
 
 
     old "mute all"
@@ -691,184 +717,92 @@ translate spanish strings:
     new "Voz propia habilitada. Pulse 'v' para desactivar."
 
 
-    old "Empty Slot."
-    new "Ranura vacía."
+    old "Speech Bubble Editor"
+    new "Editor de burbujas de discurso"
 
 
-    old "Previous"
-    new "Anterior"
+    old "(hide)"
+    new "(esconder)"
 
 
-    old "Next"
-    new "Siguiente"
+    old "Sync downloaded."
+    new "Sincronización descargada."
 
 
-    old "Joystick Mapping"
-    new "Joystick Mapping"
+    old "Could not connect to the Ren'Py Sync server."
+    new "No se pudo conectar al servidor Ren'Py Sync."
 
 
-    old "Developer Menu"
-    new "Menú de desarrollador"
+    old "The Ren'Py Sync server timed out."
+    new "Se agotó el tiempo de espera del servidor Ren'Py Sync."
 
 
-    old "Interactive Director (D)"
-    new "Director interactivo (D)"
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "Se produjo un error desconocido al conectarse al servidor Ren'Py Sync."
 
 
-    old "Reload Game (Shift+R)"
-    new "Recargar juego (Shift+R)"
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "El servidor Ren'Py Sync no tiene una copia de esta sincronización. Es posible que el ID de sincronización no sea válido o que se haya agotado el tiempo de espera."
 
 
-    old "Console (Shift+O)"
-    new "Consola (Shift+O)"
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "Ingrese el ID de sincronización que generó.\nNunca ingrese un ID de sincronización que no haya creado usted mismo."
 
 
-    old "Variable Viewer"
-    new "Visor de variables"
+    old "The sync ID is not in the correct format."
+    new "El ID de sincronización no tiene el formato correcto."
 
 
-    old "Image Location Picker"
-    new "Selector de ubicación de imagen"
+    old "The sync could not be decrypted."
+    new "No se pudo descifrar la sincronización."
 
 
-    old "Filename List"
-    new "Lista de nombres de archivo"
+    old "The sync belongs to a different game."
+    new "La sincronización pertenece a un juego diferente."
 
 
-    old "Show Image Load Log (F4)"
-    new "Mostrar registro de carga de imágenes (F4)"
+    old "The sync contains a file with an invalid name."
+    new "La sincronización contiene un archivo con un nombre no válido."
 
 
-    old "Hide Image Load Log (F4)"
-    new "Ocultar registro de carga de imágenes (F4)"
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "Esto cargará tus archivos guardados en el {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\n¿Quieres continuar?"
 
 
-    old "Image Attributes"
-    new "Atributos de imagen"
+    old "Enter Sync ID"
+    new "Ingrese ID de sincronización"
 
 
-    old "[name] [attributes] (hidden)"
-    new "[name] [attributes] (hidden)"
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "Esto se pondrá en contacto con el {a=https://sync.renpy.org}servidor de sincronización Ren'Py{/a}."
 
 
-    old "[name] [attributes]"
-    new "[name] [attributes]"
+    old "Sync Success"
+    new "Sincronización exitosa"
 
 
-    old "Nothing to inspect."
-    new "Nada que inspeccionar."
+    old "The Sync ID is:"
+    new "El ID de sincronización es:"
 
 
-    old "Hide deleted"
-    new "Ocultar eliminado"
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "Puedes usar este ID para descargar tu guardado en otro dispositivo.\nEsta sincronización caducará en una hora.\nRen'Py Sync cuenta con el apoyo de {a=https://www.renpy.org/sponsors.html}Patrocinadores de Ren'Py{/a}."
 
 
-    old "Show deleted"
-    new "Show deleted"
-
-
-    old "Return to the developer menu"
-    new "Return to the developer menu"
-
-
-    old "Rectangle: %r"
-    new "Rectángulo: %r"
-
-
-    old "Mouse position: %r"
-    new "Posición del ratón: %r"
-
-
-    old "Right-click or escape to quit."
-    new "Haga clic derecho o presione escape para salir."
-
-
-    old "Rectangle copied to clipboard."
-    new "Rectángulo copiado al portapapeles."
-
-
-    old "Position copied to clipboard."
-    new "Posición copiada al portapapeles."
-
-
-    old "Type to filter: "
-    new "Escriba para filtrar: "
-
-
-    old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
-    new "Texturas: [tex_count] ([tex_size_mb:.1f] MB)"
-
-
-    old "Image cache: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-    new "Caché de imágenes: [cache_pct:.1f]% ([cache_size_mb:.1f] MB)"
-
-
-    old "✔ "
-    new "✔ "
-
-
-    old "✘ "
-    new "✘ "
-
-
-    old "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-    new "\n{color=#cfc}✔ predicted image (good){/color}\n{color=#fcc}✘ unpredicted image (bad){/color}\n{color=#fff}Drag to move.{/color}"
-
-
-    old "Displayable Inspector"
-    new "Inspector visualizable"
-
-
-    old "Size"
-    new "Tamaño"
-
-
-    old "Style"
-    new "Estilo"
-
-
-    old "Location"
-    new "Ubicación"
-
-
-    old "Inspecting Styles of [displayable_name!q]"
-    new "Inspección de estilos de [displayable_name!q]"
-
-
-    old "displayable:"
-    new "displayable:"
-
-
-    old "        (no properties affect the displayable)"
-    new "        (ninguna propiedad afecta lo visualizable)"
-
-
-    old "        (default properties omitted)"
-    new "        (propiedades predeterminadas omitidas)"
-
-
-    old "<repr() failed>"
-    new "<repr() failed>"
-
-
-    old "a"
-    new "a"
-
-
-    old "q"
-    new "q"
+    old "Sync Error"
+    new "Error de sincronización"
 
 
     old "Contacting App Store\nPlease Wait..."
-    new "Contactando con App Store\\Por favor espere..."
+    new "Poniéndose en contacto con la tienda de aplicaciones\nPor favor, espere..."
 
 
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "El actualizador de Ren'Py no es compatible con dispositivos móviles."
+    new "Ren'Py Updater no es compatible con dispositivos móviles."
 
 
     old "An error is being simulated."
-    new "Se está simulando un error.."
+    new "Se está simulando un error."
 
 
     old "Either this project does not support updating, or the update status file was deleted."
@@ -896,11 +830,11 @@ translate spanish strings:
 
 
     old "While unpacking {}, unknown type {}."
-    new "Al desempaquetar {}, tipo desconocido {}."
+    new "Al desempacar {}, tipo desconocido {}."
 
 
     old "Updater"
-    new "Actualizador"
+    new "actualizador"
 
 
     old "An error has occured:"
@@ -908,7 +842,7 @@ translate spanish strings:
 
 
     old "Checking for updates."
-    new "Comprobando las actualizaciones."
+    new "Comprobando actualizaciones."
 
 
     old "This program is up to date."
@@ -960,15 +894,15 @@ translate spanish strings:
 
 
     old "next"
-    new "siguiente"
+    new "próximo"
 
 
     old "slideshow"
-    new "Diapositivas"
+    new "diapositivas"
 
 
     old "return"
-    new "volver"
+    new "regresar"
 
 
     old "Renderer"
@@ -976,7 +910,7 @@ translate spanish strings:
 
 
     old "Automatically Choose"
-    new "Automatically Choose"
+    new "Elegir automáticamente"
 
 
     old "Force GL Renderer"
@@ -1000,7 +934,7 @@ translate spanish strings:
 
 
     old "Force GLES2 Renderer"
-    new "Force GLES2 Renderer"
+    new "Forzar renderizador GLES2"
 
 
     old "Enable (No Blocklist)"
@@ -1028,7 +962,7 @@ translate spanish strings:
 
 
     old "Tearing"
-    new "Parpadeo"
+    new "lagrimeo"
 
 
     old "Changes will take effect the next time this program is run."
@@ -1044,7 +978,7 @@ translate spanish strings:
 
 
     old "This game requires use of GL2 that can't be initialised."
-    new "Este juego requiere el uso de GL2 que no puede ser inicializado."
+    new "Este juego requiere el uso de GL2 que no se puede inicializar."
 
 
     old "This computer has a problem displaying graphics: [problem]."
@@ -1056,19 +990,19 @@ translate spanish strings:
 
 
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "El {a=edit:1:log.txt}log.txt{/a} archivo puede contener información para ayudarlo a determinar qué es lo que está mal en su computadora."
+    new "El archivo {a=edit:1:log.txt}log.txt{/a} puede contener información que le ayude a determinar cuál es el problema de su computadora."
 
 
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Puede encontrar más detalles sobre cómo solucionar este problema en la {a=[url]}documentación{/a}."
+    new "Se pueden encontrar más detalles sobre cómo solucionar esto en la {a=[url]}documentación{/a}."
 
 
     old "Continue, Show this warning again"
-    new "Continuar, Mostrar esta advertencia nuevamente"
+    new "Continuar, mostrar esta advertencia nuevamente"
 
 
     old "Continue, Don't show warning again"
-    new "Continuar, No mostrar esta advertencia nuevamente"
+    new "Continuar, no volver a mostrar la advertencia"
 
 
     old "Change render options"
@@ -1080,7 +1014,7 @@ translate spanish strings:
 
 
     old "No Gamepads Available"
-    new "No Gamepads Available"
+    new "No hay mandos disponibles"
 
 
     old "Calibrating [name] ([i]/[total])"
@@ -1092,15 +1026,15 @@ translate spanish strings:
 
 
     old "Skip (A)"
-    new "Saltar (A)"
+    new "Salta A)"
 
 
     old "Back (B)"
-    new "Atrás (B)"
+    new "Volver (B)"
 
 
     old "Open"
-    new "Abrir"
+    new "Abierto"
 
 
     old "Opens the traceback.txt file in a text editor."
@@ -1116,7 +1050,7 @@ translate spanish strings:
 
 
     old "Copy Markdown"
-    new "Copiar Markdown"
+    new "Copiar descuento"
 
 
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
@@ -1170,213 +1104,111 @@ translate spanish strings:
     old "Parsing the script failed."
     new "Error al analizar el script."
 
+translate spanish strings:
 
 
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Menú de accesibilidad. Utilice las flechas arriba y abajo para navegar, y enter para activar botones y barras."
+
+
+    old "Customize director.transforms to add more transforms."
+    new "Personaliza director.transforms para añadir más transformaciones."
+
+
+    old "Click to set."
+    new "Haga clic para configurar."
+
+
+    old "Customize director.transitions to add more transitions."
+    new "Personaliza director.transitions para añadir más transiciones."
+
+
+    old "Customize director.audio_channels to add more channels."
+    new "Personalice director.audio_channels para añadir más canales."
+
+
+    old "Are you sure you want to continue where you left off?"
+    new "¿Estás seguro de que quieres continuar donde lo dejaste?"
+
+
+    old "self voicing enable"
+    new "habilitación de voz propia"
+
+
+    old "self voicing disable"
+    new "desactivar la voz propia"
+
+
+    old "clipboard voicing enable"
+    new "habilitar la voz del portapapeles"
+
+
+    old "clipboard voicing disable"
+    new "desactivar la voz del portapapeles"
+
+
+    old "debug voicing enable"
+    new "habilitar voz de depuración"
+
+
+    old "debug voicing disable"
+    new "depurar voz desactivar"
+
+
+    old "restore window position"
+    new "restaurar la posición de la ventana"
+
+
+    old "reset"
+    new "reiniciar"
+
+
+    old "(clear retained bubbles)"
+    new "(burbujas retenidas claras)"
+
+
+    old "No update methods found."
+    new "No se encontraron métodos de actualización."
+
+
+    old "Could not download file list: "
+    new "No se pudo descargar la lista de archivos:"
+
+
+    old "File list digest does not match."
+    new "El resumen de la lista de archivos no coincide."
+
+
+    old "Preparing to download the game data."
+    new "Preparándose para descargar los datos del juego."
+
+
+    old "Downloading the game data."
+    new "Descargando los datos del juego."
+
+
+    old "The game data has been downloaded."
+    new "Los datos del juego se han descargado."
+
+
+    old "An error occured when trying to download game data:"
+    new "Se produjo un error al intentar descargar los datos del juego:"
+
+
+    old "This game cannot be run until the game data has been downloaded."
+    new "Este juego no se puede ejecutar hasta que se hayan descargado los datos del juego."
+
+
+    old "Retry"
+    new "Reintentar"
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "La compatibilidad con la autovoz es limitada cuando se utiliza una pantalla táctil."
 
 translate spanish strings:
 
 
-    old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Haga clic para activar el atributo, haga clic con el botón derecho para activar el atributo negativo."
-
-
-    old "Click to set transform, right click to add to transform list."
-    new "Haz clic para establecer la transformación, haz clic con el botón derecho para añadir a la lista de transformaciones."
-
-
-    old "Click to set, right click to add to behind list."
-    new "Haga clic para establecer, haga clic derecho para añadir una lista."
-
-
-    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "Este archivo se creó en otro dispositivo. Los archivos guardados maliciosamente creados pueden dañar tu ordenador. Confías en el creador de este archivo y en todos los que podrían haberlo modificado?"
-
-
-    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "¿Confías en el dispositivo en el que se creó el archivo guardado? Sólo debes elegir sí si eres el único usuario del dispositivo."
-
-
-    old "audio when unfocused"
-    new "audio desenfocado"
-
-
-    old "web cache preload"
-    new "precarga de la caché web"
-
-
-    old "voice after game menu"
-    new "voz después del menú del juego"
-
-
-    old "Speech Bubble Editor"
-    new "Editor de globos sonoros"
-
-
-    old "(hide)"
-    new "(ocultar)"
-
-
-    old "Sync downloaded."
-    new "Sincronización descargada."
-
-
-    old "Could not connect to the Ren'Py Sync server."
-    new "No se ha podido conectar con el servidor de sincronización de Ren'Py."
-
-
-    old "The Ren'Py Sync server timed out."
-    new "El servidor Ren'Py Sync ha expirado."
-
-
-    old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "Se ha producido un error desconocido al conectar con el servidor de sincronización de Ren'Py."
-
-
-    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "El servidor de sincronización de Ren'Py no tiene una copia de esta sincronización. Puede que el ID de sincronización no sea válido o que se haya agotado el tiempo de espera."
-
-
-    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Por favor, introduce el identificador de sincronización que has generado."
-
-
-    old "The sync ID is not in the correct format."
-    new "El ID de sincronización no tiene el formato correcto."
-
-
-    old "The sync could not be decrypted."
-    new "La sincronización no pudo ser descifrada."
-
-
-    old "The sync belongs to a different game."
-    new "La sincronización pertenece a otro juego."
-
-
-    old "The sync contains a file with an invalid name."
-    new "La sincronización contiene un archivo con un nombre no válido."
-
-
-    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Esto cargará tus partidas guardadas en el {a=https://sync.renpy.org}Servidor de Sincronización de Ren'Py{/a}.\n¿Quieres continuar?"
-
-
-    old "Enter Sync ID"
-    new "Introducir ID de sincronización"
-
-
-    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "Esto se pondrá en contacto con el {a=https://sync.renpy.org}Servidor de Sincronización de Ren'Py{/a}."
-
-
-    old "Sync Success"
-    new "Sincronización exitosa"
-
-
-    old "The Sync ID is:"
-    new "El ID de sincronización es:"
-
-
-    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Puedes utilizar este ID para descargar tu partida guardada en otro dispositivo.\nEsta sincronización caducará en una hora. La sincronización de Ren'Py cuenta con el apoyo de {a=https://www.renpy.org/sponsors.html}los patrocinadores de Ren'Py{/a}."
-
-
-    old "Sync Error"
-    new "Error de sincronización"
-
-
-    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-
-
-    old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
-
-
-    old "Click to set."
-    new "Click to set."
-
-
-    old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
-
-
-    old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
-
-
-    old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
-
-
-    old "self voicing enable"
-    new "self voicing enable"
-
-
-    old "self voicing disable"
-    new "self voicing disable"
-
-
-    old "clipboard voicing enable"
-    new "clipboard voicing enable"
-
-
-    old "clipboard voicing disable"
-    new "clipboard voicing disable"
-
-
-    old "debug voicing enable"
-    new "debug voicing enable"
-
-
-    old "debug voicing disable"
-    new "debug voicing disable"
-
-
-    old "restore window position"
-    new "restore window position"
-
-
-    old "reset"
-    new "reset"
-
-
-    old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
-
-
-    old "No update methods found."
-    new "No update methods found."
-
-
-    old "Could not download file list: "
-    new "Could not download file list: "
-
-
-    old "File list digest does not match."
-    new "File list digest does not match."
-
-
-    old "Preparing to download the game data."
-    new "Preparing to download the game data."
-
-
-    old "Downloading the game data."
-    new "Downloading the game data."
-
-
-    old "The game data has been downloaded."
-    new "The game data has been downloaded."
-
-
-    old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
-
-
-    old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
-
-
-    old "Retry"
-    new "Retry"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    old "voice volume"
+    new "voice volume"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e08s05_cdd7bfe3:
 
 
@@ -2299,5 +2297,4 @@ translate deutsch strings:
 
     old "Leave the door open"
     new "Lass die Tür offen"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

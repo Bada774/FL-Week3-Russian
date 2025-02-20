@@ -408,5 +408,4 @@ label e11s06_hospital:
     stop music fadeout 3.0
     $ renpy.music.set_volume(0.0, 3.0, "sound3")
     jump e11s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

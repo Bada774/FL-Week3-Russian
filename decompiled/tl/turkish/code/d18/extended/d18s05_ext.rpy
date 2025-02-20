@@ -1,6 +1,4 @@
 
-
-
 translate turkish d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate turkish d18s05_after_sex_d36f975d:
     sb "Bir süredir bunu düşünüyorum."
 
 
-translate turkish d18s05_after_sex_f26fa239:
-
-
-    sb "Bu yerden nefret ediyorum. Lanet bir beton ormanı. Her zaman buradan defolup gitmek istemişimdir."
-
-
 translate turkish d18s05_after_sex_7102ee2c:
 
 
@@ -708,4 +700,9 @@ translate turkish strings:
     old "Fuck Samiya"
     new "Samiya'yı Sik"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate turkish d18s05_after_sex_ec16ba99:
+
+
+    sb "Buradan nefret ediyorum. Lanet olası bir beton ormanı. Gevşemek için bir seyahate ihtiyacım var."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

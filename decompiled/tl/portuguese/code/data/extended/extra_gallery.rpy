@@ -1,5 +1,3 @@
-
-
 translate portuguese strings:
 
 
@@ -340,7 +338,7 @@ translate portuguese strings:
 
 
     old "Finish e04 and e07"
-    new "Complte e04 e e07"
+    new "Complete e04 e e07"
 
 
     old "35. A lucky dozen"
@@ -366,4 +364,125 @@ translate portuguese strings:
     old "APPY"
     new "ELIZ"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate portuguese strings:
+
+
+    old "Finish Ending 4 and Ending 7"
+    new "Complete o Final 4 e Final 7"
+
+
+    old "36. Don't threaten me with a good time"
+    new "36. Não me ameace com coisa boa"
+
+
+    old "Finish all 6 Endings from DLC-2"
+    new "Termine todos os Finais do DLC-2"
+
+
+    old "37. I saw, I came, I conquered"
+    new "37. Eu vi, eu vim, eu conquistei"
+
+
+    old "Have all Characters in last orgy in Ending 9"
+    new "Tenha todos os Personagens na última orgia do Final 9"
+
+
+    old "38. Golden Pass"
+    new "38. Passe Dourado"
+
+
+    old "Have all Characters in Ending 15"
+    new "Tenha todos os Personagens no Final 15"
+
+
+    old "39. She belongs in a museum"
+    new "39. Ela pertence num museu"
+
+
+    old "Find golden Lyssa (Ending 3)"
+    new "Encontre a Lyssa dourada (Final 3)"
+
+
+    old "40. Do the Pulp Fiction Thing"
+    new "40. Faz a Parada do Pulp Fiction"
+
+
+    old "Do the pulp fiction thing (Ending 18)"
+    new "Faça a parada do pulp fiction (Final 18)"
+
+
+    old "41. Backdoor Cat Girl"
+    new "41. "
+
+
+    old "Backdoor Cat Girl (Ending 16)"
+    new ""
+
+
+    old "42. Pee Bootcamp"
+    new "42. Escola da Urina"
+
+
+    old "Begin Olivia's Training"
+    new "Comece o Treinamento da Olivia"
+
+
+    old "43. Choo-choo"
+    new "43. Choo-choo"
+
+
+    old "Choo-choo (Ending 5)"
+    new "Choo-choo (Final 5)"
+
+
+    old "44. Londyn Twice"
+    new "44. Londyn Dupla"
+
+
+    old "Meet Londyn in Ending 9 and Ending 18"
+    new "Encontre Londyn no Final 9 e Final 18"
+
+
+    old "45. I've seen all the possible outcomes"
+    new "45. Vi todos resultados possíveis"
+
+
+    old "Finish all 18 Endings"
+    new "Complete todos os 18 Finais"
+
+
+    old "SPIT ON THAT THANG!"
+    new "COSPE NESSA COISA!"
+
+
+    old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "QUANDO ELE FAZ TODO MUNDO VIR NO SEU NOVO SPA CHIQUE"
+
+
+    old "Fucking\na girl"
+    new "Fodendo\numa garota"
+
+
+    old "Fucking\na catgirl"
+    new "Fodendo\numa garota gato"
+
+
+    old "Hard to\nswallow\npills"
+    new "Difícil\nde\naceitar"
+
+
+    old "He will never\nrun out of pee"
+    new "Nunca vai acabar\na urina dele"
+
+
+    old "NEXT STOP"
+    new "PRÓXIMA PARADA"
+
+
+    old "PENETRATION STATION"
+    new "ESTAÇÃO DA PENETRAÇÃO"
+
+
+    old "They don't know that\nI appear in two endings"
+    new "Não fazem ideia que\neu apareço em dois finais"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate korean d16s01_66e01943:
 
 
@@ -515,5 +513,4 @@ translate korean strings:
 
     old "Tuesday\nDay-16"
     new "화요일 \n16일차"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

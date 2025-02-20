@@ -1,5 +1,3 @@
-
-
 translate portuguese strings:
 
 
@@ -1278,8 +1276,6 @@ translate portuguese strings:
     old "Sync Error"
     new "Erro de Sync"
 
-
-
 translate portuguese strings:
 
 
@@ -1378,4 +1374,9 @@ translate portuguese strings:
     old "Retry"
     new "Tentar novamente"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate portuguese strings:
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "Suporte da voz automática é limitado usando tela de toque."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

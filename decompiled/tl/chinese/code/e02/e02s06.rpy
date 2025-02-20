@@ -1,6 +1,4 @@
 
-
-
 translate chinese e02s06_52e800c4:
 
 
@@ -1289,8 +1287,6 @@ translate chinese strings:
     new "给他们提点建议就行"
 
 
-
-
 translate chinese e02s06_experiment_d8b5fe3c:
 
 
@@ -1307,5 +1303,4 @@ translate chinese e02s06_experiment_aa4fa88f:
 
 
     ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish e07s02_42fc7010:
 
 
@@ -1189,5 +1187,4 @@ translate turkish strings:
 
     old "Accept"
     new "Kabul et"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

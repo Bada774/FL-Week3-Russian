@@ -1,6 +1,4 @@
 
-
-
 translate malay d20s09_5763cea5:
 
 
@@ -485,5 +483,4 @@ translate malay d20s09_826b7f32:
 
 
     mc "Selamat malam, Hana."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

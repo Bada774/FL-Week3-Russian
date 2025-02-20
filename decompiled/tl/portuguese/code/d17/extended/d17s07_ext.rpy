@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d17s07_ext_360a8ee5:
 
 
@@ -637,5 +635,4 @@ translate portuguese strings:
 
     old "Agree to go with her"
     new "Concordar em ir com ela"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

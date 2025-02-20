@@ -1,6 +1,4 @@
 
-
-
 translate malay d20s01_ab231225:
 
 
@@ -567,5 +565,4 @@ translate malay strings:
 
     old "Do you want Stacy to pee on you?"
     new "Nak Stacy kencing atas anda?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

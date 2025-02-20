@@ -1,6 +1,4 @@
 
-
-
 translate korean d19s05_57a1032f:
 
 
@@ -117,5 +115,4 @@ translate korean strings:
 
     old "Your total score is {}"
     new "당신의 총점은 {}입니다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

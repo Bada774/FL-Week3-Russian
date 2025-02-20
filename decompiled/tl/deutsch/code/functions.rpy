@@ -1,5 +1,3 @@
-
-
 translate deutsch strings:
 
 
@@ -33,5 +31,4 @@ translate deutsch strings:
 
     old "You can only select one out of Daisy and Dahlia"
     new "Du kannst nur entweder Daisy oder Dahlia auswählen"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

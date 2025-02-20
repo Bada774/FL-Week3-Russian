@@ -1,6 +1,4 @@
 
-
-
 translate italian e10s01_8b9374ed:
 
 
@@ -1167,5 +1165,4 @@ translate italian strings:
 
     old "Some time later\nIn Seoul with Min"
     new "Qualche tempo dopo\nA Seoul con Min"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

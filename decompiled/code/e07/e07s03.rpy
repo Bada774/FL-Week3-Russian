@@ -368,7 +368,7 @@ label e07s03_contest_start:
         scene e07s03-103-c1-mc-inner-talk with dissolve
         play voice2 d3s11b_mcheh noloop volume 1.6
         mct "Maybe she'll let me fuck her after I'm done making Gizela cum."
-    elif True:
+    else:
         scene e07s03-104-c2-mc-look-zh with dissolve
         pause
         scene e07s03-105-c2-mc-inner-talk with dissolve
@@ -924,7 +924,7 @@ label e07s03_after_competition:
         scene e07s03-250-lc-talk-mc with dissolve
         play voice3 dahlia_old_argh2 noloop
         lc "Promises, promises..."
-    elif True:
+    else:
         scene e07s03-235-lc-talk-mc with dissolve
         play voice3 dahlia_old_argh2 noloop
         lc "I can't believe you lost the contest, [e07_mcname!t]."
@@ -1106,5 +1106,4 @@ label e07s03_after_competition:
 
 
     jump e07s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

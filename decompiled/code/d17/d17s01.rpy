@@ -285,7 +285,7 @@ label d17s01:
     play voice4 dahlia_happy_hmm1 noloop
     if date_arj_romance is True:
         lc "Maybe there is something you could do for me instead..."
-    elif True:
+    else:
         lc "Well, let me put it this way...{w} [mcname], can I borrow your slave?"
         scene d17s01-39 mc-arj-lc-am-surprised-mc-smirk_c1 with dissolve
     play voice3 amrose_surprised_what noloop
@@ -310,7 +310,7 @@ label d17s01:
         scene d17s01-41 mc-arj-lc-am-concerned_c2 with dissolve
         play voice4 dahlia_thinking_hmm1 noloop
         lc "There's a first time for everything, right?"
-    elif True:
+    else:
         lc "I want to watch you two having sex. Right here. In front of me."
         scene d17s01-41 mc-arj-lc-am-concerned_c1 with dissolve
         play voice3 amrose_thinking_oh2 noloop
@@ -407,7 +407,7 @@ label d17s01:
     play voice3 amrose_happy_laugh3 noloop
     if cage_ntr is True:
         arj "I'll do this thing for you. [mcname] will love to watch."
-    elif True:
+    else:
         arj "We'll do this thing for you. I'm sure that [mcname] & I are going to love it."
     arj "We can deal with this administrator who hates [mcname] later."
     scene d17s01-56 mc-arj-lc-lyd-thinking_c1 with dissolve
@@ -435,7 +435,7 @@ label replay_d17s01:
         play music watcha_do_to_me
     if cage_ntr is True:
         jump d17s01_ntr
-    elif True:
+    else:
         jump d17s01_no_ntr
 
 label d17s01_ntr:
@@ -592,7 +592,7 @@ label d17s01_lick_kitty:
         $ renpy.end_replay()
 
         jump d17s01_end
-    elif True:
+    else:
 
         $ renpy.music.set_volume(0.35, 3.0, "music")
         scene d17s01-63 mc-arj-lc-go-here-amrose_c1 with dissolve
@@ -642,7 +642,7 @@ label d17s01_no_ntr:
     play voice3 amrose_angry_ergh noloop
     if persistent.is_special is True:
         arj "*mumbling* thanks, cunt."
-    elif True:
+    else:
         arj "*mumbling* thanks, bitch."
     $ Lovense.vibrate(2)
     scene d17s01-75 mc-arj-lc-mc-unsure_c1 with dissolve
@@ -689,7 +689,7 @@ label d17s01_no_ntr:
     play voice3 amrose_angry_ehh noloop
     if persistent.is_special is True:
         arj "If you're going to fucking rape my ass at least do what I tell you to do."
-    elif True:
+    else:
         arj "If you're going to fucking fuck me in the shitter at least do what I tell you to do."
     scene d17s01-83 mc-arj-lc-mc-shrugging_c2 with dissolve
     play voice2 mc_yes_okay3 noloop
@@ -858,7 +858,7 @@ label d17s01_anal_sex:
         arj "FUCK YES!{w} Ravage my little starfish!"
         if persistent.is_special is True:
             mc "I'm going to rape your tiny asshole until you bleed!!!"
-        elif True:
+        else:
             mc "I'm going to fuck your outhouse asterisk until I can't get enough!!!"
         pause
         scene d17s01-a15-f with dissolve
@@ -879,9 +879,9 @@ label d17s01_anal_sex:
         if persistent.is_special is True:
             if date_sy is True:
                 arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX LIKE I WAS YOUR SISTER!!!"
-            elif True:
+            else:
                 arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX YOU FUCKING DEFILER!!!"
-        elif True:
+        else:
             arj "AAOOOAAHoooaahhh!!!{w} CREAMPIE MY DIRTBOX YOU ASSHOLE!!!"
         stop voice2 fadeout 1.0
         stop voice3 fadeout 1.0
@@ -900,11 +900,11 @@ label d17s01_anal_sex:
         play voice4 lydia_lydyes noloop
         lc "Me too."
         $ unlock_gallery_slot("scene", "d17s01lc")
-    elif True:
+    else:
         scene d17s01-a13-f with dissolve
         if date_arj_romance is True:
             arj "Use my holes like you own them!"
-        elif True:
+        else:
             arj "Use my holes any way you like!"
         pause
         play voice3 daisy_moaning2
@@ -935,7 +935,7 @@ label d17s01_anal_sex:
         scene d17s01-96 mc-arj-lc-cumming_c1 with hpunch
         if date_arj_romance is True:
             mc "TAKE MY SEED SWEETIE!!!"
-        elif True:
+        else:
             mc "TAKE IT ALL SLAVE!!!"
         arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX!!!"
         stop voice2 fadeout 1.0
@@ -1040,7 +1040,7 @@ label d17s01_end:
     if d17s01_arj_assfuck is True:
         call add_points (d17s01_points) from _call_add_points_13
         flr "You have earned [d17s01_points] points."
-    elif True:
+    else:
         call add_points (d17s01_points) from _call_add_points_14
         flr "You have earned [d17s01_points] points."
     play sound4 maria_kiss1 noloop
@@ -1074,5 +1074,4 @@ label d17s01_end:
     stop music fadeout 3.0
 
     jump d17s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

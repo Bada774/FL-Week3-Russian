@@ -455,7 +455,7 @@ label e14s03_let_pw_take_charge:
 
     if e14s03_stay_in_command is False:
         scene e14s03-85 choice-pw-takes-charge-pw-wiggle-finger-gives-instructions_c1 with dissolve
-    elif True:
+    else:
         scene e14s03-85 choice-pw-takes-charge-pw-wiggle-finger-gives-instructions_c1 with fade
     play voice3 polly_impressed noloop
     pw "First, you're going to bring those lips down-town for a minute."
@@ -557,7 +557,7 @@ label e14s03_let_pw_take_charge:
 
     if e14s03_stay_in_command is False:
         jump e14s03_sex_menu
-    elif True:
+    else:
         jump e14s03_continue
 
 label e14s03_stay_in_command:
@@ -647,7 +647,7 @@ label e14s03_stay_in_command:
 
     if e14s03_let_pw_take_charge is False:
         jump e14s03_sex_menu
-    elif True:
+    else:
         jump e14s03_continue
 
 label e14s03_continue:
@@ -868,5 +868,4 @@ label e14s03_end:
 
 
     jump e14s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

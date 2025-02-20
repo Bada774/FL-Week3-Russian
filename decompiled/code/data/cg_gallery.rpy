@@ -50,7 +50,11 @@ init python:
         "e02s05"    : "e02s05-31 mc-mh-tub2_c3"                       ,
         "e02s09"    : "e02s09-64 mc-mh-sleep-cuddled_c1"              ,
 
+        "e03s01"    : "e03s06-62 gang-follows-mh-bathroom_c1"         ,
+
         "e04s01"    : "e04s08-41 lc-mc-pov-on-floor-begging"          ,
+
+        "e05s01"    : "e05s07-62 mc-op-mh-walk3_c3"                   ,
 
         "e06s01"    : "e06s01-15 mc-lc-reentry1_c2"                   ,
         "e06s04"    : "e06s04-121-mes-talk-lc"                        ,
@@ -60,6 +64,9 @@ init python:
 
         "e08s01"    : "e8s01-95 amr-talk-alt-amr"                     ,
         "e08s07"    : "e08s07-49 sy-leans-over-produce_c1"            ,
+
+        "e09s01"    : "e09s07-234 mc-omg-yes-hell-yes_c1"             ,
+        "e09s07"    : "e09s07-234 mc-omg-yes-hell-yes_c1"             ,
 
         "e10s03"    : "e10s03-98 mc-celebration-pose_c1"              ,
         "e10s04"    : "e10s04-54 mc-kisses-mes_c1"                    ,
@@ -73,8 +80,16 @@ init python:
 
         "e14s01"    : "e14s07-115 all-do-yoga-end-scene_c1"           ,
 
+        "e15s01"    : "e15s06-53-02 mes-takes-off-all-clothes_c1"     ,
+
+        "e16s01"    : "e16s05-185 jf-tells-mc-earned-it-love_c1"      ,
+        "e16s02"    : "e16s07-86 kk-know-how-treat-girl-mc-i-do_c1"   ,
+
         "e17s01"    : "e17s06-123 mc-kisses-dw-hand_c1"               ,
         "e17s02"    : "e17s06-123 mc-kisses-dw-hand_c1"               ,
-    }
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+        "e18s01"    : "e18s01-14 mc-pb-sb-dw-walk3_c2"                ,
+        "e18s02"    : "e18s03-36-lo-ke"                               ,
+        "e18s03"    : "e18s04-71 sb-pops-bottle_c1"                   ,
+    }
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

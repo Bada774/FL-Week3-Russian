@@ -1,5 +1,3 @@
-
-
 translate portuguese strings:
 
 
@@ -354,15 +352,11 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-
-
 translate portuguese strings:
 
 
     old "Endings"
     new "Finais"
-
-
 
 translate portuguese strings:
 
@@ -370,4 +364,13 @@ translate portuguese strings:
     old "Connect Your Toy"
     new "Conecte Seu Brinquedo"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate portuguese strings:
+
+
+    old "Ren'Py Save Sync"
+    new "Sincronia do Save Ren'py"
+
+
+    old "Dialogue Box Opacity"
+    new "Opacidade da Caixa de Diálogo"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

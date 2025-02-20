@@ -1,6 +1,4 @@
 
-
-
 translate turkish e06s02_87f8ba93:
 
 
@@ -1605,5 +1603,4 @@ translate turkish strings:
 
     old "Inside Min's house"
     new "Min'in evinin içi"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

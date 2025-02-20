@@ -1,6 +1,4 @@
 
-
-
 translate chinese e13s04_b0f568c1:
 
 
@@ -157,12 +155,6 @@ translate chinese replay_e13s04_37969b53:
     nk "不行了！不行了！我要泄了啊！[mcname]，我要--!"
 
 
-translate chinese replay_e13s04_b7e53779:
-
-
-    nk "天啊...太难忘了..."
-
-
 translate chinese replay_e13s04_d2c80bad:
 
 
@@ -179,12 +171,6 @@ translate chinese replay_e13s04_7b4716ff:
 
 
     nk "操我。尽你所能操我。我不在乎有人看到或听到。"
-
-
-translate chinese replay_e13s04_a4e4f076:
-
-
-    nk "*大声呻吟* 啊，妈的...继续！我爱你，[mcname]."
 
 
 translate chinese replay_e13s04_dd27a96a:
@@ -228,12 +214,21 @@ translate chinese strings:
     old "One year later"
     new "一年后"
 
-
-
 translate chinese strings:
 
 
     old "You have finished playing ending number 13!"
     new "你已经完成了第13个结局！"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate chinese replay_e13s04_4ae8355d:
+
+
+    nk "天啊...感觉也太美了..."
+
+
+translate chinese replay_e13s04_c133408e:
+
+
+    nk "*大声呻吟* 啊啊啊，操...天啊！我爱你，[mcname]。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

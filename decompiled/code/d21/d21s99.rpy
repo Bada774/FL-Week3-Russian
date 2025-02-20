@@ -39,5 +39,4 @@ label d21s99:
     stop sound3 fadeout 3.0
     stop music fadeout 4.0
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

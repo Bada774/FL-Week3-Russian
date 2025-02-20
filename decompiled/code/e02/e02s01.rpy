@@ -414,13 +414,13 @@ label e02s01_hot_bath:
     play voice3 dahlia_disappointed_hmm2 noloop
     mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     play voice2 mc_arrogant_heh2 noloop
-    mc "It's true that you learn most about people through adversary."
+    mc "It's true that you learn most about people through adversity."
     scene e02s01-65 mh-says-enough-mc-asks-what-mh-explains_c1 with dissolve
     play voice3 dahlia_thinking_hmm2 noloop
     mh "There won't be much of that."
     play voice2 mc_surprised_what1 noloop
     mc "Much of what?"
-    mh "Adversary."
+    mh "Adversity."
     mh "You know there's a bunch of other cabins next to us right?"
     mc "Yeah."
     play sound sfx_drink_loop1 volume 2.0
@@ -710,7 +710,7 @@ label e02s01_mh_control:
 
     if e02s01_both is True:
         jump e02s01_give_pleasure
-    elif True:
+    else:
         $ renpy.end_replay()
         jump e02s01_end
 
@@ -850,5 +850,4 @@ label e02s01_give_pleasure:
 label e02s01_end:
 
     jump e02s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate spanish d20s05_47e7cec6:
 
 
@@ -1351,5 +1349,4 @@ translate spanish strings:
 
     old "Talk About Your Summer Plans"
     new "Habla de tus planes de verano"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

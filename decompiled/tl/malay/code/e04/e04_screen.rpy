@@ -1,9 +1,6 @@
-
-
 translate malay strings:
 
 
     old "Please choose optional characters for this ending."
-    new "Please choose optional characters for this ending."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "Sila pilih aksara pilihan untuk pengakhiran ini."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

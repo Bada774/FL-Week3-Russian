@@ -1,6 +1,4 @@
 
-
-
 translate korean d19s02_0c7b4226:
 
 
@@ -777,5 +775,4 @@ translate korean strings:
 
     old "Go to her"
     new "보러 간다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

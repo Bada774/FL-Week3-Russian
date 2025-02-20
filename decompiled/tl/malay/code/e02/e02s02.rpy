@@ -1,6 +1,4 @@
 
-
-
 translate malay e02s02_08635dd6:
 
 
@@ -569,5 +567,4 @@ translate malay e02s02_e94ef34d:
 
 
     mh "Belok kiri, ikuti denai dan elakkan merempuh pokok. Aku akan jumpa kau di bawah sana."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

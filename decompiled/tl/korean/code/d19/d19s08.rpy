@@ -1,6 +1,4 @@
 
-
-
 translate korean d19s08_7107f1b7:
 
 
@@ -601,5 +599,4 @@ translate korean strings:
 
     old "Ask for a picture"
     new "사진을 달라고 한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

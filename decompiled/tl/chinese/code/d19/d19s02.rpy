@@ -1,6 +1,4 @@
 
-
-
 translate chinese d19s02_0c7b4226:
 
 
@@ -767,8 +765,6 @@ translate chinese strings:
     new "去找她"
 
 
-
-
 translate chinese d19s02_d138a5d3:
 
 
@@ -779,5 +775,4 @@ translate chinese d19s02_b0400d74:
 
 
     mct "我会去的"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

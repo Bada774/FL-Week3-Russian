@@ -1,6 +1,4 @@
 
-
-
 translate turkish e04s04_31d723d4:
 
 
@@ -1763,5 +1761,4 @@ translate turkish strings:
 
     old "Weeks later"
     new "Haftalar Sonra"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d17s05mh_80756f8d:
 
 
@@ -563,5 +561,4 @@ translate deutsch strings:
 
     old "Cum in her ass"
     new "Komme in ihrem Arsch"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

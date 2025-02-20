@@ -9,7 +9,7 @@ screen e08_char_choice():
             vbox:
                 xalign 0.5
                 null height 10
-                text _("Do you want to have Stacy this ending?")
+                text _("Do you want to have Stacy in this ending?")
                 null height 150
             vbox:
                 xalign 0.5
@@ -29,5 +29,4 @@ screen e08_char_choice():
             style_prefix "prologue_yta"
             textbutton _("Continue"):
                 action Jump("e08s01")
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

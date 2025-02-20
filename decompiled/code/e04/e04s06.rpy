@@ -22,7 +22,7 @@ label e04s06:
     if not hasattr(renpy.store, "e04s06_mk_available"):
         if d15s05_rescue is False and d15s05_leave is False:
             $ e04s06_mk_available = True
-        elif True:
+        else:
             $ e04s06_mk_available = False
     $ e04s06_lc_suck = False
 
@@ -371,7 +371,7 @@ label replay_e04s06 hide:
         play voice5 maria_argh noloop
         if d15s05_leave is True:
             mk "Meh, this is what I do."
-        elif True:
+        else:
             mk "It's fine. I've done a few livestreams here already."
         scene e04s06-79-sy-hi-back with dissolve
         play voice3 stacy_arrogant_huh1 noloop
@@ -389,7 +389,7 @@ label replay_e04s06 hide:
         play voice5 min_old_breathing noloop
         if d15s05_leave is True:
             mk "I'm a fuckhole. This is what I do."
-        elif True:
+        else:
             mk "Couldn't be happier. After you put me here, I realized just how much I love this."
         mk "I'm not a fan of men. Their bodies, their hands all over me, just ew."
         scene e04s06-84-mk-happy with dissolve
@@ -436,7 +436,7 @@ label replay_e04s06 hide:
         scene e04s06-85-mc-talking with dissolve
         play voice2 mc_yes_sure1 noloop
         mc "Sure. That's fine with me."
-    elif True:
+    else:
         scene e04s06-92-mk-view-at-the-empty-hole with dissolve
         pause
         scene e04s06-93-lc-sy-in-the-stall with dissolve
@@ -535,7 +535,7 @@ label replay_e04s06 hide:
         mc "Exactly."
         stop sound fadeout 1.0
         scene e04s06-100-lc-panicing with dissolve
-    elif True:
+    else:
         scene e04s06-109-lc-asking with dissolve
     play voice4 lydia_morningoh noloop
     lc "What's next?"
@@ -684,7 +684,7 @@ label e04s06_no_ntr:
         scene e04s06-141-zo-wtf with dissolve
         play voice6 boy5_angry_breathing noloop
         pause
-    elif True:
+    else:
         scene e04s06-141-zo-wtf with dissolve
         play voice6 boy5_hey_angry noloop
         zo "Hello?"
@@ -916,5 +916,4 @@ label e04s06_ntr:
     $ renpy.end_replay()
 
     jump e04s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

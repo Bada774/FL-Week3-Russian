@@ -51,7 +51,7 @@ label e12s03:
     play voice3 kanya_surprised_wow noloop
     if persistent.is_special is True:
         aw "I love it, Mom!"
-    elif True:
+    else:
         aw "I love it!"
     scene e12s03-03 vw-glad-hear-shows-bedroom-rain-shower_c1 with dissolve
     play voice4 chloe_happy_hmm noloop
@@ -94,7 +94,7 @@ label e12s03:
     vw "I'm so happy we're all here. I can't tell you how long I've waited for this. Well, most of this."
     if persistent.is_special is True:
         vw "I never would have imagined someone like you [mcname] coming into my life and reuniting me with my daughter."
-    elif True:
+    else:
         vw "I never would have imagined someone like you [mcname] coming into my life and reuniting me with Allison."
     play sound sfx_cloth_rustling3
     scene e12s03-11 triple-hug_c1 with dissolve
@@ -102,7 +102,7 @@ label e12s03:
     play voice3 kanya_thinking_hmm2 noloop
     if persistent.is_special is True:
         aw "I'm glad we're all here together, Mom."
-    elif True:
+    else:
         aw "I'm glad we're all here too."
     aw "I can't wait to see what our new life looks like. Starting with this!"
     play sound sfx_skirt_off2
@@ -286,7 +286,7 @@ label e12s03_relax:
     play voice4 chloe_yes_aga2 noloop
     if persistent.is_special is True:
         vw "And we'll get you on a super athlete diet. I'd love to cook for my daughter again."
-    elif True:
+    else:
         vw "And we'll get you on a super athlete diet. I'd love to cook for you again."
     play voice2 d9s2_ugu noloop volume 1.7
     mc "We're here to support you in everything Allison."
@@ -331,7 +331,7 @@ label e12s03_relax:
     vw "Or when you squirted on my face while [mcname] was fucking me."
     if persistent.is_special is True:
         mc "Or when you had your strap on and we double penetrated your, Mom."
-    elif True:
+    else:
         mc "Or when you had your strap on and we double penetrated Vanessa."
     scene e12s03-57 aw-steps-away-loves-it-never-cums-harder-takes-away-training_c1 with dissolve
     play voice3 kanya_angry_breathing noloop
@@ -389,7 +389,7 @@ label e12s03_relax:
     play voice2 mc_thinking_mmm5 noloop
     if persistent.is_special is True:
         mc "You raised a strong daughter, Vanessa."
-    elif True:
+    else:
         mc "You helped raise a strong woman, Vanessa."
     mc "She knows what she wants and she's going after it. I have no doubt that she'll win this competition."
     mc "If she thinks that sex is distracting, then we'll just have to wait a bit."
@@ -436,7 +436,7 @@ label e12s03_relax:
     vw "Yeah. I think I want to have children."
     if persistent.is_special is True:
         vw "I've had so much time to think about it. I have so many regrets about raising Allison. I want to try again. I think this time I can raise a child better."
-    elif True:
+    else:
         vw "I've had so much time to think about it. After watching Allison grow up... I think I know how to be a good parent now."
     vw "Especially if I have you and Allison by my side."
     scene e12s03-79 mc-love-having-kids-vw_c1 with dissolve
@@ -449,7 +449,7 @@ label e12s03_relax:
     play voice2 mc_yes_yes1 noloop
     if persistent.is_special is True:
         mc "Really. I think you're a great mom. I would love to expand our family."
-    elif True:
+    else:
         mc "Really. I think you'd make a great mom Vanessa."
 
     jump e12s03_sex
@@ -732,5 +732,4 @@ label e12s03_sex:
     $ renpy.end_replay()
 
     jump e12s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

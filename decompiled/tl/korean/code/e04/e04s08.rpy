@@ -1,6 +1,4 @@
 
-
-
 translate korean e04s08_42cc5e2a:
 
 
@@ -579,5 +577,4 @@ translate korean strings:
 
     old "You have finished playing Ending #04!"
     new "You have finished playing Ending #04!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

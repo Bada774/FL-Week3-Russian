@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e02s03_da344b59:
 
 
@@ -837,19 +835,14 @@ translate portuguese strings:
     new "Isso foi incrível"
 
 
-
-
 translate portuguese e02s03_lodge_64ffe7e5:
 
 
     mh "Ah, que romântico. E eu vou ser dominada... como bicho selvagem?"
 
 
-
-
 translate portuguese e02s03_lodge_d9ce7b3b:
 
 
     mh "Poderia ser um cavalheiro e me ajudar a tirar a roupa?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

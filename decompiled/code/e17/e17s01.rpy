@@ -309,7 +309,7 @@ label e17s01_hotel_lobby:
     play voice2 d9s2_yeah noloop volume 1.7
     if persistent.is_special is True:
         mc "My sister often said that, Mistress."
-    elif True:
+    else:
         mc "I believe that is true, Mistress."
     scene e17s01_59_hotel_lobby_dw_talk with dissolve
     play voice3 dahlia_old_upset noloop volume 1.4
@@ -727,5 +727,4 @@ label e17s01_sex:
 
     stop music fadeout 3.0
     jump e17s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -226,7 +226,7 @@ label d20s07:
     play voice2 d1s1_mmm noloop
     if fl_cumgarnish is True:
         mct "Where I put cream in her coffee..."
-    elif True:
+    else:
         mct "Where I almost put my cream in her coffee..."
     scene d20s07-46 pw-mc-talk-while-nk with dissolve
     play voice4 aaleyah_closed_moan1 noloop
@@ -1089,14 +1089,14 @@ label d20s07_last_show:
     if date_mk_tr is True and d15s05_rescue is False:
         mk "I wish he went that hard with me."
         mk "I did suck his dick in a toilet stall though."
-    elif True:
+    else:
         mk "Looks like they are having great fun."
         mk "I will have to try a dick."
     scene d20s07-237 pw-mc-talk-while-nk_nora with dissolve
     play voice4 aaleyah_yes_yeah3 noloop
     if date_mk_tr is True and d15s05_rescue is False:
         nk "We went on a ferris wheel, so that's sorta similar."
-    elif True:
+    else:
         nk "Yeah. You should give it a try."
         nk "I can ask [mcname] if you want."
     $ renpy.music.set_pan(0.0, 1.1, "voice2")
@@ -1266,8 +1266,7 @@ label d20s07_end:
     if d20s07_go_with_pn is True:
         stop music fadeout 3.0
         jump ending_14
-    elif True:
+    else:
         stop music fadeout 3.0
         jump d20s08
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -35,11 +33,10 @@ translate spanish strings:
     new "Salir al menú principal"
 
 
-
-translate spanish strings:
-
-
     old "Download free DLC containing this ending"
     new "Descarga gratis el DLC que contiene este final"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+    old "Get DLC-2 containing this ending"
+    new "Consigue el DLC-2 que contiene este final"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

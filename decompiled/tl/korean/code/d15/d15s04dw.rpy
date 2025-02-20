@@ -1,6 +1,4 @@
 
-
-
 translate korean d15s04dw_4290d7de:
 
 
@@ -1071,5 +1069,4 @@ translate korean strings:
 
     old "Let the girls think it was entirely up to them"
     new "전적으로 자기들 스스로 응어리를 해소했다고 생각하게 둔다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

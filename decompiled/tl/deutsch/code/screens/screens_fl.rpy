@@ -1,5 +1,3 @@
-
-
 translate deutsch strings:
 
 
@@ -222,4 +220,71 @@ translate deutsch strings:
     old "Skip Recap\nof Week-2"
     new "Zusammenfassung von\nWoche-2 überspringen"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate deutsch strings:
+
+
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+
+    old "Upload Saves"
+    new "Upload Saves"
+
+
+    old "Download Saves"
+    new "Download Saves"
+
+translate deutsch strings:
+
+
+    old "Touch input supported"
+    new "Touch input supported"
+
+
+    old "Navigation"
+    new "Navigation"
+
+
+    old "Pause Menu"
+    new "Pause Menu"
+
+
+    old "Quick Save"
+    new "Quick Save"
+
+
+    old "Roll Back"
+    new "Roll Back"
+
+
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Select"
+
+
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Go Back"
+
+
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Skip"
+
+
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Hide UI"
+
+
+    old "Roll Forward"
+    new "Roll Forward"
+
+
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "You can find this layout in the {b}Help{/b} menu"
+
+
+    old "CLOSE"
+    new "CLOSE"
+
+
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Get Taboo University Book 1 on Steam{/u}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

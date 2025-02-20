@@ -369,7 +369,7 @@ label replay_d15s04dd hide:
     play voice2 mc_disgust_meh4 noloop
     if is_antagonist_mode is False:
         mc "I failed a challenge. My new challenge is this cockcage."
-    elif True:
+    else:
         mc "I failed a challenge. The punishment was a cockcage."
     scene d15s04-95-dd-talking-with-mc with dissolve
     play voice3 daisy_thinking noloop
@@ -610,14 +610,14 @@ label replay_d15s04dd hide:
 
     if d15s04_dd_kiss is True:
         scene d15s04-143-opt1-mc-talking-with-dd with dissolve
-    elif True:
+    else:
         scene d15s04-145-opt2-mc-talking-with-dd with dissolve
     play voice2 d1s5_mchappy noloop
     mc "I better go. I'll talk to you later, alright?"
     if d15s04_dd_kiss is True:
         play voice3 daisy_impressed noloop
         scene d15s04-144-opt1-dd-nods with dissolve
-    elif True:
+    else:
         play voice3 daisy_aga noloop
         scene d15s04-146-opt2-dd-talking-with-dd with dissolve
     dd "Hm. Take care."
@@ -654,5 +654,4 @@ label replay_d15s04dd hide:
 
     stop music fadeout 3.5
     jump d15s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

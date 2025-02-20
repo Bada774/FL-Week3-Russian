@@ -1,5 +1,3 @@
-
-
 translate malay strings:
 
 
@@ -17,8 +15,6 @@ translate malay strings:
 
     old "mute main"
     new "bisu utama"
-
-
 
 translate malay strings:
 
@@ -134,8 +130,6 @@ translate malay strings:
     old "Sync Error"
     new "Sync Error"
 
-
-
 translate malay strings:
 
 
@@ -234,4 +228,9 @@ translate malay strings:
     old "Retry"
     new "Retry"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate malay strings:
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

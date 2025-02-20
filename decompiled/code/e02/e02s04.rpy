@@ -322,7 +322,7 @@ label e02s04_fireplace:
         scene e02s04-48-3 mc-mh-ap-atp-talk3_c3 with dissolve
         play voice5 girl23_arrogant_haha noloop
         atp "Haha. Alexander is always in the mood for me to toss his salad or stretch his starfish."
-    elif True:
+    else:
         scene e02s04-48-4 mc-mh-ap-atp-talk4_c1 with dissolve
         play voice2 mc_no_nah2 noloop
         mc "We haven't tried that yet."
@@ -781,5 +781,4 @@ label e02s04_end:
     stop music fadeout 3.0
     stop sound4 fadeout 3.0
     jump e02s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

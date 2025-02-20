@@ -1,5 +1,3 @@
-
-
 translate malay strings:
 
 
@@ -26,8 +24,6 @@ translate malay strings:
     old "Return to Mainmenu"
     new "Kembali ke menu utama"
 
-
-
 translate malay strings:
 
 
@@ -38,11 +34,9 @@ translate malay strings:
     old "Exit to Mainmenu"
     new "Exit to Mainmenu"
 
-
 translate malay strings:
 
 
     old "Download free DLC containing this ending"
     new "Download free DLC containing this ending"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

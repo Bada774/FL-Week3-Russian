@@ -1,6 +1,4 @@
 
-
-
 translate malay e02s03_da344b59:
 
 
@@ -847,5 +845,4 @@ translate malay strings:
 
     old "That was amazing"
     new "Ianya menakjubkan"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

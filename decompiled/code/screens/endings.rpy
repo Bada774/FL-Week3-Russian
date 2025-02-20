@@ -1,10 +1,10 @@
 
 
 screen fl_endings():
+    tag menu
 
 
-
-    style_prefix "ending_menu" tag menu
+    style_prefix "ending_menu"
 
     add "black"
     add "images/utility/fl-loading-logo_only.webp" xalign 0.5 yalign 0.5 at image_opacity(0.25)
@@ -12,20 +12,24 @@ screen fl_endings():
     label _("ENDINGS")
 
     frame:
-        has grid 6 3:
-            style_prefix "ending_grid"
-            spacing 30
+        has grid 6 3
+        style_prefix "ending_grid"
+        spacing 30
 
         for e in endings_list:
             if check_ending_lock(e[0]) is True:
                 frame:
                     vbox:
                         imagebutton auto "images/utility/endings/ending_" + e[0][1:] + "_%s.webp" action ShowMenu("ending_start_screen", e[0]) style "ending_grid_button"
-                        text e[0] + " - " + e[1]
+                        text e[0] + " - " + __(e[1])
                     if e[4] == 2:
                         frame:
                             style_prefix "dlc_stamp_endings"
                             text "DLC-1"
+                    elif e[4] == 3:
+                        frame:
+                            style_prefix "dlc_stamp_endings"
+                            text "DLC-2"
             else:
                 frame:
                     has vbox
@@ -41,10 +45,10 @@ screen fl_endings():
         yalign 1.02
 
 screen ending_start_screen(ending):
+    tag menu
 
 
-
-    style_prefix "ending_start_screen" tag menu
+    style_prefix "ending_start_screen"
 
     add "images/ending-arts/ending_" + ending[-2:] + "_art.webp"
 
@@ -53,9 +57,6 @@ screen ending_start_screen(ending):
             frame:
                 has vbox
                 label e[1]
-                if not get_has_ending(e[0][-2:]) or not renpy.has_label(e[2]):
-                    if e[4] == 3:
-                        text _("This ending will be included in a future DLC")
 
             frame:
                 style_prefix "ending_start_button"
@@ -64,6 +65,8 @@ screen ending_start_screen(ending):
                     textbutton _("Play") action Start(e[2]) style "ending_screen_start"
                 elif e[4] == 2 and is_steam_edition is True:
                     textbutton _("Download free DLC containing this ending") action OpenURL("steam://openurl/https://store.steampowered.com/app/2755430/Fetish_Locator_Week_Three__Bonus_Endings_DLC_One/") style "ending_screen_steam"
+                elif e[4] == 3 and is_steam_edition is True:
+                    textbutton _("Get DLC-2 containing this ending") action OpenURL("steam://openurl/https://store.steampowered.com/app/3051920/Fetish_Locator_Week_Three__Bonus_Endings_DLC_Two/") style "ending_screen_steam"
                 textbutton _("Return") action ShowMenu("fl_endings") keysym "pad_b_press" style "ending_screen_return"
                 null height 0
 
@@ -195,5 +198,4 @@ style ending_grid_text:
     xalign 0.5
     text_align 0.5
     size 22
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

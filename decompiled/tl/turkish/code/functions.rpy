@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -33,5 +31,4 @@ translate turkish strings:
 
     old "You can only select one out of Daisy and Dahlia"
     new "Daisy ve Dahlia'dan sadece birini seçebilirsiniz"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

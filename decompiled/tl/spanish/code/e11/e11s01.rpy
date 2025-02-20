@@ -1,6 +1,4 @@
 
-
-
 translate spanish e11s01_66df9fc1:
 
 
@@ -65,12 +63,6 @@ translate spanish e11s01_608e8e51:
 
 
     mc "¡Hablando de estudiar! ¿Qué tal la Universidad?"
-
-
-translate spanish e11s01_aad99233:
-
-
-    ly "¡Está bien! De hecho soy la mejor de mi clase en escritura inglesa. Y tengo una conferencia muy emocionante sobre astrología."
 
 
 translate spanish e11s01_ffc39c14:
@@ -534,4 +526,9 @@ translate spanish strings:
     old "Twenty years later"
     new "Veinte años después"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate spanish e11s01_76c691b8:
+
+
+    ly "¡Qué bien! De hecho soy la mejor de mi clase en escritura inglesa. Y tengo una clase muy emocionante sobre astronomía."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

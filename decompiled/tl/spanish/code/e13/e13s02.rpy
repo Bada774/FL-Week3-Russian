@@ -1,16 +1,8 @@
 
-
-
 translate spanish e13s02_0ccad110:
 
 
     nk "Ya conoces el trato, Jim. Volveremos a abrir en unas horas por la noche \"Noche de micrófono abierto\", pero estamos cerrados por ahora."
-
-
-translate spanish e13s02_0d80f13c:
-
-
-    "Cliente" "Aww, pero…"
 
 
 translate spanish e13s02_8e6b9eae:
@@ -125,12 +117,6 @@ translate spanish replay_e13s02_f38ec24d:
 
 
     mc "Oye, está bien. No tienes que esforzarte."
-
-
-translate spanish replay_e13s02_25cd8572:
-
-
-    nk "En realidad… ¿Sabes qué? Siéntate."
 
 
 translate spanish replay_e13s02_a53c11d8:
@@ -376,4 +362,15 @@ translate spanish strings:
     old "Fuck Her Anally"
     new "Fóllala analmente"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate spanish e13s02_e5e5853b:
+
+
+    "Customer" "Aww, pero..."
+
+
+translate spanish replay_e13s02_e2a7aa61:
+
+
+    nk "En realidad... ¿sabes qué? Siéntate."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

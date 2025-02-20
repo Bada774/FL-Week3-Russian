@@ -1,6 +1,4 @@
 
-
-
 translate malay d20s02rn_8e860913:
 
 
@@ -937,5 +935,4 @@ translate malay strings:
 
     old "Let them keep going"
     new "Biarkan mereka teruskan"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

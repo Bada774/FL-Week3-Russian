@@ -1,6 +1,4 @@
 
-
-
 translate korean d15s06_1d052d6c:
 
 
@@ -1703,5 +1701,4 @@ translate korean strings:
 
     old "I love you too"
     new "나도 리사를 사랑한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

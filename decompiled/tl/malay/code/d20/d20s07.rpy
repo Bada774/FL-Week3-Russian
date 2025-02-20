@@ -1,6 +1,4 @@
 
-
-
 translate malay d20s07_96d287b6:
 
 
@@ -1617,11 +1615,8 @@ translate malay strings:
     new "Balik rumah"
 
 
-
-
 translate malay d20s07_last_show_b9af505f:
 
 
     nk "Kau fikir mereka akan lakukan itu?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

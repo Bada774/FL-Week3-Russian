@@ -1,5 +1,3 @@
-
-
 translate malay strings:
 
 
@@ -166,8 +164,6 @@ translate malay strings:
     old "SKIP RECAP"
     new "LANGKAUI"
 
-
-
 translate malay strings:
 
 
@@ -250,8 +246,6 @@ translate malay strings:
     old "Did you give the password to her?"
     new "Adakah anda memberikan kata laluan kepadanya?"
 
-
-
 translate malay strings:
 
 
@@ -282,8 +276,6 @@ translate malay strings:
     old "Did you give the password to Hana?"
     new "Awak bagi kata laluan pada Hana?"
 
-
-
 translate malay strings:
 
 
@@ -293,8 +285,6 @@ translate malay strings:
 
     old "You haven't unlocked this ending"
     new "Anda belum membuka pengakhiran ini"
-
-
 
 translate malay strings:
 
@@ -318,4 +308,71 @@ translate malay strings:
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate malay strings:
+
+
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+
+    old "Upload Saves"
+    new "Upload Saves"
+
+
+    old "Download Saves"
+    new "Download Saves"
+
+translate malay strings:
+
+
+    old "Touch input supported"
+    new "Touch input supported"
+
+
+    old "Navigation"
+    new "Navigation"
+
+
+    old "Pause Menu"
+    new "Pause Menu"
+
+
+    old "Quick Save"
+    new "Quick Save"
+
+
+    old "Roll Back"
+    new "Roll Back"
+
+
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Select"
+
+
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Go Back"
+
+
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Skip"
+
+
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Hide UI"
+
+
+    old "Roll Forward"
+    new "Roll Forward"
+
+
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "You can find this layout in the {b}Help{/b} menu"
+
+
+    old "CLOSE"
+    new "CLOSE"
+
+
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Get Taboo University Book 1 on Steam{/u}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

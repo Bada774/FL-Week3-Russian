@@ -1,5 +1,3 @@
-
-
 translate portuguese strings:
 
 
@@ -38,8 +36,6 @@ translate portuguese strings:
     old "Coming Soon"
     new "Em Breve"
 
-
-
 translate portuguese strings:
 
 
@@ -49,5 +45,4 @@ translate portuguese strings:
 
     old "You haven't unlocked this ending"
     new "Você não liberou este final"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate italian lovense_test_9e0ee773:
 
 
@@ -130,8 +128,6 @@ translate italian strings:
     old "Save"
     new "Salva"
 
-
-
 translate italian strings:
 
 
@@ -142,4 +138,17 @@ translate italian strings:
     old "Get a toy now"
     new "Ottieni ora un giocattolo"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate italian strings:
+
+
+    old "1. Click on the \"Discover\" tab"
+    new "1. Click on the \"Discover\" tab"
+
+
+    old "2. Then click on \"Game Mode\" option"
+    new "2. Then click on \"Game Mode\" option"
+
+
+    old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate italian e08s07_f90765bb:
 
 
@@ -953,5 +951,4 @@ translate italian strings:
 
     old "You have finished playing Ending #08!"
     new "Hai finito di giocare il finale #08!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

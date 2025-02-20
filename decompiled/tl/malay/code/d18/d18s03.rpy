@@ -1,6 +1,4 @@
 
-
-
 translate malay d18s03_ec5dba5c:
 
 
@@ -1751,5 +1749,4 @@ translate malay strings:
 
     old "No. Definitely NOT"
     new "Tak. Semestinya TAK"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

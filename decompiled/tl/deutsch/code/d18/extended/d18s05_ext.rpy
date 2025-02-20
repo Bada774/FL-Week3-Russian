@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate deutsch d18s05_after_sex_d36f975d:
     sb "Ich habe schon eine Weile darüber nachgedacht."
 
 
-translate deutsch d18s05_after_sex_f26fa239:
-
-
-    sb "Ich hasse diesen Ort. Es ist ein verdammter Dschungel aus Beton. Ich wollte schon immer hier weg."
-
-
 translate deutsch d18s05_after_sex_7102ee2c:
 
 
@@ -708,4 +700,9 @@ translate deutsch strings:
     old "Fuck Samiya"
     new "Ficke Samiya"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate deutsch d18s05_after_sex_ec16ba99:
+
+
+    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

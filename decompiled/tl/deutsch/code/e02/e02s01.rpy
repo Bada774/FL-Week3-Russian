@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e02s01_e6009a2c:
 
 
@@ -715,12 +713,6 @@ translate deutsch e02s01_hot_bath_75a144f0:
     mh "Hmm, ich nehme an, du hast recht, ich werde ein bisschen gutbürgerlich."
 
 
-translate deutsch e02s01_hot_bath_1ec01878:
-
-
-    mc "Es stimmt, dass man durch Gegner am meisten über Menschen lernt."
-
-
 translate deutsch e02s01_hot_bath_47631e6c:
 
 
@@ -731,12 +723,6 @@ translate deutsch e02s01_hot_bath_454ecb0d:
 
 
     mc "Viele von was?"
-
-
-translate deutsch e02s01_hot_bath_79bd615b:
-
-
-    mh "Gegner."
 
 
 translate deutsch e02s01_hot_bath_d1f576cc:
@@ -1276,4 +1262,15 @@ translate deutsch strings:
     old "Why Not Both?"
     new "Warum nicht beides?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate deutsch e02s01_hot_bath_d6431c08:
+
+
+    mc "It's true that you learn most about people through adversity."
+
+
+translate deutsch e02s01_hot_bath_c527c472:
+
+
+    mh "Adversity."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

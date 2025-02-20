@@ -59,7 +59,7 @@ label d15s04:
             play voice2 mc_angry_huh2 noloop
             if study_points > 0:
                 mct "I was doing pretty well, I need to get started again if I'm gonna pass this exam."
-            elif True:
+            else:
                 mct "I'm way behind. I need to get on this stat or I'm gonna flunk hard."
 
             $ d15s04_study = True
@@ -159,5 +159,4 @@ label d15s04_studying:
     stop sound2 fadeout 3.5
 
     jump d15s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

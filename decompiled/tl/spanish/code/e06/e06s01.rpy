@@ -1,6 +1,4 @@
 
-
-
 translate spanish e06s01_0143d3aa:
 
 
@@ -437,5 +435,4 @@ translate spanish strings:
 
     old "Later That Day"
     new "Más tarde ese día"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

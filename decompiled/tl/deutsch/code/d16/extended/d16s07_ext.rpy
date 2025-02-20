@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d16s07_ext_0f4c0f58:
 
 
@@ -929,11 +927,8 @@ translate deutsch strings:
     new "Draußen kommen"
 
 
-
-
 translate deutsch d16s07_ext_3b7535cc:
 
 
     mc "Hallo, schön dich kennenzulernen."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

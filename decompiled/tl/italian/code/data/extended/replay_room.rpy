@@ -1,5 +1,3 @@
-
-
 translate italian strings:
 
 
@@ -290,7 +288,6 @@ translate italian strings:
     old "Ending 14: Polly, Nora & Debbie"
     new "Finale 14: Polly, Nora & Debbie"
 
-
 translate italian strings:
 
 
@@ -308,8 +305,6 @@ translate italian strings:
 
     old "Ending 17: Pregnant Dahlia"
     new "Ending 17: Pregnant Dahlia"
-
-
 
 translate italian strings:
 
@@ -361,4 +356,93 @@ translate italian strings:
     old "Ending 07: Lydia & AmRose"
     new "Ending 07: Lydia & AmRose"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate italian strings:
+
+
+    old "Ending 05: Oliver"
+    new "Ending 05: Oliver"
+
+
+    old "Ending 05: Lyssa"
+    new "Ending 05: Lyssa"
+
+
+    old "Ending 16: Jessie and Molly"
+    new "Ending 16: Jessie and Molly"
+
+
+    old "Ending 16: Jessie and Kanya"
+    new "Ending 16: Jessie and Kanya"
+
+
+    old "Ending 16: Sage and Kristen"
+    new "Ending 16: Sage and Kristen"
+
+
+    old "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "Ending 16: Jessie, Molly, Sage & Kristen"
+
+translate italian strings:
+
+
+    old "Ending 15: Min & Stacy"
+    new "Ending 15: Min & Stacy"
+
+
+    old "Ending 15: Watersports"
+    new "Ending 15: Watersports"
+
+
+    old "Ending 15: Olivia, Bell & Annie"
+    new "Ending 15: Olivia, Bell & Annie"
+
+
+    old "Ending 15: Lyssa, Stacy & Gemma"
+    new "Ending 15: Lyssa, Stacy & Gemma"
+
+
+    old "Ending 15: Min, Stacy & Olivia"
+    new "Ending 15: Min, Stacy & Olivia"
+
+
+    old "Ending 18: Samiya, Dahlia & Pete"
+    new "Ending 18: Samiya, Dahlia & Pete"
+
+
+    old "Ending 18: Quartet, Londyn & Kendell"
+    new "Ending 18: Quartet, Londyn & Kendell"
+
+
+    old "Ending 18: Samiya"
+    new "Ending 18: Samiya"
+
+translate italian strings:
+
+
+    old "Ending 03: Lyssa & Stacy"
+    new "Ending 03: Lyssa & Stacy"
+
+
+    old "Ending 03: Lyssa, Chiara & Stacy"
+    new "Ending 03: Lyssa, Chiara & Stacy"
+
+
+    old "Ending 09: AmRose & Allison"
+    new "Ending 09: AmRose & Allison"
+
+
+    old "Ending 09: Stacy, AmRose & Allison"
+    new "Ending 09: Stacy, AmRose & Allison"
+
+
+    old "Ending 09: Hana & Londyn"
+    new "Ending 09: Hana & Londyn"
+
+
+    old "Ending 09: Hana & Allison"
+    new "Ending 09: Hana & Allison"
+
+
+    old "Ending 09: Party Girls"
+    new "Ending 09: Party Girls"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

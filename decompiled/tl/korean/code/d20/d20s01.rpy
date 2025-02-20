@@ -1,6 +1,4 @@
 
-
-
 translate korean d20s01_ab231225:
 
 
@@ -567,5 +565,4 @@ translate korean strings:
 
     old "Do you want Stacy to pee on you?"
     new "스테이시가 당신에게 소변 보길 원합니까?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

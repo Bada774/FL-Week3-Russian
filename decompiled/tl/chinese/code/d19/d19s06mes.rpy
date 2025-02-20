@@ -1,6 +1,4 @@
 
-
-
 translate chinese d19s06mes_3f591a4b:
 
 
@@ -1129,14 +1127,10 @@ translate chinese d19s06mes_ac9adf42:
     mes "自从她进入潘多拉房间后，我就没这么开心过了。"
 
 
-
-
 translate chinese d19s06mes_6edb2059:
 
 
     cl "哦，操操操。"
-
-
 
 
 translate chinese d19s06mes_a19ae317:
@@ -1155,5 +1149,4 @@ translate chinese strings:
 
     old "Do you want to see watersports?"
     new "你想看水上运动吗?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

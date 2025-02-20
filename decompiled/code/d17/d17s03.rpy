@@ -160,7 +160,7 @@ label d17s03:
     play voice2 mc_thinking_hmm1 noloop
     if persistent.is_special is True:
         mc "Hana said that you're her sister."
-    elif True:
+    else:
         mc "Hana said that you're her girlfriend."
     scene d17s03-41-ir-talk-mc with dissolve
     play voice3 dahlia_yes_aga noloop volume 0.75
@@ -192,7 +192,7 @@ label d17s03:
         scene d17s03-45-mc-talk-ir with dissolve
         play voice2 mc_angry_hm1 noloop
         mc "So, you're twins and she's the older sister. She's protective of you."
-    elif True:
+    else:
         play voice3 dahlia_no_nah noloop volume 0.6
         ir "Not quite. Our fathers met in the Maternity Ward. My dad brought cigars."
         scene d17s03-47-mc-talk-ir with dissolve
@@ -272,7 +272,7 @@ label d17s03:
     play voice3 dahlia_arrogant_pff noloop
     if persistent.is_special is True:
         ir "No idea. She's never really been in the picture."
-    elif True:
+    else:
         ir "Hana has become distant. The Senator is beyond distant with me now. Mom... well, she's basically nonexistent."
     scene d17s03-49-mc-talk-ir with dissolve
     play voice2 mc_disappointed_ehh3 noloop
@@ -287,7 +287,7 @@ label d17s03:
     play voice3 min_arrogant_hm noloop
     if persistent.is_special is True:
         ir "We always had nannies."
-    elif True:
+    else:
         ir "I always had nannies."
     scene d17s03-53-mc-talk-ir with dissolve
     play voice2 d1s2_hmm noloop volume 2.0
@@ -296,7 +296,7 @@ label d17s03:
     play voice3 iona_hm1 noloop
     if persistent.is_special is True:
         ir "They never stuck around for long. Our parents didn't want us getting attached to any of them. They weren't family."
-    elif True:
+    else:
         ir "They never stuck around for long. My parents didn't want me getting attached to any of them. They weren't family."
     scene d17s03-55-mc-talk-ir with dissolve
     play voice2 mc_pain_auh1 noloop
@@ -305,7 +305,7 @@ label d17s03:
     play voice3 dahlia_yes_yeah3 noloop
     if persistent.is_special is True:
         ir "Yeah, well, we're spoiled little rich girls. There were upsides and downsides."
-    elif True:
+    else:
         ir "Yeah, well, I always had Hana and her family. Even after her parents divorced, they both stayed close with us."
     scene d17s03-57-mc-talk-ir with dissolve
     play voice2 mc_thinking_mmm3 noloop
@@ -318,7 +318,7 @@ label d17s03:
         scene d17s03-59-mc-talk-ir with dissolve
         play voice2 mc_pain_auch1 noloop
         mc "Ouch."
-    elif True:
+    else:
         ir "Maybe he spoiled me more than Hana, but he always included her. Made sure we had the best clothes and dolls and all that."
         scene d17s03-59-mc-talk-ir with dissolve
         play voice2 mc_happy_a1 noloop
@@ -339,7 +339,7 @@ label d17s03:
     mc "Hmm."
     if persistent.is_special is True:
         mc "Let me get this straight. You and Hana have known each other since before you were even born."
-    elif True:
+    else:
         mc "Let me get this straight. You and Hana have known each other practically since birth."
     $ renpy.music.set_volume(0.5, 1.5, "sound4")
     scene d17s03-65-mc-ir-arrived-at-a-bus-stop with dissolve
@@ -365,7 +365,7 @@ label d17s03:
         play voice2 d1s5b_emmm noloop volume 1.5
         mc "Sorry, I guess I misunderstood.{w} But you're both sexy, single, and attracted to women?"
         scene d17s03-84-ir-talk-mc with dissolve
-    elif True:
+    else:
         scene d17s03-85-mc-talk-ir with dissolve
         play voice2 d1s5_mchappy noloop volume 1.8
         mc "I mean, you fuck each other.{w} Now you're girlfriends."
@@ -414,7 +414,7 @@ label d17s03:
         scene d17s03-76-ir-talk-mc with dissolve
         play voice3 iona_yes3 noloop
         ir "Right."
-    elif True:
+    else:
         scene d17s03-71-ir-talk-mc with dissolve
         play voice3 dahlia_thinking_mmm2 noloop
         ir "You were saying that we've known each other our entire lives and we're girlfriends."
@@ -489,5 +489,4 @@ label d17s03:
     stop music fadeout 5.0
 
     jump d17s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

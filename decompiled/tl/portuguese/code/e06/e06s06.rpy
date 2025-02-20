@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s06_820294b7:
 
 
@@ -1223,8 +1221,6 @@ translate portuguese strings:
     new "Foder Lyssa enquanto ela fode AmRose"
 
 
-
-
 translate portuguese e06s06_mh_harem_beccaddc:
 
 
@@ -1243,18 +1239,14 @@ translate portuguese e06s06_finish_1_04a9c018:
     mh "Isso, [mcname]. Mostra para a Lydia que pode me dar um orgasmo!"
 
 
-
-
 translate portuguese e06s06_d14a3c55:
 
 
     lc "Sim, assim eu fico bem a par de todas garotas que ele tem ficado."
 
 
-
 translate portuguese e06s06_finish_1_2479bcce:
 
 
     mh "Mmmmrmm!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate spanish d17s06dw_41176219:
 
 
@@ -1163,5 +1161,4 @@ translate spanish d17s06dw_breakup_6525077f:
 
 
     mct "¿Qué mierda acaba de pasar?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

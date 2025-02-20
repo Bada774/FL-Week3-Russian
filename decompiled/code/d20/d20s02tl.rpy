@@ -74,7 +74,7 @@ label d20s02tl:
     if _in_replay:
         if persistent.is_special is True:
             $ d19s06_both_lewalds = True
-        elif True:
+        else:
             $ d19s06_both_lewalds = False
 
     if not _in_replay:
@@ -111,7 +111,7 @@ label d20s02tl:
     play voice3 teresa_thinking_emm1 noloop
     if d19s06_both_lewalds is True:
         tl "Cynthia is... uh...{w} She's praying and preparing."
-    elif True:
+    else:
         tl "Cynthia? I didn't-{w} You didn't say that she should be here."
     scene d20s2-04 mc-tl-talk2_c1 with dissolve
     play voice2 mc_arrogant_huh2 noloop
@@ -120,7 +120,7 @@ label d20s02tl:
     play voice3 teresa_surprised_huh2 noloop
     if d19s06_both_lewalds  is True:
         tl "I'm sorry. I don't know where she is. She should be here soon. "
-    elif True:
+    else:
         tl "I'm sorry. I don't know where she is."
     tl "Do you want me to call her cell?"
     scene d20s2-05 mc-tl-talk3_c1 with dissolve
@@ -418,7 +418,7 @@ label d20s02tl_nude:
             $ d20s02tl_menu_3_choice = "fuck"
             if d20s02tl_pray is True:
                 jump d20s02tl_fuck
-            elif True:
+            else:
                 play voice2 mc_happy_hah2 noloop
                 mc "Now it is time for you to bounce on my cock."
                 scene d20s2-21-5 tl-knees5_c1 with dissolve
@@ -498,7 +498,7 @@ label d20s02tl_whip:
     play voice3 teresa_pain_sobs2 noloop
     if date_mes is True:
         tl "I am a punishment slut - just like my daughter."
-    elif True:
+    else:
         tl "I love being punished. I love punishing my daughter."
     tl "Oh Lord, what shall I do?"
     scene d20s2-21-6 tl-knees6_c1 with dissolve
@@ -608,7 +608,7 @@ label d20s02tl_fuck:
 
     if d19s06_both_lewalds is False:
         jump d20s02tl_cum
-    elif True:
+    else:
         jump d20s02tl_cl
 
 label d20s02tl_cum:
@@ -743,7 +743,7 @@ label d20s02tl_fail:
         scene d20s2-68-2 mc-tl-end2-2_c1 with dissolve
         play voice2 d2s12_emmm noloop
         mc "I'm...{w} but I'm..."
-    elif True:
+    else:
         scene d20s2-67 mc-tl-fail2-clothes_c2 with hpunch
         play voice3 teresa_scared_huh1 noloop
         tl "By Heaven & Hell! I have been misled!!"
@@ -764,7 +764,7 @@ label d20s02tl_fail:
         mc "I'm...{w} but I'm..."
     if d20s02tl_nude is True:
         scene d20s2-68-2 mc-tl-end2-2_c2 with dissolve
-    elif True:
+    else:
         scene d20s2-68 mc-tl-end2-1-clothes_c2 with dissolve
     play voice3 teresa_angry_argh5 noloop
     tl "You sought to corrupt me with your perverted ways???"
@@ -885,7 +885,7 @@ label d20s02tl_cl_pray:
     play voice2 mc_yes_yeah2 noloop
     if d20s02tl_pray is True:
         mc "Theresa, teach your daughter the words of surrender."
-    elif True:
+    else:
         mc "Theresa, surrender yourself to my teaching."
     scene d20s2-43 mc-cl-tl-knees1_c1 with dissolve
     play voice3 teresa_disappointed_mph noloop
@@ -936,7 +936,7 @@ label d20s02tl_cl_whip:
     if d20s02tl_whip is True and date_mes is True:
         mc "I know how much you both will enjoy this."
         mc "I am just going to have to try to enjoy it more."
-    elif True:
+    else:
         mc "I hope you both will enjoy this as much as I do."
     scene d20s2-44 mc-cl-tl-whip1_c3 with dissolve
     play voice2 d3s11b_mcheh noloop volume 1.5
@@ -1303,5 +1303,4 @@ label d20s02tl_jump:
     stop music fadeout 3.0
 
     jump d20s02rn
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

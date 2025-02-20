@@ -279,7 +279,7 @@ label e10s06_sex:
         scene e10s06-lc-vid
         show screen cutscene_skip("e10s06_skip_video")
         $ renpy.pause(88.0, hard=True)
-    elif True:
+    else:
         scene e10s06-53 frame-tv-mc-closes-blinds-mes-on-table_c1 with dissolve
         pause
         stop sound4 fadeout 1.0
@@ -319,7 +319,7 @@ label e10s06_after_video:
     elif e10s06_skip_video is True:
         $ renpy.music.set_volume(0.5, 2.5, "music")
         scene e10s06-53-01 mes-pushing-mc-against-window-taking-dick-out_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         $ renpy.music.set_volume(0.5, 2.5, "music")
         scene e10s06-53-01 mes-pushing-mc-against-window-taking-dick-out_c1 with Dissolve(0.1)
     pause
@@ -553,5 +553,4 @@ label e10s06_after_video:
 
     stop music fadeout 4.5
     jump e10s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

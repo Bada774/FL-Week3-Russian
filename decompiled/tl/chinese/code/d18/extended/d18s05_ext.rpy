@@ -1,6 +1,4 @@
 
-
-
 translate chinese d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate chinese d18s05_after_sex_d36f975d:
     sb "我已经考虑了一段时间了。"
 
 
-translate chinese d18s05_after_sex_f26fa239:
-
-
-    sb "我讨厌这里。这他妈就是个水泥丛林。我一直都想离开这个鬼地方。"
-
-
 translate chinese d18s05_after_sex_7102ee2c:
 
 
@@ -703,11 +695,14 @@ translate chinese strings:
     new "操萨米亚"
 
 
-
-
 translate chinese d18s05_after_sex_511784d8:
 
 
-    dw ""
+    dw "祝你们好运！我真的希望你们能成功！"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate chinese d18s05_after_sex_ec16ba99:
+
+
+    sb "我讨厌这个地方。这他妈就是个水泥丛林，我需要去旅行放松一下。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

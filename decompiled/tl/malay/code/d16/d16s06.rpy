@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s06_e9ce6c28:
 
 
@@ -751,8 +749,6 @@ translate malay d16s06_89a8c10f:
     flr "Anda telah memperoleh [d16s06_points] mata."
 
 
-
-
 translate malay d16s06_7fa6b07f:
 
 
@@ -781,5 +777,4 @@ translate malay d16s06_d7755542:
 
 
     aw "*Ketawa* \"Emosi\" huh? Aku pasti gembira kerana aku dapat mengalaminya."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

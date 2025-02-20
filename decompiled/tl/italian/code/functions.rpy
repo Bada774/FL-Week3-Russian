@@ -1,5 +1,3 @@
-
-
 translate italian strings:
 
 
@@ -30,12 +28,9 @@ translate italian strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Puoi selezionarne solo uno tra Daisy e Dahlia"
 
-
-
 translate italian strings:
 
 
     old "You have unlocked Ending #{}"
     new "Hai sbloccato il Finale #{}"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

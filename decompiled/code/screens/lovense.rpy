@@ -24,8 +24,8 @@ screen lovense_connect():
                 vbox:
                     add "images/utility/lovense/lovense_step_1.webp" xalign 0.5
                     null height 20
-                    text _("1. Click on the \"Me\" tab")
-                    text _("2. Then click on \"Settings\"")
+                    text _("1. Click on the \"Discover\" tab")
+                    text _("2. Then click on \"Game Mode\" option")
                 vbox:
                     add "images/utility/lovense/lovense_step_2.webp" xalign 0.5
                     null height 20
@@ -33,7 +33,7 @@ screen lovense_connect():
                 vbox:
                     add "images/utility/lovense/lovense_step_3.webp" xalign 0.5
                     null height 20
-                    text _("4. Enter the \"Local IP\" and \"Http Port\" shown in the app")
+                    text _("4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect.")
 
             vbox:
                 hbox:
@@ -53,7 +53,7 @@ screen lovense_connect():
     hbox:
         style_prefix "lovense_title"
         text _("Connect")
-        imagebutton auto "images/utility/lovense/lovense_big_%s.webp" yalign 0.5 action OpenURL("https://www.lovense.com/r/9qvp6l?t=m1")
+        imagebutton auto "images/utility/lovense/lovense_big_%s.webp" yalign 0.5 action OpenURL("https://www.lovense.com/a/Vinovella")
         text _("Toy")
 
 screen lovense_sale_screen():
@@ -78,13 +78,13 @@ screen lovense_sale_screen():
             yalign 0.97
             style_prefix "prologue_yta"
             textbutton _("Get a toy now"):
-                action OpenURL("https://www.lovense.com/r/9qvp6l?t=m1")
+                action OpenURL("https://www.lovense.com/a/Vinovella")
 
     vbox:
         style_prefix "connect_toy"
         textbutton _("{u}Connect your toy!{/u}") action ShowMenu("lovense_connect")
 
-    imagebutton auto "images/utility/lovense/lovense_big_%s.webp" xpos 75 ypos 60 action OpenURL("https://www.lovense.com/r/9qvp6l?t=m1")
+    imagebutton auto "images/utility/lovense/lovense_big_%s.webp" xpos 75 ypos 60 action OpenURL("https://www.lovense.com/a/Vinovella")
 
 
 screen lovense_input(what):
@@ -108,9 +108,9 @@ screen lovense_input(what):
         xpadding 25
         ypadding 25
 
-        has vbox:
-            order_reverse False
-            spacing 25
+        has vbox
+        order_reverse False
+        spacing 25
 
         frame:
             xsize 950
@@ -150,7 +150,6 @@ screen lovense_input(what):
                 activate_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_button_click.mp3"
 
             button:
-                xanchor 1.0
                 xalign 1.0
                 left_padding 50
                 top_padding 3
@@ -287,5 +286,4 @@ style connect_toy_vbox:
     xanchor 1.0
     xpos 1875
     ypos 90
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

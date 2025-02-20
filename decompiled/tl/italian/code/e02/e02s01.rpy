@@ -1,6 +1,4 @@
 
-
-
 translate italian e02s01_e6009a2c:
 
 
@@ -715,12 +713,6 @@ translate italian e02s01_hot_bath_75a144f0:
     mh "Hmm, immagino tu abbia ragione, sto diventando un po' borghese."
 
 
-translate italian e02s01_hot_bath_1ec01878:
-
-
-    mc "E' vero che hai imparato molto dalle persone facendo l'avvocato."
-
-
 translate italian e02s01_hot_bath_47631e6c:
 
 
@@ -731,12 +723,6 @@ translate italian e02s01_hot_bath_454ecb0d:
 
 
     mc "Molto di che?"
-
-
-translate italian e02s01_hot_bath_79bd615b:
-
-
-    mh "Di cui parlare."
 
 
 translate italian e02s01_hot_bath_d1f576cc:
@@ -1276,4 +1262,15 @@ translate italian strings:
     old "Why Not Both?"
     new "Perchè non entrambi?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate italian e02s01_hot_bath_d6431c08:
+
+
+    mc "It's true that you learn most about people through adversity."
+
+
+translate italian e02s01_hot_bath_c527c472:
+
+
+    mh "Adversity."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

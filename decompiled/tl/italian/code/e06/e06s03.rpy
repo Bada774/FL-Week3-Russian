@@ -1,6 +1,4 @@
 
-
-
 translate italian e06s03_63dc63e8:
 
 
@@ -1887,5 +1885,4 @@ translate italian strings:
 
     old "A few minutes and strange instructions later."
     new "Dopo qualche minuto e strane istruzioni."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

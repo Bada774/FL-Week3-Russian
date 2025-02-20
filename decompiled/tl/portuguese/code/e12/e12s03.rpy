@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e12s03_92d88967:
 
 
@@ -1217,5 +1215,4 @@ translate portuguese e12s03_sex_4a53788f:
 
 
     vw "Ah, te aquieta. Só me abraça, e vamos ver pôr do sol antes de eu ir fazer a janta."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -527,20 +527,20 @@ label e02s07_sex:
     $ Lovense.vibrate(1)
     if e02s07_mc_anal is True:
         scene e02s07-147_ff_part2_anal_true_mc_position with dissolve
-    elif True:
+    else:
         scene e02s07-133_ff_part2_anal_else_mh_position_mh_talk with dissolve
     play voice3 dahlia_thinking_hmm4 noloop
     mh "So, there are three parts to proper anal sex."
     mh "Two are purely physiological, while the third is purely psychological."
     if e02s07_mc_anal is True:
         scene e02s07-148_ff_part2_anal_true_mc_position_kneeling with dissolve
-    elif True:
+    else:
         scene e02s07-134_ff_part2_anal_else_mh_position_mc_talk with dissolve
     play voice2 mc_yes_yes1 noloop
     mc "Together they combine for a truly incredible experience."
     if e02s07_mc_anal is True:
         scene e02s07-149_ff_part2_anal_true_mc_position_kneeling with dissolve
-    elif True:
+    else:
         scene e02s07-135_ff_part2_anal_else_mh_position_behind_mh_talk with dissolve
     play voice3 lissa_ugu noloop
     mh "First - and most importantly - is physiological safety."
@@ -548,20 +548,20 @@ label e02s07_sex:
     mh "But a portion of your conscious mind - whether giving or receiving - has to be focused on avoiding injury."
     if e02s07_mc_anal is True:
         scene e02s07-150_ff_part2_anal_true_tip_hovering_cloesup with dissolve
-    elif True:
+    else:
         scene e02s07-136_ff_part2_anal_else_mh_position_behind_mc_talk with dissolve
     play voice2 mc_thinking_mmm1 noloop
     mc "Second, is the physiological pleasure."
     mc "The anus and anal canal are extremely sensitive to touch, and as a result the pleasure felt can be profound."
     if e02s07_mc_anal is True:
         scene e02s07-151_ff_part2_anal_true_grabbig_hip with dissolve
-    elif True:
+    else:
         scene e02s07-137_ff_part2_anal_else_mh_position_behind_mh_talk with dissolve
     play voice3 lissa_yes noloop
     mh "Exactly. The pleasure - or pain - can be one of the most intense experiences one ever has."
     if e02s07_mc_anal is True:
         scene e02s07-152_ff_part2_anal_true_face_closeup_mh_talk with dissolve
-    elif True:
+    else:
         scene e02s07-138_ff_part2_anal_else_closeup_grabbing_hips_mh_talk with dissolve
     play voice3 lissa_oh2 noloop
     mh "Third, is the psychological aspect. About 90%% of sexual pleasure occurs in the brain."
@@ -573,7 +573,7 @@ label e02s07_sex:
     if e02s07_mc_anal is True:
         scene e02s07-153_ff_part2_anal_true_lyssanside_mc__mh_talk with dissolve
         mh "Of course, when you're experienced like we are, surprises-"
-    elif True:
+    else:
         scene e02s07-140_ff_part2_anal_else_closeup_mc_face_mc_talk with dissolve
         play voice2 mc_happy_yay2 noloop
         mc "Of course, when you're experienced like we are, surprises-"
@@ -609,7 +609,7 @@ label e02s07_sex:
         stop sound fadeout 1.0
         stop voice3 fadeout 1.0
         stop voice2 fadeout 1.0
-    elif True:
+    else:
         play voice2 mc_angry_errr4 noloop
         play sound sfx_fisting_fist1
         $ Lovense.vibrate(7)
@@ -646,7 +646,7 @@ label e02s07_sex:
     $ Lovense.vibrate(3)
     if e02s07_mc_anal is True:
         scene e02s07-155_ff_part2_anal_true_shocked_mc_dn_talk with dissolve
-    elif True:
+    else:
         scene e02s07-143_ff_part2_anal_ms_concerned_dn_slips_fingerspnside_dn_talk with dissolve
     play voice5 girl12_scared_off2 noloop
     dn "*whispers* ...fuck me... that is hot..."
@@ -677,7 +677,7 @@ label e02s07_sex:
         pause
         scene e02s07-a158-3-f with dissolve
         pause
-    elif True:
+    else:
         scene e02s07-144_ff_part2_anal_else_closeupnside_face_ecstacy_mh_talk with dissolve
         play voice3 lissa_moan4 noloop
         mh "I am more than okay. I have never felt harder than I do right now."
@@ -1127,5 +1127,4 @@ label e02s07_strap_on:
 
     $ renpy.music.set_volume(0.2, 3.0, "music" )
     jump e02s05_menu
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

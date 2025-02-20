@@ -94,9 +94,9 @@ init -501 screen say(who, what):
 
     window:
         id "window"
+        background Transform(Frame("gui/textbox.png", xalign = 0.5, yalign = 1.0), alpha = persistent.dialogueboxopacity)
 
         if who is not None:
-
             window:
                 id "namebox"
                 style "namebox"
@@ -107,6 +107,7 @@ init -501 screen say(who, what):
     if not renpy.variant("small"):
         add SideImage() xalign 0.0 yalign 1.0
 
+default -1 persistent.dialogueboxopacity = 1.0
 
 init -1 python:
     config.character_id_prefixes.append('namebox')
@@ -124,8 +125,6 @@ init -1 style window:
     xfill True
     yalign gui.textbox_yalign
     ysize gui.textbox_height
-
-    background Image("gui/textbox.png", xalign=0.5, yalign=1.0)
 
 init -1 style namebox:
     xpos gui.name_xpos
@@ -169,11 +168,10 @@ init -501 screen input(prompt):
 
     window:
 
-        has vbox:
-            xalign gui.dialogue_text_xalign
-            xpos gui.dialogue_xpos
-            xsize gui.dialogue_width
-            ypos gui.dialogue_ypos
+        has vbox
+        xpos gui.dialogue_xpos
+        xsize gui.dialogue_width
+        ypos gui.dialogue_ypos
 
         text prompt style "input_prompt"
         input id "input"
@@ -207,15 +205,16 @@ init -501 screen choice(items):
             $ hint = i.kwargs.get("hint", "none")
 
             hbox:
-                if persistent.menu_hints and is_there_a_hint(hint):
-                    xanchor 1.0
-                    xpos 1250
-                    spacing 60
-                    imagebutton auto "images/utility/menu/menu_hint_%s.webp" yalign 0.5 action NullAction() hovered Function(show_menu_hint, hint) unhovered (Hide('notify'), Function(restore_notify_timeout))
+                xanchor 1.0
+                xpos 1250
+                spacing 60
+                if persistent.menu_hints is True and is_there_a_hint(hint):
+                    if renpy.variant("steam_deck"):
+                        imagebutton auto "images/Utility/menu/menu_hint_%s.webp" yalign 0.5 action NullAction() hovered Function(show_menu_hint, hint) unhovered (Hide('notify'), Function(restore_notify_timeout))
+                    else:
+                        imagebutton auto "images/Utility/menu/menu_hint_%s.webp" yalign 0.5 action (Hide('notify'), i.action) hovered Function(show_menu_hint, hint) unhovered (Hide('notify'), Function(restore_notify_timeout))
                 else:
-                    xanchor 0.5
-                    xalign 0.5
-                    spacing 60
+                    null height 46 width 46
 
                 textbutton i.caption action i.action
 
@@ -339,7 +338,7 @@ init -501 screen navigation():
             text _("Preferences")
             style style.button["menu_preferences"]
             action ShowMenu("preferences")
-        if not is_steam_edition:
+        if is_steam_edition is False and is_gog_edition is False:
             button id "menu_patreon":
                 text _("Support on Patreon")
                 style style.button["menu_patreon"]
@@ -391,7 +390,10 @@ init -501 screen navigation():
             button id "menu_help":
                 text _("Help")
                 style style.button["menu_help"]
-                action ShowMenu("help")
+                if renpy.variant("steam_deck"):
+                    action ShowMenu("steam_deck_layout", False)
+                else:
+                    action ShowMenu("help")
             button id "menu_quit":
                 text _("Quit")
                 style style.button["menu_quit"]
@@ -421,12 +423,15 @@ init -1 style navigation_text:
 
 
 init -501 screen main_menu():
+    tag menu
 
 
+    if not persistent.hide_tu_trailer_ad:
+        on "show" action Show("tu_trailer_ad")
 
     $ renpy.music.set_volume(volume=0.8, delay=1, channel='music')
 
-    style_prefix "main_menu" tag menu
+    style_prefix "main_menu"
 
     if is_extended_edition:
 
@@ -652,12 +657,12 @@ init -1 style game_menu_label_text:
 
 
 init -501 screen about():
-
+    tag menu
     default about_page = "game"
 
 
 
-    predict False tag menu
+    predict False
 
     use game_menu(_("About")):
 
@@ -735,8 +740,8 @@ init -501 screen about_music():
         pagekeys True
         side_yfill True
 
-        has vbox:
-            style_prefix "about"
+        has vbox
+        style_prefix "about"
 
         text "[gui.credits_audio_ext!t]"
 
@@ -750,8 +755,8 @@ init -501 screen about_sound():
         pagekeys True
         side_yfill True
 
-        has vbox:
-            style_prefix "about"
+        has vbox
+        style_prefix "about"
 
         text "[gui.credits_sounds_incipit!t]"
         text "[gui.credits_audio!t]"
@@ -766,8 +771,8 @@ init -501 screen about_sound_ext():
         pagekeys True
         side_yfill True
 
-        has vbox:
-            style_prefix "about"
+        has vbox
+        style_prefix "about"
 
         text "[gui.credits_audio_ext_effects!t]"
 
@@ -781,8 +786,8 @@ init -501 screen about_sound_ext2():
         pagekeys True
         side_yfill True
 
-        has vbox:
-            style_prefix "about"
+        has vbox
+        style_prefix "about"
 
         text "[gui.credits_audio_ext_ambient!t]"
         text "[gui.credits_sounds_incipit!t]"
@@ -867,18 +872,24 @@ init -501 screen file_slots(title, what):
 
                     null width 50
 
-                if what == "save":
+                if CurrentScreenName() == "save":
                     hbox:
                         xalign 1.0
                         text _("Naming save file:"):
                             xalign 1.0
                             color gui.idle_color
                         null width 15
-                        textbutton _("Enabled" ) ypos -5 selected (    persistent.save_name_prompt) action SetVariable("persistent.save_name_prompt", True)
+                        textbutton _("Enabled" ) selected (    persistent.save_name_prompt) action SetVariable("persistent.save_name_prompt", True)
                         null width 5
                         text "/"
                         null width 5
-                        textbutton _("Disabled") ypos -5 selected (not persistent.save_name_prompt) action [SetVariable("persistent.save_name_prompt", False), SetVariable("save_name", "")]
+                        textbutton _("Disabled") selected (not persistent.save_name_prompt) action [SetVariable("persistent.save_name_prompt", False), SetVariable("save_name", "")]
+
+                else:
+                    if config.has_sync:
+                        hbox:
+                            xalign 1.0
+                            textbutton _("Ren'Py Save Sync") action ShowMenu("save_sync_menu")
 
             grid gui.file_slot_cols gui.file_slot_rows:
                 style_prefix "slot"
@@ -944,6 +955,7 @@ init -501 screen file_slots(title, what):
                 textbutton _("»") action FilePage(pager.int + 10)
 
 init -1 style renamer_text:
+    yalign 0.5
     selected_color gui.interface_text_color
     idle_color gui.idle_color
     hover_color gui.hover_color
@@ -994,19 +1006,20 @@ init -501 screen preferences():
 
 
     use game_menu(_("Preferences"), scroll="viewport"):
-
         vbox:
-
             hbox:
                 box_wrap True
-
+                if is_steam_edition is False and is_gog_edition is False:
+                    spacing 80
                 if renpy.variant("pc"):
-
                     vbox:
                         style_prefix "radio"
                         label _("Display")
-                        textbutton _("Window") action Preference("display", "window")
                         textbutton _("Fullscreen") action Preference("display", "fullscreen")
+                        textbutton "1920 x 1080" action Preference("display", 1.0)
+                        textbutton "1600 x 900" action Preference("display", 0.83333333333)
+                        textbutton "1280 x 720" action Preference("display", 0.666666666667)
+                        textbutton "960 × 540" action Preference("display", 0.5)
 
                 vbox:
                     style_prefix "radio"
@@ -1022,14 +1035,14 @@ init -501 screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                if is_steam_edition:
+                if is_steam_edition is True or is_gog_edition is True:
                     vbox:
                         style_prefix "radio"
                         label _("Taboo Mode")
                         textbutton _("Enabled" ) selected (    persistent.is_special) action SetVariable("persistent.is_special", True )
                         textbutton _("Disabled") selected (not persistent.is_special) action SetVariable("persistent.is_special", False)
 
-            null height (4 * gui.pref_spacing)
+            null height gui.pref_spacing
 
             hbox:
                 style_prefix "slider"
@@ -1045,7 +1058,11 @@ init -501 screen preferences():
 
                     bar value Preference("auto-forward time")
 
-                    null height 80
+                    label _("Dialogue Box Opacity")
+
+                    bar value FieldValue(persistent, "dialogueboxopacity", range = 1.0, style = "slider")
+
+                    null height 50
 
                     textbutton _("Connect Your Toy"):
                         action ShowMenu("lovense_connect")
@@ -1186,10 +1203,10 @@ init -1 style lovense_pref_button_text:
 
 
 init -501 screen history():
+    tag menu
 
 
-
-    predict False tag menu
+    predict False
 
     use game_menu(_("History"), scroll=("vpgrid" if gui.history_height else "viewport"), yinitial=1.0):
 
@@ -1199,8 +1216,8 @@ init -501 screen history():
 
             window:
 
-                has fixed:
-                    yfit True
+                has fixed
+                yfit True
 
                 if h.who:
 
@@ -1447,10 +1464,10 @@ init -501 screen confirm(message, yes_action, no_action):
 
     frame:
 
-        has vbox:
-            xalign .5
-            yalign .5
-            spacing 45
+        has vbox
+        xalign .5
+        yalign .5
+        spacing 45
 
         label _(message):
             style "confirm_prompt"
@@ -1473,7 +1490,7 @@ init -1 style confirm_button is gui_medium_button
 init -1 style confirm_button_text is gui_medium_button_text
 
 init -1 style confirm_frame:
-    background Frame([ "gui/confirm_frame.png", "gui/frame.png"], gui.confirm_frame_borders, tile=gui.frame_tile)
+    background Frame(["gui/confirm_frame.png", "gui/frame.png"], gui.confirm_frame_borders, tile=gui.frame_tile)
     padding gui.confirm_frame_borders.padding
     xalign .5
     yalign .5
@@ -1505,8 +1522,8 @@ init -501 screen skip_indicator():
 
     frame:
 
-        has hbox:
-            spacing 9
+        has hbox
+        spacing 9
 
         text _("Skipping")
 
@@ -1519,8 +1536,8 @@ transform -1 delayed_blink(delay, cycle):
     alpha .5
 
     pause delay
-    block:
 
+    block:
         linear .2 alpha 1.0
         pause .2
         linear .2 alpha 0.5
@@ -1598,8 +1615,8 @@ init -501 screen nvl(dialogue, items=None):
     window:
         style "nvl_window"
 
-        has vbox:
-            spacing gui.nvl_spacing
+        has vbox
+        spacing gui.nvl_spacing
 
         if gui.nvl_height:
 
@@ -1629,8 +1646,8 @@ init -501 screen nvl_dialogue(dialogue):
         window:
             id d.window_id
 
-            has fixed:
-                yfit gui.nvl_height is None
+            has fixed
+            yfit gui.nvl_height is None
 
             if d.who is not None:
 
@@ -1724,5 +1741,4 @@ init -501 screen quick_menu():
 init -1 style quick_button_text:
     variant "small"
     size 28
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

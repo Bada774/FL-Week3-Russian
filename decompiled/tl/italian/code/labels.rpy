@@ -1,6 +1,4 @@
 
-
-
 translate italian after_credits_583c0fde:
 
 
@@ -689,5 +687,4 @@ translate italian after_credits_f4cf666b:
 
 
     sy "Non vedo l'ora di godermelo con te."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese e08s05_cdd7bfe3:
 
 
@@ -2299,5 +2297,4 @@ translate chinese strings:
 
     old "Leave the door open"
     new "让门开着"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

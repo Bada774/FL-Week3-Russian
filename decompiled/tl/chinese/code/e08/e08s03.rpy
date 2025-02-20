@@ -1,6 +1,4 @@
 
-
-
 translate chinese e08s03_33275fb1:
 
 
@@ -1109,5 +1107,4 @@ translate chinese strings:
 
     old "One late afternoon"
     new "一天傍晚"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

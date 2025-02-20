@@ -1,6 +1,4 @@
 
-
-
 translate turkish e17s02_6edbf36c:
 
 
@@ -1457,5 +1455,4 @@ translate turkish strings:
 
     old "Mistress, I want only to serve you tonight"
     new "Hanımefendi, bu gece sadece size hizmet etmek istiyorum"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

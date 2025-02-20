@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e12s02_328a43e8:
 
 
@@ -983,5 +981,4 @@ translate portuguese strings:
 
     old "Next day at the hotel gym"
     new "No dia seguinte, na academia do hotel"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

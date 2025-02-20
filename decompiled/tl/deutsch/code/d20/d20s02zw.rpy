@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d20s02zw_1bbcab10:
 
 
@@ -963,5 +961,4 @@ translate deutsch strings:
 
     old "Go to Lyssa and Zarah"
     new "Gehe zu Lyssa und Zarah"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

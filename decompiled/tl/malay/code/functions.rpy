@@ -1,5 +1,3 @@
-
-
 translate malay strings:
 
 
@@ -30,11 +28,9 @@ translate malay strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Anda hanya boleh memilih satu daripada Daisy dan Dahlia"
 
-
 translate malay strings:
 
 
     old "You have unlocked Ending #{}"
     new "You have unlocked Ending #{}"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

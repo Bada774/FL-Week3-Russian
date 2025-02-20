@@ -1,6 +1,4 @@
 
-
-
 translate turkish e06s01_0143d3aa:
 
 
@@ -428,10 +426,9 @@ translate turkish strings:
 
 
     old "Ending #6\nQueen's Harem"
-    new "Bitiş #6\\NKraliçe'nin Haremi"
+    new "Bitiş #6\nKraliçe'nin Haremi"
 
 
     old "Later That Day"
     new "O günden sonra"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

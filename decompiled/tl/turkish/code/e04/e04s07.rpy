@@ -1,6 +1,4 @@
 
-
-
 translate turkish e04s07_0939b90e:
 
 
@@ -2101,5 +2099,4 @@ translate turkish strings:
 
     old "Don't piss on Prisoner 001"
     new "Mahkum 001'in üzerine işemeyin."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

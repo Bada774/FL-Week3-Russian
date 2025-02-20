@@ -1,6 +1,4 @@
 
-
-
 translate spanish e11s05_26a5c11f:
 
 
@@ -849,5 +847,4 @@ translate spanish strings:
 
     old "A short walk later"
     new "Un corto paseo después"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

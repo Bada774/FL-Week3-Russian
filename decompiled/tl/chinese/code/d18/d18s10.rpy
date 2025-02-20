@@ -1,6 +1,4 @@
 
-
-
 translate chinese d18s10_0b2e1d6b:
 
 
@@ -750,20 +748,15 @@ translate chinese d18s10_end_1da49de8_1:
 
     mct "不敢相信。"
 
-
-
 translate chinese strings:
 
 
     old "What is your darkest fantasy about Lydia?"
     new "你对莉迪亚最黑暗的幻想是什么？"
 
-
-
 translate chinese strings:
 
 
     old "Just Sex, a lot of Sex"
     new "就是做爱，大量的做爱"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

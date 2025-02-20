@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s07_ext_0f4c0f58:
 
 
@@ -927,5 +925,4 @@ translate malay strings:
 
     old "Cum outside"
     new "Pancut dalam"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

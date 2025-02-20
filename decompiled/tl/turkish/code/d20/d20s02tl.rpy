@@ -1,6 +1,4 @@
 
-
-
 translate turkish d20s02tl_56e9281f:
 
 
@@ -2182,7 +2180,7 @@ translate turkish strings:
 
 
     old "Some time later\nAt Theresa's office"
-    new "Bir süre sonra\\NTheresa'nın ofisinde"
+    new "Bir süre sonra\nTheresa'nın ofisinde"
 
 
     old "Tell Her to Suck Your Cock"
@@ -2223,5 +2221,4 @@ translate turkish strings:
 
     old "Whip Them Both Together"
     new "İkisini Birlikte Kırbaçla"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

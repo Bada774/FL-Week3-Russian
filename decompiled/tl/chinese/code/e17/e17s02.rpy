@@ -1,6 +1,4 @@
 
-
-
 translate chinese e17s02_6edbf36c:
 
 
@@ -1457,5 +1455,4 @@ translate chinese strings:
 
     old "Mistress, I want only to serve you tonight"
     new "女主人，我今晚只想服侍您一个人"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

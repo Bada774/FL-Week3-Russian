@@ -93,7 +93,7 @@ label d16s03:
                 scene d16s03-14 mc-lc-amr-talk-mc-group-camera3 with dissolve
                 play voice2 mc_arrogant_heh3 noloop
                 mc "Sounds like it."
-    elif True:
+    else:
         scene d16s03-07 mc-lc-tasty with dissolve
         play voice3 dahlia_happy_hmm1 noloop
         lc "Mmmmm... tasty."
@@ -132,7 +132,7 @@ label d16s03:
     if love_lc is True:
         mc "I'm so sorry, love. It didn't even occur to me."
         mc "I'll make sure to tell you if that happens again."
-    elif True:
+    else:
         mc "Sure. That shouldn't be a problem."
     scene d16s03-16 mc-lc-can-we-talk-infront-of-her with dissolve
     play voice3 dahlia_thinking_mmm2 noloop
@@ -234,7 +234,7 @@ label d16s03:
             if date_arj_romance is True:
                 scene d16s03-21 mc-lc-amr-talk-sad-02 with dissolve
                 arj "Why?"
-            elif True:
+            else:
                 scene d16s03-15-02 mc-lc-amr-talk-mc-pov with dissolve
                 lc "Why?"
             play voice2 mc_thinking_hmm5 noloop
@@ -250,7 +250,7 @@ label d16s03:
             if date_arj_romance is True:
                 arj "I guess I can try this.{w}.. for you."
                 mc "Thanks."
-            elif True:
+            else:
                 arj "Okay, sir. If that's what you want."
             stop music fadeout 4.0
             scene d16s03-30 mc-lc-amr-take-off-clothes-with-amr with dissolve
@@ -346,7 +346,7 @@ label d16s03:
     mc "I'm already hurting from this cage."
     if d16s03_arj_watch is False:
         scene d16s03-39-01 mc-lc-talk-after-bite-no-amr with dissolve
-    elif True:
+    else:
         scene d16s03-41 mc-lc-talk-oh-my with dissolve
     lc "Shall we change places?"
     play voice2 mc_yes_sure1 noloop
@@ -387,7 +387,7 @@ label d16s03:
     scene d16s03-a2
     if cage_ntr is False:
         lc "I want to trust you so much."
-    elif True:
+    else:
         lc "I want you to fuck me so much right now."
         lc "I want to grab you by the cage and shove the whole damn thing inside me."
 
@@ -473,7 +473,7 @@ label d16s03:
             arj "I realized that part of the pleasure for you was the feeling of being watched by someone, and that I was filling that role."
             arj "I was helping to make you feel good. I felt good about it."
             arj "Then I kinda got into it."
-        elif True:
+        else:
             play voice4 amrose_thinking_hmm3 noloop
             arj "I just did what you wanted of me."
             arj "At first I thought you were punishing me. That I was supposed to feel humiliated."
@@ -520,7 +520,7 @@ label d16s03:
             arj "Anyway, I should go get ready for class and all that."
             play voice2 mc_yes_aga1 noloop
             mc "Sounds good. I'll see you later."
-        elif True:
+        else:
             lc "Maybe next time she could join in and service us both."
             scene d16s03-18_mc-lc-amr-cuddle-post-climax with dissolve
             play voice2 mc_thinking_hmm5 noloop
@@ -693,7 +693,7 @@ label d16s03:
                 scene d16s03-90 mc-lc-talk-variation-alt-pose-2-c2 with dissolve
                 play voice2 mc_yes_okay2 noloop
                 mc "That's okay."
-            elif True:
+            else:
                 play sound sfx_cloth_rustling1
                 scene d16s03-87 mc-lc-talk-variation-alt-pose-1-c1 with dissolve
                 play voice3 dahlia_disappointed_hmm2 noloop
@@ -919,14 +919,14 @@ label d16s03:
             lc "Oh, so you would want me to..."
             if date_mes is False:
                 scene d16s03-79 mc-lc-talk-variation-1-c2 with dissolve
-            elif True:
+            else:
                 scene d16s03-80 mc-lc-talk-variation-2-c2 with dissolve
             play voice2 mc_yes_yeah1 noloop
             mc "Someday, when you're ready... I'd like to piss on you."
             mc "In your hair, on your face, in your mouth, on your breasts and body..."
             if date_mes is False:
                 scene d16s03-80 mc-lc-talk-variation-2-c2 with dissolve
-            elif True:
+            else:
                 scene d16s03-79 mc-lc-talk-variation-1-c2 with dissolve
             mc "I just really think it would be a wonderful experience for both of us."
         "Want to Gag, Choke, and Deepthroat Lydia"(hint="d16s03m04c04"):
@@ -1063,5 +1063,4 @@ label d16s03:
 
     stop music fadeout 4.0
     jump d16s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

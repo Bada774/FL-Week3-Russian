@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e17s01_419854dc:
 
 
@@ -1145,5 +1143,4 @@ translate portuguese e17s01_sex_fa5e65a4:
 
 
     dw "Leve o tempo que precisar, [mcname]. Agora eu tenho que inventar novas punições pra você."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

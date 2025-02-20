@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -19,10 +17,6 @@ translate chinese strings:
     new "开始游戏"
 
 
-
-translate chinese strings:
-
-
     old "Starting this ending will lose unsaved progress.\nAre you sure you want to do this?"
     new "开始这个结局会丢失未保存的进度。\n你确定要这么做吗？"
 
@@ -35,11 +29,10 @@ translate chinese strings:
     new "退出主菜单"
 
 
-
-translate chinese strings:
-
-
     old "Download free DLC containing this ending"
     new "下载包含此结局的免费DLC。"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+    old "Get DLC-2 containing this ending"
+    new " 获取包含该结局的 DLC-2"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

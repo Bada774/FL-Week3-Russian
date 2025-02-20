@@ -1,6 +1,4 @@
 
-
-
 translate chinese d19s01lc_31455c3a:
 
 
@@ -773,5 +771,4 @@ translate chinese strings:
 
     old "Tell Her It Was Fun"
     new "告诉她曾经很有趣"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

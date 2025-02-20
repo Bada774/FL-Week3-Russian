@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s04dw_4290d7de:
 
 
@@ -1063,7 +1061,6 @@ translate malay strings:
     new "Biarkan mereka berfikir itu terpulang kepada mereka"
 
 
-
 translate malay d15s04dw_eb3e097b:
 
 
@@ -1074,5 +1071,4 @@ translate malay strings:
 
     old "30 minutes later"
     new "30 minit kemudian"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

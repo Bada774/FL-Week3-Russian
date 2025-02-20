@@ -5,12 +5,12 @@ label d21s02:
 
     if d19s09_creampie_arj is True:
         $ d21s02_arj_points += 1
-    elif True:
+    else:
         $ d21s02_sy_points += 1
 
     if d20s08_copy_files is True:
         $ d21s02_sy_points += 1
-    elif True:
+    else:
         $ d21s02_arj_points += 1
 
     $ d21s02_bring_arj = False
@@ -108,7 +108,7 @@ label d21s02:
         mc "I said, \"Get your shit together.\" That means behave."
         play voice3 stacy_smell noloop
         sy "Fine..."
-    elif True:
+    else:
         menu:
             "Select AmRose"(hint="d21s02m01c01"):
                 $ d21s02_bring_arj = True
@@ -142,7 +142,7 @@ label d21s02_meet_lc:
         scene d21s02-28 mc-arj-lc-talking-aggressively with dissolve
         play voice3 dahlia_thinking_mmm2 noloop
         lc "Except you're on the wrong side of the bars... for now."
-    elif True:
+    else:
         scene d21s02-27 mc-arj-lc-talking-sweetly with dissolve
         play voice3 dahlia_thinking_hmm1 noloop
         lc "I ain't seen nobody buffalo Bill like you buffalo'd Bill."
@@ -159,12 +159,12 @@ label d21s02_meet_lc:
     if cage_ntr is True:
         if d21s02_bring_arj is True:
             jump d21s02_ntr_arj
-        elif True:
+        else:
             jump d21s02_ntr_sy
-    elif True:
+    else:
         if d21s02_bring_arj is True:
             jump d21s02_lc_arj
-        elif True:
+        else:
             jump d21s02_lc_sy
 
 label d21s02_ntr_arj:
@@ -442,7 +442,7 @@ label d21s02_lc_sy:
     play voice2 mc_yes_ugu1 noloop
     if persistent.is_special is True:
         mc "Thanks, sis."
-    elif True:
+    else:
         mc "Thanks, Stacy."
     scene d21s02-78 mc-sy-ly-talking-lc with dissolve
     play voice3 dahlia_arrogant_heh noloop
@@ -540,7 +540,7 @@ label d21s02_mc_lc:
     lc "Sure, I'm just delighted. How are you?"
     if d21s02_bring_arj is True:
         scene d21s02-97 mc-arj-ly-talking-lc with dissolve
-    elif True:
+    else:
         scene d21s02-97-02 mc-sy-ly-talking-lc with dissolve
     play voice2 mc_disappointed_ah2 noloop
     mc "Lydia, hon. I'm sorry. Stupid question."
@@ -550,7 +550,7 @@ label d21s02_mc_lc:
     lc "I'm fine, I guess. Just the reality of what has happened is sinking in."
     if d12s05_stop is True:
         lc "You remember that prostitute? She was in here for a few hours."
-    elif True:
+    else:
         lc "There was some prostitute in here for a few hours."
     scene d21s02-50 mc-arj-ly-talking-lc with dissolve
     play voice3 lydia_moan1 noloop
@@ -619,7 +619,7 @@ label d21s02_mc_lc:
     play voice2 d1s5b_ehhh noloop volume 1.8
     if d20s09_lc_love >= 2:
         mc "I love you too."
-    elif True:
+    else:
         mc "I know."
 
     jump d21s02_ending
@@ -628,7 +628,7 @@ label d21s02_ending:
 
     if d21s02_bring_arj is True:
         jump d21s02_arj_ending
-    elif True:
+    else:
         jump d21s02_sy_ending
 
 label d21s02_arj_ending:
@@ -671,9 +671,9 @@ label d21s02_sy_ending:
     scene d21s02-113 sy-ly-talking-ending with dissolve
     play voice4 stacy_upset1 noloop
     sy "You might think I'm a silly little girl, but let me tell you something."
-    if persistent.special is True:
+    if persistent.is_special is True:
         sy "You hurt my brother. I won't forget that."
-    elif True:
+    else:
         sy "You hurt [mcname]. I won't forget that."
     scene d21s02-114 sy-ly-talking-ending with dissolve
     play voice4 stacy_mmm2 noloop
@@ -702,12 +702,11 @@ label d21s02_end:
         scene d21s02-118 mc-sy-arj-talking with dissolve
         play voice4 amrose_disappointed_ehh1 noloop
         arj "I'm sure neither of us want to experience anything like that again."
-    elif True:
+    else:
         $ unlock_gallery_slot("cg", "d21s02")
         scene d21s02-117 mc-sy-arj-talking with dissolve
         play voice4 stacy_laugh4 noloop
         sy "I don't know. It was kinda fun."
 
     jump d21s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -176,7 +176,7 @@ label e04s04_later:
     play voice2 d9s2_yeah noloop volume 1.8
     if e04s02_change_name is True:
         mc "[alt_mcname]. Yep, that's pretty much the whole story."
-    elif True:
+    else:
         mc "Jailer? Warden? Something like that, yeah."
     scene e04s04-32 a_daisyn_lockup_dd_talk_sitting with dissolve
     play voice4 daisy_aga noloop
@@ -195,7 +195,7 @@ label e04s04_later:
     play voice4 daisy_impressed noloop volume 1.4
     if persistent.is_special is True:
         dd "Oh, your sister is here! Where?"
-    elif True:
+    else:
         dd "Oh, Stacy is here! Where is she?"
     scene e04s04-37 a_daisyn_lockup_mc_talk with dissolve
     play voice2 mc_yes_yeah4 noloop
@@ -987,7 +987,7 @@ label e04s04_lc_punishment:
     mc "- Where I put you in a cell, chained you to the ceiling, spanked you, fucked you and Prisoner 003-"
     if persistent.is_special is True:
         mc "And made you watch me fuck my sister! Where I made you watch me make her cum!"
-    elif True:
+    else:
         mc "And where I made you watch me make my best friend cum while fucking her!"
     mc "When you haven't had a real orgasm in months."
     scene e04s04-242 a_daisyn_lockup_sy_talk with dissolve
@@ -1228,5 +1228,4 @@ label e04s04_end:
     stop music fadeout 3.5
 
     jump e04s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

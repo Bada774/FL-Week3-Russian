@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -9,5 +7,4 @@ translate turkish strings:
 
     old "Just not a good one"
     new "Sadece iyi değil"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

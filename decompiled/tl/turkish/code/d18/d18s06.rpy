@@ -1,6 +1,4 @@
 
-
-
 translate turkish d18s06_59f5b92b:
 
 
@@ -580,6 +578,5 @@ translate turkish strings:
 
 
     old "Some time later\nAt the college campus"
-    new "Bir süre sonra\\Nüniversite kampüsünde"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "Bir süre sonra\nüniversite kampüsünde"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

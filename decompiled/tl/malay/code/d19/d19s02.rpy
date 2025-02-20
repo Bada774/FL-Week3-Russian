@@ -1,6 +1,4 @@
 
-
-
 translate malay d19s02_0c7b4226:
 
 
@@ -767,19 +765,14 @@ translate malay strings:
     new "Pergi ke dia"
 
 
-
-
 translate malay d19s02_d138a5d3:
 
 
     mct "Aku terlupa untuk tanya kepada AmRose semasa dia berada di sini."
 
 
-
-
 translate malay d19s02_b0400d74:
 
 
     mct "Aku akan berada di sana"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

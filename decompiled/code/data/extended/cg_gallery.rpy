@@ -1,9 +1,3 @@
-init:
-    transform gallery_tr_vertical:
-        subpixel True
-        yalign 1.0
-        linear 5.0 yalign 0.0
-
 init python:
 
 
@@ -21,101 +15,129 @@ init python:
     cg_gallery_slots = []
 
     main_game_cg_slots = [
-        ( "d15s01"    , _("Day 15: AmRose"               ), _(""                                         ) ),
-        ( "d15s04dw"  , _("Day 15: Dahlia & Samiya"      ), _(""                                         ) ),
-        ( "d15s04dd"  , _("Day 15: Daisy"                ), _(""                                         ) ),
-        ( "d15s06"    , _("Day 15: Lyssa"                ), _("Express your love"                        ) ),
-        ( "d15s08"    , _("Day 15: Girls"                ), _(""                                         ) ),
+        ( "d15s01"    , _("Day 15: AmRose"               ), _(""                                         ), "d15s01-99-26 shower-2-arj-enters_c2" ),
+        ( "d15s04dw"  , _("Day 15: Dahlia & Samiya"      ), _(""                                         ), "d15s04a-03 mc-dw-come-in_c2" ),
+        ( "d15s04dd"  , _("Day 15: Daisy"                ), _(""                                         ), "d15s04-71-mc-looking-at-dd" ),
+        ( "d15s06"    , _("Day 15: Lyssa"                ), _("Express your love"                        ), "d15s06-10_mc_mh_montage" ),
+        ( "d15s08"    , _("Day 15: Girls"                ), _(""                                         ), "d15s08-03 mc-hr-sy-arj-talking" ),
 
-        ( "d16s02"    , _("Day 16: AmRose"               ), _(""                                         ) ),
-        ( "d16s03"    , _("Day 16: Lydia"                ), _(""                                         ) ),
-        ( "d16s05"    , _("Day 16: Stacy"                ), _(""                                         ) ),
-        ( "d16s05p"   , _("Day 16: Stacy Washroom"       ), _("Ask for photos"                           ) ),
-        ( "d16s06"    , _("Day 16: Allison"              ), _("Don't remove cock cage before this scene" ) ),
-        ( "d16s07"    , _("Day 16: Jessie & Kanya"       ), _(""                                         ) ),
+        ( "d16s02"    , _("Day 16: AmRose"               ), _(""                                         ), "d16s02-07-02 mc-arj-entrance-talk2_c2" ),
+        ( "d16s03"    , _("Day 16: Lydia"                ), _(""                                         ), "d16s03-97 mc-lc-sit-up-talk-alt-pose-5-c1" ),
+        ( "d16s05"    , _("Day 16: Stacy"                ), _(""                                         ), "d16s05-07-2 mc-sy-talk5_c1" ),
+        ( "d16s05p"   , _("Day 16: Stacy Washroom"       ), _("Ask for photos"                           ), "d16s05-62 sy-toilet1_c1" ),
+        ( "d16s06"    , _("Day 16: Allison"              ), _("Don't remove cock cage before this scene" ), "d16s06-05 mc-aw-alisson-dorm_c1" ),
+        ( "d16s07"    , _("Day 16: Jessie & Kanya"       ), _(""                                         ), "d16s07-79 mc_jf_kv_zebra_sex_with_jessie" ),
 
-        ( "d17s02"    , _("Day 17: Vanessa"              ), _(""                                         ) ),
-        ( "d17s03"    , _("Day 17: Iona"                 ), _(""                                         ) ),
-        ( "d17s05"    , _("Day 17: Lyssa"                ), _("Bring Stacy with you"                     ) ),
-        ( "d17s06dd"  , _("Day 17: Daisy"                ), _(""                                         ) ),
-        ( "d17s06dw"  , _("Day 17: Dahlia & Samiya"      ), _(""                                         ) ),
-        ( "d17s06pn"  , _("Day 17: Polly & Nora"         ), _(""                                         ) ),
-        ( "d17s07"    , _("Day 17: Jessie"               ), _(""                                         ) ),
+        ( "d17s02"    , _("Day 17: Vanessa"              ), _(""                                         ), "d17s02-05 vw-photo-02" ),
+        ( "d17s03"    , _("Day 17: Iona"                 ), _(""                                         ), "d17s03-03-ir-talk-mc" ),
+        ( "d17s05"    , _("Day 17: Lyssa"                ), _("Bring Stacy with you"                     ), "d17s05-02-lh-on-phone-close-up" ),
+        ( "d17s06dd"  , _("Day 17: Daisy"                ), _(""                                         ), "d17s06a-57-dd-talking-with-mc" ),
+        ( "d17s06dw"  , _("Day 17: Dahlia & Samiya"      ), _(""                                         ), "d17s06-18 mc-sd-dw-dialog-amusement-park_c6" ),
+        ( "d17s06pn"  , _("Day 17: Polly & Nora"         ), _(""                                         ), "d17s06-07 pw-nk-heroine-poses_c1" ),
+        ( "d17s07"    , _("Day 17: Jessie"               ), _(""                                         ), "d17s07-06 mc_jf_breeding_ponies" ),
 
-        ( "d18s05"    , _("Day 18: Dahlia & Samiya"      ), _(""                                         ) ),
-        ( "d18s08"    , _("Day 18: Cynthia"              ), _(""                                         ) ),
+        ( "d18s05"    , _("Day 18: Dahlia & Samiya"      ), _(""                                         ), "d18s05-12-sb-sits-talk-pb" ),
+        ( "d18s08"    , _("Day 18: Cynthia"              ), _(""                                         ), "d18s08-a1 tl-smacks-cl-again-anim1-01_i" ),
 
-        ( "d19s01ntr" , _("Day 19: Lydia's Dungeon"      ), _(""                                         ) ),
-        ( "d19s03"    , _("Day 19: Stacy & Lyssa"        ), _(""                                         ) ),
-        ( "d19s04dd"  , _("Day 19: Daisy"                ), _("You need to date Dahlia"                  ) ),
-        ( "d19s04dw"  , _("Day 19: Dahlia"               ), _("You need to date Daisy"                   ) ),
-        ( "d19s08sy"  , _("Day 19: Stacy"                ), _(""                                         ) ),
-        ( "d19s08mh"  , _("Day 19: Lyssa"                ), _(""                                         ) ),
+        ( "d19s01ntr" , _("Day 19: Lydia's Dungeon"      ), _(""                                         ), "d19s01ntr-a11-2 glambot-11-2-00_i" ),
+        ( "d19s03"    , _("Day 19: Stacy & Lyssa"        ), _(""                                         ), "d19s03-06 sy-mh-cheek-kiss_c1" ),
+        ( "d19s04dd"  , _("Day 19: Daisy"                ), _("You need to date Dahlia"                  ), "d19s04-12 dd-take-off-pants-daisy-close-up" ),
+        ( "d19s04dw"  , _("Day 19: Dahlia"               ), _("You need to date Daisy"                   ), "d19s04-dd-66 dw-talk-dd-mc" ),
+        ( "d19s08sy"  , _("Day 19: Stacy"                ), _(""                                         ), "d19s08-06 sy-taking-shower-startled_c1" ),
+        ( "d19s08mh"  , _("Day 19: Lyssa"                ), _(""                                         ), "d19s08-33 mh-talking-phone-looking-nails_c1" ),
 
-        ( "d20s01"    , _("Day 20: Stacy & AmRose"       ), _(""                                         ) ),
-        ( "d20s05"    , _("Day 20: Min"                  ), _(""                                         ) ),
+        ( "d20s01"    , _("Day 20: Stacy & AmRose"       ), _(""                                         ), "d20s1-12 mc-sy-arj-bathroom-entry_c3_i" ),
+        ( "d20s05"    , _("Day 20: Min"                  ), _(""                                         ), "d20s05-24-02 mes-stripping" ),
 
-        ( "d21s02"    , _("Day 21: Stacy"                ), _("Bring Stacy with you"                     ) ),
-        ( "d21s04"    , _("Day 21: Lyssa"                ), _(""                                         ) ),
-        ( "d21s06"    , _("Day 21: Min"                  ), _("Unlock Waterfall Ending"                  ) ),
+        ( "d21s02"    , _("Day 21: Stacy"                ), _("Bring Stacy with you"                     ), "d21s02-24 sy-talking" ),
+        ( "d21s04"    , _("Day 21: Lyssa"                ), _(""                                         ), "d21s04-46-mh-talk-mc" ),
+        ( "d21s06"    , _("Day 21: Min"                  ), _("Unlock Waterfall Ending"                  ), "d21s06-79 min-waterfall5_c1" ),
         ]
 
     cg_gallery_slots.extend(main_game_cg_slots)
 
     ending_01_cg_slots = [
-        ( "e01s02"    , _("Ending 01: Stacy"             ), _(""                                         ) ),
+        ( "e01s02"    , _("Ending 01: Stacy"             ), _(""                                         ), "e01s02-29 mc-sy-talking" ),
         ]
 
     ending_02_cg_slots = [
-        ( "e02s04"    , _("Ending 02: Lyssa"             ), _(""                                         ) ),
-        ( "e02s05"    , _("Ending 02: Lyssa"             ), _("Spend time with everyone"                 ) ),
-        ( "e02s09"    , _("Ending 02: Lyssa"             ), _(""                                         ) ),
+        ( "e02s04"    , _("Ending 02: Lyssa"             ), _(""                                         ), "e02s04-50 mc-mh-sleep1_c1" ),
+        ( "e02s05"    , _("Ending 02: Lyssa"             ), _("Spend time with everyone"                 ), "e02s05-30 mc-mh-tub1_c3" ),
+        ( "e02s09"    , _("Ending 02: Lyssa"             ), _(""                                         ), "e02s09-49 mh-undress_c1" ),
+        ]
+
+    ending_03_cg_slots = [
+        ( "e03s01"    , _("Ending 03: Girls"             ), _(""                                         ), "e03s06-62 gang-follows-mh-bathroom_c1" ),
         ]
 
     ending_04_cg_slots = [
-        ( "e04s01"    , _("Ending 04: Girls"             ), _(""                                         ) ),
+        ( "e04s01"    , _("Ending 04: Girls"             ), _(""                                         ), "e04s07-186-01 girls-front-mc-ready-be-fucked-mh-included_c1" ),
+        ]
+
+    ending_05_cg_slots = [
+        ( "e05s01"    , _("Ending 05: Lyssa & Oliver"    ), _(""                                         ), "e05s02-46 op-come-in_c1" ),
         ]
 
     ending_06_cg_slots = [
-        ( "e06s01"    , _("Ending 06: Lydia"             ), _(""                                         ) ),
-        ( "e06s04"    , _("Ending 06: Harem"             ), _(""                                         ) ),
-        ( "e06s07"    , _("Ending 06: Marriage"          ), _(""                                         ) ),
+        ( "e06s01"    , _("Ending 06: Lydia"             ), _(""                                         ), "e06s01-14-2 mc-lc-talk12_c2" ),
+        ( "e06s04"    , _("Ending 06: Harem"             ), _(""                                         ), "e06s04-01-lc-phone" ),
+        ( "e06s07"    , _("Ending 06: Marriage"          ), _(""                                         ), "e06s07-62 lc-mh-hold-hands-as-mh-forgot-detail_c1" ),
         ]
 
     ending_07_cg_slots = [
-        ( "e07s01"    , _("Ending 07: Girls"             ), _(""                                         ) ),
+        ( "e07s01"    , _("Ending 07: Girls"             ), _(""                                         ), "e07s01-38 mc-lc-arj-walk1_c2" ),
         ]
 
     ending_08_cg_slots = [
-        ( "e08s01"    , _("Ending 08: AmRose"            ), _(""                                         ) ),
-        ( "e08s07"    , _("Ending 08: AmRose & Stacy"    ), _(""                                         ) ),
+        ( "e08s01"    , _("Ending 08: AmRose"            ), _(""                                         ), "e8s01-95 amr-talk-alt-amr" ),
+        ( "e08s07"    , _("Ending 08: AmRose & Stacy"    ), _(""                                         ), "e08s07-20 arj-leans-puts-arm-sy-shoulder_c1" ),
+        ]
+
+    ending_09_cg_slots = [
+        ( "e09s01"    , _("Ending 09: Girls"             ), _(""                                         ), "e09s06-29 hr-lo-appear-door-mes-doesnt-know-lo-name" ),
+        ( "e09s07"    , _("Ending 09: Greek Goddesses"   ), _(""                                         ), "e09s07-44 ah-cl-step-forward_c1" ),
         ]
 
     ending_10_cg_slots = [
-        ( "e10s03"    , _("Ending 10: Min"               ), _(""                                         ) ),
-        ( "e10s04"    , _("Ending 10: Min"               ), _(""                                         ) ),
+        ( "e10s03"    , _("Ending 10: Min"               ), _(""                                         ), "e10s03-21 mc-mes-getting-dressed_c2" ),
+        ( "e10s04"    , _("Ending 10: Min"               ), _(""                                         ), "e10s04-06 mes-not-sure-why-thats-con_c1" ),
         ]
 
     ending_11_cg_slots = [
-        ( "e11s01"    , _("Ending 11: Daisy"             ), _(""                                         ) ),
+        ( "e11s01"    , _("Ending 11: Daisy"             ), _(""                                         ), "e11s03-54 a_dayn_venice_gondola_mc_dd_amused_laugh" ),
         ]
 
     ending_12_cg_slots = [
-        ( "e12s01"    , _("Ending 12: Vanessa & Allison" ), _(""                                         ) ),
+        ( "e12s01"    , _("Ending 12: Vanessa & Allison" ), _(""                                         ), "e12s03-59 mc-vw-stand-next-aw-mc-agrees-vw-confirms_c1" ),
         ]
 
     ending_13_cg_slots = [
-        ( "e13s01"    , _("Ending 13: Nora"              ), _(""                                         ) ),
-        ( "e13s02"    , _("Ending 13: Pregnant Nora"     ), _(""                                         ) ),
+        ( "e13s01"    , _("Ending 13: Nora"              ), _(""                                         ), "e13s01-26 nk-construction-window_c22" ),
+        ( "e13s02"    , _("Ending 13: Pregnant Nora"     ), _(""                                         ), "e13s02-06-nk-look-jim" ),
         ]
 
     ending_14_cg_slots = [
-        ( "e14s01"    , _("Ending 14: Polly & Nora"      ), _(""                                         ) ),
+        ( "e14s01"    , _("Ending 14: Polly & Nora"      ), _(""                                         ), "e14s07-115 all-do-yoga-end-scene_c1" ),
+        ]
+
+    ending_15_cg_slots = [
+        ( "e15s01"    , _("Ending 15: Girls"             ), _(""                                         ), "e15s06-32 sy-turns-greetings-mc-mes-mc-seems-found-os_c1" ),
+        ]
+
+    ending_16_cg_slots = [
+        ( "e16s01"    , _("Ending 16: Jessie & Kanya"    ), _(""                                         ), "e16s05-35-jf-kv" ),
+        ( "e16s02"    , _("Ending 16: Farm Animals"      ), _(""                                         ), "e16s01-106-mdog-ball" ),
         ]
 
     ending_17_cg_slots = [
-        ( "e17s01"    , _("Ending 17: Dahlia"            ), _(""                                         ) ),
-        ( "e17s02"    , _("Ending 17: Dahlia"            ), _(""                                         ) ),
+        ( "e17s01"    , _("Ending 17: Dahlia"            ), _(""                                         ), "e17s02-37 dh-thinks-90s-look-mc-no-madam_c1" ),
+        ( "e17s02"    , _("Ending 17: Dahlia"            ), _(""                                         ), "e17s05-98 dw-instictively-answers-warden-he-smart-girl_c1" ),
+        ]
+
+    ending_18_cg_slots = [
+        ( "e18s01"    , _("Ending 18: Samiya & Dahlia"   ), _(""                                         ), "e18s04-92 dw-someone-horny-sb-shut-up-fun-watch_c1" ),
+        ( "e18s02"    , _("Ending 18: Kendell & Londyn"  ), _(""                                         ), "e18s03-36-lo-ke" ),
+        ( "e18s03"    , _("Ending 18: Four Beauties"     ), _(""                                         ), "e18s04-185 girls-go-ocean-clean-up-end-scene_c1" ),
         ]
 
 
@@ -349,6 +371,13 @@ init python:
     cg_gallery.unlock_image("e02s09-57 mh-tells-mc-been-patient-mc-not-about-change_c1")
     cg_gallery.unlock_image("e02s09-64 mc-mh-sleep-cuddled_c1")
 
+    cg_gallery.button("e03s01")
+    cg_gallery.unlock_image("e03s01-03 sy-nice-mct-haha-no-suspect-thing_c1_intel")
+    cg_gallery.unlock_image("e03s01-63 mh-removes-her-shoes_c1_intel")
+    cg_gallery.unlock_image("e03s06-09 golden-mh-reveal_c1")
+    cg_gallery.image("e03s06-74 pee-normal-alt-angle-ca-masturbates-hard_c3")
+    cg_gallery.unlock_image("e03s06-62 gang-follows-mh-bathroom_c1")
+
     cg_gallery.button("e04s01")
     cg_gallery.unlock_image("e04s03-30 arj-biting-lip-project-deserves-chrisening-sy-claps-hands_c1")
     cg_gallery.unlock_image("e04s03-38 sy-holding-double-sided-dildo-wasnt-very-nice_c1")
@@ -357,6 +386,10 @@ init python:
     cg_gallery.unlock_image("e04s07-73 mh-kinky-look-certainly-long-way-wondering-about-something_c1")
     cg_gallery.image("e04s07-186-01 girls-front-mc-ready-be-fucked-mh-included_c1")
     cg_gallery.unlock_image("e04s07-227 mc-good-work-prisoner-one-wants-sy-go-clean-her-sy-ok_c1")
+
+    cg_gallery.button("e05s01")
+    cg_gallery.unlock_image("e05s02-46 op-come-in_c1")
+    cg_gallery.unlock_image("e05s01-50 mh_talk")
 
     cg_gallery.button("e06s01")
     cg_gallery.unlock_image("e06s01-14-2 mc-lc-talk12_c2")
@@ -407,6 +440,24 @@ init python:
     cg_gallery.unlock_image("e08s07-44 sy-mc-arj-selfie_c1")
     cg_gallery.unlock_image("e08s07-49 sy-leans-over-produce_c1")
 
+    cg_gallery.button("e09s01")
+    cg_gallery.unlock_image("e09s01-38 arj-good-plan-brute-force-sy-bingo_c1")
+    cg_gallery.unlock_image("e09s01-27 sy-explains-can-rebuild-it-have-technology_c1")
+    cg_gallery.unlock_image("e09s03-73 rebuilding_the_brand_montage_aw_nipslip")
+    cg_gallery.unlock_image("e09s06-02 mes-never-thought-another-mask-mc-glad-find-her-excuse_c1")
+    cg_gallery.unlock_image("e09s06-29 hr-lo-appear-door-mes-doesnt-know-lo-name")
+
+    cg_gallery.button("e09s07")
+    cg_gallery.unlock_image("e09s06-38 hr-lo-stand-in-togas")
+    cg_gallery.unlock_image("e09s06-43 cl-tl-stand-door-mes-greets-them-tl-of-course")
+    cg_gallery.unlock_image("e09s06-51 mc-got-here-time-jdg-oh")
+    cg_gallery.unlock_image("e09s06-69 pw-yes-did-met-on-the-way_c1")
+    cg_gallery.unlock_image("e09s06-82 dd-excited-right-dw-hopefully_c1")
+    cg_gallery.unlock_image("e09s06-114 mc-what-pleasant-surprise-ah-can-say-same-you_c1")
+    cg_gallery.unlock_image("e09s06-167 arj-sy-close-up-sy-means-much-arj-have-ton-festivities-tonight_c1")
+    cg_gallery.unlock_image("e09s06-168 sy-being-just-small-first-party-has-special-even-planned_c1")
+    cg_gallery.unlock_image("e09s06-177 lo-put-bid-hr-match-it_c1")
+
     cg_gallery.button("e10s03")
     cg_gallery.unlock_image("e10s03-21 mc-mes-getting-dressed_c2")
     cg_gallery.unlock_image("e10s03-20 mc-wake-up-couch-naked_c1")
@@ -451,6 +502,26 @@ init python:
     cg_gallery.unlock_image("e14s02-65 new-customer-walks-in_c1")
     cg_gallery.unlock_image("e14s07-115 all-do-yoga-end-scene_c1")
 
+    cg_gallery.button("e15s01")
+    cg_gallery.image("e15s04-24 mc-om-animation2_c2")
+    cg_gallery.unlock_image("e15s05-10 ga-yes-know-how-difficult-new-students-can-be_c1")
+    cg_gallery.unlock_image("e15s05-12 sy-pouty-not-new-at-peed-on-how-hard-could-be_c1")
+    cg_gallery.unlock_image("e15s05-28 mh-orders-sy-ga-on-knees_c1")
+    cg_gallery.unlock_image("e15s06-15 mes-what-can-say-always-thinking-choice-menu_c1")
+    cg_gallery.unlock_image("e15s06-32 sy-turns-greetings-mc-mes-mc-seems-found-os_c1")
+    cg_gallery.unlock_image("e15s06-53-02 mes-takes-off-all-clothes_c1")
+
+    cg_gallery.button("e16s01")
+    cg_gallery.unlock_image("e16s05-30-jf-talk-mc")
+    cg_gallery.unlock_image("e16s04-139 kv-will-find-best-pictures_c1")
+    cg_gallery.unlock_image("e16s05-31-jf-leave")
+    cg_gallery.unlock_image("e16s05-35-jf-kv")
+
+    cg_gallery.button("e16s02")
+    cg_gallery.unlock_image("e16s01-106-mdog-ball")
+    cg_gallery.unlock_image("e16s04-27 three-girls-photoshoot-one_c1")
+    cg_gallery.unlock_image("e16s07-78 kk-plays-breasts-ask-time-milking-mc-read-mind_c1")
+
     cg_gallery.button("e17s01")
     cg_gallery.unlock_image("e17s01_63_hotel_lobby_dw_talk")
     cg_gallery.unlock_image("e17s02-37 dh-thinks-90s-look-mc-no-madam_c1")
@@ -468,7 +539,27 @@ init python:
     cg_gallery.unlock_image("e17s05-104 dw-jump-mc-embrace-they-kiss-end-scene_c1")
     cg_gallery.unlock_image("e17s06-26 dw-enters-room-in-bdsm-outfit_c1")
 
-    for i in cg_gallery_slots:
-        renpy.image("gallery_tncg_" + i[0], Image("images/extended/cg/" + i[0] + ".webp"))
+    cg_gallery.button("e18s01")
+    cg_gallery.unlock_image("e18s01-14 mc-pb-sb-dw-walk3_c2")
+    cg_gallery.unlock_image("e18s07-95 pb-confused-dw-said-can-swim-not-wear-swimsuit_c1")
+    cg_gallery.unlock_image("e18s03-90-pb-mc-clean")
+    cg_gallery.unlock_image("e18s03-251 sb-rolls-head-mmm-that-good-yeah-wasnt-bad-sb-might-need-moment_c1")
+    cg_gallery.unlock_image("e18s04-08 sb-shit-look-baddies-best-behaviour-mc-tries-protest_c1")
+    cg_gallery.unlock_image("e18s04-71 sb-pops-bottle_c1")
+    cg_gallery.unlock_image("e18s04-131 dw-pretty-hot-boys-play-each-other-sb-yes-was_c1")
+    cg_gallery.unlock_image("e18s04-96 dw-cant-stop-sb-not-stop-just-shut-up_c1")
+    cg_gallery.unlock_image("e18s04-92 dw-someone-horny-sb-shut-up-fun-watch_c1")
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    cg_gallery.button("e18s02")
+    cg_gallery.unlock_image("e18s03-36-lo-ke")
+    cg_gallery.unlock_image("e18s03-38-lo-talk-mc")
+    cg_gallery.unlock_image("e18s04-28 girls-exit-car-wash-new-outfits_c1")
+    cg_gallery.unlock_image("e18s04-43 montage-second-car-two_c1")
+    cg_gallery.unlock_image("e18s04-63 lo-cool-beach-dw-happened-upon-it_c1")
+    cg_gallery.unlock_image("e18s04-81 lo-been-eyefucking-both-mc-what_c1")
+    cg_gallery.unlock_image("e18s04-64 ke-must-be-lucky-pb-have-no-idea_c1")
+
+    cg_gallery.button("e18s03")
+    cg_gallery.unlock_image("e18s04-161 girls-stand-join-dw-sb-looking-mc-pb_c1")
+    cg_gallery.unlock_image("e18s04-185 girls-go-ocean-clean-up-end-scene_c1")
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

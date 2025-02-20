@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e11s02_e3615efe:
 
 
@@ -1007,5 +1005,4 @@ translate deutsch strings:
 
     old "Wait, why can't you keep watch?"
     new "Wait, why can't you keep watch?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

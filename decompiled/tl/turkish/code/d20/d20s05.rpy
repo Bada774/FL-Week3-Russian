@@ -1,6 +1,4 @@
 
-
-
 translate turkish d20s05_47e7cec6:
 
 
@@ -1342,7 +1340,7 @@ translate turkish strings:
 
 
     old "Some time later\nAt Min's house"
-    new "Bir süre sonra\\NMin'in evinde"
+    new "Bir süre sonra\nMin'in evinde"
 
 
     old "Leave Town With Min"
@@ -1351,5 +1349,4 @@ translate turkish strings:
 
     old "Talk About Your Summer Plans"
     new "Yaz Planlarınız Hakkında Konuşun"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

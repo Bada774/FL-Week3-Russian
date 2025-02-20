@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d16s08_d60f6efd:
 
 
@@ -953,5 +951,4 @@ translate deutsch d16s08_719d7ead:
 
 
     arj "Ha ha. Dann lass uns gehen."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

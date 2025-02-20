@@ -633,7 +633,7 @@ label e08s05_party:
         scene e08s05-143 part2_frank_mc_c1 with dissolve
         play voice5 boy5_arrogant_pff noloop
         fc "As much as you study."
-    elif True:
+    else:
         scene e08s05-146 part2_frank_mc_c1 with dissolve
         play voice2 mc_thinking_hmm1 noloop
         mc "I am the very model of a modern major character, I know the tunes of Mozart, and the quotes from Sun Tzu's Art of War..."
@@ -1599,5 +1599,4 @@ label e08s05_end:
     stop voice5 fadeout 1.5
     stop music fadeout 3.5
     jump e08s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

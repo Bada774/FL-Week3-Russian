@@ -1,6 +1,4 @@
 
-
-
 translate turkish e17s04_f538fcc5:
 
 
@@ -1411,5 +1409,4 @@ translate turkish strings:
 
     old "Remain completely submissive"
     new "Tamamen itaatkar kal"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

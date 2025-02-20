@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e06s04_882706cd:
 
 
@@ -725,5 +723,4 @@ translate deutsch e06s04_later_35abc2db:
 
 
     sy "Danke Amrose."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

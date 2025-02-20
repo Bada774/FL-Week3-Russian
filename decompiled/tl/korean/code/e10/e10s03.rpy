@@ -1,6 +1,4 @@
 
-
-
 translate korean e10s03_9bb71d64:
 
 
@@ -531,5 +529,4 @@ translate korean strings:
 
     old "New day new beginning"
     new "New day new beginning"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

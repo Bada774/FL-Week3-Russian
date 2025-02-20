@@ -1,6 +1,4 @@
 
-
-
 translate chinese e02s01_e6009a2c:
 
 
@@ -715,12 +713,6 @@ translate chinese e02s01_hot_bath_75a144f0:
     mh "嗯，我想你是对的，我变得有点小资了。"
 
 
-translate chinese e02s01_hot_bath_1ec01878:
-
-
-    mc "的确，通过对手能最大限度的了解一个人。"
-
-
 translate chinese e02s01_hot_bath_47631e6c:
 
 
@@ -731,12 +723,6 @@ translate chinese e02s01_hot_bath_454ecb0d:
 
 
     mc "你指什么？"
-
-
-translate chinese e02s01_hot_bath_79bd615b:
-
-
-    mh "对手。"
 
 
 translate chinese e02s01_hot_bath_d1f576cc:
@@ -1263,14 +1249,10 @@ translate chinese strings:
     new "让丽莎开心"
 
 
-
-
 translate chinese e02s01_give_pleasure_f7d6991f:
 
 
     mh "狠狠地插我！"
-
-
 
 translate chinese strings:
 
@@ -1278,4 +1260,15 @@ translate chinese strings:
     old "Ending #2\nSnowy Peaks"
     new "Ending #2\n雪峰胜地"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate chinese e02s01_hot_bath_d6431c08:
+
+
+    mc "通过逆境最能了解人，这话一点不假。"
+
+
+translate chinese e02s01_hot_bath_c527c472:
+
+
+    mh "逆境啊。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

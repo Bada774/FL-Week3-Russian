@@ -1,6 +1,4 @@
 
-
-
 translate chinese after_credits_583c0fde:
 
 
@@ -118,7 +116,7 @@ translate chinese after_credits_a17db195:
 translate chinese after_credits_870c1bff:
 
 
-    dd "对呀，她是Taboo大学的!"
+    dd "对呀，她是禁忌大学的!"
 
 
 translate chinese after_credits_66e7bad8:
@@ -286,7 +284,7 @@ translate chinese after_credits_73eb5eb5:
 translate chinese after_credits_826b65f0:
 
 
-    dd "但是Taboo大学呢？"
+    dd "但是禁忌大学呢？"
 
 
 translate chinese after_credits_47a5d0a5:
@@ -298,13 +296,13 @@ translate chinese after_credits_47a5d0a5:
 translate chinese after_credits_f1d2352a:
 
 
-    dd "Taboo大学怎么样了？下一步是什么？"
+    dd "禁忌大学怎么样了？下一步是什么？"
 
 
 translate chinese after_credits_75e46767:
 
 
-    sm "哦？你玩过TU吗？"
+    sm "哦？你玩过禁忌大学吗？"
 
 
 translate chinese after_credits_cf40d33d:
@@ -612,8 +610,6 @@ translate chinese metalknock2_40511e6c:
 
     "*咚咚咚*"
 
-
-
 translate chinese strings:
 
 
@@ -691,5 +687,4 @@ translate chinese after_credits_f4cf666b:
 
 
     sy "我等不及要和你一起享受这个结局了！"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese e17s03_49cb4f05:
 
 
@@ -557,5 +555,4 @@ translate chinese replay_e17s03_a823a6e3:
 
 
     mc "我得走了。我的女主人在召唤我。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

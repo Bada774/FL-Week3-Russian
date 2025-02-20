@@ -1,6 +1,4 @@
 
-
-
 translate chinese d21s05_2c96e7d1:
 
 
@@ -1211,5 +1209,4 @@ translate chinese strings:
 
     old "Just facefuck Aaleyah instead"
     new "直接操艾蕾亚的脸就行了"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

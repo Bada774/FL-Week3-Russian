@@ -3,7 +3,7 @@ label d15s03:
     if not hasattr(renpy.store, "d12s02_gavepass"):
         if hasattr(renpy.store, "d11s02_gavepass"):
             $ d12s02_gavepass = d11s02_gavepass
-        elif True:
+        else:
             $ d12s02_gavepass = False
 
     $ d15s03_quartet = False
@@ -52,7 +52,7 @@ label d15s03:
 
     if d12s02_gavepass is False:
         jump d15s03_hr_theft
-    elif True:
+    else:
         jump d15s03_middle
 
 label d15s03_hr_theft:
@@ -200,7 +200,7 @@ label d15s03_middle:
         play voice3 pete_no_simple3 noloop
         if persistent.is_special is True:
             pb "Hell no. I'm not about to shit in some guy's mouth and I sure as fuck ain't gonna let some slut do that to me."
-        elif True:
+        else:
             pb "Hell no. I mean, if that's the way a guy swings, fine for him. That shit isn't for me."
         scene d15s03-21 mc-pt-room-stand-talk6_c2 with dissolve
         play voice2 mc_scared_oh2 noloop
@@ -254,7 +254,7 @@ label d15s03_middle:
     mc "I think they were pulling your leg."
     if love_lc is True:
         mc "Don't get me wrong, I love her. We just haven't known each other that long."
-    elif True:
+    else:
         mc "Don't get me wrong. She's the woman of my dreams, but no, we haven't gone shopping at any jewelry shops."
     scene d15s03-22 mc-pt-room-stand-talk7_c1 with dissolve
     play voice3 pete_surprised_oh1 noloop
@@ -274,7 +274,7 @@ label d15s03_middle:
 
     if date_dw is True:
         jump d15s03_dw_setup
-    elif True:
+    else:
         jump d15s03_end
 
 label d15s03_dw_setup:
@@ -463,7 +463,7 @@ label d15s03_dw_setup:
         pb "Fuck. {w}That means more studying."
 
         $ d15s03_quartet = True
-    elif True:
+    else:
 
         scene d15s03-35 mc-pt-room-sit10_c1 with dissolve
 
@@ -476,5 +476,4 @@ label d15s03_end:
 
     stop music fadeout 3.0
     jump d15s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

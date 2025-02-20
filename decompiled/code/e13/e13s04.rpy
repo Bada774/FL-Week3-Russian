@@ -176,7 +176,7 @@ label replay_e13s04:
     $ Lovense.vibrate(2)
     scene e13s04-16 mc-nk-cum_c1 with dissolve
     play voice3 aaleyah_closed_moan4 noloop
-    nk "God... That was amazing…"
+    nk "God... That was amazing..."
     play sound maria_kiss1
     scene e13s04-17 mc-nk-kiss2_c1 with dissolve
     pause
@@ -211,7 +211,7 @@ label replay_e13s04:
     play voice3 aaleyah_open_moans1
     $ Lovense.pattern("7;12", 1700)
     scene e13s04-a21-1 with dissolve
-    nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
+    nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
     scene e13s04-a21-2 with dissolve
     pause
     scene e13s04-a21-3 with dissolve
@@ -279,5 +279,4 @@ label replay_e13s04:
     stop music2 fadeout 3.0
 
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

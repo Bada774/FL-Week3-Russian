@@ -434,7 +434,7 @@ label e02s08_sex:
         scene e02s08-78 mc-pushes-mh-head-down-his-cock-two-hands_c1 with dissolve
         play voice2 mc_angry_errr2 noloop
         mc "And don't you dare touch your dick."
-    elif True:
+    else:
         play voice3 mc_sex_sucking_slow1
         scene e02s08-79 choice-sub-feels-amazing_c1 with dissolve
         play voice2 mc_scared_oh3 noloop
@@ -466,7 +466,7 @@ label e02s08_sex:
         scene e02s08-85 mc-calls-ap-atp-okay_c1 with dissolve
         play voice2 mc_hey_hey3 noloop
         mc "She's been comfortable for a little long, don't you think? Why don't you have a seat and let her be the one on her knees now?"
-    elif True:
+    else:
         scene e02s08-86 mh-calls-ap-atp-okay_c1 with dissolve
         play voice3 dahlia_arrogant_hm noloop
         mh "Alexander, I suggest that you sit down and let Angela take care of you. This is a good opportunity for you two to change the dynamic before going into anything more intense."
@@ -482,7 +482,7 @@ label e02s08_sex:
         scene e02s08-88 mc-squints-eyes-all-have-start-somewhere_c1 with dissolve
         play voice2 d3s11b_mcheh noloop volume 1.7
         mc "Well, we all gotta start out somewhere."
-    elif True:
+    else:
         scene e02s08-89 mh-soft-laughter_c1 with dissolve
         play voice3 lissa_haha2 noloop
         mh "*Laughs softly*"
@@ -514,7 +514,7 @@ label e02s08_sex:
     scene e02s08-92 ap-reacts-to-mc-mh-comments_c1 with dissolve
     if e02s08_dom is True:
         mc "Take control of her head. Make her your little sex toy."
-    elif True:
+    else:
         play voice3 daisy_ugu noloop
         mh "Exactly. Put your hands on her head. Make her feel how much you want her even deeper."
     play voice5 aaleyah_sucking_deep
@@ -559,7 +559,7 @@ label e02s08_sex:
         scene e02s08-100 mc-orders-mh-get-on-couch-she-complies_c1 with fade
         play voice2 mc_pain_argh1 noloop
         pause
-    elif True:
+    else:
         scene e02s08-101 mh-massage-cock-through-clothes-discuss-with-mc_c1 with dissolve
         play voice3 lissa_mmm2 noloop
         mh "Mm. Seeing them so turned on is making {i}me{/i} go wild."
@@ -590,7 +590,7 @@ label e02s08_sex:
         scene e02s08-107 mc-tells-mh-they-better-put-good-show_c1 with dissolve
         play voice2 mc_arrogant_huh2 noloop
         mc "You two ready to see how the great Melissa Harris takes cock?"
-    elif True:
+    else:
         scene e02s08-117 mh-tells-mc-heard-atp-ask-show-them-mc-nods_c1 with dissolve
         play voice3 dahlia_angry_hm1 noloop
         mh "Do you two want to see how my sweet boyfriend takes my cock?"
@@ -681,7 +681,7 @@ label e02s08_sex:
         stop sound fadeout 1.0
         stop sound3 fadeout 1.0
         stop voice2 fadeout 1.0
-    elif True:
+    else:
         scene e02s08-117 mh-tells-mc-heard-atp-ask-show-them-mc-nods_c1 with dissolve
         play voice3 lissa_laugh2 noloop
         mh "*Smiles* You heard her, Sweetheart."
@@ -774,7 +774,7 @@ label e02s08_foursome:
         play voice3 lissa_moan3 noloop
         scene e02s08-125 mc-stops-fucking-mh-loooks-atp_c1 with dissolve
         play voice2 mc_thinking_hmm1 noloop
-    elif True:
+    else:
         play voice3 dahlia_disappointed_hmm1 noloop
         scene e02s08-126 mh-stops-fucking-mc-looks-atp_c1 with dissolve
     pause
@@ -804,7 +804,7 @@ label e02s08_foursome:
     if e02s08_dom is True:
         play voice2 mc_happy_a1 noloop
         mc "This oughta be interesting."
-    elif True:
+    else:
         play voice3 dahlia_arrogant_heh noloop
         mh "Ready?"
     play voice5 aaleyah_disappointed_eeh2 noloop
@@ -857,7 +857,7 @@ label e02s08_foursome:
     ap "Tell me how it feels."
     if e02s08_dom is True:
         atp "Fucking the dick that ravaged Lyssa is so hot. I feel fucking alive!"
-    elif True:
+    else:
         atp "I feel fucking alive!"
     atp "I want more! Lyssa, please, fuck me!"
     scene e02s08-143 atp-wants-mh-fuck-her-she-concerned_c1 with dissolve
@@ -1014,5 +1014,4 @@ label e02s08_foursome:
 
     $ renpy.music.set_volume(0.25, 3.0, "music" )
     jump e02s05_menu
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

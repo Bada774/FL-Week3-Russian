@@ -3,7 +3,7 @@ label d16s04:
     if not hasattr(renpy.store, "week_1_goldstar"):
         if date_mes is True and fl_watersports is True:
             $ week_1_goldstar = True
-        elif True:
+        else:
             $ week_1_goldstar = False
 
     $ d16s04_cage_out = False
@@ -20,7 +20,7 @@ label d16s04:
     hide screen scene_transistion
     if date_mes is True:
         scene d16s04-01 mc-mes-classroom_c2
-    elif True:
+    else:
         scene d16s04-01-2 mc-mes-classroom-enter_c2
     with Fade(0.5, 0.5, 0.9)
     pause
@@ -28,7 +28,7 @@ label d16s04:
         scene d16s04-49-3 mc-kb-classroom-thinking3_c2 with dissolve
     if d16s03_refuse_lc is False:
         mct "Phew, seems like everyone's a little late today."
-    elif True:
+    else:
         mct "Not a lot of people today.{w} Guess I'm early."
 
     $ renpy.music.set_volume(0.1, 10.0, "sound2")
@@ -147,7 +147,7 @@ label d16s04:
         scene d16s04-18 mc-mes-classroom-talk14_c2 with dissolve
         play voice2 mc_yes_yeah4 noloop
         mc "Alright. Bye."
-    elif True:
+    else:
         scene d16s04-01-3 mc-mes-classroom-enter2_c1 with dissolve
         pause
         play music cute_times fadein 3.0
@@ -221,7 +221,7 @@ label d16s04:
         play voice2 mc_arrogant_huh2 noloop
         if persistent.is_special is True:
             mc "You felched my cum outta your sister's ass!"
-        elif True:
+        else:
             mc "You felched my cum outta your girlfriend's ass!"
         mc "You can't talk."
         scene d16s04-26 mc-kb-classroom-talk5_c1 with dissolve
@@ -244,7 +244,7 @@ label d16s04:
         mc "*Chuckles* Right, I'll keep you in mind."
         scene d16s04-24 mc-kb-classroom-talk3_c1 with dissolve
         kb "And, I forgot to mention. I got a Gold Star for that. So who's the creampie sucker now?"
-    elif True:
+    else:
         scene d16s04-28 mc-kb-classroom-talk7_c1 with dissolve
         play voice3 kevin_thinking_hmm6 noloop
         kb "Pretty good. Great even. God, I love that woman."
@@ -269,10 +269,10 @@ label d16s04:
     play voice2 mc_arrogant_heh2 noloop
     if date_cb is True:
         mc "Still you. But hold up. You got a Gold Star?"
-    elif True:
+    else:
         if week_1_goldstar is True or d09s07_goldstar is True or d12s01_goldstar is True:
             mc "Hold up. You got a Gold Star?"
-        elif True:
+        else:
             mc "A Gold Star, huh?"
     if week_1_goldstar is True or d09s07_goldstar is True or d12s01_goldstar is True:
         scene d16s04-37 mc-kb-classroom-talk17_c2 with dissolve
@@ -287,7 +287,7 @@ label d16s04:
         play voice2 mc_disappointed_ah1 noloop
         if is_antagonist_mode is False:
             mc "Are you in the VIP program?"
-        elif True:
+        else:
             mc "Are you in the retention program?"
         scene d16s04-46 mc-kb-classroom-open-talk1_c1 with dissolve
         play voice3 kevin_surprised_what3 noloop
@@ -305,7 +305,7 @@ label d16s04:
         scene d16s04-38 mc-kb-classroom-talk18_c2 with dissolve
         play voice3 kevin_thinking_hmm4 noloop
         kb "The Gold Stars?"
-    elif True:
+    else:
 
         play voice2 d1s1_mmm noloop
         mct "AmRose told me about that a bit back."
@@ -325,7 +325,7 @@ label d16s04:
         play voice2 mc_thinking_hmm5 noloop
         if date_cb is True:
             mc "And you got one for felching Chloe?"
-        elif True:
+        else:
             mc "And you got one with Chloe?"
         mct "What did he even do with her?"
         scene d16s04-38 mc-kb-classroom-talk18_c2 with dissolve
@@ -343,14 +343,14 @@ label d16s04:
     play voice2 mc_angry_hm1 noloop
     if is_antagonist_mode is False:
         mct "It seems like the Gold Stars for the VIP program was a beta test or something."
-    elif True:
+    else:
         mct "It seems like the Gold Stars for the retention program was a beta test of sorts."
     mct "What does this mean? Has the function of the Stars changed?"
     play sound sfx_hair_scratch1 volume 0.7
     scene d16s04-49-2 mc-kb-classroom-thinking2_c2 with dissolve
     if is_antagonist_mode is False:
         mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
-    elif True:
+    else:
         mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
     scene d16s04-46 mc-kb-classroom-open-talk1_c1 with dissolve
     play voice3 kevin_thinking_hey1 noloop
@@ -378,13 +378,13 @@ label d16s04:
     mct "Bingo. It's right here."
     if is_antagonist_mode is False:
         mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
-    elif True:
+    else:
         mct "Says here that I have one ongoing punishment and that I can reduce the length of it for three Gold Stars!"
     scene d16s04-44 mc-kb-classroom-phone3_c2 with dissolve
     play voice2 d1s5_mcthinks noloop
     if is_antagonist_mode is False:
         mct "And apparently I've gone through this challenge long enough that I could end it right now!"
-    elif True:
+    else:
         mct "And apparently I've gone through the punishment long enough that I can end it right now!"
 
     if fl_goldstars >= 3:
@@ -438,7 +438,7 @@ label d16s04:
                 play voice2 mc_disappointed_ehh1 noloop
                 if is_antagonist_mode is False:
                     mc "I failed a challenge from FL. This was my new challenge."
-                elif True:
+                else:
                     mc "I failed a thing from FL. This was my punishment."
                 mc "You talking about the Gold Stars made me think and uh... yep."
                 play voice3 kevin_happy_heh3 noloop
@@ -481,7 +481,7 @@ label d16s04:
                     scene d16s04-53 mc-kb-classroom-talk4_c2 with dissolve
                     play voice2 mc_yes_aga2 noloop
                     mc "No problem. Reduce, reuse, recycle, right?"
-                elif True:
+                else:
                     scene d16s04-50 mc-kb-classroom-talk2_c1
                     if cage_ntr is False:
                         show d16s04-50 mc-kb-classroom-talk2-lc_c1
@@ -511,7 +511,7 @@ label d16s04:
                 mct "I waited this long, I can wait a couple more hours."
                 scene d16s04-49-4 mc-kb-classroom-thinking4_c2 with dissolve
                 pause
-    elif True:
+    else:
 
         scene d16s04-45 mc-kb-classroom-phone4_c2 with dissolve
         play voice2 mc_thinking_hmm5 noloop
@@ -588,5 +588,4 @@ label d16s04:
     stop music fadeout 3.0
 
     jump d16s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

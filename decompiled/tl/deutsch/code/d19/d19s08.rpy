@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d19s08_7107f1b7:
 
 
@@ -601,5 +599,4 @@ translate deutsch strings:
 
     old "Ask for a picture"
     new "Bitte um ein Bild"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

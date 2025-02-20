@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d15s07_a875bc2a:
 
 
@@ -1195,5 +1193,4 @@ translate portuguese strings:
 
     old "I'm getting kinda bored of the watersports"
     new "Tô ficando meio cansado de urina"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -287,5 +287,4 @@ label d18s06:
     arj "Maybe we can pick one up at your dorm. Let's go."
 
     jump d18s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate malay d17s03_9a6462db:
 
 
@@ -955,10 +953,8 @@ translate malay d17s03_2051d66a:
     mc "{i}Arahan diterima, puan!{/i}"
 
 
-
 translate malay d17s03_a531f536:
 
 
     mct "Itu tak dengar macam cemburu."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

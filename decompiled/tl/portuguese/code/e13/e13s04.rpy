@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e13s04_b0f568c1:
 
 
@@ -157,12 +155,6 @@ translate portuguese replay_e13s04_37969b53:
     nk "Isso, isso! Eu tô quase lá! [mcname], eu vou-!"
 
 
-translate portuguese replay_e13s04_b7e53779:
-
-
-    nk "Meu Deus... Isso foi incrível..."
-
-
 translate portuguese replay_e13s04_d2c80bad:
 
 
@@ -179,12 +171,6 @@ translate portuguese replay_e13s04_7b4716ff:
 
 
     nk "Me fode. Me fode o mais forte que conseguir. Não me importo quem vai ver ou ouvir."
-
-
-translate portuguese replay_e13s04_a4e4f076:
-
-
-    nk "*Gemidos altos* Isso, porra... Isso! Eu te amo, [mcname]."
 
 
 translate portuguese replay_e13s04_dd27a96a:
@@ -228,12 +214,21 @@ translate portuguese strings:
     old "One year later"
     new "Um ano depois"
 
-
-
 translate portuguese strings:
 
 
     old "You have finished playing ending number 13!"
-    new "Você concluiu o final número 13!"
+    new "Você concluiu o Final número #13!"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate portuguese replay_e13s04_4ae8355d:
+
+
+    nk "Meu Deus... Isso foi incrível...."
+
+
+translate portuguese replay_e13s04_c133408e:
+
+
+    nk "*Gemidos altoso* Isso, porra... Isso! [mcname], eu te amo."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

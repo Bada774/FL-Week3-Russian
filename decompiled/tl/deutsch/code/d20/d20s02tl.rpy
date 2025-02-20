@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d20s02tl_56e9281f:
 
 
@@ -2223,5 +2221,4 @@ translate deutsch strings:
 
     old "Whip Them Both Together"
     new "Schlage beide zusammen"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -73,7 +73,7 @@ label d17s02:
         mct "Guess she's excited.{w} I don't really have anything going on for a bit anyway."
         play sound sfx_message_out1
         mc "Sure be there in 30ish"
-    elif True:
+    else:
         play sound sfx_message_in1
         vw "Have time for a house call?"
         play sound sfx_message_in1
@@ -144,7 +144,7 @@ label replay_d17s02:
         play voice3 chloe_surprised_ohmy noloop
         if persistent.is_special is True:
             vw "That's all I wanted! Oh my God, I'll be able to talk to my baby again."
-        elif True:
+        else:
             vw "That's all I wanted! Oh my God, I'll be able to talk to her again."
         scene d17s02-15 mc-vw-happy-talk-c2 with dissolve
         play voice2 mc_yes_yeah1 noloop
@@ -255,7 +255,7 @@ label replay_d17s02:
         play voice2 mc_arrogant_heh2 noloop
         mct "Probably shouldn't go too hard on her first go."
         mct "Hm... What should I make her do to teach her submission?"
-    elif True:
+    else:
         play voice3 chloe_hey_whisper noloop
         vw "Hey, sexy."
         play sound sfx_cloth_rustling2
@@ -326,12 +326,12 @@ label d17s02_menu:
             play voice2 mc_arrogant_hm1 noloop
             if date_awvw is True and d16_aw_reject is False:
                 mc " I want you to worship me."
-            elif True:
+            else:
                 mc "No, I want you to worship me."
             mc "I want you to have nothing but my cock in your mind."
             if date_awvw is True and d16_aw_reject is False:
                 mc "I want you to focus on nothing else but me, understand?"
-            elif True:
+            else:
                 mc "Do you understand me, slut?"
             play voice3 chloe_old_laugh noloop
             scene d17s02-22-01 mc-vw-sit-lap-talk-c1 with dissolve
@@ -339,7 +339,7 @@ label d17s02_menu:
             if date_awvw is True and d16_aw_reject is False:
                 scene d17s02-21-01 mc-vw-sit-lap-talk-c2 with dissolve
                 mct "Sir?"
-            elif True:
+            else:
                 scene d17s02-21-02 mc-vw-sit-lap-talk-c2 with dissolve
                 play voice2 mc_thinking_hmm4 noloop
                 mc "Good, get to it."
@@ -662,5 +662,4 @@ label d17s02_vw_fucking:
 
     stop music fadeout 3.5
     jump d17s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

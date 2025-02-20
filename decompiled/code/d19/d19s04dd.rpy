@@ -816,8 +816,7 @@ label ending_11_return hide:
     if d19s04_dd_end is True:
         $ renpy.music.set_volume(0.8, 2.5, "music")
         jump ending_11
-    elif True:
+    else:
         stop music fadeout 4.0
         jump d19s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

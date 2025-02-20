@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s09_c22452ba:
 
 
@@ -1194,20 +1192,15 @@ translate portuguese strings:
     old "Check on Her"
     new "Dar uma Olhada Nela"
 
-
-
 translate portuguese strings:
 
 
     old "Later That Evening"
     new "Mais Tarde na Noite"
 
-
-
 translate portuguese strings:
 
 
     old "You have finished playing Ending #06!"
     new "Você concluiu o Final #06!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

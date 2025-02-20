@@ -189,7 +189,7 @@ label d15s01:
     play voice3 amrose_yes_yeah1 noloop
     if date_arj_romance is True:
         arj "Yes, AmRose. You know, your secret girlfriend?"
-    elif True:
+    else:
         arj "Yes, AmRose. You know, your personal sex slave?"
     play sound sfx_cloth_rustling1
     scene d15s01-04 mc-morning_c2 with dissolve
@@ -227,7 +227,7 @@ label d15s01:
         mc "Huh. Okay..."
         scene d15s01-13 arj-talk-3_c1 with dissolve
         mc "And where is Ly-"
-    elif True:
+    else:
         scene d15s01-13 arj-talk-3_c1 with dissolve
         play voice2 mc_thinking_hmm4 noloop
         mc "Where is Ly-"
@@ -403,7 +403,7 @@ label d15s01_cagedecision:
     play voice2 mc_angry_errr2 noloop
     if is_antagonist_mode is False:
         mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
-    elif True:
+    else:
         mc "Shit, I know. I don't want to hurt you or anyone else, but-"
     scene d15s01-32 arj-lc-mc-the-box-7-decided-3_c2 with dissolve
     play voice4 daisy_ugu noloop
@@ -482,7 +482,7 @@ label d15s01_cagedecision:
     play voice3 amrose_disappointed_ehh1 noloop
     if is_antagonist_mode is False:
         arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
-    elif True:
+    else:
         arj "I hate to agree, but... {w}For completely different reasons, I need you to do this."
     scene d15s01-41 arj-lc-mc-cages-4-phone_c1 with dissolve
     play voice3 amrose_disappointed_oh5 noloop
@@ -634,7 +634,7 @@ label d15s01_caged:
 
     if date_arj_romance is False and cage_ntr is True:
         jump d15s01_face_fucking
-    elif True:
+    else:
         jump d15s01_arj_bj
 
 label d15s01_arj_bj_cum_mouth:
@@ -660,7 +660,7 @@ label d15s01_arj_bj_cum_mouth:
     play voice4 lydia_ah noloop
     if date_arj_romance is False and cage_ntr is True:
         lc "Did you swallow all of it?"
-    elif True:
+    else:
         lc "Did you just swallow... all of it?"
     play voice3 daisy_ugu noloop
     scene d15s01-57 arj-bj--cum-3_c2 with dissolve
@@ -669,7 +669,7 @@ label d15s01_arj_bj_cum_mouth:
     if date_arj_romance is False and cage_ntr is True:
         play voice4 daisy_aah noloop
         lc "*whispers* Swallow it all now dearie. It's good for you. Lots of protein."
-    elif True:
+    else:
         play voice4 lydia_lydwow noloop
         lc "Oh wow."
     play sound gulp
@@ -680,7 +680,7 @@ label d15s01_arj_bj_cum_mouth:
     scene d15s01-59 arj-bj--cum-5-swallow_c1 with dissolve
     if date_arj_romance is False and cage_ntr is True:
         mct "I don't know what has come over Lydia{w}, but I like it!"
-    elif True:
+    else:
         pause
 
     return
@@ -718,7 +718,7 @@ label d15s01_arj_bj:
     scene d15s01-a6 with dissolve
     if cage_ntr is True:
         mct "What could possibly go wrong? Just a fucking cock cage labeled NTR."
-    elif True:
+    else:
         mct "What could possibly go wrong? Just a fucking cock cage labeled LC."
     pause
     $ Lovense.stop()
@@ -778,7 +778,7 @@ label d15s01_arj_bj:
     play voice4 lydia_aga noloop
     if cage_ntr is True:
         lc "Someday. {w}Maybe."
-    elif True:
+    else:
         lc "I'm not quite ready for that... just yet."
     stop sound fadeout 0.6
     scene d15s01-65 arj-bj--move-talk_c1 with dissolve
@@ -788,7 +788,7 @@ label d15s01_arj_bj:
     play voice4 lydia_moan1 noloop
     if cage_ntr is True:
         lc "You let him cum in your other holes too?"
-    elif True:
+    else:
         lc "Well, yeah. I mean, in your... {w}pussy."
 
     scene d15s01-69 arj-bj--hj-2-hands-ask_c1 with dissolve
@@ -850,7 +850,7 @@ label d15s01_arj_bj:
 
     if cage_ntr is False:
         jump d15s01_lc_bj
-    elif True:
+    else:
         scene d15s01-73 arj-bj--post-facial-talk_c2 with dissolve
         play voice3 amrose_old_haha2 noloop
         arj "Just one thing left to do."
@@ -1080,7 +1080,7 @@ label d15s01_face_fucking:
     play voice3 amrose_arrogant_hmm2 noloop
     if is_antagonist_mode is False:
         arj "I'm his completely willing and consensual sex slave."
-    elif True:
+    else:
         arj "I'm his slave."
     play voice4 dahlia_yes_aga noloop
     lc "I thought as much."
@@ -1296,7 +1296,7 @@ label d15s01_end:
 
     if cage_ntr is False:
         $ unlock_gallery_slot("scene", "d15s01lc")
-    elif True:
+    else:
         $ unlock_gallery_slot("scene", "d15s01ntr")
 
     scene d15s01-99-11 cage-arj-puts-cage-on-2_c1
@@ -1397,7 +1397,7 @@ label d15s01_end:
     play voice3 amrose_thinking_oh2 noloop
     if is_antagonist_mode is False:
         arj "If that means negotiating with the Fetish Master to do something, I will do it."
-    elif True:
+    else:
         arj "If that means negotiating with that Retention pervert to do something, I will do it."
     scene d15s01-99-32 shower-4-talk-5_c2 with dissolve
     play voice3 amrose_happy_laugh3 noloop
@@ -1414,7 +1414,7 @@ label d15s01_end:
     play voice2 mc_happy_a1 noloop
     if date_arj_romance is False:
         mc "I just want you to know that I appreciate everything you've done."
-    elif True:
+    else:
         mc "I just want you to know that I love you and appreciate everything you've done."
     play voice3 amrose_old_huh noloop
     scene d15s01-99-30 shower-4-talk-3_c2 with dissolve
@@ -1490,5 +1490,4 @@ label d15s01_end:
 
     stop music fadeout 3.5
     jump d15s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

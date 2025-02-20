@@ -165,7 +165,7 @@ label e12s01:
     play voice2 mc_thinking_oh1 noloop
     if persistent.is_special is True:
         mc "Wasn't your mom going to call me?"
-    elif True:
+    else:
         mc "You know, I don't think Vanessa has called me yet."
     mc "Mind giving her a call?"
     scene e12s01-25-aw-talk-mc with dissolve
@@ -204,7 +204,7 @@ label e12s01:
     play voice3 kanya_hey_attention noloop
     if persistent.is_special is True:
         aw "Hey, Mom."
-    elif True:
+    else:
         aw "Hey, Vanessa."
     $ renpy.music.set_volume(0.0, 1.0, "sound2")
     scene e12s01-35-vw-talk-aw-mc with dissolve
@@ -220,7 +220,7 @@ label e12s01:
     scene e12s01-37-aw-talk-vw with dissolve
     if persistent.is_special is True:
         aw "Mom!"
-    elif True:
+    else:
         aw "Vanessa!"
     $ renpy.music.set_volume(0.0, 1.0, "sound2")
     scene e12s01-38-vw-talk-aw-mc with dissolve
@@ -448,7 +448,7 @@ label e12s01_inside_room:
     play voice3 kanya_thinking_hmm2 noloop
     if persistent.is_special is True:
         aw "Thank you, Mom. I love you so much."
-    elif True:
+    else:
         aw "That means to much to me, Vanessa. I love you!"
     scene e12s01-114-vw-talk-mc with dissolve
     play voice3 kanya_hey_long noloop
@@ -499,7 +499,7 @@ label e12s01_sex:
     scene e12s01-119-aw-talk-vw with dissolve
     if persistent.is_special is True:
         aw "Mom... mmm. I love the smell of your body like this."
-    elif True:
+    else:
         aw "You smell so amazing, Vanessa"
     play voice4 chloe_old_softmoans noloop
     scene e12s01-120-vw-talk-aw with dissolve
@@ -520,7 +520,7 @@ label e12s01_sex:
     play voice3 kanya_surprised_wow noloop
     if persistent.is_special is True:
         aw "Your pussy is so wet, mom..."
-    elif True:
+    else:
         aw "Your pussy is so wet..."
     scene e12s01-124-vw-talk-aw-mc with dissolve
     play voice4 chloe_old_yes noloop
@@ -582,7 +582,7 @@ label e12s01_sex:
     play voice3 kanya_yes_active noloop
     if persistent.is_special is True:
         aw "Yes Mom."
-    elif True:
+    else:
         aw "Alright."
     scene e12s01-135-pose-change with fade
     $ Lovense.vibrate(5)
@@ -605,7 +605,7 @@ label e12s01_sex:
     scene e12s01-139-aw-talk-vw with dissolve
     if persistent.is_special is True:
         aw "Many times, mom... They're one of the best things I got from you."
-    elif True:
+    else:
         aw "Not enough, Vanessa..."
     scene e12s01-140-vw-talk-mc with dissolve
     play voice4 chloe_old_laugh noloop
@@ -637,7 +637,7 @@ label e12s01_sex:
     play voice4 chloe_old_cangry noloop
     if persistent.is_special is True:
         vw "This is fun. But I think my daughter wants you more involved."
-    elif True:
+    else:
         vw "this is fun, but I think Allison needs a bit more."
     scene e12s01-145-aw-talk-vw with dissolve
     aw "That's what I was going to say."
@@ -675,7 +675,7 @@ label e12s01_sex:
     play voice3 kanya_sex_openmoans2
     if persistent.is_special is True:
         aw "Take it, mom."
-    elif True:
+    else:
         aw "Take it. I know you like it like that, you horny bitch."
     scene e12s01-153-vw-talk-aw-mc with dissolve
     play voice2 mc_sex_sucking_slow1
@@ -715,7 +715,7 @@ label e12s01_sex:
     mc "I want to fuck you in all your holes. Your throat, your pussy, and your asshole."
     if persistent.is_special is True:
         mc "Your daughter is going to pin you down as you gag on my dick."
-    elif True:
+    else:
         mc "Allison is going to pin you down as you gag on my dick."
     scene e12s01-159-mc-talk-vw with dissolve
     play voice2 mc_angry_hm1 noloop
@@ -744,7 +744,7 @@ label e12s01_sex:
     scene e12s01-a162-3 with dissolve
     if persistent.is_special is True:
         mc "You crave being treated like this. You're my dirty bitch, getting off while I fuck you in front of your daughter!"
-    elif True:
+    else:
         mc "You two are made for each other. A dumb bimbo who craves getting fucked in front of a cumdump."
     vw "Mmpf!"
     pause
@@ -772,7 +772,7 @@ label e12s01_sex:
     aw "Keep going. Do it, [mcname]."
     if persistent.is_special is True:
         aw "Fill up my mom's throat!"
-    elif True:
+    else:
         aw "Fill up the old hag's throat with your cum!"
     mc "Here it comes!"
     $ Lovense.stop()
@@ -815,7 +815,7 @@ label e12s01_sex:
     play voice3 kanya_no_angry noloop
     if persistent.is_special is True:
         aw "No, mom. I can't. Not now."
-    elif True:
+    else:
         aw "No, Vanessa. I can't. Not now."
     play voice2 mc_no_nah2 noloop
     scene e12s01-176-vw-talk-mc with dissolve
@@ -860,5 +860,4 @@ label e12s01_sex:
 
     $ renpy.end_replay()
     jump e12s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish e08s01_40e3b63d:
 
 
@@ -1276,7 +1274,7 @@ translate turkish strings:
 
 
     old "Ending #8\nMy Happy Ginger Family"
-    new "8. Bitiş\\NMutlu Zencefil Ailem"
+    new "8. Bitiş\nMutlu Zencefil Ailem"
 
 
     old "One year later"
@@ -1285,5 +1283,4 @@ translate turkish strings:
 
     old "After watching tv for some time"
     new "Bir süre televizyon izledikten sonra"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

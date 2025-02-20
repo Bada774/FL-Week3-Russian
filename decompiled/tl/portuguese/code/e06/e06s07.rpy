@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s07_177d3eb2:
 
 
@@ -684,12 +682,9 @@ translate portuguese e06s07_55c2b00c:
 
     mh "Pode beijar a noiva!"
 
-
-
 translate portuguese strings:
 
 
     old "Two Weeks Later"
     new "Duas Semanas Depois"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

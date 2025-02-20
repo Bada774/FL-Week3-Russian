@@ -1,6 +1,4 @@
 
-
-
 translate chinese e06s02_87f8ba93:
 
 
@@ -1596,8 +1594,6 @@ translate chinese strings:
     old "Inside Min's house"
     new "在明房子里"
 
-
-
 translate chinese strings:
 
 
@@ -1605,11 +1601,8 @@ translate chinese strings:
     new "第二天"
 
 
-
-
 translate chinese e06s02_40511e6c:
 
 
     "*咚咚咚*"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

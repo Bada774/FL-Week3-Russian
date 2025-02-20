@@ -1,6 +1,4 @@
 
-
-
 translate italian d15s04_a13bdd91:
 
 
@@ -265,5 +263,4 @@ translate italian strings:
 
     old "Spend time with Daisy"
     new "Stai con Daisy"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

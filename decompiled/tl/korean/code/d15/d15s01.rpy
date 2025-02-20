@@ -1,6 +1,4 @@
 
-
-
 translate korean d15s01_6dca3502:
 
 
@@ -2225,5 +2223,4 @@ translate korean strings:
 
     old "Decide Which Cage to Wear"
     new "착용할 틀을 결정한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

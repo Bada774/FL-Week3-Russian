@@ -1,6 +1,4 @@
 
-
-
 translate spanish e07s07_ddc7908e:
 
 
@@ -1951,5 +1949,4 @@ translate spanish strings:
 
     old "You have failed Ending #07!"
     new "¡Has fallado el final #07!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese e06s07_177d3eb2:
 
 
@@ -684,12 +682,9 @@ translate chinese e06s07_55c2b00c:
 
     mh "你可以亲吻新娘了！"
 
-
-
 translate chinese strings:
 
 
     old "Two Weeks Later"
     new "两周后"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

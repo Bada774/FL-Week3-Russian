@@ -83,7 +83,7 @@ label e13s02:
     nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
     scene e13s02-09-jim-talk-nk with dissolve
     play voice4 terrell_aah noloop
-    "Customer" "Aww, but…"
+    "Customer" "Aww, but..."
     scene e13s02-10-nk-talk-jim with dissolve
     play voice3 aaleyah_no_no1 noloop
     nk "No buts. C'mon, scoot. I'll give you a free drink tonight if you're a good boy."
@@ -197,7 +197,7 @@ label replay_e13s02:
     mc "Hey, it's alright. You don't have to push yourself."
     scene e13s02-40-nk-talk-mc with dissolve
     play voice3 aaleyah_disappointed_mff noloop
-    nk "Actually… You know what? Sit down."
+    nk "Actually... You know what? Sit down."
     play sound sfx_bed_slide3 volume 0.3
     scene e13s02-41-mc-sits with dissolve
     pause
@@ -265,7 +265,7 @@ label e13s02_chioice:
             if e13s02_anal is True:
                 $ e13s02_vag_aft_anal = True
                 jump e13s02_vag_after_anal
-            elif True:
+            else:
                 mct "I'm sure it's perfectly safe."
                 jump e13s02_vag
 
@@ -500,5 +500,4 @@ label e13s02_wrap:
     $ renpy.end_replay()
 
     jump e13s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -144,7 +144,7 @@ label e08s06:
         scene e08s06-21-c1-ac-talk-arj with dissolve
         play voice4 claudie_happy_laugh3 noloop
         ac "Haha. You're so bad, AmRose."
-    elif True:
+    else:
         scene e08s06-22-c2-arj-talk-ac with dissolve
         play voice3 amrose_no_long noloop
         arj "Of course not."
@@ -610,5 +610,4 @@ label e08s06_montage:
     stop music fadeout 3.5
 
     jump e08s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

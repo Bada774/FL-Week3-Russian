@@ -24,6 +24,12 @@ define image_dissolve_d21s25_07_3 = ImageDissolve("images/Day-21/s25/transitions
 define image_dissolve_d21s25_07_4 = ImageDissolve("images/Day-21/s25/transitions/d21s25-124 sy-dd-zp-1sm-jh-lw-talking_v4.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
 define image_dissolve_d21s25_07_5 = ImageDissolve("images/Day-21/s25/transitions/d21s25-124 sy-dd-zp-1sm-jh-lw-talking_v5.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
 
+define image_dissolve_e09s99_01_1 = ImageDissolve("images/E-09/s99/e09s99-20-zp-talk-sy_1.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
+define image_dissolve_e09s99_01_2 = ImageDissolve("images/E-09/s99/e09s99-20-zp-talk-sy_2.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
+define image_dissolve_e09s99_01_3 = ImageDissolve("images/E-09/s99/e09s99-20-zp-talk-sy_3.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
+define image_dissolve_e09s99_02_1 = ImageDissolve("images/E-09/s99/e09s99-31-im-talk_1.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
+define image_dissolve_e09s99_02_2 = ImageDissolve("images/E-09/s99/e09s99-31-im-talk_2.webp", 2.0, ramplen=8, reverse=False, alpha=True, time_warp=None)
+
 default persistent.mcname = "Mike"
 default persistent.mclogin = "Not_Mike"
 
@@ -103,4 +109,6 @@ transform fl_goldstar_anim:
 transform image_opacity(opc):
     alpha opc
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+transform image_zoom(zm):
+    zoom zm
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -150,7 +150,7 @@ label d20s01:
     play voice3 stacy_oh2 noloop
     if d17s05_mh_sy is True:
         sy "Lyssa pulled some strings and got me an interview with CPD again."
-    elif True:
+    else:
         sy "I got a call back from CPD."
     scene d20s1-16 mc-sy-arj-bathroom-shower2_c3_i with dissolve
     play voice2 mc_thinking_emm1 noloop
@@ -264,7 +264,7 @@ label d20s01_judges:
         play voice2 d4s4_mclaugh noloop
         mc "My insane charm and a promise of teaching her how to better discipline her daughter."
         mc "Somehow, she took the bait. Now I just gotta reel her in."
-    elif True:
+    else:
         scene d20s1-18 mc-sy-arj-shower4_c3_i with dissolve
         play voice2 mc_disappointed_ehh3 noloop
         mc "I couldn't do anything about Lewald."
@@ -282,7 +282,7 @@ label d20s01_judges:
         play voice2 mc_thinking_mmm4 noloop
         if d20s01_judges_pursued  > 0:
             mc "And with Zara, the best I could come up with was to talk with her."
-        elif True:
+        else:
             mc "I couldn't come up with anything to get Zara. The only thing I can really do is talk with her."
         scene d20s1-21 mc-sy-arj-shower7_c1_i with dissolve
         play voice2 d3s11b_mcheh noloop
@@ -291,7 +291,7 @@ label d20s01_judges:
         scene d20s1-21 mc-sy-arj-shower7_c3_i with dissolve
         play voice3 polly_impressed noloop
         sy "Zarah won't stand a chance with Lyssa there."
-    elif True:
+    else:
         scene d20s1-19 mc-sy-arj-shower5_c3_i with dissolve
         play voice2 mc_arrogant_nah1 noloop
         mc "I tried to see if there's anything I could do about Zara, but nope."
@@ -303,7 +303,7 @@ label d20s01_judges:
         play voice2 mc_scared_oh3 noloop
         if d20s01_judges_pursued  > 0:
             mc "And I managed to convince Maria to fuck Nordin."
-        elif True:
+        else:
             mc "I managed to convince Maria to fuck Nordin."
         scene d20s1-20 mc-sy-arj-shower6_c3_i with dissolve
         play voice4 amrose_surprised_what noloop
@@ -316,7 +316,7 @@ label d20s01_judges:
         scene d20s1-20 mc-sy-arj-shower6_c1_i with dissolve
         play voice4 amrose_arrogant_hmm2 noloop
         arj "Some lesbian. Though that's becoming more and more of a lie everyday it seems."
-    elif True:
+    else:
         scene d20s1-18 mc-sy-arj-shower4_c4_i with dissolve
         play voice2 mc_disappointed_ehh2 noloop
         mc "There wasn't much I could do for Nordin."
@@ -376,5 +376,4 @@ label d20s01_judges:
     $ Lovense.stop()
 
     jump d20s02tl
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e02s10_1cc9503b:
 
 
@@ -854,11 +852,9 @@ translate portuguese strings:
     old "A few months later"
     new "Alguns messe depois"
 
-
 translate portuguese strings:
 
 
     old "You have finished playing Ending #02!"
     new "Você concluiu o Final #02!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

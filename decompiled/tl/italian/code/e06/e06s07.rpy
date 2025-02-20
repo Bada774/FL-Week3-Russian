@@ -1,6 +1,4 @@
 
-
-
 translate italian e06s07_177d3eb2:
 
 
@@ -689,5 +687,4 @@ translate italian strings:
 
     old "Two Weeks Later"
     new "Due settimane dopo"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

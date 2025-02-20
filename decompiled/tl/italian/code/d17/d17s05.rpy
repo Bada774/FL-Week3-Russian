@@ -1,6 +1,4 @@
 
-
-
 translate italian d17s05_de5c1d3a:
 
 
@@ -355,5 +353,4 @@ translate italian strings:
 
     old "Bring no one"
     new "Non portare nessuno"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

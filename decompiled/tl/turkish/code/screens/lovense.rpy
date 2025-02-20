@@ -1,6 +1,4 @@
 
-
-
 translate turkish lovense_test_9e0ee773:
 
 
@@ -130,8 +128,6 @@ translate turkish strings:
     old "Save"
     new "Kaydet"
 
-
-
 translate turkish strings:
 
 
@@ -142,4 +138,17 @@ translate turkish strings:
     old "Get a toy now"
     new "Hemen bir oyuncak al"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate turkish strings:
+
+
+    old "1. Click on the \"Discover\" tab"
+    new "1. \\“Keşfet\\” sekmesine tıklayın"
+
+
+    old "2. Then click on \"Game Mode\" option"
+    new "2. Ardından \\“Oyun Modu\\” seçeneğine tıklayın"
+
+
+    old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Uygulamada gösterilen \\“Yerel IP\\” ve \\“Bağlantı Noktası\\” bilgilerini girin\nArdından Bağlan'a tıklayın."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

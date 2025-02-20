@@ -133,7 +133,7 @@ label d20s09:
         scene d20s09-21 mc-hr-room-talk2_c2 with dissolve
         play voice3 hana_yeah2 noloop
         hr "Bullshit. You've known her for what, a couple of weeks? You really think that's \"love\"?"
-    elif True:
+    else:
         mc "I cared about her..."
         scene d20s09-21 mc-hr-room-talk2_c2 with dissolve
         play voice3 hana_yeah2 noloop
@@ -146,7 +146,7 @@ label d20s09:
     hr "I— *Sigh* Look, man. I'm sorry she turned out to be a bitch."
     if fl_w2_sex_count > 5:
         hr "But you've fucked half the damn campus at this point. Not to mention that you have some great ladies supporting you."
-    elif True:
+    else:
         hr "But you have some great ladies supporting you."
     scene d20s09-21 mc-hr-room-talk2_c1 with dissolve
     play voice2 mc_thinking_oh1 noloop
@@ -255,5 +255,4 @@ label d20s09:
 
     stop music fadeout 3.0
     jump d21s01
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate spanish after_credits_583c0fde:
 
 
@@ -619,8 +617,6 @@ translate spanish strings:
     new "El legendario Localizador de Fetiches regresará."
 
 
-
-
 translate spanish after_credits_b06da193:
 
 
@@ -691,5 +687,4 @@ translate spanish after_credits_f4cf666b:
 
 
     sy "Estoy deseando disfrutarlo contigo."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -253,7 +253,7 @@ label e01s02:
         scene e01s02-41 mc-sy-talking with dissolve
         play voice3 min_happy_relief noloop
         sy "Yeah. It's a shame that name was already taken."
-    elif True:
+    else:
         scene e01s02-43 mc-sy-talking with dissolve
         play voice3 polly_wooh noloop
         sy "This is why I wish you had let me copy the Fetish Locator database."
@@ -405,5 +405,4 @@ label e01s02_end:
 
     stop music fadeout 3.0
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate malay d21s03_28c93870:
 
 
@@ -684,5 +682,4 @@ translate malay strings:
 
     old "Don't mention it"
     new "Jangan sebut"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

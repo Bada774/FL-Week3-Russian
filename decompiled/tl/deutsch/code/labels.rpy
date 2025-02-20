@@ -1,6 +1,4 @@
 
-
-
 translate deutsch after_credits_583c0fde:
 
 
@@ -689,5 +687,4 @@ translate deutsch strings:
 
     old "The legendary Fetish Locator will return"
     new "Der legendäre Fetish Locator wird zurückkehren"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

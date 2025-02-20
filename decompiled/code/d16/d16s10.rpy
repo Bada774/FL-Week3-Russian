@@ -35,7 +35,7 @@ label d16s10:
         pause
         play voice2 mc_thinking_hmm4 noloop
         mc "I should probably call Lydia in a little while."
-    elif True:
+    else:
         $ renpy.music.set_volume(0.5, 3.0, "music")
         play music lofi_evening fadein 1.8
     scene d16s10-01 mc-arj-room-talk1_c1 with dissolve
@@ -178,7 +178,7 @@ label d16s10:
         scene d16s10-17-7 mc-arj-room-talk27_c2 with dissolve
         play voice3 amrose_arrogant_huh1 noloop
         arj "Fair enough. {w}I doubt anyone else has tried anything like this."
-    elif True:
+    else:
         mc "On the other hand, the app did say, \"Surprise me.\""
         scene d16s10-17-2 mc-arj-room-talk22_c2 with dissolve
         play voice3 amrose_arrogant_huh1 noloop
@@ -240,7 +240,7 @@ label d16s10:
                 scene d16s10-18-3 mc-arj-room-move3_c3 with dissolve
                 mc "Then I start stripping you of your clothes."
                 mc "Exposing your bare skin to the freezing cold..."
-            elif True:
+            else:
                 play voice2 mc_thinking_mmm4 noloop
                 mc "Suddenly you start complaining that it is too hot in our tent."
                 mc "You pull off your sweater and reveal that you aren't wearing anything underneath."
@@ -347,7 +347,7 @@ label d16s10:
     scene d16s10_mc_spin_arj_2 with dissolve
     if cage_ntr is True:
         arj "Spin! Spin! {w}Spin the black circle!!"
-    elif True:
+    else:
         arj "You spin me right-round baby right-round! {w}Like a record!!!"
     mct "Clearly she's enjoying this..."
     play voice3 amrose_happy_yay2 noloop
@@ -395,7 +395,7 @@ label d16s10:
         mc "That's a fucking fountain alright!"
         stop sound4 fadeout 1.0
         stop sound6 fadeout 1.0
-    elif True:
+    else:
         play voice2 mc_happy_yay1 noloop
         mc "That's what I'm talking about!"
     stop sound fadeout 1.0
@@ -507,7 +507,7 @@ label d16s10:
         if fl_goldstars >= 3:
             $ fl_achievement_unlock("d16s04n01")
             $ unlock_gallery_slot("extra", "d16s04n01")
-    elif True:
+    else:
         mc "I suppose I'll join you in getting buck naked."
         scene d16s10-25 mc-arj-room-talk1_c2 with dissolve
         play voice3 amrose_thinking_hmm4 noloop
@@ -553,7 +553,7 @@ label d16s10:
         scene d16s03-00_mc-lc-amr-cuddle-post-climax
         show memory-cloud
         with dissolve
-    elif True:
+    else:
         scene d16s02-23 mc-arj-entrance-lick3_c2
         show memory-cloud
         with dissolve
@@ -685,7 +685,7 @@ label d16s10:
     arj "Exactly. It knows a lot about everyone with the app installed, but it..."
     if is_antagonist_mode is False:
         arj "It seems to know more about those of us in the VIP-"
-    elif True:
+    else:
         arj "It seems to know more about those of us in the reten-"
     play voice3 amrose_surprised_uh2 noloop
     arj "Fuck. We're not supposed to talk about that."
@@ -693,7 +693,7 @@ label d16s10:
     play voice2 mc_arrogant_hm1 noloop
     if is_antagonist_mode is False:
         mc "The VIP Program?"
-    elif True:
+    else:
         mc "Retention?"
     play voice3 amrose_yes_confident1 noloop
     arj "Yes, that. {w}It seems to know more about us than anyone should."
@@ -713,7 +713,7 @@ label d16s10:
     play voice2 mc_thinking_mmm4 noloop
     if is_antagonist_mode is False:
         mc "What did you do to get in the VIP Program? Did you send them pics or what?"
-    elif True:
+    else:
         mc "What does retention have on you? What pics did you send them?"
     scene d16s10-39 mc-arj-room-talk2_c3 with dissolve
     play voice3 amrose_disappointed_oh3 noloop
@@ -780,5 +780,4 @@ label d16s10:
     stop music fadeout 3.0
 
     jump d17s01
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

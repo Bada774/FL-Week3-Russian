@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d19s06_417adba7:
 
 
@@ -1035,5 +1033,4 @@ translate portuguese strings:
 
     old "Both Cynthia and Her Mother"
     new "Ambas Cynthia e Sua Mãe"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

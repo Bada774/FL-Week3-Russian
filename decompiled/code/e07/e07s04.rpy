@@ -72,7 +72,7 @@ label replay_e07s04 hide:
     play voice4 girl24_yes_ugu noloop
     if e07s03_give_all is True:
         gb "Ano. I hope today that I will receive the same treatment that I did in Praha."
-    elif True:
+    else:
         scene e07s04-08-gb-if-challenge-lose with dissolve
         gb "Ano. This time, I hope your little slave performs better for me."
     stop sound fadeout 1.0
@@ -249,7 +249,7 @@ label replay_e07s04 hide:
     pause
     if e07s03_give_all is True:
         gb "This time, I shall come out on top!"
-    elif True:
+    else:
         gb "This shall be easy, like when you were in my dungeon."
     gb "It is okay, you may cum now."
     scene e07s04-a45-3-f with dissolve
@@ -388,7 +388,7 @@ label replay_e07s04 hide:
 
     if e07s04_challenge_win is True:
         jump e07s04_challenge_win
-    elif True:
+    else:
         jump e07s04_challenge_lose
 
 label e07s04_challenge_win:
@@ -658,5 +658,4 @@ label e07s04_ending:
 
     stop music fadeout 3.0
     jump e07s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

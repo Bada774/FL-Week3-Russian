@@ -1183,5 +1183,4 @@ label e06s02_sex:
 
     stop music fadeout 3.5
     jump e06s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

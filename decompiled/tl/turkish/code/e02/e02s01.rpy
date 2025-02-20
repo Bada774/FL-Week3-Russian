@@ -1,6 +1,4 @@
 
-
-
 translate turkish e02s01_e6009a2c:
 
 
@@ -715,12 +713,6 @@ translate turkish e02s01_hot_bath_75a144f0:
     mh "Hmm, sanırım haklısın, biraz burjuva oluyorum."
 
 
-translate turkish e02s01_hot_bath_1ec01878:
-
-
-    mc "İnsanlar hakkında en çok düşman aracılığıyla öğrendiğiniz doğrudur."
-
-
 translate turkish e02s01_hot_bath_47631e6c:
 
 
@@ -731,12 +723,6 @@ translate turkish e02s01_hot_bath_454ecb0d:
 
 
     mc "Neyin çoğu?"
-
-
-translate turkish e02s01_hot_bath_79bd615b:
-
-
-    mh "Düşman."
 
 
 translate turkish e02s01_hot_bath_d1f576cc:
@@ -1276,4 +1262,15 @@ translate turkish strings:
     old "Why Not Both?"
     new "Neden ikisi de olmasın?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate turkish e02s01_hot_bath_d6431c08:
+
+
+    mc "İnsanlar hakkında en çok zorluklar aracılığıyla bilgi edindiğiniz doğrudur."
+
+
+translate turkish e02s01_hot_bath_c527c472:
+
+
+    mh "Zorluklar."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

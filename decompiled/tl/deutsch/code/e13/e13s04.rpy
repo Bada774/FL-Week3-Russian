@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e13s04_b0f568c1:
 
 
@@ -157,12 +155,6 @@ translate deutsch replay_e13s04_37969b53:
     nk "Ja ja! Ich bin nah dran! [mcname], ich werde–!"
 
 
-translate deutsch replay_e13s04_b7e53779:
-
-
-    nk "Gott... Das war unglaublich..."
-
-
 translate deutsch replay_e13s04_d2c80bad:
 
 
@@ -179,12 +171,6 @@ translate deutsch replay_e13s04_7b4716ff:
 
 
     nk "Fick mich. Fick mich so hart du kannst. Es ist mir egal, ob es jemand sieht oder hört."
-
-
-translate deutsch replay_e13s04_a4e4f076:
-
-
-    nk "*Lautes Stöhnen* Ja, verdammt... Ja! Ich liebe dich, [mcname]."
 
 
 translate deutsch replay_e13s04_dd27a96a:
@@ -228,4 +214,15 @@ translate deutsch strings:
     old "You have finished playing ending number 13!"
     new "Du hast Ende #13 gespielt!"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate deutsch replay_e13s04_4ae8355d:
+
+
+    nk "God... That was amazing..."
+
+
+translate deutsch replay_e13s04_c133408e:
+
+
+    nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

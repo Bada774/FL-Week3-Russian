@@ -1,6 +1,4 @@
 
-
-
 translate malay d19s05_57a1032f:
 
 
@@ -117,5 +115,4 @@ translate malay strings:
 
     old "Your total score is {}"
     new "Jumlah markah anda ialah {}"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

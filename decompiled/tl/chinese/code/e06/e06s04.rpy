@@ -1,6 +1,4 @@
 
-
-
 translate chinese e06s04_882706cd:
 
 
@@ -725,5 +723,4 @@ translate chinese e06s04_later_35abc2db:
 
 
     sy "谢谢你，爱洛丝。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

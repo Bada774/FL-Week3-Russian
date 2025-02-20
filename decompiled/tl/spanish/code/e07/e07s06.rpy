@@ -1,6 +1,4 @@
 
-
-
 translate spanish e07s06_7cbb521d:
 
 
@@ -628,7 +626,7 @@ translate spanish e07s06_a1b78986:
 translate spanish e07s06_260cb582:
 
 
-    lc "All Right. ¡Pollas arriba!"
+    lc "Está bien. ¡Pollas arriba!"
 
 
 translate spanish e07s06_2b35b6fe:
@@ -1545,5 +1543,4 @@ translate spanish strings:
 
     old "Don't suck the dick"
     new "No chupes la polla"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

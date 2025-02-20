@@ -1,6 +1,4 @@
 
-
-
 translate italian e11s01_66df9fc1:
 
 
@@ -65,12 +63,6 @@ translate italian e11s01_608e8e51:
 
 
     mc "Speaking of studying! How is University?"
-
-
-translate italian e11s01_aad99233:
-
-
-    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
 
 
 translate italian e11s01_ffc39c14:
@@ -534,4 +526,9 @@ translate italian strings:
     old "Twenty years later"
     new "Twenty years later"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate italian e11s01_76c691b8:
+
+
+    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

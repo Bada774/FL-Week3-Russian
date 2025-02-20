@@ -1,6 +1,4 @@
 
-
-
 translate malay d17s06dd_10938193:
 
 
@@ -1241,5 +1239,4 @@ translate malay strings:
 
     old "Don't Care"
     new "Tak Kesah"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s11_78df431c:
 
 
@@ -396,12 +394,9 @@ translate korean strings:
     old "Get Drunk in the Bar"
     new "술집에서 취할 때까지 마신다"
 
-
-
 translate korean strings:
 
 
     old "Runaway with Dahlia, Samiya, and Pete"
     new "Runaway with Dahlia, Samiya, and Pete"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese d16s02_0eb8c9ee:
 
 
@@ -265,5 +263,4 @@ translate chinese strings:
 
     old "Not right now"
     new "现在不行"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

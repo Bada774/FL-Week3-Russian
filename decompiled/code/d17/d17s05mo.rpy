@@ -611,5 +611,4 @@ label d17s05mo:
 
     stop music fadeout 4.0
     jump d17s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

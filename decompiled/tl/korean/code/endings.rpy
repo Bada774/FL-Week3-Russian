@@ -1,6 +1,4 @@
 
-
-
 translate korean ending_not_available_f3f9fce0:
 
 
@@ -85,5 +83,4 @@ translate korean strings:
 
     old "Ending #18\nQuartet"
     new "결말 #18\n사중주"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

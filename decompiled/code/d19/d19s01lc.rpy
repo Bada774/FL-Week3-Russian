@@ -91,7 +91,7 @@ label d19s01lc:
     play voice2 mc_angry_errr4 noloop
     if is_antagonist_mode is False:
         mc "Fetish Locator?{w} The VIP Program!{w} You've been manipulating me since the beginning?!"
-    elif True:
+    else:
         mc "Fetish Locator?{w} The Retention Program!{w} Blackmailing people was fun for you?!"
     scene d19s01-09-6 mc-lc-talk5_c1 with dissolve
     play voice3 dahlia_no_high2 noloop
@@ -104,7 +104,7 @@ label d19s01lc:
     lc "Fetish Locator was my idea. It was my dream!"
     if is_antagonist_mode is False:
         lc "I didn't know it would start a VIP Program or promise one million dollars!!! I just thought it would be something fun and sexy!"
-    elif True:
+    else:
         lc "I didn't know it would blackmail people!!! I just thought it would be something fun and sexy!"
     scene d19s01-09-3 mc-lc-talk2_c2 with dissolve
     play voice2 mc_disappointed_off1 noloop
@@ -154,7 +154,7 @@ label d19s01lc:
     play voice2 mc_angry_hm1 noloop
     if is_antagonist_mode is False:
         mc "So, Jerome's behind all this?{w} I can break him."
-    elif True:
+    else:
         mc "So, Jerome's the one blackmailing people?{w} I can break him."
     scene d19s01-07 mc-lc-prison7_c1 with dissolve
     play voice3 dahlia_no_high3 noloop
@@ -220,7 +220,7 @@ label d19s01lc:
     mc "Fine. So, you had this dream."
     if is_antagonist_mode is False:
         mc "Jerome built a BISHOP and it got out of control..."
-    elif True:
+    else:
         mc "Jerome built a BISHOP and it started blackmailing people..."
     scene d19s01-04 mc-lc-prison4_c3 with dissolve
     play voice3 dahlia_thinking_hmm3 noloop
@@ -229,7 +229,7 @@ label d19s01lc:
     play voice2 mc_angry_errr3 noloop
     if is_antagonist_mode is False:
         mc "Jerome is and was an asshole.{w} I assume he created the VIP Program to hurt you for rejecting his advances."
-    elif True:
+    else:
         mc "Jerome is and was an asshole.{w} I assume blackmailing people was always part of his plan."
     scene d19s01-08 mc-lc-prison8_c1 with dissolve
     play voice3 dahlia_thinking_mmm1 noloop
@@ -270,7 +270,7 @@ label d19s01lc:
     play voice3 dahlia_thinking_hmm3 noloop
     if is_antagonist_mode is False:
         lc "People are being lied to, and ultimately I am responsible."
-    elif True:
+    else:
         lc "People got hurt. People are being blackmailed. I'm responsible."
     play voice2 mc_yes_sure1 noloop
     mc "Ethically, sure. But legally, Jerome did all that."
@@ -326,7 +326,7 @@ label d19s01lc:
             play voice2 d1s5b_ehhh noloop volume 1.7
             if is_antagonist_mode is False:
                 mc "I didn't like being lied to, but..."
-            elif True:
+            else:
                 mc "I didn't like the blackmail, but..."
             play voice3 lydia_thinking noloop
             lc "Yes?"
@@ -355,7 +355,7 @@ label d19s01lc:
             play voice2 mc_arrogant_hm3 noloop
             if is_antagonist_mode is False:
                 mc "Fetish Locator - it was fun, once.{w} Before... ya'know."
-            elif True:
+            else:
                 mc "Fetish Locator - it was fun, once.{w} Before the blackmail."
             scene d19s01-14 lc-talk4_c1 with dissolve
             play voice3 lydia_laugh noloop
@@ -374,5 +374,4 @@ label d19s01lc:
     stop music fadeout 3.5
     stop sound2 fadeout 2.5
     jump d19s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

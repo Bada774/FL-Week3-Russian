@@ -1,6 +1,4 @@
 
-
-
 translate korean d17s06dd_10938193:
 
 
@@ -1241,5 +1239,4 @@ translate korean strings:
 
     old "Don't Care"
     new "신경 쓰지 않는다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

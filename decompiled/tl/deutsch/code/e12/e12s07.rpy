@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e12s07_7d11eb9b:
 
 
@@ -1249,5 +1247,4 @@ translate deutsch strings:
 
     old "You have finished playing Ending #12!"
     new "Du hast Ende #12 gespielt!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

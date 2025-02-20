@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e14s03_60cf1b26:
 
 
@@ -1301,5 +1299,4 @@ translate deutsch strings:
 
     old "Take over for a bit"
     new "Übernimm für eine Weile die Kontrolle"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e02s10_1cc9503b:
 
 
@@ -857,5 +855,4 @@ translate deutsch strings:
 
     old "You have finished playing Ending #02!"
     new "Du hast Ende #02 geschafft!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -190,9 +190,8 @@ screen main_menu_extended():
     vbox:
         xalign 0.995
         yalign 0.999
-        yanchor 1.0
         spacing -10
-        if not is_steam_edition:
+        if is_steam_edition is False and is_gog_edition is False:
             imagebutton auto "images/extended/ui/buttons/mm_patreon_%s.webp" focus_mask "images/extended/ui/buttons/mm_patreon_mask.webp" action OpenURL("https://www.patreon.com/fetishlocator") hovered Function(show_hover_notify, (_("Support us on Patreon"))) unhovered Function(hide_hover_notify) style "ext_mm_side"
         imagebutton auto "images/extended/ui/buttons/mm_discord_%s.webp" focus_mask "images/extended/ui/buttons/mm_quit_mask.webp" action OpenURL("https://discord.gg/efmQRNtFks") hovered Function(show_hover_notify, (_("Join us on Discord"))) unhovered Function(hide_hover_notify) style "ext_mm_side"
         imagebutton auto "images/extended/ui/buttons/mm_quit_%s.webp" focus_mask "images/extended/ui/buttons/mm_quit_mask.webp" action Quit() hovered Function(show_hover_notify, (_("Quit Game"))) unhovered Function(hide_hover_notify) style "ext_mm_side"
@@ -201,7 +200,7 @@ screen main_menu_extended():
         xalign 0.015
         yalign 0.985
         style_prefix "ext_mm_version"
-        text "v. {var}{walkthrough}{dlc_1}".format(var=config.version, walkthrough=" + Walkthrough DLC" if persistent.menu_hints else "", dlc_1=" + DLC-1" if get_has_ending("04") else "") at image_opacity(0.7)
+        text "v. {var}{walkthrough}{dlc_1}{dlc_2}".format(var=config.version, walkthrough=" + Walkthrough DLC" if persistent.menu_hints else "", dlc_1=" + DLC-1" if get_has_ending("04") else "", dlc_2=" + DLC-2" if get_has_ending("03") else "") at image_opacity(0.7)
 
     imagebutton:
         idle "images/extended/ui/lovense/lovense_max2_button_idle.webp"
@@ -215,7 +214,7 @@ screen main_menu_extended():
         at shake_effect
 
     imagebutton:
-        if is_steam_edition is True:
+        if is_steam_edition is True or is_gog_edition is True:
             idle "vu_ad_anim"
         else:
             idle "vu_ad_patreon_anim"
@@ -224,19 +223,44 @@ screen main_menu_extended():
         ycenter 0.12
         if is_steam_edition is True:
             action OpenURL("steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/")
-            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Wishlist Taboo University on Steam")))
+            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Buy Taboo University on Steam")))
+        elif is_gog_edition is True:
+            action OpenURL("https://www.gog.com/en/game/taboo_university_book_one")
+            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Buy Taboo University on GOG")))
         else:
             action OpenURL("https://www.patreon.com/VinovellaGames")
             hovered (ToggleVariable("vu_ad_hover"), Notify(_("Try our new game Taboo University")))
         unhovered (ToggleVariable("vu_ad_hover"), Function(hide_hover_notify))
 
-    if is_steam_edition is True and get_has_ending("04"):
+    if is_gog_edition is True:
+        imagebutton:
+            auto "images/extended/ui/buttons/sm_trailer_ad_%s.webp"
+            action ShowMenu("sm_trailer_ad")
+            focus_mask True
+            xcenter 0.065
+            ycenter 0.3
+            hovered Notify(_("Watch Fetish Locator: S&M Studio trailer"))
+            unhovered Function(hide_hover_notify)
+            at dlc_1_ad_anim
+
+    if (is_steam_edition is True or is_gog_edition is True) and get_has_ending("04"):
         frame:
+            if get_has_ending("03"):
+                xcenter 0.63
+            else:
+                xcenter 0.7
             style_prefix "dlc_stamp_mm"
             text "DLC-1"
             at rotate(-15)
 
-    if is_steam_edition is True and not get_has_ending("04"):
+    if (is_steam_edition is True or is_gog_edition is True) and get_has_ending("03"):
+        frame:
+            xcenter 0.7
+            style_prefix "dlc_stamp_mm"
+            text "DLC-2"
+            at rotate(-15)
+
+    if (is_steam_edition is True) and not get_has_ending("04"):
         imagebutton:
             auto "dlc_1_button_mm_%s"
             focus_mask "images/extended/ui/buttons/vu_ad_focus_mask.webp"
@@ -244,6 +268,17 @@ screen main_menu_extended():
             ycenter 0.34
             action OpenURL("steam://openurl/https://store.steampowered.com/app/2755430/Fetish_Locator_Week_Three__Bonus_Endings_DLC_One/")
             hovered Notify(_("Get free DLC containing 6 endings from Steam"))
+            unhovered Function(hide_hover_notify)
+            at dlc_1_ad_anim
+
+    if (is_steam_edition is True) and get_has_ending("04") and not get_has_ending("03"):
+        imagebutton:
+            auto "dlc_2_button_mm_%s"
+            focus_mask "images/extended/ui/buttons/vu_ad_focus_mask.webp"
+            xcenter 0.065
+            ycenter 0.34
+            action OpenURL("steam://openurl/https://store.steampowered.com/app/3051920/Fetish_Locator_Week_Three__Bonus_Endings_DLC_Two/")
+            hovered Notify(_("Get DLC-2 containing 6 additional endings from Steam"))
             unhovered Function(hide_hover_notify)
             at dlc_1_ad_anim
 
@@ -280,7 +315,6 @@ style dlc_stamp_mm_frame:
     xpadding 22
     top_padding 21
     bottom_padding 17
-    xcenter 0.7
     ycenter 0.197
 
 style dlc_stamp_mm_text:
@@ -390,17 +424,20 @@ screen sub_menu_info():
                     ypos 303
                     text _("HELP")
                 focus_mask "images/extended/ui/sm_play_two_mask.webp"
-                action (ShowMenu("help"), SetVariable("sm_play_bg", "idle"), Hide("sub_menu_info"))
+                if renpy.variant("steam_deck"):
+                    action (ShowMenu("steam_deck_layout", False), SetVariable("sm_play_bg", "idle"), Hide("sub_menu_info"))
+                else:
+                    action (ShowMenu("help"), SetVariable("sm_play_bg", "idle"), Hide("sub_menu_info"))
                 hovered SetVariable("sm_play_bg", "two")
                 unhovered SetVariable("sm_play_bg", "idle")
 
 transform from_bottom:
     subpixel True
-    yalign 1.0 yanchor 0.0
+    yanchor 0.0 ypos 1080
     pause 0.3
-    easein 0.3 yalign 0.5 yanchor 0.5
+    easein 0.3 yalign 0.5
     on hide:
-        easein 0.3 yalign 1.0 yanchor 0.0
+        easein 0.3 yanchor 0.0 ypos 1080
 
 style sub_menu_play_frame:
     background None
@@ -518,19 +555,19 @@ transform wait_effect:
 
 transform from_left:
     subpixel True
-    xalign 0.0 xanchor 1.0
+    xanchor 1.0 xpos 0
     pause 0.3
-    easein 0.3 xalign 0.5 xanchor 0.5
+    easein 0.3 xalign 0.5
     on hide:
-        easein 0.3 xalign 0.0 xanchor 1.0
+        easein 0.3 xanchor 1.0 xpos 0
 
 transform from_right:
     subpixel True
-    xalign 1.0 xanchor 0.0
+    xanchor 0.0 xpos 1920
     pause 0.3
-    easein 0.3 xalign 0.5 xanchor 0.5
+    easein 0.3 xalign 0.5
     on hide:
-        easein 0.3 xalign 1.0 xanchor 0.0
+        easein 0.3 xanchor 0.0 xpos 1920
 
 image fl_logo_eq_effect:
     "images/extended/ui/effect/fl_logo_eq_eff_1.webp"
@@ -600,5 +637,4 @@ image mm_info_crush_effect:
     "images/extended/ui/effect/mm_info_crush_1.webp"
     pause 0.1
     "images/extended/ui/effect/mm_info_crush_2.webp"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

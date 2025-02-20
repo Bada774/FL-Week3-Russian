@@ -1,6 +1,4 @@
 
-
-
 translate turkish e10s01_8b9374ed:
 
 
@@ -1162,10 +1160,9 @@ translate turkish strings:
 
 
     old "Ending #10\nRunaway"
-    new "Bitiş # 10\\NKaçmak"
+    new "Bitiş # 10\nKaçmak"
 
 
     old "Some time later\nIn Seoul with Min"
-    new "Bir süre sonra\\NMin ile Seul'de"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "Bir süre sonra\nMin ile Seul'de"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

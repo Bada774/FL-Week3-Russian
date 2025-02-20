@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s03_63dc63e8:
 
 
@@ -1884,12 +1882,9 @@ translate portuguese strings:
     old "A few minutes and strange instructions later."
     new "Alguns minutos e instruções estranhas depois"
 
-
-
 translate portuguese strings:
 
 
     old "A Few Days Later"
     new "Alguns Dias Depois"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

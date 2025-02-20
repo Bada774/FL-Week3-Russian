@@ -1,6 +1,4 @@
 
-
-
 translate turkish e11s03_9eb8e074:
 
 
@@ -1223,5 +1221,4 @@ translate turkish strings:
 
     old "Finish in her pussy"
     new "Amında bitir"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

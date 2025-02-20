@@ -133,7 +133,7 @@ label d21s06:
         arj "Fantastic. Movie nights are coming back then."
         scene d21s06-10 mc-arj-sy-inside1_c1 with dissolve
         pause
-    elif True:
+    else:
         scene d21s06-09 mc-arj-sy-entry4_c1 with dissolve
         play voice2 mc_yes_yeah4 noloop
         mc "I'll take care of it."
@@ -369,7 +369,7 @@ label d21s06:
         sy "Yeah, why not?"
         if d21s06_is_waterfall_available is False:
             mc "Because it's an idea in the ether. Nothing concrete, and certainly not anything we can hitch our wagon to."
-        elif True:
+        else:
             mc "Because we need Min for that conversation!"
         play sound sfx_throw_something1
         scene d21s06-30 mc-sy-arj-montage14_c1 with dissolve
@@ -383,7 +383,7 @@ label d21s06:
         mc "There's plenty of time to think of what we'll do. Let's just put it on the back burner for now. Alright?"
         if d21s06_is_waterfall_available is False:
             mc "Plus, I have a court date in a few weeks. It's not the ideal time for me to think about rebooting an app or landing a job at a wellness spa."
-        elif True:
+        else:
             mc "Plus, I had a different idea to talk about, but later."
         sy "You said you agreed with me when we discussed it!"
         mc "That was then, not now. Several interrogations later..."
@@ -408,7 +408,7 @@ label d21s06:
 
 
         jump d21s06_no_fl
-    elif True:
+    else:
 
         play voice4 min_arrogant_hm noloop
         sy "What are you, a silent partner? Tell me if you're interested or if I'm just wasting my time."
@@ -517,7 +517,7 @@ label d21s06:
             play voice3 amrose_no_angry2 noloop
             if is_antagonist_mode is True:
                 arj "No, because I chose to enter a relationship with you. With Fetish Locator, I didn't consent to its activities."
-            elif True:
+            else:
                 arj "I chose to enter a relationship with you and I'm quite happy I did. I regret my involvement with Fetish Locator."
             arj "I did that because I trust you. If I didn't love you, then I wouldn't have entered into it, and maybe you wouldn't have either."
             scene d21s06-40 mc-arj-sy-laptop6_c3 with dissolve
@@ -525,7 +525,7 @@ label d21s06:
             sy "If you guys need a minute, I can leave the room."
             play voice3 amrose_no_simple1 noloop
             arj "No, you can stay because I'm getting to my real point, Fetish Locator is not something I'm interested in working with."
-        elif True:
+        else:
             scene d21s06-38 mc-arj-sy-laptop4_c2 with dissolve
             play voice2 mc_no_uhuh1 noloop
             mc "I'm just letting you guys talk because I don't really have much to add here. You want to do something with the Fetish Locator."
@@ -577,34 +577,13 @@ label d21s06_reboot_fl:
     scene d21s06-51 mc-arj-sy-talk7_c3 with fade
     play voice3 min_disappointed_ehh1 noloop
     sy "So what do you think we should name it?"
-
-    $ fl_rebooted_name = renpy.input(_("Please enter a new name for Fetish Locator."))
-    $ fl_rebooted_name = fl_rebooted_name.strip()
-
-    if not fl_rebooted_name:
-        $ fl_rebooted_name = "FL Rebooted"
-
-    if fl_rebooted_name != "Locate Fetish" and fl_rebooted_name != "locate fetish":
-        scene d21s06-50 mc-arj-sy-talk6_c3 with dissolve
-        play voice4 stacy_impressed noloop
-        sy "[fl_rebooted_name]."
-        sy "That's a name."
-        scene d21s06-50 mc-arj-sy-talk6_c2 with dissolve
-        play voice3 amrose_arrogant_huh3 noloop
-        arj "Is it?"
-        scene d21s06-49 mc-arj-sy-talk5_c3 with dissolve
-        play voice4 min_arrogant_pff noloop
-        sy "At least he didn't name it Locate Fetish."
-    elif True:
-        scene d21s06-49 mc-arj-sy-talk5_c3 with dissolve
-        play voice4 stacy_impressed noloop
-        sy "Locate Fetish? Really???"
-
+    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    play voice4 stacy_yay noloop
+    sy "I love it."
+    scene d21s06-53 mc-arj-sy-talk9_c2 with dissolve
+    play voice3 amrose_yes_confident2 noloop
+    arj "It's perfect. On point and easy to understand."
     scene d21s06-51 mc-arj-sy-talk7_c1 with dissolve
-    play voice2 mc_hey_hey3 noloop
-    mc "Hey, if you don't like it, then you come up with an alternative. If not, then don't complain."
-    play voice4 stacy_no2 noloop
-    sy "I didn't say anything."
     mc "And who should we invite?"
     scene d21s06-50 mc-arj-sy-talk6_c3 with dissolve
     play voice4 stacy_mmm1 noloop
@@ -702,7 +681,7 @@ label d21s06_reboot_fl:
     sy "Do you want it to be in writing?"
     scene d21s06-53 mc-arj-sy-talk9_c2 with dissolve
     play voice3 amrose_yes_okay2 noloop
-    arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
     arj "However, there is one more thing, and this is serious."
     arj "If you were to be all in about this plan... you have to promise me, promise me nothing like what happened with Fetish Locator will happen again."
     scene d21s06-53 mc-arj-sy-talk9_c1 with dissolve
@@ -714,7 +693,7 @@ label d21s06_reboot_fl:
     sy "Can you be a little more specific? What don't you want to happen again?"
     scene d21s06-57 mc-arj-sy-talk13_c2 with dissolve
     play voice3 amrose_disappointed_ehh2 noloop
-    arj "All the cons I stated. No to lies, the deceit, the manipulation."
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
     scene d21s06-58 mc-arj-sy-talk14_c1 with dissolve
     play voice2 mc_yes_yes3 noloop
     mc "You have our word, AmRose. We would never do anything to break your strict confidence. I swear it."
@@ -749,7 +728,7 @@ label d21s06_reboot_fl:
     arj "Oh, now you're going to make me blush."
     scene d21s06-61 mc-arj-sy-hug2_c2 with dissolve
     play voice4 stacy_hey noloop
-    sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
     scene d21s06-61 mc-arj-sy-hug2_c3 with dissolve
     play voice3 amrose_yes_yeah1 noloop
     arj "Before we do that, I have to make a phone call. I'll be in the hallway for a few minutes."
@@ -758,43 +737,6 @@ label d21s06_reboot_fl:
     scene d21s06-65 mc-arj-sy-leave1_c1 with dissolve
     play voice2 d1s5_mchappy noloop volume 1.7
     mc "So where should we get started first?"
-    mc "Do you know anyone? Any investors?"
-    scene d21s06-65 mc-arj-sy-leave1_c2 with dissolve
-    play voice4 stacy_mmm1 noloop
-    sy "Investors?"
-    scene d21s06-66 mc-arj-sy-leave2_c1 with dissolve
-    play voice2 mc_yes_yeah7 noloop
-    mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    scene d21s06-66 mc-arj-sy-leave2_c2 with dissolve
-    play voice4 stacy_nono noloop
-    sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "Build a reputation, you know?"
-    scene d21s06-67 mc-arj-sy-leave3_c1 with dissolve
-    play voice2 mc_yes_aga1 noloop
-    mc "That's called marketing."
-    scene d21s06-67 mc-arj-sy-leave3_c2 with dissolve
-    play voice4 min_arrogant_hm noloop
-    sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    scene d21s06-68 mc-arj-sy-leave4_c1 with dissolve
-    play voice2 mc_thinking_hmm1 noloop
-    mc "In the legal sense."
-    scene d21s06-68 mc-arj-sy-leave4_c2 with dissolve
-    play voice4 min_yes_ugu noloop
-    sy "Yeah."
-    sy "Let's think of the name for the app."
-    scene d21s06-69 mc-arj-sy-leave5_c1 with dissolve
-    play voice2 mc_arrogant_hm1 noloop
-    mc "Any ideas?"
-    scene d21s06-70 mc-arj-sy-leave6_c2 with dissolve
-    play voice4 stacy_hmm noloop
-    sy "I'll make us some coffee, and we can have a back in forth."
-    scene d21s06-72 mc-arj-sy-leave8_c2 with dissolve
-    play voice4 stacy_laugh4 noloop
-    sy "What about Stacy's Bone Zone?"
-    sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    scene d21s06-73 mc-arj-sy-leave9_c1 with dissolve
-    play voice2 mc_arrogant_hm3 noloop
-    mc "Let's ask AmRose."
 
     jump ending_09
 
@@ -826,6 +768,10 @@ label d21s06_no_fl:
         play voice3 amrose_happy_laugh3 noloop
         arj "I know when you're baiting me."
     call buzz from _call_buzz_43
+label d21s06_e15_start hide:
+    if from_ending_menu is True:
+        $ renpy.music.set_volume(0.3, 3.0, "music" )
+        play music casual_guitar_1
     scene d21s06-65 mc-arj-sy-mobile-leave_c1 with dissolve
     play voice3 amrose_hey_whisper noloop
     arj "Hey guys. I have to go. Something came up."
@@ -838,15 +784,12 @@ label d21s06_no_fl:
     play voice4 polly_impressed noloop
     sy "Alright."
     scene d21s06-65 mc-arj-sy-mobile-leave_c3 with dissolve
-    play voice3 amrose_arrogant_huh2 noloop
-    arj "[mcname]. Do you want to come with me?"
     play voice2 mc_thinking_oh1 noloop
-    mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
     mc "Actually, AmRose, do you have a few minutes?"
 
     if d21s06_is_waterfall_available is True:
         jump d21s06_waterfall
-    elif True:
+    else:
 
         scene d21s06-74-1 mc-arj-sy-talk1_c3 with dissolve
         play voice3 amrose_yes_questioning noloop
@@ -933,24 +876,6 @@ label d21s06_waterfall:
     scene d21s06-74-1 mc-arj-sy-talk1_c3 with dissolve
     play voice3 amrose_yes_yeah2 noloop
     arj "Well, if it's really quick."
-    scene d21s06-74-1 mc-arj-sy-talk1_c2 with dissolve
-    play voice4 stacy_huh2 noloop
-    sy "So what did you want to talk about?"
-    scene d21s06-74-1 mc-arj-sy-talk1_c1 with dissolve
-    play voice2 mc_thinking_hmm3 noloop
-    mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    play sound sfx_phone_tapping1 loop volume 3.0
-    scene d21s06-74-2 mc-arj-sy-phone1_c3 with dissolve
-    play voice3 amrose_angry_ergh noloop
-    arj "I told you, I'm not interested in Fetish Locator!"
-    play voice2 mc_no_nono1 noloop
-    mc "It's not that, I swear."
-    scene d21s06-74-2 mc-arj-sy-phone1_c2 with dissolve
-    play voice4 stacy_hmm noloop
-    sy "And this business, what is it? Is it going to be here?"
-    scene d21s06-74-2 mc-arj-sy-phone1_c1 with dissolve
-    play voice2 mc_no_uhuh1 noloop
-    mc "Not exactly. It's going to be in a completely different direction. East instead of west."
     scene d21s06-74-4 mc-arj-sy-phone3_c2 with dissolve
     play sound sfx_phone_call1 volume 2.0
     play voice4 stacy_laugh4 noloop
@@ -996,9 +921,6 @@ label d21s06_waterfall:
     play voice3 min_yes_aga noloop
     mes "You might have noticed that [mcname] and I are into that type of stuff."
     $ renpy.music.set_volume(0.0, 1.0, "sound2" )
-    scene d21s06-74-12 mc-arj-sy-phone11_c3 with dissolve
-    play voice4 polly_laughter noloop
-    sy "Yeah, the main event on your party was a big hint."
     scene d21s06-74-13 mc-arj-sy-phone12_c1 with dissolve
     play voice2 d1s5_mchappy noloop volume 1.6
     mc "And I think there isn't enough places for people to practice watersports."
@@ -1007,29 +929,19 @@ label ending_15_return hide:
     scene d21s06-81 min-waterfall7_c1 with dissolve
     play voice3 min_arrogant_huh1 noloop
     mes "We were thinking about forming a wellness spa."
-    mes "You like squirting, right?"
-    play voice4 stacy_phonetalk_yes noloop
-    sy "Not as much as you, but yeah."
     play voice3 min_thinking_emm noloop
     mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
     call update_ending_variables from _call_update_ending_variables_12
     $ unlock_ending("15")
     menu:
         "Yes, this is what I want to do."(hint="d21s06m02c01"):
+
+            mc "Yes. I want to do this with you, Min."
             $ d21s06_chose_waterfall = True
 
-            $ renpy.music.set_volume(0.0, 1.0, "sound2" )
-            scene d21s06-74-12 mc-arj-sy-phone11_c3 with dissolve
-            play voice4 stacy_laugh4 noloop
-            sy "Is that what we're calling it?"
-            mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-            play voice2 mc_arrogant_huh1 noloop
-            mc "At a spa?"
-            mes "Yes."
-
             jump d21s06_wellness_spa
-        "No, I have to give it more thought."(hint="d21s06m02c02"):
 
+        "No, I have to give it more thought."(hint="d21s06m02c02") if from_ending_menu is False:
             $ d21s06_chose_waterfall = False
 
             scene d21s06-82 min-waterfall8_c1 with dissolve
@@ -1071,6 +983,7 @@ label ending_15_return hide:
             play sound sfx_keyboard_typing2 volume 2.0
             scene d21s06-73-2 mc-arj-sy-leave10_c2 with dissolve
             mc "So let's do this."
+            stop music fadeout 3.0
 
             jump d21s06_end
 
@@ -1079,44 +992,17 @@ label d21s06_wellness_spa:
     $ renpy.music.set_volume(1.0, 1.0, "sound2" )
     scene d21s06-82 min-waterfall8_c1 with dissolve
     play voice3 min_yes_happy noloop
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
     mes "It's a traditional spa."
     mes "But for those who know we will offer as much special service as they want."
     mes "Until they're satisfied."
-    $ renpy.music.set_volume(0.0, 1.0, "sound2" )
-    scene d21s06-74-11 mc-arj-sy-phone10_c3 with dissolve
-    play voice5 amrose_arrogant_huh2 noloop
-    arj "How much?"
-    play voice4 stacy_angryhuh noloop
-    sy "Until they're satisfied, Min just told you."
-    play voice5 amrose_yes_ugu noloop
-    arj "Right."
-    $ renpy.music.set_volume(1.0, 1.0, "sound2" )
     scene d21s06-77 min-waterfall6_c1 with dissolve
     play voice3 min_yes_simple noloop
     mes "It's one-of-a-kind. I figure it will draw in a lot of men and women."
     mes "To be both givers and recievers."
     mes "And the business will cater to the connoisseur of spas, watersports, relaxation and wellness centers."
     mes "And much more."
-    $ renpy.music.set_volume(0.0, 1.0, "sound2" )
-    scene d21s06-74-13 mc-arj-sy-phone12_c1 with dissolve
-    play voice4 stacy_oh2 noloop
-    sy "Come one, come all; that sort of thing?"
-    mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "They would have no idea what's going on next door."
-    $ renpy.music.set_volume(1.0, 1.0, "sound2" )
-    scene d21s06-78 min-waterfall4_c1 with dissolve
-    play voice3 min_thinking_hmm2 noloop
-    mes "You will only find out if you choose to fly with us."
-    mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    $ renpy.music.set_volume(0.0, 1.0, "sound2" )
     scene d21s06-74-11 mc-arj-sy-phone10_c1 with dissolve
-    play voice2 mc_arrogant_heh1 noloop
-    mc "It's a bit dry."
-    mes "That's the point, dry slogan, wet experience."
-    mc "It's a little too... abstruse for our purposes, maybe?"
-    scene d21s06-74-12 mc-arj-sy-phone11_c2 with dissolve
-    play voice5 amrose_thinking_oh2 noloop
-    arj "I like it?... contrasts with the non-traditional theme."
     play voice4 polly_aga noloop
     sy "It is a spa, just with a twist."
     play voice2 mc_thinking_mmm4 noloop
@@ -1139,100 +1025,41 @@ label d21s06_wellness_spa:
     scene d21s06-76 min-waterfall3_c1 with dissolve
     play voice3 min_disappointed_ehh1 noloop
     mes "It was either that or the Squirt Spa. That one might have been too obvious."
-    mes "If you have alternatives, you can think of some in the future."
-    mes "Right now is the pitching process."
     $ renpy.music.set_volume(0.0, 1.0, "sound2" )
     scene d21s06-74-12 mc-arj-sy-phone11_c3 with dissolve
     play voice4 polly_hey noloop
     sy "And how are we funding this?"
-    mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
-    play voice5 amrose_happy_mmm noloop
-    arj "How's your credit score?"
-    play voice2 mc_surprised_huh6 noloop
-    mc "Mine? I can't even find a place."
-    play voice5 amrose_no_nope noloop
-    arj "You did. But not you. I meant Min."
+
     $ renpy.music.set_volume(1.0, 1.0, "sound2" )
     scene d21s06-78 min-waterfall4_c1 with dissolve
-    play voice3 min_surprised_huh1 noloop
-    mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "Our main goal is the spa."
+    play voice3 min_arrogant_huh2 noloop
+    mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
     $ renpy.music.set_volume(0.0, 1.0, "sound2" )
     scene d21s06-74-11 mc-arj-sy-phone10_c3 with dissolve
     play voice4 stacy_upset1 noloop
     sy "Uh, sounds complicated."
     play voice5 amrose_yes_yeah3 noloop
-    arj "It is."
-    play voice2 mc_thinking_hmm5 noloop
-    mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "More of an excuse to form a imperial Chinese harem."
-    $ renpy.music.set_volume(1.0, 1.0, "sound2" )
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "I need to finish college."
     scene d21s06-79 min-waterfall5_c1 with dissolve
-    play voice3 min_angry_cough noloop
-    mes "I'm Korean."
-    mc "I know, it's just what that structure is called."
-    mes "I thought harem is an Arabic word."
-    $ renpy.music.set_volume(0.0, 1.0, "sound2" )
+    play voice3 min_yes_yeah2 noloop
+    mes "Understandable. But you're still in, right [mcname]?"
     scene d21s06-74-13 mc-arj-sy-phone12_c1 with dissolve
-    play voice2 mc_thinking_emm1 noloop
-    mc "It probably is but, uh..."
-    mc "Nevermind, what was I saying?"
-    mes "You were bringing sex into a professional setting."
-    mc "Isn't it about sex?"
-    mes "No. The spa is professionally run. It will just have some extras."
-    play voice2 mc_hey_hey3 noloop
-    mc "Hey, we have harems here too."
-    play voice4 stacy_huh noloop
-    sy "You want to move somewhere?"
-    play voice2 d1s5_mcthinks noloop volume 1.6
-    mc "I'm not sure. Min, do you want to setup this business in Asia?"
+    play voice2 d9s2_mcyes noloop volume 1.7
+    mc "Hell yeah."
     $ renpy.music.set_volume(1.0, 1.0, "sound2" )
-    scene d21s06-81 min-waterfall7_c1 with dissolve
-    play voice3 min_no_happy noloop
-    mes "No. They wouldn't allow spas of what we're proposing."
-    $ renpy.music.set_volume(0.0, 1.0, "sound2" )
-    scene d21s06-74-13 mc-arj-sy-phone12_c1 with dissolve
-    play voice2 mc_surprised_what1 noloop
-    mc "Really?"
-    play voice4 stacy_impressed noloop
-    play sound sfx_hands_clap3
-    scene d21s06-74-10 mc-arj-sy-phone9_c2 with hpunch
-    play voice2 mc_pain_ou1 noloop
-    mc "I didn't mean that."
-    mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    play voice4 stacy_mmm2 noloop
-    sy "Who are the investors? If you don't mind me asking."
-    $ renpy.music.set_volume(1.0, 1.0, "sound2" )
-    scene d21s06-82 min-waterfall8_c1 with dissolve
-    play voice3 min_old_hmm noloop
-    mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    $ renpy.music.set_volume(0.0, 1.0, "sound2" )
-    scene d21s06-74-10 mc-arj-sy-phone9_c1 with dissolve
-    play voice2 mc_happy_hah2 noloop
-    mc "Actually, we have a working list."
-    mc "We just have to get them on board."
-    $ renpy.music.set_volume(1.0, 1.0, "sound2" )
-    scene d21s06-82 min-waterfall8_c1 with dissolve
-    play voice3 min_arrogant_huh2 noloop
-    mes "I hope you have an idea. I'm going to drop out."
     scene d21s06-81 min-waterfall7_c1 with dissolve
     play voice3 min_arrogant_heh2 noloop
-    mes "Bye."
-    $ renpy.music.set_volume(0.0, 1.0, "sound2" )
+    mes "Excellent. Then I'm going to continue on the planning."
+    mes "You should come over and we can start working on the details."
+    mc "I'll be right there."
+    stop music fadeout 3.5
     stop sound2 fadeout 1.0
-    scene d21s06-74-2 mc-arj-sy-phone1_c2 with dissolve
-    play voice4 stacy_huh2 noloop
-    sy "So you're really doing this?"
-    sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    scene d21s06-74-2 mc-arj-sy-phone1_c1 with dissolve
-    play voice2 mc_yes_yeah1 noloop
-    mc "I'm willing to try!"
 
     jump ending_15
 
 label d21s06_end:
 
-    stop music fadeout 3.5
     jump d21s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish d18s01_f8914e3e:
 
 
@@ -1312,6 +1310,5 @@ translate turkish strings:
 
 
     old "Thursday\nDay-18"
-    new "Perşembe\\N18. Gün"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "Perşembe\n18. Gün"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

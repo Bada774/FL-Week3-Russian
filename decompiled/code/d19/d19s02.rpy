@@ -115,7 +115,7 @@ label d19s02:
             pause
             stop voice3 fadeout 1.5
             stop voice4 fadeout 1.5
-        elif True:
+        else:
             play voice4 pete_sex_openmoans1
             play voice3 dahlia_sex_openmoans2
             scene d18s10_a9
@@ -124,7 +124,7 @@ label d19s02:
             pause
             stop voice3 fadeout 1.5
             stop voice4 fadeout 1.5
-    elif True:
+    else:
 
         scene d18s10-15-4 mc-sees-lc-clearly_c1
         show memory-cloud
@@ -255,7 +255,7 @@ label d19s02:
             play sound maria_kiss1
             scene d19s02-15 mc-arj-sy-kiss_c3 with dissolve
             pause
-        elif True:
+        else:
             scene d19s02-13 mc-arj-sy-laptop4_c1 with dissolve
             play voice3 amrose_disappointed_ehh1 noloop
             arj "I knew we shouldn't have split up like that. If we were there we could've stopped them."
@@ -269,7 +269,7 @@ label d19s02:
         scene d19s02-17 mc-arj-sy-talk2_c1 with dissolve
         play voice3 amrose_happy_phew2 noloop
         arj "Good. She can go rot."
-    elif True:
+    else:
 
         play voice3 amrose_surprised_huh2 noloop
         arj "What...? How could she... After {i}everything{/i}??"
@@ -322,19 +322,19 @@ label d19s02:
 
     if cage_ntr is False:
         scene d19s02-06 mc-arj-sy-stand-talk1_c3 with dissolve
-    elif True:
+    else:
         scene d19s02-18 mc-arj-sy-talk3_c2 with dissolve
     play voice4 stacy_oh noloop
     sy "Well... What now?"
     if cage_ntr is False:
         scene d19s02-06 mc-arj-sy-stand-talk1_c2 with dissolve
-    elif True:
+    else:
         scene d19s02-16 mc-arj-sy-talk1_c1 with dissolve
     play voice2 mc_disappointed_ehh2 noloop
     mc "I don't know."
     if cage_ntr is False:
         scene d19s02-06 mc-arj-sy-stand-talk1_c1 with dissolve
-    elif True:
+    else:
         scene d19s02-19 mc-arj-sy-talk4_c1 with dissolve
     play voice3 amrose_surprised_huh3 noloop
     arj "Can't we just turn off this damn app? We have access to the servers, right?"
@@ -344,32 +344,32 @@ label d19s02:
     sy "Yeah, exactly."
     if cage_ntr is False:
         scene d19s02-08 mc-arj-sy-stand-talk3_c2 with dissolve
-    elif True:
+    else:
         scene d19s02-19 mc-arj-sy-talk4_c3 with dissolve
     play voice2 mc_thinking_hmm5 noloop
     mc "Maybe.{w} But first things first, I need to prepare for the exam."
     mc "I can't let this fucking app destroy my life even more."
     if cage_ntr is False:
         scene d19s02-08 mc-arj-sy-stand-talk3_c1 with dissolve
-    elif True:
+    else:
         scene d19s02-19 mc-arj-sy-talk4_c2 with dissolve
     play voice3 amrose_thinking_emm noloop
     arj "What are you going to do? Exam's tomorrow, right?"
     if cage_ntr is False:
         scene d19s02-08 mc-arj-sy-stand-talk3_c2 with dissolve
-    elif True:
+    else:
         scene d19s02-17 mc-arj-sy-talk2_c2 with dissolve
     play voice2 mc_yes_yeah4 noloop
     mc "Yeah. And knowing who's on the panel, I don't think I can pass this by just studying."
     if cage_ntr is False:
         scene d19s02-09 mc-arj-sy-stand-talk4_c3 with dissolve
-    elif True:
+    else:
         scene d19s02-19-2 mc-arj-sy-talk6_c1 with dissolve
     play voice4 stacy_huh2 noloop
     sy "What? Why?"
     if cage_ntr is False:
         scene d19s02-09 mc-arj-sy-stand-talk4_c2 with dissolve
-    elif True:
+    else:
         scene d19s02-20 mc-arj-sy-talk5_c3 with dissolve
     play voice2 mc_arrogant_huh1 noloop
     mc "The panel of judges are stacked against me. One hates me, one's a religious nutcase, and the other's a stickler."
@@ -517,7 +517,7 @@ label d19s02:
                     mct "Exams are tomorrow and I really need to catch up"
                     play sound sfx_message_in1
                     dd "Oh okay! Thats alright. Good luck with your exam!"
-        elif True:
+        else:
 
             play voice2 mc_thinking_hmm1 noloop
             mct "Dahlia?"
@@ -549,10 +549,9 @@ label d19s02:
         scene d19s02-25 mc-outside-talk6_c1 with dissolve
         if is_extended_edition is True:
             mct "I forgot to ask AmRose while she is here."
-        elif True:
+        else:
             pause
         $ renpy.music.set_volume(0.8, 1.5, "music")
 
     jump d19s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

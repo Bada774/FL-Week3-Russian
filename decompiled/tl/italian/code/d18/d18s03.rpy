@@ -1,6 +1,4 @@
 
-
-
 translate italian d18s03_ec5dba5c:
 
 
@@ -1751,5 +1749,4 @@ translate italian strings:
 
     old "No. Definitely NOT"
     new "No. Decisamente NO"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

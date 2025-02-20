@@ -1,6 +1,4 @@
 
-
-
 translate malay e07s05_eb4dfcb0:
 
 
@@ -1521,5 +1519,4 @@ translate malay strings:
 
     old "Clean [e07_lcname!t]"
     new "Clean [e07_lcname!t]"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

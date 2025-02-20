@@ -1,6 +1,4 @@
 
-
-
 translate turkish d20s03_0d620d79:
 
 
@@ -1282,7 +1280,7 @@ translate turkish strings:
 
 
     old "Some time later\nAt the auditorium"
-    new "Bir süre sonra\\Noditoryumda"
+    new "Bir süre sonra\noditoryumda"
 
 
     old "Let's do it!"
@@ -1291,5 +1289,4 @@ translate turkish strings:
 
     old "I thought about it. The answer is no."
     new "Hakkında düşündüm. Cevap hayır."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

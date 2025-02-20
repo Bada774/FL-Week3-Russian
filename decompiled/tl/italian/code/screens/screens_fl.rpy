@@ -1,5 +1,3 @@
-
-
 translate italian strings:
 
 
@@ -234,12 +232,77 @@ translate italian strings:
     old "Skip Recap\nof Week-2"
     new "Salta il Recap\ndella Week-2"
 
-
-
 translate italian strings:
 
 
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Se decidi di continuare, potresti non essere in grado di caricare i salvataggi della seconda settimana. Non riceverai più alcuna notifica. Sei sicuro?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate italian strings:
+
+
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+
+    old "Upload Saves"
+    new "Upload Saves"
+
+
+    old "Download Saves"
+    new "Download Saves"
+
+translate italian strings:
+
+
+    old "Touch input supported"
+    new "Touch input supported"
+
+
+    old "Navigation"
+    new "Navigation"
+
+
+    old "Pause Menu"
+    new "Pause Menu"
+
+
+    old "Quick Save"
+    new "Quick Save"
+
+
+    old "Roll Back"
+    new "Roll Back"
+
+
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Select"
+
+
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Go Back"
+
+
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Skip"
+
+
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Hide UI"
+
+
+    old "Roll Forward"
+    new "Roll Forward"
+
+
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "You can find this layout in the {b}Help{/b} menu"
+
+
+    old "CLOSE"
+    new "CLOSE"
+
+
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Get Taboo University Book 1 on Steam{/u}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

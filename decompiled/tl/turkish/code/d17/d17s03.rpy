@@ -1,6 +1,4 @@
 
-
-
 translate turkish d17s03_9a6462db:
 
 
@@ -959,5 +957,4 @@ translate turkish d17s03_2051d66a:
 
 
     mc "Anlaşıldı."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

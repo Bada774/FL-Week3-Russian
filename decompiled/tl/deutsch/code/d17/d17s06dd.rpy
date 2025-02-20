@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d17s06dd_10938193:
 
 
@@ -1241,5 +1239,4 @@ translate deutsch strings:
 
     old "Don't Care"
     new "Egal"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish e01s01_48c97c49:
 
 
@@ -1666,7 +1664,7 @@ translate turkish strings:
 
 
     old "Ending #1\nS&M Studio"
-    new "1.bölüm bitti\\NS&M Stüdyosu"
+    new "1.bölüm bitti\nS&M Stüdyosu"
 
 
     old "Let's do it all over again"
@@ -1675,5 +1673,4 @@ translate turkish strings:
 
     old "Let's finish this"
     new "Hadi bunu bitirelim"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

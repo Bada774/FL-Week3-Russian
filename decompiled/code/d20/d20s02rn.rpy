@@ -72,7 +72,7 @@ label d20s02rn:
     play voice3 min_no_simple noloop
     if is_antagonist_mode is True:
         mk "No.{w} We're only going to get one shot at this, so don't interrupt until you're certain you have him caught in the act."
-    elif True:
+    else:
         mk "No.{w} We're only going to get one shot at this, so don't interrupt until you're certain he's sufficiently satisfied."
     scene d20s02-11-mc-talk-mk with dissolve
     play voice2 d2s9_confused noloop volume 1.5
@@ -210,7 +210,7 @@ label replay_d20s02rn hide:
     play voice3 maria_argh noloop
     if persistent.is_special is True and is_antagonist_mode is True:
         mk "I've read the court reports. Her testimony is a matter of public record."
-    elif True:
+    else:
         mk "I tracked down your last girlfriend.{w} She told me exactly what to expect."
     scene d20s02-51-rn-talk-mk with dissolve
     play voice4 pete_surprised_oh1 noloop
@@ -251,7 +251,7 @@ label replay_d20s02rn hide:
     play voice3 dahlia_old_moan1 noloop
     if persistent.is_special is True:
         mk "I want you to rape the shit out of me right here on your desk."
-    elif True:
+    else:
         mk "I want you to fuck me senseless right here on your desk."
     mk "Can you do that for me, Ronald?"
     if persistent.is_special is True:
@@ -267,7 +267,7 @@ label replay_d20s02rn hide:
         scene d20s02-67-c1-rn-talk-mk with dissolve
         play voice4 pete_angry_ehh1 noloop
         rn "Although you might stop breathing."
-    elif True:
+    else:
         scene d20s02-68-c2-mk-talk-rn with dissolve
         play voice3 min_arrogant_huh2 noloop
         mk "I'll make it even easier for you. You can start with my mouth."
@@ -601,7 +601,7 @@ label d20s02rn_interrupt:
     play voice4 pete_yes_simple1 noloop
     if is_antagonist_mode is False:
         rn "Quite satisfying. I'm sure this will reflect positively on your exam today."
-    elif True:
+    else:
         rn "Quite satisfying.{w} Do you plan to blackmail me?"
     scene d20s02-122-mc-talk-rn with dissolve
     play voice2 mc_thinking_oh1 noloop
@@ -680,7 +680,7 @@ label d20s02rn_interrupt:
     play voice2 mc_yes_yeah1 noloop
     if d19s07_friend is True:
         mc "I know.{w} I would never let that happen to a friend of mine."
-    elif True:
+    else:
         mc "I know.{w} Luckily, I remembered what you promised to AmRose."
     play sound sfx_cloth_rustling4
     scene d20s02-145-mk-hug-mc with dissolve
@@ -691,5 +691,4 @@ label d20s02rn_interrupt:
 
     stop music fadeout 3.0
     jump d20s02zw
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

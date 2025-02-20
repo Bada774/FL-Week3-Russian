@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s02_87f8ba93:
 
 
@@ -1596,8 +1594,6 @@ translate portuguese strings:
     old "Inside Min's house"
     new "Dentro da casa da Min"
 
-
-
 translate portuguese strings:
 
 
@@ -1605,11 +1601,8 @@ translate portuguese strings:
     new "O Próximo Dia"
 
 
-
-
 translate portuguese e06s02_40511e6c:
 
 
     "*toc toc*"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

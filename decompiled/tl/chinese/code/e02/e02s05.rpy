@@ -1,6 +1,4 @@
 
-
-
 translate chinese e02s05_71d34fa3:
 
 
@@ -711,5 +709,4 @@ translate chinese strings:
 
     old "Enjoy Your Vacation And Go Home"
     new "好好享受你们的假期，然后回家"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

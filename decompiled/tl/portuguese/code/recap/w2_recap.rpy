@@ -1,6 +1,4 @@
 
-
-
 translate portuguese week_2_recap_6e162b80:
 
 
@@ -1601,5 +1599,4 @@ translate portuguese strings:
 
     old "Recap of Week-2 Events"
     new "Recapitulação dos Eventos da Semana 2"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

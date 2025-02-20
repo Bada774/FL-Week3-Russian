@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -365,4 +363,125 @@ translate chinese strings:
     old "APPY"
     new "积极愉快"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate chinese strings:
+
+
+    old "Finish Ending 4 and Ending 7"
+    new "F完成结局4和结局7 "
+
+
+    old "36. Don't threaten me with a good time"
+    new "36. 别拿玩得开心来威胁我。 "
+
+
+    old "Finish all 6 Endings from DLC-2"
+    new "完成DLC-2的全部6个结局 "
+
+
+    old "37. I saw, I came, I conquered"
+    new "37. 我来，我见，我征服"
+
+
+    old "Have all Characters in last orgy in Ending 9"
+    new "在结局9中，所有角色都在最后一次狂欢"
+
+
+    old "38. Golden Pass"
+    new "38. 黄金通行证 "
+
+
+    old "Have all Characters in Ending 15"
+    new "让所有角色都在结局15"
+
+
+    old "39. She belongs in a museum"
+    new "39. 她应该进博物馆"
+
+
+    old "Find golden Lyssa (Ending 3)"
+    new "找到金色的丽莎（结局3） "
+
+
+    old "40. Do the Pulp Fiction Thing"
+    new "40. 做低俗小说里的事"
+
+
+    old "Do the pulp fiction thing (Ending 18)"
+    new "做低俗小说里的事（结局18） "
+
+
+    old "41. Backdoor Cat Girl"
+    new "41. 猫女的后门"
+
+
+    old "Backdoor Cat Girl (Ending 16)"
+    new "猫女的后门（结局16）"
+
+
+    old "42. Pee Bootcamp"
+    new "42. 小便训练营 "
+
+
+    old "Begin Olivia's Training"
+    new "开始奥利维亚的训练 "
+
+
+    old "43. Choo-choo"
+    new "43. 性爱火车 "
+
+
+    old "Choo-choo (Ending 5)"
+    new "性爱火车（结局5） "
+
+
+    old "44. Londyn Twice"
+    new "44. 两次朗迪恩 "
+
+
+    old "Meet Londyn in Ending 9 and Ending 18"
+    new "在结局09和结局18中两次遇见朗迪恩 "
+
+
+    old "45. I've seen all the possible outcomes"
+    new "45. 我看到了所有可能的结果。"
+
+
+    old "Finish all 18 Endings"
+    new "完成全部18个结局 "
+
+
+    old "SPIT ON THAT THANG!"
+    new "朝那东西吐口水！"
+
+
+    old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "当他设法让每个人都来你豪华的新水疗中心时"
+
+
+    old "Fucking\na girl"
+    new "操\n一个女孩"
+
+
+    old "Fucking\na catgirl"
+    new "操\n一个猫女"
+
+
+    old "Hard to\nswallow\npills"
+    new "很难\n吞下\n药丸 "
+
+
+    old "He will never\nrun out of pee"
+    new "他的尿永远\n不会用完"
+
+
+    old "NEXT STOP"
+    new "下一站"
+
+
+    old "PENETRATION STATION"
+    new "抽插站"
+
+
+    old "They don't know that\nI appear in two endings"
+    new "他们不知道\n我会出现在两个结局中。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

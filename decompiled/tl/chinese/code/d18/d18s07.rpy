@@ -1,6 +1,4 @@
 
-
-
 translate chinese d18s07_3f8d37de:
 
 
@@ -311,5 +309,4 @@ translate chinese d18s07_7764a381:
 
 
     mc "好了。我们走吧，她显然能处理好。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

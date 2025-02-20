@@ -1,6 +1,4 @@
 
-
-
 translate korean d20s02zw_1bbcab10:
 
 
@@ -963,5 +961,4 @@ translate korean strings:
 
     old "Go to Lyssa and Zarah"
     new "리사와 자라에게 간다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

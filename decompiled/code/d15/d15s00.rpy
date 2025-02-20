@@ -2,10 +2,10 @@ screen prologue_recap_choice():
 
     frame:
         style_prefix "prologue"
-        has vbox:
-            xalign 0.5
-            yalign 0.3
-            style_prefix "prologue_fetishes"
+        has vbox
+        xalign 0.5
+        yalign 0.3
+        style_prefix "prologue_fetishes"
         vbox:
             xalign 0.5
             null height 10
@@ -48,5 +48,4 @@ label d15s00:
     call screen prologue_recap_choice
 
     jump week_1_recap
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

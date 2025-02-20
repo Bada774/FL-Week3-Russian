@@ -927,7 +927,7 @@ label e04s07_ah_tr:
         mc "Tell me you want it. You're my free-use slut, Aaleyah! Scream out those dirty thoughts in your horny mind"
         ah "Huaha-fuhaua! Yes. Please... nurrah... Please fucking cum inside me."
         ah "Please fucking blast your load inside me. Be the first man to scar my womb with your seeduahah!"
-    elif True:
+    else:
         scene e04s07-a163-1-f with dissolve
         pause
         ah "Just keep going. Cum inside of me. Please. I want Terrell to watch as a real man cums inside me on my risk day!"
@@ -1009,7 +1009,7 @@ label e04s07_later:
         play sound5 ["<silence 5.0>", sfx_camera_fly1] volume 2.5 noloop
         scene e04s07-a186-glam-2
         pause
-    elif True:
+    else:
         scene e04s07-186 girls-front-mc-ready-be-fucked_c1 with Fade(0.5, 0.5, 0.5)
     play voice2 d1s1_mmm noloop volume 2.5
     mct "I never imagined just how much the sex dungeon would grow when I brought Lydia down here."
@@ -1028,7 +1028,7 @@ label e04s07_later:
     play voice6 amrose_yes_happy2 noloop
     if date_mh is True:
         scene e04s07-188 all-girls-yes-mc_c1 with dissolve
-    elif True:
+    else:
         scene e04s07-188-01 all-girls-yes-mc-no-mh_c1 with dissolve
     "All Prisoners" "Yes, [alt_mcname]."
     scene e04s07-189 mc-walking-among-prisoners-talks_c1 with dissolve
@@ -1072,7 +1072,7 @@ label e04s07_later:
         pause
         scene e04s07-a195-4 with dissolve
         pause
-    elif True:
+    else:
         $ Lovense.pattern("7;10", 1400)
         scene e04s07-a194-1 with dissolve
         pause
@@ -1122,7 +1122,7 @@ label e04s07_later:
         arj "Ohuhaah- oh fuck. You're fucking me even harderuah.."
         mh "Sorry."
         arj "No keep going. *moans* I love it."
-    elif True:
+    else:
         scene e04s07-201 arj-being-plaything-th-best-cant-wait-been-fucked_c1 with dissolve
         arj "Ohuaaah. Oh fuck. Being your little playthings is the best, [alt_mcname]!"
         arj "I can't wait to feel you widening out my bitch hole again. Nurrhaaah!"
@@ -1184,7 +1184,7 @@ label e04s07_later:
     $ Lovense.vibrate(5)
     if date_mh is True:
         scene e04s07-209-01 lc-looking-orgy-mh-included_c1 with dissolve
-    elif True:
+    else:
         scene e04s07-209 lc-looking-orgy_c1 with dissolve
     pause
     play sound sfx_fisting_fist2
@@ -1364,5 +1364,4 @@ label e04s07_end:
     stop music fadeout 4.0
 
     jump e04s08
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

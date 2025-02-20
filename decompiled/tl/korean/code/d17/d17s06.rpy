@@ -1,6 +1,4 @@
 
-
-
 translate korean d17s06_2e4fe018:
 
 
@@ -105,5 +103,4 @@ translate korean strings:
 
     old "Go back to studying"
     new "다시 공부한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

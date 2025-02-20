@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s02_f772c18d:
 
 
@@ -305,5 +303,4 @@ translate korean strings:
 
     old "1 hour later\nAt Stacy's house"
     new "한 시간 뒤\n스테이시의 집에서"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

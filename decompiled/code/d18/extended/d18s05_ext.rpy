@@ -597,6 +597,10 @@ label d18s05_after_sex:
     scene d18s05-112-sb-talk-dw with dissolve
     play voice5 samiya_laughing1 noloop
     sb "*Chuckles* Right, right."
+label d18s05_from_ending_menu hide:
+    if from_ending_menu is True:
+        $ renpy.music.set_volume(0.5, 3.0, "music")
+        play music [beat_one_extended, beat_one]
     if pete_ntr is True:
         scene d18s05-113-sb-talk-dw with dissolve
         play voice5 samiya_ou1 noloop volume 1.5
@@ -611,7 +615,7 @@ label d18s05_after_sex:
         sb "I've been thinking about it for a bit now."
         scene d18s05-116-sb-talk-dw with dissolve
         play voice5 samiya_grrr noloop volume 1.6
-        sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
+        sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
         sb "Now I've finally gotten enough saved up to do it."
         scene d18s05-117-dw-talk-sb with dissolve
         play voice3 dahlia_surprised_huh1 noloop
@@ -655,8 +659,8 @@ label d18s05_after_sex:
                     play voice5 samiya_ou2 noloop
                     sb "Aw, well isn't that sweet."
                     scene d18s05-130-dw-talk-sb with dissolve
-                "No"(hint="d18s05m02c02"):
 
+                "No"(hint="d18s05m02c02") if from_ending_menu is False:
                     scene d18s05-128-c2-mc-talk-dw with dissolve
                     play voice2 mc_no_no5 noloop
                     mc "I can't."
@@ -674,14 +678,20 @@ label d18s05_after_sex:
             $ unlock_gallery_slot("cg", "d18s05")
             play voice5 samiya_mmm1 noloop volume 2.2
             sb "Take your time."
-        elif True:
+            if from_ending_menu is True:
+                stop music fadeout 3.0
+                jump e18s01
+            else:
+                jump d18s05_end
+        else:
+
             scene d18s05-130-dw-talk-sb with dissolve
             play voice3 dahlia_thinking_mmm1 noloop
             dw "Good luck! I actually hope it works out for you guys!"
+            jump d18s05_end
 
 label d18s05_end:
 
     stop music fadeout 3.0
     jump d18s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

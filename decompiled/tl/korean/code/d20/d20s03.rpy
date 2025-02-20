@@ -1,6 +1,4 @@
 
-
-
 translate korean d20s03_0d620d79:
 
 
@@ -1291,5 +1289,4 @@ translate korean strings:
 
     old "I thought about it. The answer is no."
     new "생각해 봤다. 난 거절하겠다."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

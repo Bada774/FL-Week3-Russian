@@ -24,7 +24,7 @@ label d18s11:
     play voice2 mc_angry_huh2 noloop
     if is_antagonist_mode is False:
         mct "Pretending like she knew nothing about Fetish Locator when she's running it!"
-    elif True:
+    else:
         mct "Pretending like she knew nothing about Fetish Locator when she's the fucker blackmailing me."
     mct "She was behind the whole damn thing!!!"
     play voice2 mc_pain_argh1 noloop
@@ -158,7 +158,7 @@ label d18s11_bar:
     play voice2 mc_disappointed_ehh3 noloop
     if cage_ntr is True:
         mc "Pete's definitely part of this shit. Talk about some betrayal."
-    elif True:
+    else:
         mc "Pete's probably part of this shit. Talk about some betrayal."
     mc "Fucking Kevin was the person who told me all about the app and got me signed up. I wonder how much he's involved."
     scene d18s12-31 mc-ts-bar-binge-dialog_c8 with dissolve
@@ -244,5 +244,4 @@ label d18s11_bar:
     stop music fadeout 4.0
 
     jump d19s01
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

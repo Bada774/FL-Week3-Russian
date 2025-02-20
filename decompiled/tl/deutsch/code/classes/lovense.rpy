@@ -1,5 +1,3 @@
-
-
 translate deutsch strings:
 
 
@@ -13,5 +11,4 @@ translate deutsch strings:
 
     old "Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."
     new "Verbindung mit dem Lovense-Spielzeug fehlgeschlagen! Bitte die Einstellungen neu konfigurieren."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

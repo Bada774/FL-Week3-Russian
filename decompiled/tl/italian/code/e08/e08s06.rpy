@@ -1,6 +1,4 @@
 
-
-
 translate italian e08s06_ee0292ba:
 
 
@@ -609,5 +607,4 @@ translate italian strings:
 
     old "Tell her that you are excited"
     new "Dille che sei felice"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

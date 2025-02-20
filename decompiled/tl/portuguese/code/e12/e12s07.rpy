@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e12s07_7d11eb9b:
 
 
@@ -1249,5 +1247,4 @@ translate portuguese strings:
 
     old "You have finished playing Ending #12!"
     new "Você concluiu o final #12!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

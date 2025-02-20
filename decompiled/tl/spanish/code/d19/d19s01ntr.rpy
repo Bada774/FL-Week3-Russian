@@ -1,6 +1,4 @@
 
-
-
 translate spanish d19s01ntr_bef95491:
 
 
@@ -1075,8 +1073,6 @@ translate spanish strings:
     new "Vete a la mierda"
 
 
-
-
 translate spanish d19s01ntr_decision_aeef075e:
 
 
@@ -1087,5 +1083,4 @@ translate spanish d19s01ntr_decision_5b1e303f:
 
 
     lc "Me aseguraré de probar tu devoción una vez que regrese a buscarte... Lo llamaremos una pequeña sorpresa."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

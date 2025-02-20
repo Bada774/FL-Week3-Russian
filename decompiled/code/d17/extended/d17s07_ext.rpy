@@ -377,6 +377,10 @@ label d17s07_ext:
     scene d17s07-72 mc_jf_breeding_ponies with dissolve
     play voice3 allison_aah noloop
     jf "But yeah..."
+label d17s07_from_ending_menu hide:
+    if from_ending_menu is True:
+        $ renpy.music.set_volume(0.3, 2.5, "music")
+        play music homebound fadein 1.5
     scene d17s07-73 mc_jf_breeding_ponies with dissolve
     pause
     scene d17s07-74 mc_jf_breeding_ponies with dissolve
@@ -392,8 +396,8 @@ label d17s07_ext:
             scene d17s07-76 mc_jf_breeding_ponies with dissolve
             play voice2 mc_happy_yay2 noloop
             mc "I think I'm in love with you too."
-        "Let her down"(hint="d17s07m01c02"):
 
+        "Let her down"(hint="d17s07m01c02") if from_ending_menu is False:
             scene d17s07-77 mc_jf_breeding_ponies with dissolve
             play voice2 mc_disappointed_ehh1 noloop
             mc "I really like you, Jessie. I care about you."
@@ -504,8 +508,8 @@ label ending_16_return hide:
             jf "I love you so much."
 
             jump ending_16
-        "Don't"(hint="d17s07m02c02"):
 
+        "Don't"(hint="d17s07m02c02") if from_ending_menu is False:
             scene d17s07-102 mc_jf_breeding_ponies with dissolve
             play voice2 mc_disappointed_ehh3 noloop
             mc "Jessie I...I can't. I want to, I want to be able to. But I just can't."
@@ -539,5 +543,4 @@ label d17s07_end:
     stop music fadeout 4.0
 
     jump d17s08
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

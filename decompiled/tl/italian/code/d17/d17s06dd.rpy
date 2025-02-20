@@ -1,6 +1,4 @@
 
-
-
 translate italian d17s06dd_10938193:
 
 
@@ -1241,5 +1239,4 @@ translate italian strings:
 
     old "Don't Care"
     new "Non mi importa"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d16s04_010937cb:
 
 
@@ -1217,5 +1215,4 @@ translate portuguese strings:
 
     old "I won't be able to come"
     new "Não vou poder ir"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

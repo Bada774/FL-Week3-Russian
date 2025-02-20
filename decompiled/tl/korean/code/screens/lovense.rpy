@@ -1,6 +1,4 @@
 
-
-
 translate korean lovense_test_9e0ee773:
 
 
@@ -130,8 +128,6 @@ translate korean strings:
     old "Save"
     new "Save"
 
-
-
 translate korean strings:
 
 
@@ -142,4 +138,17 @@ translate korean strings:
     old "Get a toy now"
     new "Get a toy now"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate korean strings:
+
+
+    old "1. Click on the \"Discover\" tab"
+    new "1. Click on the \"Discover\" tab"
+
+
+    old "2. Then click on \"Game Mode\" option"
+    new "2. Then click on \"Game Mode\" option"
+
+
+    old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

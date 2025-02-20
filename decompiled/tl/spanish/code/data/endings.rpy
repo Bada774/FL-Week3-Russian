@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -36,7 +34,7 @@ translate spanish strings:
 
 
     old "Fetish Locator: Rebooted"
-    new "Localizador de Fetiches: Reiniciado"
+    new "Fetish Locator: Reiniciado"
 
 
     old "Runaway"
@@ -155,7 +153,7 @@ translate spanish strings:
     new "E08 - Mi Familia Feliz de Jengibre"
 
     old "E09 - Fetish Locator: Rebooted"
-    new "E09 - Localizador de Fetiches: Reiniciado"
+    new "E09 - Fetish Locator: Reiniciado"
 
     old "E10 - Runaway"
     new "E10 - Fugitivo"
@@ -183,5 +181,4 @@ translate spanish strings:
 
     old "E18 - Quartet"
     new "E18 - Cuarteto"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

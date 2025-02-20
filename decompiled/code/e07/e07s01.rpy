@@ -238,7 +238,7 @@ label e07s01:
         play voice4 amrose_angry_ugh noloop
         arj "She's the one that has copies of the photos and videos..."
         arj "Files I wouldn't want exposed anywhere."
-    elif True:
+    else:
         arj "She's the one who's been offering the reward."
         scene e07s01-23 mc-lc-arj-stand2_c1 with dissolve
         play voice4 amrose_angry_ugh noloop
@@ -265,7 +265,7 @@ label e07s01:
         lc "But I'm creating a place where you can be entirely yourself. Where you don't need to hide those fetishes that you dare not let the world see."
         scene e07s01-32 mc-lc-arj-talk7_c2 with dissolve
         play voice3 girl12_arrogant_cough1 noloop
-    elif True:
+    else:
         mc "Which is why she offered the reward. It was a trick to see who would do the most depraved things."
         scene e07s01-27 mc-lc-arj-talk2_c2 with dissolve
         play voice4 amrose_disappointed_ehh2 noloop
@@ -306,7 +306,7 @@ label e07s01:
     lc "Which brings me to why you are here, AmRose. As another participant in my little program, you're afforded the same choice as [e07_mcname!t]."
     if is_antagonist_mode is True:
         lc "You can finally be as free as you want, and stay here in my dungeon."
-    elif True:
+    else:
         lc "You can collect your winnings and stay here in my dungeon."
     lc "Otherwise, you're released from the program. You get nothing, you will receive nothing. Just my word that it's over."
     play sound sfx_cloth_planket2
@@ -615,5 +615,4 @@ label replay_e07s01 hide:
 
     stop music fadeout 3.0
     jump e07s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

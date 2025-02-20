@@ -1,6 +1,4 @@
 
-
-
 translate korean d17s06pn_9f8e2b43:
 
 
@@ -1135,5 +1133,4 @@ translate korean strings:
 
     old "We make a good trio"
     new "우린 좋은 삼인조가 될 거다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

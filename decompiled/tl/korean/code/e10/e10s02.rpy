@@ -1,6 +1,4 @@
 
-
-
 translate korean e10s02_b5278bcc:
 
 
@@ -579,5 +577,4 @@ translate korean strings:
 
     old "Tell them that she has other plans"
     new "Tell them that she has other plans"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

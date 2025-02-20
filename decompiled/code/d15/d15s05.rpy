@@ -35,18 +35,18 @@ label d15s05:
     stop music fadeout 3.5
     if d12s01_mk_pussy is True or d12s01_cum_pussy is True:
         $ d15s05_mk_virgin_pussy = False
-    elif True:
+    else:
         $ d15s05_mk_virgin_pussy = True
 
     if d12s01_mk_ass is True or d12s01_cum_ass is True:
         $ d15s05_mk_virgin_ass = False
-    elif True:
+    else:
         $ d15s05_mk_virgin_ass = True
 
     if date_mk_tr is False:
         if is_extended_edition is True:
             jump d15s05b_ext
-        elif True:
+        else:
             jump d15s06
     if not _in_replay:
         scene black
@@ -58,7 +58,7 @@ label d15s05:
         with Fade(0.5, 0.5, 0.9)
         queue music felt_in_sex
         pause
-    elif True:
+    else:
         play music felt_in_sex
     scene d15s05-01 mc-mk-toilet-entry1_c2 with dissolve
     play voice3 min_arrogant_hm noloop
@@ -166,7 +166,7 @@ label d15s05_gtfo:
 
     if is_extended_edition is True:
         jump d15s05b_ext
-    elif True:
+    else:
         jump d15s06
 
 label d15s05_help:
@@ -247,7 +247,7 @@ label d15s05_help:
 
     if is_extended_edition is True:
         jump d15s05b_ext
-    elif True:
+    else:
         jump d15s06
 
 label d15s05_sexmenu:
@@ -400,7 +400,7 @@ label d15s05_pussyfuck:
         scene d15s05-25 mc-mk-toilet-pussy1_c1 with dissolve
         play voice2 mc_angry_errr4 noloop
         mc "Fuck your virgin pussy with that stranger's cock."
-    elif True:
+    else:
         play voice2 mc_hey_hey3 noloop
         mc "Do you know what I want you to do this time?"
         play voice3 min_no_simple noloop
@@ -446,7 +446,7 @@ label d15s05_pussyfuck:
         play voice2 mc_no_noway noloop
         mc "Not me, slut."
         mk "You mean-?"
-    elif True:
+    else:
         mk "He's getting close. I can feel it!"
     $ Lovense.vibrate(7)
     scene d15s05-a6-f with dissolve
@@ -475,7 +475,7 @@ label d15s05_pussyfuck:
         mc "You're dripping from both holes."
         play voice3 maria_aah noloop
         mk "As I should be."
-    elif True:
+    else:
         scene d15s05-62 mc-mk-toilet-pussy-cum with dissolve
         mc "That's how you should be."
         play voice3 maria_aah noloop
@@ -830,7 +830,7 @@ label d15s05_end:
     mc "Or you can choose to let me leave here, knowing that I'm not coming back."
     if fl_watersports is True:
         mc "Eventually you'll have to leave this toilet wearing nothing but dried cum and piss."
-    elif True:
+    else:
         mc "Eventually you'll have to leave this toilet wearing nothing but dried cum."
     play voice2 mc_thinking_hmm5 noloop
     mc "So, what do you want to do?"
@@ -874,21 +874,20 @@ label d15s05_end:
         call add_gold_star from _call_add_gold_star_1
         if fl_goldstars > 1:
             mct "Oh, another Gold Star. Okay."
-        elif True:
+        else:
             mct "I earned a Gold Star? Sure, why not."
         mct "I guess I got credit for Maria's debasement."
         play voice2 mc_arrogant_heh2 noloop
         mct "Huh, I wonder what Maria earned."
 
         $ d15s05_goldstar = True
-    elif True:
+    else:
         play voice2 mc_happy_thatsgood noloop
         mct "That's good I guess."
 
     stop music fadeout 3.5
     if is_extended_edition is True:
         jump d15s05b_ext
-    elif True:
+    else:
         jump d15s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

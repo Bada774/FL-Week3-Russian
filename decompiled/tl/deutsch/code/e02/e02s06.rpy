@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e02s06_52e800c4:
 
 
@@ -1305,5 +1303,4 @@ translate deutsch strings:
 
     old "Just give them some advice"
     new "Gib ihnen einfach einen Rat"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

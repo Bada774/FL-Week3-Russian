@@ -619,5 +619,4 @@ label e17s05_end:
 
     stop music fadeout 3.0
     jump e17s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

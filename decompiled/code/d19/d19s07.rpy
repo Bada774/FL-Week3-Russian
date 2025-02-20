@@ -74,7 +74,7 @@ label d19s07:
         mk "You just left me there. With that Counselor. Seeking mental help."
     elif date_mk_tr is False:
         mk "You've left me alone. For over a week."
-    elif True:
+    else:
         mk "You just left me there. Naked. In that toilet."
     scene d19s07-05 mc-mk-cafe-sit2_c2 with dissolve
     play voice2 mc_yes_yes3 noloop
@@ -91,7 +91,7 @@ label d19s07:
         mk "It was exactly what I needed."
     elif d15s05_leave is True:
         mk "I was being sarcastic, duh."
-    elif True:
+    else:
         mk "Sorry, I was just trying to sound friendly."
     scene d19s07-07 mc-mk-cafe-sit4_c2 with dissolve
     play voice2 d2s9_confused noloop volume 1.4
@@ -132,7 +132,7 @@ label d19s07:
                 mk "You want him to fuck my virgin pussy?"
             elif d15s05_leave is True:
                 mk "You want him to fuck my well-used cunt?"
-            elif True:
+            else:
                 mk "I assume you want it to be vaginal sex?"
             scene d19s07-06 mc-mk-cafe-sit3_c2 with dissolve
             play voice2 mc_yes_yeah7 noloop
@@ -170,7 +170,7 @@ label d19s07:
             play voice2 mc_yes_yeah1 noloop
             if date_mk_tr is True:
                 mc "I wasn't planning on sharing you with anyone else... this time."
-            elif True:
+            else:
                 mc "I'm not going to share you with anyone else."
             scene d19s07-06 mc-mk-cafe-sit3_c1 with dissolve
             play voice3 min_old_hmm noloop
@@ -215,7 +215,7 @@ label d19s07_problem:
     play voice2 mc_disappointed_off1 noloop
     if d15s05_rescue is True or d15s05_leave is True or d15s05_suck is True:
         mc "Really? So I just imagined you sucking and fucking every guy you could in that toilet stall?"
-    elif True:
+    else:
         mc "I didn't forget, but I guess..."
     scene d19s07-04 mc-mk-cafe-sit1_c1 with dissolve
     play voice3 maria_what noloop
@@ -282,7 +282,7 @@ label d19s07_problem:
         scene d19s07-26-3 mk-problem4_c1 with dissolve
         play voice3 min_old_laugh noloop
         mk "*laughs* Fair enough."
-    elif True:
+    else:
         play voice2 d1s5_mcthinks noloop volume 1.5
         mc "Honestly?{w} I'm not going to lie. We aren't friends."
         scene d19s07-27-8 mk-problem8_c1 with dissolve
@@ -307,7 +307,7 @@ label d19s07_problem:
         mc "That said, this is really important to me."
         if study_points >= 6:
             mc "I can probably get Nordin's vote without this, but I want to be certain."
-        elif True:
+        else:
             mc "I probably won't get Nordin's vote without you doing this."
         scene d19s07-15 mc-mk-cafe-seduction2_c2 with dissolve
         mc "If you say \"No\" I can respect that.{w} I will respect that."
@@ -326,7 +326,7 @@ label d19s07_problem:
         mk "I am.{w} What do you want me to do?"
 
         jump d19s07_roleplay
-    elif True:
+    else:
 
         scene d19s07-11 mc-mk-cafe-stand1_c2 with dissolve
         play voice2 mc_arrogant_nah1 noloop
@@ -339,7 +339,7 @@ label d19s07_problem:
         play voice2 mc_no_nah2 noloop
         if study_points >= 6:
             mc "I can probably get Nordin's vote without this, but either way it was wrong of me to suggest it."
-        elif True:
+        else:
             mc "I won't change my mind. It was wrong of me to even ask you."
         mc "I didn't realize what you were going through, but I definitely don't want to exploit you or anyone."
         scene d19s07-22 mc-mk-cafe-talk1_c1 with dissolve
@@ -394,7 +394,7 @@ label d19s07_roleplay:
         mc "Well, now you'll get to compare it to the real thing."
         play voice3 min_yes_simple noloop
         mk "I suppose that's true."
-    elif True:
+    else:
         mc "Is that going to be a problem?"
         scene d19s07-18 mc-mk-cafe-seduction5_c1 with dissolve
         play voice3 dahlia_no_uhuh noloop
@@ -509,7 +509,7 @@ label d19s07_roleplay:
     mc "So, the moment he penetrates you, I'll see it. I'll walk in - catching him in the act."
     if is_antagonist_mode is True:
         mk "And then you leverage that to get his vote on your Final Exam?"
-    elif True:
+    else:
         mk "And then you let him know that I'm a present and a bribe from you to him."
     scene d19s07-25 mc-mk-problem1_c2 with dissolve
     play voice2 mc_yes_ugu1 noloop
@@ -522,7 +522,7 @@ label d19s07_roleplay:
     mc "Vaginal or Anal would be preferred.{w} Oral might be..."
     if is_antagonist_mode is True:
         mc "Well, he might not feel as compromised."
-    elif True:
+    else:
         mc "Well, he might not feel as thankful for the gift."
     scene d19s07-20 mc-mk-cafe-negative1_c1 with dissolve
     play voice3 dahlia_happy_hmm1 noloop
@@ -690,7 +690,7 @@ label d19s07_sex:
     mc "So, what's your second condition?"
     if persistent.is_special is True:
         mk "I want you to rape the shit out of me!!!"
-    elif True:
+    else:
         mk "I want you to fuck the shit out of me!!!"
     mc "What?!"
     pause
@@ -727,7 +727,7 @@ label d19s07_sex:
 
     if d19s07_mk_nordin is True:
         jump d19s07_ending
-    elif True:
+    else:
         stop voice3 fadeout 3.0
         stop voice2 fadeout 3.0
         stop music fadeout 3.5
@@ -820,5 +820,4 @@ label d19s07_ending:
 
     stop music fadeout 3.5
     jump d19s08
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

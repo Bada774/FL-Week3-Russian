@@ -1,6 +1,4 @@
 
-
-
 translate malay e08s03_33275fb1:
 
 
@@ -1109,5 +1107,4 @@ translate malay strings:
 
     old "One late afternoon"
     new "One late afternoon"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

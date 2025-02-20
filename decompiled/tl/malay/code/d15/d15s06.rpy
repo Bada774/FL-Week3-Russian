@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s06_1d052d6c:
 
 
@@ -1695,8 +1693,6 @@ translate malay strings:
     new "Aku sayang kau juga"
 
 
-
-
 translate malay d15s06_house_1c83b9e5:
 
 
@@ -1707,5 +1703,4 @@ translate malay strings:
 
     old "10 minutes later"
     new "10 minit kemudian"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

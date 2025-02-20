@@ -559,7 +559,7 @@ label e07s02_bath_water:
         scene e07s02-69 lc-mc-pb-glass2_c2 with dissolve
         play voice3 lydia_aga noloop
         lc "Your winnings, [e07_mcname!t]."
-    elif True:
+    else:
         scene e07s02-68-2 lc-mc-pb-cum_c3 with dissolve
         pause
         scene e07s02-69 lc-mc-pb-glass2_c2 with dissolve
@@ -604,7 +604,7 @@ label e07s02_end:
     play voice5 pete_disappointed_oof1 noloop
     if e07s02_challenge_win is True:
         pb "Yeah man, [e07_lcname!t] can be real cruel. She's left me like this for hours."
-    elif True:
+    else:
         pb "Yeah man, the cock ring [e07_lcname!t] has me wear makes it impossible for my erection to go away."
     $ unlock_gallery_slot("scene", "e07s02")
     scene e07s02-70-2 lc-mc-pb-room1_c1 with dissolve
@@ -736,5 +736,4 @@ label e07s02_early_end:
     play sound sfx_door_closed2
 
     jump e07_early_end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

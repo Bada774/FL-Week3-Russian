@@ -21,9 +21,9 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                xpos 100
-                spacing -30
+            has vbox
+            xpos 100
+            spacing -30
             text _("Story Writing -") xpos -30
             null height 60
             add "writer1"
@@ -37,9 +37,9 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                xpos 1350
-                spacing -30
+            has vbox
+            xpos 1350
+            spacing -30
             text _("Art -") xpos -30
             null height 60
             add "artist1"
@@ -57,9 +57,9 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                xpos 1350
-                spacing -30
+            has vbox
+            xpos 1350
+            spacing -30
             text _("Programming -") xpos -30
             null height 60
             add "coder1"
@@ -70,9 +70,9 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                xpos 100
-                spacing -30
+            has vbox
+            xpos 100
+            spacing -30
             text _("Sound design -") xpos -30
             null height 60
             add "sound1"
@@ -80,9 +80,9 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                xpos 100
-                spacing -30
+            has vbox
+            xpos 100
+            spacing -30
             text _("Music -") xpos -30
             null height 60
             add "music1"
@@ -93,9 +93,9 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                xpos 1350
-                spacing -30
+            has vbox
+            xpos 1350
+            spacing -30
             text _("Testing, Proofreading\n& Translation -") xpos -30
             null height 60
             add "tester1"
@@ -105,9 +105,9 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                xpos 1350
-                spacing -30
+            has vbox
+            xpos 1350
+            spacing -30
             text _("Special Thanks -") xpos -30
             null height 60
             add "special1"
@@ -117,17 +117,17 @@ screen credits_roll():
         frame:
             xsize 1920
             background None
-            has vbox:
-                style_prefix "thank_you"
-                xpos 100
+            has vbox
+            style_prefix "thank_you"
+            xpos 100
             text _("This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar")
 
         frame:
             xsize 1920
             background None
-            has vbox:
-                style_prefix "thank_you"
-                xpos 100
+            has vbox
+            style_prefix "thank_you"
+            xpos 100
             text _("Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life")
 
         null height 1500
@@ -137,7 +137,7 @@ screen credits_roll():
             style_prefix "skip_recap"
             yalign 0.95
             xalign 0.5
-            textbutton _("SKIP") action [Hide("credits_roll"), Jump("after_credits")]
+            textbutton _("SKIP") action [Hide("credits_roll"), Jump("end_credits_end")]
 
         timer 3.0 action SetVariable("trying_skip", False)
 
@@ -247,5 +247,4 @@ style freelanceTraslatorIntroduceStyle:
     color "#ffffff"
     outlines [(2, "#61192b", 2, 2)]
     text_align 0.5
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -187,7 +187,7 @@ label d21s01:
         scene d21s01-19-02 mc-hr-talking-ntr with dissolve
         play voice2 mc_angry_errr1 noloop
         mc "Pete's an asshole."
-    elif True:
+    else:
         scene d21s01-19 mc-hr-talking with dissolve
         play voice2 mc_no_nah1 noloop
         mc "Not really."
@@ -264,7 +264,7 @@ label d21s01:
         scene d21s01-24-03 mc-hr-talking with dissolve
         play voice3 chloe_arrogant_heh2 noloop
         hr "Ha!"
-    elif True:
+    else:
         play voice2 mc_arrogant_hm3 noloop
         mc "He's probably spending the summer on a sunny beach with a high priced escort."
         scene d21s01-24-05 mc-hr-talking with dissolve
@@ -483,7 +483,7 @@ label d21s01_bj:
     play voice3 chloe_angry_breath noloop
     if d21s01_roleplay is True:
         hr "You make it sound so violent, daddy."
-    elif True:
+    else:
         hr "You make it sound so violent, [mcname]."
     hr "The threat is over. It's gone. We're in the languor stage of things."
     scene d21s01-32 mc-hr-the-start with dissolve
@@ -560,7 +560,7 @@ label d21s01_bj:
     play voice2 mc_no_uhuh1 noloop
     if persistent.is_special is True:
         mc "You may have fooled your father with that innocent girl act, but I know who you are."
-    elif True:
+    else:
         mc "You may have fooled the Senator with that innocent girl act, but I know who you are."
         mc "You're just a little teeny slut, aren't you?"
     scene d21s01-36 mc-hr-blowjob with dissolve
@@ -623,7 +623,7 @@ label d21s01_bj:
     play voice3 chloe_yes_simple noloop
     if d21s01_roleplay is True:
         hr "That's how I like it, daddy."
-    elif True:
+    else:
         hr "That's how I like it, [mcname]"
     scene d21s01-39-04 mc-hr-more-slaps with dissolve
     play voice2 d9s5_auch2 noloop
@@ -675,7 +675,7 @@ label d21s01_bj:
     play voice3 chloe_angry_breath noloop
     if d21s01_roleplay is True:
         hr "Yes, daddy."
-    elif True:
+    else:
         hr "Yes, [mcname]."
     scene d21s01-39-22 mc-hr-more-slaps with dissolve
     play voice2 d3s11b_mcheh noloop volume 2.5
@@ -871,5 +871,4 @@ label d21s01_end:
     stop sound2 fadeout 3.0
 
     jump d21s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

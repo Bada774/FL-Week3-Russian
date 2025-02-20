@@ -1,6 +1,4 @@
 
-
-
 translate turkish d20s06_c4a32281:
 
 
@@ -525,5 +523,4 @@ translate turkish strings:
 
     old "Eat Oliver's cum"
     new "Oliver'ın menisini ye"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

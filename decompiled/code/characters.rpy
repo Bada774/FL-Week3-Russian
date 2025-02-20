@@ -41,6 +41,8 @@ define jfx = Character("Girl", color="#326ba8")
 define jffl = Character("URLittlePony", color="#326ba8")
 define sa = Character("Shontae", color="#b12120")
 define ceo = Character("Mr. Melville", color="#9f0300")
+define cm = Character("Mrs. Melville", color="#cccd56")
+define om = Character("Olivia", color="#000000", who_style = "dark_character")
 define jdg = Character("Judge", color="#ffffff")
 define peon = Character("Woman", color="#fb9694")
 define op = Character("Oliver", color="#f56e56")
@@ -72,9 +74,27 @@ define gt = Character("Gemma", color = "#ffffff")
 define hf = Character("Harry", color = "#ffffff")
 define ly = Character("Lily", color="#eb9b3b")
 define rs = Character("Room Service", color="#e7dbce")
-define gb = Character("Domina", color="#000000" , who_style = "dark_character" )
+define gb = Character("Domina", color="#000000", who_style = "dark_character")
 define jd = Character("Janet", color="#b73b26")
 define gc = Character("Gary", color="#b75b26")
+define mdog = Character("Molly the Dog", color="#b75b26")
+define rf = Character("Ryan", color="#b75b26")
+define tal = Character("Taisia", color="#8b4236")
+define scat = Character("Sage", color="#8b4236")
+define kk = Character("Kristen", color="#ffffff")
+define ryan = Character("Ryan", color="#ffffff")
+define ovs = Character("Olivia", color="#808000")
+define ga = Character("Gemma", color="#AE9386", who_style = "dark_character")
+define db = Character("Dee", color="#EAE0C8")
+define an = Character("Annie", color="#FF7F50")
+define be = Character("Bell", color="#1b1410", who_style = "dark_character")
+define lo = Character("Londyn", color="#410735", who_style = "dark_character")
+define ke = Character("Kendell", color="#d1c13e")
+define sw = Character("Stephanie", color="#b9ad44")
+define rd = Character("Rose", color="#f35a29")
+define hp = Character("High Priestess", color="#3e3938", who_style = "dark_character")
+define ca = Character("Chiara", color="#b41f02")
+define cw = Character("Claire", color = "#dd3376")
 
 
 define sm = Character("Silvia"          , color = "#6e50c3" , who_style = "dark_character" )
@@ -83,6 +103,7 @@ define jh = Character("Josie"           , color = "#d07318" )
 define lw = Character("Lara"            , color = "#750762" , who_style = "dark_character" )
 define dk = Character("Delphia"         , color = "#c32a67" )
 define edo = Character("Ezra"            , color = "#889685" )
+define ima = Character("Isa"             , color = "#e38925" )
 
 style dark_character:
     properties gui.text_properties("name", accent=True)
@@ -90,5 +111,4 @@ style dark_character:
     yalign 0.5
     outlines [(1, "#e1e1e1", 0, 0)]
     kerning 1
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

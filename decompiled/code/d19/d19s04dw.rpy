@@ -503,5 +503,4 @@ label ending_17_return hide:
 
             stop music fadeout 3.5
             jump ending_17
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

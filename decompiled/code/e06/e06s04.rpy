@@ -132,7 +132,7 @@ label e06s04:
     play voice4 min_disappointed_ehh1 noloop
     if fl_watersports is True:
         mes "Spoilsport. But I'm sure I'll get some time with my favorite teacher tonight."
-    elif True:
+    else:
         mes "Mmm. I guess I can be patient. For now. Not like I have to wait as long as Lydia is."
     scene e06s04-41-mc-smiles with dissolve
     play voice2 mc_thinking_hmm5 noloop
@@ -507,5 +507,4 @@ label e06s04_later:
     stop music fadeout 3.5
     stop sound3 fadeout 3.0
     jump e06s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s03_dd526ff9:
 
 
@@ -2001,5 +1999,4 @@ translate malay strings:
 
     old "Tell Lydia That You Enjoyed It As Well"
     new "Beritahu Lydia Yang Anda Juga Menikmatinya"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

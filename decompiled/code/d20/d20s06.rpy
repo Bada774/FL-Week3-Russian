@@ -112,7 +112,7 @@ label d20s06:
         scene d20s06-21 mc_op_date_nods with dissolve
         play voice2 mc_yes_yes1 noloop
         mc "Right."
-    elif True:
+    else:
         scene d20s06-23 mc_op_date with dissolve
         play voice2 mc_arrogant_nah1 noloop
         mc "I'd prefer to not talk about it right now, Oliver."
@@ -504,5 +504,4 @@ label replay_d20s06 hide:
 
     stop music fadeout 3.0
     jump d20s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

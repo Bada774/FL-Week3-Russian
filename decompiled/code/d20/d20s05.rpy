@@ -522,12 +522,12 @@ label d20s05_pool_talk:
         play voice2 mc_disappointed_ehh4 noloop
         if is_antagonist_mode is True:
             mc "The whole app's purpose was to scout for new sex slaves...{w} so they could blackmail them."
-        elif True:
+        else:
             mc "The whole app's purpose was really just to scout for new sex slaves."
             scene d20s05-61 mc-mes-explaining with dissolve
             mc "The $1kk goal and VIP program and everything was a lie."
             mc "She just wanted more slaves to play with, tortment, and fuck."
-    elif True:
+    else:
         mc "You know Lydia's fetish... that she's a voyeur."
         mc "Jerome created Fetish Locator based on her fantasy - an unending source of fresh, new, sexy pics and videos that Lydia could enjoy."
         scene d20s05-60-02 mc-explaining-antagonist with dissolve
@@ -540,7 +540,7 @@ label d20s05_pool_talk:
         mc "Well, I mean, the A.I. worked. The app worked.{w} But Lydia didn't fall for Jerome or whatever he wanted to get out of it.."
         if is_antagonist_mode is True:
             mc "The A.I. even started blackmailing people to get more content."
-        elif True:
+        else:
             mc "The A.I. even started a $1kk competition and a VIP program to get more content."
         scene d20s05-61-02 mc-mes-explaining-antagonist with dissolve
         play voice2 mc_thinking_mmm3 noloop
@@ -574,13 +574,13 @@ label d20s05_pool_talk:
         mc "The cops caught her trying to abduct AmRose, but AmRose wasn't there, so..."
         if is_antagonist_mode is True:
             mc "Hmm.{w} I guess it's all the blackmail."
-        elif True:
+        else:
             mc "Hmm.{w} I guess it's fraud over the $1kk prize."
-    elif True:
+    else:
         mc "Well, she turned herself in to the police and confessed."
         if is_antagonist_mode is True:
             mc "She felt really bad about the coercion and blackmail."
-        elif True:
+        else:
             mc "She felt really bad about the fraud and fake $1kk prize."
     scene d20s05-69 mc-talking with dissolve
     play voice2 d1s5b_ehhh noloop volume 1.5
@@ -610,7 +610,7 @@ label d20s05_pool_talk:
             scene d20s05-73 mc-talking with dissolve
             play voice2 mc_yes_ugu1 noloop
             mc "I think she figured that blackmail wouldn't work on you."
-        elif True:
+        else:
             scene d20s05-73 mc-talking with dissolve
         play voice2 mc_thinking_hmm4 noloop
         mc "She did tell me that you weren't \"ripe\" yet. She didn't want to \"pluck\" you until you were completely her sex slave."
@@ -867,5 +867,4 @@ label d20s05_continue hide:
 label d20s05_end:
 
     jump d20s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

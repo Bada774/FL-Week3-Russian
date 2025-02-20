@@ -1,16 +1,8 @@
 
-
-
 translate chinese e13s02_0ccad110:
 
 
     nk "你知道的，吉姆。几小时后我们会在晚上的\"开麦之夜\"重新开业，但现在我们已经关门了。"
-
-
-translate chinese e13s02_0d80f13c:
-
-
-    "顾客" "哦，但是…"
 
 
 translate chinese e13s02_8e6b9eae:
@@ -125,12 +117,6 @@ translate chinese replay_e13s02_f38ec24d:
 
 
     mc "嘿，没事的。你不需要强迫自己。"
-
-
-translate chinese replay_e13s02_25cd8572:
-
-
-    nk "其实… 你知道吗？坐下来。"
 
 
 translate chinese replay_e13s02_a53c11d8:
@@ -376,4 +362,15 @@ translate chinese strings:
     old "Fuck Her Anally"
     new "操她的肛门"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate chinese e13s02_e5e5853b:
+
+
+    "顾客" "啊，但是..."
+
+
+translate chinese replay_e13s02_e2a7aa61:
+
+
+    nk "其实...这样吧？你坐下。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

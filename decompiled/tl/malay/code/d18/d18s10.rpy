@@ -1,6 +1,4 @@
 
-
-
 translate malay d18s10_0b2e1d6b:
 
 
@@ -750,20 +748,15 @@ translate malay d18s10_end_1da49de8_1:
 
     mct "Aku tak bolehlah."
 
-
-
 translate malay strings:
 
 
     old "What is your darkest fantasy about Lydia?"
     new "Apakah fantasi paling gelap anda tentang Lydia?"
 
-
-
 translate malay strings:
 
 
     old "Just Sex, a lot of Sex"
     new "Hanya Seks"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

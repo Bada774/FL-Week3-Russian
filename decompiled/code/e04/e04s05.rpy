@@ -62,7 +62,7 @@ label e04s05:
     play voice3 stacy_yeahno noloop
     if persistent.is_special is True:
         sy "I know, big bro."
-    elif True:
+    else:
         sy "I know, [mcname]."
     scene e04s05-02 mc-sy-talk2_c1 with dissolve
     play voice2 mc_arrogant_hm3 noloop
@@ -348,7 +348,7 @@ label replay_e04s05 hide:
     play voice4 lissa_lno noloop
     if is_antagonist_mode is True:
         mh "I think what's inhumane is toying with and blackmailing people with moments from their private life."
-    elif True:
+    else:
         mh "I think it's inhumane to use an app to manipulate people into sending intimate photoes from their private lives."
     scene e04s05-46 mc-lc-sy-arj-mh-dd-talk7_c2 with dissolve
     play voice5 lydia_moan1 noloop
@@ -875,7 +875,7 @@ label e04s05_ending:
         mh "Good. Having her holes abused should be the only reason she should cum."
         play voice2 mc_thinking_mmm1 noloop
         mc "Existing at our whim and mercy."
-    elif True:
+    else:
         play sound sfx_piss_loop1 loop volume 1.5
         play sound3 sfx_piss_loop2 volume 2.0
         scene e04s05-a90-1 with dissolve
@@ -896,7 +896,7 @@ label e04s05_ending:
         mc "You like that don't you?"
         if fl_watersports is True:
             mc "You're going to cum, while you're covered in piss and getting reamed again and again."
-        elif True:
+        else:
             mc "You're going to cum while getting stretched out by a horse cock, and covered in my spunk."
         mc "Go ahead Prisoner 001. Cum. CUM."
         lc "I wooon- FUCK, NO! STOP, STOP, STOP!"
@@ -967,5 +967,4 @@ label e04s05_ending:
     $ renpy.end_replay()
 
     jump e04s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

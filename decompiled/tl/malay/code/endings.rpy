@@ -61,8 +61,6 @@ translate malay strings:
     new "Pengakhiran #18\nKuartet"
 
 
-
-
 translate malay ending_not_available_f3f9fce0:
 
 
@@ -111,5 +109,4 @@ translate malay strings:
 
     old "Ending #12\nRedhead Resort"
     new "Ending #12\nRedhead Resort"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

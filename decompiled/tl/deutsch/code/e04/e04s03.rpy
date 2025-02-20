@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e04s03_a5af4321:
 
 
@@ -1499,5 +1497,4 @@ translate deutsch e04s03_end_0f4f597e:
 
 
     sy "Hehe. Don't worry. With what I have in mind, it will be worth every penny."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

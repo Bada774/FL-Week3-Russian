@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -68,7 +66,7 @@ translate spanish strings:
 
 
     old "Wishlist Taboo University on Steam"
-    new "Añada Taboo University a su lista de deseados en Steam"
+    new "Añade Taboo University a su lista de deseados en Steam"
 
 
     old "Get a Lovense toy"
@@ -80,6 +78,13 @@ translate spanish strings:
 
 
     old "Get free DLC containing 6 endings from Steam"
-    new "Consigue gratis DLC con 6 finales en Steam"
+    new "Consigue gratis el DLC con los 6 finales en Steam"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+    old "Buy Taboo University on Steam"
+    new "Compra Taboo University en Steam"
+
+
+    old "Get DLC-2 containing 6 additional endings from Steam"
+    new "Consigue el DLC-2 que contiene los 6 finales adicionales en Steam"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

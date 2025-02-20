@@ -64,6 +64,21 @@ define fl_achievements = {
     "e14s06n01"  : "E14_GO_DEBBIE_GO", 
     "e07s07n01"  : "E07_FULLY_COOKED", 
     "e04s08n01"  : "E04_FULL_HOUSE", 
+    "e03_finish" : "E03_HETEROPATERNAL_SUPERFECUNDATION", 
+    "e05_finish" : "E05_LAWS_OF_ATTRACTION", 
+    "e09_finish" : "E09_THE_NEW_DAWN", 
+    "e15_finish" : "E15_SPLASHZONE", 
+    "e16_finish" : "E16_ANIMAL_HUSBANDRY", 
+    "e18_finish" : "E18_LIVING_LAVIDA_LOCA", 
+    "dlc02n01"   : "DLC2_DONT_THREATEN_ME", 
+    "dlc02n03"   : "DLC2_IVE_SEEN_ALL_OUTCOMES", 
+    "dlc02n02"   : "DLC2_LONDYN_TWICE", 
+    "e03s01n01"  : "E03_SHE_BELONGS_IN_A_MUSEUM", 
+    "e18s01n01"  : "E18_DO_PULP_FICTION_THING", 
+    "e16s01n01"  : "E16_BACKDOOR_CAT_GIRL", 
+    "e15s01n02"  : "E15_PEE_BOOTCAMP", 
+    "e05s01n01"  : "E05_CHOO_CHOO", 
+    "e15s01n01"  : "E15_GOLDEN_PASS", 
+    "e09s01n01"  : "E09_I_SAW_I_CAME", 
     }
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

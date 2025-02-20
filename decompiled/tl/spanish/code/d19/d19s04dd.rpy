@@ -1,6 +1,4 @@
 
-
-
 translate spanish d19s04dd_e5b04d05:
 
 
@@ -1121,5 +1119,4 @@ translate spanish strings:
 
     old "I need time to think"
     new "Necesito tiempo para pensar"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

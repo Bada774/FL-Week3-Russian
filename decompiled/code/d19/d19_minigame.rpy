@@ -163,9 +163,9 @@ screen minigame_ui():
         background "#00000050"
         xsize 235
         ysize 75
-        has hbox:
-            xfill True
-            spacing -30
+        has hbox
+        xfill True
+        spacing -30
         add "images/Day-19/s05/minigame/minigame_clock_icon.webp" yalign 0.52
         if round(d19s05_minigame_timer) >= 10:
             text "00:{:.0f}".format(d19s05_minigame_timer) color "#FFFFFF" size 50 yalign 0.6
@@ -177,9 +177,9 @@ screen minigame_ui():
         background "#00000050"
         xsize 226
         ysize 75
-        has hbox:
-            xfill True
-            spacing 10
+        has hbox
+        xfill True
+        spacing 10
         if d19s05_player_hp == 0:
             add "images/Day-19/s05/minigame/minigame_no_heart_icon.webp" yalign 0.5
         elif d19s05_player_hp >= 1:
@@ -199,10 +199,10 @@ screen minigame_ui():
             xalign 0.99
             yalign 0.93
             spacing 5
-            text ("Multiplier: [d19s05_score_multiplier]") color "#FFFFFF" xanchor 1.0 xalign 1.0
-            text ("Score: [d19s05_minigame_score]") color "#FFFFFF" xanchor 1.0 xalign 1.0
-            text ("Difficulty: [d19s05_difficulty]") color "#FFFFFF" xanchor 1.0 xalign 1.0
-            text ("Step: [d19s05_step]") color "#FFFFFF" xanchor 1.0 xalign 1.0
+            text ("Multiplier: [d19s05_score_multiplier]") color "#FFFFFF" xalign 1.0
+            text ("Score: [d19s05_minigame_score]") color "#FFFFFF" xalign 1.0
+            text ("Difficulty: [d19s05_difficulty]") color "#FFFFFF" xalign 1.0
+            text ("Step: [d19s05_step]") color "#FFFFFF" xalign 1.0
 
     vbox:
         xalign 1.0
@@ -214,7 +214,6 @@ screen minigame_ui():
                 outlines [ (absolute(1), "#000", 0, 0) ]
                 size 45
             action (Jump("d19s05_skip_minigame"), Hide("minigame_screen"))
-            xanchor 1.0
             xalign 1.0
             if config.developer is True:
                 keysym 'K_s'
@@ -229,5 +228,4 @@ transform minigame_low_hp():
         linear 1.0 alpha 0.1
         linear 1.0 alpha 0.3
         repeat
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

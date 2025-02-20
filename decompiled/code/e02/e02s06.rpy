@@ -875,5 +875,4 @@ label e02s06_end:
 
     $ renpy.music.set_volume(0.2, 3.0, "music" )
     jump e02s05_menu
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

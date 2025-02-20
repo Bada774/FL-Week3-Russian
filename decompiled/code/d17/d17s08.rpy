@@ -67,7 +67,7 @@ label d17s08:
     play voice2 mc_no_nono1 noloop
     if love_lc is True:
         mc "Don't worry about it. I love you, and I enjoy every moment we're together."
-    elif True:
+    else:
         mc "Don't worry about it. I enjoy every moment we're together. We don't have to rush things."
     scene d17s08-1-2 mc-lc-talk1-2_c3 with dissolve
     play voice3 lydia_thinking noloop
@@ -133,7 +133,7 @@ label d17s08:
             play voice2 mc_happy_a1 noloop
             mc "It was no big deal, really. The person who walked by is a friend of mine and wouldn't say anything to anyone."
             mc "Still, for the person I was with - the situation went from relaxed and freeing to scary in an instant."
-        elif True:
+        else:
             scene d17s08-1-3 mc-lc-talk1-3_c3 with dissolve
             play voice2 mc_thinking_hmm2 noloop
             mc "So, a couple of the girls{w} - sorry - women that I've been with have enjoyed taking risks like that in public."
@@ -210,7 +210,7 @@ label d17s08:
         scene d17s08-1-3 mc-lc-talk1-3_c3 with dissolve
         play voice2 mc_thinking_emm1 noloop
         mc "That was kinda different. They knew they had an audience there."
-    elif True:
+    else:
         scene d17s08-1-3 mc-lc-talk1-3_c3 with dissolve
         play voice2 mc_thinking_hmm2 noloop
         mc "I can't speak for everyone, but I can tell you what I did."
@@ -346,7 +346,7 @@ label replay_d17s08:
         play voice2 mc_yes_yeah8 noloop
         if persistent.is_special is True:
             mc "I mean, we could just wait for Lydia to get back if you want-"
-        elif True:
+        else:
             mc "Yeah, probably don't want Lydia to know about us just yet."
         scene d17s08-25 mc-sy-kneel1_c3 with dissolve
         play voice3 fshhh noloop
@@ -406,7 +406,7 @@ label replay_d17s08:
         scene d17s08-a12 with dissolve
         if persistent.is_special is True:
             mc "You are absolutely amazing, sis."
-        elif True:
+        else:
             mc "You are absolutely amazing."
         play sound2 sfx_handjob_cream1
         scene d17s08-a11-f with dissolve
@@ -476,7 +476,7 @@ label replay_d17s08:
         call add_points (d17s08_points) from _call_add_points_11
         play voice3 stacy_oh2 noloop
         sy "Oh, look at that, we have got [d17s08_points] points for..."
-    elif True:
+    else:
         scene d17s08-33 mc-sy-leave-talk3_c1 with dissolve
         play voice3 stacy_mmm1 noloop
         sy "So, how's things?"
@@ -519,7 +519,7 @@ label replay_d17s08:
         scene d17s08-31 mc-sy-leave-talk1_c1 with dissolve
         if is_antagonist_mode is False:
             mct "Oh, right. Fetish Locator might be listening."
-        elif True:
+        else:
             mct "Oh, right. Retention might be listening."
         play voice2 mc_yes_yeah7 noloop
         mc "Right, that lost... dog. I didn't realize it had a name."
@@ -542,7 +542,7 @@ label replay_d17s08:
     play voice2 mc_scared_huh3 noloop
     if persistent.is_special is True:
         mc "Uh, sis. My girlfriend's coming this way."
-    elif True:
+    else:
         mc "Uh, Stacy. Lydia's coming this way."
     stop sound4 fadeout 1.0
     scene d17s08-35 mc-lc-enter1_c1 with dissolve
@@ -561,7 +561,7 @@ label replay_d17s08:
         lc "Damn, you're so fucking sexy."
         scene d17s08-36 mc-lc-enter2_c1 with dissolve
         lc "If I wasn't so fucking tired I would throw you on the bed and have my way with you."
-    elif True:
+    else:
         play voice3 lydia_lydwow noloop
         lc "Wow. You are so incredibly sexy right now."
         scene d17s08-36 mc-lc-enter2_c1 with dissolve
@@ -650,7 +650,7 @@ label replay_d17s08:
         mc "Rest well, beautiful."
         play voice3 lydia_morningoh noloop
         lc "Oh. {w}Thank you."
-    elif True:
+    else:
         play voice2 mc_yes_aga2 noloop
         mc "Rest well, beautiful."
     scene d17s08-41 mc-lc-getting-bed2_c1 with dissolve
@@ -666,5 +666,4 @@ label replay_d17s08:
     stop music fadeout 4.0
 
     jump d18s01
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

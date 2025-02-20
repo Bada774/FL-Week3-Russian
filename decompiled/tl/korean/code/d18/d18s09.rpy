@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s09_71d88fc7:
 
 
@@ -1047,5 +1045,4 @@ translate korean strings:
 
     old "Leave Her Wanting More"
     new "더 바라게 두고 떠난다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

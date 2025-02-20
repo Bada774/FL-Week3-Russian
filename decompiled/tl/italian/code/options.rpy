@@ -1,5 +1,3 @@
-
-
 translate italian strings:
 
 
@@ -9,5 +7,4 @@ translate italian strings:
 
     old "Created by ViNovella Games\n\nJoin us on {a=https://discord.gg/efmQRNtFks}Discord{/a}"
     new "Creato da ViNovella Games\n\nEntra in {a=https://discord.gg/efmQRNtFks}Discord{/a}"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

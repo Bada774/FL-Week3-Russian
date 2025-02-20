@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -82,4 +80,15 @@ translate turkish strings:
     old "Get free DLC containing 6 endings from Steam"
     new "Steam'den 6 son içeren ücretsiz DLC alın"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate turkish strings:
+
+
+    old "Buy Taboo University on Steam"
+    new "Taboo University ürününü Steam'den satın alın"
+
+translate turkish strings:
+
+
+    old "Get DLC-2 containing 6 additional endings from Steam"
+    new "Steam'den 6 ek son içeren DLC-2'yi edinin"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

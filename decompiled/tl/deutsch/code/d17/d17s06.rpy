@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d17s06_2e4fe018:
 
 
@@ -105,5 +103,4 @@ translate deutsch strings:
 
     old "Go back to studying"
     new "Weiter lernen"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

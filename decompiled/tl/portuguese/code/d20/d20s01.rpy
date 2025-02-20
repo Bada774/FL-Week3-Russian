@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d20s01_ab231225:
 
 
@@ -567,5 +565,4 @@ translate portuguese strings:
 
     old "Do you want Stacy to pee on you?"
     new "Quer que a Stacy urine em você?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

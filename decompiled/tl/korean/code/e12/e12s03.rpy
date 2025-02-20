@@ -1,6 +1,4 @@
 
-
-
 translate korean e12s03_92d88967:
 
 
@@ -1217,5 +1215,4 @@ translate korean e12s03_sex_4a53788f:
 
 
     vw "Oh quiet you. Just hold me and let's watch the sun set before I go make dinner."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

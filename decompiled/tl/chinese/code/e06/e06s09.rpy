@@ -1,6 +1,4 @@
 
-
-
 translate chinese e06s09_c22452ba:
 
 
@@ -1188,8 +1186,6 @@ translate chinese strings:
     old "Check on Her"
     new "看看她"
 
-
-
 translate chinese strings:
 
 
@@ -1197,19 +1193,14 @@ translate chinese strings:
     new "那天晚上晚些时候"
 
 
-
-
 translate chinese e06s09_deep_450db347:
 
 
     lc "啊，好深！"
-
-
 
 translate chinese strings:
 
 
     old "You have finished playing Ending #06!"
     new "你已经完成了结局#06!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

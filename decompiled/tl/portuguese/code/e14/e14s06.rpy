@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e14s06_8e4b01e8:
 
 
@@ -2135,5 +2133,4 @@ translate portuguese strings:
 
     old "I'm definitely more of a top"
     new "Eu com certeza prefiro ficar por cima"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

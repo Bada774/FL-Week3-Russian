@@ -1,6 +1,4 @@
 
-
-
 translate turkish d16s02_0eb8c9ee:
 
 
@@ -265,5 +263,4 @@ translate turkish strings:
 
     old "Not right now"
     new "Şu anda değil"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

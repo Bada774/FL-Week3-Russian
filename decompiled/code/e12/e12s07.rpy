@@ -125,7 +125,7 @@ label e12s07_sex:
     scene e12s07-14-mc-aw-vw-looking-at-her with dissolve
     if persistent.is_special is True:
         aw "The man who helped fix the fractures between my mom and me."
-    elif True:
+    else:
         aw "The man who helped fix the fracture between Vanessa and me."
     scene e12s07-15-mc-sheepish with dissolve
     play voice2 d1s5_mchappy noloop volume 1.8
@@ -205,7 +205,7 @@ label e12s07_sex:
     play voice4 chloe_happy_mmm noloop
     if persistent.is_special is True:
         vw "What kind of slutty mother helped you turn out so horny like this?"
-    elif True:
+    else:
         vw "What kind of shameless woman helped you turn out into such a slut like this?"
     scene e12s07-38-aw-talking with dissolve
     play voice3 kanya_disappointed_ohh noloop
@@ -251,7 +251,7 @@ label e12s07_sex:
     aw "You know I'm a firecracker. Plus... you feel even bigger than before."
     if persistent.is_special is True:
         aw "Did breeding my mom make your dick bigger?"
-    elif True:
+    else:
         aw "Did breeding Vanessa make your dick bigger?"
     scene e12s07-a45-1 mc-vw-aw-standing-sex-anim-01 with dissolve
     play voice2 mc_arrogant_hm1 noloop
@@ -285,7 +285,7 @@ label e12s07_sex:
     vw "Give it to her [mcname]!"
     if persistent.is_special is True:
         vw "Give my baby a baby of her own."
-    elif True:
+    else:
         vw "Give my favorite girl what she wants."
     scene e12s07-a45-3-f with dissolve
     pause
@@ -333,7 +333,7 @@ label e12s07_sex:
     play voice3 kanya_arrogant_hm noloop
     if persistent.is_special is True:
         aw "I have to catch up with Mom after all."
-    elif True:
+    else:
         aw "I gotta catch up with Vanessa after all."
     play voice4 chloe_arrogant_heh1 noloop
     vw "Allison, you know it's not a competition."
@@ -384,7 +384,7 @@ label e12s07_lounge:
     scene e12s07-a68-2-f with dissolve
     if persistent.is_special is True:
         mc "Nothing like a day at the beach with the sexiest mother and daughter slurping all over my cock."
-    elif True:
+    else:
         mc "Nothing like a day at the beach with two sexy redheads slurping all over my cock."
     pause
     scene e12s07-69-mc-groaning with dissolve
@@ -407,7 +407,7 @@ label e12s07_lounge:
         vw "You make your mom so proud, tending to your man like that."
         play voice3 kanya_sex_closedmoan2 noloop
         aw "Kiss me, Mom!"
-    elif True:
+    else:
         vw "That's it, Allison. Keep sucking him try. There's more where that comes from."
         play voice3 kanya_sex_closedmoan2 noloop
         aw "Now kiss me you kinky bitch."
@@ -473,7 +473,7 @@ label e12s07_footjob:
     play voice3 kanya_no_simple2 noloop
     if persistent.is_special is True:
         aw "It's the truth Mom. And I always get turned on, having you on your back."
-    elif True:
+    else:
         aw "Nothing embarrassing about it, Vanessa. I love having you all splayed out like this."
     scene e12s07-84-04-aw-talking with dissolve
     aw "I think someone else does too."
@@ -534,7 +534,7 @@ label e12s07_watersports:
     play voice3 kanya_happy_yeah noloop
     if persistent.is_special is True:
         aw "Fuck yeah. Come on, I want to feel your piss all over me and Mom!"
-    elif True:
+    else:
         aw "Fuck yeah. Come on, [mcname]. Spill your warm pee all over us!"
     play voice2 d1s5_orgasm noloop
     play sound sfx_piss_loop2 loop
@@ -594,7 +594,7 @@ label e12s07_continue:
         scene e12s07-111-02-vw-talking with dissolve
         play voice4 chloe_disappointed_ehh4 noloop
         vw "Awww. You're such a good girl."
-    elif True:
+    else:
         aw "Just like you did to Vanessa."
         scene e12s07-111-02-vw-talking with dissolve
         play voice4 chloe_disappointed_ehh4 noloop
@@ -630,7 +630,7 @@ label e12s07_continue:
         scene e12s07-a112-2-f with dissolve
         mc "Or two or three."
         aw "Mmmhmm! Yes. Right there!"
-    elif True:
+    else:
         aw "*hungry moans* With you and Vanessa with me-"
         aw "I don't need anything else."
         pause
@@ -675,7 +675,7 @@ label e12s07_continue:
     scene e12s07-a115-3-f with dissolve
     if persistent.is_special is True:
         aw "Yeah come on, [mcname]! You know the Webb women are tough."
-    elif True:
+    else:
         aw "Yeah come on, [mcname]! Don't go easy on this horny slut now just because you knocked her up."
     scene e12s07-a115-4-f with dissolve
     aw "*hungry slurping*"
@@ -776,7 +776,7 @@ label e12s07_continue:
     vw "Cum inside. Breed her, [mcname]!"
     if persistent.is_special is True:
         aw "Impregnate me in front of my mom!"
-    elif True:
+    else:
         aw "Shoot your load inside me while Vanessa watches."
     pause
     scene e12s07-a127-3-f with dissolve
@@ -805,7 +805,7 @@ label e12s07_continue:
         vw "Like mother like daughter."
         play voice3 allison_laugh2 noloop
         aw "Hehehe."
-    elif True:
+    else:
         vw "So much cum."
     play voice4 [chloe_old_sucking1, chloe_old_sucking2]
     scene e12s07-131-aw-vw-muah with dissolve
@@ -848,7 +848,7 @@ label e12s07_continue:
         scene e12s07-138-aw-vw-relaxing with dissolve
         play voice4 vanessa_laugh2 noloop
         vw "Haha. I don't know."
-    elif True:
+    else:
         aw "You're going to try to fill up the bungalow with a red legion, Vanessa?"
         scene e12s07-138-aw-vw-relaxing with dissolve
         play voice4 vanessa_laugh2 noloop
@@ -878,5 +878,4 @@ label e12s07_continue:
     stop sound fadeout 1.0
 
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

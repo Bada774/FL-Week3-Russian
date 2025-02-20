@@ -1,6 +1,4 @@
 
-
-
 translate italian e17s05_a7755d10:
 
 
@@ -1235,5 +1233,4 @@ translate italian strings:
 
     old "Many Days Later"
     new "Many Days Later"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

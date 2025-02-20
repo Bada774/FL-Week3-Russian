@@ -4,29 +4,21 @@
 
 
 
-init -498 screen fl_extra():
+init -498 screen cg_gallery(page=1):
     tag menu
-
-
-    use game_menu("Bonus Content")
-
-    use coming_soon
-
-init -498 screen cg_gallery():
-    tag menu
-    default gallery_page = 1
+    default gallery_page = page
 
     use gallery(_("CG Gallery" ), "cg"  , gallery_page)
 
-init -498 screen replay_room():
+init -498 screen replay_room(page=1):
     tag menu
-    default gallery_page = 1
+    default gallery_page = page
 
     use gallery(_("Replay Room"), "scene", gallery_page)
 
-init -498 screen extra():
+init -498 screen extra(page=1):
     tag menu
-    default gallery_page = 1
+    default gallery_page = page
 
     use gallery(_("Bonus Content" ), "extra", gallery_page)
 
@@ -46,6 +38,19 @@ init -498 screen gallery(title, what, page):
                 xpos 1335
                 text __("Page [page]") color gui.interface_text_color
 
+            if config.developer is True:
+                hbox:
+                    style_prefix "gallery_lock_unlock"
+                    imagebutton:
+                        auto "gui/others/gallery_unlock_%s.png"
+                        action Function(unlock_everything, what)
+                        sensitive not gallery_all_unlocked(what)
+                    text "  |  " yalign 0.5
+                    imagebutton:
+                        auto "gui/others/gallery_lock_%s.png"
+                        action Function(lock_everything, what)
+                        sensitive not gallery_all_locked(what)
+
             button:
                 style style.button["menu_hint"]
                 xanchor 0.0
@@ -62,12 +67,15 @@ init -498 screen gallery(title, what, page):
                 yalign 0.5
                 spacing gui.slot_spacing
 
-                for (slot, title, hint) in data:
+                for (slot, title, hint, thumbnail) in data:
                     if slot:
                         if is_gallery_slot_unlocked(what, slot):
                             button:
                                 vbox:
-                                    add "images/extended/{}/{}.webp".format(what, slot) xalign 0.5
+                                    if thumbnail is None:
+                                        add "images/extended/{}/{}.webp".format(what, slot) xalign 0.5
+                                    else:
+                                        add thumbnail at thumbnail_transform
                                     text title style "slot_name_text" color gui.interface_text_color hover_color gui.hover_color
                                     if persistent.gallery_hint:
                                         text hint style "slot_time_text"
@@ -90,6 +98,18 @@ init -498 screen gallery(title, what, page):
                                         action ShowMenu("bonus_cherry_popped")
                                     elif slot == "dlc01n01":
                                         action ShowMenu("bonus_horny_meme")
+                                    elif slot == "dlc02n01":
+                                        action ShowMenu("spit_on_that_thang_meme")
+                                    elif slot == "e15s01n01":
+                                        action ShowMenu("mes_leo_meme")
+                                    elif slot == "e15s01n02":
+                                        action ShowMenu("hard_to_swallow_pills_meme")
+                                    elif slot == "e05s01n01":
+                                        action ShowMenu("choo_choo_meme")
+                                    elif slot == "dlc02n02":
+                                        action ShowMenu("londyn_twice_meme")
+                                    elif slot == "e16s01n01":
+                                        action ShowMenu("mc_drake_meme")
                                     else:
                                         action extra_gallery.Action(slot)
                                 else:
@@ -130,32 +150,22 @@ init -498 screen gallery(title, what, page):
                 else:
                     textbutton _(">") action NullAction()
 
+transform 2 thumbnail_transform:
+    xsize 384 ysize 216 xalign 0.5
+
 init 2 style hint_text:
     selected_color gui.interface_text_color
     idle_color gui.idle_color
     hover_color gui.hover_color
     selected_hover_color gui.hover_color
 
-init -498 screen coming_soon():
-
-    vbox:
-        style_prefix "coming_soon"
-
-        text (_("Coming Soon"))
-
-init 2 style coming_soon_vbox:
-    xalign 0.7
-    yalign 0.5
-
-init 2 style coming_soon_text:
-    size 150
-    color gui.accent_color
-    font gui.interface_text_font
+init 2 style gallery_lock_unlock_hbox:
+    xalign 0.5
+    spacing 5
 
 
 
 init -498 screen jump_replay():
 
     timer 0.001 action (Hide("jump_replay"), Replay(scene_gallery["lc_video"]["label"]))
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

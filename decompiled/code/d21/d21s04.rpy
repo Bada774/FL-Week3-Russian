@@ -65,7 +65,7 @@ label d21s04:
     play voice2 mc_disappointed_ah2 noloop
     if d21s03_statement_1 is True or d21s03_statement_2 is True:
         mc "I think I just signed her prison sentence."
-    elif True:
+    else:
         mc "After everything, I still couldn't go against her."
     scene d21s04-14-mh-talk-mc with dissolve
     play voice3 dahlia_thinking_hmm1 noloop
@@ -229,7 +229,7 @@ label d21s04:
     if d19s03_watersports is True:
         mh "You already know about my interest in certain...{i}watersports{/i}."
         mh "Beyond that, I also like to take a submissive role in bed. But I would actually consider myself a switch."
-    elif True:
+    else:
         mh "Well, I generally like to take a submissive role in bed, but I would actually consider myself a switch."
     scene d21s04-63-mc-talk-mh with dissolve
     play voice2 mc_thinking_oh1 noloop
@@ -244,7 +244,7 @@ label d21s04:
         scene d21s04-70-mh-talk-mc with dissolve
         play voice3 dahlia_disappointed_hmm2 noloop
         mh "{size=23}Only if you want me to be in that position, {i}Sir{/i}.{/size}"
-    elif True:
+    else:
         scene d21s04-65-mc-talk-mh with dissolve
         mc "Have you ever wanted to be dominant with me?"
         scene d21s04-66-mh-talk-mc with dissolve
@@ -289,7 +289,7 @@ label d21s04:
     mc "...But I'm assuming there's more to it?"
     if d21s04_love_lc is False:
         jump d21s04_mh_end_choice
-    elif True:
+    else:
         scene d21s04-80-if-mh-talk-mc with dissolve
         play voice3 dahlia_thinking_hmm1 noloop
         mh "Nevermind. I'm just getting sentimental. Looks like the spice is getting to me instead of you."
@@ -374,7 +374,7 @@ label ending_05_return hide:
         elif d17s05_mh_op is True:
             $ d21s04_mh_end = 3
             jump d21s04_mh_op_end
-        elif True:
+        else:
             $ d21s04_mh_end = 1
             jump d21s04_mh_solo_end
     if d21s04_is_lyssa_solo_available or d21s04_is_lyssa_stacy_available or d21s04_is_lyssa_oliver_available:
@@ -462,11 +462,11 @@ label d21s04_mcgoeswithmh:
     mh "Really? Are you really ready to leave all your other girls behind?"
     scene d21s04-107-mc-talk-mh with dissolve
     play voice2 mc_yes_yes1 noloop
-    if d21s04_mh_end is 1:
+    if d21s04_mh_end == 1:
         mc "Yes. For you, I'd do it in a heartbeat."
-    elif d21s04_mh_end is 2:
+    elif d21s04_mh_end == 2:
         mc "Yes. For you and Stacy, I'd do anything."
-    elif d21s04_mh_end is 3:
+    elif d21s04_mh_end == 3:
         mc "Yes. For you, I'd do anything."
     scene d21s04-108-mc-talk-mh with dissolve
     mc "I love you, Lyssa."
@@ -479,13 +479,13 @@ label d21s04_mcgoeswithmh:
 
     stop sound2 fadeout 3.0
     $ renpy.music.set_volume(1.0, 10.0, "sound2" )
-    if d21s04_mh_end is 1:
+    if d21s04_mh_end == 1:
         jump ending_02
-    elif d21s04_mh_end is 2:
+    elif d21s04_mh_end == 2:
         jump ending_03
-    elif d21s04_mh_end is 3:
+    elif d21s04_mh_end == 3:
         jump ending_05
-    elif True:
+    else:
         jump d21s04_end
 
 label d21s04_end:
@@ -494,5 +494,4 @@ label d21s04_end:
     $ renpy.music.set_volume(1.0, 10.0, "sound2" )
     stop music fadeout 6.0
     jump d21s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

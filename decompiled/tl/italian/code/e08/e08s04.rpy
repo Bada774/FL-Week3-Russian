@@ -1,6 +1,4 @@
 
-
-
 translate italian e08s04_623c1c05:
 
 
@@ -1879,5 +1877,4 @@ translate italian strings:
 
     old "Don't dunk her head in the water"
     new "Non affondare la sua testa nell'acqua"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

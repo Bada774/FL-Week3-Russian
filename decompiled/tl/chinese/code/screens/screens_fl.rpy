@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -231,10 +229,6 @@ translate chinese strings:
     new "跳过回顾"
 
 
-
-translate chinese strings:
-
-
     old "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
     new "4. 启动一次游戏后，你可以把备份的\"FetishLocator\"文件放回原位置，以获得上周的游戏存档。"
 
@@ -245,10 +239,6 @@ translate chinese strings:
 
     old "{u}Done{/u}"
     new "{u}完成{/u}"
-
-
-
-translate chinese strings:
 
 
     old "AmRose Romance or Slave route?"
@@ -279,16 +269,8 @@ translate chinese strings:
     new "你把密码给哈娜了吗？"
 
 
-
-translate chinese strings:
-
-
     old "RETURN"
     new "返回"
-
-
-
-translate chinese strings:
 
 
     old "Skip Recap\nof Week-1"
@@ -297,10 +279,6 @@ translate chinese strings:
 
     old "Skip Recap\nof Week-2"
     new "跳过\n第2周的回顾"
-
-
-
-translate chinese strings:
 
 
     old "Continue playing"
@@ -314,4 +292,67 @@ translate chinese strings:
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "如果您决定继续游戏，则可能无法载入第二周的存档。您不会再收到通知了。确定继续吗？"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+    old "Sync your saves using Ren'Py Sync server"
+    new "使用'Ren'Py同步服务器'同步保存"
+
+
+    old "Upload Saves"
+    new "上传存档"
+
+
+    old "Download Saves"
+    new "下载存档"
+
+
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}在Steam上获取《禁忌大学：第一册》{/u}"
+
+
+    old "Touch input supported"
+    new "支持触摸输入"
+
+
+    old "Navigation"
+    new "导航"
+
+
+    old "Pause Menu"
+    new "暂停菜单"
+
+
+    old "Quick Save"
+    new "快速保存"
+
+
+    old "Roll Back"
+    new "回滚"
+
+
+    old "{b}A{/b} - Select"
+    new "A - 选择"
+
+
+    old "{b}B{/b} - Go Back"
+    new "B - 返回"
+
+
+    old "{b}X{/b} - Skip"
+    new "X - 跳过"
+
+
+    old "{b}Y{/b} - Hide UI"
+    new "Y - 隐藏用户界面"
+
+
+    old "Roll Forward"
+    new "向前滚动"
+
+
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "您可以在 “帮助” 菜单中找到该布局"
+
+
+    old "CLOSE"
+    new "关闭"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese e04s06_5cf121d6:
 
 
@@ -1683,5 +1681,4 @@ translate chinese strings:
 
     old "No need. I proved my point."
     new "不需要。我已经证明了我的观点"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

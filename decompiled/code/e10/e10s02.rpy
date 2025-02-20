@@ -246,7 +246,7 @@ label e10s02:
         play voice2 mc_angry_errr2 noloop
         mc "What the hell, Min?! You're the strongest person that I know. You'd cut a birthday cake with a battle axe."
         mc "It makes no sense that someone - let alone your own flesh & blood - would disrespect your opinion and tell you-"
-    elif True:
+    else:
         scene e10s02-21 mc-mes-md-nb-mm-talk1_c3 with dissolve
         play voice2 mc_angry_errr2 noloop
         mc "Ask her about High Frequency Trading! Ask her about Sentimental Analysis of Social Media! Ask her about what she wants to do with her life!"
@@ -306,5 +306,4 @@ label e10s02:
     stop sound2 fadeout 3.0
     stop music fadeout 3.0
     jump e10s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

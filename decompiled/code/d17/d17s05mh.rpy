@@ -107,7 +107,7 @@ label d17s05mh:
         scene d17s05a-15 mh-lyssa-solo with dissolve
         play voice2 mc_thinking_oh1 noloop
         mc "Oh? And how {i}exactly{/i} weren't you patient, hm?"
-    elif True:
+    else:
         scene d17s05a-14 mh-lyssa-solo with dissolve
         mh "God, I missed you so much."
     scene d17s05a-16 mh-lyssa-solo with dissolve
@@ -129,7 +129,7 @@ label d17s05mh:
         scene d17s05a-19 mh-lyssa-solo with dissolve
         play voice3 dahlia_sex_closedmoan2 noloop
         mh "Please, Sir."
-    elif True:
+    else:
         mh "I've really missed you. It's not as fun as it used to be to have the house all to myself."
         scene d17s05a-20 mh-lyssa-solo with dissolve
         play voice2 d9s2_mcyes noloop volume 1.8
@@ -220,7 +220,7 @@ label d17s05mh:
         scene d17s05a-40 mh-lyssa-solo with dissolve
         play voice2 d1s5_mcthinks noloop volume 1.5
         mc "But, I suppose you deserve a reward."
-    elif True:
+    else:
         scene d17s05a-24 mh-lyssa-solo with dissolve
         play voice2 mc_scared_oh3 noloop
         mc "I can feel how hard you're right now."
@@ -316,7 +316,7 @@ label d17s05mh:
             pause
             if date_mh_bdsm is True:
                 mh "Sir, I— I'm gonna cum."
-            elif True:
+            else:
                 mh "[mcname], I— I'm gonna cum."
 
     menu:
@@ -328,13 +328,13 @@ label d17s05mh:
             stop voice3 fadeout 1.0
             if d17s05_mh_bj is True:
                 scene d17s05a-60 mh-lyssa-solo with dissolve
-            elif True:
+            else:
                 scene d17s05a-49 mh-lyssa-solo with dissolve
             $ Lovense.vibrate(2)
             play voice2 mc_happy_hah2 noloop
             if date_mh_bdsm is True:
                 mc "Not yet. Not until I say so."
-            elif True:
+            else:
                 mc "Not yet. Just wait a bit more."
         "Let Lyssa cum"(hint="d17s05mhm02c02"):
 
@@ -347,7 +347,7 @@ label d17s05mh:
             if d17s05_mh_bj is True:
                 scene d17s05a-59 mh-lyssa-solo with hpunch
                 pause
-            elif True:
+            else:
                 scene d17s05a-50 mh-lyssa-solo with hpunch
                 pause
 
@@ -529,7 +529,7 @@ label d17s05mh_cuddle:
     $ renpy.end_replay()
     if date_mh_bdsm is True:
         $ unlock_gallery_slot("scene", "d17s05b")
-    elif True:
+    else:
         $ unlock_gallery_slot("scene", "d17s05r")
     $ renpy.music.set_volume(0.25, 4.0, "music")
     $ Lovense.vibrate(1)
@@ -538,7 +538,7 @@ label d17s05mh_cuddle:
     mh "I've been thinking."
     if date_mh_bdsm is True:
         mh "I think it might be fun to see if we could incorporate some more toys next time."
-    elif True:
+    else:
         mh "I think it might be fun to see if we could incorporate some toys next time."
     scene d17s05a-83 mh-lyssa-solo with dissolve
     play voice2 mc_thinking_oh1 noloop
@@ -564,7 +564,7 @@ label d17s05mh_cuddle:
         play voice2 mc_yes_yes3 noloop
         mc "Yes, that was very apparent."
         mc "And yeah, I enjoyed it too."
-    elif True:
+    else:
         scene d17s05a-91 mh-lyssa-solo with dissolve
     play voice2 mc_thinking_hmm4 noloop
     mc "I'm open to toys. Though I'm not really sure what exactly."
@@ -608,7 +608,7 @@ label d17s05mh_cuddle:
         scene d17s05a-97 mh-lyssa-solo with dissolve
         play voice2 mc_yes_yeah1 noloop
         mc "I love you too."
-    elif True:
+    else:
         mct "I wonder what she has in mind...?"
         scene d17s05a-95 mh-lyssa-solo with dissolve
         play voice2 mc_yes_sure1 noloop
@@ -635,5 +635,4 @@ label d17s05mh_cuddle:
 
     stop music fadeout 4.0
     jump d17s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

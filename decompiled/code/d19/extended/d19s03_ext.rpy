@@ -73,7 +73,7 @@ label d19s03_ext:
     play voice5 lissa_hey_muffled noloop
     if d17s05_mh_sy is True:
         mh "Hey, Stacy. It's me, Lyssa."
-    elif True:
+    else:
         mh "It's Lyssa, the landlady. I just wanted to hop by and say hi."
     scene d19s03-04 gang-shares-relieved-look_c1 with dissolve
     pause
@@ -93,7 +93,7 @@ label d19s03_ext:
         mh "I'm great, thank you. I was wondering about you and [mcname] as well."
         scene d19s03-08 mh-points-mc-tells-he-didnt-answer-messages_c1 with dissolve
         mh "[mcname] wasn't answering my messages, so I decided to come over and see if you knew something."
-    elif True:
+    else:
         sy "Oh! Lyssa! Come in."
         scene d19s03-07 mh-enters-apartment_c1 with dissolve
         play voice5 lissa_thinking noloop
@@ -112,7 +112,7 @@ label d19s03_ext:
     sy "That's an understatement."
     if cage_ntr is True:
         sy "[mcname] got kidnapped by a crazy psycho!"
-    elif True:
+    else:
         sy "[mcname] got arrested!"
     scene d19s03-10 mh-doesnt-know-what-to-say_c1 with dissolve
     play voice5 lissa_oh noloop
@@ -129,7 +129,7 @@ label d19s03_ext:
     play voice4 stacy_mmm2 noloop
     if d17s05_mh_sy is True:
         sy "Would love to hang back and talk with you some more, but there's a thing we have to go to."
-    elif True:
+    else:
         sy "Hate to run out on you like this, but there's a thing we have to go to."
     scene d19s03-13 sy-grabs-mc-arm-jokes_c1 with dissolve
     sy "But I'm sure [mcname] can keep you company though!"
@@ -179,7 +179,7 @@ label d19s03_bj:
     play voice3 lissa_moan2 noloop
     if cage_ntr is True:
         mh "So, {i}kidnapped{/i}, huh?"
-    elif True:
+    else:
         mh "So, {i}arrested{/i}, huh?"
     play voice2 mc_arrogant_hm1 noloop
     mc "You're surprisingly calm about this. I thought you'd be more...alarmed."
@@ -244,7 +244,7 @@ label d19s03_bj:
         mh "I want to taste it, Sir. Please let me taste it?"
         play voice2 mc_thinking_mmm2 noloop
         mc "Oh? Alright. Get on your knees."
-    elif True:
+    else:
         mh "It feels like I haven't tasted you in so long."
     scene d19s03-33 mh-gets-on-knees_c1 with dissolve
     pause
@@ -293,7 +293,7 @@ label d19s03_bj:
         scene d19s03-38 mc-tils-mh-head-up-makes-choice_c1 with dissolve
         play voice2 mc_arrogant_tsktsk noloop
         mc "Tsk, tsk, so needy."
-    elif True:
+    else:
         mh "I want to feel you cum down my throat, [mcname]!"
         scene d19s03-38 mc-tils-mh-head-up-makes-choice_c1 with dissolve
     menu:
@@ -307,7 +307,7 @@ label d19s03_bj:
                 play voice3 nora_yes noloop
                 scene d19s03-40 mh-nods-obediently_c1 with dissolve
                 mh "Yes, Sir."
-            elif True:
+            else:
                 mc "I'll hold your head down, slap my thigh if it's too much, alright?"
                 scene d19s03-40 mh-nods-obediently_c1 with dissolve
                 play voice3 lissa_ugu noloop volume 1.3
@@ -348,7 +348,7 @@ label d19s03_bj:
             play voice2 mc_happy_oof2 noloop
             if date_mh_bdsm is True:
                 mc "Good girl. You took it all."
-            elif True:
+            else:
                 mc "God, you look so beautiful right now."
             scene d19s03-46b mc-tells-mh-get-on-bed_c1 with dissolve
             mc "C'mon. Get in the bed. I want to you up today."
@@ -361,7 +361,7 @@ label d19s03_bj:
                 play voice2 shhh noloop
                 mc "Shh. You'll take my cum, but not down your throat, not today."
                 mc "Get in the bed."
-            elif True:
+            else:
                 play voice2 mc_disappointed_ehh2 noloop
                 mc "I want to say yes so bad, but no."
                 mc "Get in the bed. I'm going to fill you up today."
@@ -516,7 +516,7 @@ label d19s03_sex:
 
     if fl_watersports is True:
         jump d19s03_watersports
-    elif True:
+    else:
         $ renpy.end_replay()
         jump d19s03_talk
 
@@ -532,7 +532,7 @@ label d19s03_watersports:
     play voice2 mc_thinking_oh1 noloop
     if date_mh_bdsm is True:
         mc "Oh? Well that's not what Allison told me."
-    elif True:
+    else:
         mc "Oh? Well that's not what Allison tol— Uhm."
     scene d19s03-62 mh-smirks_c1 with dissolve
     play voice3 dahlia_old_upset noloop
@@ -570,7 +570,7 @@ label d19s03_watersports:
     play voice3 dahlia_thinking_hmm3 noloop
     if date_mh_bdsm is True:
         mh "Can I take that as interest, Sir?"
-    elif True:
+    else:
         mh "Can I take that as interest?"
     play voice2 mc_yes_yes3 noloop
     mc "Oh yes, you definitely can."
@@ -580,7 +580,7 @@ label d19s03_watersports:
     if date_mh_bdsm is False:
         scene d19s03-68 mh-cheeky-asking-mc-can-go-again_c1 with dissolve
         mc "If you want."
-    elif True:
+    else:
         scene d19s03-68 mh-cheeky-asking-mc-can-go-again_c1 with dissolve
     $ Lovense.vibrate(2)
     play voice3 lissa_moan2 noloop
@@ -591,7 +591,7 @@ label d19s03_watersports:
     play voice2 mc_angry_errr4 noloop
     if date_mh_bdsm is True:
         mc "Don't use my words against me, Little Lady."
-    elif True:
+    else:
         mc "Don't use my words against me."
     scene d19s03-70 mc-carries-mh-bathroom_c1 with dissolve
     play voice3 cynthia_scared_oof noloop volume 0.75
@@ -614,7 +614,7 @@ label d19s03_watersports:
     mh "*Breathless* I want you to fuck me and piss inside of me. I've always wanted to do that."
     if date_mh_bdsm is True:
         mh "Please, Sir."
-    elif True:
+    else:
         mh "Please, [mcname]."
     mh "I want to feel your warmth inside of me."
     if date_mh_bdsm is True:
@@ -625,7 +625,7 @@ label d19s03_watersports:
         mh "Yes! Yes! I will."
         scene d19s03-77 mh-presents-ass-mc-prepares-enter_c1 with dissolve
         pause
-    elif True:
+    else:
         scene d19s03-77 mh-presents-ass-mc-prepares-enter_c1 with dissolve
         play voice2 mc_arrogant_heh2 noloop
         mc "Get ready then."
@@ -871,7 +871,7 @@ label d19s03_ask_mh:
     if d17s05_luvutoo is True:
         play voice2 mc_happy_a1 noloop
         mc "I love you."
-    elif True:
+    else:
         pause
 
     stop music fadeout 3.5
@@ -888,7 +888,7 @@ label d19s03_dont_ask:
     play voice2 mc_thinking_mmm4 noloop
     if d17s05_luvutoo is True:
         mc "I love you."
-    elif True:
+    else:
         mc "I really appreciate that."
     play sound maria_kiss3
     scene d19s03-103 mc-kisses-mh-forehead_c1 with dissolve
@@ -896,5 +896,4 @@ label d19s03_dont_ask:
 
     stop music fadeout 3.5
     jump d19s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

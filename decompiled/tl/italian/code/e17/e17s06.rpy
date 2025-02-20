@@ -1,6 +1,4 @@
 
-
-
 translate italian e17s06_acabb117:
 
 
@@ -1041,5 +1039,4 @@ translate italian strings:
 
     old "You have finished playing Ending #17!"
     new "You have finished playing Ending #17!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

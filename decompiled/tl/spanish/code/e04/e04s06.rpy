@@ -1,6 +1,4 @@
 
-
-
 translate spanish e04s06_5cf121d6:
 
 
@@ -1683,5 +1681,4 @@ translate spanish strings:
 
     old "No need. I proved my point."
     new "No es necesario. He demostrado mi punto."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

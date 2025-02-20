@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d19s04dw_cc0d7a3e:
 
 
@@ -553,5 +551,4 @@ translate deutsch strings:
 
     old "No..."
     new "Nein..."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -54,7 +54,7 @@ label d19s06:
     mct "How many points do I even have?"
     if d19s06_random == 3:
         scene d19s06-08 mc-looking-at-gui-points_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-09 mc-looking-phone-points_c1 with dissolve
     play voice2 mc_thinking_oh1 noloop
     mct "[fl_points] points."
@@ -103,7 +103,7 @@ label d19s06:
 
             stop music fadeout 3.0
             jump d19s07
-        elif True:
+        else:
 
             scene d19s06-14 mc-sighs_c1 with dissolve
             play voice2 mc_disappointed_ehh1 noloop
@@ -132,7 +132,7 @@ label d19s06_video_choice:
             mct "No thanks. I don't need to see that."
             if date_mes is True and date_cl is True:
                 jump d19s06_mes_text
-            elif True:
+            else:
                 stop music fadeout 3.5
                 jump d19s07
 
@@ -413,7 +413,7 @@ label d19s06_video:
     mct "All I have to do is do the same thing."
     if date_mes is False:
         scene d19s06-72 mc-fiddles-phone-more_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-05 mc-checks-phone_c1 with dissolve
     play voice2 mc_thinking_mmm2 noloop
     mct "Let's see... Alright. I got Lewald's contact info."
@@ -421,7 +421,7 @@ label d19s06_video:
 
     if date_mes is True and date_cl is True:
         jump d19s06_mes_text
-    elif True:
+    else:
         jump d19s06_lewald
 
 label d19s06_mes_text:
@@ -432,7 +432,7 @@ label d19s06_mes_text:
     call buzz from _call_buzz_39
     if d19s06_not_enough is True:
         scene d19s06-72 mc-fiddles-phone-more_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-71 mc-fiddles-phone_c1 with dissolve
     play voice2 d1s5_mchappy noloop volume 1.5
     mct "Min?"
@@ -440,7 +440,7 @@ label d19s06_mes_text:
     mes "Can you come over? I got a surprise for you."
     if d19s06_not_enough is True:
         scene d19s06-71 mc-fiddles-phone_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-72 mc-fiddles-phone-more_c1 with dissolve
     play sound sfx_message_out1
     mct "Whats the surprise?"
@@ -478,7 +478,7 @@ label d19s06_lewald:
     mct "Alright. I think I have a plan for this.{w} Time to give Professor Lewald a call."
     if d19s06_mes is True:
         scene d19s06-08 mc-min-talk1_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-75-03 mc-talking-phone_three_c1 with dissolve
     play voice3 teresa_disappointed_ehh1_phonetalk noloop
     tl "Hello?"
@@ -518,7 +518,7 @@ label d19s06_lewald:
     if d19s06_mes is True:
         $ renpy.music.set_volume(0.5, 0.7, "sound4")
         scene d19s06-10 mc-min-talk3_c2 with dissolve
-    elif True:
+    else:
         scene d19s06-75-02 mc-talking-phone_two_c1 with dissolve
     play voice2 mc_thinking_mmm4 noloop
     mc "What I am is a master of biological response, bondage, discipline, and behavioral conditioning."
@@ -579,7 +579,7 @@ label d19s06_lewald:
     if d19s06_mes is True:
         $ renpy.music.set_volume(0.5, 0.7, "sound4")
         scene d19s06-13 mc-min-sit1_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-75-01 mc-talking-phone_one_c1 with dissolve
     play voice2 mc_angry_hm1 noloop
     mc "I think you misunderstood me."
@@ -601,12 +601,12 @@ label d19s06_lewald:
     if d19s06_mes is True:
         $ renpy.music.set_volume(0.5, 0.7, "sound4")
         scene d19s06-14 mc-min-sit2_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-75-03 mc-talking-phone_three_c1 with dissolve
     play voice2 mc_thinking_hmm4 noloop
     if date_mes is True:
         mc "I've already punished Cynthia today."
-    elif True:
+    else:
         mc "I've already seen how you punished Cynthia."
     if d19s06_mes is True:
         scene d19s06-15 mc-min-sit3_c2 with dissolve
@@ -637,7 +637,7 @@ label d19s06_lewald:
     if d19s06_mes is True:
         $ renpy.music.set_volume(0.5, 0.7, "sound4")
         scene d19s06-15 mc-min-sit3_c2 with dissolve
-    elif True:
+    else:
         scene d19s06-75-04 mc-talking-phone_four_c1 with dissolve
     play voice2 mc_arrogant_heh1 noloop
     mc "I look forward to seeing you tomorrow, Theresa."
@@ -649,14 +649,14 @@ label d19s06_lewald:
     if d19s06_mes is True:
         $ renpy.music.set_volume(0.5, 0.7, "sound4")
         scene d19s06-16 mc-min-end_c1 with dissolve
-    elif True:
+    else:
         scene d19s06-75-05 mc-talking-phone_five_c1 with dissolve
     play voice2 mc_scared_oh2 noloop
     mct "It worked!!! I can't believe I pulled that off!"
     mct "I really didn't expect that to-"
     if d19s06_mes is True:
         scene d19s06-16 mc-min-end_c2 with dissolve
-    elif True:
+    else:
         scene d19s06-75-06 mc-talking-phone_six_c1 with dissolve
     play voice2 mc_pain_mff5 noloop
     mct "Oh, shit! What the hell am I going to do tomorrow?!"
@@ -664,5 +664,4 @@ label d19s06_lewald:
     stop sound4 fadeout 3.0
     stop music fadeout 3.0
     jump d19s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

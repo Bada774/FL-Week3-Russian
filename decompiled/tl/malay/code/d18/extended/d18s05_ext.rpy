@@ -1,6 +1,4 @@
 
-
-
 translate malay d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate malay d18s05_after_sex_d36f975d:
     sb "Aku dah lama memikirkannya."
 
 
-translate malay d18s05_after_sex_f26fa239:
-
-
-    sb "Aku benci tempat ini. Aku sentiasa nak keluar dari sini."
-
-
 translate malay d18s05_after_sex_7102ee2c:
 
 
@@ -708,4 +700,9 @@ translate malay strings:
     old "Fuck Samiya"
     new "Kongkek Samiya"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate malay d18s05_after_sex_ec16ba99:
+
+
+    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

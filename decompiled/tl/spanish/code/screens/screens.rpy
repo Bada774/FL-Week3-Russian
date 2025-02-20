@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -12,11 +10,11 @@ translate spanish strings:
 
 
     old "Q.Save"
-    new "R.Guardado"
+    new "Guardado rápido"
 
 
     old "Q.Load"
-    new "G.Rápido"
+    new "Cargado rápido"
 
 
     old "Prefs"
@@ -188,7 +186,7 @@ translate spanish strings:
 
 
     old "Sound Volume"
-    new "Volumen de sonido"
+    new "Volumen del sonido"
 
 
     old "Test"
@@ -276,11 +274,11 @@ translate spanish strings:
 
 
     old "Rolls back to earlier dialogue."
-    new "Vuelve al diálogo anterior."
+    new "Regresa al diálogo anterior."
 
 
     old "Page Down"
-    new "Página abajo"
+    new "Bajar la página"
 
 
     old "Rolls forward to later dialogue."
@@ -292,7 +290,7 @@ translate spanish strings:
 
 
     old "Takes a screenshot."
-    new "Toma una captura de pantalla."
+    new "Realiza una captura de pantalla."
 
 
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
@@ -354,4 +352,13 @@ translate spanish strings:
     old "Menu"
     new "Menú"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate spanish strings:
+
+
+    old "Ren'Py Save Sync"
+    new "Sincronización del archivo de guardado de Ren'Py"
+
+
+    old "Dialogue Box Opacity"
+    new "Opacidad del cuadro de diálogo"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

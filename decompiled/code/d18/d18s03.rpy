@@ -367,7 +367,7 @@ label d18s03:
             play voice2 mc_no_no5 noloop
             if date_dw is True:
                 mc "No thanks. I'm not in the mood right now."
-            elif True:
+            else:
                 mc "No thanks. I'll pass on that."
         "Comprehensive Test Ban Treaty"(hint="d18s03m03c03"):
 
@@ -1135,7 +1135,7 @@ label d18s03_post_coitus:
     scene d18s03-254 mc_mes_post with dissolve
     if is_antagonist_mode is False:
         mct "Gold Stars? Oh, yeah.{w} That's pretty much all she knows about the VIP Program."
-    elif True:
+    else:
         mct "Gold Stars? Oh, yeah.{w} That's what she knows about the Retention Program."
     play voice2 mc_arrogant_huh1 noloop
     mc "I guess you could say that."
@@ -1209,5 +1209,4 @@ label d18s03_post_coitus:
     stop sound4 fadeout 2.5
     stop music fadeout 3.5
     jump d18s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
