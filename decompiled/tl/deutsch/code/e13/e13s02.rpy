@@ -1,16 +1,8 @@
 
-
-
 translate deutsch e13s02_0ccad110:
 
 
     nk "Du kennst das, Jim. Wir öffnen in ein paar Stunden für den Abend der \"Offenen Bühne\", aber im Moment haben wir geschlossen."
-
-
-translate deutsch e13s02_0d80f13c:
-
-
-    "Kunde" "Oh, aber…"
 
 
 translate deutsch e13s02_8e6b9eae:
@@ -125,12 +117,6 @@ translate deutsch replay_e13s02_f38ec24d:
 
 
     mc "Hey, es ist in Ordnung. Du musst dich nicht anstrengen."
-
-
-translate deutsch replay_e13s02_25cd8572:
-
-
-    nk "Eigentlich... Weißt du was? Hinsetzen."
 
 
 translate deutsch replay_e13s02_a53c11d8:
@@ -376,4 +362,15 @@ translate deutsch strings:
     old "Fuck Her Anally"
     new "Fick sie anal"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate deutsch e13s02_e5e5853b:
+
+
+    "Customer" "Aww, but..."
+
+
+translate deutsch replay_e13s02_e2a7aa61:
+
+
+    nk "Actually... You know what? Sit down."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

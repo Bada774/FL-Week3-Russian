@@ -1,6 +1,4 @@
 
-
-
 translate spanish d21s06_a1ce140a:
 
 
@@ -1315,48 +1313,6 @@ translate spanish d21s06_reboot_fl_00d7d5cb:
     sy "Entonces, ¿cómo crees que deberíamos llamarlo?"
 
 
-translate spanish d21s06_reboot_fl_334a8367:
-
-
-    sy "[fl_rebooted_name]."
-
-
-translate spanish d21s06_reboot_fl_1923ec31:
-
-
-    sy "Ese es un nombre."
-
-
-translate spanish d21s06_reboot_fl_db9edca0:
-
-
-    arj "¿Lo es?"
-
-
-translate spanish d21s06_reboot_fl_6ae37544:
-
-
-    sy "Al menos no lo llamó Localizar de Fetiches."
-
-
-translate spanish d21s06_reboot_fl_acaa56d1:
-
-
-    sy "¿Localizar fetiches? ¿¿¿De verdad???"
-
-
-translate spanish d21s06_reboot_fl_f4d2de8b:
-
-
-    mc "Si no te gusta, inventa una alternativa. Si no, no te quejes."
-
-
-translate spanish d21s06_reboot_fl_3efe3ff8:
-
-
-    sy "No dije nada."
-
-
 translate spanish d21s06_reboot_fl_2bad061a:
 
 
@@ -1615,12 +1571,6 @@ translate spanish d21s06_reboot_fl_e8bc5c3f:
     sy "¿Quieres que sea por escrito?"
 
 
-translate spanish d21s06_reboot_fl_6d70e240:
-
-
-    arj "Bien, bien. No creo que tengan mala voluntad como los desarrolladores detrás del Localizador de Fetiches."
-
-
 translate spanish d21s06_reboot_fl_e3616b15:
 
 
@@ -1649,12 +1599,6 @@ translate spanish d21s06_reboot_fl_1e4e84ed:
 
 
     sy "¿Podrías ser un poco más específica? ¿Qué no quieres que vuelva a pasar?"
-
-
-translate spanish d21s06_reboot_fl_bec7bdda:
-
-
-    arj "Todos los contras que dije. No a la mentira, al engaño, a la manipulación."
 
 
 translate spanish d21s06_reboot_fl_d3a6634e:
@@ -1735,12 +1679,6 @@ translate spanish d21s06_reboot_fl_a0e38f39:
     arj "Oh, ahora vas a hacer que me sonroje."
 
 
-translate spanish d21s06_reboot_fl_ad278b3d:
-
-
-    sy "Ahora, comencemos a juntar algunos de los detalles más finos y cómo comenzamos a hablar sobre las personas iniciales que podemos permitir en esta oferta."
-
-
 translate spanish d21s06_reboot_fl_8db8be57:
 
 
@@ -1757,96 +1695,6 @@ translate spanish d21s06_reboot_fl_9e70a3cd:
 
 
     mc "Entonces, ¿dónde deberíamos empezar primero?"
-
-
-translate spanish d21s06_reboot_fl_0d92e239:
-
-
-    mc "¿Conoces a alguien? ¿Algún inversor?"
-
-
-translate spanish d21s06_reboot_fl_0e58addf:
-
-
-    sy "¿Inversores?"
-
-
-translate spanish d21s06_reboot_fl_f0aedc6b:
-
-
-    mc "Bueno, para iniciar un negocio, tendrías que tener algo, ¿no es así?"
-
-
-translate spanish d21s06_reboot_fl_3da9e714:
-
-
-    sy "Bueno, al principio, estaba pensando en tener algo de contenido antes de comenzar la empresa."
-
-
-translate spanish d21s06_reboot_fl_018cbf7d:
-
-
-    sy "Construir una reputación, ¿sabes?"
-
-
-translate spanish d21s06_reboot_fl_192c5851:
-
-
-    mc "Eso se llama mercadeo."
-
-
-translate spanish d21s06_reboot_fl_e45dc7f1:
-
-
-    sy "Sí, pero nosotros somos la marca, no lo olvides. Somos la empresa. Entonces, debemos comenzar a pensar en películas que podamos filmar, y luego podemos formar la compañía."
-
-
-translate spanish d21s06_reboot_fl_3acfcab7:
-
-
-    mc "En el sentido legal."
-
-
-translate spanish d21s06_reboot_fl_4e12a8be:
-
-
-    sy "Sí."
-
-
-translate spanish d21s06_reboot_fl_a3a5f868:
-
-
-    sy "Pensemos en el nombre de la aplicación."
-
-
-translate spanish d21s06_reboot_fl_91c8e45d:
-
-
-    mc "¿Algunas ideas?"
-
-
-translate spanish d21s06_reboot_fl_2af34ea1:
-
-
-    sy "Nos prepararé un poco de café, y podemos tener una conversación."
-
-
-translate spanish d21s06_reboot_fl_e5455d01:
-
-
-    sy "¿Qué pasa con la zona ósea de Stacy?"
-
-
-translate spanish d21s06_reboot_fl_69033c5a:
-
-
-    sy "O Buscador. Es como esa otra aplicación de citas, excepto que reemplacé la primera letra con una F."
-
-
-translate spanish d21s06_reboot_fl_593599a5:
-
-
-    mc "Preguntémosle a AmRose."
 
 
 translate spanish d21s06_no_fl_2cd1dfd8:
@@ -1931,18 +1779,6 @@ translate spanish d21s06_no_fl_6ec24262:
 
 
     sy "Está bien."
-
-
-translate spanish d21s06_no_fl_0772c775:
-
-
-    arj "[mcname]. ¿Quieres venir conmigo?"
-
-
-translate spanish d21s06_no_fl_72d3767e:
-
-
-    mc "Oh, esperaba hablar un poco con Stacy. ¿Quieres que te acompañe hasta allí?"
 
 
 translate spanish d21s06_no_fl_db3325ec:
@@ -2131,42 +1967,6 @@ translate spanish d21s06_waterfall_4e10ecd5:
     arj "Bueno, si es muy rápido."
 
 
-translate spanish d21s06_waterfall_fabbae7d:
-
-
-    sy "Entonces, ¿de qué querías hablar?"
-
-
-translate spanish d21s06_waterfall_3c70276f:
-
-
-    mc "Como estábamos en el tema de iniciar un nuevo negocio, tenía una propuesta."
-
-
-translate spanish d21s06_waterfall_a0ae5ef0:
-
-
-    arj "¡Te lo dije, no estoy interesada en el Localizador de Fetiches!"
-
-
-translate spanish d21s06_waterfall_301468b6:
-
-
-    mc "No es eso, lo juro."
-
-
-translate spanish d21s06_waterfall_6c8a3e95:
-
-
-    sy "Y este negocio, ¿qué es? ¿Va a estar aquí?"
-
-
-translate spanish d21s06_waterfall_ea280ad5:
-
-
-    mc "No exactamente. Va a ser en una dirección completamente diferente. Este en vez de oeste."
-
-
 translate spanish d21s06_waterfall_7ef67f79:
 
 
@@ -2239,12 +2039,6 @@ translate spanish d21s06_waterfall_6612d04c:
     mes "Es posible que hayas notado que a [mcname] y a mí nos gustan ese tipo de cosas."
 
 
-translate spanish d21s06_waterfall_eeb65300:
-
-
-    sy "Sí, el evento principal de tu fiesta fue una gran pista."
-
-
 translate spanish d21s06_waterfall_7d45ad20:
 
 
@@ -2257,46 +2051,10 @@ translate spanish d21s06_waterfall_ffe2788e:
     mes "Estábamos pensando en formar un spa de bienestar."
 
 
-translate spanish d21s06_waterfall_a1e01b67:
-
-
-    mes "Te gusta el squirting, ¿verdad?"
-
-
-translate spanish d21s06_waterfall_17c9a9d8:
-
-
-    sy "No tanto como a ti, pero sí."
-
-
 translate spanish d21s06_waterfall_b11d2580:
 
 
     mes "Antes de profundizar, quiero tu opinión. ¿Es esto algo que realmente quieres hacer, o no?"
-
-
-translate spanish d21s06_waterfall_d31e043e:
-
-
-    sy "¿Es así como lo llamamos?"
-
-
-translate spanish d21s06_waterfall_2ece8a99:
-
-
-    mes "La gente busca una experiencia que cumpla sus fantasías sexuales y nosotros estamos aquí para brindársela."
-
-
-translate spanish d21s06_waterfall_ebab741e:
-
-
-    mc "¿En un balneario?"
-
-
-translate spanish d21s06_waterfall_fdcf3625:
-
-
-    mes "Sí."
 
 
 translate spanish d21s06_waterfall_9705fa57:
@@ -2395,24 +2153,6 @@ translate spanish d21s06_wellness_spa_8519df16:
     mes "Hasta que estén satisfechos."
 
 
-translate spanish d21s06_wellness_spa_a14fb21a:
-
-
-    arj "¿Cuánto cuesta?"
-
-
-translate spanish d21s06_wellness_spa_da2002db:
-
-
-    sy "Hasta que estén satisfechos, te lo acaba de decir Min."
-
-
-translate spanish d21s06_wellness_spa_f308289e:
-
-
-    arj "Bien."
-
-
 translate spanish d21s06_wellness_spa_690198d9:
 
 
@@ -2435,60 +2175,6 @@ translate spanish d21s06_wellness_spa_8da06c74:
 
 
     mes "Y mucho más."
-
-
-translate spanish d21s06_wellness_spa_626aaba9:
-
-
-    sy "Que venga uno, y que vengan todos; ¿esa clase de cosas?"
-
-
-translate spanish d21s06_wellness_spa_74b1c957:
-
-
-    mes "Todo es opcional. Las personas pueden pagar para disfrutar de la experiencia del spa de vainilla."
-
-
-translate spanish d21s06_wellness_spa_c4ca3301:
-
-
-    mes "No tendrían idea de lo que está pasando al lado."
-
-
-translate spanish d21s06_wellness_spa_bea752a5:
-
-
-    mes "Sólo lo sabrá si decide volar con nosotros."
-
-
-translate spanish d21s06_wellness_spa_82dc0057:
-
-
-    mes "Todos tendrán una cantidad adecuada de diversión. Se me ocurrió ese eslogan. ¿Qué piensan ustedes?"
-
-
-translate spanish d21s06_wellness_spa_3545488f:
-
-
-    mc "Está un poco seco."
-
-
-translate spanish d21s06_wellness_spa_40d0b7e7:
-
-
-    mes "Ese es el punto, eslogan seco, experiencia húmeda."
-
-
-translate spanish d21s06_wellness_spa_9c3827ac:
-
-
-    mc "Es un poco demasiado... abstruso para nuestros propósitos, ¿quizás?"
-
-
-translate spanish d21s06_wellness_spa_907f9b61:
-
-
-    arj "¿Me gusta?... contrasta con la temática no tradicional."
 
 
 translate spanish d21s06_wellness_spa_5ea4823b:
@@ -2539,18 +2225,6 @@ translate spanish d21s06_wellness_spa_8fbe034e:
     mes "Era eso o el Squirt Spa. Ese podría haber sido demasiado obvio."
 
 
-translate spanish d21s06_wellness_spa_30f17f59:
-
-
-    mes "Si tienes alternativas, puede pensar en algunas en el futuro."
-
-
-translate spanish d21s06_wellness_spa_20f6652d:
-
-
-    mes "Ahora mismo es el proceso de lanzamiento."
-
-
 translate spanish d21s06_wellness_spa_ebbfb5a8:
 
 
@@ -2563,202 +2237,10 @@ translate spanish d21s06_wellness_spa_08f69221:
     mes "Podemos hacerlo funcionar con una inyección de capital. Conocemos a algunas personas en el campus que lograron algo similar. Préstamos y cosas así."
 
 
-translate spanish d21s06_wellness_spa_936da8a3:
-
-
-    arj "¿Cómo está su puntaje de crédito?"
-
-
-translate spanish d21s06_wellness_spa_81c2261b:
-
-
-    mc "¿Mío? Ni siquiera puedo encontrar un lugar."
-
-
-translate spanish d21s06_wellness_spa_41e3722b:
-
-
-    arj "Lo hiciste. Pero no tú. Quise decir Min."
-
-
-translate spanish d21s06_wellness_spa_080a4b24:
-
-
-    mes "¿Mi puntaje de crédito? Está bien. Pero como dije, los inversores ayudarán a lo grande. Puede requerir algo de trabajo, pero asegurar la financiación no es nuestro objetivo principal."
-
-
-translate spanish d21s06_wellness_spa_20ebb525:
-
-
-    mes "Nuestro principal objetivo es el spa."
-
-
 translate spanish d21s06_wellness_spa_39ad58cf:
 
 
     sy "Uh, suena complicado."
-
-
-translate spanish d21s06_wellness_spa_5563f226:
-
-
-    arj "Lo es."
-
-
-translate spanish d21s06_wellness_spa_26ee5270:
-
-
-    mc "Para ser honesto, ustedes se están enfocando en lo incorrecto. Se trata menos del spa como un negocio de deportes acuáticos."
-
-
-translate spanish d21s06_wellness_spa_50bfa3fd:
-
-
-    mc "Más que una excusa para formar un harén chino imperial."
-
-
-translate spanish d21s06_wellness_spa_378f0c06:
-
-
-    mes "Soy Coreana."
-
-
-translate spanish d21s06_wellness_spa_5506f6cf:
-
-
-    mc "Lo sé, así es como se llama esa estructura."
-
-
-translate spanish d21s06_wellness_spa_14702122:
-
-
-    mes "Creía que harén era una palabra árabe."
-
-
-translate spanish d21s06_wellness_spa_54288f40:
-
-
-    mc "Probablemente lo sea, pero, eh..."
-
-
-translate spanish d21s06_wellness_spa_23cdc614:
-
-
-    mc "No importa, ¿qué estaba diciendo?"
-
-
-translate spanish d21s06_wellness_spa_c0683fe6:
-
-
-    mes "Llevabas el sexo a un entorno profesional."
-
-
-translate spanish d21s06_wellness_spa_e1acbb60:
-
-
-    mc "¿No se trata de sexo?"
-
-
-translate spanish d21s06_wellness_spa_36a29d41:
-
-
-    mes "No. El spa está gestionado por profesionales. Solo tendrá algunos extras."
-
-
-translate spanish d21s06_wellness_spa_e4b4e4a6:
-
-
-    mc "Hey, tenemos harenes aquí también."
-
-
-translate spanish d21s06_wellness_spa_d461c933:
-
-
-    sy "¿Quieres mudarte a algún lado?"
-
-
-translate spanish d21s06_wellness_spa_1bf1e07c:
-
-
-    mc "No estoy seguro. Min, ¿quieres establecer este negocio en Asia?"
-
-
-translate spanish d21s06_wellness_spa_b5098d8a:
-
-
-    mes "No. No permitirían el tipo de spas que estamos proponiendo."
-
-
-translate spanish d21s06_wellness_spa_a31340dd:
-
-
-    mc "¿De verdad?"
-
-
-translate spanish d21s06_wellness_spa_2da98b91:
-
-
-    mc "No quise decir eso."
-
-
-translate spanish d21s06_wellness_spa_93902784:
-
-
-    mc "Muy bien, así que estará por aquí en alguna parte. En algún lugar legal."
-
-
-translate spanish d21s06_wellness_spa_efefd519:
-
-
-    sy "¿Quiénes son los inversores? Si no te importa que pregunte."
-
-
-translate spanish d21s06_wellness_spa_115dbcaf:
-
-
-    mes "Eso no lo hemos decidido. Lo que sí hemos decidido, es a quién vamos a traer con esto."
-
-
-translate spanish d21s06_wellness_spa_7454332c:
-
-
-    mc "En realidad, tenemos una lista de trabajo."
-
-
-translate spanish d21s06_wellness_spa_2cd4c788:
-
-
-    mc "Sólo tenemos que subirlos a bordo."
-
-
-translate spanish d21s06_wellness_spa_9bd64567:
-
-
-    mes "Espero que tengas una idea. Tengo que irme."
-
-
-translate spanish d21s06_wellness_spa_a437bdda:
-
-
-    mes "Adiós."
-
-
-translate spanish d21s06_wellness_spa_2924e892:
-
-
-    sy "Entonces, ¿realmente estás haciendo esto?"
-
-
-translate spanish d21s06_wellness_spa_85107a33:
-
-
-    sy "Iré contigo si estás seguro de que esto va a funcionar. Porque esta es una decisión de vida seria."
-
-
-translate spanish d21s06_wellness_spa_4dc9a4dc:
-
-
-    mc "¡Estoy dispuesto a intentarlo!"
 
 translate spanish strings:
 
@@ -2786,4 +2268,99 @@ translate spanish strings:
     old "No, I have to give it more thought."
     new "No, tengo que pensarlo más"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate spanish d21s06_waterfall_0992f61d:
+
+
+    mc "Sí. Quiero hacer esto contigo, Min."
+
+
+translate spanish d21s06_wellness_spa_2ece8a99:
+
+
+    mes "La gente busca una experiencia que cumpla sus fantasías sexuales y estamos aquí para proporcionársela."
+
+
+translate spanish d21s06_wellness_spa_8a7edf54:
+
+
+    mes "Esa no será la parte difícil. La parte difícil será preparar el edificio y crear una base de clientes para obtener ganancias."
+
+
+translate spanish d21s06_wellness_spa_699caa95:
+
+
+    arj "Así será. Lo siento [mcname], pero no puedo unirme a ti para esto. Al menos no ahora."
+
+
+translate spanish d21s06_wellness_spa_c425dcb9:
+
+
+    arj "Necesito terminar la universidad."
+
+
+translate spanish d21s06_wellness_spa_43c9e2c9:
+
+
+    mes "Entendible. Pero todavía estás dentro, ¿verdad [mcname]?"
+
+
+translate spanish d21s06_wellness_spa_5844ae44:
+
+
+    mc "Demonios, sí."
+
+
+translate spanish d21s06_wellness_spa_591bfaae:
+
+
+    mes "Excelente. Entonces voy a continuar con la planificación."
+
+
+translate spanish d21s06_wellness_spa_dbcc212b:
+
+
+    mes "Deberías venir y podemos empezar a trabajar en los detalles."
+
+
+translate spanish d21s06_wellness_spa_546d00c0:
+
+
+    mc "Estaré ahí mismo."
+
+
+translate spanish d21s06_reboot_fl_6d5e9610:
+
+
+    mc "Llamémoslo{w} {b}¡Localizador de fetiches reiniciado!{/b}"
+
+
+translate spanish d21s06_reboot_fl_304163ca:
+
+
+    sy "Me encanta."
+
+
+translate spanish d21s06_reboot_fl_b23fc0ce:
+
+
+    arj "Es perfecto. Al grano y fácil de entender."
+
+
+translate spanish d21s06_reboot_fl_d0e75550:
+
+
+    arj "De acuerdo. No creo que ustedes tengan mala voluntad como Lydia."
+
+
+translate spanish d21s06_reboot_fl_82e617fe:
+
+
+    arj "Todos los inconvenientes que he dicho. Sin mentiras. Sin engaños ni manipulaciones."
+
+
+translate spanish d21s06_reboot_fl_041fcc70:
+
+
+    sy "Ahora, empecemos a reunir algunos de los detalles más pequeños, como quiénes son las personas a las que inicialmente podemos incorporar."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -105,7 +105,7 @@ label e06s07_ceremony hide:
         play sound2 ["<silence 2.5>", sfx_camera_fly1] noloop
         scene e06s07-a15-glambot-1
         pause
-    elif True:
+    else:
         scene e06s07-15 wedding-ceremony-begins_c1 with dissolve
         pause
     stop sound fadeout 1.0
@@ -127,7 +127,7 @@ label e06s07_ceremony hide:
     play voice4 lissa_thinking noloop
     if e06s06_mh_harem is True:
         mh "Dearly Beloved - and by that I mean all of us here today..."
-    elif True:
+    else:
         mh "Dearly Beloved - and by that I mean all of you here today..."
     mh "... we are gathered here to celebrate the lawful union and bonds of matrimony between Lydia Cox and [mcname] Young."
     mh "The couple selected their own vows, which they will now read."
@@ -247,7 +247,7 @@ label e06s07_ceremony hide:
     play voice4 lissa_ugu noloop
     if e06s06_mh_harem is True:
         mh "I agree.{w} At this time I believe our Queen has additional vows on behalf of the Harem."
-    elif True:
+    else:
         mh "I agree.{w} At this time I believe the Queen has additional vows on behalf of the Harem."
     scene e06s07-45 lc-thanks-ly-begins-harem-vow_c1 with dissolve
     play voice3 lydia_aga noloop
@@ -353,5 +353,4 @@ label e06s07_ceremony hide:
 
     $ renpy.music.set_volume(0.0, 2.0, "sound3" )
     jump e06s08
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

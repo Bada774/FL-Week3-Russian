@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d19s06mes_3f591a4b:
 
 
@@ -1151,5 +1149,4 @@ translate deutsch strings:
 
     old "Do you want to see watersports?"
     new "Möchtest du Wassersport sehen?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

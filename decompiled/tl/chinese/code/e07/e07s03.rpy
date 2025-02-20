@@ -1,6 +1,4 @@
 
-
-
 translate chinese e07s03_73111bf2:
 
 
@@ -1743,5 +1741,4 @@ translate chinese strings:
 
     old "Give it your all!"
     new "全力以赴！"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

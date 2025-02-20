@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d19s09_6670f26a:
 
 
@@ -939,5 +937,4 @@ translate deutsch strings:
 
     old "Switch"
     new "Wechseln"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

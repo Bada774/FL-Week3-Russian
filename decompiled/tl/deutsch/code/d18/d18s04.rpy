@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d18s04_09dff030:
 
 
@@ -1145,5 +1143,4 @@ translate deutsch strings:
 
     old "Remind Them You Are There"
     new "Erinnere sie daran, dass du da bist"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

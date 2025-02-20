@@ -151,7 +151,7 @@ label d19s06mes:
     play voice2 mc_thinking_hmm4 noloop
     if hasattr(renpy.store, "date_mes_info"):
         mc "Let's set up safe words. You know mine from last week."
-    elif True:
+    else:
         mc "Let's set up safe words. You know mine. If I think you're going too far, I'll say [mc_safeword]."
     scene d19s06mes-36 mc_mes_cl_cynthias_punishment with dissolve
     play voice3 min_old_hmm noloop volume 1.6
@@ -793,7 +793,7 @@ label replay_d19s06mes hide:
         scene d19s06mes-193 mc_mes_cl_cynthias_punishment with dissolve
         play voice4 cynthia_no_calm noloop
         cl "No.{w}.. really?"
-    elif True:
+    else:
         play sound sfx_sextoy_uncuff1
         scene d19s06mes-134 mc_mes_cl_cynthias_punishment with dissolve
         pause
@@ -815,5 +815,4 @@ label replay_d19s06mes hide:
     $ unlock_gallery_slot("scene", "d19s06mes")
 
     jump d19s06_lewald
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

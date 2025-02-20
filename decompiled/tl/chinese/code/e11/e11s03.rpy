@@ -1,6 +1,4 @@
 
-
-
 translate chinese e11s03_9eb8e074:
 
 
@@ -1223,5 +1221,4 @@ translate chinese strings:
 
     old "Finish in her pussy"
     new "在她的小穴里收尾"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

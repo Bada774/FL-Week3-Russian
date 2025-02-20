@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -222,4 +220,45 @@ translate turkish strings:
     old "Ending 07: Girls"
     new "7. Son: Kızlar"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+    old "Ending 05: Lyssa & Oliver"
+    new "5. Son: Lyssa & Oliver"
+
+
+    old "Ending 16: Jessie & Kanya"
+    new "16. Son: Jessie & Kanya"
+
+
+    old "Ending 16: Farm Animals"
+    new "16. Son: Çiftlik Hayvanları"
+
+
+    old "Ending 15: Girls"
+    new "15. Son: Kızlar"
+
+
+    old "Ending 18: Samiya & Dahlia"
+    new "18. Son: Samiya & Dahlia"
+
+
+    old "Ending 18: Kendell & Londyn"
+    new "18. Son: Kendell & Londyn"
+
+
+    old "Ending 18: Four Beauties"
+    new "18. Son: Dört Güzeller"
+
+translate turkish strings:
+
+
+    old "Ending 03: Girls"
+    new "3. Son: Kızlar"
+
+
+    old "Ending 09: Girls"
+    new "9. Son: Kızlar"
+
+
+    old "Ending 09: Greek Goddesses"
+    new "9. Son: Yunan Tanrıçaları"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

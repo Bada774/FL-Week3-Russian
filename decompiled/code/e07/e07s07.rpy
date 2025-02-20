@@ -71,26 +71,26 @@ label e07s07:
     if e07s03_give_all is True:
         scene e07s07-05 lc-scene-three-positive-reaction_c1 with dissolve
         lc "You submitted to Gizela in Prague. And you ended up making her cum before Pete made me cum."
-    elif True:
+    else:
         scene e07s07-07 lc-scene-five-positive-reaction_c1 with dissolve
         lc "You disappointed me in Prague. That must have been quite embarrassing for you."
     scene e07s07-08 lc-scene-six-positive-reaction_c1 with dissolve
     play voice3 dahlia_thinking_oh noloop
     if e07s04_challenge_win is True:
         lc "Then when Gizela came here, you let her dominate that sweet ass of yours."
-    elif True:
+    else:
         lc "You disappointed me when the Domina visited here, but I suppose you tried your best."
     scene e07s07-06 lc-scene-four-positive-reaction_c1 with dissolve
     play voice3 dahlia_thinking_mmm2 noloop
     if e07s05_clean_cum is True:
         lc "After I had a train ran on me, you acted like a good dog and licked my face clean of cum. I bet you can still taste all that dirty sperm on your lips."
-    elif True:
+    else:
         lc "You disappointed me during my little gangbang train. That could have been such a pleasurable experience for me, but my pleasure was tainted by your failure."
     scene e07s07-09 lc-sits-regaly-throne_c1 with dissolve
     play voice2 dahlia_disappointed_ehh1 noloop
     if e07s06_cheat is True:
         lc "At the gloryhole, you really got into the competition and did whatever it took to win.."
-    elif True:
+    else:
         lc "You disappointed me at the gloryhole. I don't know what you were thinking, but you should've been focused on doing whatever it takes to achieve the tasks I set for you."
     if e07s06_suck_dick is True:
         lc "And the pièce de résistance... You got down on your knees and sucked some random dick in front of me."
@@ -639,7 +639,7 @@ label e07s07_vasectomy:
     mct "But this is AmRose."
     if date_arj_romance is False:
         mct "AmRose pledged herself to me."
-    elif True:
+    else:
         mct "AmRose said she loved me. That she would do anything to be with me."
     scene e07s07-107 mct-awful-enogh-seeing-lc-fucked-even-worse-arj_c1 with dissolve
     play voice4 amrose_old_orgasming
@@ -1027,5 +1027,4 @@ label e07_early_end:
     call end_game_text (_("You have failed Ending #07!")) from _call_end_game_text_16
 
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

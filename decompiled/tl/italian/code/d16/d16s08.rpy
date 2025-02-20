@@ -1,6 +1,4 @@
 
-
-
 translate italian d16s08_d60f6efd:
 
 
@@ -953,5 +951,4 @@ translate italian d16s08_719d7ead:
 
 
     arj "Ha ha. Allora andiamo."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

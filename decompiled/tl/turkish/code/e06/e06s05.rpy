@@ -1,6 +1,4 @@
 
-
-
 translate turkish e06s05_2357bc1b:
 
 
@@ -3401,5 +3399,4 @@ translate turkish strings:
 
     old "Do Not Invite Her to Join"
     new "Onu Katılmaya Davet Etmeyin"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

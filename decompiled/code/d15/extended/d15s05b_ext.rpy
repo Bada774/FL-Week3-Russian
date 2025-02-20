@@ -198,7 +198,7 @@ label d15s05b_ext:
         scene d15s05b-05-2 mc-nk-pw-park-spot2_c1 with dissolve
         play voice3 stacy_mmm2 noloop
         pw "Then you get to watch out for any passers by, so Nora and I aren't interrupted."
-    elif True:
+    else:
         scene d15s05b-05-2 mc-nk-pw-park-spot2_c1 with dissolve
         play voice3 stacy_mmm2 noloop
         pw "Then you keep watch for any passers by, so Nora and I aren't interrupted."
@@ -367,7 +367,7 @@ label replay_d15s05b:
 
     if d14s08_fisted_polly is True or fl_fisting is True:
         jump d15s05b_fisto
-    elif True:
+    else:
         jump d15s05b_lesbians
 
 label d15s05b_fisto:
@@ -483,7 +483,7 @@ label d15s05b_fisto:
     play voice4 nora_auh noloop
     if persistent.is_special is True:
         nk "Does the Pope shit in the woods?"
-    elif True:
+    else:
         nk "Is that like a Red Herring or more like Gefilte Fish?"
     play voice2 mc_arrogant_huh2 noloop
     mc "Huh?"
@@ -637,7 +637,7 @@ label d15s05b_lesbians:
             play voice4 dahlia_thinking_hmm2 noloop
             if d14s08_fisted_polly is True:
                 nk "Do you need more lube?"
-            elif True:
+            else:
                 nk "Okay. Do you have any lube?"
             scene d15s05b-08-01 mc-nk-pw-strapon1_c1 with dissolve
             play voice3 polly_nouh noloop
@@ -766,7 +766,7 @@ label d15s05b_lesbians_nora:
 
     if d15s05b_heads is False:
         jump d15s05b_post_lesbians
-    elif True:
+    else:
         $ renpy.music.set_volume(0.25, 3.0, "music")
         scene d15s05b-17 mc-nk-pw-pegging-strapon_c2 with fade
         play voice4 nora_nhey noloop
@@ -863,7 +863,7 @@ label d15s05b_lesbians_polly:
         pw "That's what I like to hear."
         scene black with dissolve
         jump d15s05b_lesbians_nora
-    elif True:
+    else:
         jump d15s05b_post_lesbians
 
 label d15s05b_post_lesbians:
@@ -1303,5 +1303,4 @@ label d15s05b_end:
     $ renpy.music.set_volume(1.0, 15.0, "sound6")
 
     jump d15s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

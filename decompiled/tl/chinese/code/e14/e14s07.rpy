@@ -1,6 +1,4 @@
 
-
-
 translate chinese e14s07_c3ba4728:
 
 
@@ -1007,5 +1005,4 @@ translate chinese strings:
 
     old "You have finished playing ending number 14!"
     new "你已经完成了第14个结局！"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

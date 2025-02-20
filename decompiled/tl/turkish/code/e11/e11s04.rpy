@@ -1,6 +1,4 @@
 
-
-
 translate turkish e11s04_74a4e049:
 
 
@@ -1419,5 +1417,4 @@ translate turkish strings:
 
     old "Call me..."
     new "Ara beni...."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

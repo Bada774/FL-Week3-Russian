@@ -1,6 +1,4 @@
 
-
-
 translate chinese d20s03_0d620d79:
 
 
@@ -1291,5 +1289,4 @@ translate chinese strings:
 
     old "I thought about it. The answer is no."
     new "我想过了。我要拒绝。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

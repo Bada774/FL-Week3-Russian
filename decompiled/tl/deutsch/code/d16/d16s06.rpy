@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d16s06_e9ce6c28:
 
 
@@ -779,5 +777,4 @@ translate deutsch d16s06_89a8c10f:
 
 
     flr "Du hast [d16s06_points] Punkte gesammelt."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate spanish e13s04_b0f568c1:
 
 
@@ -157,12 +155,6 @@ translate spanish replay_e13s04_37969b53:
     nk "¡Sí, sí! ¡Estoy cerca! [mcname], ¡voy a...!"
 
 
-translate spanish replay_e13s04_b7e53779:
-
-
-    nk "Dios... Eso fue increíble..."
-
-
 translate spanish replay_e13s04_d2c80bad:
 
 
@@ -179,12 +171,6 @@ translate spanish replay_e13s04_7b4716ff:
 
 
     nk "Fóllame. Fóllame tan fuerte como puedas. No me importa quién vea o escuche."
-
-
-translate spanish replay_e13s04_a4e4f076:
-
-
-    nk "*Gemidos fuertes* Sí, mierda… ¡Sí! Te amo, [mcname]."
 
 
 translate spanish replay_e13s04_dd27a96a:
@@ -228,4 +214,15 @@ translate spanish strings:
     old "You have finished playing ending number 13!"
     new "¡Has terminado de jugar el final n° 13!"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate spanish replay_e13s04_4ae8355d:
+
+
+    nk "Dios... Eso fue increíble..."
+
+
+translate spanish replay_e13s04_c133408e:
+
+
+    nk "**Gimidos fuertes* Sí, joder... ¡Sí! Te amo, [mcname]."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

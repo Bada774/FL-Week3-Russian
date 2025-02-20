@@ -124,7 +124,7 @@ label d17s05:
     if d17s05_mh_sy or d17s05_mh_op is True:
         play voice2 mc_yes_okay3 noloop
         mc "I'll be right over with our guests then."
-    elif True:
+    else:
         play voice2 mc_yes_yeah1 noloop
         mc "I'll be right over then."
         mc "Why don't you prepare yourself for me in the meantime?"
@@ -132,7 +132,7 @@ label d17s05:
     play voice3 lissa_phonetalk_yes noloop
     if date_mh_bdsm is True:
         mh "Yes, Sir."
-    elif True:
+    else:
         mh "I'll be waiting."
 
     if d17s05_mh_op is True:
@@ -231,7 +231,7 @@ label d17s05:
 
         stop music fadeout 3.5
         jump d17s05ms
-    elif True:
+    else:
 
         scene d17s05-12-mc-hang-up-leave-c1 with dissolve
         pause
@@ -240,5 +240,4 @@ label d17s05:
 
         stop music fadeout 3.5
         jump d17s05mh
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

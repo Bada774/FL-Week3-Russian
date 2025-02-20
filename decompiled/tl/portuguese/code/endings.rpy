@@ -1,6 +1,4 @@
 
-
-
 translate portuguese ending_not_available_f3f9fce0:
 
 
@@ -105,5 +103,4 @@ translate portuguese strings:
 
     old "Ending #18\nQuartet"
     new "Final #18\nQuarteto"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

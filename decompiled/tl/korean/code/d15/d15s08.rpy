@@ -1,6 +1,4 @@
 
-
-
 translate korean d15s08_ac30fa16:
 
 
@@ -1157,5 +1155,4 @@ translate korean d15s08_bcfe6e94:
 
 
     mct "...쿠우우울쿠우우울..."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate korean d16s10_d9159219:
 
 
@@ -1381,5 +1379,4 @@ translate korean strings:
 
     old "Tell her how you came while she was under the table"
     new "앰로즈가 식탁 아래 있었을 때 쌌었던 이야기를 한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

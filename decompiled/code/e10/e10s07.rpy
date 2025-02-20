@@ -96,7 +96,7 @@ label e10s07:
     if e10s02_mes_partner is False:
         mc "We have other plans. We don't need your money."
         scene e10s07-20 mc-points-out-they-control-shares_c1 with dissolve
-    elif True:
+    else:
         mc "Eun-Soo has other plans. Would you like to tell him?"
         scene e10s07-20 mc-points-out-they-control-shares_c1 with dissolve
         play voice3 min_yes_active noloop
@@ -142,7 +142,7 @@ label e10s07:
     play voice2 mc_happy_a1 noloop
     if e10s02_mes_partner is True:
         mc "Your daughter and I are a unit. We move together as one."
-    elif True:
+    else:
         mc "Your guidance is no longer necessary. I can look after Min Eun-Soo."
     scene e10s07-28 mc-tells-md-he-takes-care-of-mes-now_c1 with dissolve
     play voice2 d1s5b_ehhh noloop volume 1.7
@@ -220,5 +220,4 @@ label e10s07:
     stop music2 fadeout 3.0
 
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

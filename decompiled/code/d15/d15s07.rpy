@@ -176,7 +176,7 @@ label d15s07_whatsthat:
     scene d15s07-20 lc-min-mc-talk-about-cock-cage-mes-response with dissolve
     if d15s07_mc_peed_on is True:
         play voice3 min_disappointed_off noloop
-    elif True:
+    else:
         play voice3 min_thinking_oh noloop
     mes "I think he's talking about the penis cage."
     scene d15s07-21 lc-min-mc-angry-lc-told-mes with dissolve
@@ -214,7 +214,7 @@ label d15s07_whatsthat:
         jump d15s07_mes_pee_on_mc
     elif d15s07_mc_pee is True:
         jump d15s07_mc_pee_on_mes
-    elif True:
+    else:
         jump d15s07_lc_pee_on_mes
 
 label d15s07_mes_pee_on_mc:
@@ -375,7 +375,7 @@ label d15s07_mc_pee_on_mes:
         scene d15s07-a4-ntr with dissolve
         pause
         pause
-    elif True:
+    else:
         scene d15s07-a4-lc with dissolve
         pause
         pause
@@ -384,7 +384,7 @@ label d15s07_mc_pee_on_mes:
         scene d15s07-a3-ntr with dissolve
         pause
         pause
-    elif True:
+    else:
         scene d15s07-a3-lc with dissolve
         pause
         pause
@@ -540,7 +540,7 @@ label d15s07_lc_pee_on_mes:
 
     if cage_ntr is True:
         jump d15s07_ntr_path
-    elif True:
+    else:
         jump d15s07_lc_path
 
 label d15s07_ntr_path:
@@ -772,5 +772,4 @@ label d15s07_end:
     stop sound2 fadeout 3.0
     stop music fadeout 3.5
     jump d15s08
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

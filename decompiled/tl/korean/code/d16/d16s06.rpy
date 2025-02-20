@@ -1,6 +1,4 @@
 
-
-
 translate korean d16s06_e9ce6c28:
 
 
@@ -779,5 +777,4 @@ translate korean d16s06_89a8c10f:
 
 
     flr "[d16s06_points]점을 획득하셨습니다."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

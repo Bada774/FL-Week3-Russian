@@ -1,6 +1,4 @@
 
-
-
 translate chinese e07s06_7cbb521d:
 
 
@@ -1545,5 +1543,4 @@ translate chinese strings:
 
     old "Don't suck the dick"
     new "不舔鸡巴"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

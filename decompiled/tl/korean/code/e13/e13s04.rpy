@@ -1,6 +1,4 @@
 
-
-
 translate korean e13s04_b0f568c1:
 
 
@@ -157,12 +155,6 @@ translate korean replay_e13s04_37969b53:
     nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
 
 
-translate korean replay_e13s04_b7e53779:
-
-
-    nk "God... That was amazing…"
-
-
 translate korean replay_e13s04_d2c80bad:
 
 
@@ -179,12 +171,6 @@ translate korean replay_e13s04_7b4716ff:
 
 
     nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
-
-
-translate korean replay_e13s04_a4e4f076:
-
-
-    nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
 
 
 translate korean replay_e13s04_dd27a96a:
@@ -228,4 +214,15 @@ translate korean strings:
     old "You have finished playing ending number 13!"
     new "You have finished playing ending number 13!"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate korean replay_e13s04_4ae8355d:
+
+
+    nk "God... That was amazing..."
+
+
+translate korean replay_e13s04_c133408e:
+
+
+    nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese d17s05mo_7c42b679:
 
 
@@ -1133,5 +1131,4 @@ translate chinese d17s05mo_be58e169:
 
 
     mh "嗯，那就好。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

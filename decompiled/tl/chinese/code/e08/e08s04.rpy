@@ -1,6 +1,4 @@
 
-
-
 translate chinese e08s04_623c1c05:
 
 
@@ -1883,5 +1881,4 @@ translate chinese strings:
 
     old "The next morning"
     new "第二天早上"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

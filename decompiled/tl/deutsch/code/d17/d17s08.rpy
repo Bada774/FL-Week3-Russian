@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d17s08_15d395d8:
 
 
@@ -1157,5 +1155,4 @@ translate deutsch replay_d17s08_55d60f89:
 
 
     mct "Oh, verdammt."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

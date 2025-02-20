@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -65,5 +63,4 @@ translate chinese strings:
 
     old "Special Thanks -"
     new "特别感谢 -"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

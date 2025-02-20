@@ -229,5 +229,4 @@ init -2 python:
             self.str    = FileCurrentPage()
             self.int    = 0 if (self.str in ["auto", "quick"]) else int(self.str)
             self.rng    = range(1,10) if (self.int < 6) else range(self.int - 4, self.int + 5)
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -41,6 +41,15 @@ init python:
         "e04s08n01"  : "",
         "dlc01n02"   : "",
         "dlc01n03"   : "",
+        "dlc02n01"   : "",
+        "e09s01n01"  : "",
+        "e15s01n01"  : "",
+        "e03s01n01"  : "",
+        "e18s01n01"  : "",
+        "e16s01n01"  : "",
+        "e15s01n02"  : "",
+        "e05s01n01"  : "",
+        "dlc02n02"   : "",
+        "dlc02n03"   : "",
         }
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

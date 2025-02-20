@@ -1,6 +1,4 @@
 
-
-
 translate malay d19s06mes_3f591a4b:
 
 
@@ -1135,8 +1133,6 @@ translate malay d19s06mes_ac9adf42:
     mes "Aku tak begitu seronok sejak dia masuk ke bilik Pandora."
 
 
-
-
 translate malay d19s06mes_a19ae317:
 
 
@@ -1153,5 +1149,4 @@ translate malay strings:
 
     old "Do you want to see watersports?"
     new "Kau nak tengok sukan air?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

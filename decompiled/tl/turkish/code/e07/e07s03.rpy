@@ -1,6 +1,4 @@
 
-
-
 translate turkish e07s03_73111bf2:
 
 
@@ -1743,5 +1741,4 @@ translate turkish strings:
 
     old "Give it your all!"
     new "Her şeyinizi verin!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

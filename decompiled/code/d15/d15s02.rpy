@@ -217,7 +217,7 @@ label d15s02:
     play voice2 mc_thinking_hmm5 noloop
     if fl_goldstars >= 1:
         mct "Another one? What did I get this one for?"
-    elif True:
+    else:
         mct "A gold star? What did I get this for?"
 
     play sound sfx_door_open2
@@ -225,5 +225,4 @@ label d15s02:
 
     stop music fadeout 3.0
     jump d15s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

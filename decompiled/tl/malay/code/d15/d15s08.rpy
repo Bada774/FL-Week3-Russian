@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s08_ac30fa16:
 
 
@@ -1147,8 +1145,6 @@ translate malay d15s08_bcfe6e94:
     mct "...zzZZZzzzz..."
 
 
-
-
 translate malay d15s08_1297c740:
 
 
@@ -1159,5 +1155,4 @@ translate malay d15s08_58dfa537:
 
 
     mc "Baiklah, Angels! Mari kita imbas semula. Fetish Locator sepatutnya ada pelayan fizikal di dalam atau berhampiran kampus."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

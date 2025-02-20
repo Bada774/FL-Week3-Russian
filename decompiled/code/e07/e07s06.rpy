@@ -571,7 +571,7 @@ label e07s06_no_cheating:
         mc "But the girl I was dealing with, she had the throat of a succubus."
         scene e07s06-146 final_challenge_menu_dont_cheat_two_loss_lc_talk_amused with dissolve
         lc "..."
-    elif True:
+    else:
         scene e07s06-147 final_challenge_menu_dont_cheat_three_loss_lc_talk_angry with dissolve
         play voice3 dahlia_disappointed_ehh2 noloop
         lc "Well..."
@@ -610,7 +610,7 @@ label e07s06_bonus_challange:
     if e07s06_cheat is True:
         lc "It looks like you have a chance to get an extra point."
         lc "If you're interested, [e07_mcname!t]."
-    elif True:
+    else:
         lc "Well, it seems like fortune smiles on you, [e07_mcname!t]."
         lc "There is a chance for you to make up the point you lost."
     scene e07s06-154 final_challenge_menu_dont_bonus_challenge_mc_talk_curious_arj_retrun with dissolve
@@ -677,7 +677,7 @@ label e07s06_bonus_challange:
     play voice3 dahlia_arrogant_ha noloop
     if e07s06_cheat is True:
         lc "Relieve them, and I'll give you an extra point."
-    elif True:
+    else:
         lc "Service our new friend, and you can make up for your earlier loss."
     scene e07s06-171 final_challenge_menu_dont_bonus_challenge_lc_talk_hand_hips with dissolve
     play voice3 dahlia_arrogant_pff noloop
@@ -944,5 +944,4 @@ label e07s06_end:
     $ renpy.end_replay()
     stop music fadeout 3.0
     jump e07s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

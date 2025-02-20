@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d20s02tl_56e9281f:
 
 
@@ -2219,11 +2217,8 @@ translate portuguese strings:
     new "Chicotear Elas Juntas"
 
 
-
-
 translate portuguese d20s02tl_pray_62f090f2:
 
 
     mc "Finalmente, se submeta aos meus ensinos."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

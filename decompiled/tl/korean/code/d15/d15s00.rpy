@@ -1,5 +1,3 @@
-
-
 translate korean strings:
 
 
@@ -13,5 +11,4 @@ translate korean strings:
 
     old "Play Week-3"
     new "셋째 주 시작하기"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

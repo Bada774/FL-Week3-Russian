@@ -299,7 +299,7 @@ label e04s03_bring_lc:
     play voice3 stacy_hey noloop
     if persistent.is_special is True:
         sy "Hey, bro."
-    elif True:
+    else:
         sy "Hey, [mcname]."
     sy "You've got no problem with me showing the prisoner what happens to bad girls, right?"
     scene e04s03-54 mc-gives-okay_c1 with dissolve
@@ -358,7 +358,7 @@ label e04s03_bring_lc:
     sy "Ooooh. You want to get back at me so bad. Don't ya?"
     if persistent.is_special is True:
         sy "Then you shouldn't have fucked with my brother, you bitch!"
-    elif True:
+    else:
         sy "Then you shouldn't have fucked with [mcname], you bitch!"
     scene e04s03-65 arj-asking-step-in-mc-be-afraid_c1 with dissolve
     play voice4 amrose_arrogant_huh4 noloop
@@ -625,7 +625,7 @@ label e04s03_bring_lc:
     play voice3 stacy_moan3 noloop
     if persistent.is_special is True:
         sy "Oouhaah... It's not your dick, bro, but it will do in a pinch."
-    elif True:
+    else:
         sy "Oouhaah... It's not your dick, [mcname], but it will do in a pinch."
     scene e04s03-116 sy-backs-up-into-dildo_c1 with dissolve
     pause
@@ -933,5 +933,4 @@ label e04s03_end:
     stop music2 fadeout 3.5
 
     jump e04s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

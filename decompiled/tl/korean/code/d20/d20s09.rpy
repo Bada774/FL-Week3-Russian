@@ -1,6 +1,4 @@
 
-
-
 translate korean d20s09_5763cea5:
 
 
@@ -485,5 +483,4 @@ translate korean d20s09_826b7f32:
 
 
     mc "잘 자, 하나."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,534 +1,534 @@
-﻿# TODO: Translation updated at 2023-07-01 17:14
 
-# game/code/e10/e10s03.rpy:23
+
+
 translate russian e10s03_9bb71d64:
 
-    # mc "*Whistles* Damn. This is one bougie apartment."
+
     mc "*присвистывает* Чёрт. Это самая настоящая квартира буржуев."
 
-# game/code/e10/e10s03.rpy:26
+
 translate russian e10s03_27401c6f:
 
-    # mes "Yeah..."
+
     mes "Ага..."
 
-# game/code/e10/e10s03.rpy:29
+
 translate russian e10s03_5333098c:
 
-    # mc "I wonder how much this place costs?"
+
     mc "Интересно, сколько она стоит?"
 
-# game/code/e10/e10s03.rpy:32
+
 translate russian e10s03_c8087d18:
 
-    # mes "Who knows? My dad doesn't care about the bill."
+
     mes "Кто знает? Моего отца не волнует цена."
 
-# game/code/e10/e10s03.rpy:35
+
 translate russian e10s03_7cf18945:
 
-    # mes "{i}The daughter of the \"illustrious CEO\" needs to have a publicly glamorous apartment.{/i}"
+
     mes "{i}Дочери \"успешного генерального директора\" нужна подходящая гламурная квартира.{/i}"
 
-# game/code/e10/e10s03.rpy:38
+
 translate russian e10s03_b2b9e19d:
 
-    # mc "What do you mean?"
+
     mc "Что ты имеешь в виду?"
 
-# game/code/e10/e10s03.rpy:41
+
 translate russian e10s03_9e5ad24c:
 
-    # mes "It means it's all a ploy to keep up appearances to the outside world."
+
     mes "Это означает, что всё это всего лишь уловка, чтобы сохранить имидж перед внешним миром."
 
-# game/code/e10/e10s03.rpy:42
+
 translate russian e10s03_3c0c0f5d:
 
-    # mes "My comfort is just a nice little bonus."
+
     mes "Мой комфорт - всего лишь маленький приятный бонус."
 
-# game/code/e10/e10s03.rpy:46
+
 translate russian e10s03_297d66b0:
 
-    # mes "{size=22}It's all about control.{/size}"
+
     mes "{size=22}Всё дело в контроле.{/size}"
 
-# game/code/e10/e10s03.rpy:50
+
 translate russian e10s03_039656b2:
 
-    # mc "Control?"
+
     mc "Контроле?"
 
-# game/code/e10/e10s03.rpy:51
+
 translate russian e10s03_25392970:
 
-    # mc "Damn if I wouldn't like to be controlled like {i}this{/i}."
+
     mc "Чёрт, я бы очень не хотел, чтобы меня контролировали {i}вот так{/i}."
 
-# game/code/e10/e10s03.rpy:54
+
 translate russian e10s03_81aef917:
 
-    # mes "..."
+
     mes "..."
 
-# game/code/e10/e10s03.rpy:57
+
 translate russian e10s03_7a7a4a6c:
 
-    # mct "Well shit. That completely bombed."
+
     mct "Какой ужас. Это был абсолютный провал."
 
-# game/code/e10/e10s03.rpy:60
+
 translate russian e10s03_57d11cf2:
 
-    # mc "Hey. It's going to be alright."
+
     mc "Эй. Всё будет хорошо."
 
-# game/code/e10/e10s03.rpy:61
+
 translate russian e10s03_93255d37:
 
-    # mc "I wish that you could just do what you want to. But I understand the obligation you feel to your family."
+
     mc "Я бы хотел, чтобы ты просто могла делать то, что хочешь. Но я понимаю, какие обязательства у тебя перед своей семьей."
 
-# game/code/e10/e10s03.rpy:64
+
 translate russian e10s03_05a8ddec:
 
-    # mes "I appreciate that."
+
     mes "Я ценю это."
 
-# game/code/e10/e10s03.rpy:70
+
 translate russian e10s03_7cf5ac74:
 
-    # mes "But enough about my situation. What are you going to do?"
+
     mes "Но хватит обо мне. Чем ты хочешь заняться?"
 
-# game/code/e10/e10s03.rpy:71
+
 translate russian e10s03_24a8e19d:
 
-    # mes "Do you really want to spend the Summer here with me?"
+
     mes "Ты правда хочешь провести лето здесь со мной?"
 
-# game/code/e10/e10s03.rpy:74
+
 translate russian e10s03_3148def7:
 
-    # mc "Of course! Where else would I go?"
+
     mc "Конечно! Чего мне ещё хотеть?"
 
-# game/code/e10/e10s03.rpy:77
+
 translate russian e10s03_24095088:
 
-    # mc "I'm in an amazing country with so many things to do and learn and I'm here with my beautiful girlfriend."
+
     mc "Я нахожусь в удивительной стране, где столько всего можно сделать и столькому научиться, и я здесь со своей прекрасной девушкой."
 
-# game/code/e10/e10s03.rpy:78
+
 translate russian e10s03_2a7effc2:
 
-    # mc "What more could I ask for?"
+
     mc "О чём ещё можно просить?"
 
-# game/code/e10/e10s03.rpy:82
+
 translate russian e10s03_f6bf2850:
 
-    # mes "*Yelps*"
+
     mes "*визжит*"
 
-# game/code/e10/e10s03.rpy:84
+
 translate russian e10s03_232ca5cc:
 
-    # mc "Now what do you say we go put that comfy couch to some use?"
+
     mc "А теперь, что ты скажешь на то, если мы поищем применение этому удобному дивану?"
 
-# game/code/e10/e10s03.rpy:87
+
 translate russian e10s03_76d81018:
 
-    # mes "That's the best idea I've heard all week."
+
     mes "Это лучшая идея, которую я слышала за всю неделю."
 
-# game/code/e10/e10s03.rpy:98
+
 translate russian e10s03_e7a26b23:
 
-    # mc "*Yawns*"
+
     mc "*зевает*"
 
-# game/code/e10/e10s03.rpy:101
+
 translate russian e10s03_09f91c64:
 
-    # mc "Min?"
+
     mc "Мин?"
 
-# game/code/e10/e10s03.rpy:104
+
 translate russian e10s03_1c3dd136:
 
-    # mes "Good morning. You sure slept well."
+
     mes "Доброе утро. Ты так хорошо спал."
 
-# game/code/e10/e10s03.rpy:108
+
 translate russian e10s03_4c96edc8:
 
-    # mc "Yeah... Morning. Why are you up so early?"
+
     mc "Ага... Утречко. Почему ты так рано встала?"
 
-# game/code/e10/e10s03.rpy:111
+
 translate russian e10s03_73dc1c6b:
 
-    # mes "I have work, remember?"
+
     mes "У меня теперь есть работа, помнишь?"
 
-# game/code/e10/e10s03.rpy:114
+
 translate russian e10s03_76e6362b:
 
-    # mc "Oh yeah..."
+
     mc "Ах, да..."
 
-# game/code/e10/e10s03.rpy:115
+
 translate russian e10s03_38e18638:
 
-    # mc "I slept like a baby."
+
     mc "Я спал как младенец."
 
-# game/code/e10/e10s03.rpy:118
+
 translate russian e10s03_b11f5511:
 
-    # mes "No. Not right now. I just ironed them. I don't want them to wrinkle."
+
     mes "Нет. Не сейчас. Я её только что погладила. Не хочу, чтобы она помялась."
 
-# game/code/e10/e10s03.rpy:121
+
 translate russian e10s03_bec863d4:
 
-    # mc "Oh... Okay, sorry."
+
     mc "Ох... Ладно, извини."
 
-# game/code/e10/e10s03.rpy:124
+
 translate russian e10s03_c9ca8a39:
 
-    # mes "I jus— *Sighs* I'm sorry. It's just I'm already stressed and anxious, and I want to look well put together for my first day."
+
     mes "Я просто... *вздох* Прости. Просто я слишком волнуюсь. И я хочу хорошо выглядеть в свой первый день."
 
-# game/code/e10/e10s03.rpy:127
+
 translate russian e10s03_ce877b52:
 
-    # mc "Hey. I understand. It's okay."
+
     mc "Эй. Я понимаю. Всё нормально."
 
-# game/code/e10/e10s03.rpy:130
+
 translate russian e10s03_60314aff:
 
-    # mes "Thank you."
+
     mes "Спасибо."
 
-# game/code/e10/e10s03.rpy:136
+
 translate russian e10s03_2dac84c4:
 
-    # mes "Okay. I should get back to it. I need to get there early."
+
     mes "Ладно. Мне пора. Мне нужно приехать туда пораньше."
 
-# game/code/e10/e10s03.rpy:137
+
 translate russian e10s03_83dad848:
 
-    # mes "Are you sure you're gonna be okay?"
+
     mes "Ты уверен, что с тобой всё будет в порядке?"
 
-# game/code/e10/e10s03.rpy:140
+
 translate russian e10s03_77997536:
 
-    # mc "Don't worry about me. I'll be just—"
+
     mc "Не беспокойся обо мне. Я буду просто..."
 
-# game/code/e10/e10s03.rpy:144
+
 translate russian e10s03_5875a1bf:
 
-    # mc "Fine..."
+
     mc "Ладно..."
 
-# game/code/e10/e10s03.rpy:147
+
 translate russian e10s03_5a990c4e:
 
-    # mc "...Well, I might as well get busy."
+
     mc "...Ну, я могу заняться другими делами."
 
-# game/code/e10/e10s03.rpy:151
+
 translate russian e10s03_4f12a202:
 
-    # mc "Maybe I'll see what all this fuss with this about K-drama stuff is about."
+
     mc "Может хоть посмотрю, из-за чего весь этот шум вокруг дорам."
 
-# game/code/e10/e10s03.rpy:179
+
 translate russian e10s03_8ada407b:
 
-    # mc "Hey! I missed you!"
+
     mc "Привет! Я скучал по тебе!"
 
-# game/code/e10/e10s03.rpy:182
+
 translate russian e10s03_ef5461d1:
 
-    # mc "How was your first day at work?"
+
     mc "Как прошёл твой первый рабочий день?"
 
-# game/code/e10/e10s03.rpy:186
+
 translate russian e10s03_6a50c24d:
 
-    # mes "Exhausting."
+
     mes "Утомительно."
 
-# game/code/e10/e10s03.rpy:189
+
 translate russian e10s03_73bdd3cc:
 
-    # mc "Damn. What'd they have you do? Hard labor?"
+
     mc "Проклятье. Что они заставили тебя сделать? Каторжные работы?"
 
-# game/code/e10/e10s03.rpy:192
+
 translate russian e10s03_c3949d9f:
 
-    # mes "Worse. I was basically paraded around the company and introduced to people."
+
     mes "Хуже. Меня водили по всей компании и знакомили с людьми."
 
-# game/code/e10/e10s03.rpy:193
+
 translate russian e10s03_b0a496bf:
 
-    # mes "I would've preferred hard labor."
+
     mes "Я бы предпочла каторжные работы."
 
-# game/code/e10/e10s03.rpy:197
+
 translate russian e10s03_e56a89b9:
 
-    # mc "*Chuckles* I'm sure it'll get better once you get into the groove of it."
+
     mc "*смеётся* Я уверен, что всё станет лучше, как только ты войдёшь в ритм."
 
-# game/code/e10/e10s03.rpy:200
+
 translate russian e10s03_ec33bc60:
 
-    # mes "Yeah, hopefully."
+
     mes "Ага, надеюсь."
 
-# game/code/e10/e10s03.rpy:203
+
 translate russian e10s03_36197f1d:
 
-    # mes "I think I'm just going to go pass out. I'm way too tired to exist right now."
+
     mes "Думаю, я сейчас просто отключусь. Я сейчас слишком устала, чтобы продолжать своё существование."
 
-# game/code/e10/e10s03.rpy:206
+
 translate russian e10s03_62bf1979:
 
-    # mc "Do you want me to order some dinner real quick, though?"
+
     mc "Хочешь, я закажу ужин?"
 
-# game/code/e10/e10s03.rpy:209
+
 translate russian e10s03_d472ee2d:
 
-    # mes "No, it's okay. I had dinner with dad and some of the board members."
+
     mes "Нет, всё нормально. Я уже поужинала с отцом и некоторыми членами совета директоров."
 
-# game/code/e10/e10s03.rpy:212
+
 translate russian e10s03_749b0df9:
 
-    # mc "Oh... Okay."
+
     mc "Ох... Ладно."
 
-# game/code/e10/e10s03.rpy:213
+
 translate russian e10s03_674174cb:
 
-    # mct "I'll just heat something up for myself then."
+
     mct "Тогда просто разогрею что-нибудь для себя."
 
-# game/code/e10/e10s03.rpy:414
+
 translate russian e10s03_motage_end_aaaa3fb1:
 
-    # mc "Aauuuummmm."
+
     mc "Аауууумммм."
 
-# game/code/e10/e10s03.rpy:420
+
 translate russian e10s03_motage_end_b0cbb7b6:
 
-    # mes "I'm home—!"
+
     mes "Я дома...!"
 
-# game/code/e10/e10s03.rpy:424
+
 translate russian e10s03_motage_end_81e2ab87:
 
-    # mes "...[mcname]?"
+
     mes "...[mcname]?"
 
-# game/code/e10/e10s03.rpy:429
+
 translate russian e10s03_motage_end_d18afa79:
 
-    # mes "[mcname]? What are you doing?"
+
     mes "[mcname]? Что ты делаешь?"
 
-# game/code/e10/e10s03.rpy:432
+
 translate russian e10s03_motage_end_ad7863e1:
 
-    # mc "I've decided to save us."
+
     mc "Я решил нас спасти."
 
-# game/code/e10/e10s03.rpy:435
+
 translate russian e10s03_motage_end_431dda26:
 
-    # mes "...Huh?"
+
     mes "...А?"
 
-# game/code/e10/e10s03.rpy:437
+
 translate russian e10s03_motage_end_cfbc3805:
 
-    # mes "Save us from what?"
+
     mes "Спасти от чего?"
 
-# game/code/e10/e10s03.rpy:440
+
 translate russian e10s03_motage_end_f20be193:
 
-    # mc "From this.{w} From this dull and mundane life."
+
     mc "От этого.{w} От этой унылой и обыденной жизни."
 
-# game/code/e10/e10s03.rpy:441
+
 translate russian e10s03_motage_end_087444d0:
 
-    # mc "From this existence where we watch idly as life drifts away. This life where we barely touch each other anymore."
+
     mc "От этого существования, где мы безучастно наблюдаем, как проходит наша жизнь. Жизнь, в которой мы больше почти не прикасаемся друг к другу."
 
-# game/code/e10/e10s03.rpy:447
+
 translate russian e10s03_motage_end_ce24f3e9:
 
-    # mes "And how exactly do you intend to \"save us\" from this?"
+
     mes "И как именно ты собираешься \"спасти\" нас от этого?"
 
-# game/code/e10/e10s03.rpy:450
+
 translate russian e10s03_motage_end_e6161be7:
 
-    # mc "By making your dream come true!"
+
     mc "Воплотив твою мечту в реальность!"
 
-# game/code/e10/e10s03.rpy:453
+
 translate russian e10s03_motage_end_08abf5ab:
 
-    # mes "My dream being...?"
+
     mes "А моя мечта - это...?"
 
-# game/code/e10/e10s03.rpy:456
+
 translate russian e10s03_motage_end_b4b92ada:
 
-    # mc "High-frequency trading by using sentiment analysis!"
+
     mc "Высокочастотная торговля с использованием анализа настроений!"
 
-# game/code/e10/e10s03.rpy:459
+
 translate russian e10s03_motage_end_9e6229a3:
 
-    # mes "...What? What are you saying?"
+
     mes "...Что? О чём ты говоришь?"
 
-# game/code/e10/e10s03.rpy:462
+
 translate russian e10s03_motage_end_150bb079:
 
-    # mc "Min, I'll be honest. I've been bored out of my mind staying here, all alone without you."
+
     mc "Мин, я буду честен. Мне до безумия скучно здесь сидеть, одному, без тебя."
 
-# game/code/e10/e10s03.rpy:463
+
 translate russian e10s03_motage_end_5577e409:
 
-    # mc "Not to mention, I see how tired it makes you to work at that job."
+
     mc "Не говоря уже о том, что я вижу, как ты устаёшь, работая на этой работе."
 
-# game/code/e10/e10s03.rpy:466
+
 translate russian e10s03_motage_end_26273f8d:
 
-    # mc "So I decided to take matters into my own hands."
+
     mc "Так что, я решил взять дело в свои руки."
 
-# game/code/e10/e10s03.rpy:467
+
 translate russian e10s03_motage_end_74d8fedb:
 
-    # mc "If I have an abundance of anything, it's time, so I've been using that time to research and learn more about HFTUSA—though I haven't had time to workshop a good name for it."
+
     mc "Если у меня что и было в избытке, так это время, поэтому я использовал это время, чтобы исследовать и узнать больше о ВТСИАН - хотя у меня и не хватило времени придумать для этого хорошее название."
 
-# game/code/e10/e10s03.rpy:470
+
 translate russian e10s03_motage_end_65724075:
 
-    # mes "That's a terrible acronym."
+
     mes "Это ужасная аббревиатура."
 
-# game/code/e10/e10s03.rpy:473
+
 translate russian e10s03_motage_end_dc26e23e:
 
-    # mc "It really is."
+
     mc "Так и есть."
 
-# game/code/e10/e10s03.rpy:474
+
 translate russian e10s03_motage_end_c41ffd82:
 
-    # mc "Anyway. I know that this is what you want to do, and after having looked into it, I find it really interesting as well!"
+
     mc "В любом случае. Я знаю, что это то, чем ты хочешь заниматься, и после некоторого изучения этого вопроса, я тоже нахожу это действительно интересным!"
 
-# game/code/e10/e10s03.rpy:475
+
 translate russian e10s03_motage_end_2a3fdf7e:
 
-    # mc "So then an idea came to me. Why don't we make a company that specializes in that?"
+
     mc "И тогда мне в голову пришла идея. Почему бы нам не создать компанию, специализирующуюся на этом?"
 
-# game/code/e10/e10s03.rpy:476
+
 translate russian e10s03_motage_end_dc07fc89:
 
-    # mc "With your knowledge and my business acumen, we could do it!"
+
     mc "С твоими знаниями и моей деловой хваткой мы сможем это сделать!"
 
-# game/code/e10/e10s03.rpy:479
+
 translate russian e10s03_motage_end_e1b31c79:
 
-    # mes "[mcname] I'm not sure... Especially with my work—"
+
     mes "[mcname], я не уверена... Особенно с моей работой..."
 
-# game/code/e10/e10s03.rpy:482
+
 translate russian e10s03_motage_end_367b87e2:
 
-    # mc "I knew you'd say that. And that's why you will only be helping me when you can."
+
     mc "Я знал, что ты это скажешь. И именно поэтому ты будешь помогать мне только тогда, когда сможешь."
 
-# game/code/e10/e10s03.rpy:485
+
 translate russian e10s03_motage_end_d5e6b4fc:
 
-    # mc "{i}I'll{/i} take care of the rest of it. I already have a solid business plan going."
+
     mc "{i}Я{/i} позабочусь обо всём остальном. У меня уже есть чёткий бизнес-план."
 
-# game/code/e10/e10s03.rpy:488
+
 translate russian e10s03_motage_end_7189925e:
 
-    # mes "...I don't know..."
+
     mes "...Я не знаю..."
 
-# game/code/e10/e10s03.rpy:491
+
 translate russian e10s03_motage_end_b27675ec:
 
-    # mc "Min, I know you're not satisfied with this life either. You can do so much more than this. {i}Achieve{/i} so much more."
+
     mc "Мин, я знаю, что тебя тоже не удовлетворяет такая жизнь. Ты можешь сделать гораздо больше. {i}Достичь{/i} гораздо большего."
 
-# game/code/e10/e10s03.rpy:492
+
 translate russian e10s03_motage_end_80447ba0:
 
-    # mc "But I know that you can't do that while also working at your father's place.{w} So let me {i}help{/i}.{w} Together, we can do this."
+
     mc "Но я знаю, что ты не сможешь делать это, одновременно работая у своего отца.{w} Так что позволь мне {i}помочь{/i}.{w} Вместе мы сможем это сделать."
 
-# game/code/e10/e10s03.rpy:495
+
 translate russian e10s03_motage_end_ac49604b:
 
-    # mes "...You said you had a business plan?"
+
     mes "...Ты сказал, что у тебя есть бизнес-план?"
 
-# game/code/e10/e10s03.rpy:500
+
 translate russian e10s03_motage_end_48667672:
 
-    # mc "Yes! That's what I'm talking about."
+
     mc "Да! Я как раз об этом и говорю."
 
-# game/code/e10/e10s03.rpy:501
+
 translate russian e10s03_motage_end_0bdb2bde:
 
-    # mc "Alright, sit your butt down and get comfy 'cause we're gonna be here a while."
+
     mc "Хорошо, присаживайся поудобнее, потому что это надолго."
 
 translate russian strings:
 
-    # game/code/e10/e10s03.rpy:251
+
     old "New day new possibilities"
     new "Новый день - новые возможности"
 
-    # game/code/e10/e10s03.rpy:277
+
     old "New day new beginning"
     new "Новый день - новое начало"
-
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

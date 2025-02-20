@@ -1,6 +1,4 @@
 
-
-
 translate spanish e11s03_9eb8e074:
 
 
@@ -1223,5 +1221,4 @@ translate spanish strings:
 
     old "Finish in her pussy"
     new "Terminar en su coño"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

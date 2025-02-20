@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -198,8 +196,6 @@ translate spanish strings:
     old "Ending 13: Pregnant Nora"
     new "Final 13: Nora embarazada"
 
-
-
 translate spanish strings:
 
 
@@ -209,8 +205,6 @@ translate spanish strings:
 
     old "Ending 14: Polly & Nora"
     new "Final 14: Polly y Nora"
-
-
 
 translate spanish strings:
 
@@ -222,8 +216,6 @@ translate spanish strings:
     old "Ending 17: Dahlia"
     new "Final 17: Dahlia"
 
-
-
 translate spanish strings:
 
 
@@ -234,4 +226,55 @@ translate spanish strings:
     old "Ending 07: Girls"
     new "Final 07: Chicas"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate spanish strings:
+
+
+    old "Ending 05: Lyssa & Oliver"
+    new "Final 05: Lyssa y Oliver"
+
+
+    old "Ending 16: Jessie & Kaniya"
+    new "Final 16: Jessie y Kaniya"
+
+
+    old "Ending 16: Farm Animals"
+    new "Final 16: Animales de granja"
+
+translate spanish strings:
+
+
+    old "Ending 16: Jessie & Kanya"
+    new "Final 16: Jessie y Kanya"
+
+translate spanish strings:
+
+
+    old "Ending 15: Girls"
+    new "Final 15: Chicas"
+
+
+    old "Ending 18: Samiya & Dahlia"
+    new "Final 18: Samiya y Dahlia"
+
+
+    old "Ending 18: Kendell & Londyn"
+    new "Final 18: Kendell y Londyn"
+
+
+    old "Ending 18: Four Beauties"
+    new "Final 18: Cuatro Bellezas"
+
+translate spanish strings:
+
+
+    old "Ending 03: Girls"
+    new "Ending 03: Chicas"
+
+
+    old "Ending 09: Girls"
+    new "Ending 09: Chicas"
+
+
+    old "Ending 09: Greek Goddesses"
+    new "Ending 09: Diosas Griegas"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

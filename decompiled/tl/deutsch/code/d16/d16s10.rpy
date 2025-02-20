@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d16s10_d9159219:
 
 
@@ -1381,5 +1379,4 @@ translate deutsch strings:
 
     old "Tell her how you came while she was under the table"
     new "Erzähl ihr, wie du gekommen bist, als sie unter dem Tisch war"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

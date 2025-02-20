@@ -1,6 +1,4 @@
 
-
-
 translate chinese e01s02_fd8d44aa:
 
 
@@ -804,8 +802,6 @@ translate chinese strings:
     old "At Subway Station"
     new "在地铁站"
 
-
-
 translate chinese strings:
 
 
@@ -819,5 +815,4 @@ translate chinese strings:
 
     old "In Fetish Locator: S&M Studio!"
     new "在《性趣探测器：S&M工作室》见！"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s02_ce86b6d4:
 
 
@@ -455,8 +453,6 @@ translate malay strings:
     new "Sudah Cukup Buat Masa Ini"
 
 
-
-
 translate malay d15s02_b6e0d059:
 
 
@@ -467,5 +463,4 @@ translate malay strings:
 
     old "10 minutes of walking later"
     new "Selepas 10 minit berjalan"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

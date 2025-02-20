@@ -1,6 +1,4 @@
 
-
-
 translate turkish d18s02_f772c18d:
 
 
@@ -304,6 +302,5 @@ translate turkish strings:
 
 
     old "1 hour later\nAt Stacy's house"
-    new "1 saat sonra\\NStacy'nin evinde"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "1 saat sonra\nStacy'nin evinde"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

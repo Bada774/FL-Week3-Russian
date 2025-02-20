@@ -354,7 +354,7 @@ label e08s07_night:
 
     if date_sy is False:
         jump e08s07_arj_only
-    elif True:
+    else:
         jump e08s07_continue
 
 label e08s07_continue:
@@ -1023,7 +1023,7 @@ label e08s07_next_day:
     play voice4 stacy_hey noloop
     if e08s07_invite_sy is True:
         $ unlock_gallery_slot("scene", "e08s07")
-    elif True:
+    else:
         $ unlock_gallery_slot("scene", "e08s07a")
     sy "Morning. I hate to say it, but it looks like I'll have to cut the weekend trip a little short."
     play voice2 mc_surprised_what2 noloop
@@ -1080,5 +1080,4 @@ label e08s07_end:
     stop music fadeout 3.0
 
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

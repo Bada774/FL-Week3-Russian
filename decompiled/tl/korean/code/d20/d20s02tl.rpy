@@ -1,6 +1,4 @@
 
-
-
 translate korean d20s02tl_56e9281f:
 
 
@@ -2223,5 +2221,4 @@ translate korean strings:
 
     old "Whip Them Both Together"
     new "두 사람에게 채찍질을 한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

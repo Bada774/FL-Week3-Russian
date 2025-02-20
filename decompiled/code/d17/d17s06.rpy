@@ -49,7 +49,7 @@ label d17s06:
     if date_pw is True:
         if date_dw is True or date_dd is True:
             mct "Hmm. Polly also says that she & Nora are going to the amusement park... and they're horny as hell?!"
-        elif True:
+        else:
             mct "Hmm. Polly says that she & Nora are going to the amusement park... and they're horny as hell?!"
     scene d17s06-05 mc-phone-sit-thinking_c1 with dissolve
     play voice2 d3s11b_mcheh noloop volume 1.6
@@ -103,5 +103,4 @@ label d17s06_study:
 
     stop music fadeout 3.0
     jump d17s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

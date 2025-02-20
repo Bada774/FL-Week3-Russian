@@ -1,6 +1,4 @@
 
-
-
 translate spanish ending_not_available_f3f9fce0:
 
 
@@ -56,7 +54,7 @@ translate spanish strings:
 
 
     old "Ending #09\nFetish Locator: Rebooted"
-    new "Final #09\nLocalizador de Fetiches: Reiniciado"
+    new "Final #09\nFetish Locator: Reiniciado"
 
 
     old "Ending #11\nRed Diamond"
@@ -85,5 +83,4 @@ translate spanish strings:
 
     old "Ending #18\nQuartet"
     new "Final #18\nCuarteto"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

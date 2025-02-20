@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -13,5 +11,4 @@ translate chinese strings:
 
     old "Not_"
     new "不是_"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

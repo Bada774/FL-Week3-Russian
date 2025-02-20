@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d20s04_63ba38f0:
 
 
@@ -1451,5 +1449,4 @@ translate deutsch strings:
 
     old "She was just visiting."
     new "Sie war nur zu Besuch."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

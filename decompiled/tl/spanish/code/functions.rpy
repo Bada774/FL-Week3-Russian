@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -30,12 +28,9 @@ translate spanish strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Sólo puedes elegir a una entre Daisy y Dahlia"
 
-
-
 translate spanish strings:
 
 
     old "You have unlocked Ending #{}"
     new "Has desbloqueado el final #{}"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

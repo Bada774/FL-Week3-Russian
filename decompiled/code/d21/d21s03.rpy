@@ -230,7 +230,7 @@ label d21s03:
                 play voice2 d9s2_mcyes2 noloop volume 2.3
                 mc "...Yes."
                 stop sound fadeout 1.0
-    elif True:
+    else:
         menu:
             "Tell about Fetish Locator's wrongdoings"(hint="d21s03m03c01"):
                 $ d21s03_statement_2 = True
@@ -313,7 +313,7 @@ label d21s03:
             scene d21s03-32 mc-vumc-pm-end1_c1 with dissolve
             play voice2 mc_arrogant_hm3 noloop
             mc "I guess that was another way for her to control me."
-    elif True:
+    else:
         scene d21s03-31 mc-vumc-pm-talk4_c1 with dissolve
         play voice2 mc_thinking_emm1 noloop
         mc "Well, it wasn't actually 20 people. I only got [fl_w2_sex_count]."
@@ -340,5 +340,4 @@ label d21s03:
 
     stop music fadeout 3.0
     jump d21s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

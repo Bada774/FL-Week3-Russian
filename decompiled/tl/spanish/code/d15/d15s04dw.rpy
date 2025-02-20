@@ -1,6 +1,4 @@
 
-
-
 translate spanish d15s04dw_4290d7de:
 
 
@@ -1071,5 +1069,4 @@ translate spanish strings:
 
     old "Let the girls think it was entirely up to them"
     new "Deja que las chicas piensen que todo depende de ellas"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

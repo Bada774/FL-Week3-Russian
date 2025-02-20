@@ -128,4 +128,45 @@ translate turkish strings:
     old "Ezra"
     new "Ezra"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    old "Debbie"
+    new "Debbie"
+
+    old "Gemma"
+    new "Gemma"
+
+    old "Harry"
+    new "Harry"
+
+    old "Lily"
+    new "Lily"
+
+    old "Room Service"
+    new "Oda Servisi"
+
+    old "Domina"
+    new "Domina"
+
+    old "Janet"
+    new "Janet"
+
+    old "Gary"
+    new "Gary"
+
+    old "Molly the Dog"
+    new "Köpek Molly"
+
+    old "Ryan"
+    new "Ryan"
+
+    old "Taisia"
+    new "Taisia"
+
+    old "Sage"
+    new "Sage"
+
+    old "Kristen"
+    new "Kristen"
+
+    old "High Priestess"
+    new "Baş Rahibe"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

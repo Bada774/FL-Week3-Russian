@@ -713,7 +713,7 @@ label d16s07_ext:
         play sound sfx_photocamera_flash1
         scene d16s07-124 mc_jf_kv_zebra_sex_with_jessie with Fade(.25, 0, .75, color="#fff")
         pause
-    elif True:
+    else:
         play sound sfx_photocamera_flash1
         scene d16s07-123 mc_jf_kv_zebra_sex_with_jessie with Fade(.25, 0, .75, color="#fff")
         pause
@@ -755,5 +755,4 @@ label d16s07_ext:
     $ renpy.end_replay()
 
     jump d16s08
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

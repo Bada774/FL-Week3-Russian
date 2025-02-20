@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e08s02_bc4608e2:
 
 
@@ -2365,5 +2363,4 @@ translate deutsch strings:
 
     old "I'd rather not"
     new "Das möchte ich nicht"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

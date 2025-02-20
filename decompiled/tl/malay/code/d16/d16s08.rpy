@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s08_d60f6efd:
 
 
@@ -913,8 +911,6 @@ translate malay d16s08_719d7ead:
     arj "Ha ha. Jomlah."
 
 
-
-
 translate malay d16s08_94638573:
 
 
@@ -955,5 +951,4 @@ translate malay d16s08_92fd0e4a:
 
 
     mc "Yeah. Aku betul-betul kena bercakap dengannya tentang beberapa perkara esok, jadi mungkin aku boleh bekerja sedikit masa yang menyeronokkan juga."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

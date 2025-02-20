@@ -515,5 +515,4 @@ label e10s03_motage_end:
     stop music fadeout 4.5
 
     jump e10s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate malay e01s02_fd8d44aa:
 
 
@@ -804,8 +802,6 @@ translate malay strings:
     old "At Subway Station"
     new "Di Stesen Kereta Api Bawah Tanah"
 
-
-
 translate malay strings:
 
 
@@ -819,5 +815,4 @@ translate malay strings:
 
     old "In Fetish Locator: S&M Studio!"
     new "Dalam {w}Fetish Locator: Studio S&M!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

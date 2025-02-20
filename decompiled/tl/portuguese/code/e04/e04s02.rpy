@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e04s02_c212447d:
 
 
@@ -857,5 +855,4 @@ translate portuguese strings:
 
     old "What do you want Lydia to call you?"
     new "Do que você quer que a Lydia te chame?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

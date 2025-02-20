@@ -1,6 +1,4 @@
 
-
-
 translate chinese e07s07_ddc7908e:
 
 
@@ -1951,5 +1949,4 @@ translate chinese strings:
 
     old "You have failed Ending #07!"
     new "您未能通过结局#07!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -366,7 +366,7 @@ label d19s01ntr_decision:
     play voice2 mc_thinking_hmm5 noloop
     if d19s01ntr_no_ques is True:
         mc "No questions."
-    elif True:
+    else:
         mc "No further questions."
     scene d19s01ntr-62 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
     play voice3 min_angry_cough noloop volume 0.7
@@ -375,7 +375,7 @@ label d19s01ntr_decision:
     play voice2 mc_surprised_oof1 noloop
     if d19s01ntr_no_ques is True:
         mc "I mean, \"No questions, Mistress\"."
-    elif True:
+    else:
         mc "I mean, \"No further questions, Mistress\"."
     scene d19s01ntr-64 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
     play voice3 dahlia_happy_hmm1 noloop
@@ -383,7 +383,7 @@ label d19s01ntr_decision:
 label e07_start_label hide:
     if from_ending_menu is False:
         scene d19s01ntr-65 mc_lc_pd_ntr_lydias_dungeon_decision with dissolve
-    elif True:
+    else:
         $ renpy.music.set_volume(0.6, 1.0, "music")
         scene d19s01ntr-65 mc_lc_pd_ntr_lydias_dungeon_decision with Fade(0.5, 0.5, 0.5)
         play music music_cumtusion
@@ -626,7 +626,7 @@ label d19s01ntr_end:
         "911 Operator" "Please state the nature of the emergency."
         play voice2 d1s5b_ehhh noloop volume 1.7
         mc "I need to report an abduction and an upcoming abduction attempt..."
-    elif True:
+    else:
         scene d19s01ntr-129 mc_lc_pd_ntr_lydias_dungeon_blackmailed with dissolve
         play voice3 aaleyah_disappointed_eeh2 noloop
         ah "Lydia's rich. The cops won't do anything."
@@ -693,5 +693,4 @@ label d19s01ntr_end:
 
     stop music fadeout 3.5
     jump d19s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

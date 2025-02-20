@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e10s02_b5278bcc:
 
 
@@ -583,5 +581,4 @@ translate portuguese strings:
 
     old "Tell them that she has other plans"
     new "Falar para eles que ela tem outros planos"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -199,7 +199,7 @@ label replay_d16s02 hide:
             play voice2 mc_thinking_mmm1 noloop
             if date_arj_romance is False:
                 mc "Spread yourself for me."
-            elif True:
+            else:
                 mc "Can you spread yourself for me?"
 
             play voice3 dahlia_sex_closedmoan3 noloop
@@ -258,7 +258,7 @@ label replay_d16s02 hide:
             if date_arj_romance is False:
                 play voice2 mc_no_no5 noloop
                 mc "No. We can't. Lydia might come out any second."
-            elif True:
+            else:
                 play voice2 mc_arrogant_hm3 noloop
                 mc "Uh... I'm not sure. I don't think we have the time. Lydia might come out any second."
             scene d16s02-07 mc-arj-entrance-talk1_c2 with dissolve
@@ -269,5 +269,4 @@ label replay_d16s02 hide:
     stop sound2 fadeout 2.5
     $ renpy.music.set_volume(1.0, 2.0, "sound3")
     jump d16s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

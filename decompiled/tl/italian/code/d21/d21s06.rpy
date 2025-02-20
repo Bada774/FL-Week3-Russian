@@ -1,6 +1,4 @@
 
-
-
 translate italian d21s06_a1ce140a:
 
 
@@ -1315,48 +1313,6 @@ translate italian d21s06_reboot_fl_00d7d5cb:
     sy "Come pensi che dovremmo chiamarlo?"
 
 
-translate italian d21s06_reboot_fl_334a8367:
-
-
-    sy "[fl_rebooted_name]."
-
-
-translate italian d21s06_reboot_fl_1923ec31:
-
-
-    sy "Ottimo nome."
-
-
-translate italian d21s06_reboot_fl_db9edca0:
-
-
-    arj "Davvero?"
-
-
-translate italian d21s06_reboot_fl_6ae37544:
-
-
-    sy "Almeno non l'ha chiamato Locate Fetish."
-
-
-translate italian d21s06_reboot_fl_acaa56d1:
-
-
-    sy "Locate Fetish? Davvero???"
-
-
-translate italian d21s06_reboot_fl_f4d2de8b:
-
-
-    mc "Hey, se non vi piace, trovate voi l'alternativa. Altrimenti, non lamentatevi."
-
-
-translate italian d21s06_reboot_fl_3efe3ff8:
-
-
-    sy "Non ho detto nulla."
-
-
 translate italian d21s06_reboot_fl_2bad061a:
 
 
@@ -1615,12 +1571,6 @@ translate italian d21s06_reboot_fl_e8bc5c3f:
     sy "Vuoi averlo scritto?"
 
 
-translate italian d21s06_reboot_fl_6d70e240:
-
-
-    arj "Okay, okay. Non credo che voi vogliate fare schifezze come i vecchi sviluppatori di Fetish Locator."
-
-
 translate italian d21s06_reboot_fl_e3616b15:
 
 
@@ -1649,12 +1599,6 @@ translate italian d21s06_reboot_fl_1e4e84ed:
 
 
     sy "Puoi essere più specifica? Cosa non vuoi che accada ancora?"
-
-
-translate italian d21s06_reboot_fl_bec7bdda:
-
-
-    arj "Tutti i Contro che ho detto. No alle bugie, menzogne e manipolazione."
 
 
 translate italian d21s06_reboot_fl_d3a6634e:
@@ -1735,12 +1679,6 @@ translate italian d21s06_reboot_fl_a0e38f39:
     arj "Oh, ora mi farete arrossire."
 
 
-translate italian d21s06_reboot_fl_ad278b3d:
-
-
-    sy "Adesso, cominciamo a mettere insieme i dettagli, e cosa faremo per parlare alla gente a cui possiamo interessare."
-
-
 translate italian d21s06_reboot_fl_8db8be57:
 
 
@@ -1757,96 +1695,6 @@ translate italian d21s06_reboot_fl_9e70a3cd:
 
 
     mc "Allora dove dobbiamo cominciare?"
-
-
-translate italian d21s06_reboot_fl_0d92e239:
-
-
-    mc "Conosci qualcuno? Qualche investitore?"
-
-
-translate italian d21s06_reboot_fl_0e58addf:
-
-
-    sy "Investitore?"
-
-
-translate italian d21s06_reboot_fl_f0aedc6b:
-
-
-    mc "Beh, per cominciare un business, devi averne qualcuno, no?"
-
-
-translate italian d21s06_reboot_fl_3da9e714:
-
-
-    sy "Beh, all'inizio, pensavo di fare prima un po' di contenuti prima di creare l'azienda."
-
-
-translate italian d21s06_reboot_fl_018cbf7d:
-
-
-    sy "Costruire una reputazione, sapete?"
-
-
-translate italian d21s06_reboot_fl_192c5851:
-
-
-    mc "Si chiama marketing."
-
-
-translate italian d21s06_reboot_fl_e45dc7f1:
-
-
-    sy "Si, ma siamo il brand, non dimenticarlo. Siamo la compagnia. Dobbiamo cominciare a pensare a film da fare, e poi possiamo formare la compagnia."
-
-
-translate italian d21s06_reboot_fl_3acfcab7:
-
-
-    mc "Nel senso legale."
-
-
-translate italian d21s06_reboot_fl_4e12a8be:
-
-
-    sy "Si."
-
-
-translate italian d21s06_reboot_fl_a3a5f868:
-
-
-    sy "Pensiamo al nome della app."
-
-
-translate italian d21s06_reboot_fl_91c8e45d:
-
-
-    mc "Qualche idea?"
-
-
-translate italian d21s06_reboot_fl_2af34ea1:
-
-
-    sy "Preparerò del caffè, e possiamo parlarne."
-
-
-translate italian d21s06_reboot_fl_e5455d01:
-
-
-    sy "Che ne dite di Stacy's Bone Zone?"
-
-
-translate italian d21s06_reboot_fl_69033c5a:
-
-
-    sy "O Finder. E' come quell'altra app di dating, eccetto che ho rimpiazzato la prima lettera con la F."
-
-
-translate italian d21s06_reboot_fl_593599a5:
-
-
-    mc "Chiediamo ad AmRose."
 
 
 translate italian d21s06_no_fl_2cd1dfd8:
@@ -1931,18 +1779,6 @@ translate italian d21s06_no_fl_6ec24262:
 
 
     sy "Daccordo."
-
-
-translate italian d21s06_no_fl_0772c775:
-
-
-    arj "[mcname]. Vuoi venire con me?"
-
-
-translate italian d21s06_no_fl_72d3767e:
-
-
-    mc "Oh, Speravo di parlare un po' con Stacy. Vuoi che ti accompagni?"
 
 
 translate italian d21s06_no_fl_db3325ec:
@@ -2131,42 +1967,6 @@ translate italian d21s06_waterfall_4e10ecd5:
     arj "Beh, se è molto veloce."
 
 
-translate italian d21s06_waterfall_fabbae7d:
-
-
-    sy "Di che vuoi parlare?"
-
-
-translate italian d21s06_waterfall_3c70276f:
-
-
-    mc "Visto che stiamo parlando di cominciare un business, ho una proposta."
-
-
-translate italian d21s06_waterfall_a0ae5ef0:
-
-
-    arj "Ti ho detto, non mi interessa Fetish Locator!"
-
-
-translate italian d21s06_waterfall_301468b6:
-
-
-    mc "Non è quello, lo giuro."
-
-
-translate italian d21s06_waterfall_6c8a3e95:
-
-
-    sy "E questo business, cos'è? Sarà qui?"
-
-
-translate italian d21s06_waterfall_ea280ad5:
-
-
-    mc "Non esattamente. Sarà in una direzione completamente diversa. Est anzichè ovest."
-
-
 translate italian d21s06_waterfall_7ef67f79:
 
 
@@ -2239,12 +2039,6 @@ translate italian d21s06_waterfall_6612d04c:
     mes "Avete notato che a me e [mcname] piace questo tipo di cose."
 
 
-translate italian d21s06_waterfall_eeb65300:
-
-
-    sy "Si, l'evento principale alla tua festa è stato un grande dettaglio."
-
-
 translate italian d21s06_waterfall_7d45ad20:
 
 
@@ -2257,46 +2051,10 @@ translate italian d21s06_waterfall_ffe2788e:
     mes "Stavamo pensando di formare una spa."
 
 
-translate italian d21s06_waterfall_a1e01b67:
-
-
-    mes "Ti piace lo squirting, giusto?"
-
-
-translate italian d21s06_waterfall_17c9a9d8:
-
-
-    sy "Non come te, ma si."
-
-
 translate italian d21s06_waterfall_b11d2580:
 
 
     mes "Prima di andare in fondo, voglio la tua opinione. E' qualcosa che vorresti fare davvero, o no?"
-
-
-translate italian d21s06_waterfall_d31e043e:
-
-
-    sy "E' una cosa che dobbiamo fare?"
-
-
-translate italian d21s06_waterfall_2ece8a99:
-
-
-    mes "Le persone stanno cercando un'esperienza che sazierà le loro fantasie sessuali, e noi siamo qui per dargliela."
-
-
-translate italian d21s06_waterfall_ebab741e:
-
-
-    mc "In una spa?"
-
-
-translate italian d21s06_waterfall_fdcf3625:
-
-
-    mes "Si."
 
 
 translate italian d21s06_waterfall_9705fa57:
@@ -2395,24 +2153,6 @@ translate italian d21s06_wellness_spa_8519df16:
     mes "Finchè non saranno soddisfatti."
 
 
-translate italian d21s06_wellness_spa_a14fb21a:
-
-
-    arj "Quanto?"
-
-
-translate italian d21s06_wellness_spa_da2002db:
-
-
-    sy "Finchè non saranno soddisfatti, Min te l'ha appena detto."
-
-
-translate italian d21s06_wellness_spa_f308289e:
-
-
-    arj "Bene."
-
-
 translate italian d21s06_wellness_spa_690198d9:
 
 
@@ -2435,60 +2175,6 @@ translate italian d21s06_wellness_spa_8da06c74:
 
 
     mes "E molto di più."
-
-
-translate italian d21s06_wellness_spa_626aaba9:
-
-
-    sy "Dai, dai ragazzi; una cosa del genere?"
-
-
-translate italian d21s06_wellness_spa_74b1c957:
-
-
-    mes "E' tutto opzionale. La gente può pagare per godersi un'esperienza normale di spa."
-
-
-translate italian d21s06_wellness_spa_c4ca3301:
-
-
-    mes "Non avrebbero alcuna idea di quello che succede alla porta accanto."
-
-
-translate italian d21s06_wellness_spa_bea752a5:
-
-
-    mes "Lo scoprirai solo se scefgli di volare con noi."
-
-
-translate italian d21s06_wellness_spa_82dc0057:
-
-
-    mes "Una giusta quantità di divertimento ci sarà per tutti. Ho questo slogan. Che ne pensate?"
-
-
-translate italian d21s06_wellness_spa_3545488f:
-
-
-    mc "Un po' secco."
-
-
-translate italian d21s06_wellness_spa_40d0b7e7:
-
-
-    mes "Questo è il piunto, slogan secco, esperienza bagnata."
-
-
-translate italian d21s06_wellness_spa_9c3827ac:
-
-
-    mc "E' un po' troppo... astruso per il nostro scopo, forse?"
-
-
-translate italian d21s06_wellness_spa_907f9b61:
-
-
-    arj "Credo mi piaccia... va in contrasto con il tema non tradizionale."
 
 
 translate italian d21s06_wellness_spa_5ea4823b:
@@ -2539,18 +2225,6 @@ translate italian d21s06_wellness_spa_8fbe034e:
     mes "O quello o Squirt spa. Ma magari era troppo ovvio."
 
 
-translate italian d21s06_wellness_spa_30f17f59:
-
-
-    mes "Se avete alternative, potete pensare a qualcuna più avanti."
-
-
-translate italian d21s06_wellness_spa_20f6652d:
-
-
-    mes "Ora vi sto solo spiegando."
-
-
 translate italian d21s06_wellness_spa_ebbfb5a8:
 
 
@@ -2563,202 +2237,10 @@ translate italian d21s06_wellness_spa_08f69221:
     mes "Possiamo cominciare con un po' di capitale. Conosciamo persone al campus che hanno fatto cose simili. Tipo prestiti."
 
 
-translate italian d21s06_wellness_spa_936da8a3:
-
-
-    arj "Com'è il tuo credito?"
-
-
-translate italian d21s06_wellness_spa_81c2261b:
-
-
-    mc "Il mio? Non riesco nemmeno a trovare un posto."
-
-
-translate italian d21s06_wellness_spa_41e3722b:
-
-
-    arj "L'hai fatto. Ma non tu. Intendo Min."
-
-
-translate italian d21s06_wellness_spa_080a4b24:
-
-
-    mes "Il mio credito? Va bene. Ma come ho detto, gli investitori aiuterebbero molto. Potrebbe richiedere del lavoro, ma assicurarci i fondi non è il nostro obbiettivo principale."
-
-
-translate italian d21s06_wellness_spa_20ebb525:
-
-
-    mes "Il nostro scopo è la spa."
-
-
 translate italian d21s06_wellness_spa_39ad58cf:
 
 
     sy "Uh, sembra complicato."
-
-
-translate italian d21s06_wellness_spa_5563f226:
-
-
-    arj "Lo è."
-
-
-translate italian d21s06_wellness_spa_26ee5270:
-
-
-    mc "Ad essere onesti, state pensando alla cosa sbagliata. E' meno spa e più giochi d'acqua."
-
-
-translate italian d21s06_wellness_spa_50bfa3fd:
-
-
-    mc "Più una scusa per un harem imperiale Cinese."
-
-
-translate italian d21s06_wellness_spa_378f0c06:
-
-
-    mes "Sono Coreana."
-
-
-translate italian d21s06_wellness_spa_5506f6cf:
-
-
-    mc "Lo so, è solo come si chiama la struttura."
-
-
-translate italian d21s06_wellness_spa_14702122:
-
-
-    mes "Pensavo harem fosse una parola araba"
-
-
-translate italian d21s06_wellness_spa_54288f40:
-
-
-    mc "Proabbilmente ma, uh..."
-
-
-translate italian d21s06_wellness_spa_23cdc614:
-
-
-    mc "Lascia perdere, di che stavo parlando?"
-
-
-translate italian d21s06_wellness_spa_c0683fe6:
-
-
-    mes "Stavi portanto il sesso in un setting professionale."
-
-
-translate italian d21s06_wellness_spa_e1acbb60:
-
-
-    mc "Non riguarda il sesso?"
-
-
-translate italian d21s06_wellness_spa_36a29d41:
-
-
-    mes "No. La spa sarà professionale. Avrà solo qualche extra."
-
-
-translate italian d21s06_wellness_spa_e4b4e4a6:
-
-
-    mc "Hey, anche noi abbiamo gli harem qui."
-
-
-translate italian d21s06_wellness_spa_d461c933:
-
-
-    sy "Vuoi andare da qualche parte?"
-
-
-translate italian d21s06_wellness_spa_1bf1e07c:
-
-
-    mc "Non sono sicuro. Min, vuoi cominciare questo business in Asia?"
-
-
-translate italian d21s06_wellness_spa_b5098d8a:
-
-
-    mes "No. Non ce lo permetterebbero."
-
-
-translate italian d21s06_wellness_spa_a31340dd:
-
-
-    mc "Davvero?"
-
-
-translate italian d21s06_wellness_spa_2da98b91:
-
-
-    mc "Non volevo."
-
-
-translate italian d21s06_wellness_spa_93902784:
-
-
-    mc "Va bene, dovrà essere qui allora. Dove è legale."
-
-
-translate italian d21s06_wellness_spa_efefd519:
-
-
-    sy "Chi sono gli investitori? Se posso chiedere."
-
-
-translate italian d21s06_wellness_spa_115dbcaf:
-
-
-    mes "Non abbiamo ancora deciso. Cosa abbiamo deciso è chi porteremo con noi."
-
-
-translate italian d21s06_wellness_spa_7454332c:
-
-
-    mc "In realtà, abbiamo una lista."
-
-
-translate italian d21s06_wellness_spa_2cd4c788:
-
-
-    mc "Dobbiamo solo portarli con noi."
-
-
-translate italian d21s06_wellness_spa_9bd64567:
-
-
-    mes "Spero tu abbia un'idea. Io devo andare ora."
-
-
-translate italian d21s06_wellness_spa_a437bdda:
-
-
-    mes "Ciao."
-
-
-translate italian d21s06_wellness_spa_2924e892:
-
-
-    sy "Vuoi farlo davvero?"
-
-
-translate italian d21s06_wellness_spa_85107a33:
-
-
-    sy "Verrò con te se sei sicura che possa funzionare. E' una decisione seria."
-
-
-translate italian d21s06_wellness_spa_4dc9a4dc:
-
-
-    mc "Voglio provare!"
 
 translate italian strings:
 
@@ -2786,4 +2268,99 @@ translate italian strings:
     old "No, I have to give it more thought."
     new "No, devo pensarci."
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate italian d21s06_waterfall_0992f61d:
+
+
+    mc "Yes. I want to do this with you, Min."
+
+
+translate italian d21s06_wellness_spa_2ece8a99:
+
+
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+
+translate italian d21s06_wellness_spa_8a7edf54:
+
+
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+
+translate italian d21s06_wellness_spa_699caa95:
+
+
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+
+translate italian d21s06_wellness_spa_c425dcb9:
+
+
+    arj "I need to finish college."
+
+
+translate italian d21s06_wellness_spa_43c9e2c9:
+
+
+    mes "Understandable. But you're still in, right [mcname]?"
+
+
+translate italian d21s06_wellness_spa_5844ae44:
+
+
+    mc "Hell yeah."
+
+
+translate italian d21s06_wellness_spa_591bfaae:
+
+
+    mes "Excellent. Then I'm going to continue on the planning."
+
+
+translate italian d21s06_wellness_spa_dbcc212b:
+
+
+    mes "You should come over and we can start working on the details."
+
+
+translate italian d21s06_wellness_spa_546d00c0:
+
+
+    mc "I'll be right there."
+
+
+translate italian d21s06_reboot_fl_6d5e9610:
+
+
+    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+
+
+translate italian d21s06_reboot_fl_304163ca:
+
+
+    sy "I love it."
+
+
+translate italian d21s06_reboot_fl_b23fc0ce:
+
+
+    arj "It's perfect. On point and easy to understand."
+
+
+translate italian d21s06_reboot_fl_d0e75550:
+
+
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+
+
+translate italian d21s06_reboot_fl_82e617fe:
+
+
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+
+
+translate italian d21s06_reboot_fl_041fcc70:
+
+
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

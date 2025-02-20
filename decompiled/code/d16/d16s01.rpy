@@ -283,7 +283,7 @@ label d16s01:
     play voice4 amrose_yes_okay1 noloop
     if d14s03_arj_kiss is True:
         arj "Of course!"
-    elif True:
+    else:
         arj "Sure."
     scene d16s01-63-a1 mc-tosses-flli-to-sy-glambot-1-000_i with dissolve
     play voice2 mc_hey_hey5 noloop
@@ -306,5 +306,4 @@ label d16s01:
     sy "Jackass."
 
     jump d16s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

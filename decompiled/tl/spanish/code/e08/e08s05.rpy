@@ -1,6 +1,4 @@
 
-
-
 translate spanish e08s05_cdd7bfe3:
 
 
@@ -2299,5 +2297,4 @@ translate spanish strings:
 
     old "Leave the door open"
     new "Deja la puerta abierta"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

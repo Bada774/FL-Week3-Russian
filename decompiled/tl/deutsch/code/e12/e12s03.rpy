@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e12s03_92d88967:
 
 
@@ -1217,5 +1215,4 @@ translate deutsch e12s03_sex_4a53788f:
 
 
     vw "Oh sei still. Halte mich einfach und lass uns den Sonnenuntergang anschauen, bevor ich Abendessen mache."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

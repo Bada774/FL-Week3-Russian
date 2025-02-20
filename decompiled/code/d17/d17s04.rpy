@@ -123,13 +123,13 @@ label d17s04_rough:
             scene d17s04-13 mc-hr-kinky-talk7_c1 with dissolve
             play voice3 chloe_happy_hmm noloop
             hr "Perfect. Do that."
-        elif True:
+        else:
             play voice2 d1s5b_ehhh noloop
             mc "Uh, yeah. I've had to roleplay like that before."
             scene d17s04-13 mc-hr-kinky-talk7_c1 with dissolve
             play voice3 chloe_happy_hmm noloop
             hr "Good. Do that, only you can go harder on me. No limits."
-    elif True:
+    else:
         play voice2 mc_no_no5 noloop
         mc "No, I don't think I've ever done that."
         scene d17s04-14 mc-hr-kinky-talk8_c1 with dissolve
@@ -154,7 +154,7 @@ label d17s04_rough:
     play voice3 hana_emm noloop
     if persistent.is_special is True:
         hr "For this roleplay, you're going to be playing an abusive father and I'm going to pretend to be your submissive daughter."
-    elif True:
+    else:
         hr "For this roleplay, you're going to be playing a rich and powerful man and I'm going to be pretending to be a submissive woman you're extorting."
     scene d17s04-16 mc-hr-rough1_c2 with dissolve
     play voice2 mc_surprised_what2 noloop
@@ -318,7 +318,7 @@ label d17s04_anal_hard:
     play voice3 coach_no noloop
     if persistent.is_special is True:
         hr "No, Daddy."
-    elif True:
+    else:
         hr "No, Senator."
     scene d17s04-23 mc-hr-air-2_c1 with dissolve
     play voice2 mc_angry_errr2 noloop
@@ -327,7 +327,7 @@ label d17s04_anal_hard:
     play voice3 amrose_pain_coughs noloop
     if persistent.is_special is True:
         hr "Please, Daddy, let me try again..."
-    elif True:
+    else:
         hr "Please, Senator, let me try again..."
     scene d17s04-22 mc-hr-undress3_c3 with dissolve
     play voice2 mc_yes_yes1 noloop
@@ -374,7 +374,7 @@ label d17s04_anal_hard:
     play voice3 chloe_scared_ah3 noloop
     if persistent.is_special is True:
         hr "PLEASE FUCK MY ASS DADDY!!!"
-    elif True:
+    else:
         hr "PLEASE FUCK MY ASS SENATOR!!!"
     play voice2 mc_pain_mff5 noloop
     queue voice2 d7s4_mcbreathing
@@ -423,7 +423,7 @@ label d17s04_anal_hard:
     play sound ["<silence 0.85>", spank1, "<silence 1.65>", spank2, "<silence 1.85>", spank3, "<silence 0.9>"] loop volume 2.0
     if persistent.is_special is True:
         hr "PLEASE DADDY!!!"
-    elif True:
+    else:
         hr "PLEASE SENATOR!!!"
     stop sound fadeout 0.1
     stop voice3 fadeout 1.0
@@ -464,7 +464,7 @@ label d17s04_anal_hard:
     play voice2 d1s5_orgasm2 noloop
     if persistent.is_special is True:
         hr "IONAAAAAaaahhhh!!!!"
-    elif True:
+    else:
         hr "AAAAAaaahhhh!!!!"
     play voice2 d1s5_orgasm noloop
     queue voice3 nora_orgasm3 noloop
@@ -739,5 +739,4 @@ label d17s04_end:
 
     stop music fadeout 3.5
     jump d17s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

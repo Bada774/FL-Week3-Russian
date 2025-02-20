@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s08_4a8802e8:
 
 
@@ -1905,22 +1903,16 @@ translate portuguese strings:
     new "Lydia devia chupar o pau da Lyssa"
 
 
-
-
 translate portuguese d06s08_sy_4a9a11a2:
 
 
     sy "GOZA DENTRO DE MIM [mcname!u]!!!"
-
-
 
 translate portuguese strings:
 
 
     old "Lydia should Rim Lyssa's ass"
     new "Lydia devia lamber a bunda da Lyssa"
-
-
 
 
 translate portuguese d06s08_mh_0aa48b5e:
@@ -1933,5 +1925,4 @@ translate portuguese d06s08_mh_25ab182b:
 
 
     mh "Aaah....."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

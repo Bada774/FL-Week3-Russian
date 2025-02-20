@@ -1,6 +1,4 @@
 
-
-
 translate turkish d21s06_a1ce140a:
 
 
@@ -1315,48 +1313,6 @@ translate turkish d21s06_reboot_fl_00d7d5cb:
     sy "Peki sizce adını ne koymalıyız?"
 
 
-translate turkish d21s06_reboot_fl_334a8367:
-
-
-    sy "[fl_rebooted_name]."
-
-
-translate turkish d21s06_reboot_fl_1923ec31:
-
-
-    sy "Bu bir isim."
-
-
-translate turkish d21s06_reboot_fl_db9edca0:
-
-
-    arj "Bu mu?"
-
-
-translate turkish d21s06_reboot_fl_6ae37544:
-
-
-    sy "En azından Locate Fetish adını vermedi."
-
-
-translate turkish d21s06_reboot_fl_acaa56d1:
-
-
-    sy "Fetiş Bul? Gerçekten mi???"
-
-
-translate turkish d21s06_reboot_fl_f4d2de8b:
-
-
-    mc "Hey, eğer beğenmediysen, o zaman bir alternatif bulursun. Beğenmediysen şikayet etme."
-
-
-translate turkish d21s06_reboot_fl_3efe3ff8:
-
-
-    sy "Ben bir şey demedim."
-
-
 translate turkish d21s06_reboot_fl_2bad061a:
 
 
@@ -1615,12 +1571,6 @@ translate turkish d21s06_reboot_fl_e8bc5c3f:
     sy "Yazılı olmasını ister misiniz?"
 
 
-translate turkish d21s06_reboot_fl_6d70e240:
-
-
-    arj "Tamam, tamam. Fetish Locator'ın arkasındaki geliştiricilerden hoşlanmadığınızı düşünüyorum."
-
-
 translate turkish d21s06_reboot_fl_e3616b15:
 
 
@@ -1649,12 +1599,6 @@ translate turkish d21s06_reboot_fl_1e4e84ed:
 
 
     sy "Biraz daha spesifik olabilir misin? Neyin tekrar olmasını istemiyorsun?"
-
-
-translate turkish d21s06_reboot_fl_bec7bdda:
-
-
-    arj "Tüm eksilerini belirttim. Yalana, aldatmaya, manipülasyona hayır."
 
 
 translate turkish d21s06_reboot_fl_d3a6634e:
@@ -1735,12 +1679,6 @@ translate turkish d21s06_reboot_fl_a0e38f39:
     arj "Oh, şimdi beni utandıracaksın."
 
 
-translate turkish d21s06_reboot_fl_ad278b3d:
-
-
-    sy "Şimdi, bazı daha ince ayrıntıları bir araya getirmeye başlayalım ve bu sunuma dahil edebileceğimiz ilk kişiler hakkında nasıl konuşmaya başlayacağımız hakkında konuşalım."
-
-
 translate turkish d21s06_reboot_fl_8db8be57:
 
 
@@ -1757,96 +1695,6 @@ translate turkish d21s06_reboot_fl_9e70a3cd:
 
 
     mc "Öyleyse ilk nereden başlayalım?"
-
-
-translate turkish d21s06_reboot_fl_0d92e239:
-
-
-    mc "Kimseyi tanıyor musun? Herhangi bir yatırımcı?"
-
-
-translate turkish d21s06_reboot_fl_0e58addf:
-
-
-    sy "Yatırımcılar?"
-
-
-translate turkish d21s06_reboot_fl_f0aedc6b:
-
-
-    mc "Pekala, bir iş kurmak için biraz sahip olmanız gerekir, değil mi?"
-
-
-translate turkish d21s06_reboot_fl_3da9e714:
-
-
-    sy "Şey, ilk başta, şirketi kurmadan önce gerçekten biraz içeriğe sahip olmayı düşünüyordum."
-
-
-translate turkish d21s06_reboot_fl_018cbf7d:
-
-
-    sy "Bir itibar oluşturun, biliyor musunuz?"
-
-
-translate turkish d21s06_reboot_fl_192c5851:
-
-
-    mc "Buna pazarlama denir."
-
-
-translate turkish d21s06_reboot_fl_e45dc7f1:
-
-
-    sy "Evet ama marka biziz, unutma. Biz şirketiz. O yüzden çekebileceğimiz filmleri düşünmeye başlamalıyız, sonra şirketi kurarız."
-
-
-translate turkish d21s06_reboot_fl_3acfcab7:
-
-
-    mc "Hukuki anlamda."
-
-
-translate turkish d21s06_reboot_fl_4e12a8be:
-
-
-    sy "Evet."
-
-
-translate turkish d21s06_reboot_fl_a3a5f868:
-
-
-    sy "Uygulamanın adını düşünelim."
-
-
-translate turkish d21s06_reboot_fl_91c8e45d:
-
-
-    mc "Herhangi bir fikir var mı?"
-
-
-translate turkish d21s06_reboot_fl_2af34ea1:
-
-
-    sy "Bize biraz kahve yapacağım, ve tartışabiliriz."
-
-
-translate turkish d21s06_reboot_fl_e5455d01:
-
-
-    sy "Stacy'nin Kemik Bölgesi ne olacak?"
-
-
-translate turkish d21s06_reboot_fl_69033c5a:
-
-
-    sy "Veya Finder. İlk harfi F ile değiştirmem dışında diğer flört uygulaması gibi."
-
-
-translate turkish d21s06_reboot_fl_593599a5:
-
-
-    mc "AmRose'a soralım."
 
 
 translate turkish d21s06_no_fl_2cd1dfd8:
@@ -1931,18 +1779,6 @@ translate turkish d21s06_no_fl_6ec24262:
 
 
     sy "Pekala."
-
-
-translate turkish d21s06_no_fl_0772c775:
-
-
-    arj "[mcname]. Benimle gelmek ister misin?"
-
-
-translate turkish d21s06_no_fl_72d3767e:
-
-
-    mc "Ah, Stacy ile biraz konuşmayı umuyordum. Seni oraya götürmemi ister misin?"
 
 
 translate turkish d21s06_no_fl_db3325ec:
@@ -2131,42 +1967,6 @@ translate turkish d21s06_waterfall_4e10ecd5:
     arj "Peki, gerçekten hızlıysa."
 
 
-translate turkish d21s06_waterfall_fabbae7d:
-
-
-    sy "Peki ne hakkında konuşmak istiyordun?"
-
-
-translate turkish d21s06_waterfall_3c70276f:
-
-
-    mc "Yeni bir iş kurma konusunda olduğumuz için bir teklifim vardı."
-
-
-translate turkish d21s06_waterfall_a0ae5ef0:
-
-
-    arj "Sana söyledim, Fetiş Bulucu ile ilgilenmiyorum!"
-
-
-translate turkish d21s06_waterfall_301468b6:
-
-
-    mc "Öyle değil, yemin ederim."
-
-
-translate turkish d21s06_waterfall_6c8a3e95:
-
-
-    sy "Peki bu iş nedir? Burada mı olacak?"
-
-
-translate turkish d21s06_waterfall_ea280ad5:
-
-
-    mc "Tam olarak değil. Tamamen farklı bir yönde olacak. Batı yerine Doğu."
-
-
 translate turkish d21s06_waterfall_7ef67f79:
 
 
@@ -2239,12 +2039,6 @@ translate turkish d21s06_waterfall_6612d04c:
     mes "[mcname] ve benim bu tür şeylerle ilgilendiğimizi fark etmişsinizdir."
 
 
-translate turkish d21s06_waterfall_eeb65300:
-
-
-    sy "Evet, partinizdeki ana olay büyük bir ipucuydu."
-
-
 translate turkish d21s06_waterfall_7d45ad20:
 
 
@@ -2257,46 +2051,10 @@ translate turkish d21s06_waterfall_ffe2788e:
     mes "Bir sağlıklı yaşam spası kurmayı düşünüyorduk."
 
 
-translate turkish d21s06_waterfall_a1e01b67:
-
-
-    mes "Fışkırtmayı seviyorsun, değil mi?"
-
-
-translate turkish d21s06_waterfall_17c9a9d8:
-
-
-    sy "Senin kadar değil, ama evet."
-
-
 translate turkish d21s06_waterfall_b11d2580:
 
 
     mes "Daha derine inmeden önce fikrinizi istiyorum. Bu gerçekten yapmak isteyip istemediğiniz bir şey mi?"
-
-
-translate turkish d21s06_waterfall_d31e043e:
-
-
-    sy "Biz buna böyle mi diyoruz?"
-
-
-translate turkish d21s06_waterfall_2ece8a99:
-
-
-    mes "İnsanlar cinsel fantezilerini gerçekleştirecek bir deneyim arıyorlar ve biz de onlara bunu sağlamak için buradayız."
-
-
-translate turkish d21s06_waterfall_ebab741e:
-
-
-    mc "Spa'da mı?"
-
-
-translate turkish d21s06_waterfall_fdcf3625:
-
-
-    mes "Evet."
 
 
 translate turkish d21s06_waterfall_9705fa57:
@@ -2395,24 +2153,6 @@ translate turkish d21s06_wellness_spa_8519df16:
     mes "Onlar tatmin olana kadar."
 
 
-translate turkish d21s06_wellness_spa_a14fb21a:
-
-
-    arj "Ne kadar?"
-
-
-translate turkish d21s06_wellness_spa_da2002db:
-
-
-    sy "Onlar tatmin olana kadar, Min sana söyledi."
-
-
-translate turkish d21s06_wellness_spa_f308289e:
-
-
-    arj "Doğru."
-
-
 translate turkish d21s06_wellness_spa_690198d9:
 
 
@@ -2435,60 +2175,6 @@ translate turkish d21s06_wellness_spa_8da06c74:
 
 
     mes "Ve çok daha fazlası."
-
-
-translate turkish d21s06_wellness_spa_626aaba9:
-
-
-    sy "Bir gel, hepsi gel; bu tür şeyler?"
-
-
-translate turkish d21s06_wellness_spa_74b1c957:
-
-
-    mes "Tamamen isteğe bağlı. İnsanlar vanilyalı spa deneyiminin keyfini çıkarmak için para ödeyebilir."
-
-
-translate turkish d21s06_wellness_spa_c4ca3301:
-
-
-    mes "Yan tarafta neler olduğu hakkında hiçbir fikirleri olmayacaktı."
-
-
-translate turkish d21s06_wellness_spa_bea752a5:
-
-
-    mes "Sadece bizimle uçmayı seçerseniz öğreneceksiniz."
-
-
-translate turkish d21s06_wellness_spa_82dc0057:
-
-
-    mes "Doğru miktarda eğlence herkes tarafından yaşanacak. Ben bu sloganı buldum. Siz ne düşünüyorsunuz?"
-
-
-translate turkish d21s06_wellness_spa_3545488f:
-
-
-    mc "Biraz kuru."
-
-
-translate turkish d21s06_wellness_spa_40d0b7e7:
-
-
-    mes "İşte mesele bu, kuru slogan, ıslak deneyim."
-
-
-translate turkish d21s06_wellness_spa_9c3827ac:
-
-
-    mc "Biraz fazla... bizim amacımız için anlaşılmaz, belki?"
-
-
-translate turkish d21s06_wellness_spa_907f9b61:
-
-
-    arj "Beğendim mi?... geleneksel olmayan temayla çelişiyor."
 
 
 translate turkish d21s06_wellness_spa_5ea4823b:
@@ -2539,18 +2225,6 @@ translate turkish d21s06_wellness_spa_8fbe034e:
     mes "Ya o ya da Squirt Spa'ydı. Bu çok açık olabilirdi."
 
 
-translate turkish d21s06_wellness_spa_30f17f59:
-
-
-    mes "Alternatifleriniz varsa, gelecekte bazılarını düşünebilirsiniz."
-
-
-translate turkish d21s06_wellness_spa_20f6652d:
-
-
-    mes "Şu anda satış konuşması süreci."
-
-
 translate turkish d21s06_wellness_spa_ebbfb5a8:
 
 
@@ -2563,208 +2237,16 @@ translate turkish d21s06_wellness_spa_08f69221:
     mes "Bir sermaye enjeksiyonu ile bunu çalıştırabiliriz. Kampüste benzer bir şeyi başaran bazı insanlar tanıyoruz. Krediler falan."
 
 
-translate turkish d21s06_wellness_spa_936da8a3:
-
-
-    arj "Kredi puanın nasıl?"
-
-
-translate turkish d21s06_wellness_spa_81c2261b:
-
-
-    mc "Bana ait? Bir yer bile bulamıyorum."
-
-
-translate turkish d21s06_wellness_spa_41e3722b:
-
-
-    arj "Yaptın. Ama sen değil. Min'i kastetmiştim."
-
-
-translate turkish d21s06_wellness_spa_080a4b24:
-
-
-    mes "Kredi puanım mı? Sorun değil. Ama dediğim gibi yatırımcılar çok yardımcı olacaktır. Biraz uğraştırabilir ama finansman sağlamak asıl amacımız değil."
-
-
-translate turkish d21s06_wellness_spa_20ebb525:
-
-
-    mes "Ana hedefimiz kaplıca."
-
-
 translate turkish d21s06_wellness_spa_39ad58cf:
 
 
     sy "Uh, kulağa karmaşık geliyor."
 
-
-translate turkish d21s06_wellness_spa_5563f226:
-
-
-    arj "Öyle."
-
-
-translate turkish d21s06_wellness_spa_26ee5270:
-
-
-    mc "Dürüst olmak gerekirse, siz çocuklar yanlış şeye odaklanıyorsunuz. Bu bir su sporları işi olarak spa'dan daha az önemli."
-
-
-translate turkish d21s06_wellness_spa_50bfa3fd:
-
-
-    mc "Daha çok bir Çin imparatorluk haremi kurmak için bir bahane."
-
-
-translate turkish d21s06_wellness_spa_378f0c06:
-
-
-    mes "Ben Koreliyim."
-
-
-translate turkish d21s06_wellness_spa_5506f6cf:
-
-
-    mc "Biliyorum, o yapının adı bu."
-
-
-translate turkish d21s06_wellness_spa_14702122:
-
-
-    mes "Ben haremin Arapça bir kelime olduğunu sanıyordum."
-
-
-translate turkish d21s06_wellness_spa_54288f40:
-
-
-    mc "Muhtemelen öyle ama, uh..."
-
-
-translate turkish d21s06_wellness_spa_23cdc614:
-
-
-    mc "Boşver, ne diyordum?"
-
-
-translate turkish d21s06_wellness_spa_c0683fe6:
-
-
-    mes "Seksi profesyonel bir ortama getiriyordun."
-
-
-translate turkish d21s06_wellness_spa_e1acbb60:
-
-
-    mc "Seksle ilgili değil mi?"
-
-
-translate turkish d21s06_wellness_spa_36a29d41:
-
-
-    mes "Hayır. Spa profesyonelce yönetiliyor. Sadece bazı ekstralar olacak."
-
-
-translate turkish d21s06_wellness_spa_e4b4e4a6:
-
-
-    mc "Hey, burada da haremlerimiz var."
-
-
-translate turkish d21s06_wellness_spa_d461c933:
-
-
-    sy "Bir yere taşınmak ister misin?"
-
-
-translate turkish d21s06_wellness_spa_1bf1e07c:
-
-
-    mc "Emin değilim. Min, bu işi Asya'da mı kurmak istiyorsun?"
-
-
-translate turkish d21s06_wellness_spa_b5098d8a:
-
-
-    mes "Hayır. Önerdiğimiz şeyin spasına izin vermezler."
-
-
-translate turkish d21s06_wellness_spa_a31340dd:
-
-
-    mc "Gerçekten mi?"
-
-
-translate turkish d21s06_wellness_spa_2da98b91:
-
-
-    mc "Öyle demek istemedim."
-
-
-translate turkish d21s06_wellness_spa_93902784:
-
-
-    mc "Pekala, buralarda bir yerde olacak. Yasal bir yerde."
-
-
-translate turkish d21s06_wellness_spa_efefd519:
-
-
-    sy "Yatırımcılar kim? Sormamın sakıncası yoksa."
-
-
-translate turkish d21s06_wellness_spa_115dbcaf:
-
-
-    mes "Karar vermedik. Karar verdiğimiz şey, bununla birlikte kimi getireceğimiz."
-
-
-translate turkish d21s06_wellness_spa_7454332c:
-
-
-    mc "Aslında bir çalışma listemiz var."
-
-
-translate turkish d21s06_wellness_spa_2cd4c788:
-
-
-    mc "Onları gemiye almamız yeterli."
-
-
-translate turkish d21s06_wellness_spa_9bd64567:
-
-
-    mes "Umarım bir fikriniz vardır. Bırakacağım."
-
-
-translate turkish d21s06_wellness_spa_a437bdda:
-
-
-    mes "Hoşçakal."
-
-
-translate turkish d21s06_wellness_spa_2924e892:
-
-
-    sy "Demek bunu gerçekten yapıyorsun?"
-
-
-translate turkish d21s06_wellness_spa_85107a33:
-
-
-    sy "Bunun işe yarayacağından eminsen seninle geleceğim. Çünkü bu ciddi bir hayat kararı."
-
-
-translate turkish d21s06_wellness_spa_4dc9a4dc:
-
-
-    mc "Denemeye hazırım!"
-
 translate turkish strings:
 
 
     old "One hour later\nOutside Stacy's place"
-    new "Bir saat sonra\\NStacy'nin evinin dışında"
+    new "Bir saat sonra\nStacy'nin evinin dışında"
 
 
     old "Yes, I want to try to reboot Fetish Locator"
@@ -2786,4 +2268,99 @@ translate turkish strings:
     old "No, I have to give it more thought."
     new "Hayır, daha fazla düşünmeliyim."
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate turkish d21s06_waterfall_0992f61d:
+
+
+    mc "Evet. Bunu seninle yapmak istiyorum, Min."
+
+
+translate turkish d21s06_wellness_spa_2ece8a99:
+
+
+    mes "İnsanlar cinsel fantezilerini gerçekleştirecek bir deneyim arıyor ve biz de bunu onlara sağlamak için buradayız."
+
+
+translate turkish d21s06_wellness_spa_8a7edf54:
+
+
+    mes "Zor kısmı bu olmayacak. Zor kısım binayı hazır hale getirmek ve bir müşteri tabanı oluşturmak olacak, böylece kâr elde edeceğiz."
+
+
+translate turkish d21s06_wellness_spa_699caa95:
+
+
+    arj "Olacak. Üzgünüm [mcname], ama bunun için size katılamam. En azından şimdi değil."
+
+
+translate turkish d21s06_wellness_spa_c425dcb9:
+
+
+    arj "Üniversiteyi bitirmem gerekiyor."
+
+
+translate turkish d21s06_wellness_spa_43c9e2c9:
+
+
+    mes "Anlaşılabilir. Ama sen hala varsın, değil mi [mcname]?"
+
+
+translate turkish d21s06_wellness_spa_5844ae44:
+
+
+    mc "Evet."
+
+
+translate turkish d21s06_wellness_spa_591bfaae:
+
+
+    mes "Mükemmel. O zaman planlamaya devam edeceğim."
+
+
+translate turkish d21s06_wellness_spa_dbcc212b:
+
+
+    mes "Buraya gelmelisin ve detaylar üzerinde çalışmaya başlayabiliriz."
+
+
+translate turkish d21s06_wellness_spa_546d00c0:
+
+
+    mc "Hemen geliyorum."
+
+
+translate turkish d21s06_reboot_fl_6d5e9610:
+
+
+    mc "Buna{w} diyelim {b}Fetiş Konumlandırıcı Yeniden Başlatıldı!{/b}"
+
+
+translate turkish d21s06_reboot_fl_304163ca:
+
+
+    sy "Onu seviyorum."
+
+
+translate turkish d21s06_reboot_fl_b23fc0ce:
+
+
+    arj "Mükemmel. Tam yerinde ve anlaşılması kolay."
+
+
+translate turkish d21s06_reboot_fl_d0e75550:
+
+
+    arj "Tamam, tamam. Lydia'ya karşı kötü bir niyetiniz olduğunu sanmıyorum."
+
+
+translate turkish d21s06_reboot_fl_82e617fe:
+
+
+    arj "Belirttiğim tüm eksiler. Yalan yok. Aldatma ve manipülasyon yok."
+
+
+translate turkish d21s06_reboot_fl_041fcc70:
+
+
+    sy "Şimdi, getirebileceğimiz ilk kişilerin kimler olduğu gibi bazı ince ayrıntıları bir araya getirmeye başlayalım."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

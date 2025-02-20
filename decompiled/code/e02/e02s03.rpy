@@ -54,7 +54,7 @@ label e02s03:
         play voice3 lissa_yes noloop
         mh "Yes, it was a wonderful moment. You know it is a shame we did not pack the deck."
         mh "It would have been a lovely way to break the ice with the other guests."
-    elif True:
+    else:
         play sound sfx_cup_slide1
         scene e02s03-10 mc-mh-eat10_c1 with dissolve
         play voice3 lissa_haha2 noloop
@@ -521,5 +521,4 @@ label e02s03_end:
 
     stop music fadeout 3.5
     jump e02s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

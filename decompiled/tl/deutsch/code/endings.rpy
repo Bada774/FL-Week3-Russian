@@ -1,6 +1,4 @@
 
-
-
 translate deutsch ending_not_available_f3f9fce0:
 
 
@@ -76,10 +74,9 @@ translate deutsch strings:
 
 
     old "Ending #17\nNot Guilty"
-    new "Ende #17\\Nicht Schuldig"
+    new "Ende #17\nNicht Schuldig"
 
 
     old "Ending #18\nQuartet"
     new "Ende #18\nQuartett"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

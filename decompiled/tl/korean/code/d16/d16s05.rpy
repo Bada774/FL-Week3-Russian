@@ -1,6 +1,4 @@
 
-
-
 translate korean d16s05_7a5532ea:
 
 
@@ -1095,5 +1093,4 @@ translate korean strings:
 
     old "Ask her if she got any pictures"
     new "사진은 찍었는지 묻는다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

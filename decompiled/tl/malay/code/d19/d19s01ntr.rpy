@@ -1,6 +1,4 @@
 
-
-
 translate malay d19s01ntr_bef95491:
 
 
@@ -1075,7 +1073,6 @@ translate malay strings:
     new "Pergi Mampus"
 
 
-
 translate malay d19s01ntr_decision_aeef075e:
 
 
@@ -1086,5 +1083,4 @@ translate malay d19s01ntr_decision_5b1e303f:
 
 
     lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

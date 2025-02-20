@@ -1,6 +1,4 @@
 
-
-
 translate chinese e06s01_0143d3aa:
 
 
@@ -420,15 +418,11 @@ translate chinese e06s01_328b4b2e:
 
     mc "晚安，莉迪亚..."
 
-
-
 translate chinese strings:
 
 
     old "Later That Day"
     new "当天晚些时候"
-
-
 
 translate chinese strings:
 
@@ -439,5 +433,4 @@ translate chinese strings:
 
     old "Continue"
     new "继续"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

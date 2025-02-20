@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e01s02_fd8d44aa:
 
 
@@ -804,8 +802,6 @@ translate portuguese strings:
     old "At Subway Station"
     new "No Metrô"
 
-
-
 translate portuguese strings:
 
 
@@ -819,5 +815,4 @@ translate portuguese strings:
 
     old "In Fetish Locator: S&M Studio!"
     new "No Fetish Locator: S&M Studio!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese e02s07_c14c10e0:
 
 
@@ -1665,5 +1663,4 @@ translate chinese strings:
 
     old "Let Lyssa Fuck You Instead"
     new "让丽莎来操你"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

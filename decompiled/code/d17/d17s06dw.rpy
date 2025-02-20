@@ -357,7 +357,7 @@ label d17s06dw_clown_room:
     mc "What thing?"
     scene d17s06-92 mc-sd-dw-dialog-clown-roomc9 with dissolve
     play voice3 dahlia_angry_hm1 noloop
-    dw "Slave! Listen to your Mistress. Come stand her in front of me."
+    dw "Slave! Listen to your Mistress. Come stand here in front of me." id d17s06dw_clown_room_3499f73a
     scene d17s06-93 mc-sd-dw-dialog-clown-room_c10 with dissolve
     play voice2 mc_scared_oh2 noloop
     mc "In front of the scary clown?"
@@ -765,7 +765,7 @@ label d17s06dw_clown_room:
     pause
     if persistent.is_special is True:
         play voice3 scaryclown_alive noloop
-    elif True:
+    else:
         play sound sfx_tracker_cuff1
     scene d17s06-99-94 mc-sd-dw-clown-room_c26 with Dissolve(0.2)
     pause
@@ -855,5 +855,4 @@ label d17s06dw_breakup:
     stop sound2 fadeout 3.0
 
     jump d17s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

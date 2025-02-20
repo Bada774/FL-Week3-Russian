@@ -1,6 +1,4 @@
 
-
-
 translate chinese d21s07_84c0422b:
 
 
@@ -1900,7 +1898,7 @@ translate chinese d21s07_breakup_f9fcd8d1:
 translate chinese d21s07_breakup_747f0a0e:
 
 
-    lc 这样说不对。我真的想谢谢你。 ""
+    lc "这样说不对。我真的想谢谢你。"
 
 
 translate chinese d21s07_breakup_0ccd157f:
@@ -1963,5 +1961,4 @@ translate chinese strings:
 
     old "Let Lydia Down"
     new "让莉迪亚失望"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

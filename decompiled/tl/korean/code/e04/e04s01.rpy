@@ -1,6 +1,4 @@
 
-
-
 translate korean e04s01_49e08c15:
 
 
@@ -329,5 +327,4 @@ translate korean e04s01_47592037:
 
 
     mc "Then the real games shall begin."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

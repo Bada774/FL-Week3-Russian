@@ -1,6 +1,4 @@
 
-
-
 translate turkish d19s02_0c7b4226:
 
 
@@ -772,10 +770,9 @@ translate turkish strings:
 
 
     old "30 minutes later\nAt Stacy's apartment"
-    new "30 dakika sonra\\NStacy'nin dairesinde"
+    new "30 dakika sonra\nStacy'nin dairesinde"
 
 
     old "Go to her"
     new "Ona git"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

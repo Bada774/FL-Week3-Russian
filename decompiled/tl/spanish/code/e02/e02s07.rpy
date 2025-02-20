@@ -1,6 +1,4 @@
 
-
-
 translate spanish e02s07_c14c10e0:
 
 
@@ -1665,5 +1663,4 @@ translate spanish strings:
 
     old "Let Lyssa Fuck You Instead"
     new "Deja que Lyssa te folle en su lugar"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -128,4 +128,78 @@ translate chinese strings:
     old "Ezra"
     new "以斯拉"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    old "Debbie"
+    new "黛比"
+
+    old "Gemma"
+    new "杰玛"
+
+    old "Harry"
+    new "哈里"
+
+    old "Lily"
+    new "莉莉"
+
+    old "Room Service"
+    new "客房服务"
+
+    old "Domina"
+    new "多米纳"
+
+    old "Janet"
+    new "珍妮特"
+
+    old "Gary"
+    new "加里"
+
+    old "Molly the Dog"
+    new "狗狗莫莉"
+
+    old "Ryan"
+    new "莱恩"
+
+    old "Taisia"
+    new "泰西娅"
+
+    old "Sage"
+    new "赛奇"
+
+    old "Kristen"
+    new "克里斯汀"
+
+    old "Olivia"
+    new "奥利维亚"
+
+    old "Dee"
+    new "迪伊"
+
+    old "Annie"
+    new "安妮"
+
+    old "Bell"
+    new "贝尔"
+
+    old "Londyn"
+    new "朗迪恩"
+
+    old "Kendell"
+    new "肯德尔"
+
+    old "Isa"
+    new "艾萨"
+
+    old "Stephanie"
+    new "斯蒂芬妮"
+
+    old "Rose"
+    new "萝丝"
+
+    old "High Priestess"
+    new "大祭司"
+
+    old "Chiara"
+    new "琪娅拉"
+
+    old "Claire"
+    new "克莱尔"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

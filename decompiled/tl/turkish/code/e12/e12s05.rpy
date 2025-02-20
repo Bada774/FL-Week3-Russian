@@ -1,6 +1,4 @@
 
-
-
 translate turkish e12s05_669664cb:
 
 
@@ -2253,5 +2251,4 @@ translate turkish strings:
 
     old "Not now"
     new "Şimdi olmaz."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

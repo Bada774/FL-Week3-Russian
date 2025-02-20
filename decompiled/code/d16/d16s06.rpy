@@ -153,7 +153,7 @@ label d16s06:
         scene d16s06-16 mc-aw-allison-crying-down_c1 with dissolve
         if persistent.is_special is True:
             aw "Get me to come back as her submissive little daughter?"
-        elif True:
+        else:
             aw "Get me to come back as her submissive little plaything?"
             aw "The daughter she never had?"
         queue voice3 amrose_pain_sobs4 noloop
@@ -217,7 +217,7 @@ label d16s06:
         scene d16s06-26 mc-aw-laughing_c3 with dissolve
         play voice3 jessie_yes noloop
         aw "Yes, you absolutely did."
-    elif True:
+    else:
         $ renpy.music.set_volume(0.7, 1.5, "music")
         $ renpy.music.set_volume(0.0, 1.5, "music2")
         scene d16s06-glambot
@@ -288,7 +288,7 @@ label d16s06:
         play voice2 mc_yes_ugu1 noloop
         if is_antagonist_mode is False:
             mc "I'm alright. And I just have to wait until this new challenge is over."
-        elif True:
+        else:
             mc "I'm alright. And I just have to wait until the punishment is over."
         scene d16s06-33 mc-aw-alisson-nervous_c1 with dissolve
         play voice3 allison_aah noloop
@@ -356,7 +356,7 @@ label d16s06:
         aw "I really do."
         $ unlock_gallery_slot("cg", "d16s06")
         $ renpy.end_replay()
-    elif True:
+    else:
 
         $ d16s06_points = 8
         scene d16s06-45 mc-aw-sex-part-start_c1 with dissolve
@@ -379,7 +379,7 @@ label d16s06:
             play music adult_games fadein 1.5
             stop music2
             stop music3 fadeout 6.0
-        elif True:
+        else:
             $ renpy.music.set_volume(0.7, 3.5, "music3")
             play music3 adult_games fadein 1.5
             stop music2 fadeout 3.0
@@ -585,7 +585,7 @@ label d16s06:
             pause
             stop sound fadeout 1.0
             stop sound2 fadeout 1.0
-        elif True:
+        else:
             scene d16s06-71 mc-aw-cum-leaking_c1 with dissolve
             pause
 
@@ -642,5 +642,4 @@ label d16s06:
     stop music3 fadeout 3.5
 
     jump d16s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

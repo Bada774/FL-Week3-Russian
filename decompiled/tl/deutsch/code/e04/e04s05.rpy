@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e04s05_3d4bba76:
 
 
@@ -1655,5 +1653,4 @@ translate deutsch strings:
 
     old "A few weeks later"
     new "A few weeks later"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

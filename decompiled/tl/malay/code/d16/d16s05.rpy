@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s05_7a5532ea:
 
 
@@ -1092,12 +1090,9 @@ translate malay strings:
     old "Ask her if she got any pictures"
     new "Tanya dia jika dia mendapat sebarang gambar"
 
-
-
 translate malay strings:
 
 
     old "After the class"
     new "Selepas kelas"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

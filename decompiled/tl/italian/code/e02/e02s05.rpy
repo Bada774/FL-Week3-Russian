@@ -1,6 +1,4 @@
 
-
-
 translate italian e02s05_71d34fa3:
 
 
@@ -711,5 +709,4 @@ translate italian strings:
 
     old "Enjoy Your Vacation And Go Home"
     new "Goditi la vacanza e vai a casa"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

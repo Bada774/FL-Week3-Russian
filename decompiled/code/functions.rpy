@@ -50,6 +50,10 @@ init python:
             fl_achievement_unlock("dlc01n01")
             unlock_gallery_slot("extra", "dlc01n01")
         
+        if persistent.finished_e03 and persistent.finished_e05 and persistent.finished_e09 and persistent.finished_e15 and persistent.finished_e16 and persistent.finished_e18:
+            fl_achievement_unlock("dlc02n01")
+            unlock_gallery_slot("extra", "dlc02n01")
+        
         if persistent.finished_e04 is True and persistent.finished_e07 is True:
             fl_achievement_unlock("dlc01n02")
             unlock_gallery_slot("extra", "dlc01n02")
@@ -66,6 +70,10 @@ init python:
         if number_of_finished_endings == 12:
             fl_achievement_unlock("dlc01n03")
             unlock_gallery_slot("extra", "dlc01n03")
+        
+        if number_of_finished_endings == 18:
+            fl_achievement_unlock("dlc02n03")
+            unlock_gallery_slot("extra", "dlc02n03")
 
 
 
@@ -219,25 +227,26 @@ init python:
             if i < len(gallery_slots):
                 slots.append(gallery_slots[i])
             else:
-                slots.append((None, None, None))
+                slots.append((None, None, None, None))
         return slots
 
-    def unlock_gallery_slot(what, slot):
+    def unlock_gallery_slot(what, slot, notify = True):
         if not _in_replay and is_extended_edition is True:
             if not persistent.__getattribute__(what)[slot]:
                 persistent.__getattribute__(what)[slot] = True
-                warning = {
-                    "cg":       _("You've unlocked a new CG Gallery"                ),
-                    "scene":    _("You can watch the scene again in the Replay Room"),
-                    "extra":    _("You've unlocked a new bonus content"             ),
-                }
-                renpy.notify(warning[what])
-                if what == "cg":
-                    renpy.play("audio/loudlout/extended/sfx/cg_gallery_unlock.ogg", channel="sound5")
-                elif what == "scene":
-                    renpy.play("audio/loudlout/extended/sfx/replay_room_unlock.ogg", channel="sound5")
-                else:
-                    renpy.play("audio/loudlout/extended/sfx/extra_content_unlock.ogg", channel="sound5")
+                if notify is True:
+                    warning = {
+                        "cg":       _("You've unlocked a new CG Gallery"                ),
+                        "scene":    _("You can watch the scene again in the Replay Room"),
+                        "extra":    _("You've unlocked a new bonus content"             ),
+                    }
+                    renpy.notify(warning[what])
+                    if what == "cg":
+                        renpy.play("audio/loudlout/extended/sfx/cg_gallery_unlock.ogg", channel="sound5")
+                    elif what == "scene":
+                        renpy.play("audio/loudlout/extended/sfx/replay_room_unlock.ogg", channel="sound5")
+                    else:
+                        renpy.play("audio/loudlout/extended/sfx/extra_content_unlock.ogg", channel="sound5")
 
     def lock_gallery_slot(what, slot):
         persistent.__getattribute__(what)[slot] = False
@@ -290,7 +299,35 @@ init python:
             conds = renpy.store.__getattribute__(what + "_gallery_unlock_conditions_for_old_players")
             for slot in conds:
                 if not slot in persistent.__getattribute__(what):
-                    persistent.__getattribute__(what)[slot] = renpy.seen_image(conds[slot]) if (what is not "extra") else False
+                    persistent.__getattribute__(what)[slot] = renpy.seen_image(conds[slot]) if (what != "extra") else False
+
+    def gallery_all_unlocked(gallery):
+        gallery_slots = renpy.store.__getattribute__(gallery + "_gallery_slots")
+        if len(gallery_slots) == 0:
+            return False
+        for slot in gallery_slots:
+            if not is_gallery_slot_unlocked(gallery, slot[0]):
+                return False
+        return True
+
+    def gallery_all_locked(gallery):
+        gallery_slots = renpy.store.__getattribute__(gallery + "_gallery_slots")
+        if len(gallery_slots) == 0:
+            return False
+        for slot in gallery_slots:
+            if is_gallery_slot_unlocked(gallery, slot[0]):
+                return False
+        return True
+
+    def unlock_everything(gallery):
+        gallery_slots = renpy.store.__getattribute__(gallery + "_gallery_slots")
+        for slot in gallery_slots:
+            unlock_gallery_slot(gallery, slot[0], False)
+
+    def lock_everything(gallery):
+        gallery_slots = renpy.store.__getattribute__(gallery + "_gallery_slots")
+        for slot in gallery_slots:
+            lock_gallery_slot(gallery, slot[0])
 
 
 
@@ -307,7 +344,7 @@ init python:
 
 
     def fl_achievement_unlock(name):
-        if is_steam_edition is True:
+        if is_steam_edition is True and config.developer is False:
             if not achievement.has(fl_achievements[name]):
                 achievement.grant(fl_achievements[name])
                 achievement.sync()
@@ -391,7 +428,6 @@ init python:
         for i in prologue_events:
             setattr(renpy.store, i[0], eval(i[2]))
 
-
     def prologue_import():
         for what in ("girls", "fetishes", "screen", "events"):
             for entry in getattr(renpy.store, "prologue_" + what):
@@ -415,5 +451,4 @@ init python:
             persistent.lovense_port = value
         else:
             FilePageNameInputValue(pattern=_("Page {}"), auto=_("Automatic saves"), quick=_("Quick saves")).set_text(value)
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish d21s01_8ddcc085:
 
 
@@ -1324,7 +1322,7 @@ translate turkish strings:
 
 
     old "Sunday\nDay-21"
-    new "Pazar\\N21. Gün"
+    new "Pazar\n21. Gün"
 
 
     old "Suck my cock."
@@ -1349,5 +1347,4 @@ translate turkish strings:
 
     old "Don't join her."
     new "Ona katılma"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

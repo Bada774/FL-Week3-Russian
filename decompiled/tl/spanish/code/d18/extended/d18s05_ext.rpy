@@ -1,6 +1,4 @@
 
-
-
 translate spanish d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate spanish d18s05_after_sex_d36f975d:
     sb "He estado pensando en ello durante un tiempo."
 
 
-translate spanish d18s05_after_sex_f26fa239:
-
-
-    sb "Odio este lugar. Es una puta jungla de asfalto. Siempre he querido largarme de aquí."
-
-
 translate spanish d18s05_after_sex_7102ee2c:
 
 
@@ -716,4 +708,9 @@ translate spanish strings:
     old "No"
     new "No"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate spanish d18s05_after_sex_ec16ba99:
+
+
+    sb "Odio este lugar. Es una maldita jungla de cemento. Necesito un viaje para relajarme."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

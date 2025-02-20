@@ -96,7 +96,7 @@ label d17s06dd:
     play voice2 mc_no_nah2 noloop
     if mcname == "Lucas":
         mc "I don't think he likes that. What about Logan?"
-    elif True:
+    else:
         mc "I don't think he likes that. What about Lucas?"
     scene d17s06a-21-dd-talking-with-toy with dissolve
     play voice3 daisy_uhuh noloop
@@ -118,7 +118,7 @@ label d17s06dd:
         scene d17s06a-26-mc-talking-with-dd with dissolve
         play voice2 mc_happy_yay2 noloop
         mc "Reminds me of that friend of Buffy's."
-    elif True:
+    else:
         $ d17s06_teddy_name  = _("Charlie")
         dd "He said Charles."
         scene d17s06a-24-mc-talking-with-dd with dissolve
@@ -474,7 +474,7 @@ label d17s06dd:
     play voice2 d1s5_orgasm noloop
     if date_mh is True:
         mct "I really like the way she thinks."
-    elif True:
+    else:
         mct "I can't say I've ever thought about that before, but let's see what happens."
     play voice3 mc_sex_sucking_slow2
     play voice4 daisy_sucking
@@ -724,5 +724,4 @@ label d17s06dd:
     stop music2 fadeout 3.0
     stop sound2 fadeout 3.0
     jump d17s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

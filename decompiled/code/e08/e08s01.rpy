@@ -37,7 +37,7 @@ label e08_menu_jump:
     if persistent.finished_e08 is True:
         $ date_sy = False
         call screen e08_char_choice
-    elif True:
+    else:
         $ date_sy = persistent.date_sy
 
     jump e08s01
@@ -709,5 +709,4 @@ label replay_e08s01 hide:
 
     stop music fadeout 4.5
     jump e08s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,4 +1,5 @@
 default persistent.seen_credits = False
+default dlc_2_postcredits = False
 
 
 
@@ -34,7 +35,7 @@ label end_credits:
         xalign 0.5 yalign 0.55 alpha 0.0
         linear 1.0 alpha 1.0
     $ renpy.pause(7.0)
-    scene black with dissolve 
+    scene black with dissolve
 
 
 
@@ -46,6 +47,9 @@ label end_credits:
     hide screen credits_roll
     $ persistent.seen_credits = True
 
-    jump after_credits
+    jump end_credits_end
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+label end_credits_end:
+    $ _skipping = True
+    jump after_credits
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese d20s02rn_8e860913:
 
 
@@ -937,5 +935,4 @@ translate chinese strings:
 
     old "Let them keep going"
     new "让他们继续"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -98,7 +98,7 @@ label d18s08:
     if d14s07_deflower is True:
         tl "Within a week of having her purity, her womanhood, her virginity restored, she lost it once more!"
         tl "One week!"
-    elif True:
+    else:
         pause
     play voice4 cynthia_pain_crying1 noloop
     scene d18s08-21 cl-bent-over-slapped_c1 with dissolve
@@ -176,5 +176,4 @@ label d18s08:
     stop music fadeout 4.5
 
     jump d18s09
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,9 +1,6 @@
-
-
 translate deutsch strings:
 
 
-    old "Do you want to have Stacy this ending?"
+    old "Do you want to have Stacy in this ending?"
     new "Möchtest du Stacy in diesem Ende haben?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

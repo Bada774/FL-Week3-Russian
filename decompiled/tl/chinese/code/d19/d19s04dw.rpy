@@ -1,6 +1,4 @@
 
-
-
 translate chinese d19s04dw_cc0d7a3e:
 
 
@@ -553,5 +551,4 @@ translate chinese strings:
 
     old "No..."
     new "不要..."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

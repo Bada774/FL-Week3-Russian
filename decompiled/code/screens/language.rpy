@@ -1,9 +1,9 @@
-﻿
+
 
 
 
 init python:
-    for i in ("lang_en", "lang_cn", "lang_pt", "lang_es", "lang_ko", "lang_it", "lang_ms", "lang_de", "lang_ru", "lang_tr"):
+    for i in ("lang_en", "lang_cn", "lang_pt", "lang_es", "lang_ko", "lang_it", "lang_ms", "lang_de", "lang_ru", "lang_tr", "lang_fr"):
         j = i[5:]
         style.button[i].idle_background             = "images/utility/flags/flag_{0}_idle.webp".format(j)
         style.button[i].hover_background            = "images/utility/flags/flag_{0}_hover.webp".format(j)
@@ -107,14 +107,14 @@ screen language_buttons(splash=False):
                 else:
                     action (Function(language_setter, newlang="korean"), Return())
 
-            button id "lang_ms":
-                text "Malay"
-                style style.button["lang_ms"]
-                selected (preferences.language == "malay")
-                if splash is False:
-                    action Function(language_setter, newlang="malay")
-                else:
-                    action (Function(language_setter, newlang="malay"), Return())
+
+
+
+
+
+
+
+
 
 screen language_chooser():
     tag menu
@@ -244,9 +244,16 @@ translate chinese style pool_button_text:
 
 translate chinese style renamer_text:
     font "fonts/Arial-Unicode.ttf"
-    ypos -5
+    yoffset -9
 
 translate chinese style renamer_button_text:
+    font "fonts/Arial-Unicode.ttf"
+    yoffset -9
+
+translate chinese style save_sync_menu_button_text:
+    font "fonts/Arial-Unicode.ttf"
+
+translate chinese style sync_button_text:
     font "fonts/Arial-Unicode.ttf"
 
 translate chinese style free_roam_button_text:
@@ -426,6 +433,26 @@ translate chinese style bonus_trade_text_body:
 
 translate chinese style bonus_horny_meme_text:
     font "fonts/Arial-Unicode.ttf"
+
+translate chinese style hard_to_swallow_pills_text:
+    font "fonts/Arial-Unicode.ttf"
+
+translate chinese style hard_to_swallow_pills_large_text:
+    font "fonts/Arial-Unicode.ttf"
+
+translate chinese style dlc_stamp_endings_frame:
+    top_padding 16
+
+translate chinese style dlc_stamp_mm_frame:
+    top_padding 14
+    xpadding 25
+
+translate chinese style lovense_info_vbox:
+    yalign -0.075
+
+translate chinese python:
+    gui.system_font = "fonts/Arial-Unicode.ttf"
+    gui.hyperlink_text_font = "fonts/Arial-Unicode.ttf"
 
 
 
@@ -704,6 +731,10 @@ translate korean style bonus_trade_text_body:
 translate korean style bonus_horny_meme_text:
     font "fonts/Arial-Unicode.ttf"
 
+translate korean python:
+    gui.system_font = "fonts/Arial-Unicode.ttf"
+    gui.hyperlink_text_font = "fonts/Arial-Unicode.ttf"
+
 
 
 translate portuguese style lovense_info_vbox:
@@ -902,5 +933,4 @@ translate deutsch style bonus_rm_rf_text_2:
 translate deutsch style prologue_yes_button:
     left_padding 35
     right_padding 30
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

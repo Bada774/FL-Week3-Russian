@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e14s04_d635bce6:
 
 
@@ -1539,5 +1537,4 @@ translate portuguese strings:
 
     old "A little later"
     new "Certo tempo depois"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

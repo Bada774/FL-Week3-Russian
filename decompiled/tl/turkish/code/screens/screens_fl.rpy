@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -222,4 +220,69 @@ translate turkish strings:
     old "Skip Recap\nof Week-2"
     new "2. Hafta\nÖzetini Atla"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+    old "Sync your saves using Ren'Py Sync server"
+    new "Ren'Py Sync sunucusunu kullanarak kayıtlarınızı senkronize edin"
+
+
+    old "Upload Saves"
+    new "Kaydedilenleri Yükle"
+
+
+    old "Download Saves"
+    new "Kayıtları İndir"
+
+translate turkish strings:
+
+
+    old "Touch input supported"
+    new "Dokunmatik giriş destekleniyor"
+
+
+    old "Navigation"
+    new "Navigasyon"
+
+
+    old "Pause Menu"
+    new "Menüyü Duraklat"
+
+
+    old "Quick Save"
+    new "Hızlı Kaydet"
+
+
+    old "Roll Back"
+    new "Geri Al"
+
+
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Seçin"
+
+
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Geri Dön"
+
+
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Atla"
+
+
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Gizle UI"
+
+
+    old "Roll Forward"
+    new "İleri Sar"
+
+
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "Bu düzeni {b} Yardım {/b} menüsünde bulabilirsiniz"
+
+
+    old "CLOSE"
+    new "BİTTİ"
+
+
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Tabu Üniversitesi 1. Kitabı Steam'den Alın{/u}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish e01s02_fd8d44aa:
 
 
@@ -815,5 +813,4 @@ translate turkish strings:
 
     old "In Fetish Locator: S&M Studio!"
     new "Fetiş Bulucu'da: S&M Studio!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

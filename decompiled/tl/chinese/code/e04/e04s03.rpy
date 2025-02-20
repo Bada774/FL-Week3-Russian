@@ -1,6 +1,4 @@
 
-
-
 translate chinese e04s03_a5af4321:
 
 
@@ -1499,5 +1497,4 @@ translate chinese e04s03_end_0f4f597e:
 
 
     sy "呵呵。别担心。以我的想法，一定物有所值。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d18s07_3f8d37de:
 
 
@@ -311,5 +309,4 @@ translate deutsch d18s07_7764a381:
 
 
     mc "In Ordnung. Lass uns gehen, sie kann das offensichtlich alleine bewältigen."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

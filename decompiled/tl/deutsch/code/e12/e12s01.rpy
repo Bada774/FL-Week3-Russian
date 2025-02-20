@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e12s01_f612d9b5:
 
 
@@ -1107,5 +1105,4 @@ translate deutsch strings:
 
     old "On the road to the airport"
     new "Auf dem Weg zum Flughafen"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

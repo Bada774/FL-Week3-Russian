@@ -1,6 +1,4 @@
 
-
-
 translate portuguese lovense_test_9e0ee773:
 
 
@@ -102,8 +100,6 @@ translate portuguese strings:
     old "Please enter your HTTP Port number:"
     new "Por favor, entre sua porta HTTP:"
 
-
-
 translate portuguese strings:
 
 
@@ -126,8 +122,6 @@ translate portuguese strings:
     old "{u}Connect your toy!{/u}"
     new "{u}Conecte o seu brinquedo!{/u}"
 
-
-
 translate portuguese strings:
 
 
@@ -138,4 +132,17 @@ translate portuguese strings:
     old "Get a toy now"
     new "Comprar um brinquedo agora"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate portuguese strings:
+
+
+    old "1. Click on the \"Discover\" tab"
+    new "1. Clique na aba \"Discover\""
+
+
+    old "2. Then click on \"Game Mode\" option"
+    new "2. Aí clique na opção \"Game Mode\""
+
+
+    old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Entre com o \"IP Local\" e a \"Porta\" mostrados no aplicativo\nAí clique em Conectar."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

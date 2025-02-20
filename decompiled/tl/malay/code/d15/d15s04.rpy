@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s04_a13bdd91:
 
 
@@ -265,5 +263,4 @@ translate malay strings:
 
     old "Spend time with Daisy"
     new "Luangkan masa dengan Daisy"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

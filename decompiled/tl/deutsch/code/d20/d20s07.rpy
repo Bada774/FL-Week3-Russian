@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d20s07_96d287b6:
 
 
@@ -1621,5 +1619,4 @@ translate deutsch strings:
 
     old "Go home"
     new "Geh nach Hause"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

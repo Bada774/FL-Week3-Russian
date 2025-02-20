@@ -509,7 +509,7 @@ label d18s11b_continue:
         mc "This slut's tongue is bigger than your little dick."
         jdg "It is, sir!"
         pause
-    elif True:
+    else:
         stop voice4 fadeout 2.0
         stop voice3 fadeout 1.0
         play voice2 mc_pain_rrrr noloop
@@ -529,7 +529,7 @@ label d18s11b_continue:
         mct "Damn, this is so fucked up."
     if d18s11b_spitroast is True:
         scene d18s11b-a66-02 with dissolve
-    elif True:
+    else:
         play voice2 d7s4_mcbreathing
         play voice3 aaleyah_open_moans2
         $ Lovense.pattern("8;12", 1300)
@@ -539,7 +539,7 @@ label d18s11b_continue:
     pause
     if d18s11b_spitroast is True:
         scene d18s11b-a66-03 with dissolve
-    elif True:
+    else:
         scene d18s11b-a70-02 with dissolve
     mc "Tell me you love it, slut!"
     jdg "I love it, sir!"
@@ -547,14 +547,14 @@ label d18s11b_continue:
     if d18s11b_spitroast is True:
         $ Lovense.pattern("8;12", 700)
         scene d18s11b-a66-01-f with dissolve
-    elif True:
+    else:
         scene d18s11b-a70-03 with dissolve
     mc "CUNT! TELL ME WHAT YOU LOVE!!!"
     jdg "I love it when you tear my asshole to shreds, sir!"
     pause
     if d18s11b_spitroast is True:
         scene d18s11b-a66-02-f with dissolve
-    elif True:
+    else:
         scene d18s11b-a70-04 with dissolve
     mc "WHAT ELSE?"
     jdg "I love it when you rape my holes, sir!"
@@ -577,7 +577,7 @@ label d18s11b_continue:
         mc "Ha! You're really pushing the limits of masculinity, Vikki!"
         play voice2 d7s4_mcbreathing
         play voice3 aaleyah_open_moans2
-    elif True:
+    else:
         $ Lovense.pattern("8;12", 600)
         scene d18s11b-a70-01-f with dissolve
         mc "Do you see what happens, Vikki?!"
@@ -669,5 +669,4 @@ label d18s11b_end:
     $ renpy.end_replay()
 
     jump d18s11_bar
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

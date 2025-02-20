@@ -1,6 +1,4 @@
 
-
-
 translate turkish d16s05_7a5532ea:
 
 
@@ -1095,5 +1093,4 @@ translate turkish strings:
 
     old "Ask her if she got any pictures"
     new "Ona hiç fotoğrafı olup olmadığını sor"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

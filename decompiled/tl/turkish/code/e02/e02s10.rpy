@@ -1,6 +1,4 @@
 
-
-
 translate turkish e02s10_1cc9503b:
 
 
@@ -857,5 +855,4 @@ translate turkish strings:
 
     old "You have finished playing Ending #02!"
     new "Bitiş #02'yi oynamayı bitirdiniz!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

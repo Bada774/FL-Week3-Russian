@@ -1,6 +1,4 @@
 
-
-
 translate chinese e11s01_66df9fc1:
 
 
@@ -65,12 +63,6 @@ translate chinese e11s01_608e8e51:
 
 
     mc "说到学习！你的大学生活怎么样？"
-
-
-translate chinese e11s01_aad99233:
-
-
-    ly "很好！我的英语写作在班上名列前茅。我还要上一堂非常精彩的占星学课。"
 
 
 translate chinese e11s01_ffc39c14:
@@ -534,4 +526,9 @@ translate chinese strings:
     old "Twenty years later"
     new "二十年后"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate chinese e11s01_76c691b8:
+
+
+    ly "太好了！我的英语写作可是班上最好的。而且我还要上一堂非常精彩的天文学课。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

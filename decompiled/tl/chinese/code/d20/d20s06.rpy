@@ -1,6 +1,4 @@
 
-
-
 translate chinese d20s06_c4a32281:
 
 
@@ -525,5 +523,4 @@ translate chinese strings:
 
     old "Eat Oliver's cum"
     new "吃奥利弗的精液"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

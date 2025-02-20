@@ -145,7 +145,7 @@ label e06s06:
     play voice3 lydia_lydyes noloop
     if date_mh is True:
         lc "Yes, so I am well aware that you and my fiance have been intimate before, if that makes you feel better."
-    elif True:
+    else:
         lc "Yes, so I am well aware of all the girls he's been with."
     scene e06s06-19 couch_area_mh_talk_recovered_c1 with dissolve
     play voice4 dahlia_arrogant_heh noloop
@@ -1062,5 +1062,4 @@ label e06s06_end:
 
     stop music fadeout 3.5
     jump e06s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

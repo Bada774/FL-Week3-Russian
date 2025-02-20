@@ -1,46 +1,44 @@
 
-
-
 translate malay e04s05_3d4bba76:
 
 
-    mc "She was so close to breaking..."
+    mc "Sikit sahaja lagi..."
 
 
 translate malay e04s05_cf43447e:
 
 
-    sy "I know, big bro."
+    sy "Aku tahu, abang..."
 
 
 translate malay e04s05_714ef096:
 
 
-    sy "I know, [mcname]."
+    sy "Aku tahu, [mcname]."
 
 
 translate malay e04s05_244514a1:
 
 
-    mc "I... I'm running out of ideas."
+    mc "Aku... Aku dah tak ada idea."
 
 
 translate malay e04s05_4a5c3166:
 
 
-    sy "What you need is a heavy hitter."
+    sy "Apa yang kau perlukan ialah pemukul berat."
 
 
 translate malay e04s05_5abebda9:
 
 
-    mc "I'll do anything at this point."
+    mc "Aku akan lakukan apa sahaja pada ketika ini."
 
 
 translate malay e04s05_4b13494b:
 
 
-    sy "Let me make a call."
+    sy "Biar aku buat satu panggilan."
 
 
 translate malay e04s05_1b199792:
@@ -52,61 +50,61 @@ translate malay e04s05_1b199792:
 translate malay e04s05_cb60d6e7:
 
 
-    sy "Just get us ready for company!"
+    sy "Hanya sediakan kita untuk tetamu!"
 
 
 translate malay e04s05_ba333b29:
 
 
-    mc "Lyssa! Hey, uh, I wasn't expecting you."
+    mc "Lyssa! Hey, uh, aku tak jengkakan kau."
 
 
 translate malay e04s05_236b8351:
 
 
-    mh "Surprise."
+    mh "Kejutan."
 
 
 translate malay e04s05_2548a6ed:
 
 
-    mc "Seeing you is one of my favorite surprises from the last couple weeks."
+    mc "Berjumpa dengan kau adalah salah satu kejutan kegemaran aku sejak beberapa minggu lalu."
 
 
 translate malay e04s05_c33040b0:
 
 
-    mh "Are you going to invite me in?"
+    mh "Kau tak nak jemput aku masuk?"
 
 
 translate malay e04s05_0adddb5d:
 
 
-    mc "You need an invite? What are you, a vampire?"
+    mc "Kau perlukan jemputan? Apakah kau, pontianak?"
 
 
 translate malay e04s05_6608b524:
 
 
-    mh "Why, do you want me to suck your blood?"
+    mh "Kenapa, kau nak aku hisap darah kau?"
 
 
 translate malay e04s05_7136c946:
 
 
-    mc "I mean..."
+    mc "Maksud aku..."
 
 
 translate malay e04s05_7b4e06ad:
 
 
-    mc "Come on in."
+    mc "Masuklah."
 
 
 translate malay e04s05_325e8716:
 
 
-    mh "Stacy told me all about your little problem."
+    mh "Stacy beritahu aku semua tentang masalah kau."
 
 
 translate malay e04s05_06d13f3a:
@@ -118,163 +116,163 @@ translate malay e04s05_06d13f3a:
 translate malay e04s05_e931767e:
 
 
-    mh "It's okay, [mcname]. Sometimes you just have someone with a difficult personality. Believe me, I'm surrounded by them 24/7."
+    mh "Tak apa, [mcname]. Kadang-kadang kau hanya ada seseorang yang mempunyai personaliti yang sukar. Percayalah, aku dikelilingi oleh mereka 24/7."
 
 
 translate malay e04s05_0a0cca5c:
 
 
-    mh "I was also surprised by your... Arrangement here."
+    mh "Aku juga terkejut dengan... Susunan kau di sini."
 
 
 translate malay e04s05_81388dba:
 
 
-    mc "Well, it's-"
+    mc "Jadi, ia-"
 
 
 translate malay e04s05_e8070c7a:
 
 
-    mh "No need to worry, [mcname]. I spoke with the Judge on my way over."
+    mh "Jangan risau, [mcname]. Aku ada bercakap dengan Hakim dalam perjalanan tadi."
 
 
 translate malay e04s05_40ef0976:
 
 
-    mc "Oh! Well, that makes that easy."
+    mc "Oh! Jadi, itu memudahkan."
 
 
 translate malay e04s05_592ca75b:
 
 
-    mh "That it does."
+    mh "Betul."
 
 
 translate malay e04s05_3c17ca1e:
 
 
-    mc "I'm curious, what {i}did{/i} the Judge say about my situation?"
+    mc "Aku nak tahu, {i}apa{/i} yang Hakim katakan tentang keadaan aku?"
 
 
 translate malay e04s05_d90df29c:
 
 
-    mh "She was close-lipped about it. Said it was an \"innovative form of punishment\", and that she tries to keep out of it as best she can. Something about \"there are some things better left not known\"."
+    mh "Dia menutup mulut mengenainya. Mengatakan ia adalah \"bentuk hukuman yang inovatif\", dan dia cuba mengelakkannya sebaik mungkin. Sesuatu tentang \"terdapat beberapa perkara yang lebih baik tak diketahui\" ."
 
 
 translate malay e04s05_6cdb1425:
 
 
-    mh "But I'm not here to tell you what the Judge is thinking."
+    mh "Tapi aku di sini bukan untuk beritahu kau apa yang Hakim fikirkan."
 
 
 translate malay e04s05_eaa6c258:
 
 
-    mc "Yeah... Stacy called you to come help?"
+    mc "Yeah... Stacy panggil kau untuk datang tolong?"
 
 
 translate malay e04s05_9973ea0e:
 
 
-    mh "Stacy said you needed, and I quote, \"a heavy hitter\"."
+    mh "Stacy kata kau perlukan, dan aku petik, \"pemukul berat\"."
 
 
 translate malay e04s05_b499ce62:
 
 
-    mc "She's not wrong. Lydia has continued to find ways to be..."
+    mc "Dia tak salah. Lydia terus mencari jalan untuk menjadi..."
 
 
 translate malay e04s05_ea04adef:
 
 
-    mh "Difficult."
+    mh "Sukar."
 
 
 translate malay e04s05_f39b9e8b:
 
 
-    mc "Yeah. Difficult."
+    mc "Yeah. Sukar."
 
 
 translate malay e04s05_ae160970:
 
 
-    mh "Well, I'm parched. Could you grab me some water? And then why don't you tell me all about what you've tried so far."
+    mh "Baiklah, aku haus. Boleh kau ambilkan aku air? Kemudian kenapa tak kau beritahu aku semua tentang apa yang kau dah cuba selama ini."
 
 
 translate malay e04s05_a5a224aa:
 
 
-    mh "Just like work, I need to see a client brief before I can recommend a course of action."
+    mh "Sama seperti kerja, aku kena berjumpa dengan taklimat pelanggan sebelum aku boleh mengesyorkan tindakan."
 
 
 translate malay e04s05_20919f8c:
 
 
-    mc "Sure. I could use a drink myself."
+    mc "Baiklah. Aku pun nak minum juga."
 
 
 translate malay e04s05_0208b5a3:
 
 
-    mc "And then Daisy snorted some cum off the floor. And that was pretty much the closest we got to breaking her."
+    mc "Dan kemudian Daisy mendengus air mani dari atas lantai. Dan itu adalah yang paling hampir kami dapat memecahkannya."
 
 
 translate malay e04s05_f2c4a33d:
 
 
-    mh "I must say, [mcname], you have tried quite a few things. I'm pretty impressed with the list of things you've attempted."
+    mh "Aku mesti katakan, [mcname], kau dah cuba beberapa perkara. Aku agak kagum dengan senarai perkara yang kau cuba."
 
 
 translate malay e04s05_29764a6f:
 
 
-    mc "Yeah. I've pretty much tried everything I can think of, and a few things I found on the internet. And bupkis."
+    mc "Yeah. Aku dah cuba semua yang aku boleh fikirkan, dan beberapa perkara yang aku jumpa di internet. Dan bupkis."
 
 
 translate malay e04s05_c26e20c9:
 
 
-    mh "Can I get some more water, please?"
+    mh "Boleh aku dapatkan air lagi, tolong?"
 
 
 translate malay e04s05_85d475fe:
 
 
-    mc "Of course!"
+    mc "Sudah tentu!"
 
 
 translate malay e04s05_3ed77072:
 
 
-    mh "Thank you, [mcname]."
+    mh "Terima kasih, [mcname]."
 
 
 translate malay e04s05_bc666b09:
 
 
-    mc "Anytime."
+    mc "Sama-sama."
 
 
 translate malay e04s05_ca9cb4f6:
 
 
-    mh "Well, I've been thinking about your predicament. And I may have a solution."
+    mh "Baiklah, aku dah fikirkan tentang kesusahan kau. Dan aku mungkin ada penyelesaiannya."
 
 
 translate malay e04s05_b8c53a6a:
 
 
-    mc "Thank God."
+    mc "Baguslah."
 
 
 translate malay e04s05_089d1df8:
 
 
-    mh "What if I help you out?"
+    mh "Macam mana kalau aku tolong kau?"
 
 
 translate malay e04s05_ee87e6f3:
@@ -286,55 +284,55 @@ translate malay e04s05_ee87e6f3:
 translate malay e04s05_42a5409c:
 
 
-    mh "In that long list of things you've tried, I didn't hear 'stuffing her full with two great dicks to the point her brain melts'."
+    mh "Dalam senarai panjang perkara yang kau dah cuba, aku tak dengar 'menyumbat dia penuh dengan dua batang yang hebat sehingga otaknya cair'."
 
 
 translate malay e04s05_0ce9b524:
 
 
-    mc "No, that's something I haven't tried yet."
+    mc "Tak, itu sesuatu yang aku belum cuba lagi."
 
 
 translate malay e04s05_cf85107c:
 
 
-    mh "Well-"
+    mh "Jadi-"
 
 
 translate malay e04s05_55acc5c4:
 
 
-    mh "Why don't you give me the tour. I'd love to see how you've got the prison set up."
+    mh "Kenapa kau tak beri aku lawatan. Aku ingin nak tengok macam mana kau sediakan penjara."
 
 
 translate malay e04s05_d03e6dac:
 
 
-    mc "Of course, right this way."
+    mc "Sudah tentu, marilah."
 
 
 translate malay e04s05_8262e385:
 
 
-    mc "Here you can see our lovely Guard punishing Prisoner 002."
+    mc "Di sini kau boleh tengok Pengawal kami yang cantik menghukum Banduan 002."
 
 
 translate malay e04s05_51a76fb4:
 
 
-    mc "Guard, would you like to tell our guest what you're doing?"
+    mc "Pengawal, kau nak beritahu tetamu kita apa yang kau buat?"
 
 
 translate malay e04s05_1dbf306f:
 
 
-    sy "Yes, [alt_mcname]. Prisoner 002 is going through a forced orgasm punishment."
+    sy "Ya, [alt_mcname]. Banduan 002 sedang menjalani hukuman syahwat paksa."
 
 
 translate malay e04s05_f9b5f550:
 
 
-    mc "And how many orgasms has she had so far?"
+    mc "Dan berapa kali orgasme yang dia alami setakat ini?"
 
 
 translate malay e04s05_afabea75:
@@ -346,247 +344,247 @@ translate malay e04s05_afabea75:
 translate malay e04s05_2a6c743b:
 
 
-    mh "My god, how is she still conscious?"
+    mh "Macam mana dia masih sedar?"
 
 
 translate malay e04s05_ced0da28:
 
 
-    sy "But we're going to see how many orgasms it takes to get Prisoner 002 to pass out."
+    sy "Tapi kita akan tengok berapa banyak orgasme yang diperlukan untuk buat Banduan 002 pengsan."
 
 
 translate malay e04s05_5d2e7744:
 
 
-    mh "And this one?"
+    mh "Dan yang ini?"
 
 
 translate malay e04s05_323fc73f:
 
 
-    mc "Thought it would be fun. It's also a good way to keep her wet and ready for me whenever I want."
+    mc "Aku fikir ia akan menyeronokkan. Ini juga cara yang baik untuk pastikan dia basah dan bersedia untuk aku bila-bila masa aku nak."
 
 
 translate malay e04s05_a878c2ba:
 
 
-    mh "It looks like she's enjoying herself."
+    mh "Nampaknya dia sedang berseronok."
 
 
 translate malay e04s05_1e2fc9d8:
 
 
-    mc "Oh, after the first time we did this she asked that we do it again."
+    mc "Oh, selepas kali pertama kami lakukan ini, dia meminta kami lakukannya sekali lagi."
 
 
 translate malay e04s05_ad25fbb4:
 
 
-    mc "And next up is Prisoner 001."
+    mc "Dan seterusnya ialah Banduan 001."
 
 
 translate malay e04s05_134cc357:
 
 
-    mh "You go on ahead, I want to slip into something a little more appropriate."
+    mh "Kau pergilah dahulu, aku nak pakaikan sesuatu yang lebih sesuai."
 
 
 translate malay e04s05_fb0449b2:
 
 
-    mh "In the meantime, why don't you go and prepare the prisoner for us."
+    mh "Sementara itu, kenapa tak kau pergi dan sediakan banduan itu untuk kita."
 
 
 translate malay e04s05_b24855ee:
 
 
-    mc "Of course, it's just down this way. We'll be waiting for you!"
+    mc "Sudah tentu, ia hanya di sini. Kami akan tunggu untuk kau!"
 
 
 translate malay e04s05_fcc50d15:
 
 
-    lc "The fuck do you want now."
+    lc "Apa pula yang kau nak sekarang?"
 
 
 translate malay e04s05_a51dcbe1:
 
 
-    mc "Why do you continue to fight this?"
+    mc "Kenapa kau terus melawan ini?"
 
 
 translate malay e04s05_c38c13b1:
 
 
-    lc "Because I know I can break you."
+    lc "Sebab aku tahu aku boleh patahkan kau."
 
 
 translate malay e04s05_f33a7ea7:
 
 
-    mc "Come on, Prisoner 001. Be honest about your situation."
+    mc "Marilah, Banduan 001. Jujurlah tentang keadaan kau."
 
 
 translate malay e04s05_c8594163:
 
 
-    lc "I am."
+    lc "Aku adalah."
 
 
 translate malay e04s05_00da9229:
 
 
-    mc "You're literally a prisoner in your own house. I determine everything you do. I think you need to get honest with yourself."
+    mc "Kau betul-betul seorang banduan di rumah kau sendiri. Aku tentukan semua yang kau lakukan. Aku fikir kau kena jujur dengan diri sendiri."
 
 
 translate malay e04s05_16491bf6:
 
 
-    mc "As soon as you can accept your new place in the world, everyone will be much happier."
+    mc "Sebaik sahaja kau boleh terima tempat baru kau di dunia, semua orang akan jadi lebih gembira."
 
 
 translate malay e04s05_2342f90f:
 
 
-    lc "I..."
+    lc "Aku..."
 
 
 translate malay e04s05_0cf1a992:
 
 
-    lc "Get bent, [mcname]."
+    lc "Bengkoklah, [mcname]."
 
 
 translate malay e04s05_99f054be:
 
 
-    lc "And you never answered my question. Why are you bothering me again."
+    lc "Dan kau tak pernah jawab soalan aku. Kenapa kau kacau aku lagi?"
 
 
 translate malay e04s05_60fc14d7:
 
 
-    mc "We're here to give you a new treatment for your bad attitude."
+    mc "Kami di sini untuk berikan kau rawatan baru untuk sikap buruk kau."
 
 
 translate malay e04s05_41009d70:
 
 
-    lc "We?"
+    lc "Kami?"
 
 
 translate malay e04s05_266055a6:
 
 
-    lc "Wait, aren't you a lawyer?"
+    lc "Tunggu, kau bukan peguam?"
 
 
 translate malay e04s05_c32f6a14:
 
 
-    mh "How very astute, Lydia. Yes, I am."
+    mh "Betapa cerdik, Lydia. Ya, betul."
 
 
 translate malay e04s05_a68796b9:
 
 
-    lc "Let me out of here! Look at how... Inhumane this is!"
+    lc "Biarkan aku keluar dari sini! Tengok macam mana... Tak berperikemanusiaan semua ini!"
 
 
 translate malay e04s05_6cfbf070:
 
 
-    mh "I think what's inhumane is toying with and blackmailing people with moments from their private life."
+    mh "Aku fikir apa yang tak berperikemanusiaan adalah mempermainkan dan memeras ugut orang dengan detik-detik kehidupan peribadi mereka."
 
 
 translate malay e04s05_db6b8592:
 
 
-    mh "I think it's inhumane to use an app to manipulate people into sending intimate photoes from their private lives."
+    mh "Aku fikir adalah tak berperikemanusiaan untuk menggunakan aplikasi untuk memanipulasi orang supaya menghantar foto intim dari kehidupan peribadi mereka."
 
 
 translate malay e04s05_1c11b7e2:
 
 
-    lc "I-"
+    lc "Aku-"
 
 
 translate malay e04s05_f31ffa93:
 
 
-    mh "And what's worse, is that you manipulated those people into the moments. Then terrorized them - for weeks."
+    mh "Dan yang lebih teruk, ialah kau memanipulasi orang-orang itu ke dalam detik-detik itu. Kemudian mengganas mereka - selama berminggu-minggu."
 
 
 translate malay e04s05_17c6cead:
 
 
-    mh "As far as I'm concerned, morally, you deserve so much worse."
+    mh "Setakat yang aku bimbang, dari segi moral, kau layak mendapat lebih teruk."
 
 
 translate malay e04s05_787ffea1:
 
 
-    mh "And legally speaking, albeit abnormal, this is all legitimate and legal."
+    mh "Dan dari segi undang-undang, walaupun tak normal, ini semua adalah sah..."
 
 
 translate malay e04s05_bb90866b:
 
 
-    lc "What... No! This- This can't be..."
+    lc "Apa... Tak! Ini- Ini tak boleh..."
 
 
 translate malay e04s05_dec3ad6d:
 
 
-    mh "I spoke with the Judge. She assured me that all the t's were crossed..."
+    mh "Aku ada bercakap dengan Hakim. Dia memberi jaminan kepada aku yang semua t telah dipalang..."
 
 
 translate malay e04s05_0eaff76b:
 
 
-    mh "... And the i's were dotted."
+    mh "... Dan semua i bertitik."
 
 
 translate malay e04s05_1d144930:
 
 
-    mh "Where shall we begin?"
+    mh "Di mana kita akan bermula?"
 
 
 translate malay e04s05_34163ec0:
 
 
-    mc "With this. It's really the only thing she's scared of."
+    mc "Dengan ini. Ia betul-betul satu-satunya perkara yang dia takut."
 
 
 translate malay e04s05_83239112:
 
 
-    mh "Good."
+    mh "Baik."
 
 
 translate malay e04s05_bb296fbe:
 
 
-    mc "Prisoner 001, get on your hands and knees."
+    mc "Banduan 001, berlutut."
 
 
 translate malay e04s05_22539329:
 
 
-    lc "Fu-"
+    lc "Per-"
 
 
 translate malay e04s05_f5077df9:
 
 
-    lc "Fuh... Fuh... Cuh...."
+    lc "Per... Per... Gih...."
 
 
 translate malay e04s05_70f94a29:
 
 
-    mc "Show your appreciation."
+    mc "Tunjukkan penghargaan kau."
 
 
 translate malay e04s05_5f24676d:
@@ -598,91 +596,91 @@ translate malay e04s05_5f24676d:
 translate malay e04s05_41ce17bf:
 
 
-    mc "You know the drill, you break the rules and you get the cattle prod."
+    mc "Kau tahu kan, kau langgar peraturan dan kau dapat penternak lembu."
 
 
 translate malay e04s05_43b222f9:
 
 
-    lc "Eaa... Eaatt... Sh... Shi..."
+    lc "Per... Per... Gi... Mam..."
 
 
 translate malay e04s05_f3bf377b:
 
 
-    mc "Blah, blah, blah. Lyssa, can you pass me a gag?"
+    mc "Blah,bla,bla. Lyssa, boleh tak kau beri aku penutup mulut?"
 
 
 translate malay e04s05_4b9175d9:
 
 
-    mh "Of course, [mcname]."
+    mh "Sudah tentu, [mcname]."
 
 
 translate malay e04s05_02256a45:
 
 
-    mc "That's better."
+    mc "Baguslah."
 
 
 translate malay e04s05_0acf699b:
 
 
-    mc "Honestly, Prisoner 001, I'm tired of trying to convince you."
+    mc "Sejujurnya, Banduan 001, aku penat nak yakinkan kau."
 
 
 translate malay e04s05_909d269c:
 
 
-    mc "I have tried, and tried, and {i}tried{/i} to reason with you."
+    mc "Aku dah cuba, terus mencuba, dan terus {i}mencuba{/i} berunding dengan kau."
 
 
 translate malay e04s05_8ed5d083:
 
 
-    mc "But you won't listen. Instead you're snarky, sassy, and downright {i}bitchy{/i}."
+    mc "Tapi kau tak nak dengar. Sebaliknya kau seorang yang cerewet, lancang dan betul-betul {i}menyampah{/i}."
 
 
 translate malay e04s05_691d02dd:
 
 
-    mc "So we're just going to fuck you until you can't think straight."
+    mc "Jadi kami hanya akan kongkek kau hingga kau tak boleh berfikir dengan betul."
 
 
 translate malay e04s05_026c379d:
 
 
-    mc "Lyssa, can you help me get the prisoner on her feet."
+    mc "Lyssa, boleh tolong aku bangunkan banduan itu."
 
 
 translate malay e04s05_7f4a0c40:
 
 
-    mh "Of course."
+    mh "Sudah tentu."
 
 
 translate malay e04s05_85b32549:
 
 
-    mc "Do you want to take the front, or the back?"
+    mc "Kau nak ambil bahagian depan, atau belakang?"
 
 
 translate malay e04s05_6517f8a8:
 
 
-    mh "Why don't I start up front. Do you need me to grab you some lube?"
+    mh "Kenapa aku tak mulakan di hadapan. Kau nak aku ambil pelincir?"
 
 
 translate malay e04s05_6a200ea8:
 
 
-    mc "Prisoner 001 lost her lube privileges a long time ago."
+    mc "Banduan 001 kehilangan keistimewaan pelincirnya sejak lama dahulu."
 
 
 translate malay e04s05_731c6fa0:
 
 
-    mh "Good to know."
+    mh "Senang tahu."
 
 
 translate malay e04s05_9ae5ac54:
@@ -694,7 +692,7 @@ translate malay e04s05_9ae5ac54:
 translate malay e04s05_21b8b78d:
 
 
-    mc "You grab her legs, and I'll hold her up by her ass."
+    mc "Kau pegang kaki dia, dan aku akan pegang dia dekat pantatnya."
 
 
 translate malay e04s05_9dee8f66:
@@ -712,25 +710,25 @@ translate malay e04s05_4a0de6ab:
 translate malay e04s05_e547c543:
 
 
-    mh "Sounds like someone is having fun."
+    mh "Dengar macam seseorang sedang berseronok."
 
 
 translate malay e04s05_343afe3e:
 
 
-    mc "If she gave in, she'd be having the time of her life right now."
+    mc "Jika dia mengalah, dia akan mempunyai masa dalam hidupnya sekarang."
 
 
 translate malay e04s05_148b3503:
 
 
-    mc "Instead, the fun is just for us."
+    mc "Sebaliknya, keseronokan itu hanya untuk kita."
 
 
 translate malay e04s05_47015fa4:
 
 
-    mc "No matter how many times I fuck her ass, she manages to tighten it right up!"
+    mc "Tak kira berapa kali aku kongkeknyanya, dia berjaya mengetatkannya dengan betul!"
 
 
 translate malay e04s05_1e190082:
@@ -742,49 +740,49 @@ translate malay e04s05_1e190082:
 translate malay e04s05_5d883a13:
 
 
-    mh "I have to say the same for her pussy."
+    mh "Aku kena katakan perkara yang sama untuk pukinya."
 
 
 translate malay e04s05_1d00578c:
 
 
-    mh "We'll have to try and change that today, won't we?"
+    mh "Kita perlu cuba dan mengubahnya hari ini, kan?"
 
 
 translate malay e04s05_8256ddec:
 
 
-    mc "I am excited to see what you have planned, Lyssa."
+    mc "Aku teruja nak tengok apa yang kau rancang, Lyssa."
 
 
 translate malay e04s05_3cb076c8:
 
 
-    mc "You should be excited too, Prisoner 001."
+    mc "Kau sepatutnya teruja juga, Banduan 001."
 
 
 translate malay e04s05_b6324a19:
 
 
-    mh "I think we need to push her more, [mcname]. Need to make sure she's nice and loosened up."
+    mh "Aku rasa kita perlu mendorongnya lebih lagi, [mcname]. Perlu memastikan dia baik dan longgar."
 
 
 translate malay e04s05_55cda615:
 
 
-    mc "I have just the idea, help me lay down on the bed."
+    mc "Aku ada idea, tolong aku baring di atas katil."
 
 
 translate malay e04s05_dca97b35:
 
 
-    mc "Why don't you join me down here. You can really get some leverage while you're thrusting."
+    mc "Kenapa kau tak sertai aku di sini. Kau betul-betul boleh dapatkan sedikit pengaruh semasa kau menujah."
 
 
 translate malay e04s05_0fcee50f:
 
 
-    mh "I love where your head is at, [mcname]. She's really sparked your creativity."
+    mh "Aku suka di mana kepala kau berada, [mcname]. Dia betul-betul mencetuskan kreativiti kau."
 
 
 translate malay e04s05_d19e16b3:
@@ -802,19 +800,19 @@ translate malay e04s05_b0acb9cb:
 translate malay e04s05_74813a33:
 
 
-    mh "God, she's so tight!"
+    mh "Ketatnya dia!"
 
 
 translate malay e04s05_f6640f6b:
 
 
-    mc "Mmm, right!? She's loosening up a bit, though."
+    mc "Mmm, kan!? Dia dah sedikit longgar, apa-apa pun."
 
 
 translate malay e04s05_42f35a30:
 
 
-    mc "She has to keep it tight, so the stick up her ass doesn't fall out!"
+    mc "Dia harus tahannya dengan ketat, supaya tongkat ke pantatnya tak jatuh!"
 
 
 translate malay e04s05_fd1c8d8c:
@@ -826,19 +824,19 @@ translate malay e04s05_fd1c8d8c:
 translate malay e04s05_149a9db4:
 
 
-    mc "Do those sound like moans to you, Lyssa?"
+    mc "Itu bunyi macam erangan kepada kau, Lyssa?"
 
 
 translate malay e04s05_64a739ea:
 
 
-    mh "They- ooo- do, [mcname]!"
+    mh "Mereka- ooo- ada, [mcname]!"
 
 
 translate malay e04s05_5493e511:
 
 
-    mc "Sounds like the little slut likes getting her asshole abused!"
+    mc "Nampaknya perempuan murahan itu suka didera!"
 
 
 translate malay e04s05_770c5a6a:
@@ -850,7 +848,7 @@ translate malay e04s05_770c5a6a:
 translate malay e04s05_657e64de:
 
 
-    mh "I think you're right, [mcname], the bitch loves her holes being stretched out by two dicks."
+    mh "Aku rasa kau betul, [mcname], jalang itu suka lubangnya diregangkan oleh dua kote."
 
 
 translate malay e04s05_e708afb0:
@@ -862,139 +860,139 @@ translate malay e04s05_e708afb0:
 translate malay e04s05_b0d190cc:
 
 
-    mh "Oh just wait until you see what I've got in store for you."
+    mh "Oh tunggu sahaja sehingga kau nampak apa yang aku sediakan untuk kau."
 
 
 translate malay e04s05_9dd024f2:
 
 
-    mc "Speaking of, I'd love to see what you brought with you today."
+    mc "Bercakap tentang itu, aku nak tengok apa yang kau bawa bersama kau hari ini."
 
 
 translate malay e04s05_950ed287:
 
 
-    mh "I think you're going to love it."
+    mh "Aku rasa kau akan menyukainya."
 
 
 translate malay e04s05_d29eb36c:
 
 
-    mct "Lyssa sounds so excited. I can't wait to see what she has for Lydia."
+    mct "Lyssa dengar macam begitu teruja. Aku tak sabar untuk tengok apa yang dia ada untuk Lydia."
 
 
 translate malay e04s05_375a7b08:
 
 
-    mct "Whatever she is getting, it sounds big."
+    mct "Apa sahaja yang dia dapat, ia kedengaran besar."
 
 
 translate malay e04s05_e0417513:
 
 
-    mh "Okay. Please take out the prisoner's gag and put her on the floor."
+    mh "Baiklah. Tolong keluarkan penutup mulut banduan dan letakkan dia di atas lantai."
 
 
 translate malay e04s05_39de506d:
 
 
-    mc "On it."
+    mc "Baiklah."
 
 
 translate malay e04s05_05503b2a:
 
 
-    mc "For this next part, we'll need your mouth."
+    mc "Untuk bahagian seterusnya ini, kami perlukan mulut kau."
 
 
 translate malay e04s05_35abeb4e:
 
 
-    lc "What the fuck are-"
+    lc "Apa kejadahnya-"
 
 
 translate malay e04s05_dc10fb91:
 
 
-    lc "OUCH! FUCKING HELL!"
+    lc "Aduh! SAKITLAH!"
 
 
 translate malay e04s05_2f7d4839:
 
 
-    lc "What are you planning to do!?"
+    lc "Apa yang kau rancang nak buat!?"
 
 
 translate malay e04s05_c7a74ca6:
 
 
-    lc "That's too big, that-that-"
+    lc "Itu terlalu besar, itu-itu-"
 
 
 translate malay e04s05_4050700f:
 
 
-    mc "I don't give a fuck. Lyssa, put it in."
+    mc "Aku tak kesah. Lyssa, masukkannya."
 
 
 translate malay e04s05_ea10bb19:
 
 
-    lc "Please, [mcname], just wait a second!"
+    lc "Tolonglah, [mcname], tunggu sekejap!"
 
 
 translate malay e04s05_b87b9edb:
 
 
-    mc "I have already given you so many chances."
+    mc "Aku dah bagi kau banyak peluang."
 
 
 translate malay e04s05_8dec7bda:
 
 
-    lc "Please, [alt_mcname]!"
+    lc "Tunggu, [alt_mcname]!"
 
 
 translate malay e04s05_72a3d1e8:
 
 
-    mc "If this is what it takes for you to finally learn."
+    mc "Kalau ini yang diperlukan untuk kau akhirnya belajar."
 
 
 translate malay e04s05_567920d3:
 
 
-    lc "Come o- HOLY FUCK!"
+    lc "Mari- WOAH!"
 
 
 translate malay e04s05_9b0cd729:
 
 
-    lc "FUCK, FUCK, FUCK!"
+    lc "SIAL, SIAL, SIAL!"
 
 
 translate malay e04s05_ef9d0151:
 
 
-    mc "Turn it on. Max speed."
+    mc "Hidupkan. Kelajuan maksimum."
 
 
 translate malay e04s05_3f542b2a:
 
 
-    lc "FUCK, [alt_mcname]! PLEASE NO!"
+    lc "SIAL, [alt_mcname]! TOLONGLAH!"
 
 
 translate malay e04s05_d3d06db5:
 
 
-    lc "MERCY, PLEASE!"
+    lc "MAAF, TOLONG!"
 
 
 translate malay e04s05_28b47e7b:
 
 
-    lc "HOOOOOLY SHIT!"
+    lc "AHHHHHHH!"
 
 
 translate malay e04s05_eda4137a:
@@ -1006,19 +1004,19 @@ translate malay e04s05_eda4137a:
 translate malay e04s05_9ed3e61c:
 
 
-    mc "As my personal bidet, I also want you to clean my asshole. I've left it extra dirty for you."
+    mc "Sebagai bidet peribadi aku, aku juga nak kau bersihkan lubang aku. Aku biarkan ia lebih kotor untuk kau."
 
 
 translate malay e04s05_4c429f6c:
 
 
-    mc "And Lyssa, feel free to do whatever you want back there."
+    mc "Dan Lyssa, jangan ragu untuk lakukan apa sahaja yang kau nak di sana."
 
 
 translate malay e04s05_5156e20d:
 
 
-    mh "Already planning on it."
+    mh "Sudah dirancang."
 
 
 translate malay e04s05_72310cb0:
@@ -1030,79 +1028,79 @@ translate malay e04s05_72310cb0:
 translate malay e04s05_f2d004ad:
 
 
-    mc "Sounds like someone likes your toy, Lyssa!"
+    mc "Bunyi macam ada orang suka mainan kau, Lyssa!"
 
 
 translate malay e04s05_e89668aa:
 
 
-    mh "It's the least I could do for wrecking her holes."
+    mh "Ia adalah yang paling aku boleh lakukan untuk merosakkan lubangnya."
 
 
 translate malay e04s05_c548b70e:
 
 
-    mh "If you want, [mcname], you can borrow the toy as long as you want!"
+    mh "Kalau kau nak, [mcname], kau boleh meminjam mainan itu selagi kau nak!"
 
 
 translate malay e04s05_48e4b6cc:
 
 
-    mc "What do you think, Prisoner 001? Do you want me to chain you to the fuck machine for three days?"
+    mc "Apa pendapat kau, Banduan 001? Kau nak aku rantai kau ke mesin kongkek selama tiga hari?"
 
 
 translate malay e04s05_23572f86:
 
 
-    lc "'UUUUUHHCK, 'UUUUHHCK!"
+    lc "'UUUUUHHHCK, 'UUUUHHHCK!"
 
 
 translate malay e04s05_96a0bb7a:
 
 
-    mc "That sounded like a yes to me!"
+    mc "Itu dengar macam ya pada aku!"
 
 
 translate malay e04s05_2d0c6c08:
 
 
-    mh "Mmmm, sounded like that to me too!"
+    mh "Mmmm, aku dengar benda yang sama juga!"
 
 
 translate malay e04s05_9dbbc0da:
 
 
-    mh "Mmmm, I feel her asshole squeezing tighter around my cock."
+    mh "Mmmm, aku rasa bontotnya semakin mengerat pada aku."
 
 
 translate malay e04s05_d6919afd:
 
 
-    mc "I wonder if it's because of the horse dildo-"
+    mc "Aku tertanya-tanya sama ada ianya sebab dildo kuda-"
 
 
 translate malay e04s05_77261c96:
 
 
-    mc "-Or because she's eating my ass like it's fine dining!"
+    mc "-Atau kerana dia makan bontot aku macam itu adalah santapan yang lazat!"
 
 
 translate malay e04s05_de9cc072:
 
 
-    mh "Mmmm, I'm getting close, [mcname]."
+    mh "Mmmm, aku semakin hampir, [mcname]."
 
 
 translate malay e04s05_cf6c71bb:
 
 
-    mc "I have a plan for the grand finale, so don't cum yet!"
+    mc "Aku ada rancangan untuk grand finale, jadi jangan pancut lagi!"
 
 
 translate malay e04s05_d0c35546:
 
 
-    mc "I think you're going to like this next part."
+    mc "Aku rasa kau akan suka bahagian yang seterusnya."
 
 
 translate malay e04s05_d09f83d7:
@@ -1114,61 +1112,61 @@ translate malay e04s05_d09f83d7:
 translate malay e04s05_c7d4fefa:
 
 
-    mc "Lyssa, for this last part, can I fuck you?"
+    mc "Lyssa, untuk bahagian terakhir ini, boleh aku kongkek kau?"
 
 
 translate malay e04s05_506ae311:
 
 
-    mh "Look at you, asking like a gentleman."
+    mh "Tengoklah kau, bertanya macam lelaki budiman."
 
 
 translate malay e04s05_37e557bc:
 
 
-    mc "Am I anything but?"
+    mc "Adakah aku apa-apa selain itu?"
 
 
 translate malay e04s05_947a74a0:
 
 
-    mh "Am I allowed lube?"
+    mh "Kau ada pelincir?"
 
 
 translate malay e04s05_2af6f05e:
 
 
-    mc "I don't have any, but I've got the next best thing."
+    mc "Aku tak ada, tapi aku ada perkara terbaik seterusnya."
 
 
 translate malay e04s05_f5a7b2c4:
 
 
-    lc "Fuck, fuck you, fuck."
+    lc "Sialan, pergi mampus kau, sialan."
 
 
 translate malay e04s05_708e0411:
 
 
-    mc "Oh, I forgot that my little fleshlight could talk."
+    mc "Oh, aku terlupa yang fleshlight kecil aku boleh bercakap."
 
 
 translate malay e04s05_70a4cc58:
 
 
-    lc "I swear-"
+    lc "Aku bersumpah-"
 
 
 translate malay e04s05_55afc618:
 
 
-    mc "You swear nothing. You're powerless."
+    mc "Kau tak akan bersumpah apa-apa. Kau tak berdaya."
 
 
 translate malay e04s05_c6eb393e:
 
 
-    lc "I will fucking ki-"
+    lc "Aku akan bun-"
 
 
 translate malay e04s05_6c51eb41:
@@ -1180,25 +1178,25 @@ translate malay e04s05_6c51eb41:
 translate malay e04s05_cada35d7:
 
 
-    mc "This slobbery little pig will get my dick nice and slick."
+    mc "Babi kecil yang cerewet ini akan buatkan kote aku bagus dan licin."
 
 
 translate malay e04s05_77148a46:
 
 
-    mh "Perfect."
+    mh "Sempurna."
 
 
 translate malay e04s05_708973e1:
 
 
-    mc "God, her throat is wonderful. It's squeezing the shit out of my dick."
+    mc "Tekak dia sangatlah indah. Ia memerah kote aku."
 
 
 translate malay e04s05_0beb9aa5:
 
 
-    mc "Put the dildo back in."
+    mc "Masukkkan dildo itu semula."
 
 
 translate malay e04s05_0802e35b:
@@ -1216,49 +1214,49 @@ translate malay e04s05_18c32498:
 translate malay e04s05_a1dab733:
 
 
-    mc "Holy fuck! Her throat just got way tighter."
+    mc "Sialan! Tekaknya semakin ketat."
 
 
 translate malay e04s05_dadac0ab:
 
 
-    lc "HOLY FUCKING SHIT!!!"
+    lc "AHHHHHH!!!"
 
 
 translate malay e04s05_642b93c4:
 
 
-    lc "GOD FUCKING- IT'S TOO MUCH!"
+    lc "INI MELAMPAU!"
 
 
 translate malay e04s05_6de58320:
 
 
-    mc "Lyssa, her throat is all yours."
+    mc "Lyssa, tekaknya milik kau."
 
 
 translate malay e04s05_3b9ce78e:
 
 
-    mh "Why, thank you, [mcname]."
+    mh "Oh, terima kasih, [mcname]."
 
 
 translate malay e04s05_6986f980:
 
 
-    lc "CHRIST- PLEASE, JUST-"
+    lc "TOLONG, HANYA-"
 
 
 translate malay e04s05_97703f6b:
 
 
-    mh "You were right, her throat is amazing."
+    mh "Betul kata kau, tekaknya menakjubkan."
 
 
 translate malay e04s05_cbf7c775:
 
 
-    mc "I think it's because she loves being spitroasted."
+    mc "Aku rasa sebab dia suka diludah."
 
 
 translate malay e04s05_92067b36:
@@ -1270,25 +1268,25 @@ translate malay e04s05_92067b36:
 translate malay e04s05_d949d347:
 
 
-    mc "How do you like this, Prisoner 001?"
+    mc "Macam mana kau menyukai ini, Banduan 001?"
 
 
 translate malay e04s05_9c4d063b:
 
 
-    mc "I'm thrusting Lyssa's dick down your throat."
+    mc "Aku tujah batang Lyssa ke kerongkong kau."
 
 
 translate malay e04s05_73584346:
 
 
-    mc "And this is what you deserve!"
+    mc "Dan ini adalah apa yang kau layak!"
 
 
 translate malay e04s05_5f4eb93c:
 
 
-    mc "And Lyssa's ass is even better than yours!"
+    mc "Dan bontot Lyssa lebih baik daripada kau!"
 
 
 translate malay e04s05_643160f7:
@@ -1300,360 +1298,359 @@ translate malay e04s05_643160f7:
 translate malay e04s05_10685202:
 
 
-    mh "Mmmm, thank you-oh fuuuuck."
+    mh "Mmmm, terima kasih-oh siaaaal."
 
 
 translate malay e04s05_0b503c48:
 
 
-    mh "God, her throat is really doing work. She's going to make me cum."
+    mh "Tekak dia betul-betul menakjubkan. Dia akan buat aku pancut."
 
 
 translate malay e04s05_b7810f41:
 
 
-    mc "Her time here has really made her into a good little slut."
+    mc "Masanya di sini betul-betul jadikan dia perempuan murahan yang baik."
 
 
 translate malay e04s05_705cd7c3:
 
 
-    mc "Even with all her protestations."
+    mc "Walaupun dengan semua bantahannya."
 
 
 translate malay e04s05_016b9ba7:
 
 
-    mh "Mmmm, am I allowed to cum down her throat?"
+    mh "Mmmm, boleh aku pancut ke dalam kerongkongnya?"
 
 
 translate malay e04s05_e3efb381:
 
 
-    mc "Of course, feel free to use her as you see fit!"
+    mc "Sudah tentu, jangan ragu untuk menggunakan dia macam yang kau rasa sesuai!"
 
 
 translate malay e04s05_3f7dce37:
 
 
-    mh "Good, because I'm close."
+    mh "Bagus, sebab aku dah dekat."
 
 
 translate malay e04s05_74fc6761:
 
 
-    mc "Me too."
+    mc "Aku juga."
 
 
 translate malay e04s05_257df1f5:
 
 
-    mh "Fuck, I'm cumming!"
+    mh "Sial, aku nak pancut!"
 
 
 translate malay e04s05_443dba65:
 
 
-    mc "Shit, I'm about to come too!"
+    mc "Sama juga!"
 
 
 translate malay e04s05_0c26425b:
 
 
-    mc "Oh shiiiit!"
+    mc "Oh siiiaaal!"
 
 
 translate malay e04s05_ee03e7f4:
 
 
-    lc "Bastard!"
+    lc "Bajingan!"
 
 
 translate malay e04s05_c81859f6:
 
 
-    mc "Lyssa, turn the machine on higher."
+    mc "Lyssa, hidupkan mesin lebih tinggi."
 
 
 translate malay e04s05_3e410e42:
 
 
-    lc "Wait, no, I didn't mean it!"
+    lc "Tunggu, tak, aku tak sengaja!"
 
 
 translate malay e04s05_7902a8eb:
 
 
-    mc "Don't care. I'm going to fucking ruin your holes."
+    mc "Tak peduli. Aku akan rosakkan lubang kau."
 
 
 translate malay e04s05_707ee15d:
 
 
-    lc "I'm sorry, I- FUUUUHCK!"
+    lc "Saya minta maaf, saya- FUUUUHCK!"
 
 
 translate malay e04s05_467bbeff:
 
 
-    mc "God, that was great. I'm going to run up to the bathroom and then I think I'm going to come back down and watch you get stretched out, Prisoner 001."
+    mc "Itu hebat. Aku akan berlari ke bilik air dan kemudian aku fikir aku akan turun semula dan tengok kau terbaring, Banduan 001."
 
 
 translate malay e04s05_99dea0c9:
 
 
-    mh "Why go up to the bathroom?"
+    mh "Kenapa naik ke bilik air?"
 
 
 translate malay e04s05_34bdf99a:
 
 
-    mh "From where I'm standing, you've got a toilet right in front of you."
+    mh "Dari tempat aku berdiri, kau ada tandas betul-betul di hadapan kau."
 
 
 translate malay e04s05_6eb99e08:
 
 
-    mc "Huh, you've got a good point there."
+    mc "Huh, betul juga."
 
 
 translate malay e04s05_ca5cf376:
 
 
-    lc "DON'T YOU- MMMMMMFUCK- THIK ABOUT IT!"
+    lc "JANGAN KAU- MMMMMMSIAL- FIKIRKANLAH!"
 
 
 translate malay e04s05_4749070b:
 
 
-    mc "And what are you going to do about it?"
+    mc "Dan apa yang kau akan buat mengenainya?"
 
 
 translate malay e04s05_ea3f3985:
 
 
-    mh "I think I also need to go."
+    mh "Aku rasa aku juga kena pergi."
 
 
 translate malay e04s05_b67d4f27:
 
 
-    lc "Ohhh, FUCK, GOD, FUCK!"
+    lc "Ohhh, sial, SIAL!"
 
 
 translate malay e04s05_e46e8126:
 
 
-    mc "Feel free."
+    mc "Teruskan."
 
 
 translate malay e04s05_ending_f402bb37:
 
 
-    mh "Mmmmm. She's really getting into this fuck machine, huh."
+    mh "Mmmmm. Dia betul-betul suka dengan mesin kongkek ini, huh."
 
 
 translate malay e04s05_ending_bb0a69d1:
 
 
-    mc "Oh absolutely. I mean, I think it might make her cum."
+    mc "Oh semestinya. Maksud aku, aku rasa ia mungkin buatkan dia pancut."
 
 
 translate malay e04s05_ending_5803a426:
 
 
-    mh "Good. Having her holes abused should be the only reason she should cum."
+    mh "Bagus. Mendera lubangnya sepatutnya jadi satu-satunya sebab dia kena pancut."
 
 
 translate malay e04s05_ending_e96f762b:
 
 
-    mc "Existing at our whim and mercy."
+    mc "Wujud atas kehendak dan belas kasihan kami."
 
 
 translate malay e04s05_ending_0e9327e0:
 
 
-    lc "This is fuuuh- holy- fuuuh- shit- disgusting."
+    lc "Ini fuuuh- sial- menjijikkan."
 
 
 translate malay e04s05_ending_eec9831c:
 
 
-    mc "She says as she moans."
+    mc "Dia berkata sambil mengerang."
 
 
 translate malay e04s05_ending_cfcec708:
 
 
-    lc "N-n-nooo, gaaaawd fuhck!"
+    lc "T-t-taaak, shial!"
 
 
 translate malay e04s05_ending_8afe3eef:
 
 
-    mc "Lyssa, does it sound like someone is about to cum?"
+    mc "Lyssa, bunyi macam ada orang nak pancut?"
 
 
 translate malay e04s05_ending_9fbe8abf:
 
 
-    mh "It does, [mcname]."
+    mh "Betul, [mcname]."
 
 
 translate malay e04s05_ending_be182e8a:
 
 
-    lc "I-I- nnnngh- No I woooon't!"
+    lc "Aku-Aku- nnnngh- Tak aku tak akaaaan!"
 
 
 translate malay e04s05_ending_5274fc8d:
 
 
-    mc "You like that don't you?"
+    mc "Kau suka itu kan?"
 
 
 translate malay e04s05_ending_62209b5d:
 
 
-    mc "You're going to cum, while you're covered in piss and getting reamed again and again."
+    mc "Kau akan pancut, sambil kau diselubungi dengan kencing dan dikongkek lagi dan lagi."
 
 
 translate malay e04s05_ending_1cf29670:
 
 
-    mc "You're going to cum while getting stretched out by a horse cock, and covered in my spunk."
+    mc "Aku akan pancut sambil diregangkan oleh kote aku, dan diselubungi semen aku."
 
 
 translate malay e04s05_ending_f4cb23d6:
 
 
-    mc "Go ahead Prisoner 001. Cum. CUM."
+    mc "Teruskan Banduan 001. Pancut. PANCUT."
 
 
 translate malay e04s05_ending_f553faa1:
 
 
-    lc "I wooon- FUCK, NO! STOP, STOP, STOP!"
+    lc "Aku tak- SIAL, TAK! BERHENTI, BERHENTI, BERHENTI!"
 
 
 translate malay e04s05_ending_a8fc5796:
 
 
-    lc "NO, I CAN'T BEEE-"
+    lc "TAK, INI TAK MUNGKIN-"
 
 
 translate malay e04s05_ending_d8f76354:
 
 
-    lc "FUCK I'M CUMMING! NO! FUCK, FUCK, FUCK!"
+    lc "SIAL AKU PANCUT! TAK! SIAL, SIAL, SIAL!"
 
 
 translate malay e04s05_ending_87e26eb2:
 
 
-    mc "Good girl."
+    mc "Bagus."
 
 
 translate malay e04s05_ending_e0062250:
 
 
-    lc "FUUUCK - GOD WHY!?"
+    lc "SIAAAAL - KENAPA!?"
 
 
 translate malay e04s05_ending_e6220016:
 
 
-    mc "Because maybe you're learning where you belong in the world."
+    mc "Kerana mungkin kau sedang belajar di mana kau berada di dunia."
 
 
 translate malay e04s05_ending_1e04ab88:
 
 
-    mc "Your offer to borrow your toy still stands, right?"
+    mc "Tawaran kau untuk meminjam mainan kau masih ada, kan?"
 
 
 translate malay e04s05_ending_7f4a0c40:
 
 
-    mh "Of course."
+    mh "Sudah tentu."
 
 
 translate malay e04s05_ending_eb023a4f:
 
 
-    mc "Great, why don't I walk you out."
+    mc "Hebat, kenapa aku tak mengajak kau keluar."
 
 
 translate malay e04s05_ending_74b50394:
 
 
-    lc "You can't leave me like this!"
+    lc "Aku tak boleh tinggalkan aku macam ini!"
 
 
 translate malay e04s05_ending_a7e4bdd8:
 
 
-    mc "I absolutely can."
+    mc "Aku semestinya boleh."
 
 
 translate malay e04s05_ending_d06433c2:
 
 
-    lc "God, NO!"
+    lc "TIDAK!"
 
 
 translate malay e04s05_ending_13867de0:
 
 
-    mc "God, yes! I can do whatever I want with you, Prisoner 001. And I feel like you no longer deserve the right to have a tight pussy."
+    mc "Ya! Aku boleh buat apa sahaja dengan kau, Banduan 001. Dan aku rasa kau tak lagi layak untuk ada pepek yang ketat."
 
 
 translate malay e04s05_ending_1e290a8d:
 
 
-    mh "I must say, [mcname]. That was a lot of fun."
+    mh "Aku kena cakap, [mcname]. Itu menyeronokkan."
 
 
 translate malay e04s05_ending_ffa8df82:
 
 
-    mc "Good! I also think we made a decent amount of progress today."
+    mc "Bagus! Aku juga fikir kami telah mencapai kemajuan yang baik hari ini."
 
 
 translate malay e04s05_ending_9987d49e:
 
 
-    mh "Good. Anytime you need help, you just let me know."
+    mh "Bagus. Bila-bila masa kau perlukan bantuan, kau beritahu aku."
 
 
 translate malay e04s05_ending_f492e391:
 
 
-    mc "Oh, I will. Please, feel free to come back any time."
+    mc "Oh, aku akan. Tolong, sila kembali pada bila-bila masa."
 
 
 translate malay e04s05_ending_14a15ec6:
 
 
-    mh "Now that you've invited me in, I will absolutely be coming back any time I like."
+    mh "Sekarang sebab kau dah jemput aku masuk, aku pasti akan kembali pada bila-bila masa yang aku suka."
 
 
 translate malay e04s05_ending_aa5aee18:
 
 
-    mc "Is that how it works?"
+    mc "Macam itu ke?"
 
 
 translate malay e04s05_ending_4950bfc1:
 
 
-    mh "Haven't you met a vamapire before?"
+    mh "Kau tak pernah jumpa pontianak sebelum ini?"
 
 translate malay strings:
 
 
     old "A few weeks later"
-    new "A few weeks later"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "Beberapa minggu kemudian"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

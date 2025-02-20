@@ -1,6 +1,4 @@
 
-
-
 translate chinese e11s02_e3615efe:
 
 
@@ -1007,5 +1005,4 @@ translate chinese strings:
 
     old "Wait, why can't you keep watch?"
     new "等等，你为什么不能看着？"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

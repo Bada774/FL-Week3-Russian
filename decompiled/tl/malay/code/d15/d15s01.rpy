@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s01_6dca3502:
 
 
@@ -1789,7 +1787,6 @@ translate malay d15s01_end_ac6f2180:
     mct "Dalam semua keterujaan aku terlupa kenapa kami melakukan ini."
 
 
-
 translate malay d15s01_end_a550e502:
 
 
@@ -2182,7 +2179,6 @@ translate malay strings:
     new "Tentukan Sangkar Mana Yang Akan Dipakai"
 
 
-
 translate malay d15s01_readnote_ba7b3e0f:
 
 
@@ -2229,5 +2225,4 @@ translate malay strings:
 
     old "Week Three\nDay 15\nMonday"
     new "Minggu Ketiga\nHari 15\nIsnin"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

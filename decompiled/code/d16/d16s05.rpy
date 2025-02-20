@@ -46,7 +46,7 @@ label d16s05:
     play voice2 mc_thinking_emm1 noloop
     if persistent.is_special is True:
         mc "I'm respecting your privacy by knocking but asserting my authority as your brother by coming in anyway."
-    elif True:
+    else:
         mc "I'm respecting your privacy by knocking but asserting my authority as your friend by coming in anyway."
     scene d16s05-04 mc-sy-talk_c2 with dissolve
     play voice3 stacy_angryhuh noloop
@@ -177,7 +177,7 @@ label d16s05:
         play voice3 stacy_laugh4 noloop
         sy "Huh, well, that's great! You finally got your dick back."
         sy "Maybe we can put it to use later tonight."
-    elif True:
+    else:
         scene d16s05-15 mc-sy-subway5_c1 with dissolve
         play voice2 mc_disappointed_ehh3 noloop
         mc "Same ol', same ol'."
@@ -215,7 +215,7 @@ label d16s05:
         play voice2 d3s11b_mcheh volume 2.0 noloop
         scene d16s05-16 mc-sy-subway6_c1 with dissolve
         mc "*Chuckles* I agree, but still."
-    elif True:
+    else:
         scene d16s05-18 mc-sy-subway8_c2 with dissolve
         play voice3 stacy_hey noloop
         sy "Why? Why can't we just jump in?"
@@ -425,7 +425,7 @@ label d16s05:
     play voice4 girl8_thinking_hmm2 noloop
     if persistent.is_special is True:
         "Woman" "Stacy Young? Do we have a Stacy Young in here?"
-    elif True:
+    else:
         "Woman" "Stacy Brawn? Do we have a Stacy Brawn in here?"
     scene d16s05-40 mc-sy-pm-station-talk1_c2 with dissolve
     play voice3 stacy_yes noloop
@@ -595,5 +595,4 @@ label d16s05:
     stop sound2 fadeout 3.0
     stop music fadeout 3.5
     jump d16s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

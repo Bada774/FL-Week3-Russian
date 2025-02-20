@@ -1,6 +1,4 @@
 
-
-
 translate turkish d21s04_f426db53:
 
 
@@ -808,7 +806,7 @@ translate turkish strings:
 
 
     old "1 hour later\nAt Lyssa's Office"
-    new "1 saat sonra\\NLyssa'nın Ofisinde"
+    new "1 saat sonra\nLyssa'nın Ofisinde"
 
 
     old "Yes, I still love Lydia"
@@ -837,5 +835,4 @@ translate turkish strings:
 
     old "I need to think about this"
     new "Bunun hakkında düşünmem gerek"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese e11s06_1a535474:
 
 
@@ -443,5 +441,4 @@ translate chinese e11s06_hospital_2f0a1378:
 
 
     mc "他们说什么我就签什么。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

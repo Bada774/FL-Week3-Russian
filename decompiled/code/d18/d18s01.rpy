@@ -33,7 +33,7 @@ label d18s01:
 
     if cage_ntr is True:
         jump d18s01_ntr
-    elif True:
+    else:
         jump d18s01_lc
 
 label d18s01_ntr:
@@ -118,7 +118,7 @@ label d18s01_lc:
     scene d18s01-a2 with dissolve
     if persistent.is_special is True:
         mct "Or maybe get up and take her virginity by force!"
-    elif True:
+    else:
         mct "Or maybe get up and fuck the virginity right out of her!"
     scene d18s01-a3 with dissolve
     mct "Mostly I just want to-"
@@ -265,7 +265,7 @@ label d18s01_shower:
     scene d18s01-29 mc-lc-washing-hair-talking with dissolve
     if persistent.is_special is True and date_jdg is True:
         mct "... if I wasn't dating you I'd want to rape the shit out of you."
-    elif True:
+    else:
         mct "... I can't believe nobody's fucked the living shit out of you yet."
     scene d18s01-30 mc-lc-washing-hair-talking-close-up with dissolve
     play voice2 mc_thinking_mmm2 noloop
@@ -332,7 +332,7 @@ label d18s01_shower:
     play voice2 mc_disappointed_ehh3 noloop
     if is_antagonist_mode is False:
         mc "The VIP Program."
-    elif True:
+    else:
         mc "Blackmail."
     scene d18s01-34-06 mc-lc-talk-blackmail-alt-view with dissolve
     play voice3 dahlia_surprised_what noloop
@@ -340,7 +340,7 @@ label d18s01_shower:
     play voice2 mc_arrogant_hm3 noloop
     if is_antagonist_mode is False:
         mc "Fetish Locator has a VIP Program.{w}.. and I've teamed up with some other people to win the $$1kk prize."
-    elif True:
+    else:
         mc "Fetish Locator is blackmailing me.{w}.. and some other people."
     play voice3 lydia_ah noloop
     lc "What?!"
@@ -349,7 +349,7 @@ label d18s01_shower:
     if is_antagonist_mode is False:
         mc "There are three other people I know in the VIP Program.{w} But my team includes a couple people who aren't even playing the game."
         lc "You're telling me that this stupid sex app somehow has $$1kk to give away???"
-    elif True:
+    else:
         mc "Three of them, at least.{w} I don't know what they have, but it's gotta be bad."
         lc "You're telling me that this stupid sex app is somehow blackmailing you???"
     scene d18s01-34-07 mc-lc-talk-blackmail-alt-view with dissolve
@@ -358,7 +358,7 @@ label d18s01_shower:
     lc "How many women you've fucked... it's public knowledge by now!"
     if is_antagonist_mode is False:
         lc "You're doing all this for money?! Isn't that prostitution?!?!"
-    elif True:
+    else:
         lc "What the fuck could it be blackmailing you with?!?!"
     scene d18s01-34-03 mc-lc-talk-blackmail with dissolve
     play voice2 mc_no_no5 noloop
@@ -368,19 +368,19 @@ label d18s01_shower:
     play voice2 mc_disappointed_meh1 noloop
     if is_antagonist_mode is False:
         mc "It doesn't matter. The important thing is that you understand I'm not playing the game just for fun."
-    elif True:
+    else:
         mc "It doesn't matter. The important thing is that you understand that Fetish Locator is NOT to be trusted."
     play voice3 dahlia_thinking_hmm1 noloop
     lc "I don't... why?"
     play voice2 mc_thinking_mmm3 noloop
     if is_antagonist_mode is False:
         mc "It's all about the prize money. Well, almost entirely. It is also fun."
-    elif True:
+    else:
         mc "Because it blackmails people. It forces us to do things."
 
     if cage_ntr is True:
         jump d18s01_shower_ntr
-    elif True:
+    else:
         jump d18s01_shower_lc
 
 label d18s01_shower_ntr:
@@ -389,14 +389,14 @@ label d18s01_shower_ntr:
     play voice3 dahlia_disappointed_hmm2 noloop
     if is_antagonist_mode is False:
         lc "You're doing all this for money?"
-    elif True:
+    else:
         lc "You're blackmailed?"
     play voice2 mc_yes_yes1 noloop
     mc "Yes."
     play voice3 dahlia_pain_ah1 noloop
     if is_antagonist_mode is False:
         lc "All the things you've done!{w} You're basically the poster child for sex on this campus. You've probably fucked every willing woman in town... is it every willing man too?"
-    elif True:
+    else:
         lc "What did you do?!{w} You're basically the poster child for sex. Did you fuck a guy or something?"
     scene d18s01-36 mc-lc-talk-listen with dissolve
     play voice2 mc_no_no3 noloop
@@ -405,7 +405,7 @@ label d18s01_shower_ntr:
     play voice3 dahlia_pain_argh noloop
     if is_antagonist_mode is False:
         lc "How did you find out about this? Why did you even start playing the game?!"
-    elif True:
+    else:
         lc "Then what are you being blackmailed with?"
     scene d18s01-38 mc-lc-talk-make-excuse with dissolve
     play voice2 mc_disappointed_ah2 noloop
@@ -440,7 +440,7 @@ label d18s01_shower_ntr:
         mc "NOTHING!!!{w} Nothing. I just did all that to meet you."
         play voice3 lydia_moan1 noloop
         lc "You started playing Fetish Locator just to meet me?"
-    elif True:
+    else:
         mc "NOTHING!!!{w} Nothing. It just looked like... something."
         play voice3 lydia_moan1 noloop
         lc "What could it possibly look like?"
@@ -448,7 +448,7 @@ label d18s01_shower_ntr:
     play voice2 mc_disappointed_ehh1 noloop
     if is_antagonist_mode is False:
         mc "I've been obsessed with you for months. {w}I almost couldn't help myself from jerking off after you fell asleep."
-    elif True:
+    else:
         mc "It looked like...{w} *sigh* it looked like I was masturbating while in bed next to you."
     scene d18s01-40 mc-lc-angry with dissolve
     play voice3 dahlia_pain_mmh noloop
@@ -526,19 +526,19 @@ label d18s01_shower_lc:
     play voice3 dahlia_thinking_hmm4 noloop
     if is_antagonist_mode is False:
         lc "How is that possible? Did you pay the app money to participate or something?"
-    elif True:
+    else:
         lc "How is that possible? Is it blackmailing every player???"
     scene d18s01-36 mc-lc-talk-listen with dissolve
     play voice2 mc_no_no3 noloop
     if is_antagonist_mode is False:
         mc "No, of course not. I never really thought about where it got the money. Corporate sponsorship or something?"
-    elif True:
+    else:
         mc "Not everyone. I think there are only a few of us. But, for someone in your position-"
     scene d18s01-37-02 mc-lc-talk-listen-alt-angle with dissolve
     play voice3 dahlia_arrogant_hm noloop
     if is_antagonist_mode is False:
         lc "Okay. I don't see why you don't want me to sign up, though."
-    elif True:
+    else:
         lc "Us? Like you?{w} What has it made you do?"
     scene d18s01-38 mc-lc-talk-make-excuse with dissolve
     play voice2 d2s9_confused noloop
@@ -546,7 +546,7 @@ label d18s01_shower_lc:
         mc "Well, I mean, someone in your position-"
         play voice3 lydia_huh2 noloop
         lc "You think it would hurt my popularity if I showed my ass on camera?"
-    elif True:
+    else:
         mc "Mandatory challenges with the threat of-"
         play voice3 lydia_huh2 noloop
         lc "The Penis Cage?!?! Oh my-"
@@ -555,7 +555,7 @@ label d18s01_shower_lc:
     if is_antagonist_mode is False:
         mc "I mean, you're not some dumb blonde like London Qualityinn. You have actual talent and personality."
         lc "And it is up to you whether I expose myself or not?!"
-    elif True:
+    else:
         mc "Yeah, that was a punishment for-"
         lc "And I pushed you to do it. I should have realized!"
     scene d18s01-38 mc-lc-talk-make-excuse with dissolve
@@ -563,7 +563,7 @@ label d18s01_shower_lc:
     if is_antagonist_mode is False:
         mc "I think we're getting off topic. I'm just trying to look out for you."
         lc "Tell me about the challenges. What sort of things do you think it would want me to do?"
-    elif True:
+    else:
         mc "It wasn't so bad."
         lc "Still... what else has it forced you to do?"
     mc "It's given me certain goals, but that's not important. The important thing is that you stay away from that app."
@@ -632,5 +632,4 @@ label d18s01_shower_lc:
     stop sound2 fadeout 2.0
     stop music fadeout 3.0
     jump d18s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

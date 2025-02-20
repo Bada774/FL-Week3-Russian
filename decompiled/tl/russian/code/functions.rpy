@@ -1,8 +1,8 @@
-﻿# TODO: Translation updated at 2023-07-01 17:14
+
 
 translate russian strings:
 
-    # # game/code/functions.rpy:23
+
     old "You have unlocked Ending #01"
     new "Вы разблокировали концовку #01"
 
@@ -32,7 +32,7 @@ translate russian strings:
 
     old "You have unlocked Ending #10"
     new "Вы разблокировали концовку #10"
-    
+
     old "You have unlocked Ending #11"
     new "Вы разблокировали концовку #11"
 
@@ -57,43 +57,51 @@ translate russian strings:
     old "You have unlocked Ending #18"
     new "Вы разблокировали концовку #18"
 
-    # game/code/functions.rpy:251
+
     old "You've unlocked a new CG Gallery"
     new "Вы открыли новую сцену в Галерее"
 
-    # game/code/functions.rpy:251
+
     old "You can watch the scene again in the Replay Room"
     new "Вы можете пересмотреть эту сцену в Повторах"
 
-    # game/code/functions.rpy:251
+
     old "You've unlocked a new bonus content"
     new "Вы открыли новый бонусный контент"
 
-    # game/code/functions.rpy:299
+
     old "The game will replay the scene\naccording to a default playthrough"
     new "Повтор будет воспроизвёден в режиме по умолчанию"
 
-    # game/code/functions.rpy:301
+
     old "The game will try to replay the scene\naccording to your current playthrough"
     new "Повтор будет воспроизведён\nв соответствии с Вашим последним прохождением"
 
-    # game/code/functions.rpy:378
+
     old "You can only select two out of Min, Lyssa and Maria"
     new "Вы можете выбрать только двух: Мин, Лисса и Мария"
 
-    # game/code/functions.rpy:380
+
     old "You can only select one out of Daisy and Dahlia"
     new "Вы можете выбрать только одну: Дэйзи или Далия"
 
-# TODO: Translation updated at 2024-02-23 00:11
+
 
 translate russian strings:
 
-    # game/code/functions.rpy:279
+
     old "The game will replay the scene according to a default playthrough"
     new "Повтор будет воспроизвёден в режиме по умолчанию"
 
-    # game/code/functions.rpy:281
+
     old "The game will try to replay the scene according to your current playthrough"
     new "Повтор будет воспроизведён в соответствии с Вашим последним прохождением"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2024-11-13 03:49
+
+translate russian strings:
+
+    # game/code/functions.rpy:29
+    old "You have unlocked Ending #{}"
+    new ""
 

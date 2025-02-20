@@ -935,5 +935,4 @@ label e08s04_next_morning:
 
     stop sound2 fadeout 3.0
     jump e08s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

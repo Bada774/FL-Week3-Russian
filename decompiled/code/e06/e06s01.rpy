@@ -64,7 +64,7 @@ label e06_menu_jump:
         $ date_dd = False
         $ date_mh = False
         call screen e06_char_choice()
-    elif True:
+    else:
         $ date_mh = persistent.date_mh
         $ date_dd = persistent.date_dd
 
@@ -311,5 +311,4 @@ label e06s01:
 
     stop music fadeout 4.0
     jump e06s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

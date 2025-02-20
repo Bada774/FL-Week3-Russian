@@ -1,5 +1,3 @@
-
-
 translate malay strings:
 
 
@@ -370,12 +368,19 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
-
-
 translate malay strings:
 
 
     old "Connect Your Toy"
     new "Sambungkan Mainan Anda"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate malay strings:
+
+
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

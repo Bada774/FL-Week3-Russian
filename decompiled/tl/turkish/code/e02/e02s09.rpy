@@ -1,6 +1,4 @@
 
-
-
 translate turkish e02s09_c27de55b:
 
 
@@ -803,5 +801,4 @@ translate turkish strings:
 
     old "Two weeks later"
     new "İki hafta sonra"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

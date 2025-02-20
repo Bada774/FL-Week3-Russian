@@ -1,5 +1,3 @@
-
-
 translate spanish strings:
 
 
@@ -278,8 +276,6 @@ translate spanish strings:
     old "Ending 10: Min & Nari"
     new "Final 10: Min y Nari"
 
-
-
 translate spanish strings:
 
 
@@ -293,8 +289,6 @@ translate spanish strings:
 
     old "Ending 14: Polly, Nora & Debbie"
     new "Final 14: Polly, Nora y Debbie"
-
-
 
 translate spanish strings:
 
@@ -313,8 +307,6 @@ translate spanish strings:
 
     old "Ending 17: Pregnant Dahlia"
     new "Final 17: Dahlia embarazada"
-
-
 
 translate spanish strings:
 
@@ -366,4 +358,93 @@ translate spanish strings:
     old "Ending 07: Lydia & AmRose"
     new "Final 07: Lydia y AmRose"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate spanish strings:
+
+
+    old "Ending 05: Oliver"
+    new "Final 05: Oliver"
+
+
+    old "Ending 05: Lyssa"
+    new "Final 05: Lyssa"
+
+
+    old "Ending 16: Jessie and Molly"
+    new "Final 16: Jessie y Molly"
+
+
+    old "Ending 16: Jessie and Kanya"
+    new "Final 16: Jessie y Kanya"
+
+
+    old "Ending 16: Sage and Kristen"
+    new "Final 16: Sage y Kristen"
+
+
+    old "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "Final 16: Jessie, Molly, Sage y Kristen"
+
+translate spanish strings:
+
+
+    old "Ending 15: Min & Stacy"
+    new "Final 15: Min y Stacy"
+
+
+    old "Ending 15: Watersports"
+    new "Final 15: Deportes acuáticos"
+
+
+    old "Ending 15: Olivia, Bell & Annie"
+    new "Final 15: Olivia, Bell y Annie"
+
+
+    old "Ending 15: Lyssa, Stacy & Gemma"
+    new "Final 15: Lyssa, Stacy y Gemma"
+
+
+    old "Ending 15: Min, Stacy & Olivia"
+    new "Final 15: Min, Stacy y Olivia"
+
+
+    old "Ending 18: Samiya, Dahlia & Pete"
+    new "Final 18: Samiya, Dahlia y Pete"
+
+
+    old "Ending 18: Quartet, Londyn & Kendell"
+    new "Final 18: Cuarteto, Londyn y Kendell"
+
+
+    old "Ending 18: Samiya"
+    new "Final 18: Samiya"
+
+translate spanish strings:
+
+
+    old "Ending 03: Lyssa & Stacy"
+    new "Final 03: Lyssa y Stacy"
+
+
+    old "Ending 03: Lyssa, Chiara & Stacy"
+    new "Final 03: Lyssa, Chiara y Stacy"
+
+
+    old "Ending 09: AmRose & Allison"
+    new "Final 09: AmRose y Allison"
+
+
+    old "Ending 09: Stacy, AmRose & Allison"
+    new "Final 09: Stacy, AmRose y Allison"
+
+
+    old "Ending 09: Hana & Londyn"
+    new "Final 09: Hana y Londyn"
+
+
+    old "Ending 09: Hana & Allison"
+    new "Final 09: Hana y Allison"
+
+
+    old "Ending 09: Party Girls"
+    new "Final 09: Fiesta de chicas"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

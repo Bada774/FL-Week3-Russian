@@ -1,6 +1,4 @@
 
-
-
 translate italian e02s02_08635dd6:
 
 
@@ -575,5 +573,4 @@ translate italian strings:
 
     old "The next day"
     new "Il giorno dopo"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

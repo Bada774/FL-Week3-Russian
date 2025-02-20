@@ -1,6 +1,4 @@
 
-
-
 translate malay d20s05_47e7cec6:
 
 
@@ -1347,11 +1345,8 @@ translate malay strings:
     new "Bercakap Mengenai Rancangan Musim Panas Anda"
 
 
-
-
 translate malay d20s05_pool_5f2ca332:
 
 
     mc "Mari kita ubah keadaan sedikit."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

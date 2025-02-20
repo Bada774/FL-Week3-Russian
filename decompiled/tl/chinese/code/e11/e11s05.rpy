@@ -1,6 +1,4 @@
 
-
-
 translate chinese e11s05_26a5c11f:
 
 
@@ -849,5 +847,4 @@ translate chinese strings:
 
     old "A short walk later"
     new "走一小段路后"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

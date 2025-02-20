@@ -1,6 +1,4 @@
 
-
-
 translate chinese ending_not_available_f3f9fce0:
 
 
@@ -109,5 +107,4 @@ translate chinese strings:
 
     old "Ending #18\nQuartet"
     new "结局 #18\n四重奏"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

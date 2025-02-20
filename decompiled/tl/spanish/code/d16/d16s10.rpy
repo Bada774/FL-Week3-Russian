@@ -1,6 +1,4 @@
 
-
-
 translate spanish d16s10_d9159219:
 
 
@@ -1381,5 +1379,4 @@ translate spanish strings:
 
     old "Tell her how you came while she was under the table"
     new "Dile cómo te corriste mientras ella estaba debajo de la mesa"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

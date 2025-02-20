@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e08s04_623c1c05:
 
 
@@ -1883,5 +1881,4 @@ translate portuguese strings:
 
     old "The next morning"
     new "A manhã seguinte"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

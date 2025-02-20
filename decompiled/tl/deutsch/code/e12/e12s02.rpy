@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e12s02_328a43e8:
 
 
@@ -983,5 +981,4 @@ translate deutsch strings:
 
     old "Next day at the hotel gym"
     new "Am nächsten Tag im Fitnessstudio des Hotels"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

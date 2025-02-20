@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e14s04_d635bce6:
 
 
@@ -1539,5 +1537,4 @@ translate deutsch strings:
 
     old "A little later"
     new "Etwas später"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

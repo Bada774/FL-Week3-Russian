@@ -1,6 +1,4 @@
 
-
-
 translate chinese d19s01ntr_bef95491:
 
 
@@ -1069,13 +1067,10 @@ translate chinese strings:
     new "去你妈的"
 
 
-
-
 translate chinese d19s01ntr_decision_e1a0041c:
 
 
     lc "你看...是谁？"
-
 
 
 translate chinese d19s01ntr_decision_aeef075e:
@@ -1088,5 +1083,4 @@ translate chinese d19s01ntr_decision_5b1e303f:
 
 
     lc "等我重新把你...我一定会测试你的忠诚度，我们就叫它小惊喜吧。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

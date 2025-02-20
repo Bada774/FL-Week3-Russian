@@ -1,6 +1,4 @@
 
-
-
 translate turkish d17s06pn_9f8e2b43:
 
 
@@ -1135,5 +1133,4 @@ translate turkish strings:
 
     old "We make a good trio"
     new "güzel bir üçlü oluyoruz"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

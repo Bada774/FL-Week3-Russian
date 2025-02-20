@@ -1,6 +1,4 @@
 
-
-
 translate korean d19s01lc_31455c3a:
 
 
@@ -773,5 +771,4 @@ translate korean strings:
 
     old "Tell Her It Was Fun"
     new "리디아에게 즐거웠다고 말한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

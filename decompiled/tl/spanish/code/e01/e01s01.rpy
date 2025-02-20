@@ -1,6 +1,4 @@
 
-
-
 translate spanish e01s01_48c97c49:
 
 
@@ -1675,5 +1673,4 @@ translate spanish strings:
 
     old "Let's finish this"
     new "Terminemos esto"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

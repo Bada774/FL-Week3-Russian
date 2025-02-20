@@ -1,25 +1,37 @@
 translate russian strings:
 
+    old "Fetish Locator"
+    new "Фетиш Локатор"
+
+    old "Fetish Locator Retention"
+    new "Программа удержания Фетиш-Локатора"
+    
+    old "Pete"
+    new "Пит"
+
     old "Hana"
     new "Хана"
-
-    old "Girl"
-    new "Девушка"
-
-    old "URLittlePony"
-    new "ТвояМаленькаяПони"
-
-    old "Shontae"
-    new "Шонтаэ"
-
-    old "Mr. Melville"
-    new "Мистер Мелвилл"
 
     old "QueenB"
     new "Королева-Б"
 
+    old "Kevin"
+    new "Кевин"
+
     old "Chloe"
     new "Хлоя"
+
+    old "Min"
+    new "Мин"
+
+    old "Squizzle"
+    new "Сквизли"
+
+    old "Amber-Rose"
+    new "Амбер-Роуз"
+
+    old "ErikaRed"
+    new "ЭрикаРед"
 
     old "CamTubeHelper"
     new "КамТьюбПомощник"
@@ -35,6 +47,21 @@ translate russian strings:
 
     old "SexyMinx"
     new "СексиШалунья"
+
+    old "Lydia"
+    new "Лидия"
+
+    old "Polly"
+    new "Полли"
+
+    old "Nora"
+    new "Нора"
+
+    old "Zarah Waller"
+    new "Зара Уоллер"
+
+    old "Ronald Nordin"
+    new "Рональд Нордин"
 
     old "Dario"
     new "Дарио"
@@ -60,44 +87,14 @@ translate russian strings:
     old "Lyssa"
     new "Лисса"
 
-    old "Fetish Locator Retention"
-    new "Программа удержания Фетиш-Локатора"
-
-    old "Pete"
-    new "Пит"
-
-    old "Kevin"
-    new "Кевин"
-
-    old "Squizzle"
-    new "Сквизли"
-
-    old "Amber-Rose"
-    new "Амбер-Роуз"
-
-    old "ErikaRed"
-    new "ЭрикаРед"
-
-    old "Lydia"
-    new "Лидия"
-
-    old "Polly"
-    new "Полли"
-
-    old "Nora"
-    new "Нора"
-
-    old "Zarah Waller"
-    new "Зара Уоллер"
-
-    old "Ronald Nordin"
-    new "Рональд Нордин"
-
     old "Talia"
     new "Талия"
 
     old "Cynthia"
     new "Синтия"
+
+    old "Jerome"
+    new "Джером"
 
     old "Terrell"
     new "Террелл"
@@ -108,11 +105,35 @@ translate russian strings:
     old "Vanessa Webb"
     new "Ванесса Уэбб"
 
-    old "Vanessa"
-    new "Ванесса"
-
     old "Jessie"
     new "Джесси"
+
+    old "Girl"
+    new "Девушка"
+
+    old "URLittlePony"
+    new "ТвояМаленькаяПони"
+
+    old "Shontae"
+    new "Шонтаэ"
+
+    old "Mr. Melville"
+    new "Мистер Мелвилл"
+
+    old "Mrs. Melville"
+    new "Миссис Мелвилл"
+
+    old "Olivia"
+    new "Оливия"
+
+    old "Judge"
+    new "Судья"
+
+    old "Woman"
+    new "Женщина"
+
+    old "Oliver"
+    new "Оливер"
 
     old "Samiya"
     new "Самия"
@@ -144,9 +165,6 @@ translate russian strings:
     old "Nari"
     new "Нари"
 
-    old "Min"
-    new "Мин"
-
     old "Mr. Min"
     new "Мистер Мин"
 
@@ -158,9 +176,6 @@ translate russian strings:
 
     old "Officer Cheney"
     new "Офицер Чейни"
-
-    old "Chase"
-    new "Чейз"
 
     old "Officer Martinez"
     new "Офицер Мартинес"
@@ -183,26 +198,77 @@ translate russian strings:
     old "Dorothy"
     new "Дороти"
 
-    old "Fetish Locator"
-    new "Фетиш Локатор"
-
-    old "Fetish Master"
-    new "Фетиш Мастер"
-
-    old "Jerome"
-    new "Джером"
-
-    old "Judge"
-    new "Судья"
-
-    old "Woman"
-    new "Женщина"
-
-    old "Oliver"
-    new "Оливер"
-
     old "Mikaela"
     new "Микаэла"
+
+    old "Debbie"
+    new "Дебби"
+
+    old "Gemma"
+    new "Джемма"
+
+    old "Harry"
+    new "Гарри"
+
+    old "Lily"
+    new "Лили"
+
+    old "Room Service"
+    new "Обслуживание номеров"
+
+    old "Domina"
+    new "Домина"
+
+    old "Janet"
+    new "Джанет"
+
+    old "Gary"
+    new "Гэри"
+
+    old "Molly the Dog"
+    new "Собачка Молли"
+
+    old "Ryan"
+    new "Райан"
+
+    old "Taisia"
+    new "Таисия"
+
+    old "Sage"
+    new "Сейдж"
+
+    old "Kristen"
+    new "Кристен"
+
+    old "Dee"
+    new "Ди"
+
+    old "Annie"
+    new "Энни"
+
+    old "Bell"
+    new "Белл"
+
+    old "Londyn"
+    new "Лондин"
+
+    old "Kendell"
+    new "Кенделл"
+
+    old "Stephanie"
+    new "Стефани"
+
+    old "Rose"
+    new "Роуз"
+
+    old "High Priestess"
+    new "Верховная Жрица"
+
+    old "Chiara"
+    new "Кьяра"
+
+    old "Claire"
+    new "Клэр"
 
     old "Silvia"
     new "Сильвия"
@@ -222,27 +288,6 @@ translate russian strings:
     old "Ezra"
     new "Эзра"
 
-    old "Debbie"
-    new "Дебби"
-
-    old "Gemma"
-    new "Джемма"
-
-    old "Harry"
-    new "Гарри"
-    
-    old "Lily"
-    new "Лили"
-
-    old "Room Service"
-    new "Обслуживание номеров"
-
-    old "Domina"
-    new "Домина"
-
-    old "Janet"
-    new "Джанет"
-
-    old "Gary"
-    new "Гэри"
+    old "Isa"
+    new "Иса"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

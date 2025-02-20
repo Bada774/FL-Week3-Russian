@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d18s11b_ext_c207e5d0:
 
 
@@ -1167,5 +1165,4 @@ translate deutsch strings:
 
     old "Just Fuck Her Ass"
     new "Fick sie einfach in den Arsch"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

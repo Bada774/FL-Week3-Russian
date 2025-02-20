@@ -72,7 +72,7 @@ label week_1_recap:
     if d01s01_peeked_on_hana is True:
         scene d01s01-12 lifting-blanket
         "[mcname] noticed the new girl his roommate brought home."
-    elif True:
+    else:
         scene d01s01-24 mc-shower
         "[mcname] ignored the woman in his roommate's bed and went for a shower."
     scene d01s01-26 lydia-dream
@@ -95,7 +95,7 @@ label week_1_recap:
     if d01s05_points > 5:
         if d01s05_points == 12:
             scene s05-117-mc-cum-3
-        elif True:
+        else:
             scene s05-121-mc-cum-on-couch-3
         "[mcname] participated in a blitz challenge with AmRose after she fell asleep while the two watched a movie."
     elif fl_cumshot is True:
@@ -144,26 +144,26 @@ label week_1_recap:
         "Unfortunately, his coffee date with the love of his life was interrupted by AmRose..."
         scene d04s05-07 arj-removing-the-bottle
         "[mcname] helped out his friend who was in trouble while attempting to complete the Fetish of the Day Challenge."
-    elif True:
+    else:
         scene d04s05-05 arj-sick
         "Unfortunately, his coffee date with the love of his life was interrupted by AmRose... who was drunk off her ass and in dire need of his assistance."
     scene d04s05-20 mc-sitting-beside
     if is_antagonist_mode is False:
         "[mcname] came to her rescue, and in the process, learned that she was put into a secretive \"VIP Fetish Challenge Program\" to win one million dollars."
-    elif True:
+    else:
         "[mcname] came to her rescue, and in the process learned that she was being blackmailed and coerced by someone at Fetish Locator."
     scene d04s08-09 mc-fear-2
     "When he returned home that evening, [mcname] discovered he was in a nearly identical situation."
     if is_antagonist_mode is False:
         "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
-    elif True:
+    else:
         "He was being blackmailed as well, by something called the Fetish Locator Retention Program."
     scene d05s01-08 mc-stands-with-phone
     "In the morning he was given a personal challenge. He had to earn 50 points by Monday morning."
     scene d05s05-08 arj-mc-both-in-train
     if is_antagonist_mode is False:
         "A little later that day, he let AmRose know that they were now in the same boat."
-    elif True:
+    else:
         "A little later that day, he let AmRose know that they were in the same boat of being blackmailed."
     scene black
     "Two weeks prior to the events of the main story..."
@@ -171,7 +171,7 @@ label week_1_recap:
     show s03-101-over sy-pose-2-with-hand-laugh
     if persistent.is_special is True:
         "[mcname] visited home. There he saw his sister, Stacy, for the first time in many months."
-    elif True:
+    else:
         "[mcname] visited home. His close friend, Stacy, was living there temporarily. It was the first time he had seen her in months."
     if d02s07_seen_sy_shower is True:
         scene s07-106_v2 shower-pose-2-close
@@ -195,7 +195,7 @@ label week_1_recap:
     scene d06s10-47 sb-leaving-3
     if date_sy is True:
         "But in the darkness of the night, her luggage was stolen from [mcname]'s room."
-    elif True:
+    else:
         "Stacy's luggage was stolen from [mcname]'s room that night."
     scene d07s02-56 car-mc-arj-sy-talk
     "On Sunday, [mcname] set Pete on the task of finding Stacy's luggage while he headed out to the beach with AmRose and Stacy for the \"Officially Unofficial\" start of the summer."
@@ -209,7 +209,7 @@ label week_1_recap:
     if date_arj_romance is True:
         scene d07s05-36 mc-arj-kiss
         "[mcname] decided that AmRose would be his secret girlfriend, while Lydia remained his public girlfriend."
-    elif True:
+    else:
         scene d07s05-38-02 mc-arj-knee-beg
         "[mcname] decided to take AmRose as a fuckbuddy and personal sex slave."
     if date_mes is True:
@@ -271,7 +271,7 @@ label week_1_recap:
         scene d05s02-20 keving-enters
         if persistent.is_special is True:
             "[mcname] learned that accepting Kevin's relationship with Kevin's sister has benefits."
-        elif True:
+        else:
             "[mcname] learned that accepting the peculiar nature of Kevin's relationship with Chloe has benefits."
     if date_jf is True:
         scene d05s05-42 jf-scared
@@ -283,5 +283,4 @@ label week_1_recap:
     hide screen skip_recap
 
     jump week_2_recap
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

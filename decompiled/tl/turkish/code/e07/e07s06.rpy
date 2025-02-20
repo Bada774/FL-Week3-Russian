@@ -1,6 +1,4 @@
 
-
-
 translate turkish e07s06_7cbb521d:
 
 
@@ -1545,5 +1543,4 @@ translate turkish strings:
 
     old "Don't suck the dick"
     new "Aleti emme"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

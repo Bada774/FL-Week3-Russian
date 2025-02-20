@@ -156,37 +156,37 @@ label e06s09_return:
 label e06s09_menu:
 
     menu:
-        "Missionary" if e06s09_menu_group is 1 and e06s09_missionary is False:
+        "Missionary" if e06s09_menu_group == 1 and e06s09_missionary is False:
             jump e06s09_missionary
 
-        "Blowjob" if e06s09_menu_group is 1 and e06s09_blowjob is False:
+        "Blowjob" if e06s09_menu_group == 1 and e06s09_blowjob is False:
             jump e06s09_blowjob
 
-        "Her on Top" if e06s09_menu_group is 1 and e06s09_together is False:
+        "Her on Top" if e06s09_menu_group == 1 and e06s09_together is False:
             jump e06s09_together
 
-        "Stand Up" if e06s09_menu_group is 1 and e06s09_stand_up is False:
+        "Stand Up" if e06s09_menu_group == 1 and e06s09_stand_up is False:
             jump e06s09_stand_up
 
-        "Doggy Style" if e06s09_menu_group is 2 and e06s09_doggy_style is False:
+        "Doggy Style" if e06s09_menu_group == 2 and e06s09_doggy_style is False:
             jump e06s09_doggy_style
 
-        "FaceFuck" if e06s09_menu_group is 2 and e06s09_face_fuck is False:
+        "FaceFuck" if e06s09_menu_group == 2 and e06s09_face_fuck is False:
             jump e06s09_face_fuck
 
-        "Really Get Up In There" if e06s09_menu_group is 2 and e06s09_deep is False:
+        "Really Get Up In There" if e06s09_menu_group == 2 and e06s09_deep is False:
             jump e06s09_deep
 
-        "Try Something Fancy" if e06s09_menu_group is 2 and e06s09_fancy is False:
+        "Try Something Fancy" if e06s09_menu_group == 2 and e06s09_fancy is False:
             jump e06s09_fancy
 
-        "Slope" if e06s09_menu_group is 3 and e06s09_slope is False:
+        "Slope" if e06s09_menu_group == 3 and e06s09_slope is False:
             jump e06s09_slope
 
-        "Eat Her Out" if e06s09_menu_group is 3 and e06s09_eat_out is False:
+        "Eat Her Out" if e06s09_menu_group == 3 and e06s09_eat_out is False:
             jump e06s09_eat_out
 
-        "Screw Her" if e06s09_menu_group is 3 and e06s09_screw_her is False:
+        "Screw Her" if e06s09_menu_group == 3 and e06s09_screw_her is False:
             jump e06s09_screw_her
 
         "Cum" if e06s09_position_done > 3:
@@ -203,7 +203,7 @@ label e06s09_missionary:
     $ e06s09_missionary = True
     if e06s06_mh_harem is True:
         scene e06s09-04 mc-thinks-wants-something-traditional_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-04-01 mc-thinks-wants-something-traditional-no-mh_c1 with Fade(0.5, 0.5, 0.5)
     play voice2 mc_thinking_hmm5 noloop
     mct "Let's try something traditional."
@@ -249,7 +249,7 @@ label e06s09_blowjob:
     $ e06s09_blowjob = True
     if e06s05_dd_harem is True:
         scene e06s09-08-01 mc-wants-lc-suck-cock_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-08-01-01 mc-wants-lc-suck-cock-no-dd_c1 with Fade(0.5, 0.5, 0.5)
     play voice2 mc_angry_errr4 noloop
     mc "Suck my cock!"
@@ -370,7 +370,7 @@ label e06s09_stand_up:
     pause
     if e06s05_dd_harem is True:
         scene e06s09-14-04 lc-loves-feeling-mc-close_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-14-04-01 lc-loves-feeling-mc-close-no-dd_c1 with dissolve
     play voice3 lydia_morningoh noloop
     lc "I mean it."
@@ -392,7 +392,7 @@ label e06s09_stand_up:
     $ Lovense.vibrate(3)
     if e06s06_mh_harem is True:
         scene e06s09-14-05 mc-wants-know-how-his-cock-feel-lc-loves-it_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-14-05-01 mc-wants-know-how-his-cock-feel-lc-loves-it-no-mh_c1 with dissolve
     play voice2 mc_pain_rrrr noloop
     mc "Just tell me how much you like my cock."
@@ -403,7 +403,7 @@ label e06s09_stand_up:
     mc "Yeah?"
     if e06s05_dd_harem is True:
         scene e06s09-14-06 lc-moans-love-mc-cock-menu_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-14-06-01 lc-moans-love-mc-cock-menu-no-dd_c1 with dissolve
     play voice3 lydia_orgasm1 noloop
     lc "I LOVE YOUR HARD COCK DEEP INSIDE ME"
@@ -432,19 +432,19 @@ label e06s09_doggy_style:
     $ e06s09_doggy_style = True
     if e06s05_dd_harem is True:
         scene e06s09-06-02 mc-tells-lc-lame-but-fav-position_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-06-02-01 mc-tells-lc-lame-but-fav-position-no-dd_c1 with Fade(0.5, 0.5, 0.5)
     play voice2 d1s5b_ehhh noloop volume 1.7
     mc "I hate to admit it..."
     if e06s06_mh_harem is True:
         scene e06s09-06-03 lc-loves-it-starts-moaning_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-06-03-01 lc-loves-it-starts-moaning-no-mh_c1 with dissolve
     play voice3 lydia_thinking noloop
     lc "What's that?"
     if e06s05_dd_harem is True:
         scene e06s09-06-02 mc-tells-lc-lame-but-fav-position_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-06-02-01 mc-tells-lc-lame-but-fav-position-no-dd_c1 with dissolve
     play voice2 d2s9_confused noloop
     mc "I know it's kinda lame, but this is my favorite position."
@@ -486,7 +486,7 @@ label e06s09_doggy_style:
     lc "I want to remember losing each of my virginities separately!!!"
     if e06s06_mh_harem is True:
         scene e06s09-06-08 mc-tells-lc-thats-good-reason_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-06-08-01 mc-tells-lc-thats-good-reason-no-mh_c1 with dissolve
     play voice2 d1s5_mchappy noloop volume 1.7
     mc "Sounds like a good reason to me!"
@@ -513,7 +513,7 @@ label e06s09_face_fuck:
     $ e06s09_face_fuck = True
     if e06s06_mh_harem is True:
         scene e06s09-09-01 positions-facefuck-mc-warns-will-throat-fuck-lc_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-09-01-01 positions-facefuck-mc-warns-will-throat-fuck-lc-no-mh_c1 with Fade(0.5, 0.5, 0.5)
     play voice2 mc_thinking_hmm3 noloop
     mc "I'm going to fuck your face for a bit."
@@ -562,7 +562,7 @@ label e06s09_face_fuck:
             lc "Alright? I am blissful."
             if e06s05_dd_harem is True:
                 scene e06s09-09-08 lc-gagging-but-its-fine_c1 with dissolve
-            elif True:
+            else:
                 scene e06s09-09-08-01 lc-gagging-but-its-fine-no-dd_c1 with dissolve
             play voice2 mc_thinking_mmm5 noloop
             mc "It sounded like I was making you gag."
@@ -604,7 +604,7 @@ label e06s09_deep:
     $ e06s09_deep = True
     if e06s05_dd_harem is True:
         scene e06s09-12-01 position-gettingupthere-mc-positions-lc-floor_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-12-01-01 position-gettingupthere-mc-positions-lc-floor-no-dd_c1 with Fade(0.5, 0.5, 0.5)
     play voice2 mc_scared_oh1 noloop
     mc "I've got an idea."
@@ -650,7 +650,7 @@ label e06s09_deep:
         scene e06s09-12-07-02 mc-will-fuck-lc-until-cant-think-lc-laughs-menu-no-mh_c1 with dissolve
     elif e06s06_mh_harem is True:
         scene e06s09-12-07-01 mc-will-fuck-lc-until-cant-think-lc-laughs-menu-no-dd_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-12-07-03 mc-will-fuck-lc-until-cant-think-lc-laughs-menu-no-mh-dd_c1 with dissolve
     play voice2 mc_arrogant_heh1 noloop
     mc "Well, I'll just have to fuck you until you can't think straight - then ask you again!"
@@ -679,7 +679,7 @@ label e06s09_fancy:
     $ e06s09_fancy = True
     if e06s05_dd_harem is True:
         scene e06s09-15-01 position-fancy-mc-tries-something-new_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-15-01-01 position-fancy-mc-tries-something-new-no-dd_c1 with Fade(0.5, 0.5, 0.5)
     play sound sfx_fall_mud1
     play voice2 mc_pain_ou1 noloop
@@ -708,7 +708,7 @@ label e06s09_slope:
     $ e06s09_slope = True
     if e06s06_mh_harem is True:
         scene e06s09-07-06 lc-lift-herself-menu_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-07-06-01 lc-lift-herself-menu-no-mh_c1 with Fade(0.5, 0.5, 0.5)
     pause
     $ Lovense.vibrate(6)
@@ -719,7 +719,7 @@ label e06s09_slope:
     mc "Goddammit babe, you are so beautiful."
     if e06s05_dd_harem is True:
         scene e06s09-07-03 mc-lc-talk-while-fucking_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-07-03-01 mc-lc-talk-while-fucking-no-dd_c1 with dissolve
     play voice3 lydia_moan1 noloop
     lc "Thank you."
@@ -764,7 +764,7 @@ label e06s09_eat_out:
     $ e06s09_eat_out = True
     if e06s06_mh_harem is True:
         scene e06s09-10-01 positions-car-mechanic-mc-tells-lc-now-his-turn_c1 with Fade(0.5, 0.5, 0.5)
-    elif True:
+    else:
         scene e06s09-10-01-01 positions-car-mechanic-mc-tells-lc-now-his-turn-no-mh_c1 with Fade(0.5, 0.5, 0.5)
     play voice2 mc_thinking_hmm1 noloop
     mc "My turn."
@@ -773,7 +773,7 @@ label e06s09_eat_out:
     mc "I'm going to eat your cunt."
     if e06s05_dd_harem is True:
         scene e06s09-10-02 lc-surprised-mc-wants-show-lc-what-her-can-do_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-10-02-01 lc-surprised-mc-wants-show-lc-what-her-can-do-no-dd_c1 with dissolve
     play voice3 lydia_ah noloop
     lc "FUCK ME, Really?"
@@ -782,7 +782,7 @@ label e06s09_eat_out:
     play voice3 lydia_oops noloop
     if e06s05_dd_harem is True:
         scene e06s09-10-03 lc-lc-starts-sentence-interupted-by-mc_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-10-03-01 lc-lc-starts-sentence-interupted-by-mc-no-dd_c1 with dissolve
     pause
     scene e06s09-a10-04-1 mc-eating-lc-anim-01 with dissolve
@@ -857,7 +857,7 @@ label e06s09_screw_her:
     mc "What?"
     if e06s05_dd_harem is True:
         scene e06s09-13-05 lc-might-be-cumdrunk-not-stupid-mc-asking-what_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-13-05-01 lc-might-be-cumdrunk-not-stupid-mc-asking-what-no-dd_c1 with dissolve
     play voice3 dahlia_happy_hmm1 noloop
     lc "I might be completely cum drunk..."
@@ -872,7 +872,7 @@ label e06s09_screw_her:
     mc "It was a book of humor."
     if e06s05_dd_harem is True:
         scene e06s09-13-07 lc-explains-greek-gifts-not-about-anal-trojan-horse_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-13-07-01 lc-explains-greek-gifts-not-about-anal-trojan-horse-no-dd_c1 with dissolve
     play voice3 lydia_hmmmm noloop volume 1.7
     lc "Did it also say something about \"Beware Greeks bearing gifts\"?"
@@ -882,7 +882,7 @@ label e06s09_screw_her:
     lc "Trojan horse."
     if e06s05_dd_harem is True:
         scene e06s09-13-08 mc-agrees-menu_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-13-08-01 mc-agrees-menu-no-dd_c1 with dissolve
     play voice2 mc_disappointed_off2 noloop
     mc "Oh, yeah."
@@ -1073,7 +1073,7 @@ label e06s08_post_climax:
         sy "Promise me."
         if e06s05_dd_harem is True:
             scene e06s09-35 mh-agrees-promises_c1 with dissolve
-        elif True:
+        else:
             scene e06s09-35-01 mh-agrees-promises-no-dd_c1 with dissolve
         play voice5 lissa_laugh2 noloop
         mh "Okay, okay. I promise."
@@ -1101,7 +1101,7 @@ label e06s08_post_climax:
         scene e06s09-38-02 final-harem-shot-dd-only_c1 with dissolve
     elif e06s06_mh_harem is True:
         scene e06s09-38-01 final-harem-shot-mh-only_c1 with dissolve
-    elif True:
+    else:
         scene e06s09-38-01 final-harem-shot-no-dd-no-mh_c1 with dissolve
     pause
     stop voice4 fadeout 3.0
@@ -1133,5 +1133,4 @@ label e06s09_end:
     stop music fadeout 3.0
 
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -255,7 +255,7 @@ label e04s02_sex:
     if d17s01_arj_assfuck is True:
         mc "Remember how you made me fuck AmRose in the ass, with no lube?"
         mc "You seemed to really like watching that. Maybe it's your turn to know what that feels like."
-    elif True:
+    else:
         mc "Remember how you tried to use Fetish Locator to get me to fuck AmRose in the ass with no lube?"
         mc "Maybe I should show you just how rough anal can be, especially without lube."
     scene e04s02-37 mc-lc-force1_c2 with dissolve
@@ -562,5 +562,4 @@ label e04s02_sex:
     stop music fadeout 3.0
 
     jump e04s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

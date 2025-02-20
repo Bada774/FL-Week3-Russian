@@ -106,7 +106,7 @@ label d15s06:
         scene d15s06-01_mc_mh_talking with dissolve
         play sound sfx_message_out1
         mct "Sent."
-    elif True:
+    else:
         if d15s04_study is False:
             scene d15s04-15 mc-study-studying_c1 with fade
             pause
@@ -175,7 +175,7 @@ label d15s06:
     play voice2 mc_yes_yeah1 noloop
     if date_mh_bdsm is False:
         mc "A tempting offer. But I won't forget about her for the world."
-    elif True:
+    else:
         mc "A tempting offer."
         mc "I just might take you up on it if she tries to bail on me."
     play voice3 lissa_moan1 noloop
@@ -353,7 +353,7 @@ label d15s06_house:
     play voice2 mc_thinking_emm1 noloop
     if is_antagonist_mode is False:
         mc "I lost a challenge with Fetish Locator and this is my new challenge."
-    elif True:
+    else:
         mc "I lost a bet with Fetish Locator and this is my punishment for a bit."
     mc "I probably should've told you beforehand, but uhm, I kinda got lost in the moment."
     scene d15s06-05-4 mc-mh-bedroom-looking1_c3 with dissolve
@@ -387,7 +387,7 @@ label d15s06_house:
     play voice2 mc_thinking_mmm2 noloop
     if date_mh_bdsm is True:
         mc "Relax. I'll take care of this little problem."
-    elif True:
+    else:
         mc "Relax. I'll take care of you."
     scene d15s06-07 mc-mh-bedroom-tease2_c3 with dissolve
     play voice3 lissa_moan5 noloop
@@ -435,7 +435,7 @@ label d15s06_house:
         play voice2 mc_yes_yeah1 noloop
         mc "Good girl."
         mc "Don't make me repeat it, okay?"
-    elif True:
+    else:
         pause
         pause
 
@@ -499,7 +499,7 @@ label d15s06_house:
                 mh "How was that, Sir?"
                 play voice2 mc_scared_oh4 noloop
                 mc "It was good. Good job."
-            elif True:
+            else:
                 mh "How was that?"
                 play voice2 mc_scared_oh4 noloop
                 mc "That...felt great."
@@ -524,7 +524,7 @@ label d15s06_house:
     play voice3 lissa_oh2 noloop
     if date_mh_bdsm is True:
         mh "Sir... May I fuck your ass, Sir?"
-    elif True:
+    else:
         mh "[mcname]... I want to fuck your ass."
     menu:
         "Allow Lyssa to take your anal cherry"(hint="d15s06m02c01"):
@@ -541,7 +541,7 @@ label d15s06_house:
                 scene d15s06-11 mc-mh-bedroom-ass-looking3_c1 with dissolve
                 play voice2 d2s9_confused noloop
                 mc "I...am open to it."
-            elif True:
+            else:
                 scene d15s06-11 mc-mh-bedroom-ass-looking3_c1 with dissolve
                 play voice2 d2s9_confused noloop
                 mc "...You may."
@@ -640,7 +640,7 @@ label d15s06_house:
                 play voice2 [mc_pain_ffff, "<silence 1.0>", mc_pain_mff1, "<silence 1.0>", mc_pain_mff2, "<silence 1.0>", mc_pain_rrrr, "<silence 1.0>", mc_pain_mff4, "<silence 1.0>", mc_surprised_huh5, "<silence 1.0>", mc_pain_mff3, "<silence 1.0>", mc_pain_mff5, "<silence 1.0>"]
                 play voice3 ["<silence 1.0>", lissa_moan7, "<silence 1.5>", lissa_moan5, "<silence 1.8>", lissa_moan4, "<silence 1.5>", lissa_moan2, "<silence 1.8>", lissa_moan3, "<silence 0.7>", lissa_moan8, "<silence 0.7>"]
                 scene d15s06-a4-lc
-            elif True:
+            else:
                 scene d15s06-01-a4 mc-mh-sex-1-anim-4-01_i with dissolve
                 pause
                 play voice2 [mc_pain_ffff, "<silence 1.0>", mc_pain_mff1, "<silence 1.0>", mc_pain_mff2, "<silence 1.0>", mc_pain_rrrr, "<silence 1.0>", mc_pain_mff4, "<silence 1.0>", mc_surprised_huh5, "<silence 1.0>", mc_pain_mff3, "<silence 1.0>", mc_pain_mff5, "<silence 1.0>"]
@@ -656,7 +656,7 @@ label d15s06_house:
 
             if cage_ntr is False:
                 scene d15s06-a8 with dissolve
-            elif True:
+            else:
                 scene d15s06-a7 with dissolve
             pause
             pause
@@ -668,7 +668,7 @@ label d15s06_house:
             $ Lovense.pattern("9;14", 1000)
             if cage_ntr is False:
                 scene d15s06-a4-lc-f with dissolve
-            elif True:
+            else:
                 scene d15s06-a4-f with dissolve
             pause
             pause
@@ -684,7 +684,7 @@ label d15s06_house:
 
             if cage_ntr is False:
                 scene d15s06-a8-f with dissolve
-            elif True:
+            else:
                 scene d15s06-a7-f with dissolve
             pause
             pause
@@ -710,7 +710,7 @@ label d15s06_house:
 
             if cage_ntr is False:
                 scene d15s06-a11 with dissolve
-            elif True:
+            else:
                 scene d15s06-a10 with dissolve
             pause
             pause
@@ -726,7 +726,7 @@ label d15s06_house:
 
             if cage_ntr is False:
                 scene d15s06-a11-f with dissolve
-            elif True:
+            else:
                 scene d15s06-a10-f with dissolve
             pause
             play voice2 mc_pain_ffff noloop
@@ -1165,7 +1165,7 @@ label d15s06_end:
         mc "Look."
         if d15s06_luvutoo is True:
             mc "I love her."
-        elif True:
+        else:
             mc "I really like her."
         mc "And we've talked about thi—"
         scene d15s06-44_mc_mh_talking with dissolve
@@ -1246,11 +1246,11 @@ label d15s06_end:
         if fl_goldstars > 1:
             play voice2 mc_arrogant_huh3 noloop
             mct "Another one? What did I get this one for?"
-        elif True:
+        else:
             play voice2 mc_arrogant_huh3 noloop
             mct "A gold star? What did I get this for?"
         $ d15s06_goldstar = True
-    elif True:
+    else:
         mct "Keep 'em coming."
 
     stop music fadeout 3.5
@@ -1258,5 +1258,4 @@ label d15s06_end:
     stop sound3 fadeout 3.0
 
     jump d15s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

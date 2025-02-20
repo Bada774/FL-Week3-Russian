@@ -1,5 +1,3 @@
-
-
 translate korean strings:
 
 
@@ -198,8 +196,6 @@ translate korean strings:
     old "Ending 13: Pregnant Nora"
     new "Ending 13: Pregnant Nora"
 
-
-
 translate korean strings:
 
 
@@ -209,8 +205,6 @@ translate korean strings:
 
     old "Ending 14: Polly & Nora"
     new "Ending 14: Polly & Nora"
-
-
 
 translate korean strings:
 
@@ -222,8 +216,6 @@ translate korean strings:
     old "Ending 17: Dahlia"
     new "Ending 17: Dahlia"
 
-
-
 translate korean strings:
 
 
@@ -234,4 +226,49 @@ translate korean strings:
     old "Ending 07: Girls"
     new "Ending 07: Girls"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate korean strings:
+
+
+    old "Ending 05: Lyssa & Oliver"
+    new "Ending 05: Lyssa & Oliver"
+
+
+    old "Ending 16: Jessie & Kanya"
+    new "Ending 16: Jessie & Kanya"
+
+
+    old "Ending 16: Farm Animals"
+    new "Ending 16: Farm Animals"
+
+translate korean strings:
+
+
+    old "Ending 15: Girls"
+    new "Ending 15: Girls"
+
+
+    old "Ending 18: Samiya & Dahlia"
+    new "Ending 18: Samiya & Dahlia"
+
+
+    old "Ending 18: Kendell & Londyn"
+    new "Ending 18: Kendell & Londyn"
+
+
+    old "Ending 18: Four Beauties"
+    new "Ending 18: Four Beauties"
+
+translate korean strings:
+
+
+    old "Ending 03: Girls"
+    new "Ending 03: Girls"
+
+
+    old "Ending 09: Girls"
+    new "Ending 09: Girls"
+
+
+    old "Ending 09: Greek Goddesses"
+    new "Ending 09: Greek Goddesses"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate turkish d17s04_e9a933c1:
 
 
@@ -1237,5 +1235,4 @@ translate turkish strings:
 
     old "Refuse"
     new "Reddet"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

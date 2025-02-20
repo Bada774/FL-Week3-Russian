@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate korean d18s05_after_sex_d36f975d:
     sb "지금 좀 생각해 봤는데."
 
 
-translate korean d18s05_after_sex_f26fa239:
-
-
-    sb "난 여기가 존나게 싫어. 좆 같은 콘크리트 정글. 씨발 난 항상 여기서 벗어나고 싶었어."
-
-
 translate korean d18s05_after_sex_7102ee2c:
 
 
@@ -716,4 +708,9 @@ translate korean strings:
     old "No"
     new "아니다"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate korean d18s05_after_sex_ec16ba99:
+
+
+    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

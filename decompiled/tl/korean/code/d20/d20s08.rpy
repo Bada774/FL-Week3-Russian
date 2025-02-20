@@ -1,6 +1,4 @@
 
-
-
 translate korean d20s08_b3e81c75:
 
 
@@ -1505,5 +1503,4 @@ translate korean strings:
 
     old "No, I don't want to see that."
     new "아니다, 그 영상을 보고 싶지 않다."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

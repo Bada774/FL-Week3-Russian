@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d20s08_b3e81c75:
 
 
@@ -1505,5 +1503,4 @@ translate portuguese strings:
 
     old "No, I don't want to see that."
     new "Não, eu não quero ver isso."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

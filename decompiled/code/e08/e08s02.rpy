@@ -380,7 +380,7 @@ label e08s02_scat:
         play voice3 amrose_yes_ugu noloop
         arj "I know."
         arj "I'm glad you didn't press me on it."
-    elif True:
+    else:
         arj "It's a long story."
     scene e08s02-43 mc-tells-arj-doesnt-know-whole-story_c1 with dissolve
     play voice2 mc_yes_yeah2 noloop
@@ -523,7 +523,7 @@ label e08s02_scat:
         arj "Even if you might have thought that was just random, even if the movie in question was forgettable, I still remember."
         play voice2 mc_yes_yeah4 noloop
         mc "It's the feeling that's the thing."
-    elif True:
+    else:
         scene e08s02-67 arj-asking-if-mc-remembers-first-date_c1 with dissolve
         play voice3 amrose_hey_whisper noloop
         arj "What we're about to do is a bit embarrassing. I think we're above it now."
@@ -596,7 +596,7 @@ label e08s02_scat:
         scene e08s02-74 arj-mc-both-remember-forgettable-movie_c1 with dissolve
         if persistent.is_special is True:
             arj "And I knew you were Stacy's brother... and so I asked."
-        elif True:
+        else:
             arj "And I knew you were Stacy's friend, and so I asked."
         arj "Just to take my mind off things and de-pressurize."
         scene e08s02-72 mc-tells-arj-she-looked-depressed_c1 with dissolve
@@ -726,7 +726,7 @@ label e08s02_sex:
     if e08s02_scat:
         play sound sfx_bag_fall1
         scene e08s02-98 mc-holding-filled-enema-pitcher_c1 with dissolve
-    elif True:
+    else:
         stop music fadeout 10.0
         scene e08s02-94 arj-unsure-about-it_c1 with fade
         queue music music_rednecktion
@@ -892,7 +892,7 @@ label e08s02_sex:
         mc "You like the way your asshole tastes, right?"
         arj "Mhmm."
         mc "What did you say?"
-    elif True:
+    else:
         play voice3 daisy_sucking
         scene e08s02-122 arj-sucks-mc-thumb_c1 with dissolve
         pause
@@ -900,7 +900,7 @@ label e08s02_sex:
         scene e08s02-129_arj-licks-thumb-mc-keeps-fucking-her-scat_c1 with dissolve
         play voice3 amrose_yes_ugu noloop
         arj "Yes, I do."
-    elif True:
+    else:
         stop voice3 fadeout 1.0
         scene e08s02-123 mc-glides-cock-into-arj_c1 with dissolve
 
@@ -932,7 +932,7 @@ label e08s02_sex:
     scene e08s02-a3-2-f with dissolve
     if e08s02_scat is True:
         mc "How does it feel, me fucking your dirty asshole?"
-    elif True:
+    else:
         mc "How does it feel?"
     arj "It feels good..."
     arj "Keep fucking my ass just like that."
@@ -981,7 +981,7 @@ label e08s02_sex:
         scene e08s02-129_arj-licks-thumb-mc-keeps-fucking-her-scat_c1 with dissolve
         play voice3 daisy_dlick noloop volume 2.5
         mc "Have a taste."
-    elif True:
+    else:
         play voice2 mc_angry_errr2 noloop
         scene e08s02-129 arj-licks-thumb-mc-keeps-fucking-her_c1 with dissolve
         play voice3 daisy_dlick noloop volume 2.5
@@ -996,7 +996,7 @@ label e08s02_sex:
         play voice3 amrose_disgust_yak noloop
         arj "I want to suck your cock, covered in my shit."
         arj "I want to clean it all off."
-    elif True:
+    else:
         scene e08s02-a131-1 arj-ass-to-mouth-anim-01 with dissolve
         pause
         $ Lovense.pattern("8;12", 1700)
@@ -1047,7 +1047,7 @@ label e08s02_sex:
         $ Lovense.pattern("8;12", 1700)
         scene e08s02-a6-1-s
         pause
-    elif True:
+    else:
         $ Lovense.stop()
         $ Lovense.vibrate(3)
         play voice3 amrose_pain_ahh3 noloop
@@ -1063,21 +1063,21 @@ label e08s02_sex:
     if e08s02_scat is True:
         scene e08s02-a6-2-s with dissolve
         pause
-    elif True:
+    else:
         scene e08s02-a6-2 with dissolve
         pause
     arj "You make me feel so fulfilled."
     if e08s02_scat is True:
         scene e08s02-a6-3-s with dissolve
         pause
-    elif True:
+    else:
         scene e08s02-a6-3 with dissolve
         pause
     arj "You're going to make me cum."
     if e08s02_scat is True:
         $ Lovense.pattern("8;12", 900)
         scene e08s02-a6-1-s-f with dissolve
-    elif True:
+    else:
         $ Lovense.pattern("8;12", 900)
         scene e08s02-a6-1-f with dissolve
     play voice3 amrose_old_orgasming
@@ -1088,7 +1088,7 @@ label e08s02_sex:
         pause
         scene e08s02-a6-3-s-f with dissolve
         pause
-    elif True:
+    else:
         pause
         scene e08s02-a6-2-f with dissolve
         pause
@@ -1171,7 +1171,7 @@ label e08s02_sex:
         play voice3 amrose_angry_breath1 noloop
         scene e08s02-143 arj-mc-laying-down-talking-scat_c1 with dissolve
         pause
-    elif True:
+    else:
         play voice2 d1s5_orgasm2 noloop
         play voice3 daisy_scream1 noloop
         $ Lovense.pattern("18", 900)
@@ -1188,5 +1188,4 @@ label e08s02_sex:
     stop music fadeout 3.5
     stop sound2 fadeout 3.0
     jump e08s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

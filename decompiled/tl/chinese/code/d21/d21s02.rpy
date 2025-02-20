@@ -1,6 +1,4 @@
 
-
-
 translate chinese d21s02_3a53d660:
 
 
@@ -1315,5 +1313,4 @@ translate chinese strings:
 
     old "Select Stacy"
     new "选择史黛西"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

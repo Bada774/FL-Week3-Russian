@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e11s01_66df9fc1:
 
 
@@ -65,12 +63,6 @@ translate portuguese e11s01_608e8e51:
 
 
     mc "Falando em estudar! Como vai a universidade?"
-
-
-translate portuguese e11s01_aad99233:
-
-
-    ly "Bem! Na verdade, eu sou a melhor da turma em inglês. E tem essa palestra bem legal em astrologia."
 
 
 translate portuguese e11s01_ffc39c14:
@@ -534,4 +526,9 @@ translate portuguese strings:
     old "Twenty years later"
     new "Vinte anos depois"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate portuguese e11s01_76c691b8:
+
+
+    ly "Bem! Na verdade, eu sou a melhor da turma em inglês. E tem essa palestra bem legal em astronomia."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

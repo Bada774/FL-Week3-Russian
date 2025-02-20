@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -1171,211 +1169,210 @@ translate chinese strings:
     new "将主要人物静音"
 
 
-
-translate chinese strings:
-
-
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "Click to toggle attribute, right click to toggle negative attribute."
+    new "单击切换属性，右击切换负面属性。"
 
 
     old "Click to set transform, right click to add to transform list."
-    new "Click to set transform, right click to add to transform list."
+    new "单击设置转换，右击添加至转换列表。"
 
 
     old "Click to set, right click to add to behind list."
-    new "Click to set, right click to add to behind list."
+    new "单击进行设置，右击添加至后置列表。"
 
 
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new "此保存文件创建于另一个设备。恶意构建的保存文件可能会损害您的计算机。您信任此存档的创建者以及所有可能更改文件的人吗？"
 
 
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new "您是否信任创建此保存文件的设备？只有当您是该设备的唯一用户时，才应选择“是”。"
 
 
     old "audio when unfocused"
-    new "audio when unfocused"
+    new "无聚焦时的音频"
 
 
     old "web cache preload"
-    new "web cache preload"
+    new "网页缓存预加载"
 
 
     old "voice after game menu"
-    new "voice after game menu"
+    new "游戏菜单后语音"
 
 
     old "Speech Bubble Editor"
-    new "Speech Bubble Editor"
+    new "对话框编辑器"
 
 
     old "(hide)"
-    new "(hide)"
+    new "(隐藏)"
 
 
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "同步下载。"
 
 
     old "Could not connect to the Ren'Py Sync server."
-    new "Could not connect to the Ren'Py Sync server."
+    new "无法连接到Ren'Py同步服务器。"
 
 
     old "The Ren'Py Sync server timed out."
-    new "The Ren'Py Sync server timed out."
+    new "Ren'Py同步服务器超时。"
 
 
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
-    new "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new "连接Ren'Py同步服务器时发生未知错误。"
 
 
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new "Ren'Py 同步服务器没有此同步的副本。同步ID可能无效，或可能已超时。"
 
 
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new "请输入您生成的同步ID。\n切勿输入不是您自己创建的同步ID。"
 
 
     old "The sync ID is not in the correct format."
-    new "The sync ID is not in the correct format."
+    new "同步ID格式不正确。"
 
 
     old "The sync could not be decrypted."
-    new "The sync could not be decrypted."
+    new "同步无法解密。"
 
 
     old "The sync belongs to a different game."
-    new "The sync belongs to a different game."
+    new "同步属于另一款游戏。"
 
 
     old "The sync contains a file with an invalid name."
-    new "The sync contains a file with an invalid name."
+    new "同步包含一个无效名称的文件。"
 
 
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new "此操作将把您保存的文件上传到{a=https://sync.renpy.org}Ren'Py同步服务器{/a}.\n您想继续吗？"
 
 
     old "Enter Sync ID"
-    new "Enter Sync ID"
+    new "输入同步ID"
 
 
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new "此操作将联系{a=https://sync.renpy.org}Ren'Py同步服务器{/a}."
 
 
     old "Sync Success"
-    new "Sync Success"
+    new "同步成功"
 
 
     old "The Sync ID is:"
-    new "The Sync ID is:"
+    new "同步ID为:"
 
 
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new "您可以使用此ID在另一台设备上下载您的保存文件。\n此同步将在一小时后过期。\nRen'Py同步由{a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}支持。"
 
 
     old "Sync Error"
-    new "Sync Error"
+    new "同步错误"
 
 
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "无障碍菜单。使用上下箭头导航，回车键激活按钮和栏。"
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "使用触摸屏时，自发音支持受到限制。"
 
 
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "自定义 director.transforms，添加更多变换。"
 
 
     old "Click to set."
-    new "Click to set."
+    new "点击设置。"
 
 
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "自定义 director.transitions，添加更多转场效果。"
 
 
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "自定义 director.audio_channels，以添加更多通道。"
 
 
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "你确定要继续之前的工作吗？"
 
 
     old "self voicing enable"
-    new "self voicing enable"
+    new "启用自配音"
 
 
     old "self voicing disable"
-    new "self voicing disable"
+    new "自失声"
 
 
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "启用剪贴板发声"
 
 
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "剪贴板发声禁用"
 
 
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "调试语音使能"
 
 
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "调试语音禁用"
 
 
     old "restore window position"
-    new "restore window position"
+    new "恢复窗口位置"
 
 
     old "reset"
-    new "reset"
+    new "重置"
 
 
     old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
+    new "（清除保留的气泡）"
 
 
     old "No update methods found."
-    new "No update methods found."
+    new "未找到更新方法。"
 
 
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "无法下载文件列表："
 
 
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "文件列表摘要不匹配。"
 
 
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "准备下载游戏数据。"
 
 
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "下载游戏数据。"
 
 
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "游戏数据已下载。"
 
 
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "尝试下载游戏数据时出现错误："
 
 
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "在下载游戏数据之前，无法运行该游戏。"
 
 
     old "Retry"
-    new "Retry"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "重试"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

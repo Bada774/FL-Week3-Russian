@@ -1,6 +1,4 @@
 
-
-
 translate malay e10s04_b53797f0:
 
 
@@ -389,5 +387,4 @@ translate malay strings:
 
     old "Weeks later\nAt the end of Summer"
     new "Weeks later\nAt the end of Summer"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

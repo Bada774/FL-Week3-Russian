@@ -1,5 +1,3 @@
-
-
 translate italian strings:
 
 
@@ -82,4 +80,15 @@ translate italian strings:
     old "Get free DLC containing 6 endings from Steam"
     new "Get free DLC containing 6 endings from Steam"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate italian strings:
+
+
+    old "Buy Taboo University on Steam"
+    new "Buy Taboo University on Steam"
+
+translate italian strings:
+
+
+    old "Get DLC-2 containing 6 additional endings from Steam"
+    new "Get DLC-2 containing 6 additional endings from Steam"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

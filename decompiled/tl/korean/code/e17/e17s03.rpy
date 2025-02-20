@@ -1,6 +1,4 @@
 
-
-
 translate korean e17s03_49cb4f05:
 
 
@@ -557,5 +555,4 @@ translate korean replay_e17s03_a823a6e3:
 
 
     mc "I must go. My Mistress is summoning me."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

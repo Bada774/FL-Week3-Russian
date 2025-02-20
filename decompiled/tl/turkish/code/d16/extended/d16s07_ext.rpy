@@ -1,6 +1,4 @@
 
-
-
 translate turkish d16s07_ext_0f4c0f58:
 
 
@@ -927,5 +925,4 @@ translate turkish strings:
 
     old "Cum outside"
     new "Dışarıya boşal"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

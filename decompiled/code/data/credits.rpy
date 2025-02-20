@@ -18,5 +18,4 @@ define gui.credits_more = _('\n'.join((
     "\"Andika\" is licensed under the {a=https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL}Open Font License{/a}.",
     "Please consider a {a=https://www.givedirect.org/donate/?cid=13536}donation{/a} to support SIL International's work.",
 )))
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

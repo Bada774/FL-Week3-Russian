@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d16s05_7a5532ea:
 
 
@@ -1095,5 +1093,4 @@ translate portuguese strings:
 
     old "Ask her if she got any pictures"
     new "Perguntar se ela tem alguma foto"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

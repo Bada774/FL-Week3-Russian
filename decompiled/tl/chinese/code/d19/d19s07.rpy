@@ -1,6 +1,4 @@
 
-
-
 translate chinese d19s07_8f5cc00d:
 
 
@@ -1459,5 +1457,4 @@ translate chinese strings:
 
     old "We aren't friends, but I need this."
     new "我们不是朋友，但我需要她的帮助"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

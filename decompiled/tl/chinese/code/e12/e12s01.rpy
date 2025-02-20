@@ -1,6 +1,4 @@
 
-
-
 translate chinese e12s01_f612d9b5:
 
 
@@ -1103,5 +1101,4 @@ translate chinese strings:
 
     old "On the road to the airport"
     new "在去机场的路上"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

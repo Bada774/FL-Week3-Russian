@@ -1,6 +1,4 @@
 
-
-
 translate turkish d15s03_6150bb0b:
 
 
@@ -917,5 +915,4 @@ translate turkish strings:
 
     old "20 minutes later"
     new "20 dakika sonra"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

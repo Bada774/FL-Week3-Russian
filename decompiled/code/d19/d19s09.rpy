@@ -472,7 +472,7 @@ label replay_d19s09 hide:
     play voice4 amrose_happy_laugh3 noloop
     if persistent.is_special is True:
         arj "You stay around your brother long enough and it rubs off on you."
-    elif True:
+    else:
         arj "You stay around [mcname] long enough and it rubs off on you."
     arj "Just close your eyes and relax."
     scene d19s09-a54-1 arj-eating-sy-anim-01 with dissolve
@@ -591,7 +591,7 @@ label replay_d19s09 hide:
     pause
     if d14s03_arj_kiss is False:
         jump d19s09_double_bj
-    elif True:
+    else:
         menu:
             "Suggest AmRose rim you while Stacy blows you"(hint="d19s09m01c01"):
                 jump d19s09_arj_rim
@@ -615,7 +615,7 @@ label d19s09_arj_rim:
     play voice4 amrose_yes_ugu noloop
     if date_arj_romance is False:
         arj "Yes, Sir."
-    elif True:
+    else:
         arj "Anything you want."
     play voice3 stacy_suckmoan2 noloop
     $ Lovense.vibrate(4)
@@ -728,7 +728,7 @@ label d19s09_double_bj:
     play voice4 amrose_happy_mmm noloop
     if date_arj_romance is False:
         arj "Please, cum down my throat, Sir."
-    elif True:
+    else:
         arj "Inside, all inside. I want to feel your warm cum go down my throat."
     play voice4 samiya_mfff noloop
     stop voice3 fadeout 1.0
@@ -792,7 +792,7 @@ label d19s09_double_bj:
         scene d19s09-91 sy-arj-talking_c1 with dissolve
         play voice3 stacy_nono noloop
         sy "No, it's fucking hot!"
-    elif True:
+    else:
         play voice4 daisy_scream4 noloop
         stop voice3 fadeout 1.0
         play voice2 d1s5_orgasm2 noloop
@@ -1174,5 +1174,4 @@ label d19s09_end:
     stop voice4 fadeout 3.0
 
     jump d20s00
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

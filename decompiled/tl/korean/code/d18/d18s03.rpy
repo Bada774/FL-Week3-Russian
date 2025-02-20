@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s03_ec5dba5c:
 
 
@@ -1751,5 +1749,4 @@ translate korean strings:
 
     old "No. Definitely NOT"
     new "아니다. 확실히 아니다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

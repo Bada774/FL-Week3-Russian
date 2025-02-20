@@ -1,6 +1,4 @@
 
-
-
 translate spanish e10s04_b53797f0:
 
 
@@ -389,5 +387,4 @@ translate spanish strings:
 
     old "Weeks later\nAt the end of Summer"
     new "Semanas después\nAl final del verano"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

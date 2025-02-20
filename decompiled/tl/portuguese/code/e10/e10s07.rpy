@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e10s07_58e7fd20:
 
 
@@ -456,12 +454,9 @@ translate portuguese strings:
     old "Few days later"
     new "Alguns dias depois"
 
-
-
 translate portuguese strings:
 
 
     old "You have finished playing ending 10!"
     new "Você concluiu o final 10!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

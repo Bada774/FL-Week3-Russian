@@ -1,6 +1,4 @@
 
-
-
 translate spanish e02s01_e6009a2c:
 
 
@@ -715,12 +713,6 @@ translate spanish e02s01_hot_bath_75a144f0:
     mh "Hmm, supongo que tienes razón, me estoy volviendo un poco burgués."
 
 
-translate spanish e02s01_hot_bath_1ec01878:
-
-
-    mc "Es cierto que se aprende más sobre las personas a través de la adversidad."
-
-
 translate spanish e02s01_hot_bath_47631e6c:
 
 
@@ -731,12 +723,6 @@ translate spanish e02s01_hot_bath_454ecb0d:
 
 
     mc "¿Mucho de qué?"
-
-
-translate spanish e02s01_hot_bath_79bd615b:
-
-
-    mh "Adversidad."
 
 
 translate spanish e02s01_hot_bath_d1f576cc:
@@ -1276,4 +1262,15 @@ translate spanish strings:
     old "Why Not Both?"
     new "¿Por qué no ambas?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate spanish e02s01_hot_bath_d6431c08:
+
+
+    mc "Es verdad que se aprende más sobre las personas a través de la adversidad."
+
+
+translate spanish e02s01_hot_bath_c527c472:
+
+
+    mh "Adversidad."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -2,6 +2,7 @@
 
 default persistent.ignore_mp_fail = False
 default persistent.mp_info = ""
+default persistent.hide_tu_trailer_ad = False
 
 label splashscreen:
 
@@ -28,10 +29,15 @@ label splashscreen:
     with Fade(0.6, 0.4, 0.6)
     pause
     hide screen disclaimer with dissolve
+    if renpy.variant("steam_deck"):
+        show screen steam_deck_layout(True)
+        with Fade(0.6, 0.4, 0.6)
+        pause
+        hide screen steam_deck_layout with dissolve
     if FLSS.mp is None or FLSS.is_inited is False:
         if persistent.ignore_mp_fail is False:
             jump failed_mp
-    elif True:
+    else:
         $ persistent.mp_info = ""
     if not persistent.chose_lang:
         call screen language_chooser_splash
@@ -89,6 +95,7 @@ image after_credits_a116_3_f = Movie(play = "images/Day-21/s25/anim/d21s25-a116-
 
 label after_credits:
 
+    $ renpy.choice_for_skipping()
     $ _skipping = True
     stop music fadeout 3.5
     scene black with dissolve
@@ -137,7 +144,7 @@ label after_credits:
         scene d21s25-10 sy-dd-happy with dissolve
         play voice3 stacy_happy_yay1 noloop
         sy "Thank you! Honestly, I'm so happy I almost can't believe it!"
-    elif True:
+    else:
         play voice4 daisy_hmm1 noloop
         dd "Which reminds me! I haven't played your ending yet, is it good?"
         scene d21s25-12 sy-dd-surprised with dissolve
@@ -164,7 +171,7 @@ label after_credits:
         scene d21s25-28 sy-dd-talking with dissolve
         play voice3 stacy_disappointed_oh5 noloop
         sy "Aw, that's alright. Maybe we can experience it together then."
-    elif True:
+    else:
         scene d21s25-19 sy-dd-sad with dissolve
         play voice3 stacy_pain_au1 noloop
         sy "It is so sad! I thought you died."
@@ -194,7 +201,7 @@ label after_credits:
             scene d21s25-28 sy-dd-talking with dissolve
             play voice3 stacy_angry noloop
             sy "I almost forgot about the Sex Dungeon ending!"
-        elif True:
+        else:
             play voice4 daisy_impressed noloop
             dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
             scene d21s25-27 sy-dd-smiling with dissolve
@@ -377,7 +384,7 @@ label after_credits:
         scene d21s25-71 sy-dd-zp-sm-excited with dissolve
         play voice4 daisy_hmm1 noloop
         dd "But what about Taboo University though?"
-    elif True:
+    else:
         scene d21s25-71 sy-dd-zp-sm-excited with dissolve
         play voice4 daisy_hey noloop
         dd "Hey, Nice to meet you too!"
@@ -587,8 +594,8 @@ label after_credits:
     dd "I'd like that very much."
     scene d21s25-128 sy-dd-sitting together with dissolve
     pause
-    stop sound2
-    stop sound3
+    stop sound2 fadeout 3.0
+    stop sound3 fadeout 3.0
     stop music fadeout 3.0
     $ renpy.music.set_volume(1.0, 3.0, "sound2")
     $ renpy.music.set_volume(1.0, 3.0, "sound3")
@@ -598,10 +605,11 @@ label after_credits:
         yalign 0.5
     with Fade(0.6, 0.6, 0.6)
     pause
+    if dlc_2_postcredits is True:
+        jump dlc_2_postcredits
     scene black with Fade(0.3, 0.3, 0.3)
 
     return
-
 
 
 
@@ -625,98 +633,172 @@ label update_ending_variables:
 
     if hasattr(renpy.store, "mcname"):
         $ persistent.mcname = mcname
-    elif True:
+    else:
         $ persistent.mcname = "Mike"
     if hasattr(renpy.store, "mclogin"):
         $ persistent.mclogin = mclogin
-    elif True:
+    else:
         $ persistent.mclogin = "Not_Mike"
     if hasattr(renpy.store, "cage_ntr"):
         $ persistent.cage_ntr = cage_ntr
-    elif True:
+    else:
         $ persistent.cage_ntr = False
     if hasattr(renpy.store, "fl_enema"):
         $ persistent.fl_enema = fl_enema
-    elif True:
+    else:
         $ persistent.fl_enema = False
     if hasattr(renpy.store, "fl_watersports"):
         $ persistent.fl_watersports = fl_watersports
         $ persistent.more_watersports = fl_watersports
-    elif True:
+    else:
         $ persistent.fl_watersports = False
         $ persistent.more_watersports = False
     if hasattr(renpy.store, "fl_footfetish"):
         $ persistent.fl_footfetish = fl_footfetish
-    elif True:
+    else:
         $ persistent.fl_footfetish = False
     if hasattr(renpy.store, "fl_cumgarnish"):
         $ persistent.fl_cumgarnish = fl_cumgarnish
-    elif True:
+    else:
         $ persistent.fl_cumgarnish = False
     if hasattr(renpy.store, "fl_fisting"):
         $ persistent.fl_fisting = fl_fisting
-    elif True:
+    else:
         $ persistent.fl_fisting = False
     if hasattr(renpy.store, "temp_pegging"):
         $ persistent.fl_pegging = temp_pegging
-    elif True:
+    else:
         $ persistent.fl_pegging = False
     if hasattr(renpy.store, "fl_trans"):
         $ persistent.fl_trans = fl_trans
-    elif True:
+    else:
         $ persistent.fl_trans = False
     if hasattr(renpy.store, "d20s08_copy_files"):
         $ persistent.copy_files = d20s08_copy_files
-    elif True:
+    else:
         $ persistent.copy_files = False
     if hasattr(renpy.store, "d20s04_pass_exam"):
         $ persistent.pass_exam = d20s04_pass_exam
-    elif True:
+    else:
         $ persistent.pass_exam = False
     if hasattr(renpy.store, "date_sy"):
         $ persistent.date_sy = date_sy
-    elif True:
+    else:
         $ persistent.date_sy = False
     if hasattr(renpy.store, "date_dd"):
         $ persistent.date_dd = date_dd
-    elif True:
+    else:
         $ persistent.date_dd = False
     if hasattr(renpy.store, "date_mh"):
         $ persistent.date_mh = date_mh
-    elif True:
+    else:
         $ persistent.date_mh = False
     if hasattr(renpy.store, "d12s05_stop"):
         $ persistent.fuck_nr = d12s05_stop
-    elif True:
+    else:
         $ persistent.fuck_nr = False
     if hasattr(renpy.store, "d20s03_sex"):
         $ persistent.d20s03_sex = d20s03_sex
-    elif True:
+    else:
         $ persistent.d20s03_sex = False
     if hasattr(renpy.store, "d15s05b_pegged"):
         $ persistent.nk_pegged = d15s05b_pegged
-    elif True:
+    else:
         $ persistent.nk_pegged = False
     if hasattr(renpy.store, "d17s01_arj_assfuck"):
         $ persistent.arj_assfuck = d17s01_arj_assfuck
-    elif True:
+    else:
         $ persistent.arj_assfuck = False
     if hasattr(renpy.store, "d21s05_fivesome"):
         $ persistent.mk_orgy = d21s05_fivesome
-    elif True:
+    else:
         $ persistent.mk_orgy = False
     if hasattr(renpy.store, "d15s05_leave"):
         $ persistent.leave_mk = d15s05_leave
-    elif True:
+    else:
         $ persistent.leave_mk = False
     if hasattr(renpy.store, "d15s05_rescue"):
         $ persistent.rescue_mk = d15s05_rescue
-    elif True:
+    else:
         $ persistent.rescue_mk = False
     if hasattr(renpy.store, "date_arj_romance"):
         $ persistent.arj_romance = date_arj_romance
-    elif True:
+    else:
         $ persistent.arj_romance = False
+    if hasattr(renpy.store, "date_arj_sexslave"):
+        $ persistent.arj_sex_slave = date_arj_sexslave
+    else:
+        $ persistent.arj_sex_slave = False
+    if hasattr(renpy.store, "d20s06_kiss_op"):
+        $ persistent.d20s06_kiss_op = d20s06_kiss_op
+    else:
+        $ persistent.d20s06_kiss_op = False
+    if hasattr(renpy.store, "d20s06_eat_cum"):
+        $ persistent.d20s06_eat_cum = d20s06_eat_cum
+    else:
+        $ persistent.d20s06_eat_cum = False
+    return
+    if hasattr(renpy.store, "d15s06_assfucked"):
+        $ persistent.d15s06_assfucked = d15s06_assfucked
+    else:
+        $ persistent.d15s06_assfucked = False
+    return
+    if hasattr(renpy.store, "d01s05_meetjf"):
+        $ persistent.d01s05_meetjf = d01s05_meetjf
+    else:
+        $ persistent.d01s05_meetjf = False
+    if hasattr(renpy.store, "d09_moneybags_done"):
+        $ persistent.d09_moneybags_done = d09_moneybags_done
+    else:
+        $ persistent.d09_moneybags_done = False
+    if hasattr(renpy.store, "date_mk_tr"):
+        $ persistent.date_mk_tr = date_mk_tr
+    else:
+        $ persistent.date_mk_tr = False
+    if hasattr(renpy.store, "d09s05_dom"):
+        $ persistent.d09s05_dom = d09s05_dom
+    else:
+        $ persistent.d09s05_dom = False
+    if hasattr(renpy.store, "d14s14_mc_wins"):
+        $ persistent.d14s14_mc_wins = d14s14_mc_wins
+    else:
+        $ persistent.d14s14_mc_wins = False
+    if hasattr(renpy.store, "date_mh_bdsm"):
+        $ persistent.date_mh_bdsm = date_mh_bdsm
+    else:
+        $ persistent.date_mh_bdsm = False
+    if hasattr(renpy.store, "d16s06_aw_sex"):
+        $ persistent.d16s06_aw_sex = d16s06_aw_sex
+    else:
+        $ persistent.d16s06_aw_sex = False
+    if hasattr(renpy.store, "date_awvw"):
+        $ persistent.date_awvw = date_awvw
+    else:
+        $ persistent.date_awvw = False
+    if hasattr(renpy.store, "d17s04_refuse"):
+        $ persistent.d17s04_refuse = d17s04_refuse
+    else:
+        $ persistent.d17s04_refuse = False
+    if hasattr(renpy.store, "date_jdg"):
+        $ persistent.date_jdg = date_jdg
+    else:
+        $ persistent.date_jdg = False
+    if hasattr(renpy.store, "date_ah"):
+        $ persistent.date_ah = date_ah
+    else:
+        $ persistent.date_ah = False
+    if hasattr(renpy.store, "date_cl"):
+        $ persistent.date_cl = date_cl
+    else:
+        $ persistent.date_cl = False
+    if hasattr(renpy.store, "d20s03_sex"):
+        $ persistent.d20s03_sex = d20s03_sex
+    else:
+        $ persistent.d20s03_sex = False
+    if hasattr(renpy.store, "d13s01_kevin_feltching"):
+        $ persistent.d13s01_kevin_feltching = d13s01_kevin_feltching
+    else:
+        $ persistent.d13s01_kevin_feltching = False
     return
 
 label start_ending_from_menu:
@@ -770,6 +852,42 @@ label start_ending_from_menu:
         $ persistent.rescue_mk = False
     if not has_persistent("arj_romance"):
         $ persistent.arj_romance = False
+    if not has_persistent("arj_sex_slave"):
+        $ persistent.arj_sex_slave = False
+    if not has_persistent("d20s06_kiss_op"):
+        $ persistent.d20s06_kiss_op = False
+    if not has_persistent("d20s06_eat_cum"):
+        $ persistent.d20s06_eat_cum = False
+    if not has_persistent("d15s06_assfucked"):
+        $ persistent.d15s06_assfucked = False
+    if not has_persistent("d01s05_meetjf"):
+        $ persistent.d01s05_meetjf = False
+    if not has_persistent("d09_moneybags_done"):
+        $ persistent.d09_moneybags_done = False
+    if not has_persistent("date_mk_tr"):
+        $ persistent.date_mk_tr = False
+    if not has_persistent("d09s05_dom"):
+        $ persistent.d09s05_dom = False
+    if not has_persistent("d14s14_mc_wins"):
+        $ persistent.d14s14_mc_wins = False
+    if not has_persistent("date_mh_bdsm"):
+        $ persistent.date_mh_bdsm = False
+    if not has_persistent("d16s06_aw_sex"):
+        $ persistent.d16s06_aw_sex = False
+    if not has_persistent("date_awvw"):
+        $ persistent.date_awvw = False
+    if not has_persistent("d17s04_refuse"):
+        $ persistent.d17s04_refuse = False
+    if not has_persistent("date_jdg"):
+        $ persistent.date_jdg = False
+    if not has_persistent("date_ah"):
+        $ persistent.date_ah = False
+    if not has_persistent("date_cl"):
+        $ persistent.date_cl = False
+    if not has_persistent("d20s03_sex"):
+        $ persistent.d20s03_sex = False
+    if not has_persistent("d13s01_kevin_feltching"):
+        $ persistent.d13s01_kevin_feltching = False
     return
 
 label after_load:
@@ -828,5 +946,4 @@ label drink:
 
     play sound ["<silence .3>", audio.gulp, "<silence .5>", audio.gulp, "<silence .3>", audio.gulp, "<silence .7>", audio.gulp, "<silence .4>", audio.gulp] loop
     return
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

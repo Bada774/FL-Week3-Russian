@@ -34,6 +34,48 @@ init python:
 
 
     class Lovense():
+        solace_patterns = [
+            
+            [{"ts":0,"pos":0},{"ts":1000,"pos":100},{"ts":1800,"pos":20},{"ts":2600,"pos":80},{"ts":3400,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":500,"pos":100},{"ts":900,"pos":20},{"ts":1300,"pos":80},{"ts":1600,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":250,"pos":100},{"ts":500,"pos":20},{"ts":800,"pos":80},{"ts":1050,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":200,"pos":100},{"ts":400,"pos":20},{"ts":600,"pos":80},{"ts":800,"pos":0}],
+
+            
+            [{"ts":0,"pos":100},{"ts":1000,"pos":0},{"ts":1800,"pos":80},{"ts":2600,"pos":20},{"ts":3400,"pos":100}],
+            
+            [{"ts":0,"pos":100},{"ts":1000,"pos":0},{"ts":1200,"pos":0},{"ts":2000,"pos":80},{"ts":2250,"pos":80},{"ts":3000,"pos":20},{"ts":3300,"pos":20},{"ts":4100,"pos":100}],
+            
+            [{"ts":0,"pos":100},{"ts":500,"pos":0},{"ts":900,"pos":80},{"ts":1300,"pos":20},{"ts":1700,"pos":100}],
+            
+            [{"ts":0,"pos":100},{"ts":500,"pos":0},{"ts":650,"pos":0},{"ts":1000,"pos":80},{"ts":1100,"pos":80},{"ts":1500,"pos":20},{"ts":1600,"pos":20},{"ts":2000,"pos":100}],
+            
+            [{"ts":0,"pos":100},{"ts":250,"pos":0},{"ts":500,"pos":80},{"ts":800,"pos":20},{"ts":1000,"pos":100}],
+            
+            [{"ts":0,"pos":100},{"ts":250,"pos":0},{"ts":350,"pos":0},{"ts":600,"pos":80},{"ts":700,"pos":80},{"ts":1000,"pos":20},{"ts":1100,"pos":20},{"ts":1300,"pos":100}],
+            
+            [{"ts":0,"pos":100},{"ts":200,"pos":0},{"ts":400,"pos":80},{"ts":600,"pos":20},{"ts":800,"pos":100}],
+
+            
+            [{"ts":0,"pos":0},{"ts":1000,"pos":100},{"ts":2000,"pos":0},{"ts":3000,"pos":100},{"ts":4000,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":1000,"pos":100},{"ts":1750,"pos":0},{"ts":2500,"pos":100},{"ts":3500,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":500,"pos":100},{"ts":1000,"pos":0},{"ts":1500,"pos":100},{"ts":2000,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":500,"pos":100},{"ts":900,"pos":0},{"ts":1300,"pos":100},{"ts":1800,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":250,"pos":100},{"ts":500,"pos":0},{"ts":750,"pos":100},{"ts":1000,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":250,"pos":100},{"ts":450,"pos":0},{"ts":650,"pos":100},{"ts":900,"pos":0}],
+            
+            [{"ts":0,"pos":0},{"ts":200,"pos":100},{"ts":400,"pos":0},{"ts":600,"pos":100},{"ts":800,"pos":0}],
+
+        ]
+        
         
         @staticmethod
         def check_connection():
@@ -46,7 +88,7 @@ init python:
                 }
             
             try:
-                response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                 renpy.notify(_("Connection Successful!"))
                 persistent.lovense_connected = True
             except Exception:
@@ -64,7 +106,7 @@ init python:
             
             if persistent.lovense_connected is True:
                 try:
-                    response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                    response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                 except Exception:
                     renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                     persistent.lovense_connected = False
@@ -85,7 +127,7 @@ init python:
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -103,7 +145,7 @@ init python:
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -125,7 +167,7 @@ init python:
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -139,12 +181,12 @@ init python:
                     "strength" : strpattern,
                     "timeSec": time,
                     "stopPrevious": int(stop_previous),
-                    "apiVer": 1
+                    "apiVer": 2
                     }
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -157,16 +199,16 @@ init python:
             if not renpy.in_rollback():
                 data = {
                     "command": "Pattern",
-                    "rule": "V:1;F:vpr;S:{}".format(interval),
+                    "rule": "V:1;F:v,p,r,t,f,s,d;S:{}".format(interval),
                     "strength" : strpattern,
                     "timeSec": time,
                     "stopPrevious": int(stop_previous),
-                    "apiVer": 1
+                    "apiVer": 2
                     }
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -176,22 +218,104 @@ init python:
             else:
                 data = {
                     "command": "Pattern",
-                    "rule": "V:1;F:vpr;S:{}".format(interval),
+                    "rule": "V:1;F:v,p,r,t,f,s,d;S:{}".format(interval),
                     "strength" : strpattern,
                     "timeSec": time,
                     "stopPrevious": int(stop_previous),
-                    "apiVer": 1
+                    "apiVer": 2
                     }
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
                         return
                 else:
                     return
+        @staticmethod
+        def setup_pattern_solace(pattern=0,delay=0):
+            if pattern >= len(Lovense.solace_patterns):
+                print("pattern index out of bounds")
+                return
+            if not renpy.in_rollback():
+                data = {
+                    "command": "PatternV2",
+                    "type": "Setup",
+                    "actions": Lovense.solace_patterns[pattern],
+                    "apiVer": 1
+                    }
+                
+                if persistent.lovense_connected is True:
+                    try:
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
+                        Lovense.play_pattern_solace(delay)
+                    except Exception:
+                        renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
+                        persistent.lovense_connected = False
+                        return
+                else:
+                    return
+            else:
+                data = {
+                    "command": "PatternV2",
+                    "type": "Setup",
+                    "actions": Lovense.solace_patterns[pattern],
+                    "apiVer": 1
+                    }
+                
+                if persistent.lovense_connected is True:
+                    try:
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
+                        Lovense.play_pattern_solace(delay)
+                    except Exception:
+                        renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
+                        persistent.lovense_connected = False
+                        return
+                else:
+                    return
+        
+        
+        @staticmethod
+        def play_pattern_solace(delay=0):
+            
+            data = {
+                "command": "PatternV2",
+                "type": "Play",
+                "startTime": delay,
+                "apiVer": 1
+            }
+            
+            if persistent.lovense_connected is True:
+                try:
+                    response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
+                    print("solace play sent")
+                except Exception:
+                    renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
+                    persistent.lovense_connected = False
+                    return
+            else:
+                return
+        
+        @staticmethod
+        def stop_pattern_solace():
+            
+            data = {
+                "command": "PatternV2",
+                "type": "Stop",
+                "apiVer": 1
+            }
+            
+            if persistent.lovense_connected is True:
+                try:
+                    response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
+                except Exception:
+                    renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
+                    persistent.lovense_connected = False
+                    return
+            else:
+                return
         
         @staticmethod
         def fadevib(strength, time=2, stop_previous=True):
@@ -211,12 +335,12 @@ init python:
                     "strength" : strpattern,
                     "timeSec": time,
                     "stopPrevious": int(stop_previous),
-                    "apiVer": 1
+                    "apiVer": 2
                     }
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -239,12 +363,12 @@ init python:
                     "strength" : strpattern,
                     "timeSec": time,
                     "stopPrevious": int(stop_previous),
-                    "apiVer": 1
+                    "apiVer": 2
                     }
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -265,7 +389,7 @@ init python:
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -283,7 +407,7 @@ init python:
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -304,7 +428,7 @@ init python:
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
@@ -322,12 +446,11 @@ init python:
                 
                 if persistent.lovense_connected is True:
                     try:
-                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data)
+                        response = requests.post("http://{}:{}/command".format(persistent.lovense_ip, persistent.lovense_port), json = data, timeout = 5)
                     except Exception:
                         renpy.notify(_("Connection with the Lovense toy failed! Please visit the Preference page to reconfigure."))
                         persistent.lovense_connected = False
                         return
                 else:
                     return
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

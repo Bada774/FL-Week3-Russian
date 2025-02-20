@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -350,4 +348,13 @@ translate turkish strings:
     old "Menu"
     new "Menü"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate turkish strings:
+
+
+    old "Ren'Py Save Sync"
+    new "Ren'Py Senkronizasyonu Kaydet"
+
+
+    old "Dialogue Box Opacity"
+    new "Diyalog Kutusu Opaklığı"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

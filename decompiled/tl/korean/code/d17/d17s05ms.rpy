@@ -1,6 +1,4 @@
 
-
-
 translate korean d17s05ms_88a52a16:
 
 
@@ -1259,5 +1257,4 @@ translate korean d17s05ms_be58e169:
 
 
     mh "그랬다면, 다행이네."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

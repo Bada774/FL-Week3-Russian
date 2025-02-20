@@ -1,6 +1,4 @@
 
-
-
 translate turkish e13s04_b0f568c1:
 
 
@@ -157,12 +155,6 @@ translate turkish replay_e13s04_37969b53:
     nk "Evet, evet! Yaklaştım! [mcname], ben-!"
 
 
-translate turkish replay_e13s04_b7e53779:
-
-
-    nk "Tanrım... Bu harikaydı..."
-
-
 translate turkish replay_e13s04_d2c80bad:
 
 
@@ -179,12 +171,6 @@ translate turkish replay_e13s04_7b4716ff:
 
 
     nk "Sik beni. Becerebildiğin kadar becer beni. Kimin görüp duyduğu umurumda değil."
-
-
-translate turkish replay_e13s04_a4e4f076:
-
-
-    nk "*Yüksek sesle inliyor* Evet, kahretsin... Evet! Seni seviyorum [mcname]."
 
 
 translate turkish replay_e13s04_dd27a96a:
@@ -228,4 +214,15 @@ translate turkish strings:
     old "You have finished playing ending number 13!"
     new "13 numaralı bitişi oynamayı bitirdiniz!"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate turkish replay_e13s04_4ae8355d:
+
+
+    nk "Tanrım... Bu inanılmazdı."
+
+
+translate turkish replay_e13s04_c133408e:
+
+
+    nk "*İnleyerek* Evet, lanet olsun. Evet! Seni seviyorum, [mcname]."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate italian e02s07_c14c10e0:
 
 
@@ -1665,5 +1663,4 @@ translate italian strings:
 
     old "Let Lyssa Fuck You Instead"
     new "Lasciati scopare da Lyssa"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

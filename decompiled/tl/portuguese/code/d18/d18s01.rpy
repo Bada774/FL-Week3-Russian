@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d18s01_f8914e3e:
 
 
@@ -1313,5 +1311,4 @@ translate portuguese strings:
 
     old "Thursday\nDay-18"
     new "Quinta\nDia-18"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

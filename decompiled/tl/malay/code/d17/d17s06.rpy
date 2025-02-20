@@ -1,6 +1,4 @@
 
-
-
 translate malay d17s06_2e4fe018:
 
 
@@ -102,12 +100,9 @@ translate malay strings:
     old "Go back to studying"
     new "Sambung belajar"
 
-
-
 translate malay strings:
 
 
     old "Back at the dorm"
     new "Kembali ke asrama"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

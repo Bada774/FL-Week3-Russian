@@ -1,6 +1,4 @@
 
-
-
 translate turkish e12s01_f612d9b5:
 
 
@@ -1103,5 +1101,4 @@ translate turkish strings:
 
     old "On the road to the airport"
     new "Havaalanına giden yolda"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

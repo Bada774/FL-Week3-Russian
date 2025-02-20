@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s10_d9159219:
 
 
@@ -1337,8 +1335,6 @@ translate malay strings:
     new "Beritahu dia bagaimana anda pancut semasa dia berada di bawah meja"
 
 
-
-
 translate malay d16s10_5956f153:
 
 
@@ -1385,5 +1381,4 @@ translate malay strings:
 
     old "Later that evening"
     new "Pada sebelah petangnya"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

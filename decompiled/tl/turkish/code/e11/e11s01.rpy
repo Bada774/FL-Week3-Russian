@@ -1,6 +1,4 @@
 
-
-
 translate turkish e11s01_66df9fc1:
 
 
@@ -65,12 +63,6 @@ translate turkish e11s01_608e8e51:
 
 
     mc "Ders çalışmaktan bahsetmişken! Üniversite nasıl?"
-
-
-translate turkish e11s01_aad99233:
-
-
-    ly "Bu iyi! Aslında İngilizce yazmada sınıf birincisiyim. Ve astroloji üzerine gerçekten heyecan verici bir dersim var."
 
 
 translate turkish e11s01_ffc39c14:
@@ -534,4 +526,9 @@ translate turkish strings:
     old "Twenty years later"
     new "Yirmi yıl sonra"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate turkish e11s01_76c691b8:
+
+
+    ly "Bu iyi bir şey! İngilizce yazmada sınıf birincisiyim. Ve astronomi üzerine gerçekten heyecan verici bir dersim var."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

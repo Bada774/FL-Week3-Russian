@@ -559,7 +559,7 @@ label replay_e14s06:
             mc "I don't know... Maybe she'll still get lucky."
             if e14s06_trans_content is True:
                 jump e14s06_sex_scene
-            elif True:
+            else:
                 $ renpy.music.set_volume(0.6, 3.0, "music")
                 jump e14s06_no_sex_scene
 
@@ -610,7 +610,7 @@ label e14s06_sex_scene:
 
     if e14s06_pwnkdc_content is True:
         scene e14s06-137 i_fought_the_sex_scene_01_mc_kisses with dissolve
-    elif True:
+    else:
         $ renpy.music.set_volume(0.1, 6.0, "music")
         scene e14s06-137 i_fought_the_sex_scene_01_mc_kisses with fade
         stop music fadeout 12.0
@@ -867,7 +867,7 @@ label e14s06_sex_scene:
         jump e14s06_mc_bottoms
     elif e14s06_pwnkdc_content is True:
         jump e14s06_pwnk_content
-    elif True:
+    else:
         jump e14s06_sex_scene_2
 
 label e14s06_mc_bottoms:
@@ -926,7 +926,7 @@ label e14s06_mc_bottoms:
     play voice2 mc_pain_mff5 noloop
     if d15s05b_pegged is True:
         mc "Be gentle with me, the last time I did this was months ago with Polly and Nora."
-    elif True:
+    else:
         mc "I'm still super new to this, so go easy on me."
     scene e14s06-215 i_fought_the_sex_scene_debbie_pushes_dc_talk with dissolve
     $ Lovense.vibrate(3)
@@ -974,7 +974,7 @@ label e14s06_mc_bottoms:
     play voice2 mc_happy_oof3 noloop
     if d15s05b_pegged is True:
         mc "Luckily it's not my first rodeo."
-    elif True:
+    else:
         mc "Well I'm glad I can take it in the ass like a champ."
     pause
     play voice5 girl24_hey_simple noloop
@@ -1027,7 +1027,7 @@ label e14s06_mc_bottoms:
     mc "I'd be okay with that."
     if e14s06_pwnkdc_content is True:
         jump e14s06_pwnk_content
-    elif True:
+    else:
         jump e14s06_sex_scene_2
 
 label e14s06_pwnk_content:
@@ -1148,7 +1148,7 @@ label e14s06_pwnk_content:
 
     if e14s06_bottom_content is True:
         jump e14s06_bottom_foursome
-    elif True:
+    else:
         jump e14s06_foursome
 
 label e14s06_bottom_foursome:
@@ -1637,5 +1637,4 @@ label e14s06_no_sex_scene:
 label e14s06_end:
 
     jump e14s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

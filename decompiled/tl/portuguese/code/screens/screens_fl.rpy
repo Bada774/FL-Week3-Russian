@@ -1,5 +1,3 @@
-
-
 translate portuguese strings:
 
 
@@ -230,15 +228,11 @@ translate portuguese strings:
     old "SKIP RECAP"
     new "PULAR RECAPITULAÇÃO"
 
-
-
 translate portuguese strings:
 
 
     old "RETURN"
     new "VOLTAR"
-
-
 
 translate portuguese strings:
 
@@ -249,8 +243,6 @@ translate portuguese strings:
 
     old "Skip Recap\nof Week-2"
     new "Pular Recapitulação\nda Semana-2"
-
-
 
 translate portuguese strings:
 
@@ -266,4 +258,73 @@ translate portuguese strings:
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Se decidir continuar, talvez não consiga carregar os jogos salvos da Semana-2. Você não receberá outra notificação. Tem certeza?"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate portuguese strings:
+
+
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sincroniza seus saves usando o Servidor de Sincronia Ren'Py"
+
+
+    old "Upload Saves"
+    new "Upar Saves"
+
+
+    old "Download Saves"
+    new "Baixar Saves"
+
+
+
+translate portuguese strings:
+
+
+    old "Touch input supported"
+    new "Compatível com toque"
+
+
+    old "Navigation"
+    new "Navegação"
+
+
+    old "Pause Menu"
+    new "Menu de pausa"
+
+
+    old "Quick Save"
+    new "Save Rápido"
+
+
+    old "Roll Back"
+    new "Voltar"
+
+
+    old "{b}A{/b} - Select"
+    new "{b}A{/b} - Selecionar"
+
+
+    old "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Voltar"
+
+
+    old "{b}X{/b} - Skip"
+    new "{b}X{/b} - Pular"
+
+
+    old "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Esconder UI"
+
+
+    old "Roll Forward"
+    new "Avançar"
+
+
+    old "You can find this layout in the {b}Help{/b} menu"
+    new "Você pode encontrar este layout no menu {b}Ajuda{/b}"
+
+
+    old "CLOSE"
+    new "FECHAR"
+
+
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Veja Taboo University Livro 1 na Steam{/u}"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e12s04_3fbd998c:
 
 
@@ -1507,5 +1505,4 @@ translate portuguese strings:
 
     old "I'm good Vanessa."
     new "Não precisa, Vanessa."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

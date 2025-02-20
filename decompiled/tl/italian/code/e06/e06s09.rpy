@@ -1,6 +1,4 @@
 
-
-
 translate italian e06s09_c22452ba:
 
 
@@ -1201,5 +1199,4 @@ translate italian strings:
 
     old "You have finished playing Ending #06!"
     new "Hai finito di giocare il finale #06!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

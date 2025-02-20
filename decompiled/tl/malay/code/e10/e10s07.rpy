@@ -1,6 +1,4 @@
 
-
-
 translate malay e10s07_58e7fd20:
 
 
@@ -456,12 +454,9 @@ translate malay strings:
     old "Few days later"
     new "Few days later"
 
-
-
 translate malay strings:
 
 
     old "You have finished playing ending 10!"
     new "You have finished playing ending 10!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

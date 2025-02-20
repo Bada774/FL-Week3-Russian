@@ -100,7 +100,7 @@ label d21s05:
         scene d21s05-05 mc-slaps-arj-ass_c1 with dissolve
         play voice3 amrose_happy_laugh3 noloop
         arj "Always."
-    elif True:
+    else:
         play sound sfx_hands_clap1
         scene d21s05-05 mc-slaps-arj-ass_c1 with dissolve
         play voice2 d1s5_mchappy noloop volume 1.7
@@ -627,7 +627,7 @@ label d21s05_fuck_tr:
         tr "*muffled*"
         ah "He's extremely thankful."
         tr "*muffled, but louder*"
-    elif True:
+    else:
         tr "Exceptionally thankful."
         scene d21s05-66 mc-prepares-to-fuck-tr_c1 with dissolve
         play voice2 mc_arrogant_huh3 noloop
@@ -668,7 +668,7 @@ label d21s05_fuck_tr:
     scene d21s05-71 mc-cums-inside-tr_c1 with hpunch
     if persistent.is_special is True:
         tr "MmMMmmmmmpH!!!!"
-    elif True:
+    else:
         tr "That's private!"
     play voice3 aaleyah_happy_laugh1 noloop
     ah "Hahahhaahahahhahhaaha!!!!"
@@ -687,7 +687,7 @@ label d21s05_fuck_ah:
     $ Lovense.vibrate(2)
     if d21s05_fuck_tr is True:
         scene d21s05-72-01 mc-orders-tr-go-corner-cum-on-dick_c1 with dissolve
-    elif True:
+    else:
         scene d21s05-72 mc-orders-tr-go-corner_c1 with dissolve
     play voice2 mc_angry_cough1 noloop
     mc "That's enough, Terrell. Why don't you go jerk off in the corner?"
@@ -697,7 +697,7 @@ label d21s05_fuck_ah:
     play voice3 aaleyah_scared_ah2 noloop
     if d21s05_fuck_tr is True:
         scene d21s05-74-01 mc-drags-ah-floor-cum-on-floor_c1 with dissolve
-    elif True:
+    else:
         scene d21s05-74 mc-drags-ah-floor_c1 with dissolve
     play voice2 mc_happy_hah1 noloop
     if d21s05_fuck_tr is False:
@@ -708,7 +708,7 @@ label d21s05_fuck_ah:
         mc "But you treat him like shit."
         play voice3 aaleyah_yes_yes2 noloop
         ah "Only in the bedroom. He likes it."
-    elif True:
+    else:
         mc "How clean do you think his ass was?"
         play voice3 aaleyah_scared_oof1 noloop
         ah "You wouldn't..."
@@ -879,5 +879,4 @@ label d21s05_end:
 
     stop music fadeout 3.5
     jump d21s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,5 +1,3 @@
-
-
 translate italian strings:
 
 
@@ -1170,8 +1168,6 @@ translate italian strings:
     old "Parsing the script failed."
     new "Analisi dello script non riuscita."
 
-
-
 translate italian strings:
 
 
@@ -1378,4 +1374,9 @@ translate italian strings:
     old "Retry"
     new "Retry"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate italian strings:
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

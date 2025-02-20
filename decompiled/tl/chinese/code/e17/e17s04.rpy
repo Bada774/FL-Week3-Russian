@@ -1,6 +1,4 @@
 
-
-
 translate chinese e17s04_f538fcc5:
 
 
@@ -1411,5 +1409,4 @@ translate chinese strings:
 
     old "Remain completely submissive"
     new "保持完全的顺从"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

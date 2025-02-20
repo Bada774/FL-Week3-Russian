@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s01_0143d3aa:
 
 
@@ -420,15 +418,11 @@ translate portuguese e06s01_328b4b2e:
 
     mc "Boa noite, Lydia..."
 
-
-
 translate portuguese strings:
 
 
     old "Later That Day"
     new "Mais Tarde Naquele Dia"
-
-
 
 translate portuguese strings:
 
@@ -439,5 +433,4 @@ translate portuguese strings:
 
     old "Continue"
     new "Continuar"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

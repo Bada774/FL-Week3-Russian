@@ -329,7 +329,7 @@ label e12s02_sex:
     play voice2 mc_disappointed_ah2 noloop
     if persistent.is_special is True:
         mc "You and your mom are so alike."
-    elif True:
+    else:
         mc "You and Vanessa are so alike."
     scene e12s02-21 mc-aw-fun1_c2 with dissolve
     play voice3 kanya_yes_long noloop
@@ -351,7 +351,7 @@ label e12s02_sex:
     play voice3 kanya_surprised_huh2 noloop
     if persistent.is_special is True:
         aw "Mom? What's going on?"
-    elif True:
+    else:
         aw "What's going on?"
     scene e12s02-28 mc-aw-vw-entry2_c3 with dissolve
     play voice4 chloe_disappointed_ehh7 noloop
@@ -412,7 +412,7 @@ label e12s02_sex:
     play voice3 kanya_yes_yeah3 noloop
     if persistent.is_special is True:
         aw "Bye Mom."
-    elif True:
+    else:
         aw "Bye."
     play sound sfx_door_locked1
     scene e12s02-34 mc-vw-aw-leave_c1 with dissolve
@@ -621,5 +621,4 @@ label e12s02_sex:
     $ renpy.end_replay()
 
     jump e12s03
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

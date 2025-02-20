@@ -34,16 +34,16 @@ init 1 python:
     set_has_ending("17", False)
     set_has_ending("18", False)
 
-    if not "is_special" in persistent.__dict__:
+    if is_steam_edition and not "is_special" in persistent.__dict__:
         persistent.__setattr__("is_special", is_steam_edition)
+    elif is_gog_edition and not "is_special" in persistent.__dict__:
+        persistent.__setattr__("is_special", is_gog_edition)
 
     if is_steam_edition:
         achievement.sync()
 
     if config.developer is True:
-        config.keymap['screenshot'].remove('noshift_K_s')
-        config.keymap['fast_skip'].append('noshift_K_s')
-        config.keymap['screenshot'].append('noshift_K_q')
+        config.keymap['fast_skip'].append('noshift_K_q')
 
 init 999 python:
 
@@ -51,5 +51,4 @@ init 999 python:
         flr_name = "Fetish Master"
     else:
         flr_name = "Fetish Locator Retention"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

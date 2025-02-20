@@ -533,7 +533,7 @@ label replay_e11s07:
         scene e11s07-154-c1-ly-talk-mc with dissolve
         play voice4 girl28_disappointed_eeh2 noloop
         ly "Suuuure. But I am going to be so late, I need to go. Bye Dad!"
-    elif True:
+    else:
         scene e11s07-155-c2-wa-talk-mc with dissolve
         play voice4 boy5_disappointed_hmm noloop
         "Waiter" "Sir, your check."
@@ -632,5 +632,4 @@ label replay_e11s07:
     stop sound fadeout 1.0
     stop music fadeout 3.0
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

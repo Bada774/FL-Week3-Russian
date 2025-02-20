@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e10s05_7a026cc4:
 
 
@@ -1435,5 +1433,4 @@ translate deutsch strings:
 
     old "Climax without watersports"
     new "Komme ohne Wassersport"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

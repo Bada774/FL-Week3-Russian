@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d18s02_f772c18d:
 
 
@@ -305,5 +303,4 @@ translate deutsch strings:
 
     old "1 hour later\nAt Stacy's house"
     new "1 Stunde später bei Stacy zu Hause"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

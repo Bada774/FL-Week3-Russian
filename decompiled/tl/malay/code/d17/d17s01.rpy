@@ -1,6 +1,4 @@
 
-
-
 translate malay d17s01_918de26a:
 
 
@@ -1732,11 +1730,9 @@ translate malay strings:
     old "Decline"
     new "Tolak"
 
-
 translate malay strings:
 
 
     old "Wednesday\nDay-17"
     new "Rabu\nHari 17"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate korean d19s06mes_3f591a4b:
 
 
@@ -1151,5 +1149,4 @@ translate korean strings:
 
     old "Do you want to see watersports?"
     new "워터스포츠를 보고 싶습니까?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

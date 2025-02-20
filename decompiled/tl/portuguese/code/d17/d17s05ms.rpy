@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d17s05ms_88a52a16:
 
 
@@ -1259,5 +1257,4 @@ translate portuguese d17s05ms_be58e169:
 
 
     mh "Opa, que bom."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

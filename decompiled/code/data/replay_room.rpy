@@ -75,12 +75,24 @@ init python:
         "e02s08"     : "e02s08-162 ap-atp-share-laugh_c1"                 ,
         "e02s10"     : "e02s10-36 mc-wants-mh-go-easy-no-rush_c1"         ,
 
+        "e03s01"     : "e03s01-27 mh-kisses-sy-cheek_c1_intel"            ,
+        "e03s04"     : "e03s04-01 i_am_a_golden_god_sy_situp_asleep"      ,
+        "e03s06"     : "e03s06-01 mc-sy-mh-ca-walk-into-house_c1"         ,
+        "e03s07"     : "e03s07-11 mc-in-shock-no-reaction_c1"             ,
+
         "e04s02"     : "e04s02-66 mc-lc-end4_c1"                          ,
         "e04s03"     : "e04s03-166 mc-kisses-sy_c1"                       ,
         "e04s04"     : "e04s04-301 a_daisyn_lockup_mc_smile"              ,
         "e04s05"     : "e04s05-94 mc-lc-sy-arj-mh-dd-walk3_c1"            ,
         "e04s06"     : "e04s06-176-lc-close-up"                           ,
         "e04s07"     : "e04s07-233 lc-yes-mc-good-girl_c1"                ,
+
+        "e05s01"     : "e05s01-107 mc_take_off_pants"                     ,
+        "e05s02"     : "e05s02-187 mc-leans-kisses-op-cheek_c1"           ,
+        "e05s04"     : "e05s04-56 mc-mh-op-stand4_c2"                     ,
+        "e05s05"     : "e05s05-38 mc-op-mh-end2_c2"                       ,
+        "e05s06"     : "e05s06-79 mc-mh-walk2_c1"                         ,
+        "e05s07"     : "e05s07-62 mc-op-mh-walk3_c2"                      ,
 
         "e06s02"     : "e06s02-299 min_on_back_msnry_mc_talk"             ,
         "e06s03"     : "e06s03-185 mc-cums-inside-arj_c1"                 ,
@@ -104,6 +116,12 @@ init python:
         "e08s06"     : "e08s06-102-after-montage"                         ,
         "e08s07"     : "e08s07-141 sy-wishes-good-night_c1"               ,
         "e08s07a"    : "e08s07-164 mc-readies-arj-for-cumshot_c1"         ,
+
+        "e09s01"     : "e09s01-02 sy-intensly-does-computers_c1"          ,
+        "e09s03"     : "e09s03-137 rebuilding_the_brand_sy_lick"          ,
+        "e09s04"     : "e09s04-01 mc-lo-hr-walk_c1"                       ,
+        "e09s05"     : "e09s05-74 party_prep_mc_hana_arrive_sy_talk"      ,
+        "e09s07"     : "e09s07-08-02 mc-positions-lo_c1"                  ,
 
         "e10s01"     : "e10s01-96 mc-mes-leave-park-gurry_c1"             ,
         "e10s03"     : "e10s03-71 mc-breathes-out_c1"                     ,
@@ -133,6 +151,18 @@ init python:
         "e14s06"     : "e14s06-360 i_fought_the_law_mc_looks_talks"       ,
         "e14s07"     : "e14s07-113 mc-joing-nk-asking-what-he-doing_c1"   ,
 
+        "e15s01"     : "e15s01-251 morning_with_min_mes_talk_sy_chase"    ,
+        "e15s03"     : "e15s03-151 onboarding_olivia_end_mc_talk"         ,
+        "e15s04"     : "e15s04-52 mc-om-pass_c1"                          ,
+        "e15s05"     : "e15s05-129 everyone-pee-sy-anim_c2"               ,
+        "e15s06"     : "e15s06-110 mc-ask-os-how-doing-os-so-so-good_c1"  ,
+
+        "e16s01"     : "e16s01-172-jf-talk-mc"                            ,
+        "e16s04"     : "e16s04-141 kv-leave-room_c1"                      ,
+        "e16s05"     : "e16s05-185 jf-tells-mc-earned-it-love_c1"         ,
+        "e16s06"     : "e16s06-211 moo_meow_mc_talk_look"                 ,
+        "e16s07"     : "e16s07-159 mc-relaxes-end-scene_c1"               ,
+
         "e17s01a"    : "e17s01_01_mc_talk"                                ,
         "e17s01"     : "e17s01_153_hotel_bedroom_cum_dw_talk"             ,
         "e17s02"     : "e17s02-191 dw-heads-out-mc-follows-her_c1"        ,
@@ -140,6 +170,11 @@ init python:
         "e17s04"     : "e17s04_224 la_catastrofe_hospital_mc_curious"     ,
         "e17s05"     : "e17s05-103 mc-dw-both-elated-thank-warden_c1"     ,
         "e17s06"     : "e17s06-124 mc-dw-fall-asleep-end-scene_c1"        ,
-    }
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+        "e18s01"     : "e18s01-111 mc-pb-sb-dw-stand_c1"                  ,
+        "e18s03"     : "e18s03-256 sb-now-go-mc-yes-queen_c1"             ,
+        "e18s04"     : "e18s04-184 sb-good-get-cleaned-up-dw-yeah_c1"     ,
+        "e18s05"     : "e18s05-80 mc-sb-walk_c1"                          ,
+        "e18s07"     : "e18s07-219 sb-got-life-she-wanted-mc-too_c1"      ,
+    }
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

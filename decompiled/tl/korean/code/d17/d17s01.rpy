@@ -1,6 +1,4 @@
 
-
-
 translate korean d17s01_918de26a:
 
 
@@ -1735,5 +1733,4 @@ translate korean strings:
 
     old "Decline"
     new "거절한다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

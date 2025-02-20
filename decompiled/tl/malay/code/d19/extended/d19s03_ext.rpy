@@ -1,11 +1,8 @@
 
-
-
 translate malay d19s03_ext_3960feb0:
 
 
     mc "Oh, sebelum kau pergi, kau tak kesah kalau aku duduk sini selepas mendapatkan barang aku?"
-
 
 
 translate malay d19s03_ext_50687228:
@@ -1046,5 +1043,4 @@ translate malay strings:
 
     old "Jerk off Lyssa"
     new "Lancapkan Lyssa"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

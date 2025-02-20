@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -1126,104 +1124,105 @@ translate turkish strings:
     old "Parsing the script failed."
     new "Komut dosyası ayrıştırılamadı."
 
-
-
 translate turkish strings:
 
 
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Erişilebilirlik Menüsü. Gezinmek için yukarı ve aşağı okları kullanın ve düğmeleri ve çubukları etkinleştirmek için enter tuşuna basın."
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "Dokunmatik ekran kullanırken kendi kendine seslendirme desteği sınırlıdır."
 
 
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "Daha fazla dönüşüm eklemek için director.transforms dosyasını özelleştirin."
 
 
     old "Click to set."
-    new "Click to set."
+    new "Ayarlamak için tıklayın."
 
 
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "Daha fazla geçiş eklemek için director.transitions öğesini özelleştirin."
 
 
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "Daha fazla kanal eklemek için director.audio_channels öğesini özelleştirin."
 
 
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "Kaldığınız yerden devam etmek istediğinizden emin misiniz?"
 
 
     old "self voicing enable"
-    new "self voicing enable"
+    new "kendi kendine seslendirme etkin"
 
 
     old "self voicing disable"
-    new "self voicing disable"
+    new "kendi kendine seslendirme devre dışı"
 
 
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "pano seslendirme etkinleştir"
 
 
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "pano seslendirme devre dışı"
 
 
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "Hata ayıklama seslendirme etkinleştirme"
 
 
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "hata ayıklama seslendirme devre dışı"
 
 
     old "restore window position"
-    new "restore window position"
+    new "pencere konumunu geri yükle"
 
 
     old "reset"
-    new "reset"
+    new "sıfırla"
 
 
     old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
+    new "(tutulan baloncukları temizle)"
 
 
     old "No update methods found."
-    new "No update methods found."
+    new "Güncelleme yöntemi bulunamadı."
 
 
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "Dosya listesi indirilemedi: "
 
 
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "Dosya listesi özeti eşleşmiyor."
 
 
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "Oyun verileri indirilmeye hazırlanıyor."
 
 
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "Oyun verileri indiriliyor."
 
 
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "Oyun verileri indirildi."
 
 
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "Oyun verilerini indirmeye çalışırken bir hata oluştu:"
 
 
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "Oyun verileri indirilene kadar bu oyun çalıştırılamaz."
 
 
     old "Retry"
-    new "Retry"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "Yeniden Dene"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

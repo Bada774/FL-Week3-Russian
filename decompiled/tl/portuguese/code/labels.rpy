@@ -1,6 +1,4 @@
 
-
-
 translate portuguese after_credits_583c0fde:
 
 
@@ -612,8 +610,6 @@ translate portuguese metalknock2_40511e6c:
 
     "*toc toc*"
 
-
-
 translate portuguese strings:
 
 
@@ -691,5 +687,4 @@ translate portuguese after_credits_f4cf666b:
 
 
     sy "Mal posso esperar pra me divertir lá com você."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

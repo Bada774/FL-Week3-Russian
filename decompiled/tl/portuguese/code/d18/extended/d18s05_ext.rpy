@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate portuguese d18s05_after_sex_d36f975d:
     sb "Eu estava pensando faz um tempo."
 
 
-translate portuguese d18s05_after_sex_f26fa239:
-
-
-    sb "Eu odeio esse lugar. É uma porra duma selva de concreto. Sempre quis dar o fora daqui."
-
-
 translate portuguese d18s05_after_sex_7102ee2c:
 
 
@@ -716,4 +708,9 @@ translate portuguese strings:
     old "No"
     new "Não"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate portuguese d18s05_after_sex_ec16ba99:
+
+
+    sb ""
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

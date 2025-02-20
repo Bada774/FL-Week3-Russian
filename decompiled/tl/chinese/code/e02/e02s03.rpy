@@ -1,6 +1,4 @@
 
-
-
 translate chinese e02s03_da344b59:
 
 
@@ -837,19 +835,14 @@ translate chinese strings:
     new "太棒了"
 
 
-
-
 translate chinese e02s03_lodge_64ffe7e5:
 
 
     mh "哦，真浪漫。我是不是要被支配了...你要像野兽一样吗？"
 
 
-
-
 translate chinese e02s03_lodge_d9ce7b3b:
 
 
     mh "你能不能像绅士一样，帮我脱掉衣服？"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

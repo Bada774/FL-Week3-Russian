@@ -1,6 +1,4 @@
 
-
-
 translate korean e14s05_8dcc27fc:
 
 
@@ -653,5 +651,4 @@ translate korean e14s05_b7ce241c:
 
 
     pw "Yay!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -3,7 +3,7 @@ label d19s08:
     if not hasattr(renpy.store, "d17s05_luvutoo"):
         if d17s05_love_mh_op is True or d17s05_love_mh_sy is True or d17s05_love_mh is True:
             $ d17s05_luvutoo = True
-        elif True:
+        else:
             $ d17s05_luvutoo = False
 
     $ d19s08_mh_pic = False
@@ -125,7 +125,7 @@ label d19s08:
             mc "Yeah. She fucking hates my guts."
             queue voice2 mc_thinking_emm1 noloop
             mc "She will absolutely tank me no matter how well I— What's that sound?"
-        elif True:
+        else:
             mc "How are you doing? I know we haven't exactly been able to talk that much lately."
             scene d19s08-23 mh-turns-sideways-hand-between-thighs_c1 with dissolve
             play voice3 lissa_moan1 noloop
@@ -232,7 +232,7 @@ label d19s08:
             scene d19s08-20 talking-about-picture_c1 with dissolve
             play sound sfx_phone_ping1_remoted volume 1.5
             mc "Great—"
-        elif True:
+        else:
             scene d19s08-31 mc-continues-talking-zarah_c1 with dissolve
             play voice2 mc_thinking_hmm5 noloop
             mc "Right. Well, I was just saying that I've been...going through some stuff. Plus the exams, and it's just been a bit of a clusterfuck all around."
@@ -295,5 +295,4 @@ label d19s08:
             mc "Love you too."
 
     jump d19s09
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

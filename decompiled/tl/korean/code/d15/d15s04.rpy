@@ -1,6 +1,4 @@
 
-
-
 translate korean d15s04_a13bdd91:
 
 
@@ -265,5 +263,4 @@ translate korean strings:
 
     old "Spend time with Daisy"
     new "데이지와 시간을 보낸다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,5 +1,3 @@
-
-
 translate korean strings:
 
 
@@ -109,5 +107,4 @@ translate korean strings:
 
     old "adult magazines"
     new "adult magazines"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

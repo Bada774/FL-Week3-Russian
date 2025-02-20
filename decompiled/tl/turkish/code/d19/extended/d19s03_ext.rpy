@@ -1,6 +1,4 @@
 
-
-
 translate turkish d19s03_ext_3960feb0:
 
 
@@ -1045,5 +1043,4 @@ translate turkish strings:
 
     old "Jerk off Lyssa"
     new "Lyssa'a Masturbasyon Yap"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

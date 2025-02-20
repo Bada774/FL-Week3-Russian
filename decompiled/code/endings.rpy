@@ -20,7 +20,7 @@ label ending_03:
         call screen ending_unavailable("e03")
         pause
         jump end
-    elif True:
+    else:
         jump e03s01
 
 label ending_04:
@@ -37,7 +37,7 @@ label ending_04:
         call screen ending_unavailable("e04")
         pause
         jump end
-    elif True:
+    else:
         jump e04s01
 
 label ending_05:
@@ -54,7 +54,7 @@ label ending_05:
         call screen ending_unavailable("e05")
         pause
         jump end
-    elif True:
+    else:
         jump e05s01
 
 label ending_06:
@@ -75,7 +75,7 @@ label ending_07:
         call screen ending_unavailable("e07")
         pause
         jump end
-    elif True:
+    else:
         jump e07s01
 
 label ending_08:
@@ -96,7 +96,7 @@ label ending_09:
         call screen ending_unavailable("e09")
         pause
         jump end
-    elif True:
+    else:
         jump e09s01
 
 label ending_10:
@@ -117,7 +117,7 @@ label ending_11:
         call screen ending_unavailable("e11")
         pause
         jump end
-    elif True:
+    else:
         jump e11s01
 
 label ending_12:
@@ -134,7 +134,7 @@ label ending_12:
         call screen ending_unavailable("e12")
         pause
         jump end
-    elif True:
+    else:
         jump e12s01
 
 label ending_13:
@@ -155,7 +155,7 @@ label ending_14:
         call screen ending_unavailable("e14")
         pause
         jump end
-    elif True:
+    else:
         jump e14s01
 
 label ending_15:
@@ -172,7 +172,7 @@ label ending_15:
         call screen ending_unavailable("e15")
         pause
         jump end
-    elif True:
+    else:
         jump e15s01
 
 label ending_16:
@@ -189,7 +189,7 @@ label ending_16:
         call screen ending_unavailable("e16")
         pause
         jump end
-    elif True:
+    else:
         jump e16s01
 
 label ending_17:
@@ -206,7 +206,7 @@ label ending_17:
         call screen ending_unavailable("e17")
         pause
         jump end
-    elif True:
+    else:
         jump e17s01
 
 label ending_18:
@@ -223,12 +223,12 @@ label ending_18:
         call screen ending_unavailable("e18")
         pause
         jump end
-    elif True:
+    else:
         jump e18s01
 
 label ending_not_available(ending):
 
-    if is_steam_edition is True:
+    if is_steam_edition is True or is_gog_edition is True:
 
         $ ending_status = None
         $ get_ending_status(ending)
@@ -238,7 +238,7 @@ label ending_not_available(ending):
         elif ending_status == 3:
             "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
         "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
-    elif True:
+    else:
         "You have reached the current end of this story path. This ending will be implemented in the future."
         "Be sure to follow our Patreon to stay up to date for news."
     "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
@@ -293,4 +293,6 @@ default persistent.has_e08 = True
 default persistent.has_e10 = True
 default persistent.has_e13 = True
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+default persistent.find_lo_e09 = False
+default persistent.find_lo_e18 = False
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

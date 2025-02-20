@@ -1,6 +1,4 @@
 
-
-
 translate spanish e08s07_f90765bb:
 
 
@@ -953,5 +951,4 @@ translate spanish strings:
 
     old "You have finished playing Ending #08!"
     new "¡Terminaste de jugar al final n.º 08!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

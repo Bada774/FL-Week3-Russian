@@ -181,7 +181,7 @@ label d20s08_mc_arj:
         scene d20s08-23 mc-leans-wall-smug_c1 with dissolve
         play voice2 mc_thinking_hmm3 noloop
         mc "Well, of course we're going to delete those. Stacy cannot plan on doing anything with the blackmail-"
-    elif True:
+    else:
         arj "My photos, dumbass."
         scene d20s08-23 mc-leans-wall-smug_c1 with dissolve
         play voice2 mc_thinking_hmm3 noloop
@@ -214,7 +214,7 @@ label d20s08_mc_arj:
     play voice3 amrose_surprised_what noloop
     if is_antagonist_mode is True:
         arj "You're siding with her?! You want copies of everyone's blackmail just out there somewhere???"
-    elif True:
+    else:
         arj "You're siding with her?! You want copies of everything anyone did just out there somewhere???"
     play voice2 mc_no_no2 noloop
     mc "I didn't say that. I just don't see a reason to go behind Stacy's back like this."
@@ -223,7 +223,7 @@ label d20s08_mc_arj:
     arj "Alright. I've got an offer you can't refuse."
     if is_antagonist_mode is True:
         arj "You open the door. You delete the blackmail files."
-    elif True:
+    else:
         arj "You open the door. You delete the files."
     play voice2 mc_thinking_hmm5 noloop
     mc "Sounds like it is all work for me."
@@ -369,7 +369,7 @@ label d20s08_jumped:
     scene d20s08-50 mc-js-spar-kick-block_c1 with vpunch
     if cage_ntr is True:
         js "You should still be there!"
-    elif True:
+    else:
         js "Punkass dumbfuck."
     play voice2 mc_scared_huuuh3 noloop
     mc "When the hell did you get so good at this?"
@@ -381,7 +381,7 @@ label d20s08_jumped:
         mc "What?"
         play voice4 boy4_yes_yeah noloop
         js "When I fought you over Lydia... that was all pretend."
-    elif True:
+    else:
         js "I was distracted during our previous fight."
         play voice2 mc_scared_oh1 noloop
         mc "When you tried to rape Lydia?!"
@@ -435,7 +435,7 @@ label d20s08_server:
 
     if cage_ntr is True:
         scene d20s08-59 js-pb-both-tied-floor_c1 with Fade(0.4, 0.4, 0.4)
-    elif True:
+    else:
         scene d20s08-58 js-tied-floor_c1 with Fade(0.4, 0.4, 0.4)
     play voice3 amrose_disappointed_oh1 noloop
     arj "Well, that settles that."
@@ -446,7 +446,7 @@ label d20s08_server:
     play music music_legendary_shutdown fadein 2.5
     if cage_ntr is True:
         scene d20s08-61 sy-comes-in-sees-js-pb_c1 with dissolve
-    elif True:
+    else:
         scene d20s08-60 sy-comes-in-sees-js_c1 with dissolve
     play voice4 stacy_ah noloop
     sy "What the fuck?!"
@@ -467,7 +467,7 @@ label d20s08_server:
     play voice2 mc_arrogant_hm1 noloop
     if date_sy is True:
         mc "I'm pretty sure one of you should be sucking my cock while I'm sitting here."
-    elif True:
+    else:
         mc "AmRose - shouldn't you be sucking my dick right now?"
     play voice3 amrose_arrogant_hmm1 noloop
     arj "The deal was that we did that before Stacy got back."
@@ -482,7 +482,7 @@ label d20s08_server:
     play voice2 mc_yes_yes3 noloop
     if is_antagonist_mode is True:
         mc "Actually, yes. I need to delete the blackmail files before you do anything."
-    elif True:
+    else:
         mc "Actually, yes. I need to delete all of AmRose's files before you do anything."
     play voice4 polly_laughter noloop
     sy "Oh! It's easy."
@@ -512,7 +512,7 @@ label d20s08_server:
         arj "Wait a second..."
         play voice4 stacy_hey noloop
         sy "I swear that I will delete all the blackmail files before I do anything else."
-    elif True:
+    else:
         play voice3 amrose_happy_mmm noloop
         arj "I'm trusting you."
         scene d20s08-68 sy-promises-havent-seen-files-will-delete-them_c1 with dissolve
@@ -544,7 +544,7 @@ label d20s08_server:
     play voice4 stacy_angry noloop
     if persistent.is_special is True:
         sy "I might sneak a peek at what my brother has been doing."
-    elif True:
+    else:
         sy "I might sneak a peek at what [mcname] has been doing."
     play voice3 amrose_thinking_oh2 noloop
     arj "Oh... that's fine with me."
@@ -605,7 +605,7 @@ label d20s08_server:
     play voice4 stacy_hey noloop
     if is_antagonist_mode is True:
         sy "It's in the standard files - not the blackmail. Are you telling me you don't want to see it?"
-    elif True:
+    else:
         sy "Are you telling me you don't want a peek at that?"
     play voice3 amrose_yes_okay1 noloop
     arj "Okay, I'll admit that she is kinda hot."
@@ -667,7 +667,7 @@ label d20s08_end:
     play voice2 d1s5_mchappy noloop volume 1.5
     if d20s08_copy_files is False:
         mc "Alright, Stacy. Destroy it all."
-    elif True:
+    else:
         mc "Alright, Stacy. Is your copy finished?"
         play voice4 stacy_hmm noloop
         sy "Yup. It's done."
@@ -712,7 +712,7 @@ label d20s08_end:
     play voice3 amrose_arrogant_hmm1 noloop
     if cage_ntr is True:
         arj "So the police can arrest Pete and Jerome."
-    elif True:
+    else:
         arj "So the police can arrest Jerome."
     play voice2 mc_disappointed_off2 noloop
     mc "Oh, right. Don't send it yet, though."
@@ -751,5 +751,4 @@ label d20s08_end:
     stop sound4 fadeout 3.0
     stop music fadeout 5.0
     jump d20s09
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

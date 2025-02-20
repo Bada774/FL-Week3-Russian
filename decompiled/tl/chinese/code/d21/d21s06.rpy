@@ -1,6 +1,4 @@
 
-
-
 translate chinese d21s06_a1ce140a:
 
 
@@ -1315,48 +1313,6 @@ translate chinese d21s06_reboot_fl_00d7d5cb:
     sy "你们觉得，我们该给它取什么名字呢？"
 
 
-translate chinese d21s06_reboot_fl_334a8367:
-
-
-    sy "[fl_rebooted_name]."
-
-
-translate chinese d21s06_reboot_fl_1923ec31:
-
-
-    sy "这个名字不错。"
-
-
-translate chinese d21s06_reboot_fl_db9edca0:
-
-
-    arj "是吗？"
-
-
-translate chinese d21s06_reboot_fl_6ae37544:
-
-
-    sy "至少他没有给它取名为\"探测性癖\"。"
-
-
-translate chinese d21s06_reboot_fl_acaa56d1:
-
-
-    sy "\"探测性癖\"？真的吗???"
-
-
-translate chinese d21s06_reboot_fl_f4d2de8b:
-
-
-    mc "嘿，不喜欢的话，你就想出一个替代方案。如果你没想法，那就别抱怨。"
-
-
-translate chinese d21s06_reboot_fl_3efe3ff8:
-
-
-    sy "我什么都没说。"
-
-
 translate chinese d21s06_reboot_fl_2bad061a:
 
 
@@ -1615,12 +1571,6 @@ translate chinese d21s06_reboot_fl_e8bc5c3f:
     sy "你要把约定落实到书面上吗？"
 
 
-translate chinese d21s06_reboot_fl_6d70e240:
-
-
-    arj "好吧，好吧。我觉得你们不会像性趣探测器的开发者那样心怀恶意。"
-
-
 translate chinese d21s06_reboot_fl_e3616b15:
 
 
@@ -1649,12 +1599,6 @@ translate chinese d21s06_reboot_fl_1e4e84ed:
 
 
     sy "你能说得更具体点吗？你不希望什么事再次发生？"
-
-
-translate chinese d21s06_reboot_fl_bec7bdda:
-
-
-    arj "我说的所有弊端都不要再出现。不要有谎言、欺骗，还有操纵。"
 
 
 translate chinese d21s06_reboot_fl_d3a6634e:
@@ -1735,12 +1679,6 @@ translate chinese d21s06_reboot_fl_a0e38f39:
     arj "哦，我脸都要红了。"
 
 
-translate chinese d21s06_reboot_fl_ad278b3d:
-
-
-    sy "现在，咱们开始整理更精细的细节，讨论我们可以让哪些人参与软件的初次体验活动。"
-
-
 translate chinese d21s06_reboot_fl_8db8be57:
 
 
@@ -1757,96 +1695,6 @@ translate chinese d21s06_reboot_fl_9e70a3cd:
 
 
     mc "那我们应该先从哪里开始？"
-
-
-translate chinese d21s06_reboot_fl_0d92e239:
-
-
-    mc "你认识什么人吗？认识投资人吗？"
-
-
-translate chinese d21s06_reboot_fl_0e58addf:
-
-
-    sy "投资人？"
-
-
-translate chinese d21s06_reboot_fl_f0aedc6b:
-
-
-    mc "嗯，为了创业，必须要有几个投资人，不是吗？"
-
-
-translate chinese d21s06_reboot_fl_3da9e714:
-
-
-    sy "一开始，我在想在开公司之前，咱们先打造内容。"
-
-
-translate chinese d21s06_reboot_fl_018cbf7d:
-
-
-    sy "建立声誉，你知道吧？"
-
-
-translate chinese d21s06_reboot_fl_192c5851:
-
-
-    mc "那叫营销。"
-
-
-translate chinese d21s06_reboot_fl_e45dc7f1:
-
-
-    sy "对，但别忘了，我们就是品牌。我们就是公司。所以我们需要开始考虑咱们可以拍的电影，然后组建公司。"
-
-
-translate chinese d21s06_reboot_fl_3acfcab7:
-
-
-    mc "法律意义上真正的公司。"
-
-
-translate chinese d21s06_reboot_fl_4e12a8be:
-
-
-    sy "是的。"
-
-
-translate chinese d21s06_reboot_fl_a3a5f868:
-
-
-    sy "我们来想一下软件的名字。"
-
-
-translate chinese d21s06_reboot_fl_91c8e45d:
-
-
-    mc "有什么想法吗？"
-
-
-translate chinese d21s06_reboot_fl_2af34ea1:
-
-
-    sy "我去煮点咖啡，我们可以多讨论一下。"
-
-
-translate chinese d21s06_reboot_fl_e5455d01:
-
-
-    sy "叫“史黛西的约炮区”，怎么样？"
-
-
-translate chinese d21s06_reboot_fl_69033c5a:
-
-
-    sy "或者“测测”怎么样。和那个约会软件一样，只不过我把叠音换成了测测。"
-
-
-translate chinese d21s06_reboot_fl_593599a5:
-
-
-    mc "我们问问爱洛丝。"
 
 
 translate chinese d21s06_no_fl_2cd1dfd8:
@@ -1931,18 +1779,6 @@ translate chinese d21s06_no_fl_6ec24262:
 
 
     sy "好吧。"
-
-
-translate chinese d21s06_no_fl_0772c775:
-
-
-    arj "[mcname]，你想和我一起吗？"
-
-
-translate chinese d21s06_no_fl_72d3767e:
-
-
-    mc "哦，我想和史黛西谈谈来着。你要我送你去吗？"
 
 
 translate chinese d21s06_no_fl_db3325ec:
@@ -2131,42 +1967,6 @@ translate chinese d21s06_waterfall_4e10ecd5:
     arj "嗯，如果它真的很快的话。"
 
 
-translate chinese d21s06_waterfall_fabbae7d:
-
-
-    sy "你想谈什么？"
-
-
-translate chinese d21s06_waterfall_3c70276f:
-
-
-    mc "既然我们的话题是创业，我还真有个提议。"
-
-
-translate chinese d21s06_waterfall_a0ae5ef0:
-
-
-    arj "我说过了，我对性趣探测器不感兴趣！"
-
-
-translate chinese d21s06_waterfall_301468b6:
-
-
-    mc "不是那个，我发誓。"
-
-
-translate chinese d21s06_waterfall_6c8a3e95:
-
-
-    sy "那你说的这个生意，是什么？业务在这里吗？"
-
-
-translate chinese d21s06_waterfall_ea280ad5:
-
-
-    mc "不完全是。将会在一个完全不同的方向。东方而不是西方。"
-
-
 translate chinese d21s06_waterfall_7ef67f79:
 
 
@@ -2239,12 +2039,6 @@ translate chinese d21s06_waterfall_6612d04c:
     mes "你可能已经注意到，[mcname]和我都很喜欢这种类型的东西。"
 
 
-translate chinese d21s06_waterfall_eeb65300:
-
-
-    sy "嗯，之前你们聚会上的主活动就是一个很大的暗示。"
-
-
 translate chinese d21s06_waterfall_7d45ad20:
 
 
@@ -2257,46 +2051,10 @@ translate chinese d21s06_waterfall_ffe2788e:
     mes "我们在考虑组建一个健康水疗中心。"
 
 
-translate chinese d21s06_waterfall_a1e01b67:
-
-
-    mes "你喜欢潮吹，对吗？"
-
-
-translate chinese d21s06_waterfall_17c9a9d8:
-
-
-    sy "没你那么喜欢。"
-
-
 translate chinese d21s06_waterfall_b11d2580:
 
 
     mes "在我们深入讨论之前，我想听听你的意见。这是你真正想做的事吗？"
-
-
-translate chinese d21s06_waterfall_d31e043e:
-
-
-    sy "我们是这么称呼它的吗？"
-
-
-translate chinese d21s06_waterfall_2ece8a99:
-
-
-    mes "人们在寻找一种能满足他们性幻想的体验，而我们就是来为他们提供这种体验的。"
-
-
-translate chinese d21s06_waterfall_ebab741e:
-
-
-    mc "在水疗中心？"
-
-
-translate chinese d21s06_waterfall_fdcf3625:
-
-
-    mes "对。"
 
 
 translate chinese d21s06_waterfall_9705fa57:
@@ -2395,24 +2153,6 @@ translate chinese d21s06_wellness_spa_8519df16:
     mes "直到他们满意为止。"
 
 
-translate chinese d21s06_wellness_spa_a14fb21a:
-
-
-    arj "具体什么服务？"
-
-
-translate chinese d21s06_wellness_spa_da2002db:
-
-
-    sy "直到他们满意为止，明刚告诉你。"
-
-
-translate chinese d21s06_wellness_spa_f308289e:
-
-
-    arj "对。"
-
-
 translate chinese d21s06_wellness_spa_690198d9:
 
 
@@ -2435,60 +2175,6 @@ translate chinese d21s06_wellness_spa_8da06c74:
 
 
     mes "还不止呢。"
-
-
-translate chinese d21s06_wellness_spa_626aaba9:
-
-
-    sy "好酒不怕巷子深；我们靠口碑宣传？"
-
-
-translate chinese d21s06_wellness_spa_74b1c957:
-
-
-    mes "都可以啊。人们可以付费享受香草式的水疗体验。"
-
-
-translate chinese d21s06_wellness_spa_c4ca3301:
-
-
-    mes "他们根本不知道隔壁发生了什么。"
-
-
-translate chinese d21s06_wellness_spa_bea752a5:
-
-
-    mes "只有当你选择和我们一起体验时，才会发现。"
-
-
-translate chinese d21s06_wellness_spa_82dc0057:
-
-
-    mes "所有人都会找到乐子。这个口号是我想出来的。你们觉得怎么样？"
-
-
-translate chinese d21s06_wellness_spa_3545488f:
-
-
-    mc "有点干巴巴的。"
-
-
-translate chinese d21s06_wellness_spa_40d0b7e7:
-
-
-    mes "这就是重点，干巴巴的口号，爽到飞起的水疗体验。"
-
-
-translate chinese d21s06_wellness_spa_9c3827ac:
-
-
-    mc "相比于我们的目的，这口号是不是有点，太...深奥了？"
-
-
-translate chinese d21s06_wellness_spa_907f9b61:
-
-
-    arj "我喜欢？...与非传统主题形成鲜明对比。"
 
 
 translate chinese d21s06_wellness_spa_5ea4823b:
@@ -2539,18 +2225,6 @@ translate chinese d21s06_wellness_spa_8fbe034e:
     mes "要么这个，要么是喷疗中心。那个可能太明显了。"
 
 
-translate chinese d21s06_wellness_spa_30f17f59:
-
-
-    mes "如果有替代选择，你可以在将来再想几个。"
-
-
-translate chinese d21s06_wellness_spa_20f6652d:
-
-
-    mes "现在大家只是讨论。"
-
-
 translate chinese d21s06_wellness_spa_ebbfb5a8:
 
 
@@ -2563,202 +2237,10 @@ translate chinese d21s06_wellness_spa_08f69221:
     mes "可以通过注资让它运转起来。我们在校园里认识的有些人，他们也做了类似的事。贷款之类的。"
 
 
-translate chinese d21s06_wellness_spa_936da8a3:
-
-
-    arj "你的信用评分怎么样？"
-
-
-translate chinese d21s06_wellness_spa_81c2261b:
-
-
-    mc "问我？我连住的地方都找不到。"
-
-
-translate chinese d21s06_wellness_spa_41e3722b:
-
-
-    arj "确实。但我不是问你。我是问明。"
-
-
-translate chinese d21s06_wellness_spa_080a4b24:
-
-
-    mes "我的信用评分？还可以。但就像我说的，投资者会帮上大忙。可能要费点力，但获得资金并不是我们的主要目标。"
-
-
-translate chinese d21s06_wellness_spa_20ebb525:
-
-
-    mes "我们的主要目标是温泉。"
-
-
 translate chinese d21s06_wellness_spa_39ad58cf:
 
 
     sy "呃，听起来很复杂。"
-
-
-translate chinese d21s06_wellness_spa_5563f226:
-
-
-    arj "是的。"
-
-
-translate chinese d21s06_wellness_spa_26ee5270:
-
-
-    mc "说实话，你们关注错了。与其说水疗中心是一项水上运动业务。"
-
-
-translate chinese d21s06_wellness_spa_50bfa3fd:
-
-
-    mc "倒更像是一个组建中国皇室后宫的借口。"
-
-
-translate chinese d21s06_wellness_spa_378f0c06:
-
-
-    mes "我是韩国人。"
-
-
-translate chinese d21s06_wellness_spa_5506f6cf:
-
-
-    mc "我知道，只是按中国的说法就这么叫。"
-
-
-translate chinese d21s06_wellness_spa_14702122:
-
-
-    mes "我以为后宫是个阿拉伯语单词。"
-
-
-translate chinese d21s06_wellness_spa_54288f40:
-
-
-    mc "可能是，但是，呃..."
-
-
-translate chinese d21s06_wellness_spa_23cdc614:
-
-
-    mc "算了吧，我刚才说什么了？"
-
-
-translate chinese d21s06_wellness_spa_c0683fe6:
-
-
-    mes "你把性提升到了专业的词汇。"
-
-
-translate chinese d21s06_wellness_spa_e1acbb60:
-
-
-    mc "不是关于性的吗？"
-
-
-translate chinese d21s06_wellness_spa_36a29d41:
-
-
-    mes "不是，水疗中心是专业经营。它只是会有一些额外功能。"
-
-
-translate chinese d21s06_wellness_spa_e4b4e4a6:
-
-
-    mc "嘿，我们这里也有后宫。"
-
-
-translate chinese d21s06_wellness_spa_d461c933:
-
-
-    sy "你想搬到别的地方吗？"
-
-
-translate chinese d21s06_wellness_spa_1bf1e07c:
-
-
-    mc "我不确定。明，你想在亚洲开展业务吗？"
-
-
-translate chinese d21s06_wellness_spa_b5098d8a:
-
-
-    mes "不，我们所提议的水疗中心在亚洲不会被通过的。"
-
-
-translate chinese d21s06_wellness_spa_a31340dd:
-
-
-    mc "真的吗？"
-
-
-translate chinese d21s06_wellness_spa_2da98b91:
-
-
-    mc "我不是这个意思。"
-
-
-translate chinese d21s06_wellness_spa_93902784:
-
-
-    mc "好吧，那就在这附近的某个地方开展业务。在一个合法的地方。"
-
-
-translate chinese d21s06_wellness_spa_efefd519:
-
-
-    sy "投资人是谁？如果你不介意我问的话。"
-
-
-translate chinese d21s06_wellness_spa_115dbcaf:
-
-
-    mes "这个我们还没有决定。我们所决定的是要带谁来。"
-
-
-translate chinese d21s06_wellness_spa_7454332c:
-
-
-    mc "实际上，我们有个目标清单。"
-
-
-translate chinese d21s06_wellness_spa_2cd4c788:
-
-
-    mc "只要让他们同意加入进来就行了。"
-
-
-translate chinese d21s06_wellness_spa_9bd64567:
-
-
-    mes "希望你有想法了。我要先挂了。"
-
-
-translate chinese d21s06_wellness_spa_a437bdda:
-
-
-    mes "再见。"
-
-
-translate chinese d21s06_wellness_spa_2924e892:
-
-
-    sy "所以你真的要做这个？"
-
-
-translate chinese d21s06_wellness_spa_85107a33:
-
-
-    sy "如果你确定这能行，我就和你一起去。因为这是个严肃的人生决定。"
-
-
-translate chinese d21s06_wellness_spa_4dc9a4dc:
-
-
-    mc "我愿意试试看！"
 
 translate chinese strings:
 
@@ -2786,4 +2268,99 @@ translate chinese strings:
     old "No, I have to give it more thought."
     new "不，我得再考虑一下。"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate chinese d21s06_waterfall_0992f61d:
+
+
+    mc "是的。我想和你一起做这件事，明。"
+
+
+translate chinese d21s06_wellness_spa_2ece8a99:
+
+
+    mes "大众在寻找一种能满足他们性幻想的体验，而我们就是来为他们提供这种体验的。"
+
+
+translate chinese d21s06_wellness_spa_8a7edf54:
+
+
+    mes "大众在寻找一种能满足他们性幻想的体验，而我们就是来为他们提供这种体验的。"
+
+
+translate chinese d21s06_wellness_spa_699caa95:
+
+
+    arj "会的。很抱歉[mcname]，我不能加入你们。至少现在不行。"
+
+
+translate chinese d21s06_wellness_spa_c425dcb9:
+
+
+    arj "我要完成大学学业。"
+
+
+translate chinese d21s06_wellness_spa_43c9e2c9:
+
+
+    mes "可以理解。但你还在，对吧[mcname] ？"
+
+
+translate chinese d21s06_wellness_spa_5844ae44:
+
+
+    mc "当然了。"
+
+
+translate chinese d21s06_wellness_spa_591bfaae:
+
+
+    mes "很好。那我就继续做计划了。"
+
+
+translate chinese d21s06_wellness_spa_dbcc212b:
+
+
+    mes "你应该过来，我们可以开始讨论细节问题了。"
+
+
+translate chinese d21s06_wellness_spa_546d00c0:
+
+
+    mc "我马上就到。"
+
+
+translate chinese d21s06_reboot_fl_6d5e9610:
+
+
+    mc "就叫它{w} {b}重启之性趣探测器吧！{/b}"
+
+
+translate chinese d21s06_reboot_fl_304163ca:
+
+
+    sy "我喜欢。"
+
+
+translate chinese d21s06_reboot_fl_b23fc0ce:
+
+
+    arj "完美。重点突出，通俗易懂。"
+
+
+translate chinese d21s06_reboot_fl_d0e75550:
+
+
+    arj "好吧，好吧。我不认为你们像莉迪亚那样怀有恶意。"
+
+
+translate chinese d21s06_reboot_fl_82e617fe:
+
+
+    arj "注意我所说的不能突破的底线。不能有谎言、欺骗和操纵。"
+
+
+translate chinese d21s06_reboot_fl_041fcc70:
+
+
+    sy "现在，让我们开始整理一些更详细的细节，比如我们可以引进的第一批人是谁。"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

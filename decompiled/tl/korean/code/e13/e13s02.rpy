@@ -1,16 +1,8 @@
 
-
-
 translate korean e13s02_0ccad110:
 
 
     nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
-
-
-translate korean e13s02_0d80f13c:
-
-
-    "Customer" "Aww, but…"
 
 
 translate korean e13s02_8e6b9eae:
@@ -125,12 +117,6 @@ translate korean replay_e13s02_f38ec24d:
 
 
     mc "Hey, it's alright. You don't have to push yourself."
-
-
-translate korean replay_e13s02_25cd8572:
-
-
-    nk "Actually… You know what? Sit down."
 
 
 translate korean replay_e13s02_a53c11d8:
@@ -376,4 +362,15 @@ translate korean strings:
     old "Fuck Her Anally"
     new "Fuck Her Anally"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate korean e13s02_e5e5853b:
+
+
+    "Customer" "Aww, but..."
+
+
+translate korean replay_e13s02_e2a7aa61:
+
+
+    nk "Actually... You know what? Sit down."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

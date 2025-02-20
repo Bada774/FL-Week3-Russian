@@ -1,6 +1,4 @@
 
-
-
 translate chinese e12s02_328a43e8:
 
 
@@ -983,5 +981,4 @@ translate chinese strings:
 
     old "Next day at the hotel gym"
     new "第二天在酒店健身房"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

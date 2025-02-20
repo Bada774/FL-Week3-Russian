@@ -12,7 +12,7 @@ label e11_menu_jump:
 
     if mcname == "Charlie" or mcname == "Charles":
         $ d17s06_teddy_name  = _("Xander")
-    elif True:
+    else:
         $ d17s06_teddy_name  = _("Charlie")
     $ d19s04_dd_black = False
     $ d19s04_dd_odd = False
@@ -102,7 +102,7 @@ label e11s01:
     mc "Speaking of studying! How is University?"
     scene e11s01-17-ly-talk-mc with dissolve
     play voice3 girl28_happy_great2 noloop
-    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
+    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
     scene e11s01-18-mc-talk-ly with dissolve
     play voice2 mc_happy_thatsgood noloop
     mc "That's good! Staying out of trouble?"
@@ -409,5 +409,4 @@ label e11s01:
     stop music2 fadeout 3.0
     $ renpy.music.set_volume(0.0, 3.0, "sound3")
     jump e11s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

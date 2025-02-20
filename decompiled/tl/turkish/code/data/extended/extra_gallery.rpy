@@ -1,5 +1,3 @@
-
-
 translate turkish strings:
 
 
@@ -366,4 +364,125 @@ translate turkish strings:
     old "APPY"
     new "APPY"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate turkish strings:
+
+
+    old "Finish Ending 4 and Ending 7"
+    new "Son 4 ve Son 7'yi bitirin"
+
+
+    old "36. Don't threaten me with a good time"
+    new "36. Beni iyi vakit geçirmekle tehdit etme"
+
+
+    old "Finish all 6 Endings from DLC-2"
+    new "DLC-2'deki 6 Sonun tamamını bitirin"
+
+
+    old "37. I saw, I came, I conquered"
+    new "37. Gördüm, geldim, fethettim"
+
+
+    old "Have all Characters in last orgy in Ending 9"
+    new "Son 9'da tüm Karakterlerin son seks partisine katılmasını sağlayın"
+
+
+    old "38. Golden Pass"
+    new "38. Altın Geçiş"
+
+
+    old "Have all Characters in Ending 15"
+    new "Tüm Karakterlerin Son 15'te olması"
+
+
+    old "39. She belongs in a museum"
+    new "39. O bir müzeye ait"
+
+
+    old "Find golden Lyssa (Ending 3)"
+    new "Altın Lyssa'yı bulun (Son 3)"
+
+
+    old "40. Do the Pulp Fiction Thing"
+    new "40. Pulp Fiction Şeyini Yap"
+
+
+    old "Do the pulp fiction thing (Ending 18)"
+    new "Pulp fiction şeyini yap (18. Son)"
+
+
+    old "41. Backdoor Cat Girl"
+    new "41. Arka Kapı Kedi Kız"
+
+
+    old "Backdoor Cat Girl (Ending 16)"
+    new "Arka Kapı Kedi Kız (16. Son)"
+
+
+    old "42. Pee Bootcamp"
+    new "42. Pee Bot Kampı"
+
+
+    old "Begin Olivia's Training"
+    new "Olivia'nın Eğitimine Başlayın"
+
+
+    old "43. Choo-choo"
+    new "43. Choo-choo"
+
+
+    old "Choo-choo (Ending 5)"
+    new "Choo-choo (5. Son)"
+
+
+    old "44. Londyn Twice"
+    new "44. Londyn İki Kez"
+
+
+    old "Meet Londyn in Ending 9 and Ending 18"
+    new "Son 9 ve Son 18'de Londyn ile tanışın"
+
+
+    old "45. I've seen all the possible outcomes"
+    new "45. Tüm olası sonuçları gördüm."
+
+
+    old "Finish all 18 Endings"
+    new "18 Sonun tamamını bitir"
+
+
+    old "SPIT ON THAT THANG!"
+    new "TÜKÜR O ŞEYIN ÜSTÜNE!"
+
+
+    old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "HERKESI YENI SÜSLÜ SPA'NIZA GETIRMEYI BAŞARDIĞINDA"
+
+
+    old "Fucking\na girl"
+    new "Sikik\na kız"
+
+
+    old "Fucking\na catgirl"
+    new "Sikik\na kedikız"
+
+
+    old "Hard to\nswallow\npills"
+    new "Yutması\nzor\nhaplar"
+
+
+    old "He will never\nrun out of pee"
+    new "Çişi asla\nbitmeyecek."
+
+
+    old "NEXT STOP"
+    new "SONRAKİ DURAK"
+
+
+    old "PENETRATION STATION"
+    new "PENETRASYON ISTASYONU"
+
+
+    old "They don't know that\nI appear in two endings"
+    new "Bunu bilmiyorlar\nİki sonda görünüyorum"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

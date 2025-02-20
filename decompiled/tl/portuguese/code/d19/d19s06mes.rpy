@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d19s06mes_3f591a4b:
 
 
@@ -1135,8 +1133,6 @@ translate portuguese d19s06mes_ac9adf42:
     mes "Não me diverti tanto assim desde que ela foi no quarto Pandora."
 
 
-
-
 translate portuguese d19s06mes_a19ae317:
 
 
@@ -1153,5 +1149,4 @@ translate portuguese strings:
 
     old "Do you want to see watersports?"
     new "Você quer ver conteúdo com urina?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

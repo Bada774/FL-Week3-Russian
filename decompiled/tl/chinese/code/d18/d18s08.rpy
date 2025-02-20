@@ -1,6 +1,4 @@
 
-
-
 translate chinese d18s08_2004fe1c:
 
 
@@ -269,5 +267,4 @@ translate chinese d18s08_a2f0bfe0:
 
 
     hr "我们去找新教授吧。没时间可以浪费了。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

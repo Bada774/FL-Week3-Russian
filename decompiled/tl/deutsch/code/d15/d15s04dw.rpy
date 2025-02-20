@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d15s04dw_4290d7de:
 
 
@@ -1071,5 +1069,4 @@ translate deutsch strings:
 
     old "Let the girls think it was entirely up to them"
     new "Lass sie denken es war alles ihr verdienst"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,5 +1,3 @@
-
-
 translate deutsch strings:
 
 
@@ -1126,8 +1124,6 @@ translate deutsch strings:
     old "Parsing the script failed."
     new "Parsing the script failed."
 
-
-
 translate deutsch strings:
 
 
@@ -1226,4 +1222,9 @@ translate deutsch strings:
     old "Retry"
     new "Retry"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate deutsch strings:
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

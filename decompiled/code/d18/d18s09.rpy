@@ -317,7 +317,7 @@ label d18s09_continue:
     mct "I guess I came a lot and that impressed her."
     if is_antagonist_mode is False:
         mct "Although, this might be the person behind Fetish Locator and the VIP Program."
-    elif True:
+    else:
         mct "Although, this might be the bitch behind Fetish Locator and the Retention Program."
     mc "You like the taste?"
     cf "Mmmfffffmmm."
@@ -485,7 +485,7 @@ label d18s09_continue:
     mc "Honestly, I won't say anything.{w} It might be on Fetish Locator, but I don't think..."
     if is_antagonist_mode is False:
         mc "Well, I hope the app won't identify you or give any information that could."
-    elif True:
+    else:
         mc "Well, I hope the app won't demand anything of you."
     scene d18s09-33 cf-speak7_c1 with dissolve
     play voice3 claudie_hey_simple noloop
@@ -578,5 +578,4 @@ label d18s09_stop:
 
     stop music fadeout 3.5
     jump d18s10
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -40,7 +40,7 @@ label d16s09_nk_end hide:
     if cockcage_released is True:
         play voice2 mc_yes_yeah2 noloop
         mc "Yep"
-    elif True:
+    else:
         play voice2 mc_thinking_mmm3 noloop
         mc "I need your help with something."
         scene d16s09-003 with dissolve
@@ -144,5 +144,4 @@ label d16s09_nk_end hide:
 label ending_13_return:
 
     jump d16s10
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

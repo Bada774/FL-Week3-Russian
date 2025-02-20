@@ -1,6 +1,4 @@
 
-
-
 translate italian e08s02_bc4608e2:
 
 
@@ -2365,5 +2363,4 @@ translate italian strings:
 
     old "I'd rather not"
     new "Preferirei di no"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

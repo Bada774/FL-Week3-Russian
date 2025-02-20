@@ -1,6 +1,4 @@
 
-
-
 translate korean d16s09_8b63c9a4:
 
 
@@ -183,5 +181,4 @@ translate korean strings:
 
     old "Go to AmRose's House"
     new "앰로즈의 집으로 간다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

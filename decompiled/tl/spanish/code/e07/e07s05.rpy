@@ -1,6 +1,4 @@
 
-
-
 translate spanish e07s05_eb4dfcb0:
 
 
@@ -1508,7 +1506,7 @@ translate spanish strings:
 
 
     old "Door Number Two"
-    new "Puerta numero dos"
+    new "Puerta número dos"
 
 
     old "Door Number Three"
@@ -1521,5 +1519,4 @@ translate spanish strings:
 
     old "Clean [e07_lcname!t]"
     new "Limpiar a [e07_lcname!t]"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

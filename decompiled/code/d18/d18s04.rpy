@@ -137,7 +137,7 @@ label d18s04:
     play voice2 mc_thinking_mmm5 noloop
     if persistent.is_special is True:
         mc "Do you want to repair the relationship with your daughter?"
-    elif True:
+    else:
         mc "Do you want to repair your relationship with Allison?"
     scene d18s04-17 mc-vw-aw-conflict-resolution with dissolve
     play voice3 chloe_yes_simple noloop
@@ -208,7 +208,7 @@ label d18s04:
     play voice3 amrose_surprised_what noloop
     if persistent.is_special is True:
         aw "What...{w} Mom?"
-    elif True:
+    else:
         aw "What...{w} Vanessa?"
     scene d18s04-38 mc-vw-aw-conflict-resolution with dissolve
     play voice3 amrose_disappointed_ehh2 noloop
@@ -241,7 +241,7 @@ label d18s04:
     play voice3 kanya_angry_hm noloop
     if persistent.is_special is True:
         aw "Hah! All these years and you had to be reduced to a blind and gagged piece of fuckmeat to actually {i}listen{/i} for one goddamn moment huh, Mom?"
-    elif True:
+    else:
         aw "Hah! All these years and you had to be reduced to a blind and gagged piece of fuckmeat to actually {i}listen{/i} for one goddamn moment huh, Vanessa?"
     scene d18s04-49 mc-vw-aw-conflict-resolution with dissolve
     play voice3 allison_pain_sniff1 noloop
@@ -250,7 +250,7 @@ label d18s04:
     scene d18s04-50 mc-vw-aw-conflict-resolution with dissolve
     if persistent.is_special is True:
         aw "*Voice shaking* Do you have any idea what that was like, Mom?"
-    elif True:
+    else:
         aw "*Voice shaking* Do you have any idea what that was like, Vanessa?"
     scene d18s04-51 mc-vw-aw-conflict-resolution with dissolve
     pause
@@ -363,7 +363,7 @@ label d18s04:
     if persistent.is_special is True:
         aw "{b}DO YOU LIKE THAT, MOM!?{/b}"
         aw "{b}BEING HUMILIATED BY YOUR OWN DAUGHTER!?{/b}"
-    elif True:
+    else:
         aw "{b}DO YOU LIKE THAT, YOU HYPOCRITICAL BITCH!?{/b}"
     scene d18s04-a5 with dissolve
     pause
@@ -505,7 +505,7 @@ label d18s04:
     vw "I'm so sorry I wasn't there when you needed me. I abandoned you."
     if persistent.is_special is True:
         vw "I'm a horrible mother."
-    elif True:
+    else:
         vw "I can't ask for forgiveness."
     vw "But I want you to know that I accept you. Fully. And I'm so, so proud of the woman you've become."
     scene d18s04-113 mc-vw-aw-conflict-resolution with dissolve
@@ -513,7 +513,7 @@ label d18s04:
     vw "I love you so much, Allison."
     if persistent.is_special is True:
         vw "Ever since I lost your father, the only thing that mattered to me was making sure that you're safe."
-    elif True:
+    else:
         vw "Ever since I saw you, the only thing that mattered to me was making sure that you're safe."
     vw "But I failed you.{w} I'm so sorry."
     play voice3 allison_pain_sniff1 noloop
@@ -571,7 +571,7 @@ label d18s04:
     play voice4 chloe_disappointed_ehh4 noloop
     if persistent.is_special is True:
         vw "There's a lot more I need to do to make it up to my little girl..."
-    elif True:
+    else:
         vw "There's a lot more I need to do to make it up to her..."
     scene d18s04-125 mc-vw-aw-conflict-resolution with dissolve
     play voice3 amrose_disappointed_ehh2 noloop
@@ -731,7 +731,7 @@ label d18s04:
     scene d18s04-154 mc-vw-aw-conflict-resolution with dissolve
     if persistent.is_special is True:
         aw "Now I want you to fuck my mother senseless."
-    elif True:
+    else:
         aw "Now I want you to fuck her senseless."
     play voice4 chloe_angry_breath noloop
     stop voice3 fadeout 1.0
@@ -982,5 +982,4 @@ label d18s04:
 
     stop music fadeout 4.5
     jump d18s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

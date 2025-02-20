@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e08s07_f90765bb:
 
 
@@ -945,18 +943,14 @@ translate portuguese strings:
     new "Gozar no rosto da sua esposa"
 
 
-
-
 translate portuguese e08s07_next_day_191559e1:
 
 
     mc "O que houve?"
-
 
 translate portuguese strings:
 
 
     old "You have finished playing Ending #08!"
     new "Você concluiu o Final #08!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,16 +1,8 @@
 
-
-
 translate italian e13s02_0ccad110:
 
 
     nk "Conosci l'accordo, Jim. Riapriremo tra poche ore per la \"Serata a microfono aperto\", ma per ora siamo chiusi."
-
-
-translate italian e13s02_0d80f13c:
-
-
-    "Cliente" "Aww, ma…"
 
 
 translate italian e13s02_8e6b9eae:
@@ -125,12 +117,6 @@ translate italian replay_e13s02_f38ec24d:
 
 
     mc "Ehi, va tutto bene. Non devi sforzarti."
-
-
-translate italian replay_e13s02_25cd8572:
-
-
-    nk "In realtà... Sai cosa? Siediti."
 
 
 translate italian replay_e13s02_a53c11d8:
@@ -376,4 +362,15 @@ translate italian strings:
     old "Fuck Her Anally"
     new "Scoparla Analmente"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate italian e13s02_e5e5853b:
+
+
+    "Customer" "Aww, but..."
+
+
+translate italian replay_e13s02_e2a7aa61:
+
+
+    nk "Actually... You know what? Sit down."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

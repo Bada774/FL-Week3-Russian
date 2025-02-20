@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d16s10_d9159219:
 
 
@@ -1381,5 +1379,4 @@ translate portuguese strings:
 
     old "Tell her how you came while she was under the table"
     new "Falar com gozou quando ela estava debaixo da mesa"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

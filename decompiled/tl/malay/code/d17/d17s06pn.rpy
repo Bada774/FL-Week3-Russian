@@ -1,6 +1,4 @@
 
-
-
 translate malay d17s06pn_9f8e2b43:
 
 
@@ -1132,12 +1130,9 @@ translate malay strings:
     old "We make a good trio"
     new "Kita bertiga memang terbaik"
 
-
-
 translate malay strings:
 
 
     old "Some time later"
     new "Kemudiannya"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

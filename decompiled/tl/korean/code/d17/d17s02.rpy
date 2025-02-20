@@ -1,6 +1,4 @@
 
-
-
 translate korean d17s02_31459df9:
 
 
@@ -815,5 +813,4 @@ translate korean strings:
 
     old "Fuck her"
     new "버네사를 박는다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

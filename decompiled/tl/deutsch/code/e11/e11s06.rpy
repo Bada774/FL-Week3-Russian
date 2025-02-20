@@ -1,6 +1,4 @@
 
-
-
 translate deutsch e11s06_1a535474:
 
 
@@ -443,5 +441,4 @@ translate deutsch e11s06_hospital_2f0a1378:
 
 
     mc "I just signed off on whatever they suggested."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

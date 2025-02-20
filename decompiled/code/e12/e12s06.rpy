@@ -176,7 +176,7 @@ label e12s06:
     "Announcer" "Wait! She's not out yet."
     play sound sfx_water_floatup1 volume 0.5
     scene e12s06-43 aw-turn-in-water with dissolve
-    "Announcer" "She's pulling ahead. That's it. Webb is crossing the finish line!"
+    "She's pulling ahead. That's it. Webb is crossing the finish line!"
     play voice3 kanya_happy_wooh noloop volume 0.3
     stop music fadeout 1.0
     scene e12s06-48 aw-finish-line with dissolve
@@ -205,7 +205,7 @@ label e12s06:
     play voice4 chloe_disappointed_ehh6 noloop
     if persistent.is_special is True:
         vw "It's fine. I just wish we could both be there for my baby girl."
-    elif True:
+    else:
         vw "I'm fine, [mcname]. I just wish we could both be there for her."
     scene e12s06-55 mc-vw-talk-reassure-happy-response with dissolve
     play voice2 mc_disappointed_off1 noloop
@@ -276,7 +276,7 @@ label replay_e12s06:
     play voice3 kanya_disappointed_oh noloop
     if persistent.is_special is True:
         aw "That's sweet, Mom."
-    elif True:
+    else:
         aw "That's sweet, Vanessa."
     aw "Still. It's been such a long time. A long... hard time..."
     scene e12s06-69-01 aw-wink-full-view with dissolve
@@ -307,7 +307,7 @@ label replay_e12s06:
     aw "You're the best, [mcname]. But I'm fine with it."
     if persistent.is_special is True:
         aw "I can watch you and Mom and imagine she's me..."
-    elif True:
+    else:
         aw "I can watch you and Vanessa and imagine she's me."
     aw "Please..."
     scene e12s06-76 mc-vw-smirk-agree with dissolve
@@ -326,7 +326,7 @@ label replay_e12s06:
     play voice3 kanya_sex_closedmoan5 noloop
     if persistent.is_special is True:
         aw "Take his clothes off, Mom. I'm sick of imagining [mcname]'s cock."
-    elif True:
+    else:
         aw "Vanessa, take his clothes off. I'm sick of imagining [mcname]'s cock."
     scene e12s06-81 mc-vw-take-off-shirt with dissolve
     play voice4 vanessa_laugh2 noloop
@@ -347,7 +347,7 @@ label replay_e12s06:
         scene e12s06-85 mc-vw-talk-alt- with dissolve
         play voice4 chloe_yes_yeah1 noloop
         vw "Only for you, naughty child of mine."
-    elif True:
+    else:
         mc "I think Vanessa is a little overdressed now."
         play voice3 allison_phoned_thinking_hmm4 noloop
         aw "Mmm. You're right. Come on, Vanessa. Join the birthday suit club."
@@ -398,7 +398,7 @@ label replay_e12s06:
     pause
     if persistent.is_special is True:
         aw "Oh fuck, Mom. You're so lucky."
-    elif True:
+    else:
         aw "That's it, Vanessa. Take all that tasty dick!"
     scene e12s06-a90-2 with dissolve
     vw "*wet gagging noises*"
@@ -413,7 +413,7 @@ label replay_e12s06:
     play voice3 allison_phoned_yes_aga3 noloop
     if persistent.is_special is True:
         aw "This is how Mom loves it. Getting forced to suck on a big fat shaft."
-    elif True:
+    else:
         aw "Fuck Vanessa. I almost forgot about what an absolute cockwhore you can be."
     pause
     scene e12s06-a90-2-f with dissolve
@@ -450,7 +450,7 @@ label replay_e12s06:
         scene e12s06-100 mc-vw-wide shot-talking-phone with dissolve
         play voice4 chloe_old_yes noloop
         vw "Yes. I've been so bad..."
-    elif True:
+    else:
         aw "Yes it does. You hear that Vanessa? [mcname] here is going to punish you."
         scene e12s06-100 mc-vw-wide shot-talking-phone with dissolve
         play voice4 chloe_disappointed_off noloop
@@ -554,7 +554,7 @@ label replay_e12s06:
     play voice4 kanya_hey_arrogant noloop
     if persistent.is_special is True:
         aw "Time to finish up with Mom, [mcname]."
-    elif True:
+    else:
         aw "I want you to finish up with Vanessa, [mcname]."
     aw "She's been so patient."
     scene e12s06-118 vw-mc-talk-vanessa-view with dissolve
@@ -566,7 +566,7 @@ label replay_e12s06:
     scene e12s06-119 vw-mc-phone-view-allison-talk with dissolve
     if persistent.is_special is True:
         aw "I haven't gotten to dominate Mom for a while."
-    elif True:
+    else:
         aw "I haven't gotten to dominate Vanessa in a while."
     scene e12s06-120 vw-mc-thinking-look-at-vanessa with dissolve
     play voice2 d1s5_mcthinks noloop volume 1.7
@@ -588,7 +588,7 @@ label replay_e12s06:
     scene e12s06-124 vw-mc-tongue-kiss-phone-perspective with dissolve
     if persistent.is_special is True:
         mct "In front of her depraved daughter to boot!"
-    elif True:
+    else:
         mct "In front of another girl no less."
     stop voice4 fadeout 1.0
     stop voice5 fadeout 1.0
@@ -615,7 +615,7 @@ label replay_e12s06:
         play voice4 chloe_angry_breath noloop
         vw "Make her feel good, watching her slut of a mom used like a disposable condom."
         aw "Oh fuck, Mom. I love you so much."
-    elif True:
+    else:
         vw "Hammer my poor pussy in front of Allison."
         play voice2 mc_angry_hm2 noloop
         scene e12s06-130 mc-vw-close-shot-bite-nipple with dissolve
@@ -764,13 +764,13 @@ label e12s06_blow_job:
     $ Lovense.vibrate(3)
     if e12s06_play_with_ass is True:
         scene e12s06-147 mc-vw-talk-both-view with dissolve
-    elif True:
+    else:
         scene e12s06-149 mc-vw-beg-talk with fade
     play voice4 chloe_disappointed_ehh4 noloop
     vw "Please let me taste you again."
     if e12s06_play_with_ass is True:
         scene e12s06-150 mc-vw-looking-at-cock-talk with fade
-    elif True:
+    else:
         scene e12s06-150 mc-vw-looking-at-cock-talk with dissolve
     vw "I want to feel your warm load spill out inside of me."
     scene e12s06-151 mc-vw-phone-perspective-allison-talk with dissolve
@@ -854,5 +854,4 @@ label e12s06_blow_job:
     $ renpy.end_replay()
 
     jump e12s07
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

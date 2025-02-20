@@ -1,5 +1,3 @@
-
-
 translate chinese strings:
 
 
@@ -65,8 +63,6 @@ translate chinese strings:
 
     old "Ending 13: Pregnant Nora"
     new "结局13：怀孕的诺拉"
-
-
 
 translate chinese strings:
 
@@ -162,8 +158,6 @@ translate chinese strings:
     old "Ending 10: Min"
     new "结局10: 明"
 
-
-
 translate chinese strings:
 
 
@@ -198,8 +192,6 @@ translate chinese strings:
     old "Ending 08: AmRose & Stacy"
     new "结局08:爱洛丝和史黛西"
 
-
-
 translate chinese strings:
 
 
@@ -209,8 +201,6 @@ translate chinese strings:
 
     old "Ending 14: Polly & Nora"
     new "结局14:波莉和诺拉"
-
-
 
 translate chinese strings:
 
@@ -222,8 +212,6 @@ translate chinese strings:
     old "Ending 17: Dahlia"
     new "结局17:黛丽娅"
 
-
-
 translate chinese strings:
 
 
@@ -234,4 +222,49 @@ translate chinese strings:
     old "Ending 07: Girls"
     new "结局07:女孩们"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate chinese strings:
+
+
+    old "Ending 05: Lyssa & Oliver"
+    new "结局05: 丽莎和奥利弗"
+
+
+    old "Ending 16: Jessie & Kanya"
+    new "结局16：杰西和康雅"
+
+
+    old "Ending 16: Farm Animals"
+    new "结局16：农场动物"
+
+translate chinese strings:
+
+
+    old "Ending 15: Girls"
+    new "结局15：女孩们"
+
+
+    old "Ending 18: Samiya & Dahlia"
+    new "结局18：萨米亚和黛丽娅"
+
+
+    old "Ending 18: Kendell & Londyn"
+    new "结局18：肯德尔和朗迪恩"
+
+
+    old "Ending 18: Four Beauties"
+    new "结局18：四个美女"
+
+translate chinese strings:
+
+
+    old "Ending 03: Girls"
+    new "结局03：女孩们"
+
+
+    old "Ending 09: Girls"
+    new "结局09：女孩们"
+
+
+    old "Ending 09: Greek Goddesses"
+    new "结局09：希腊女神"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

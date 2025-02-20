@@ -128,7 +128,7 @@ label d20s04_tl:
         play voice3 teresa_thinking_hmm3 noloop
         tl "He is talented, authoritative, well versed, and the perfect example of what our students should strive to become."
         tl "I have no further questions. He has my vote."
-    elif True:
+    else:
 
         play voice3 teresa_happy_laugh6 noloop
         tl "Well, I suggest you get comfortable, Mister Young, because we're going to be here a while."
@@ -232,7 +232,7 @@ label d20s04_rn:
         rn "He has my vote. No further questions."
 
         jump d20s04_zw
-    elif True:
+    else:
 
         rn "And he's disappeared for weeks at a time and barely paid attention - preferring to talk and distract other students."
         scene d20s04-31 rn-talking with dissolve
@@ -301,7 +301,7 @@ label d20s04_rn_qa:
         scene d20s04-32 rn-talking with dissolve
         play voice4 pete_disappointed_ehh4 noloop
         rn "Mister Young has my vote."
-    elif True:
+    else:
         rn "That was pathetic."
         rn "I expect better from even my worst students."
         scene d20s04-32 rn-talking with dissolve
@@ -321,7 +321,7 @@ label d20s04_zw:
         zw "In my opinion, [mcname] Young deserves a pass for this semester."
 
         jump d20s04_results
-    elif True:
+    else:
 
         scene d20s04-40 zw-talking with dissolve
         play voice3 chloe_arrogant_heh1 noloop
@@ -474,7 +474,7 @@ label d20s04_zw_wrong:
     elif d20s04_tl_vote is True:
         play voice4 teresa_happy_relief1 noloop
         tl "I must object!"
-    elif True:
+    else:
         play voice2 mc_surprised_what3 noloop
         mc "What?! How is that even a question?!"
     scene d20s04-28 rn-tl-zw-talking with dissolve
@@ -598,7 +598,7 @@ label d20s04_zw_wrong:
         zw "I still don't believe you.{w}"
         zw "You are a liar and do NOT have my vote."
         $ d20s04_zw_vote = False
-    elif True:
+    else:
         scene d20s04-40 zw-talking with dissolve
         play voice3 chloe_no_uhuh noloop
         zw "I don't believe you."
@@ -707,7 +707,7 @@ label d20s04_results:
         if d20s04_rn_vote is True:
             rn "No thanks needed. You earned it."
             rn "Don't let anyone tell you otherwise."
-        elif True:
+        else:
             rn "You earned it. Don't let anyone - even me - tell you that you didn't."
             rn "Although you could have worked harder...{w} and been smarter..."
 
@@ -737,7 +737,7 @@ label d20s04_results:
         scene d20s04-46 mc-talking with dissolve
         play voice2 mc_thinking_mmm3 noloop
         mct "Well, that sucks donkey ass.{w}.. but, at least I can come back and finish my degree."
-    elif True:
+    else:
 
         $ d20s04_pass_exam = False
         scene d20s04-43 zw-talking with dissolve
@@ -768,5 +768,4 @@ label d20s04_results:
 
     stop music fadeout 3.0
     jump d20s05
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate italian d18s05_ext_0d9b52ab:
 
 
@@ -571,12 +569,6 @@ translate italian d18s05_after_sex_d36f975d:
     sb "Ci pensavo da un po'."
 
 
-translate italian d18s05_after_sex_f26fa239:
-
-
-    sb "Odio questo posto. È troppo grigio. Ho sempre desiderato andarmene."
-
-
 translate italian d18s05_after_sex_7102ee2c:
 
 
@@ -716,4 +708,9 @@ translate italian strings:
     old "No"
     new "No"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate italian d18s05_after_sex_ec16ba99:
+
+
+    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -108,7 +108,7 @@ label e06s08:
         scene e06s08-03-02 mc-hears-lc-voice-from-inside-house-she-ready-but-nervous-dd-only_c1 with dissolve
     elif e06s06_mh_harem is True:
         scene e06s08-03-01 mc-hears-lc-voice-from-inside-house-she-ready-but-nervous-mh-only_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-03-03 mc-hears-lc-voice-from-inside-house-she-ready-but-nervous-no-mh-no-dd-only_c1 with dissolve
     play voice3 lydia_lydiahey_muffled noloop
     lc "I'm ready..."
@@ -234,7 +234,7 @@ label e06s08_cake:
         scene e06s08-27-02 arj-makes-joke-get-room-eveyone-laughs-dd-only_c1 with dissolve
     elif e06s06_mh_harem is True:
         scene e06s08-27-01 arj-makes-joke-get-room-eveyone-laughs-mh-only_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-27-03 arj-makes-joke-get-room-eveyone-laughs-no-dd-mh_c1 with dissolve
     play voice4 amrose_disgust_argh noloop
     arj "Get a room!"
@@ -380,7 +380,7 @@ label d06s08_sy:
         play voice2 mc_pain_mff1 noloop
         play voice4 stacy_suckmoan1 noloop
         pause
-    elif True:
+    else:
         scene e06s08-47-02-01 mc-puts-dick-sy-ass_c1 with dissolve
         $ Lovense.vibrate(5)
         play voice4 stacy_moan1 noloop
@@ -394,7 +394,7 @@ label d06s08_sy:
         $ Lovense.pattern("8;12", 1800)
         scene e06s08-a47-p-1
         pause
-    elif True:
+    else:
         play voice2 d7s4_mcbreathing volume 1.5
         play voice4 stacy_fmoans1
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -407,13 +407,13 @@ label d06s08_sy:
     if e06s08_preg_sy is True:
         scene e06s08-a47-p-2 with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-a47-a-2 with dissolve
         pause
     sy "My earliest memory, I was maybe three years old..."
     if persistent.is_special is True:
         sy "And my brother was teaching me how to use our dad's computer to play video games."
-    elif True:
+    else:
         sy "And this neighbor boy was teaching me how to play video games on his dad's computer."
     if e06s08_preg_sy is True:
         scene e06s08-a47-p-3 with dissolve
@@ -438,7 +438,7 @@ label d06s08_sy:
         $ Lovense.pattern("8;12", 900)
         scene e06s08-a47-p-1-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         $ Lovense.pattern("8;12", 900)
         scene e06s08-a47-a-1-f with dissolve
@@ -450,17 +450,17 @@ label d06s08_sy:
     play voice5 amrose_happy_mmm noloop
     if e06s06_mh_harem is True:
         scene e06s08-47-09 arj-licks-lustfully-spoon-while-toast-given_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-47-09-01 arj-licks-lustfully-spoon-while-toast-given-no-mh_c1 with dissolve
     sy "The screen shattered, then it rocked backwards a bit, and then it tumbled forward onto the floor."
     if persistent.is_special is True:
         sy "I broke down crying immediately - even before our mom started yelling."
-    elif True:
+    else:
         sy "I broke down crying immediately - even before my mom started yelling."
     play voice5 min_arrogant_hm noloop
     if e06s05_dd_harem is True:
         scene e06s08-47-10 mes-dd-watch-sy-toast_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-47-10-01 mes-dd-watch-sy-toast-no-dd_c1 with dissolve
     sy "Mom was screaming about how much that cost and how careless and stupid I was and all sorts of things."
     sy "Next thing I knew I was being hugged by [mcname]."
@@ -468,7 +468,7 @@ label d06s08_sy:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a47-p-2-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a47-a-2-f with dissolve
         pause
@@ -480,7 +480,7 @@ label d06s08_sy:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a47-p-3-f with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-47-12 sy-talks-how-sweet-mc-was-mc-thinks-he-was-corny-kid_c1 with dissolve
     play voice4 stacy_moans3
     sy "Then he said, \"But you are a good person and you are loved\"."
@@ -491,7 +491,7 @@ label d06s08_sy:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a47-p-4-f with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-47-13 sy-ending-toast-mc-fucks-her-harder_c1 with dissolve
     sy "Mom just shut up and sat down on the floor, astonished."
     sy "I dried my eyes, looked at her and said, \"I'm grounded. I'll be in my room\"."
@@ -530,7 +530,7 @@ label d06s08_sy:
     play voice4 stacy_huh noloop
     if e06s08_preg_sy is True:
         sy "Really? You know you don't have to this time."
-    elif True:
+    else:
         sy "Really? You know he came in my ass."
     play voice3 lydia_lydyes noloop
     lc "Really. I want to lick my husband's cum from your dripping hole."
@@ -540,7 +540,7 @@ label d06s08_sy:
     play voice4 stacy_suckmoan2 noloop
     if e06s08_preg_sy is True:
         scene e06s08-47-20 lc-licks-sy-pussy_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-47-21 lc-licks-sy-anus_c1 with dissolve
     pause
     scene e06s08-47-22 sy-cums-again-from-lc-eating-her_c1 with dissolve
@@ -558,7 +558,7 @@ label d06s08_sy:
 
     if e06s08_pick_sy is True:
         jump d06s08_mes
-    elif True:
+    else:
         jump d06s08_arj
 
 label d06s08_mes:
@@ -591,7 +591,7 @@ label d06s08_mes:
         $ Lovense.pattern("7;11", 1800)
         scene e06s08-a48-p-1
         pause
-    elif True:
+    else:
         scene e06s08-a48-03-01-1 mc-fucks-mes-from-behind-ass-anim-01 with dissolve
         play voice4 min_scared_ah2 noloop
         pause
@@ -607,7 +607,7 @@ label d06s08_mes:
     if e06s08_preg_mes is True:
         scene e06s08-a48-p-2 with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-a48-a-2 with dissolve
         pause
     mes "I don't know if you remember that day, but that first day a bunch of kids freaked out that they were being left behind by their parents."
@@ -616,7 +616,7 @@ label d06s08_mes:
     if e06s08_preg_mes is True:
         scene e06s08-a48-p-3 with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-a48-a-3 with dissolve
         pause
     mes "You see, we were both well on our way to being strong, independent women."
@@ -624,14 +624,14 @@ label d06s08_mes:
     mes "She had just been on a world tour with her parents' band, so her accent was from all over the place."
     if e06s06_mh_harem is True:
         scene e06s08-48-07 arj-meh-get-hot-while-mes-being-fucked_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-48-07-01 arj-meh-get-hot-while-mes-being-fucked-no-mh_c1 with dissolve
     play voice5 lissa_mmm1 noloop
     mes "Mostly it was this weird Swedish British accent."
     mes "She sounded so exotic. I knew immediately she would be the coolest person I would ever meet."
     if e06s05_dd_harem is True:
         scene e06s08-48-08 sy-dd-listen-to-toast_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-48-08-01 sy-dd-listen-to-toast-no-dd_c1 with dissolve
     play voice5 stacy_angryhuh noloop
     mes "Eventually I figured out how to talk to her. Pretty soon she asked if I knew how to tie my shoes yet."
@@ -642,7 +642,7 @@ label d06s08_mes:
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a48-p-1-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a48-a-1-f with dissolve
@@ -655,7 +655,7 @@ label d06s08_mes:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a48-p-2-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a48-a-2-f with dissolve
         pause
@@ -667,7 +667,7 @@ label d06s08_mes:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a48-p-3-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a48-a-3-f with dissolve
         pause
@@ -685,7 +685,7 @@ label d06s08_mes:
     mes "I'M CUUUummmmmMMMmiiinnggg!!!!"
     if e06s08_preg_mes is True:
         scene e06s08-48-12 mes-falls-on-table-cum-drip-recovering_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-48-12-01 mes-falls-on-table-cum-drip-recovering-anal_c1 with dissolve
     $ Lovense.vibrate(3)
     mes "Whew! That was something else."
@@ -725,7 +725,7 @@ label d06s08_mes:
     lc "It's my wedding day. You can break your rule and cum as much as you like."
     if e06s08_pick_sy is True:
         jump d06s08_arj
-    elif True:
+    else:
         jump d06s08_sy
 
 label d06s08_arj:
@@ -757,7 +757,7 @@ label d06s08_arj:
         $ Lovense.pattern("7;11", 1800)
         scene e06s08-a49-p-1
         pause
-    elif True:
+    else:
         play voice2 d7s4_mcbreathing
         play voice4 amrose_old_moaning
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -773,7 +773,7 @@ label d06s08_arj:
     if e06s08_preg_arj is True:
         scene e06s08-a49-p-2 with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-a49-a-2 with dissolve
         pause
     arj "At the time he was banging my roommate. At first I thought he was annoying, but it didn't take long to realize that I was lying to myself."
@@ -783,7 +783,7 @@ label d06s08_arj:
     if e06s08_preg_arj is True:
         scene e06s08-a49-p-3 with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-49-09 arj-didnt-start-getting-action-until-mc-dated-lc_c1 with dissolve
     arj "All the while I silently begged for him to notice me. To touch me. To fuck me. To love me."
     arj "Funnily enough, he didn't really notice me, touch me, fuck me, or love me until he finally started dating Lydia."
@@ -796,7 +796,7 @@ label d06s08_arj:
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a49-p-1-f with dissolve
         pause
-    elif True:
+    else:
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a49-a-1-f with dissolve
         pause
@@ -807,7 +807,7 @@ label d06s08_arj:
     if e06s08_preg_arj is True:
         scene e06s08-a49-p-2-f with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-49-12 sy-mes-watch-toast-as-arj-talk-about-sy-helping-her-realise-insecure-feelings_c1 with dissolve
     play voice5 min_thinking_hmm3 noloop
     arj "I realized that while Stacy was talking. When she spoke about how he reacted when she broke the television."
@@ -816,7 +816,7 @@ label d06s08_arj:
     if e06s08_preg_arj is True:
         scene e06s08-a49-p-3-f with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-a49-a-2-f with dissolve
         pause
     arj "I've never really known that before - and that's what has always attracted me to [mcname]."
@@ -835,7 +835,7 @@ label d06s08_arj:
     elif e06s06_mh_harem is True:
         scene e06s08-49-14-02 mh-watch-arj-tells-feeling-love-for-entire-harem_c1 with dissolve
         play voice5 daisy_hmm1 noloop
-    elif True:
+    else:
         scene e06s08-49-12 sy-mes-watch-toast-as-arj-talk-about-sy-helping-her-realise-insecure-feelings_c1 with dissolve
         play voice5 stacy_hmm noloop
     arj "And I feel that for all of you."
@@ -924,7 +924,7 @@ label d06s08_dd:
     dd "Looks like it's my turn!"
     if e06s06_mh_harem is True:
         scene e06s08-50-02 dd-asks-how-mc-wants-her_c1 with dissolve
-    elif True:
+    else:
         scene e06s08-50-02-01 dd-asks-how-mc-wants-her-no-mh_c1 with dissolve
     play voice4 daisy_hmm2 noloop
     dd "Wreck me, [mcname]. Which way would you like me?"
@@ -946,7 +946,7 @@ label d06s08_dd:
         $ Lovense.pattern("7;11", 1800)
         scene e06s08-a50-p-2
         pause
-    elif True:
+    else:
         play voice4 daisy_moaning2
         play voice2 d7s4_mcbreathing
         play sound sfx_vagina_penetration1_fast loop volume 0.6
@@ -959,7 +959,7 @@ label d06s08_dd:
     if e06s08_preg_dd is True:
         scene e06s08-a50-p-1 with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-a50-a-2 with dissolve
         pause
     dd "When I met [mcname], and later when I met Lydia, I got the impression that they were important."
@@ -968,7 +968,7 @@ label d06s08_dd:
     if e06s08_preg_dd is True:
         scene e06s08-a50-p-3 with dissolve
         pause
-    elif True:
+    else:
         scene e06s08-a50-a-3 with dissolve
         pause
     dd "I couldn't be fucked better-"
@@ -979,7 +979,7 @@ label d06s08_dd:
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a50-p-2-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         $ Lovense.pattern("7;11", 900)
         scene e06s08-a50-a-1-f with dissolve
@@ -991,7 +991,7 @@ label d06s08_dd:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a50-p-1-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a50-a-2-f with dissolve
         pause
@@ -1001,7 +1001,7 @@ label d06s08_dd:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a50-p-3-f with dissolve
         pause
-    elif True:
+    else:
         play sound sfx_sex_bodyslaps1 loop volume 0.6
         scene e06s08-a50-a-3-f with dissolve
         pause
@@ -1056,7 +1056,7 @@ label d06s08_dd:
         stop voice3 fadeout 1.0
         stop voice4 fadeout 1.0
         jump d06s08_end
-    elif True:
+    else:
         stop voice3 fadeout 1.0
         stop voice4 fadeout 1.0
         jump d06s08_mh
@@ -1094,7 +1094,7 @@ label d06s08_mh:
     if e06s05_dd_harem is True:
         scene e06s08-51-06 arj-listens-story-mh-sucked-mc_c1 with dissolve
         mh "It's kinda like what Daisy was talking about... although not like a video game."
-    elif True:
+    else:
         scene e06s08-51-06-01 arj-listens-story-mh-sucked-mc-no-dd_c1 with dissolve
     mh "I just knew that these two people would be important to my life."
     mh "Lydia seemed kinda distant and unapproachable that night, but I got a real taste for [mcname] pretty much the first moment I met him."
@@ -1230,7 +1230,7 @@ label d06s08_mh:
         scene e06s08-51-24 mh-very-excited_c1 with vpunch
         pause
         $ Lovense.vibrate(3)
-    elif True:
+    else:
         play voice3 daisy_sucking
         play voice4 [lissa_moan1, "<silence 1.0>", lissa_moan2, "<silence 1.0>", lissa_moan3, "<silence 1.0>", lissa_moan4, "<silence 1.0>", lissa_moan5, "<silence 1.0>"]
         play sound mc_sex_sucking_slow1 volume 0.5 loop
@@ -1280,5 +1280,4 @@ label d06s08_end:
     stop music fadeout 3.5
     stop sound3 fadeout 3.0
     jump e06s09
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

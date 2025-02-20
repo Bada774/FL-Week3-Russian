@@ -493,5 +493,4 @@ label e08s03:
     stop sound5 fadeout 4.0
     stop music fadeout 4.0
     jump e08s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

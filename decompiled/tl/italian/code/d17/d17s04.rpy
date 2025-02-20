@@ -1,6 +1,4 @@
 
-
-
 translate italian d17s04_e9a933c1:
 
 
@@ -1237,5 +1235,4 @@ translate italian strings:
 
     old "Refuse"
     new "Rifiuta"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

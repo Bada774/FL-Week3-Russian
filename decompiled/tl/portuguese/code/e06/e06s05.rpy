@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e06s05_2357bc1b:
 
 
@@ -3405,5 +3403,4 @@ translate portuguese strings:
 
     old "Do Not Invite Her to Join"
     new "Não Convidar ela para o Harém"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -123,7 +123,7 @@ label week_2_recap:
     if date_dw is True:
         scene d08s05-72 mc-dw-sy-that-is-all-fun_c3
         "Stacy met Dahlia and they had a nice long conversation after his Mistress ordered [mcname] to be a chair for Stacy. His Mistress told them that Allison might know more about Samiya."
-    elif True:
+    else:
         scene d08s05-11 dd-mc-sy-talk-2_c2
         "Stacy met Daisy for the first time, and Daisy mentioned Allison might know where Samiya was."
         scene d08s05-12 dd-talk-3-face_c2
@@ -160,10 +160,10 @@ label week_2_recap:
             if d08s12_mc_hj is True:
                 scene d08s12-a17-1
                 "After the case was over, the two blew off some steam."
-            elif True:
+            else:
                 scene d08s12-a17-2
                 "[mcname] explored new avenues of pleasure and tried out sucking Lyssa's cock."
-        elif True:
+        else:
             if d08s12_denial is True:
                 scene d08s12-42 mc-mh-do-as-i-command_c1
                 "[mcname] set a very strict tone about Lyssa's access to his cock. She was happy to oblige him."
@@ -208,7 +208,7 @@ label week_2_day_9:
         "He tried out her unique services, and Samiya certainly seemed to enjoy herself."
         scene d09s02-17 sb-talk-8-smile_c1
         "After having some fun, [mcname] spoke to Samiya about the stolen luggage. She admitted to the crime but wouldn't give back the clothes without [mcname] doing a favor for her."
-    elif True:
+    else:
         scene d09s02-17 sb-talk-8-smile_c1
         "[mcname] explained how he'd tracked the stolen luggage to Samiya. She admitted to the crime but wouldn't give back the clothes without a favor in return."
     if d09s02_prankvw is True:
@@ -314,7 +314,7 @@ label week_2_day_10:
     scene d10s04-21 mc-sy-vw-mh-my-luggage-yey_c2
     if persistent.is_special is True:
         "[mcname]'s sister jumped right into his arms. Stacy was overjoyed that her brother had managed to track down her missing belongings."
-    elif True:
+    else:
         "[mcname] was surprised when Stacy leaped into his arms and thanked him again and again for finding her missing belongings."
     scene d10s04-sy-jumping-anim
     "But this excitement was nothing compared to what she displayed when she saw the scope of her new digs."
@@ -362,14 +362,14 @@ label week_2_day_10_p1:
     scene d10s04-01-arj-approaching-mc-c1
     if persistent.is_special is True:
         "Moving upstairs [mcname] found AmRose serving drinks while Iona, Hana's sister, tended bar."
-    elif True:
+    else:
         "Moving upstairs [mcname] found AmRose serving drinks while Iona, Hana's girlfriend, tended bar."
     scene d10s04-12-sy-enters-the-room-c8
     "Naturally, after being told a hundred times she couldn't be there, Stacy crashed the Fetish Locator Party!"
     scene d10s04-38-arj-taking-charge-c19
     if persistent.is_special is True:
         "Our hero was not happy to have his sister at the party, but AmRose managed to calm things down."
-    elif True:
+    else:
         "Our hero was not happy that Stacy snuck into the party, AmRose managed to calm things down."
     scene d10s04-48-arj-warning-mc-too-c17_c17
     "[mcname] was tasked with an epic quest. To steal a Fetish Tracker before Squizzle or anyone else realized Stacy was not supposed to be there."
@@ -444,7 +444,7 @@ label week_2_day_10_p2:
         "[mcname] quickly jumped in, not wanting to let Hana down since she'd asked him to look after Iona."
         scene d10p2s02-34 mc-ir-js-bar-active-angry-go2_c3
         "Iona gave [mcname] a piece of her mind saying she didn't need someone to fight her battles."
-    elif True:
+    else:
         scene d10p2s02-08 mc-ir-js-bar-fight8_c3
         "[mcname] decided to watch as Iona quickly showed off her more than capable skills with dealing with asshats."
         scene d10p2s02-11 mc-ir-js-bar-fight11_c1
@@ -498,7 +498,7 @@ label week_2_day_11:
     scene d11s01-09 mc-angry-think
     if is_antagonist_mode is True:
         "He was dead wrong. The app tasked him with having sex with TWENTY DIFFERENT PEOPLE BY THE END OF SUNDAY of he will lose his DICK!"
-    elif True:
+    else:
         "He was dead wrong. The app tasked him with having sex with TWENTY DIFFERENT PEOPLE BY THE END OF SUNDAY!"
     scene d11s01-20-01 amr-mc-reading-amrose-phone-01
     "Fortunately, [mcname] learned he would get some help with the task. AmRose had been assigned to help him fulfill his sex quota."
@@ -562,12 +562,12 @@ label week_2_day_12:
             "After they finished, [mcname] gave Maria instructions to meet with Terrell."
         if date_jdg is True:
             scene d12s02-11-mc-asking-mysterious-woman-who-she-is-c4
-        elif True:
+        else:
             scene d12s02-31-hr-taking-note-and-saying-its-nice-meeting-mc-again-c14_c14
-    elif True:
+    else:
         if date_jdg is True:
             scene d12s02-11-mc-asking-mysterious-woman-who-she-is-c4 with fade
-        elif True:
+        else:
             scene d12s02-31-hr-taking-note-and-saying-its-nice-meeting-mc-again-c14_c14 with fade
     if date_jdg is True:
         "[mcname] got an unexpected call from the Judge he'd met earlier. The woman was 'very' interested to meet him again."
@@ -591,7 +591,7 @@ label week_2_day_12:
         scene d12s04-26 oliv-ask-question
         if is_antagonist_mode is True:
             "[mcname] found out that Oliver was in the retention program as well."
-        elif True:
+        else:
             "[mcname] found out that Oliver was in the VIP program of Fetish Locator."
     if date_mh is True:
         scene d12s04-52 mc-mh-turn-around-talk
@@ -604,7 +604,7 @@ label week_2_day_12:
         if date_mh_bdsm is True:
             scene d12s04-105 mc-mh-let-transition-to-hj_c2
             "After giving him a strip search the criminal had some fun with Officer Lyssa."
-        elif True:
+        else:
             scene d12s04-a10
             "[mcname] and Lyssa continued reaching new levels of intimacy right in the middle of her office."
     scene d12s05-29 lc-singing
@@ -686,13 +686,13 @@ label week_2_day_13:
         scene d13s09-a1
         if persistent.is_special is True:
             "[mcname] couldn't resist and ended up eating out his sister's pussy."
-        elif True:
+        else:
             "[mcname] ended up eating out Stacy's delicious pussy."
         scene d13s09-51 mc-sy-arj-amrose-interrupt_c1
         "Before they could go any further, someone knocked at the door."
         scene d13s09-59 mc-sy-arj-amrose-enter_c1
         "AmRose arrived with everything the group needed to turn Stacy's apartment into a Faraday Cage."
-    elif True:
+    else:
         scene d13s09-59 mc-sy-arj-amrose-enter_c1
         "AmRose joined Stacy and [mcname] at the apartment. She brought everything they'd need to the place into a Faraday Cage."
     if is_antagonist_mode is True:
@@ -774,13 +774,13 @@ label week_2_day_14_p2:
             "[mcname] found out that Vanessa was Allison's mother and that the two had grown apart."
             scene d14s12-98 aw-vw-embrace-grateful
             "Vanessa asked [mcname] if he would help fix her relationship with her daughter."
-        elif True:
+        else:
             scene d14s12-94-02 aw-vw-talk-look-over-balcony-more-talk_c1
             "[mcname] asked why Allison seemed to hate Vanessa. She said she'd helped raise Allison until the woman left home to escape Vanessa's overbearing nature."
             scene d14s12-98 aw-vw-embrace-grateful
             "[mcname] told Vanessa he'd try to help mend their broken bridges."
         scene d14s13-25 arj-sy-sitting-on-the-border
-    elif True:
+    else:
         scene d14s13-25 arj-sy-sitting-on-the-border with fade
     "During some downtime at the party, the team realized they could track the software updates of Fetish Locator and learn who behind it!"
     scene d14s14-000
@@ -788,7 +788,7 @@ label week_2_day_14_p2:
     if d14s14_mc_wins is True:
         scene d14s14-a1
         "[mcname] claimed his victory over Samiya and gave her ass one helluva workout."
-    elif True:
+    else:
         scene d14s14-101
         "[mcname] tried to defeat her with his fingers alone. He ended up paying the price for his hubris."
         scene d14s14-a14
@@ -825,7 +825,7 @@ label week_2_day_14_p2:
         if persistent.is_special is True:
             scene d14s19-42 mc-sy-stacyenters_c4
             "Stacy talked about how long she'd been waiting for this moment, how she'd picked out the perfect dress, and how good it would be to have her brother take it off her body."
-        elif True:
+        else:
             scene d14s19-42 mc-sy-stacyenters_c4
             "Stacy talked about how long she'd been waiting for this moment, how she'd picked out the perfect dress, and how good it would be to have [mcname] take it off her."
         scene d14s19-47 mc-sy-silencing-kiss_c1
@@ -835,7 +835,7 @@ label week_2_day_14_p2:
         if d14s19_everything is True:
             scene d14s19-68-12 mc-sy-talk_c1
             "[mcname] told Stacy he like the idea of having a bunch of children."
-    elif True:
+    else:
         scene d14s19-a54
         "To cap off a wonderful evening, [mcname] went down on Lydia for the first time ever in their relationship."
     scene d14s19-70-02 challenge-failed-notification_c1
@@ -845,5 +845,4 @@ label week_2_day_14_p2:
     hide screen skip_recap
 
     jump d15s01
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

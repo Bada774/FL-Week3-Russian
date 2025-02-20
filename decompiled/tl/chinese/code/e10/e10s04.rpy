@@ -1,6 +1,4 @@
 
-
-
 translate chinese e10s04_b53797f0:
 
 
@@ -389,5 +387,4 @@ translate chinese strings:
 
     old "Weeks later\nAt the end of Summer"
     new "几周后\n夏天结束"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

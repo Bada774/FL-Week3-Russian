@@ -1,5 +1,3 @@
-
-
 translate korean strings:
 
 
@@ -30,12 +28,9 @@ translate korean strings:
     old "You can only select one out of Daisy and Dahlia"
     new "데이지와 달리아 중 한 명만 선택할 수 있습니다"
 
-
-
 translate korean strings:
 
 
     old "You have unlocked Ending #{}"
     new "You have unlocked Ending #{}"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

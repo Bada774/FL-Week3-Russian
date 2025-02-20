@@ -1,6 +1,4 @@
 
-
-
 translate turkish e13s03_9a2dcee3:
 
 
@@ -83,5 +81,4 @@ translate turkish strings:
 
     old "A month later"
     new "Bir ay sonra"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

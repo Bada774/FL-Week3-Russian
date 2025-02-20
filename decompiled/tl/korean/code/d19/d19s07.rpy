@@ -1,6 +1,4 @@
 
-
-
 translate korean d19s07_8f5cc00d:
 
 
@@ -1459,5 +1457,4 @@ translate korean strings:
 
     old "We aren't friends, but I need this."
     new "우리가 친구는 아니지만, 이렇게 해야 된다."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

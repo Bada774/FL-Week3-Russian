@@ -1,6 +1,4 @@
 
-
-
 translate korean d15s07_a875bc2a:
 
 
@@ -1195,5 +1193,4 @@ translate korean strings:
 
     old "I'm getting kinda bored of the watersports"
     new "워터스포츠는 좀 질렸다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

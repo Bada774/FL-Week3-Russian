@@ -1,6 +1,4 @@
 
-
-
 translate turkish e12s07_7d11eb9b:
 
 
@@ -1249,5 +1247,4 @@ translate turkish strings:
 
     old "You have finished playing Ending #12!"
     new "Son #12'yi oynamayı bitirdiniz!"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

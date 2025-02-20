@@ -123,7 +123,7 @@ label e06s03:
     play voice2 mc_hey_hey3 noloop
     if persistent.is_special is True:
         mc "Stacy is my sister, Lydia."
-    elif True:
+    else:
         mc "Stacy has been a friend of mine for years now, Lydia."
     scene e06s03-21 mc-reasons-why-sy-so-mad-lc_c1 with dissolve
     mc "She wasn't thrilled when she learned you'd been lying to me."
@@ -235,7 +235,7 @@ label e06s03:
         scene e06s03-53 app-lied-arj-guesses-had-to-figure-out_c1 with dissolve
         arj "My parents would have seen that photo! All of my family would have."
         arj "And the cherry on top would have been losing the degree I worked so hard on because I would have had to leave."
-    elif True:
+    else:
         scene e06s03-54 arj-chickles-at-situation-still-sad_c1 with dissolve
         play voice5 amrose_angry_ergh noloop
         arj "I guess... I should have figured out it was all too good to be true."
@@ -842,7 +842,7 @@ label e06s03_sex_chair_arj:
     scene e06s03-180 sy-tells-mc-how-good-it-feel-mc-eating-her_c1 with dissolve
     if persistent.is_special is True:
         sy "Come on bro, fuck me with your tongue while your cock hammers AmRose."
-    elif True:
+    else:
         sy "Yes... Mrmmm. Having you eat me out is so fucking good."
     play voice4 stacy_fmoans4
     sy "Oh fuck!"
@@ -1154,7 +1154,7 @@ label e06s03_end:
         sy "If AmRose is cool with her, I'm cool with her."
         scene e06s03-234 mc-suggest-arj-sy-come-live-with-them_c1 with dissolve
         play voice2 mc_thinking_emm1 noloop
-    elif True:
+    else:
         play voice4 stacy_angry noloop
         sy "Ditto. Unless you lose the skill to make me cum as hard as you can."
         sy "Then we'll have to have a serious chat."
@@ -1190,5 +1190,4 @@ label e06s03_end:
 
     stop music fadeout 3.5
     jump e06s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

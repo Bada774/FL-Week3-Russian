@@ -1,6 +1,4 @@
 
-
-
 translate turkish e02s08_646c2663:
 
 
@@ -1593,5 +1591,4 @@ translate turkish strings:
 
     old "Be submissive with Lyssa"
     new "Lyssa ile itaatkar olun"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,4 @@
 
-
-
 translate chinese e12s03_92d88967:
 
 
@@ -1217,5 +1215,4 @@ translate chinese e12s03_sex_4a53788f:
 
 
     vw "哦，安静点。抱着我，在我去做晚饭之前，咱们先赏日落。"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

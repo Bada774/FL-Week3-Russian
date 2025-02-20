@@ -1,6 +1,4 @@
 
-
-
 translate chinese lovense_test_9e0ee773:
 
 
@@ -102,8 +100,6 @@ translate chinese strings:
     old "Please enter your HTTP Port number:"
     new "请输入您的HTTP端口号:"
 
-
-
 translate chinese strings:
 
 
@@ -126,8 +122,6 @@ translate chinese strings:
     old "{u}Connect your toy!{/u}"
     new "{u}连接您的玩具！{/u}"
 
-
-
 translate chinese strings:
 
 
@@ -138,4 +132,17 @@ translate chinese strings:
     old "Get a toy now"
     new "立即获取玩具"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate chinese strings:
+
+
+    old "1. Click on the \"Discover\" tab"
+    new "1. 点击\"发现\"选项卡"
+
+
+    old "2. Then click on \"Game Mode\" option"
+    new "2. 然后点击\"游戏模式\"选项"
+
+
+    old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. 输入应用程序中显示的\"本地IP\"和\"端口\"\n然后单击连接"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

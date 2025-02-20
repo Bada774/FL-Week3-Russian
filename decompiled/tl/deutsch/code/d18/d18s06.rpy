@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d18s06_59f5b92b:
 
 
@@ -581,5 +579,4 @@ translate deutsch strings:
 
     old "Some time later\nAt the college campus"
     new "Etwas später\nAuf dem College-Campus"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

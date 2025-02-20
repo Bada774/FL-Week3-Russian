@@ -74,7 +74,7 @@ label d20s03:
     play voice2 mc_arrogant_heh3 noloop
     if persistent.is_special is True:
         mc "Your sister wanted to meet me here."
-    elif True:
+    else:
         mc "Your girlfriend wanted to meet me here."
     scene d20s3-06 mc-kb-talk2_c1 with dissolve
     play voice3 kevin_thinking_hmm7 noloop
@@ -90,7 +90,7 @@ label d20s03:
     if study_points > 6:
         play voice2 mc_yes_yes3 noloop
         mc "Yes."
-    elif True:
+    else:
         play voice2 mc_no_nah2 noloop
         mc "Not really."
     play voice3 kevin_disappointed_ehh1 noloop
@@ -149,7 +149,7 @@ label d20s03:
     play voice3 kevin_happy_heh2 noloop
     if persistent.is_special is True:
         kb "Like my sister."
-    elif True:
+    else:
         kb "Like my girlfriend."
     play voice2 mc_no_no4 noloop
     mc "Come on. No, man, before that."
@@ -167,7 +167,7 @@ label d20s03:
     if d10p2s05_check_cb_kb is True:
         kb "Or the fun we had at the party."
         kb "And when you chose to satisfy our desires... I know you don't think much of me, but really, I'm thankful."
-    elif True:
+    else:
         kb "Well, actually, I don't remember much of the events that happened lately."
         kb "That's a lie, I'm just choosing to forget."
     kb "But if memories are all we have, then, doesn't that mean we're just living in the past? That there's nowhere for this to go?"
@@ -210,7 +210,7 @@ label d20s03:
     mc "As a friend! As a friend."
     if persistent.is_special is True:
         mc "And your sister likes you too. That's the point. You're not alone."
-    elif True:
+    else:
         mc "And your girlfriend likes you too. That's the point. You're not alone."
     mc "A lot of people will judge you, call you names, whatever. As long as you're happy, isn't that what matters?"
     scene d20s3-21 kb-intence2_c2 with dissolve
@@ -533,7 +533,7 @@ label d20s03_continue:
     scene d20s03-a7-f with dissolve
     if persistent.is_special is True:
         cb "Fuck me like my brother fucks me."
-    elif True:
+    else:
         cb "Fuck me like my boyfriend fucks me."
     cb "One last time."
     pause
@@ -729,5 +729,4 @@ label d20s03_continue:
 label d20s03_end:
 
     jump d20s04
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

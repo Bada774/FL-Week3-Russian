@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d20s02rn_8e860913:
 
 
@@ -937,5 +935,4 @@ translate portuguese strings:
 
     old "Let them keep going"
     new "Deixar eles continuarem"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

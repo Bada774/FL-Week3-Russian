@@ -105,7 +105,7 @@ label e06s05:
     play voice2 mc_thinking_mmm2 noloop
     if d12s05_stop is True:
         mct "I wonder if that would've been Samiya or... what was her name? Chastity?"
-    elif True:
+    else:
         mct "I wonder if that would've been Samiya?"
     scene e06s05-06 sy-explains-someone-volunteered_c1 with dissolve
     play voice5 stacy_thinking_hm1 noloop
@@ -510,7 +510,7 @@ label e06s05_mes_cane:
         play voice4 min_happy_relief noloop
         mes "Don't worry, for this next bit you get to lay down."
         jump e06s05_mes_pee
-    elif True:
+    else:
         play voice2 mc_angry_huh1 noloop
         mc "I just want to make sure you're okay."
         dd "You're so sweet to worry about me. Don't worry, I'll use my safe word if I need it."
@@ -613,7 +613,7 @@ label e06s05_sy_choice:
 
     if e06s05_sy_1 is True:
         jump e06s05_sy_puke
-    elif True:
+    else:
         jump e06s05_sy_strapon
 
 label e06s05_sy_puke:
@@ -751,7 +751,7 @@ label e06s05_sy_puke:
     sy "I know where they are."
     if e06s05_sy_2 is True:
         jump e06s05_sy_strapon
-    elif True:
+    else:
         jump e06s05_arj_choice
 
 label e06s05_sy_strapon:
@@ -873,7 +873,7 @@ label e06s05_sy_strapon:
     if persistent.is_special is True:
         mc "It's true. Stacy is my sister."
         mc "My younger sister."
-    elif True:
+    else:
         mc "It's true. Stacy was just an infant when her family moved in next door."
         mc "I can still remember that white car pulling up and her mom holding her..."
         scene e06s05-125 sy-confirms-dd-thinks-hot-ask-they-fuck_c1 with dissolve
@@ -989,7 +989,7 @@ label e06s05_arj_choice:
 
     if e06s05_arj_1 is True:
         jump e06s05_arj_enema
-    elif True:
+    else:
         jump e06s05_arj_fisting
 
 label e06s05_arj_enema:
@@ -1167,7 +1167,7 @@ label e06s05_arj_enema:
     dd "Alright, what's next?"
     if e06s05_arj_2 is True:
         jump e06s05_arj_fisting
-    elif True:
+    else:
         scene e06s05-192 mc-thinking-his-turn-sy-points-all-their-turn_c1 with Fade(0.5, 0.5, 0.5)
         jump e06s05_dd_bound
 
@@ -1790,5 +1790,4 @@ label e06s05_dd_after:
 
     stop music fadeout 3.5
     jump e06s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

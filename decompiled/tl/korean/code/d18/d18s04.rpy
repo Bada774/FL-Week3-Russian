@@ -1,6 +1,4 @@
 
-
-
 translate korean d18s04_09dff030:
 
 
@@ -1145,5 +1143,4 @@ translate korean strings:
 
     old "Remind Them You Are There"
     new "둘에게 당신도 있다는 사실을 상기시킨다"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

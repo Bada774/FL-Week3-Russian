@@ -1,6 +1,4 @@
 
-
-
 translate chinese d16s01_66e01943:
 
 
@@ -515,5 +513,4 @@ translate chinese strings:
 
     old "Tuesday\nDay-16"
     new "星期二\n第16天"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

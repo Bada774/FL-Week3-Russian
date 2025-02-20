@@ -1,6 +1,4 @@
 
-
-
 translate turkish d17s05mo_7c42b679:
 
 
@@ -1133,5 +1131,4 @@ translate turkish d17s05mo_be58e169:
 
 
     mh "Pekala, sevindim."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

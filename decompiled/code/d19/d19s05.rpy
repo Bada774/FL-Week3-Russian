@@ -299,7 +299,7 @@ label d19s05_after_minigame:
         mct "That...actually went better than I thought it would."
         mct "Now if I can just get the judges on my side, I'm sure I can ace this!"
         $ unlock_gallery_slot("scene", "d19s05m")
-    elif True:
+    else:
         play sound sfx_d19s05_minigame_lose
         scene d19s05-19 mc-splays-couch_c1 with fade
         $ renpy.block_rollback()
@@ -316,5 +316,4 @@ label d19s05_after_minigame:
     $ renpy.end_replay()
 
     jump d19s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

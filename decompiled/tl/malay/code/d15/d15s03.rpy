@@ -1,6 +1,4 @@
 
-
-
 translate malay d15s03_6150bb0b:
 
 
@@ -907,7 +905,6 @@ translate malay d15s03_end_2263a909:
     pb "Apa-apa pun, aku keluar dulu. {w}Jumpa nanti."
 
 
-
 translate malay d15s03_middle_eb0418a8:
 
 
@@ -918,5 +915,4 @@ translate malay strings:
 
     old "20 minutes later"
     new "20 minit kemudian..."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,5 +1,3 @@
-
-
 translate portuguese strings:
 
 
@@ -19,10 +17,6 @@ translate portuguese strings:
     new "Jogar"
 
 
-
-translate portuguese strings:
-
-
     old "Starting this ending will lose unsaved progress.\nAre you sure you want to do this?"
     new "Começar este final perderá progresso não salvo.\nTem certeza que deseja fazer isso?"
 
@@ -35,11 +29,10 @@ translate portuguese strings:
     new "Sair para o Menu Principal"
 
 
-
-translate portuguese strings:
-
-
     old "Download free DLC containing this ending"
     new "Baixe DLC grátis contendo este final"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+    old "Get DLC-2 containing this ending"
+    new " Obter o DLC-2 que contém este final"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

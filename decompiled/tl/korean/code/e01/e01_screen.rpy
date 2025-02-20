@@ -1,17 +1,14 @@
-
-
 translate korean strings:
 
 
     old "BDSM - Dominant"
-    new "BDSM - Dominant"
+    new "BDSM - 지배적"
 
 
     old "BDSM - Submissive"
-    new "BDSM - Submissive"
+    new "BDSM - 복종적"
 
 
     old "Rimming"
-    new "Rimming"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+    new "리밍"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

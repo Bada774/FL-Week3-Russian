@@ -1,6 +1,4 @@
 
-
-
 translate malay d16s02_0eb8c9ee:
 
 
@@ -262,12 +260,9 @@ translate malay strings:
     old "Not right now"
     new "Bukan sekarang"
 
-
-
 translate malay strings:
 
 
     old "15 minutes later"
     new "15 minit kemudian"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

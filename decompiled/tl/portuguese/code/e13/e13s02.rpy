@@ -1,16 +1,8 @@
 
-
-
 translate portuguese e13s02_0ccad110:
 
 
     nk "Você sabe como é, Jim. Vamos reabrir em algumas horas pro \"Open Mic\", mas estamos fechados no momento."
-
-
-translate portuguese e13s02_0d80f13c:
-
-
-    "Cliente" "Aaah, mas..."
 
 
 translate portuguese e13s02_8e6b9eae:
@@ -125,12 +117,6 @@ translate portuguese replay_e13s02_f38ec24d:
 
 
     mc "Ei, tudo bem. Você não precisa se forçar."
-
-
-translate portuguese replay_e13s02_25cd8572:
-
-
-    nk "Na verdade... Sabe de uma coisa? Senta."
 
 
 translate portuguese replay_e13s02_a53c11d8:
@@ -370,10 +356,21 @@ translate portuguese strings:
 
 
     old "Fuck Her Vaginally"
-    new "Vaginal"
+    new "Sexo Vaginal"
 
 
     old "Fuck Her Anally"
-    new "Anal"
+    new "Sexo Anal"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate portuguese e13s02_e5e5853b:
+
+
+    "Cliente" "Aaah, mas..."
+
+
+translate portuguese replay_e13s02_e2a7aa61:
+
+
+    nk "Aliás... Sabe uma coisa? Senta"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

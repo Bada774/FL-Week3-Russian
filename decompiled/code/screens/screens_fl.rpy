@@ -272,6 +272,42 @@ init -1 style mpb_large_even_text:
 
 
 
+init -501 screen steam_deck_layout(splash=False):
+    tag menu
+
+
+    style_prefix "steam_deck_help"
+
+    key "pad_b_press" action Return()
+
+    add "images/utility/steam_deck/steam_deck_control_layout.webp"
+
+    text _("Touch input supported") xalign 0.5 yalign 0.41
+    text _("Navigation") xalign 0.5 ypos 70
+    text _("Pause Menu") xanchor 0.5 xpos 1445 ypos 70
+    text _("Quick Save") xanchor 0.5 xpos 480 ypos 70
+
+    text _("Roll Back") xanchor 1.0 xpos 280 ypos 730
+    text _("Navigation") xanchor 1.0 xpos 280 ypos 155
+
+    text _("{b}A{/b} - Select") xpos 1650 ypos 175
+    text _("{b}B{/b} - Go Back") xpos 1650 ypos 285
+    text _("{b}X{/b} - Skip") xpos 1650 ypos 395
+    text _("{b}Y{/b} - Hide UI") xpos 1650 ypos 505
+    text _("Roll Forward") xpos 1650 ypos 730
+
+    if splash is True:
+        text _("You can find this layout in the {b}Help{/b} menu") xalign 0.5 ypos 1000
+    else:
+        textbutton _("CLOSE") xalign 0.99 yalign 0.99 action Return() keysym ('K_ESCAPE', 'mousedown_3')
+
+init -1 style steam_deck_help_button_text:
+    idle_color "#fff"
+    hover_color gui.hover_color
+    outlines [ (absolute(1), "#000", 0, 0) ]
+
+
+
 init -501 screen end_screen():
 
     vbox:
@@ -405,17 +441,16 @@ init -501 screen fl_points_screen(points=0, is_enabled=True):
             background Color((61, 23, 31, 90))
             style_prefix "fl_points"
 
-            has vbox:
-                spacing -10
+            has vbox
+            spacing -10
             textbutton "Fetish Locator"
             hbox:
                 spacing -15
 
-
-                textbutton _("points: ")
-                textbutton "[points]"
                 at transform:
                     linear 0.5 alpha 1.0
+                textbutton _("points: ")
+                textbutton "[points]"
             null height 30
             hbox:
                 xalign 0.5
@@ -433,6 +468,7 @@ init -501 screen fl_points_screen(points=0, is_enabled=True):
                         add "utility/menu/gold_star.webp"
                     if fl_goldstars >= 5:
                         add "utility/menu/gold_star.webp"
+
 init -1 style fl_points_button_text is text:
     idle_color gui.accent_color
     insensitive_color gui.accent_color
@@ -574,10 +610,10 @@ init -501 screen prologue_fetishes():
 
     frame:
         style_prefix "prologue"
-        has vbox:
-            xalign 0.5
-            yalign 0.4
-            style_prefix "prologue_fetishes"
+        has vbox
+        xalign 0.5
+        yalign 0.4
+        style_prefix "prologue_fetishes"
         vbox:
             xalign 0.5
             text _("Please choose your preferences")
@@ -629,19 +665,19 @@ init -501 screen prologue_done(what_scren, next_label):
         textbutton _("Back") action Rollback()
 
 init -501 screen prologue_fetishes_show():
-
+    tag prologue
 
 
     style_prefix "prologue"
-    modal False tag prologue
+    modal False
     use prologue_fetishes(False)
 
 init -501 screen prologue_fetishes_choose():
-
+    tag prologue
 
 
     style_prefix "prologue"
-    modal True tag prologue
+    modal True
     use prologue_fetishes()
 
 init -501 screen prologue_girls_1(step):
@@ -653,9 +689,9 @@ init -501 screen prologue_girls_1(step):
         style_prefix "prologue"
         ypos 60
         ysize 980
-        has vbox:
-            xalign 0.5
-            style_prefix "prologue_fetishes"
+        has vbox
+        xalign 0.5
+        style_prefix "prologue_fetishes"
         vbox:
             xalign 0.5
             null height 10
@@ -728,10 +764,10 @@ init -501 screen prologue_questions_1():
 
     frame:
         style_prefix "prologue"
-        has vbox:
-            xalign 0.5
-            yalign 0.3
-            style_prefix "prologue_fetishes"
+        has vbox
+        xalign 0.5
+        yalign 0.3
+        style_prefix "prologue_fetishes"
         vbox:
             xalign 0.5
             text _("Please answer the questions")
@@ -810,10 +846,10 @@ init -501 screen prologue_girls_2(step):
 
     frame:
         style_prefix "prologue"
-        has vbox:
-            xalign 0.5
-            yalign 0.3
-            style_prefix "prologue_fetishes"
+        has vbox
+        xalign 0.5
+        yalign 0.3
+        style_prefix "prologue_fetishes"
         vbox:
             xalign 0.5
             null height 10
@@ -844,9 +880,9 @@ init -501 screen prologue_girls_3(step):
 
     frame:
         style_prefix "prologue"
-        has vbox:
-            xalign 0.5
-            style_prefix "prologue_fetishes"
+        has vbox
+        xalign 0.5
+        style_prefix "prologue_fetishes"
         vbox:
             xalign 0.5
             null height 10
@@ -895,10 +931,10 @@ init -501 screen prologue_questions_2():
 
     frame:
         style_prefix "prologue"
-        has vbox:
-            xalign 0.5
-            yalign 0.3
-            style_prefix "prologue_fetishes"
+        has vbox
+        xalign 0.5
+        yalign 0.3
+        style_prefix "prologue_fetishes"
         vbox:
             xalign 0.5
             text _("Please answer the questions")
@@ -1052,6 +1088,9 @@ init -1 style prologue_no_sp_button:
     top_padding 13
     bottom_padding 10
 
+init -1 style prologue_fetishes_vbox:
+    spacing 10
+
 init -1 style prologue_fetishes_text:
     size 70
     font "fonts/Andika-Regular.ttf"
@@ -1113,9 +1152,9 @@ init -501 screen save_name_input():
         xpadding 25
         ypadding 25
 
-        has vbox:
-            order_reverse False
-            spacing 25
+        has vbox
+        order_reverse False
+        spacing 25
 
         frame:
             xsize 950
@@ -1155,7 +1194,6 @@ init -501 screen save_name_input():
                 activate_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_button_click.mp3"
 
             button:
-                xanchor 1.0
                 xalign 1.0
                 left_padding 50
                 top_padding 3
@@ -1186,11 +1224,11 @@ init -501 screen renamer(what):
         ypos 200
         xpadding 25
         ypadding 25
-        has vbox:
+        has vbox
 
-            order_reverse False
+        order_reverse False
 
-            spacing 25
+        spacing 25
         text title
         input:
             xalign 0.0
@@ -1291,4 +1329,109 @@ init -501 screen patch_info():
         xalign 0.99
         yalign 0.99
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+
+init -501 screen save_sync_menu():
+
+    modal True
+
+    add "gui/overlay/confirm.png"
+
+    frame:
+        style_prefix "save_sync_menu"
+        has vbox
+        text _("Sync your saves using Ren'Py Sync server")
+        null height 5
+        textbutton _("Upload Saves") action UploadSync()
+        textbutton _("Download Saves") action DownloadSync()
+        textbutton _("Back") action Hide("save_sync_menu")
+
+    key "game_menu" action Hide()
+
+init -1 style save_sync_menu_frame:
+    top_padding 50
+    bottom_padding 40
+    left_padding 50
+    right_padding 50
+    xalign 0.5
+    yalign 0.5
+
+init -1 style save_sync_menu_vbox:
+    xalign 0.5
+    spacing 20
+
+init -1 style save_sync_menu_text is gui_label_text
+
+init -1 style save_sync_menu_text:
+    size 40
+    xalign 0.5
+
+init -1 style save_sync_menu_button:
+    xalign 0.5
+
+
+
+init 499 image tu_book1_steam_video_ad = Movie(play = "images/utility/tu_ad/tu-book1-steam-video-ad.webm", start_image = "black", image = "tu-book1-steam-video-ad_last_frame", loop = False)
+init 499 image sm_trailer_ad = Movie(play = "images/utility/sm_ad/sm_trailer_video.webm", start_image = "black", image = "sm_trailer_last_frame", loop = False)
+
+init -501 screen tu_trailer_ad():
+
+    on "show" action PauseAudio('music', True)
+    on "hide" action PauseAudio('music', False)
+
+    modal True
+
+    add "black" at image_opacity(0.8)
+
+    imagebutton auto "images/utility/tu_ad/close_ad-button_%s.webp" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide()) xalign 0.95 yalign 0.06 at image_zoom(0.5)
+
+    style_prefix "tu_trailer_ad"
+
+    frame:
+        modal True
+
+        add "tu_book1_steam_video_ad" xsize 1344 ysize 756
+
+    if is_gog_edition is True:
+        textbutton _("{u}Get Taboo University Book 1 on GOG{/u}") action OpenURL("https://www.gog.com/en/game/taboo_university_book_one")
+    else:
+        textbutton _("{u}Get Taboo University Book 1 on Steam{/u}") action OpenURL("steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/")
+
+    key "game_menu" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide())
+
+init -501 screen sm_trailer_ad():
+
+    on "show" action PauseAudio('music', True)
+    on "hide" action PauseAudio('music', False)
+
+    modal True
+
+    add "black" at image_opacity(0.8)
+
+    imagebutton auto "images/utility/tu_ad/close_ad-button_%s.webp" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide()) xalign 0.95 yalign 0.06 at image_zoom(0.5)
+
+    style_prefix "tu_trailer_ad"
+
+    frame:
+        modal True
+
+        yalign 0.5
+
+        add "sm_trailer_ad" xsize 1344 ysize 756
+
+    key "game_menu" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide())
+
+init -1 style tu_trailer_ad_frame:
+    xalign 0.5
+    yalign 0.25
+
+init -1 style tu_trailer_ad_button:
+    xalign 0.5
+    yalign 0.92
+
+init -1 style tu_trailer_ad_button_text:
+    size 70
+    idle_color "#FFFFFF"
+    hover_color gui.accent_color
+    outlines [(5, "#000000", 0, 0)]
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

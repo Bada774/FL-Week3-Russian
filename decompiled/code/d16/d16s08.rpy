@@ -78,7 +78,7 @@ label d16s08:
         scene d16s08-20-arj-talking-with-mc with dissolve
         play voice3 amrose_thinking_oh1 noloop
         arj "Oh, yeah."
-    elif True:
+    else:
         play voice2 mc_thinking_mmm2 noloop
         mc "Apparently she's amazing at blow jobs, so I'll probably pursue her in that direction."
         scene d16s08-26-arj-talking-with-mc with dissolve
@@ -96,18 +96,18 @@ label d16s08:
         play voice2 d1s5_mchappy volume 1.5 noloop
         if persistent.is_special is True:
             mc "Then there is Hana's sister, Iona."
-        elif True:
+        else:
             mc "Then there is Hana's girlfriend, Iona."
         scene d16s08-54-arj-talking-with-mc with dissolve
         play voice3 amrose_thinking_oh2 noloop
         if is_antagonist_mode is False:
             arj "Oh yeah, the bartender. She's in the VIP Program too."
-        elif True:
+        else:
             arj "Oh yeah, the bartender. She's in retention too."
         play voice2 mc_yes_ugu1 noloop
         if is_antagonist_mode is False:
             mc "Which is probably how Hana found out about Fetish Locator and the VIP Program."
-        elif True:
+        else:
             mc "Which is probably how Hana found out about Fetish Locator and the Retention Program."
         scene d16s08-50-arj-talking-with-mc with dissolve
         play voice3 amrose_arrogant_huh4 noloop
@@ -233,7 +233,7 @@ label d16s08:
         play voice2 mc_disappointed_off2 noloop
         if is_antagonist_mode is False:
             mc "Oh, right."
-        elif True:
+        else:
             mc "Oh, fuck."
         scene d16s08-60-arj-talking-with-mc with dissolve
         play voice3 amrose_old_upset volume 1.7 noloop
@@ -401,7 +401,7 @@ label d16s08:
         scene d16s08-72-arj-talking-with-sy with dissolve
         play voice3 amrose_yes_yeah1 noloop
         arj "I'll promise you, Stacy. I guarantee he'll log some data points tonight."
-    elif True:
+    else:
         scene d16s08-72-arj-talking-with-sy with dissolve
         play voice3 amrose_hey_active2 noloop
         arj "Hey Stacy, how is that data looking?"
@@ -451,7 +451,7 @@ label d16s08:
     play voice3 amrose_arrogant_hmm1 noloop
     if d16s08_fl_points == 0:
         arj "My house. {w}We'll get you some data points before bedtime."
-    elif True:
+    else:
         arj "My house. {w}We'll get you some more data points before bedtime."
 
     if date_sy is True:
@@ -499,7 +499,7 @@ label d16s08:
         play voice2 mc_arrogant_heh2 noloop
         mct "I'm just going to take a little walk and think this all over."
         mct "Then I'll decide whether I'm leaving with Nora or not."
-    elif True:
+    else:
         scene d16s08-97-mc-talking-with-arj with dissolve
         play voice2 mc_thinking_mmm2 noloop
         mc "Not yet, but hopefully when we get to your house."
@@ -509,5 +509,4 @@ label d16s08:
 
     stop music fadeout 3.5
     jump d16s09
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

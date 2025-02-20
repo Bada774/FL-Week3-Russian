@@ -1,6 +1,4 @@
 
-
-
 translate turkish d20s01_ab231225:
 
 
@@ -562,10 +560,9 @@ translate turkish strings:
 
 
     old "Saturday\nDay-20"
-    new "Cumartesi\\N20. Gün"
+    new "Cumartesi\n20. Gün"
 
 
     old "Do you want Stacy to pee on you?"
     new "Stacy'nin üzerine işemesini istiyor musun?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

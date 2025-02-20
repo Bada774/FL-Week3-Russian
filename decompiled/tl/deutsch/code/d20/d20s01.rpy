@@ -1,6 +1,4 @@
 
-
-
 translate deutsch d20s01_ab231225:
 
 
@@ -567,5 +565,4 @@ translate deutsch strings:
 
     old "Do you want Stacy to pee on you?"
     new "Möchtest du, dass Stacy dich anpinkelt?"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

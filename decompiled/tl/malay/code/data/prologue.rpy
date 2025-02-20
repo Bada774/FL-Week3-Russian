@@ -1,5 +1,3 @@
-
-
 translate malay strings:
 
 
@@ -114,12 +112,9 @@ translate malay strings:
     old "adult magazines"
     new "majalah dewasa"
 
-
-
 translate malay strings:
 
 
     old "Polly & Nora"
     new "Polly Dan Nora"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

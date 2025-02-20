@@ -372,7 +372,7 @@ label d17s05ms:
         scene d17s05-83-sy-mh-stacy-lyssa-house with dissolve
         pause
         scene d17s05-85-sy-mh-stacy-lyssa-house with dissolve
-    elif True:
+    else:
         scene d17s05-84-sy-mh-stacy-lyssa-house with dissolve
         pause
         scene d17s05-86-sy-mh-stacy-lyssa-house with dissolve
@@ -388,7 +388,7 @@ label d17s05ms:
     play voice4 stacy_huh noloop
     if persistent.is_special is True:
         sy "And someone else said, A romantic, candlelit dinner would be incomplete without... *Chuckling* Fucking my sister."
-    elif True:
+    else:
         sy "And someone else said, A romantic, candlelit dinner would be incomplete without... *Chuckling* Fucking my best friend."
     sy "That one wins."
     scene d17s05-88-sy-mh-stacy-lyssa-house with dissolve
@@ -454,7 +454,7 @@ label d17s05ms:
     scene d17s05-107-sy-mh-stacy-lyssa-house with dissolve
     if persistent.is_special is True:
         mh "Here I was thinking you two were just close siblings, but oh-no."
-    elif True:
+    else:
         mh "Here I was thinking you two were just close friends, but oh-no."
     scene d17s05-108-sy-mh-stacy-lyssa-house with dissolve
     play voice4 stacy_suckmoan1 noloop
@@ -479,7 +479,7 @@ label d17s05ms:
     play voice3 dahlia_thinking_hmm4 noloop
     if persistent.is_special is True:
         mh "Your brother and I are in a sort of...open relationship."
-    elif True:
+    else:
         mh "Your friend and I are in a sort of...open relationship."
     scene d17s05-116-sy-mh-stacy-lyssa-house with dissolve
     play voice3 lissa_haha noloop
@@ -599,7 +599,7 @@ label d17s05ms:
     mh "Hm. Well, I understand the feeling."
     if persistent.is_special is True:
         mh "You shouldn't tease your little sister so much, [mcname]."
-    elif True:
+    else:
         mc "You shouldn't tease your friend so much, [mcname]."
     scene d17s05-154-sy-mh-stacy-lyssa-house with dissolve
     play voice2 mc_disappointed_off1 noloop
@@ -725,5 +725,4 @@ label d17s05ms:
 
     stop music fadeout 4.0
     jump d17s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

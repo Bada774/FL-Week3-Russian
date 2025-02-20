@@ -1,16 +1,8 @@
 
-
-
 translate turkish e13s02_0ccad110:
 
 
     nk "Anlaşmayı biliyorsun Jim. Birkaç saat sonra \"Açık Mikrofon Gecesi\" için yeniden açacağız, ancak şimdilik kapalıyız."
-
-
-translate turkish e13s02_0d80f13c:
-
-
-    "Customer" "Ah, ama..."
 
 
 translate turkish e13s02_8e6b9eae:
@@ -125,12 +117,6 @@ translate turkish replay_e13s02_f38ec24d:
 
 
     mc "Hey, sorun değil. Kendini zorlamana gerek yok."
-
-
-translate turkish replay_e13s02_25cd8572:
-
-
-    nk "Aslında... Biliyor musun? Otur."
 
 
 translate turkish replay_e13s02_a53c11d8:
@@ -376,4 +362,15 @@ translate turkish strings:
     old "Fuck Her Anally"
     new "Onu Anal Yoldan Sik"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+
+translate turkish e13s02_e5e5853b:
+
+
+    "Müşteri" "Aww, fakat..."
+
+
+translate turkish replay_e13s02_e2a7aa61:
+
+
+    nk "Aslında... Ne var biliyor musun? Otursana."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

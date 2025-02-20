@@ -634,5 +634,4 @@ label e02s10_end:
     $ fl_achievement_unlock("e02_finish")
 
     jump end
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

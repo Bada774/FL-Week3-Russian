@@ -1,6 +1,4 @@
 
-
-
 translate spanish e10s06_4379716e:
 
 
@@ -359,5 +357,4 @@ translate spanish strings:
 
     old "Few months later"
     new "Unos meses después"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

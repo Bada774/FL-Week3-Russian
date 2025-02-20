@@ -1,6 +1,4 @@
 
-
-
 translate chinese e07s04_13ff1a58:
 
 
@@ -1059,5 +1057,4 @@ translate chinese strings:
 
     old "Volunteer"
     new "自愿参加"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

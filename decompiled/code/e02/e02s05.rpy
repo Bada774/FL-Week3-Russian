@@ -371,7 +371,7 @@ label e02s05_menu:
         scene e02s05-32 mc-mh-tub3_c1 with dissolve
         play voice3 lissa_haha noloop
         mh "It's your call. We can help them or not."
-    elif True:
+    else:
         $ unlock_gallery_slot("cg", "e02s05")
         stop music fadeout 3.0
         jump e02s09
@@ -399,5 +399,4 @@ label e02s05_menu:
             stop sound4 fadeout 3.0
             stop music fadeout 3.0
             jump e02s09
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

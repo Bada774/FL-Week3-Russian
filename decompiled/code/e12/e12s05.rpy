@@ -168,7 +168,7 @@ label e12s05:
     play voice3 kanya_happy_relief2 noloop
     if persistent.is_special is True:
         aw "Maybe I'm still upset with you and Mom."
-    elif True:
+    else:
         aw "Maybe I'm still upset with you and Vanessa."
     mc "Okay... You know you can tell us that, right?"
     scene e12s05-18 aw-steps-back-both-say-okay_c1 with dissolve
@@ -184,7 +184,7 @@ label e12s05:
     play voice3 kanya_thinking_hmm1 noloop
     if persistent.is_special is True:
         aw "I'm upset with you and Mom."
-    elif True:
+    else:
         aw "I'm upset with you and Vanessa."
     play voice2 mc_yes_ugu1 noloop
     mc "This is a good start-"
@@ -205,7 +205,7 @@ label e12s05:
     play voice3 allison_aah noloop
     if persistent.is_special is True:
         aw "I'm upset... I want... I want to be pregnant with Mom."
-    elif True:
+    else:
         aw "I'm upset... I want... I want to be pregnant with Vanessa."
     scene e12s05-23 aw-also-wants-compete-doesnt-know-what-to-do_c1 with dissolve
     play voice3 kanya_thinking_eeh5 noloop
@@ -412,7 +412,7 @@ label e12s05_sex:
     play voice3 kanya_hey_arrogant noloop
     if persistent.is_special is True:
         aw "Hey Mom."
-    elif True:
+    else:
         aw "Hey Vanessa."
         scene e12s05-61 mc-ask-what-vw-doing-here-she-brings-protein_c1 with dissolve
     play voice2 mc_arrogant_huh1 noloop
@@ -425,7 +425,7 @@ label e12s05_sex:
     play voice3 kanya_happy_relief1 noloop
     if persistent.is_special is True:
         aw "Thanks Mom."
-    elif True:
+    else:
         aw "Thanks Vanessa."
     scene e12s05-63 vw-cheks-aw-out-one-of-perks_c1 with dissolve
     play voice4 chloe_yes_yeah2 noloop
@@ -444,7 +444,7 @@ label e12s05_sex:
     aw "Were... You watching us?"
     if persistent.is_special is True:
         vw "Maybe a little bit. Besides, I'd recognize the taste of my daughter anywhere."
-    elif True:
+    else:
         vw "Maybe a little bit. Besides, I'd recognize the taste of Allison anywhere."
     scene e12s05-66 mc-calls-vw-horny-must-be-water-aw-calls-cervix_c1 with dissolve
     play voice2 mc_surprised_wow3 noloop
@@ -465,7 +465,7 @@ label e12s05_sex:
     play voice3 kanya_angry_errr2 noloop
     if persistent.is_special is True:
         aw "Mom, could you just stop thinking with your pussy for like two minutes!?"
-    elif True:
+    else:
         aw "Vanessa, could you just stop thinking with your pussy for like two minutes?"
     scene e12s05-69 vw-shocked-aw-outbursts-aw-whatever_c1 with dissolve
     play voice4 chloe_surprised_oh noloop
@@ -541,7 +541,7 @@ label e12s05_sex:
     play voice3 kanya_surprised_huh2 noloop
     if persistent.is_special is True:
         aw "Mom?"
-    elif True:
+    else:
         aw "Vanessa?"
     scene e12s05-85 vw-big-commitment-aw-unhappy-should-known_c1 with dissolve
     play voice4 chloe_disappointed_ehh1 noloop
@@ -566,7 +566,7 @@ label e12s05_sex:
     play voice3 kanya_happy_relief2 noloop
     if persistent.is_special is True:
         aw "Thank you, Mom."
-    elif True:
+    else:
         aw "Thank you, Vanessa."
     play voice4 aaleyah_closed_moan5 noloop
     vw "Of course sweetie."
@@ -579,7 +579,7 @@ label e12s05_sex:
     play voice3 kanya_surprised_eeh2 noloop
     if persistent.is_special is True:
         aw "Even with Mom being ultra horny from being knocked up?"
-    elif True:
+    else:
         aw "Even with Vanessa being ultra horny from being knocked up?"
     play voice2 mc_yes_yes3 noloop
     mc "Even with that."
@@ -590,7 +590,7 @@ label e12s05_sex:
     play voice3 kanya_thinking_eeh1 noloop
     if persistent.is_special is True:
         aw "Even when all Mom can do is think about getting railed by your cock [mcname] morning, noon, and night?"
-    elif True:
+    else:
         aw "Even when all Vanessa can do is think about getting railed by your cock [mcname] morning, noon, and night?"
     aw "When she dreams of getting facefucked? When all she can see is your tongue swirling around her pussy, your fingers in her ass, screaming your name as she cums?"
     play voice2 d2s12_emmm noloop
@@ -606,7 +606,7 @@ label e12s05_sex:
     play voice3 kanya_yes_yeah4 noloop
     if persistent.is_special is True:
         aw "Of course, Mom."
-    elif True:
+    else:
         aw "Of course, Vanessa."
     vw "All this talk of fucking and watching you two has me a little worked up."
     vw "Can we have one last hurrah before we take our sex break?"
@@ -701,7 +701,7 @@ label e12s05_sex_again:
     play voice3 kanya_thinking_hmm4 noloop
     if persistent.is_special is True:
         aw "Okay, now Mom, sit on his face."
-    elif True:
+    else:
         aw "Okay Vanessa, now sit on his face."
     play voice4 vanessa_laugh2 noloop
     vw "You don't need to tell me twice."
@@ -723,7 +723,7 @@ label e12s05_sex_again:
     aw "It's not all for you though. I am still a little mad at you."
     if persistent.is_special is True:
         aw "And eating your daughter's ass feels like a good start."
-    elif True:
+    else:
         aw "Eating my ass feels like a good way to make it up to me."
     scene e12s05-a112-01 mc-licks-vw-licks-aw-blows-mc-anim-112-01-01_i with dissolve
     pause
@@ -842,7 +842,7 @@ label e12s05_sex_again:
     play voice3 kanya_sex_openmoans2
     if persistent.is_special is True:
         aw "It's so hot knowing Mom has a front row seat to you fucking me."
-    elif True:
+    else:
         aw "It's so hot knowing Vanessa has a front row seat to you fucking me."
     aw "That she has to wait her turn before she gets to feel you in her."
     aw "Thinking about it has made me cum three times already."
@@ -893,7 +893,7 @@ label e12s05_sex_again:
     vw "Allison, please..."
     if persistent.is_special is True:
         aw "Please what, Mom?"
-    elif True:
+    else:
         aw "Please what, Vanessa?"
     vw "Please can I use [mcname]'s foot to cum?"
     aw "Yes you may."
@@ -936,7 +936,7 @@ label e12s05_sex_again:
     aw "Cum all over his toes."
     if persistent.is_special is True:
         aw "Cum on [mcname]'s toes while he fucks your daughter."
-    elif True:
+    else:
         aw "Cum on [mcname]'s toes while he fucks me. Do it."
     play voice4 chloe_old_orgasming2 noloop
     $ Lovense.stop()
@@ -956,7 +956,7 @@ label e12s05_sex_again:
     play voice3 kanya_arrogant_huh noloop
     if persistent.is_special is True:
         aw "I think it's time to show Mom what she's been missing so far from the show."
-    elif True:
+    else:
         aw "I think it's time to show Vanessa what she's been missing so far from the show."
     play voice2 mc_yes_yeah4 noloop
     mc "We can do that."
@@ -992,7 +992,7 @@ label e12s05_sex_again:
     play voice3 kanya_thinking_hmm3 noloop
     if persistent.is_special is True:
         aw "Are you ready [mcname] to fuck Mom's tight asshole? For the first time?"
-    elif True:
+    else:
         aw "Are you ready [mcname] to fuck Vanessa's tight asshole? For the first time?"
     play voice2 mc_yes_yeah1 noloop
     mc "Fuck Allison. Yeah, I'm ready."
@@ -1051,7 +1051,7 @@ label e12s05_sex_again:
     play voice3 kanya_hey_long noloop
     if persistent.is_special is True:
         aw "How does it feel fucking my Mom in her ass for the first time?"
-    elif True:
+    else:
         aw "How does it feel fucking Vanessa in the ass for the first time?"
     mc "It's so fucking good."
     mct "And so fucking tight, holy shit. I won't be able to do this for too long. Especially with Allison look at me with those eyes."
@@ -1060,7 +1060,7 @@ label e12s05_sex_again:
     play voice3 kanya_happy_relief2 noloop
     if persistent.is_special is True:
         aw "What about you Mom, how do you like getting fucked in the ass?"
-    elif True:
+    else:
         aw "What about you Vanesa, do you like getting fucked in the ass?"
     vw "It's sooooo fuuu-fuuuucking good! Why- Why did it take me- this long. Holy shit."
     scene e12s05-a166-2-f with dissolve
@@ -1116,7 +1116,7 @@ label e12s05_sex_again:
     scene e12s05-176 aw-tells-vw-watching-her-fuck-made-her-hornier_c1 with dissolve
     if persistent.is_special is True:
         aw "Watching you fuck my Mom. Helping you fuck her. Watching her cum when I cum."
-    elif True:
+    else:
         aw "Watching you fuck Vanessa. Helping you fuck her, fucking her, watching her cum when I cum."
     scene e12s05-177 aw-tells-mc-hard-not-fucking-all-she-thinks-about_c1 with dissolve
     aw "It's so fucking hard and so fucking hot."
@@ -1144,7 +1144,7 @@ label e12s05_sex_again:
     scene e12s05-a180-1
     if persistent.is_special is True:
         aw "You hear that? I think Mom is going to cum from watching us."
-    elif True:
+    else:
         aw "You hear that? I think Vanessa is going to cum from watching us."
     pause
     scene e12s05-a180-2 with dissolve
@@ -1193,7 +1193,7 @@ label e12s05_sex_again:
             scene e12s05-a184-1-f with dissolve
             if persistent.is_special is True:
                 aw "What, are you saying that my tight pussy and Mom's warm tongue isn't good enough?"
-            elif True:
+            else:
                 aw "What, are you saying that my tight pussy and Vanessa's warm tongue isn't good enough?"
             mc "Allison-"
             aw "I know that can't be true."
@@ -1300,7 +1300,7 @@ label e12s05_end:
         play voice4 chloe_disappointed_oh noloop
         vw "I couldn't have been gifted with a better daughter either, Allison."
         aw "I love you, Mom."
-    elif True:
+    else:
         aw "We've had our ups and downs, but I'm grateful you're back in my life."
         play voice4 chloe_disappointed_oh noloop
         vw "I'm glad to be back in your life too, Allison."
@@ -1338,5 +1338,4 @@ label e12s05_end:
     stop music2 fadeout 3.0
 
     jump e12s06
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

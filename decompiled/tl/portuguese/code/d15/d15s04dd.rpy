@@ -1,6 +1,4 @@
 
-
-
 translate portuguese d15s04dd_ab7f1b7a:
 
 
@@ -943,5 +941,4 @@ translate portuguese strings:
 
     old "Don't"
     new "Não beijar"
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

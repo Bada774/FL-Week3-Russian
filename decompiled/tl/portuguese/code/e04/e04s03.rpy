@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e04s03_a5af4321:
 
 
@@ -1499,5 +1497,4 @@ translate portuguese e04s03_end_0f4f597e:
 
 
     sy "Hehe. Relaxa. Com o que eu tô bolando, vai valer cada centavo."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

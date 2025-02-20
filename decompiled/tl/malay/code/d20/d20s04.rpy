@@ -1,6 +1,4 @@
 
-
-
 translate malay d20s04_63ba38f0:
 
 
@@ -1441,8 +1439,6 @@ translate malay strings:
     new "Tipu"
 
 
-
-
 translate malay d20s04_zw_wrong_6a261f5c:
 
 
@@ -1459,5 +1455,4 @@ translate malay strings:
 
     old "She was just visiting."
     new "Dia hanya melawat."
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

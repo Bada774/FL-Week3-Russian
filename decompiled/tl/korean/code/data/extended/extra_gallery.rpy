@@ -1,5 +1,3 @@
-
-
 translate korean strings:
 
 
@@ -366,4 +364,125 @@ translate korean strings:
     old "APPY"
     new "APPY"
 
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+translate korean strings:
+
+
+    old "Finish Ending 4 and Ending 7"
+    new "Finish Ending 4 and Ending 7"
+
+
+    old "36. Don't threaten me with a good time"
+    new "36. Don't threaten me with a good time"
+
+
+    old "Finish all 6 Endings from DLC-2"
+    new "Finish all 6 Endings from DLC-2"
+
+
+    old "37. I saw, I came, I conquered"
+    new "37. I saw, I came, I conquered"
+
+
+    old "Have all Characters in last orgy in Ending 9"
+    new "Have all Characters in last orgy in Ending 9"
+
+
+    old "38. Golden Pass"
+    new "38. Golden Pass"
+
+
+    old "Have all Characters in Ending 15"
+    new "Have all Characters in Ending 15"
+
+
+    old "39. She belongs in a museum"
+    new "39. She belongs in a museum"
+
+
+    old "Find golden Lyssa (Ending 3)"
+    new "Find golden Lyssa (Ending 3)"
+
+
+    old "40. Do the Pulp Fiction Thing"
+    new "40. Do the Pulp Fiction Thing"
+
+
+    old "Do the pulp fiction thing (Ending 18)"
+    new "Do the pulp fiction thing (Ending 18)"
+
+
+    old "41. Backdoor Cat Girl"
+    new "41. Backdoor Cat Girl"
+
+
+    old "Backdoor Cat Girl (Ending 16)"
+    new "Backdoor Cat Girl (Ending 16)"
+
+
+    old "42. Pee Bootcamp"
+    new "42. Pee Bootcamp"
+
+
+    old "Begin Olivia's Training"
+    new "Begin Olivia's Training"
+
+
+    old "43. Choo-choo"
+    new "43. Choo-choo"
+
+
+    old "Choo-choo (Ending 5)"
+    new "Choo-choo (Ending 5)"
+
+
+    old "44. Londyn Twice"
+    new "44. Londyn Twice"
+
+
+    old "Meet Londyn in Ending 9 and Ending 18"
+    new "Meet Londyn in Ending 9 and Ending 18"
+
+
+    old "45. I've seen all the possible outcomes"
+    new "45. I've seen all the possible outcomes"
+
+
+    old "Finish all 18 Endings"
+    new "Finish all 18 Endings"
+
+
+    old "SPIT ON THAT THANG!"
+    new "SPIT ON THAT THANG!"
+
+
+    old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+
+
+    old "Fucking\na girl"
+    new "Fucking\na girl"
+
+
+    old "Fucking\na catgirl"
+    new "Fucking\na catgirl"
+
+
+    old "Hard to\nswallow\npills"
+    new "Hard to\nswallow\npills"
+
+
+    old "He will never\nrun out of pee"
+    new "He will never\nrun out of pee"
+
+
+    old "NEXT STOP"
+    new "NEXT STOP"
+
+
+    old "PENETRATION STATION"
+    new "PENETRATION STATION"
+
+
+    old "They don't know that\nI appear in two endings"
+    new "They don't know that\nI appear in two endings"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

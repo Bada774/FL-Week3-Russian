@@ -409,7 +409,7 @@ label e01s01_choice_done:
         scene e01s01-a49-glambot-2
         pause
         scene e01s01-50 sy-smirks-flirtatiously_c1 with dissolve
-    elif True:
+    else:
         scene e01s01-50 sy-smirks-flirtatiously_c1 with dissolve
         play voice3 stacy_oh noloop
         sy "Oooh, interesting."
@@ -419,7 +419,7 @@ label e01s01_choice_done:
     if e01s01_bdsm_sub is True and e01s01_footfet is True:
         if e01s01_bdsm_dom is True:
             sy "{i}And{/i} you like feet? I guess that makes sense."
-        elif True:
+        else:
             play voice3 stacy_huh2 noloop
             sy "You like feet? I guess that makes sense."
         scene e01s01-48 sy-smirks-happy-with-answer_c1 with dissolve
@@ -435,7 +435,7 @@ label e01s01_choice_done:
     play voice3 polly_wooh noloop
     if e01s01_fetish_count == 0:
         sy "Okay! Let's get to it."
-    elif True:
+    else:
         sy "Okay! That's the list settled then."
     play sound sfx_cloth_rustling1 volume 2.0
     scene e01s01-52 sy-get-up-puts-laptop-table_c1 with dissolve
@@ -483,7 +483,7 @@ label e01s01_choice_done:
     scene e01s01-62 sy-makes-mc-hard_c1 with dissolve
     if e01s01_bdsm_dom is True:
         sy "Ready, Sir?"
-    elif True:
+    else:
         sy "Oooh, looks like he's ready now."
     $ Lovense.vibrate(2)
     play sound maria_kiss1
@@ -857,7 +857,7 @@ label e01s01_sexshuffle:
         jump e01s01_scene_watersports
     elif e01s01_next_jump == "footfetish":
         jump e01s01_scene_footfet
-    elif True:
+    else:
         jump e01s01_finale
 
 label e01s01_scene_vanilla_01:
@@ -1594,7 +1594,7 @@ label e01s01_inbetween_jump:
         jump e01s01_inbetween_4
     elif e01s01_next_inbetween == "inbetween_5":
         jump e01s01_inbetween_5
-    elif True:
+    else:
         jump e01s01_sexshuffle
 
 label e01s01_inbetween_1:
@@ -1873,7 +1873,7 @@ label e01s01_finale:
     play voice2 d7s4_mcbreathing noloop fadein 1.0
     if e01s01_creampie is True:
         scene e01s01-116-08 sy-mc-lie-in-bed-no-cum_c1 with dissolve
-    elif True:
+    else:
         scene e01s01-116-05 sy-mc-lie-in-bed_c1 with dissolve
     stop voice2 fadeout 2.6
     "Both" "*Heaving*"
@@ -1912,5 +1912,4 @@ label e01s01_finale:
     stop music2 fadeout 3.5
 
     jump e01s02
-
-  # Decompiled by unrpyc_v1.2.0-alpha: https://github.com/CensoredUsername/unrpyc
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
