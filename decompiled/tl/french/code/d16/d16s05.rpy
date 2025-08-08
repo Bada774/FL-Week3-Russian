@@ -14,7 +14,7 @@ translate french d16s05_01605c6d:
 translate french d16s05_95fb65d7:
 
 
-    sy "Oh s'il te plaît, comme si tu ne m'avais jamais vu nu auparavant."
+    sy "Oh s'il te plaît, comme si tu ne m'avais jamais vu nue auparavant."
 
 
 translate french d16s05_c1f733bb:
@@ -26,37 +26,37 @@ translate french d16s05_c1f733bb:
 translate french d16s05_10d8c479:
 
 
-    mc "Je l'ai fait!"
+    mc "Je l'ai fait !"
 
 
 translate french d16s05_7562bd6c:
 
 
-    sy "Et puis je suis entré tout de suite!"
+    sy "Et ensuite tu es entré directement !"
 
 
 translate french d16s05_6a1c34dd:
 
 
-    mc "Je respecte votre vie privée en frappant mais j'affirme mon autorité en tant que frère en entrant quand même."
+    mc "Je respecte ta vie privée en frappant, mais j'affirme mon autorité en tant que frère en entrant quand même."
 
 
 translate french d16s05_c32c1863:
 
 
-    mc "Je respecte votre vie privée en frappant mais j'affirme mon autorité en tant qu'ami en entrant quand même."
+    mc "Je respecte ta vie privée en frappant, mais j'affirme mon autorité en tant qu'ami en entrant quand même."
 
 
 translate french d16s05_26ed2594:
 
 
-    sy "Tête de noeud"
+    sy "Tête de nœud !"
 
 
 translate french d16s05_74991b70:
 
 
-    mc "Pourquoi tu t'habilles d'ailleurs?"
+    mc "Pourquoi tu t'habilles comme ça, au fait ?"
 
 
 translate french d16s05_70db20f4:
@@ -68,19 +68,19 @@ translate french d16s05_70db20f4:
 translate french d16s05_ea3b47e0:
 
 
-    mc "...Hein?"
+    mc "...Hein ?"
 
 
 translate french d16s05_175cb703:
 
 
-    sy "Oh, c'est vrai. Tu vois, un travail, c'est ce que tu fais pour gagner mon—"
+    sy "Oh, c'est vrai. Tu vois, un travail, c'est ce que tu fais pour gagner de l'argen—"
 
 
 translate french d16s05_5416ab6b:
 
 
-    mc "Je sais ce qu'est un travail, espèce de connard sarcastique."
+    mc "Je sais ce qu'est un travail, espèce de connasse sarcastique."
 
 
 translate french d16s05_903fcba2:
@@ -92,79 +92,73 @@ translate french d16s05_903fcba2:
 translate french d16s05_36ce294c:
 
 
-    sy "À propos de quoi?"
+    sy "À propos de quoi ?"
 
 
 translate french d16s05_7f2fb618:
 
 
-    mc "A propos de trouver un travail."
+    mc "Que tu trouves un boulot."
 
 
 translate french d16s05_6cb2efbb:
 
 
-    sy "Pourquoi est-ce surprenant?"
+    sy "Pourquoi est-ce surprenant ?"
 
 
 translate french d16s05_49e314c7:
 
 
-    mc "...Je ne sais pas."
+    mc "...Je sais pas."
 
 
 translate french d16s05_48907d2c:
 
 
-    mc "J'ai l'impression que tu as grandie, je suppose."
+    mc "J'ai l'impression que tu grandies."
 
 
 translate french d16s05_f992d8e8:
 
 
-    sy "Je {i}je suis{/i} une adulte."
+    sy "Je {i}suis{/i} une adulte."
 
 
 translate french d16s05_12945c16:
 
 
-    mc "Tu es pratiquement un fœtus. Ferme ta gueule."
+    mc "T'es pratiquement un fœtus donc... ta gueule."
 
 
 translate french d16s05_88ccb475:
 
 
-    sy "Je vais devoir trouver un travail tôt ou tard."
+    sy "Je vais devoir trouver un travail tôt ou tard de toute façon."
 
 
 translate french d16s05_d52a4038:
 
 
-    sy "Je ne peux pas vivre cette vie de fille sexy en étant fauché."
+    sy "Je peux pas vivre une vie de meuf sexy en étant fauchée."
 
 
 translate french d16s05_c537ddd1:
 
 
-    mc "*Rires* C'est vrai, c'est vrai."
+    mc "*Rire* C'est vrai, c'est vrai."
 
 
 translate french d16s05_e9eba40c:
 
 
-    sy "De quoi ai-je l'air?"
+    sy "Comment je suis ?"
 
 
 translate french d16s05_215e1dcd:
 
 
-    mc "Professionnel à souhait. Élégant et propre avec un côté de patronne."
-
-
-translate french d16s05_e02ad694:
-
-
-    sy "Putain ouais, c'est de ça que je parle."
+    mc "Carrément pro. Élégante, clean, avec une touche de patronne."
 
 
 translate french d16s05_aaa5766b:
@@ -176,121 +170,121 @@ translate french d16s05_aaa5766b:
 translate french d16s05_853b737f:
 
 
-    mc "Je commence sérieusement à m'inquiéter à propos de ta consommation de caféine."
+    mc "Je commence sérieusement à m'inquiéter pour ta consommation de caféine."
 
 
 translate french d16s05_168a01a4:
 
 
-    sy "C'est ça ou la cocaïne, choisis ton poison."
+    sy "C’est ça ou la cocaïne, choisis ton poison."
 
 
 translate french d16s05_69fed768:
 
 
-    mc "Assez juste.{w} Alors, c'est quoi ce job de toute façon?"
+    mc "Ça se tient.{w} Alors, c’est quoi ce boulot au juste ?"
 
 
 translate french d16s05_c36c5785:
 
 
-    sy "Je ne suis pas sûr, ils n'étaient pas précis."
+    sy "Pas sûr, ils n’ont pas été très clairs."
 
 
 translate french d16s05_d78f366c:
 
 
-    sy "Mais j'ai trouvé un dépliant disant que le CPD recherchait des personnes ayant des \"connaissances en informatique\". Quoi que cela puisse signifier."
+    sy "Mais j’ai trouvé un flyer disant que le CPD cherchait des gens avec des \"connaissances en informatique\". Quoi que ça veuille dire."
 
 
 translate french d16s05_d36be2f6:
 
 
-    sy "J'espère que c'est un travail de développement ou quelque chose comme ça."
+    sy "J’espère que c’est un taf de dev ou un truc du genre."
 
 
 translate french d16s05_3ef4a176:
 
 
-    mc "Tu vas travailler pour les flics?"
+    mc "Tu vas bosser pour les flics ?"
 
 
 translate french d16s05_54051cea:
 
 
-    sy "Hé, je ne dis pas non à cet argent du gouvernement."
+    sy "Hé, je dis pas non à l’argent du gouvernement."
 
 
 translate french d16s05_347ea5e9:
 
 
-    mc "Savez-vous au moins combien ils paient?"
+    mc "Tu sais au moins combien ils paient ?"
 
 
 translate french d16s05_1558ad73:
 
 
-    sy "Non. Mais je suis sûr que je peux me permettre de gagner quelques centaines de milliers de dollars."
+    sy "Non, mais je suis sûre que je peux leur soutirer quelques centaines de milliers."
 
 
 translate french d16s05_5e44a000:
 
 
-    mc "Très bien..."
+    mc "Ouais, ouais…"
 
 
 translate french d16s05_75cafdd2:
 
 
-    sy "Très bien. Euh... je pense que c'est tout."
+    sy "Bon. Euh... Je crois que c’est tout."
 
 
 translate french d16s05_e15e1041:
 
 
-    sy "Je suis prêt à partir."
+    sy "Je suis prête à y aller."
 
 
 translate french d16s05_b2805601:
 
 
-    sy "Ils ont littéralement eu l'audace de dire \"{i}D'une manière ou d'une autre{/i} Palpatine est revenu.\"{i}{b}D'une manière ou d'une autre!?{/b}{/i}?"
+    sy "Ils ont littéralement eu l’audace de sortir \"{i}D’une manière ou d’une autre{/i}, Palpatine est revenu.\" {b}D’une manière ou d’une autre !?{/b} {i}{b}Sérieusement !?{/b}{/i}?"
 
 
 translate french d16s05_a5a58593:
 
 
-    mc "Très bien, eh bien, j'admets que cette réplique était difficile."
+    mc "Ok, j’admets que cette réplique était rude."
 
 
 translate french d16s05_1ec95372:
 
 
-    mc "Mais je ne sais pas mec, j'ai toujours aimé ça."
+    mc "Mais je sais pas, j’ai quand même un peu aimé."
 
 
 translate french d16s05_141b24ae:
 
 
-    sy "Eh bien, ton goût est nul et tu devrais te sentir mal."
+    sy "Eh bien, t’as des goûts de merde et tu devrais en avoir honte."
 
 
 translate french d16s05_da464676:
 
 
-    sy "Cul."
+    sy "Connard."
 
 
 translate french d16s05_01d4eb83:
 
 
-    sy "Oh! Au fait, comment est la euh...{i}situation{/i} d'ailleurs?"
+    sy "Oh ! Au fait, comment va la euh... {i}situation{/i} ?"
 
 
 translate french d16s05_f183c907:
 
 
-    mc "Quoi-?"
+    mc "Quoi—?"
 
 
 translate french d16s05_b8de06d3:
@@ -302,49 +296,49 @@ translate french d16s05_b8de06d3:
 translate french d16s05_66c2169b:
 
 
-    mc "Je suis sorti."
+    mc "Je suis sorti d’affaire."
 
 
 translate french d16s05_8ff2e7d6:
 
 
-    sy "Quoi? C'est génial! Comment?"
+    sy "Quoi ? C’est génial ! Comment ?"
 
 
 translate french d16s05_993e9628:
 
 
-    mc "Euh... C'est tout un truc, pour être honnête."
+    mc "Euh… C’est un peu compliqué, pour être honnête."
 
 
 translate french d16s05_32c9ed06:
 
 
-    mc "La version courte est que vous obtenez un jeton spécial si vous faites des conneries sauvages et fétichistes que vous pouvez ensuite utiliser pour sauter/raccourcir certains défis."
+    mc "La version courte, c’est que tu gagnes un jeton spécial si tu fais des trucs sauvages et fétichistes, que tu peux ensuite utiliser pour sauter ou raccourcir certains défis."
 
 
 translate french d16s05_c8325d75:
 
 
-    mc "J'en avais assez de ces jetons, alors je suis sorti."
+    mc "J’en avais assez, alors j’en ai profité pour me barrer."
 
 
 translate french d16s05_27b0f30f:
 
 
-    sy "Euh, eh bien, c'est super! Tu as enfin récupéré ta bite."
+    sy "Eh ben, c’est super ! T’as enfin récupéré ta bite."
 
 
 translate french d16s05_44d41454:
 
 
-    sy "Peut-être que nous pourrons l'utiliser plus tard ce soir."
+    sy "On pourra peut-être l’utiliser ce soir."
 
 
 translate french d16s05_00a31899:
 
 
-    mc "J'epère, J'epère."
+    mc "Comme d’hab, comme d’hab."
 
 
 translate french d16s05_14e8906d:
@@ -356,7 +350,7 @@ translate french d16s05_14e8906d:
 translate french d16s05_1363aa37:
 
 
-    sy "Merde... Eh bien... Peut-être que nous essaierons de voir ce que nous pouvons faire à ce sujet plus tard ce soir."
+    sy "Eh bien... Peut-être qu’on verra ce qu’on peut faire à ce sujet ce soir."
 
 
 translate french d16s05_78620014:
@@ -404,13 +398,13 @@ translate french d16s05_2d160d94:
 translate french d16s05_b3d7a39e:
 
 
-    mc "Si quelqu'un découvre notre existence..."
+    mc "Si quelqu'un découvre notre relation..."
 
 
 translate french d16s05_0d1bb08d:
 
 
-    sy "On s'en fiche? Baise-les."
+    sy "On s'en fiche? on les emmerdes."
 
 
 translate french d16s05_c63def3f:
@@ -428,7 +422,7 @@ translate french d16s05_dbfcac96:
 translate french d16s05_e3c6a6b7:
 
 
-    sy "Les gens qui ne peuvent pas rester dans leur putain de voie peuvent aller se faire foutre."
+    sy "Les gens qui ne peuvent pas rester dans leur putain de voie peuvent aller se faire enculés."
 
 
 translate french d16s05_7e23f439:
@@ -440,7 +434,7 @@ translate french d16s05_7e23f439:
 translate french d16s05_cbabdc91:
 
 
-    sy "Pourquoi? Pourquoi ne pouvons-nous pas simplement intervenir?"
+    sy "Pourquoi? Pourquoi ne pouvons-nous pas simplement le faire?"
 
 
 translate french d16s05_b8900318:
@@ -488,7 +482,7 @@ translate french d16s05_b5fa82b7:
 translate french d16s05_be70717b:
 
 
-    mc "On dirait que nous sommes là."
+    mc "On dirait que nous y sommes"
 
 
 translate french d16s05_4908f658:
@@ -500,7 +494,7 @@ translate french d16s05_4908f658:
 translate french d16s05_b684d49f:
 
 
-    sy "Ugh, combien de temps cela va-t-il prendre?"
+    sy "Ugh, combien de temps ça prendre?"
 
 
 translate french d16s05_7adf0993:
@@ -548,7 +542,7 @@ translate french d16s05_b18aa2bc:
 translate french d16s05_cad3d574:
 
 
-    mc "Seulement si tu en fais un. Maintenant, bois."
+    mc "Seulement si tu en fais une. Maintenant, bois."
 
 
 translate french d16s05_c281cb0e:
@@ -626,7 +620,7 @@ translate french d16s05_4271e38e:
 translate french d16s05_e7d4bd91:
 
 
-    sy "Assez bien."
+    sy "On peux dire ça."
 
 
 translate french d16s05_65a76881:
@@ -692,13 +686,13 @@ translate french d16s05_2817129d:
 translate french d16s05_d9225ff6:
 
 
-    sy "Mais comment c'était avant ça? Est-ce que vous devenez sérieux maintenant? Que se passe-t-il? Donnez-moi les détails."
+    sy "Mais comment c'était avant ça? Est-ce que vous devenez sérieux maintenant? Que se passe-t-il? Donne-moi les détails."
 
 
 translate french d16s05_1dc0a15b:
 
 
-    mc "Euh... Eh bien, je suppose? Nous nous rapprochons. Et je veux continuer à la voir."
+    mc "Euh... Eh bien, nous nous rapprochons. Et je veux continuer à la voir."
 
 
 translate french d16s05_211e3808:
@@ -740,7 +734,7 @@ translate french d16s05_3a799a88:
 translate french d16s05_3614f832:
 
 
-    sy "Qui ne serait pas intéressé par elle? L'avez-vous {i}vue{/i}?"
+    sy "Qui ne serait pas intéressé par elle? L'as-tu {i}vue{/i}?"
 
 
 translate french d16s05_ab33ffd2:
@@ -794,7 +788,7 @@ translate french d16s05_b8161c52:
 translate french d16s05_9aaae8ae:
 
 
-    "Femme" "Super, suivez-moi s'il te plaît."
+    "Femme" "Super, suivez-moi s'il vous plaît."
 
 
 translate french d16s05_567faf98:
@@ -860,13 +854,13 @@ translate french d16s05_7bdf47c4:
 translate french d16s05_6ea7d144:
 
 
-    sy "La vie est de la merde et de toute façon, nous sommes tous fous pour y faire face."
+    sy "La vie c'est de la merde et de toute façon, nous sommes tous fous pour y faire face."
 
 
 translate french d16s05_2905d6b4:
 
 
-    sy "Ils peuvent aller se faire foutre avec ces conneries de tests antidopage."
+    sy "Ils peuvent aller se faire foutre avec leurs conneries de tests antidopage."
 
 
 translate french d16s05_304c149c:
@@ -884,7 +878,7 @@ translate french d16s05_c3f9317d:
 translate french d16s05_80238046:
 
 
-    sy "Oh, ouais en fait."
+    sy "Oh, en fait ouais."
 
 
 translate french d16s05_407cebc9:
@@ -926,7 +920,7 @@ translate french d16s05_a75d6526:
 translate french d16s05_0da34214:
 
 
-    sy "Eh bien... je ne sais pas. C'est un travail stable et je peux commencer quand tu veux."
+    sy "Eh bien... je ne sais pas. C'est un travail stable et je peux commencer quand je veux."
 
 
 translate french d16s05_4967428d:
@@ -950,7 +944,7 @@ translate french d16s05_b6ac60e5:
 translate french d16s05_800d7353:
 
 
-    sy "Je peux faire n'importe quoi, n'importe quand, et personne ne peut me dire de la merde."
+    sy "Je peux faire n'importe quoi, n'importe quand, et personne ne pourras m'emmerder."
 
 
 translate french d16s05_12c0c1df:
@@ -1093,4 +1087,11 @@ translate french strings:
 
     old "Ask her if she got any pictures"
     new "Demandez-lui si elle a des photos"
+
+
+
+translate french d16s05_e02ad694:
+
+
+    sy "Fuck yeah, that's what I'm talking about."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

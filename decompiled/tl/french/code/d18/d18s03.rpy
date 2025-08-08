@@ -1,180 +1,150 @@
 
 translate french d18s03_ec5dba5c:
 
-
     mc "Salut Minnie."
 
 
 translate french d18s03_c57f559c:
-
 
     mes "Ne m'appelle pas comme ça.{w} As-tu apporté...{w} du fromage?"
 
 
 translate french d18s03_9631dfec:
 
-
     mc "Le meilleur que j'ai pu trouver."
 
 
 translate french d18s03_da2ccb3e:
-
 
     mes "Tu sais que je suis intolérant au lactose, n'est-ce pas?"
 
 
 translate french d18s03_b34166f2:
 
-
     mc "Sérieusement?! Je n'ai pas-"
 
 
 translate french d18s03_61a3b8b5:
-
 
     mes "Je te taquine.{w} Bien que ma mère ait été tuée par une meule de fromage géante."
 
 
 translate french d18s03_130495f6:
 
-
     mc "Maintenant je sais que tu plaisantes."
 
 
 translate french d18s03_3ae3eefb:
-
 
     mes "Les festivals de bière allemands peuvent devenir incontrôlables."
 
 
 translate french d18s03_fb7bcec0:
 
-
     mc "Eh bien, ce gouda prétend venir de Hollande..."
 
 
 translate french d18s03_31732d27:
-
 
     mes "Correction. Le gouda fumé que tu as apporté vient de {b}la{/b} province de Hollande méridionale aux Pays-Bas."
 
 
 translate french d18s03_678ea6fa:
 
-
     mc "Tu comptes me casser les couilles toute la journée?"
 
 
 translate french d18s03_01a28e6c:
-
 
     mes "Si tu as de la chance.{w} Même si j'étais sérieuse au sujet de ne pas m'appeler \"Minnie\"."
 
 
 translate french d18s03_a7f2d2d2:
 
-
     mc "C'est noté. Ni souris, ni la petite taille."
 
 
 translate french d18s03_a8cc2905:
-
 
     mes "Tu as bien fait. C'est l'un de mes fromages préférés."
 
 
 translate french d18s03_019e500b:
 
-
     mc "Eh bien, c'était soit ça, soit le vin, et je pensais que tu étais calé à propos des vins."
 
 
 translate french d18s03_2093761c:
-
 
     mes "Je le suis. Je connais le Malbec, idéal pour accompagner ça."
 
 
 translate french d18s03_a91ab50d:
 
-
     mc "Alors, ta mère...?"
 
 
 translate french d18s03_2f74d4bf:
-
 
     mes "Oh, elle est en parfaite santé. Je ne pense pas qu'elle soit déjà allée en Allemagne."
 
 
 translate french d18s03_a72c4b3e:
 
-
     mc "Y a-t-il d'autres tragédies familiales dont je devrais être au courant?"
 
 
 translate french d18s03_6dc107af:
-
 
     mes "Mon frère travaille pour notre père. Ils sont tous les deux quelque part à l'étranger ces jours-ci.{w} Corée du Sud, probablement."
 
 
 translate french d18s03_83a8823b:
 
-
     mes "Maman est actuellement en visite à Tokyo."
 
 
 translate french d18s03_1103ab79:
-
 
     mc "Alors tu es toute seule?"
 
 
 translate french d18s03_6ca8a528:
 
-
     mes "Je ne dirais pas ça.{w} Même si je pensais que des saucisses iraient bien avec ça."
 
 
 translate french d18s03_0f83ba1f:
-
 
     mc "Genre, saucisse saucisse, ou genre... \"saucisse\"?"
 
 
 translate french d18s03_5d0a424c:
 
-
     mes "Je pensais à du Kielbasa estonien, mais j'aime où va ton esprit."
 
 
 translate french d18s03_b697527e:
-
 
     mc "Peut-être qu'on devrait-"
 
 
 translate french d18s03_45704880:
 
-
-    mes "On devrait étudier d'abord. Alors peut-être qu'on pourra se laisser distraire par la viande que tu as apportée."
+    mes "On devrait étudier d'abord. Alors peut-être qu'on pourra se laisser distraire par la saucisse que tu as apportée."
 
 
 translate french d18s03_43e0c08c:
-
 
     mc "Bonne réflexion. Etudions d'abord.{w} Devons-nous en faire un pari?"
 
 
 translate french d18s03_bf41a2d3:
 
-
     mes "Bien sûr. La compétition fait ressortir le meilleur, et le pire, de moi."
 
 
 translate french d18s03_bb823e8a:
-
 
     mc "Quelles sont les conditions?"
 
@@ -182,7 +152,7 @@ translate french d18s03_bb823e8a:
 translate french d18s03_27191d71:
 
 
-    mes "Voyons voir. Si je gagne, je te fous la cervelle."
+    mes "Voyons voir. Si je gagne, je te retourne la cervelle."
 
 
 translate french d18s03_0a37a190:
@@ -194,7 +164,7 @@ translate french d18s03_0a37a190:
 translate french d18s03_a9034c72:
 
 
-    mes "Oh, non. Si tu gagnes, tu peux me faire tout ce que tu veux, et ensuite je te fous la cervelle."
+    mes "Oh, non. Si tu gagnes, tu peux me faire tout ce que tu veux, et ensuite je te retourne la cervelle."
 
 
 translate french d18s03_34467054:
@@ -356,43 +326,43 @@ translate french d18s03_42d9081e:
 translate french d18s03_8e359492:
 
 
-    mc "Bien."
+    mc "Très bien."
 
 
 translate french d18s03_3e071e38:
 
 
-    mc "En voici une très simple pour toi : Qui est l'auteur de \"Réminiscences d'un opérateur boursier\"?"
+    mc "En voici une très simple pour toi – qui est l’auteur de « Réminiscences d’un opérateur boursier » ?"
 
 
 translate french d18s03_1f4a94fb:
 
 
-    mes "Trop facile. Jesse Livermore. Je viens de te le dire."
+    mes "Trop facile. Jesse Livermore. Je viens juste de te le dire."
 
 
 translate french d18s03_fd66f41e:
 
 
-    mc "Et tu avais tort. Jesse Livermore était le personnage principal du livre, mais l'auteur était Edwin Lefèvre."
+    mc "Et tu avais tort. Jesse Livermore était le personnage principal du livre, mais l’auteur, c’était Edwin Lefèvre."
 
 
 translate french d18s03_df0cf6bc:
 
 
-    mes "Quoi?! Tu plaisante!!!"
+    mes "Quoi ?! Tu te fous de moi !!!"
 
 
 translate french d18s03_d91d93d0:
 
 
-    mes "Comment n'ai-je jamais remarqué ça?"
+    mes "Comment j’ai jamais remarqué ça ?"
 
 
 translate french d18s03_5627152c:
 
 
-    mc "Eh bien, maintenant tu sais..."
+    mc "Eh ben, maintenant tu sais..."
 
 
 translate french d18s03_0ffb6638:
@@ -404,67 +374,67 @@ translate french d18s03_0ffb6638:
 translate french d18s03_106cfa2d:
 
 
-    mes "Si n et p sont tous deux des nombres impairs, lequel des nombres suivants doit être un nombre pair?"
+    mes "Si n et p sont tous les deux des nombres impairs, lequel des nombres suivants doit être pair ?"
 
 
 translate french d18s03_c0b7e7c8:
 
 
-    mc "Si n et p sont tous deux des nombres impairs, alors n plus p doivent être un nombre pair."
+    mc "Si n et p sont impairs, alors n + p doit être pair."
 
 
 translate french d18s03_55f69be0:
 
 
-    mes "C'est vrai."
+    mes "C’est vrai."
 
 
 translate french d18s03_29634f28:
 
 
-    mc "Si n et p sont tous deux des nombres impairs, alors n fois p doit être un nombre pair."
+    mc "Si n et p sont impairs, alors n multiplié par p doit être pair."
 
 
 translate french d18s03_0ece7e56:
 
 
-    mes "Non. Par exemple: Trois fois cinq font quinze."
+    mes "Non. Par exemple : trois fois cinq font quinze."
 
 
 translate french d18s03_a7e281de:
 
 
-    mc "Hmm... Si n et p sont tous deux des nombres impairs, alors n fois p plus deux doivent être pairs."
+    mc "Hmm... si n et p sont impairs, alors n fois p plus deux doit être pair."
 
 
 translate french d18s03_42bc1c41:
 
 
-    mes "Non. Même pas proche."
+    mes "Non. Pas du tout."
 
 
 translate french d18s03_932b9a5c:
 
 
-    mc "Si n et p sont tous deux des nombres impairs, alors n plus p doit être impair, donc n plus p plus 1 doit être pair."
+    mc "Si n et p sont impairs, alors n + p est impair, donc n + p + 1 est pair."
 
 
 translate french d18s03_2a8558e8:
 
 
-    mes "Non. C'est exactement à l'envers."
+    mes "Non. C’est exactement l’inverse."
 
 
 translate french d18s03_5d02299f:
 
 
-    mct "Je devrais essayer de lui mettre un peu de pression et voir si je peux prendre l'avantage."
+    mct "Je devrais essayer de lui mettre un peu la pression pour voir si je peux prendre l’avantage."
 
 
 translate french d18s03_5b2a287a:
 
 
-    mc "Réfléchis vite: Chaque ministre est un étudiant. Chaque étudiant est inexpérimenté. Alors quoi?!"
+    mc "Réfléchis vite : chaque ministre est un étudiant. Chaque étudiant est inexpérimenté. Donc quoi ?!"
 
 
 translate french d18s03_68729103:
@@ -476,37 +446,37 @@ translate french d18s03_68729103:
 translate french d18s03_cfd721d7:
 
 
-    mc "Putain. Je pensais pouvoir te déstabiliser en te mettant la pression."
+    mc "Merde. Je pensais pouvoir te déstabiliser avec un peu de pression."
 
 
 translate french d18s03_dbc14ce6:
 
 
-    mes "Ça n'arrivera pas. Je prospère sous la pression."
+    mes "Ça n’arrivera pas. Je m’épanouis sous pression."
 
 
 translate french d18s03_f28eb19a:
 
 
-    mc "J'aurais dû réaliser que ça ne marcherait pas."
+    mc "J’aurais dû me douter que ça marcherait pas."
 
 
 translate french d18s03_ba080a07:
 
 
-    mes "A mon tour. Que signifie l'acronyme CTBT?"
+    mes "À mon tour. Que signifie l’acronyme CTBT ?"
 
 
 translate french d18s03_8ae901c4:
 
 
-    mc "Thérapie cognitive et thérapie comportementale?"
+    mc "Thérapie cognitive et thérapie comportementale ?"
 
 
 translate french d18s03_a101669b:
 
 
-    mes "Désolé, non.{w} Je pense que tu penses à la thérapie cognitivo-comportementale - ou TCC."
+    mes "Désolée, non.{w} Je pense que tu penses à la thérapie cognitivo-comportementale – ou TCC."
 
 
 translate french d18s03_38b5e631:
@@ -518,157 +488,157 @@ translate french d18s03_38b5e631:
 translate french d18s03_cd67cd7b:
 
 
-    mc "Bite, souillure et torture de balle?"
+    mc "Bite, raie et torture de couilles ?"
 
 
 translate french d18s03_3c285b10:
 
 
-    mes "*riant* J'espère que non!"
+    mes "*rire* J’espère que non !"
 
 
 translate french d18s03_1a7619cf:
 
 
-    mc "Oh, attends, c'est CBT - Cock and Ball Torture."
+    mc "Ah, attends, ça c’est CBT – Cock and Ball Torture ( bite et torture de couilles)."
 
 
 translate french d18s03_77b50799:
 
 
-    mes "On pourra essayer ça plus tard si tu veux."
+    mes "On peut essayer ça plus tard si tu veux."
 
 
 translate french d18s03_f748889d:
 
 
-    mc "Non merci. Je ne suis pas d'humeur en ce moment."
+    mc "Non merci. J’suis pas d’humeur là."
 
 
 translate french d18s03_af99ffb9:
 
 
-    mc "Non merci. Je vais laisser de côté ça."
+    mc "Non merci. Je vais passer mon tour."
 
 
 translate french d18s03_6e485b39:
 
 
-    mc "CTBT signifie Traité d’interdiction complète des essais nucléaires."
+    mc "CTBT signifie Traité d'interdiction complète des essais nucléaires."
 
 
 translate french d18s03_1187ac2a:
 
 
-    mes "Très bien. Je ne m'attendais pas à ce que tu saches ça."
+    mes "Très bien. Je ne pensais pas que tu saurais ça."
 
 
 translate french d18s03_22d5a102:
 
 
-    mc "Merci, je pense."
+    mc "Merci, je crois."
 
 
 translate french d18s03_b3b0e397:
 
 
-    mc "Voyons voir...{w} Commercial...{w} Tax Based...{w} Tarif?"
+    mc "Voyons voir...{w} Commercial...{w} Basé sur les taxes...{w} Tarif ?"
 
 
 translate french d18s03_107d8b31:
 
 
-    mes "Les tarifs sont des taxes. Que signifierait un tarif basé sur une taxe commerciale?"
+    mes "Les tarifs sont déjà des taxes. Que voudrait dire un tarif basé sur une taxe commerciale ?"
 
 
 translate french d18s03_17868f0b:
 
 
-    mc "Hmm. Je suppose que je me suis trompé alors."
+    mc "Hmm. Je suppose que je me suis planté alors."
 
 
 translate french d18s03_58fad8c7:
 
 
-    mes "Tu as raison, c'était une mauvaise réponse."
+    mes "T'as raison, c'était une mauvaise réponse."
 
 
 translate french d18s03_70489cc2:
 
 
-    mes "La Mission nationale d'alphabétisation (NLM) cherche à atteindre l'alphabétisation complète, c'est-à-dire un seuil durable de 75%% d'alphabétisation d'ici quelle année?"
+    mes "La Mission nationale d'alphabétisation (NLM) cherche à atteindre un seuil durable de 75%% d'alphabétisation d'ici quelle année ?"
 
 
 translate french d18s03_a2b89d72:
 
 
-    mc "D’ici 2025?"
+    mc "D'ici 2025 ?"
 
 
 translate french d18s03_dc6e30a7:
 
 
-    mc "D’ici 2030?"
+    mc "D'ici 2030 ?"
 
 
 translate french d18s03_32155ee0:
 
 
-    mc "D'ici 2050?"
+    mc "D'ici 2050 ?"
 
 
 translate french d18s03_d6efee7c:
 
 
-    mc "Je n'en ai aucune idée. 2077?"
+    mc "Aucune idée. 2077 ?"
 
 
 translate french d18s03_b211cf6f:
 
 
-    mes "C'est incorrect. Leur objectif était 2005."
+    mes "Incorrect. Leur objectif était 2005."
 
 
 translate french d18s03_e5b77563:
 
 
-    mc "C'est quel genre de question?"
+    mc "C'est quoi cette question ?"
 
 
 translate french d18s03_3e15fa11:
 
 
-    mes "Ne me blâme pas. C'était lors d'un examen final de 2014 pour un étudiant en administration des affaires."
+    mes "Me blâme pas. C'était dans un examen final de 2014 pour un étudiant en gestion."
 
 
 translate french d18s03_cb92ab5d:
 
 
-    mc "C'est quand même un peu des conneries."
+    mc "Quand même, c'est un peu n'importe quoi."
 
 
 translate french d18s03_11cd28cf:
 
 
-    mes "Tu attends quelque chose de moins que ça de nos examens finaux?"
+    mes "Tu t'attendais à mieux de nos examens finaux ?"
 
 
 translate french d18s03_ba40c75a:
 
 
-    mc "C'est vrai. Tu as gagné."
+    mc "Pas faux. T'as gagné."
 
 
 translate french d18s03_d3a642d7:
 
 
-    mes "C'est vrai, j'ai gagné!"
+    mes "Putain ouais, j'ai gagné !"
 
 
 translate french d18s03_mc_victory_ae48e062:
 
 
-    mes "Je n'arrive pas à y croire."
+    mes "J'arrive pas à y croire."
 
 
 translate french d18s03_mc_victory_ce706c9a:
@@ -680,7 +650,7 @@ translate french d18s03_mc_victory_ce706c9a:
 translate french d18s03_mc_victory_f0e9efea:
 
 
-    mes "Tu as gagné."
+    mes "Ouais, t'as gagné."
 
 
 translate french d18s03_mc_victory_621080b1:
@@ -692,79 +662,79 @@ translate french d18s03_mc_victory_621080b1:
 translate french d18s03_mc_victory_0909c20c:
 
 
-    mes "C'est vrai.{w} Alors, que voudrais-tu que je fasse?"
+    mes "C'est vrai.{w} Alors, que veux-tu que je fasse ?"
 
 
 translate french d18s03_mc_victory_f1398715:
 
 
-    mc "Fais-toi plaisir."
+    mc "Fais une moue."
 
 
 translate french d18s03_mc_victory_6341b83f:
 
 
-    mes "Hein?"
+    mes "Hein ?"
 
 
 translate french d18s03_mc_victory_d82624a8:
 
 
-    mc "Tu vas détester ça...{w} mais j'espère que tu l'aimeras aussi."
+    mc "Tu vas détester ça...{w} mais avec un peu de chance, tu vas aussi adorer."
 
 
 translate french d18s03_mc_victory_b58c27b2:
 
 
-    mc "Tu vas adorer ça."
+    mc "Tu vas adorer."
 
 
 translate french d18s03_watersports_65013f27:
 
 
-    mc "Très bien, déshabille-toi."
+    mc "Allez, déshabille-toi."
 
 
 translate french d18s03_watersports_1e9e637d:
 
 
-    mes "Tout?"
+    mes "Tout ?"
 
 
 translate french d18s03_watersports_e8a4eb92:
 
 
-    mc "Nous sommes tous les deux complètement nus...{w} tu connais la position du piledriver?"
+    mc "On va se mettre complètement nus...{w} tu connais la position du « piledriver » ?"
 
 
 translate french d18s03_watersports_bc6fb29b:
 
 
-    mes "Oui, mais c'est rarement utilisé en dehors du porno. Ça met trop de pression-"
+    mes "Oui, mais c'est rarement utilisé en dehors du porno. Ça exerce trop de pression-"
 
 
 translate french d18s03_watersports_73832e46:
 
 
-    mc "Eh bien, fais comme si tu étais une star du porno."
+    mc "Alors fais comme si tu étais une star du porno."
 
 
 translate french d18s03_watersports_c17242da:
 
 
-    mes "Ça met trop de pression sur le cou. Ce n'est pas sûr."
+    mes "Ça met trop de pression sur le cou. Ce n'est pas sans danger."
 
 
 translate french d18s03_watersports_3ad79fad:
 
 
-    mc "Ne t'inquiète pas, je ne vais pas te baiser comme ça..."
+    mc "T'inquiète pas, je ne vais pas te baiser comme ça..."
 
 
 translate french d18s03_watersports_7e6613c5:
 
 
-    mc "Beaucoup."
+    mc "Pas beaucoup."
 
 
 translate french d18s03_watersports_d9ae005f:
@@ -776,37 +746,37 @@ translate french d18s03_watersports_d9ae005f:
 translate french d18s03_watersports_37a0b343:
 
 
-    mc "J'ai besoin de te boucher le cul."
+    mc "Je dois écarter ton cul."
 
 
 translate french d18s03_watersports_cfc921ad:
 
 
-    mes "Tu aurais pu me le dire!"
+    mes "Tu aurais pu simplement me le dire !"
 
 
 translate french d18s03_watersports_aeafe227:
 
 
-    mc "Où est le plaisir là-dedans?"
+    mc "Où serait le plaisir là-dedans ?"
 
 
 translate french d18s03_watersports_d7d3ca29:
 
 
-    mes "J'ai des jouets!"
+    mes "J'ai des jouets !"
 
 
 translate french d18s03_watersports_d4be761f:
 
 
-    mes "Et un spéculum!!"
+    mes "Et un spéculum !!"
 
 
 translate french d18s03_watersports_6699c62c:
 
 
-    mes "BAISE-MOI!{w} J'ai une poire si tu voulais!!!"
+    mes "BAISE-MOI !{w} J'ai même une poire si tu veux !!!"
 
 
 translate french d18s03_watersports_ec41ae14:
@@ -818,109 +788,109 @@ translate french d18s03_watersports_ec41ae14:
 translate french d18s03_watersports_b210deab:
 
 
-    mes "Connard."
+    mes "Enfoiré."
 
 
 translate french d18s03_watersports_ab12bcaf:
 
 
-    mc "Exactement.{w} Je pisse dans ton trou du cul."
+    mc "Exactement.{w} Je suis en train de pisser dans ton cul."
 
 
 translate french d18s03_watersports_6fb478c3:
 
 
-    mes "Il fait chaud. Continue s'il te plaît."
+    mes "C'est excitant. Continue, s'il te plaît."
 
 
 translate french d18s03_watersports_327c5f38:
 
 
-    mc "Euh oh. On dirait que ta bouche va bientôt se fermer."
+    mc "Oh oh. On dirait que ton trou va bientôt se refermer."
 
 
 translate french d18s03_watersports_dd224ac5:
 
 
-    mes "Tu vas me baiser encore le cul?"
+    mes "Tu vas encore me baiser le cul ?"
 
 
 translate french d18s03_watersports_7f8ee28d:
 
 
-    mc "J'ai une idée différente."
+    mc "J'ai une autre idée."
 
 
 translate french d18s03_watersports_9daa3f75:
 
 
-    mes "OH PUTAIN OUI!!!"
+    mes "OH PUTAIN OUI !!!"
 
 
 translate french d18s03_watersports_015d20de:
 
 
-    mct "Wow!"
+    mct "Waouh !"
 
 
 translate french d18s03_watersports_3c7792bd:
 
 
-    mc "Tu te rends compte que tu te pisses dessus?"
+    mc "Tu te rends compte que tu es en train de te pisser dessus ?"
 
 
 translate french d18s03_watersports_4af5aec5:
 
 
-    mes "BAISE-MOI!"
+    mes "BAISE-MOI !"
 
 
 translate french d18s03_watersports_da39440c:
 
 
-    mes "Je l'adore!!!"
+    mes "J'ADORE ÇA !!!"
 
 
 translate french d18s03_watersports_2ffc811e:
 
 
-    mc "Je dois en prendre un échantillon."
+    mc "Je dois en prélever un échantillon."
 
 
 translate french d18s03_watersports_54bf4b07:
 
 
-    mc "MMM... Fraîchement débouteilleé Min."
+    mc "MMM... Min toute fraîche et non embouteillée."
 
 
 translate french d18s03_watersports_e021a94b:
 
 
-    mes "Je le veux partout sur moi!!!"
+    mes "JE VEUX EN ÊTRE COUVERTE !!!"
 
 
 translate french d18s03_watersports_8f31ba55:
 
 
-    mc "Très bien, ça suffit, lève-toi."
+    mc "D'accord, ça suffit, lève-toi."
 
 
 translate french d18s03_watersports_12af64c5:
 
 
-    mes "Sérieusement? Tu ne vas pas-"
+    mes "Sérieusement ? Tu ne vas pas-"
 
 
 translate french d18s03_watersports_9e493fa2:
 
 
-    mc "Pas encore. OBTENEZ. Se pomponner."
+    mc "Pas encore. LÈVE-TOI."
 
 
 translate french d18s03_watersports_c9df1555:
 
 
-    mes "Oui, monsieur!"
+    mes "Oui, monsieur !"
 
 
 translate french d18s03_watersports_b07240ff:
@@ -956,7 +926,7 @@ translate french d18s03_watersports_bbf7263a:
 translate french d18s03_watersports_c9df1555_1:
 
 
-    mes "Oui, monsieur!"
+    mes "Oui, mon chou!"
 
 
 translate french d18s03_no_watersports_cd3ac531:
@@ -1082,7 +1052,7 @@ translate french d18s03_sex_d504f190:
 translate french d18s03_sex_5a0026fb:
 
 
-    mes "C'est un harnais sexuelle.{w} Tu es prêt pour ça?"
+    mes "C'est un harnais sexuel.{w} Tu es prêt pour ça?"
 
 
 translate french d18s03_sex_4bea771d:
@@ -1094,7 +1064,7 @@ translate french d18s03_sex_4bea771d:
 translate french d18s03_sex_6d082a87:
 
 
-    mes "J'espère que tu m'aideras sur ce machin et que tu me foutras toute ma vie hors de moi."
+    mes "J'espère que tu m'aideras sur ce machin et que tu foutras toute ma vie hors de moi."
 
 
 translate french d18s03_sex_d7c5c362:
@@ -1136,7 +1106,7 @@ translate french d18s03_sex_695cbfae:
 translate french d18s03_sex_66856f49:
 
 
-    mc "Comment tu te sent?"
+    mc "Comment tu te sens?"
 
 
 translate french d18s03_sex_a118506d:
@@ -1148,7 +1118,7 @@ translate french d18s03_sex_a118506d:
 translate french d18s03_sex_eb8ede8b:
 
 
-    mc "Tu pourra dormir quand j'en aurai fini avec toi."
+    mc "Tu pourras dormir quand j'en aurai fini avec toi."
 
 
 translate french d18s03_sex_833ec006:
@@ -1226,25 +1196,25 @@ translate french d18s03_sex_0e6cdafe:
 translate french d18s03_sex_19286006:
 
 
-    mc "Monsieur? J'aime ça."
+    mc "Monsieur ? J'aime ça."
 
 
 translate french d18s03_sex_d425adcb:
 
 
-    mes "Aimez-vous ma petite chatte serrée, monsieur?"
+    mes "Aimes-tu ma petite chatte serrée, monsieur ?"
 
 
 translate french d18s03_sex_f7883096:
 
 
-    mc "Tu sais que je le sais{w}, mais tu sais ce que j'aimerais encore plus?"
+    mc "Tu sais que je le sais{w}, mais tu sais ce que j'aimerais encore plus ?"
 
 
 translate french d18s03_sex_f8bea61d:
 
 
-    mes "Tu ne va pas..."
+    mes "Tu ne vas pas..."
 
 
 translate french d18s03_sex_681e3822:
@@ -1256,7 +1226,7 @@ translate french d18s03_sex_681e3822:
 translate french d18s03_sex_21bec6f3:
 
 
-    mc "SI"
+    mc "C'EST ÇA"
 
 
 translate french d18s03_sex_f53706ef:
@@ -1268,7 +1238,7 @@ translate french d18s03_sex_f53706ef:
 translate french d18s03_sex_c22cd505:
 
 
-    mc "Arrête de faire semblant. Je ne suis pas Antony. Je sais que tu aimes ça."
+    mc "Arrête de faire semblant. Je ne suis pas Antony. Je sais que tu adores ça."
 
 
 translate french d18s03_sex_46dc1bdb:
@@ -1280,43 +1250,43 @@ translate french d18s03_sex_46dc1bdb:
 translate french d18s03_sex_7f3e5058:
 
 
-    mc "Tu savais que ça arriverait. Je sens le lubrifiant agir."
+    mc "Tu savais que ça allait arriver. Je sens le lubrifiant agir."
 
 
 translate french d18s03_sex_58a64898:
 
 
-    mes "Ce lubrifiant est quelque chose de nouveau. C'est pas censé brûler!"
+    mes "Ce lubrifiant est quelque chose de nouveau. Ce n'est pas censé brûler !"
 
 
 translate french d18s03_sex_0c92c27e:
 
 
-    mes "Cela dit une agréable sensation de chaleur!!!"
+    mes "Il disait une agréable sensation de chaleur !!!"
 
 
 translate french d18s03_sex_7206ce56:
 
 
-    mc "Tu veux vraiment que je change de trou?"
+    mc "Tu veux vraiment que je change de trou ?"
 
 
 translate french d18s03_sex_770a3a12:
 
 
-    mes "N'importe quoi! S'IL TE PLAÎT!!!"
+    mes "N'importe quoi ! S'IL TE PLAÎT !!!"
 
 
 translate french d18s03_sex_f19067a7:
 
 
-    mc "Alors tu va me sucer la bite qui sort tout juste de ton cul!"
+    mc "Alors tu vas me sucer la bite qui sort tout juste de ton cul !"
 
 
 translate french d18s03_sex_33e09f13:
 
 
-    mes "*glup* D'accord!"
+    mes "*glup* D'accord !"
 
 
 translate french d18s03_sex_11b98cca:
@@ -1328,13 +1298,13 @@ translate french d18s03_sex_11b98cca:
 translate french d18s03_sex_413d94fc:
 
 
-    mes "OUI MMMMONSIEUR!!"
+    mes "OUI MMMMONSIEUR !!"
 
 
 translate french d18s03_sex_421594a4:
 
 
-    mc "As-tu déjà été traité comme ça auparavant?"
+    mc "As-tu déjà été traité comme ça auparavant ?"
 
 
 translate french d18s03_sex_fc53cb43:
@@ -1346,13 +1316,13 @@ translate french d18s03_sex_fc53cb43:
 translate french d18s03_sex_7e79c0e0:
 
 
-    mc "Alors... que penses-tu qu'il va se passer maintenant?"
+    mc "Alors... que penses-tu qu'il va se passer maintenant ?"
 
 
 translate french d18s03_sex_24ed16ef:
 
 
-    mes "Tu as encore un tour en toi?"
+    mes "Tu as encore un tour en toi ?"
 
 
 translate french d18s03_sex_892a47c0:
@@ -1364,7 +1334,7 @@ translate french d18s03_sex_892a47c0:
 translate french d18s03_sex_f1503a8f:
 
 
-    mes "Tu ne le fera pas."
+    mes "Tu ne le feras pas."
 
 
 translate french d18s03_sex_b4c3d882:
@@ -1388,31 +1358,31 @@ translate french d18s03_sex_11d801a8:
 translate french d18s03_sex_78416cce:
 
 
-    mes "Merde.{w} Je veux dire... personne ne peux me voir à part les voisins."
+    mes "Merde.{w} Je veux dire... personne ne peut me voir à part les voisins."
 
 
 translate french d18s03_sex_0e54c7df:
 
 
-    mc "As-tu des voisins dont tu devrais t'inquiéter?"
+    mc "As-tu des voisins dont tu devrais t'inquiéter ?"
 
 
 translate french d18s03_sex_e3755b57:
 
 
-    mes "Il y a un enfant.{w} Eh bien, c'est un homme maintenant, je suppose.{w} Un gosse ringard."
+    mes "Il y a un enfant.{w} Eh bien, c'est un homme maintenant, je suppose.{w} Un gosse ringard, il va à la VU."
 
 
 translate french d18s03_sex_8acbcdc6:
 
 
-    mc "Tu veux qu'il vienne ici et qu'il te baise?"
+    mc "Tu veux qu'il vienne ici et te baise comme une folle ?"
 
 
 translate french d18s03_sex_f8f46bd5:
 
 
-    mes "Non!{w} Tu veux ça?!"
+    mes "Non!{w} Tu veux ça ?!"
 
 
 translate french d18s03_sex_d28b7a54:
@@ -1424,13 +1394,13 @@ translate french d18s03_sex_d28b7a54:
 translate french d18s03_sex_c7804123:
 
 
-    mes "Tu veux le voir me foutre en l'air?"
+    mes "Tu veux le voir me baiser jusqu'à ce que je n'en puisse plus ?"
 
 
 translate french d18s03_sex_d6711339:
 
 
-    mes "De toute façon et de toutes les manières son esprit pervers ne pourrait pas en rêver?{w} Juste ici? Dans ma propre maison?"
+    mes "De toutes les manières dont son esprit pervers pourrait rêver ?{w} Ici même ? Dans ma propre maison ?"
 
 
 translate french d18s03_sex_2034c056:
@@ -1442,7 +1412,7 @@ translate french d18s03_sex_2034c056:
 translate french d18s03_sex_f736c0a1:
 
 
-    mes "C'est putain de chaud.{w} Mais sérieusement..."
+    mes "C'est vraiment chaud.{w} Mais sérieusement..."
 
 
 translate french d18s03_sex_b73ccbf7:
@@ -1454,13 +1424,13 @@ translate french d18s03_sex_b73ccbf7:
 translate french d18s03_sex_ac9e3733:
 
 
-    mes "C'est putain de très chaud."
+    mes "C'est vraiment très chaud."
 
 
 translate french d18s03_sex_b2b9e19d:
 
 
-    mc "Qu'est-ce que tu veux dire?"
+    mc "Qu'est-ce que tu veux dire ?"
 
 
 translate french d18s03_sex_7928b693:
@@ -1496,7 +1466,7 @@ translate french d18s03_sex_702c89e3:
 translate french d18s03_sex_3059b6d0:
 
 
-    mc "Tu es à moi.{w} Chaque fois que je veux baiser. Peu importe à quel point je veux te baiser. Tu es D.T.F."
+    mc "Tu es à moi.{w} Chaque fois que je veux baiser. Peu importe comment je veux te baiser. Tu es D.T.F."
 
 
 translate french d18s03_sex_509b5843:
@@ -1544,19 +1514,19 @@ translate french d18s03_post_coitus_28913db4:
 translate french d18s03_post_coitus_92e3a1a2:
 
 
-    mes "Est-ce que ça a à voir avec ces étoiles d'or?"
+    mes "Est-ce que ça a à voir avec ces étoiles d'or ?"
 
 
 translate french d18s03_post_coitus_d22aeb69:
 
 
-    mct "Des étoiles d'or? Oh, ouais.{w} C'est à peu près tout ce qu'elle sait sur le programme VIP."
+    mct "Des étoiles d'or ? Oh, ouais.{w} C'est à peu près tout ce qu'elle sait du programme VIP."
 
 
 translate french d18s03_post_coitus_cbf53139:
 
 
-    mct "Des étoiles d'or? Oh, ouais.{w} C'est ce qu'elle sait du programme de rétention."
+    mct "Des étoiles d'or ? Oh, ouais.{w} C'est ce qu'elle sait du programme de rétention."
 
 
 translate french d18s03_post_coitus_a82c7a0e:
@@ -1568,19 +1538,19 @@ translate french d18s03_post_coitus_a82c7a0e:
 translate french d18s03_post_coitus_7f8c16f1:
 
 
-    mes "Tu devrais savoir...{w} Je ne sais pas ce qui te dérange, mais je suis un excellent résolveur de problèmes."
+    mes "Tu devrais savoir...{w} Je ne sais pas ce qui te tracasse, mais je suis un excellent résolveur de problèmes."
 
 
 translate french d18s03_post_coitus_7f404d4c:
 
 
-    mc "Je te crois.{w} Si j'en arrive là, je compterai certainement sur toi pour me faire sortir."
+    mc "Je te crois.{w} Si j'en arrive là, je compterai certainement sur toi pour me sortir de là."
 
 
 translate french d18s03_post_coitus_58315740:
 
 
-    mes "Tu peux me dire quelque chose maintenant?"
+    mes "Tu peux me dire quelque chose maintenant ?"
 
 
 translate french d18s03_post_coitus_1908d73e:
@@ -1616,13 +1586,13 @@ translate french d18s03_post_coitus_a439977f:
 translate french d18s03_post_coitus_b253cc23:
 
 
-    mes "Exactement.{w} Tu en a fini avec les diversions?"
+    mes "Exactement.{w} Tu as fini avec les distractions ?"
 
 
 translate french d18s03_post_coitus_7d8bad28:
 
 
-    mc "Ça dépend. Tu vas continuer à me poser des questions auxquelles je ne peux pas répondre?"
+    mc "Ça dépend. Tu vas continuer à me poser des questions auxquelles je ne peux pas répondre ?"
 
 
 translate french d18s03_post_coitus_15503ce6:
@@ -1634,7 +1604,7 @@ translate french d18s03_post_coitus_15503ce6:
 translate french d18s03_post_coitus_2fb2a7c6:
 
 
-    mc "Je ferais mieux d'y aller."
+    mc "Je ferais mieux de partir."
 
 
 translate french d18s03_post_coitus_94dcfef3:
@@ -1658,7 +1628,7 @@ translate french d18s03_post_coitus_e5a44c4a:
 translate french d18s03_post_coitus_39b02f5c:
 
 
-    mes "Tu me préviens bientôt, d'accord?"
+    mes "Tu me préviens bientôt, d'accord ?"
 
 
 translate french d18s03_post_coitus_2bd2b9d8:

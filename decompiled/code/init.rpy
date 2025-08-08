@@ -45,6 +45,11 @@ init 1 python:
     if config.developer is True:
         config.keymap['fast_skip'].append('noshift_K_q')
 
+init 3 python:
+
+    if is_antagonist_mode is False:
+        set_special(False)
+
 init 999 python:
 
     if is_antagonist_mode is False:

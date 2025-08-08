@@ -98,7 +98,7 @@ translate french d15s04dw_bee4b226:
 translate french d15s04dw_d9331322:
 
 
-    sb "Oh, fais-le ailleurs, sœur. {w}[mcname], qu'est-ce que je fais ici?"
+    sb "Oh, fais-le ailleurs. {w}[mcname], qu'est-ce que je fais ici?"
 
 
 translate french d15s04dw_5e4d9ef7:
@@ -116,7 +116,7 @@ translate french d15s04dw_fd0b7c7b:
 translate french d15s04dw_4af78df2:
 
 
-    sb "Putain de connard! Je ne veux pas voir son cul nul!"
+    sb "Putain de connard! Je ne veux pas voir son cul ici!"
 
 
 translate french d15s04dw_ccc2bcb3:
@@ -464,7 +464,7 @@ translate french d15s04dw_51821582:
 translate french d15s04dw_4a7e053b:
 
 
-    dw "Fais-lui juste le cul. Ne sois pas gentil."
+    dw "Met-lui juste dans le cul. Ne sois pas gentille."
 
 
 translate french d15s04dw_0c2ccf1f:
@@ -482,7 +482,7 @@ translate french d15s04dw_fdfa3e4d:
 translate french d15s04dw_0e783d93:
 
 
-    sb "Merci.{w}.. Est-ce que ça vous dérange si je chevauche son visage?"
+    sb "Merci.{w}.. Est-ce que ça te dérange si je chevauche son visage?"
 
 
 translate french d15s04dw_b8e773d6:
@@ -548,7 +548,7 @@ translate french d15s04dw_de6636c2:
 translate french d15s04dw_75592bb9:
 
 
-    dw "Est-ce que vous vous y opposez?"
+    dw "Est-ce que vous tu t'y opposes?"
 
 
 translate french d15s04dw_9b77be13:
@@ -566,7 +566,7 @@ translate french d15s04dw_b5d28d4d:
 translate french d15s04dw_93abcbdd:
 
 
-    dw "WQoui?!"
+    dw "Quoi?!"
 
 
 translate french d15s04dw_47be7110:
@@ -626,7 +626,7 @@ translate french d15s04dw_5baa75e6:
 translate french d15s04dw_63809e09:
 
 
-    mct "Très bien. Peu importe. {w}Endurez ça encore un peu."
+    mct "Très bien. Peu importe. {w}Endures ça encore un peu."
 
 
 translate french d15s04dw_0e8c9c6d:
@@ -752,7 +752,7 @@ translate french d15s04dw_88776cc3:
 translate french d15s04dw_04846234:
 
 
-    dw "Fermez-la."
+    dw "Ferme-la."
 
 
 translate french d15s04dw_e1362e1f:
@@ -776,7 +776,7 @@ translate french d15s04dw_6ce329d5:
 translate french d15s04dw_69b87d6b:
 
 
-    dw "-un accro au sexe?"
+    dw "-une accro au sexe?"
 
 
 translate french d15s04dw_9d05ae49:
@@ -824,7 +824,7 @@ translate french d15s04dw_aa9977f0:
 translate french d15s04dw_a922091f:
 
 
-    dw "Quelle partie de \"tais-toi\" tu n'as pas compris?"
+    dw "Quelle partie de \"ferme-la\" tu n'as pas compris?"
 
 
 translate french d15s04dw_f98f627b:

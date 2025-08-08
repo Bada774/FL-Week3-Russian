@@ -92,7 +92,7 @@ translate french d18s10_spaceballs_8fd5cdb9:
 translate french d18s10_boobs_d5ff8839:
 
 
-    mct "Hehehehehehe... BOOB."
+    mct "Hehehehehehe... SEINS."
 
 
 translate french d18s10_boobs_84b76a9d:
@@ -122,7 +122,7 @@ translate french d18s10_open_door_2f61051d:
 translate french d18s10_open_door_084634ca:
 
 
-    mct "Pas un fauteuil en vue..."
+    mct "Pas un fauteuil tournant en vue..."
 
 
 translate french d18s10_open_door_8717045e:
@@ -350,7 +350,7 @@ translate french d18s10_creampie_96fecfde:
 translate french d18s10_creampie_bcea1c0c:
 
 
-    lc "REMPLIES MA CHATTE DE SALOPE!!!"
+    lc "REMPLIS MA CHATTE DE SALOPE!!!"
 
 
 translate french d18s10_creampie_32440a1d:
@@ -362,7 +362,7 @@ translate french d18s10_creampie_32440a1d:
 translate french d18s10_anal_1f40a01a:
 
 
-    lc "S'il te plaît! Pierre!! S'il te plaît!!!"
+    lc "S'il te plaît! pete!! S'il te plaît!!!"
 
 
 translate french d18s10_anal_70a4acf5:
@@ -374,7 +374,7 @@ translate french d18s10_anal_70a4acf5:
 translate french d18s10_anal_bcc3b2ff:
 
 
-    lc "Jette-moi sur le canapé et BAISE MA DIRTBOX!"
+    lc "Jette-moi sur le canapé et BAISE MON CUL!"
 
 
 translate french d18s10_anal_e89fb25a:
@@ -542,7 +542,7 @@ translate french d18s10_gag_9c9e0263:
 translate french d18s10_gag_3c1c866f:
 
 
-    lc "*GAGS, s'étouffe avec du sperme*"
+    lc "*BÂILLONNES, S'ÉTOUFFE AVEC DU SPERME*"
 
 
 translate french d18s10_bdsm_4279d849:

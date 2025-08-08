@@ -2,7 +2,7 @@
 translate french d17s06dw_41176219:
 
 
-    mc "Bonjour les dames!"
+    mc "Bonjour mesdames!"
 
 
 translate french d17s06dw_decb2652:
@@ -38,7 +38,7 @@ translate french d17s06dw_1e7fb7ce:
 translate french d17s06dw_583b0bfe:
 
 
-    mc "Remercier? {w}Pour quoi?"
+    mc "Remercier? {w}Pourquoi?"
 
 
 translate french d17s06dw_e062934c:
@@ -182,7 +182,7 @@ translate french d17s06dw_71fa3616:
 translate french d17s06dw_06ba8908:
 
 
-    sb "*sarcastiquement* Oh bien, à ma façon. Merci Vizzini. {w}Dans quel sens est mon chemin?"
+    sb "*sarcastique* Oh bien, à ma façon. Merci Vizzini. {w}Dans quel sens est mon chemin?"
 
 
 translate french d17s06dw_2464f166:
@@ -326,7 +326,7 @@ translate french d17s06dw_first_room_58f95e0e:
 translate french d17s06dw_first_room_354af34e:
 
 
-    mct "C'est {i}c'est{/i} effrayant comme l'enfer, femme."
+    mct "C' {i}est{/i} effrayant comme l'enfer, femme."
 
 
 translate french d17s06dw_first_room_f7e35999:
@@ -344,7 +344,7 @@ translate french d17s06dw_first_room_cbd9a474:
 translate french d17s06dw_first_room_3b30dc63:
 
 
-    sb "L'enfer. Je suis sorti avec des connards plus laids que ça."
+    sb "Bordel. Je suis sorti avec des connards plus laids que ça."
 
 
 translate french d17s06dw_first_room_79325953:
@@ -446,7 +446,7 @@ translate french d17s06dw_first_room_844f0afb:
 translate french d17s06dw_clown_room_ef394b1d:
 
 
-    mc "Putain! {w}C'est la pièce la plus effrayante à ce jour."
+    mc "Putain! {w}C'est la pièce la plus effrayante."
 
 
 translate french d17s06dw_clown_room_f2c62be9:
@@ -488,7 +488,7 @@ translate french d17s06dw_clown_room_7f16e184:
 translate french d17s06dw_clown_room_3499f73a:
 
 
-    dw "Esclave! Écoute ta Maîtresse. Viens la mettre devant moi."
+    dw "Esclave! Écoute ta Maîtresse. Viens te mettre devant moi."
 
 
 translate french d17s06dw_clown_room_afa307c1:
@@ -542,7 +542,7 @@ translate french d17s06dw_clown_room_8575e379:
 translate french d17s06dw_clown_room_63572980:
 
 
-    dw "Écoute ta maîtresse. {w}MAINTENANT DÉSAPPE TOI!"
+    dw "Écoute ta maîtresse. {w}MAINTENANT DÉZAPPE TOI!"
 
 
 translate french d17s06dw_clown_room_c0052b5c:
@@ -620,7 +620,7 @@ translate french d17s06dw_clown_room_6cefcbac:
 translate french d17s06dw_clown_room_dbad1d81:
 
 
-    dw "Tu te souviens au moins de ta fête de 18 ans?"
+    dw "Tu te souviens au moins de la fête de tes 18 ans?"
 
 
 translate french d17s06dw_clown_room_77213280:
@@ -650,7 +650,7 @@ translate french d17s06dw_clown_room_87aa7ebe:
 translate french d17s06dw_clown_room_7abb6a1f:
 
 
-    sb "Bien, mais il ferait mieux de le faire correctement. {w}Je ne veux pas qu'il me creampie le cul et me laisse avec des couilles bleues."
+    sb "Bien, mais il ferait mieux de le faire correctement. {w}Je ne veux pas qu'il me gicle dans le cul et me laisse avec des couilles bleues."
 
 
 translate french d17s06dw_clown_room_baf550b7:
@@ -680,7 +680,7 @@ translate french d17s06dw_clown_room_7fd3a623_1:
 translate french d17s06dw_clown_room_14026ad6:
 
 
-    dw "Bien, maintenant branle ton pénis jusqu'à ce qu'il soit assez dur pour être utile."
+    dw "Bien, maintenant branle ta bite jusqu'à ce qu'elle soit assez dur pour être utile."
 
 
 translate french d17s06dw_clown_room_2bbbef16:
@@ -692,7 +692,7 @@ translate french d17s06dw_clown_room_2bbbef16:
 translate french d17s06dw_clown_room_a8b964f8:
 
 
-    dw "Aww, est-ce que cette petite chose effrayante rend ton pipi tout mou et inutile?"
+    dw "Aww, est-ce que cette petite chose effrayante rend ton zizi tout mou et inutile?"
 
 
 translate french d17s06dw_clown_room_fe33c121:
@@ -704,7 +704,7 @@ translate french d17s06dw_clown_room_fe33c121:
 translate french d17s06dw_clown_room_6965627e:
 
 
-    dw "Eh bien, debout pussy. J'exige que tu fasses bander cette bite immédiatement."
+    dw "Eh bien, debout chatte. J'exige que tu fasses bander cette bite immédiatement."
 
 
 translate french d17s06dw_clown_room_c32ad71a:
@@ -740,7 +740,7 @@ translate french d17s06dw_clown_room_13a6cac3:
 translate french d17s06dw_clown_room_db94aef2:
 
 
-    dw "Tu vas lui faire jouir son trou du cul pour me rendre heureuse."
+    dw "Tu vas la faire jouir par le cul pour me rendre heureuse."
 
 
 translate french d17s06dw_clown_room_56f45037:
@@ -908,7 +908,7 @@ translate french d17s06dw_clown_room_6c665a24:
 translate french d17s06dw_clown_room_0be45825:
 
 
-    mc "Attends, si tu frottes ton clitoris, je décevrai Dahlia. Elle veut que tu jouisses juste à cause du sexe anal."
+    mc "Attends, si tu frottes ton clitoris, je décevrai Dahlia. Elle veut que tu jouisses juste du sexe anal."
 
 
 translate french d17s06dw_clown_room_1544706b:
@@ -1022,13 +1022,13 @@ translate french d17s06dw_clown_room_140af9b4:
 translate french d17s06dw_clown_room_3b14a328:
 
 
-    sb "De rien, Senior Dickface."
+    sb "De rien, Seniorita Dickface."
 
 
 translate french d17s06dw_clown_room_69cabffc:
 
 
-    mc "Mesdames, mesdames. S'il te plaît. {w}Pouvons-nous juste foutre le camp d'ici?"
+    mc "Mesdames, mesdames. S'il vous plaît. {w}Pouvons-nous juste foutre le camp d'ici?"
 
 
 translate french d17s06dw_clown_room_80d88165:
@@ -1082,7 +1082,7 @@ translate french d17s06dw_clown_room_a238b19c:
 translate french d17s06dw_clown_room_32c9aaa0:
 
 
-    mc "Tu es la bienvenue."
+    mc "De rien."
 
 
 translate french d17s06dw_clown_room_1b1e5faf:

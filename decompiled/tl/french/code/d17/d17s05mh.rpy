@@ -14,19 +14,19 @@ translate french d17s05mh_5dfb1f09:
 translate french d17s05mh_ae7906b9:
 
 
-    mc "As-tu été une bonne fille pendant mon absence?"
+    mc "As-tu étais une bonne fille pendant mon absence?"
 
 
 translate french d17s05mh_afef87c8:
 
 
-    mh "J'ai été très méchante. Je n'ai pas été très patiente du tout."
+    mh "J'ai étais très méchante. Je n'ai pas étais très patiente du tout."
 
 
 translate french d17s05mh_3b9f4fb8:
 
 
-    mc "Oh? Et comment {i}exactement{/i} n'as-tu pas été patiente, hein?"
+    mc "Oh? Et comment {i}exactement{/i} n'as-tu pas étais patiente, hein?"
 
 
 translate french d17s05mh_768aa326:
@@ -44,13 +44,13 @@ translate french d17s05mh_fb5c228d:
 translate french d17s05mh_360413aa:
 
 
-    mh "Qu'est-ce que ça fait d'être dans tes bras."
+    mh "Qu'est-ce que ça fait d'être dans mes bras."
 
 
 translate french d17s05mh_a3048b2c:
 
 
-    mh "Qu'est-ce que ça fait de sentir ta chaleur."
+    mh "Qu'est-ce que ça fait de sentir ma chaleur."
 
 
 translate french d17s05mh_f54178c1:
@@ -68,13 +68,13 @@ translate french d17s05mh_8d9227bf:
 translate french d17s05mh_9cac6dd8:
 
 
-    mh "Je devrais être puni."
+    mh "Je devrais être punie."
 
 
 translate french d17s05mh_4cb69df0:
 
 
-    mc "Oh? Vous {i}voulez{/i} être puni?"
+    mc "Oh? Tu {i}veux{/i} être punie?"
 
 
 translate french d17s05mh_eb2382c8:
@@ -92,7 +92,7 @@ translate french d17s05mh_ae8f1760:
 translate french d17s05mh_7f26ea0b:
 
 
-    mh "Tu m'as vraiment manqué. Ce n'est plus aussi amusant qu'avant d'avoir la maison pour moi tout seul."
+    mh "Tu m'as vraiment manqué. Ce n'est plus aussi amusant qu'avant d'avoir la maison pour moi toute seule."
 
 
 translate french d17s05mh_dcdc0120:
@@ -110,13 +110,13 @@ translate french d17s05mh_9b5b3ef6:
 translate french d17s05mh_9406d1b3:
 
 
-    mh "Donnez-moi une seconde. J'ai quelque chose pour vous."
+    mh "Donne-moi une seconde. J'ai quelque chose pour toi."
 
 
 translate french d17s05mh_2e9df3de:
 
 
-    mh "Aimez-vous?"
+    mh "Aimes-tu?"
 
 
 translate french d17s05mh_50509e15:
@@ -128,13 +128,13 @@ translate french d17s05mh_50509e15:
 translate french d17s05mh_98993dee:
 
 
-    mc "Eh bien? Allez. {w}Vous {i}avez{/i} encore besoin d'être puni."
+    mc "Eh bien? Allez. {w}Tu {i}as{/i} encore besoin d'être punie."
 
 
 translate french d17s05mh_9316b739:
 
 
-    mc "Tu es une si bonne fille obéissante pour moi en ce moment. Mais tu as quand même besoin d'être puni, n'est-ce pas?"
+    mc "Tu es une si bonne fille obéissante pour moi en ce moment. Mais tu as quand même besoin d'être punie, n'est-ce pas?"
 
 
 translate french d17s05mh_ee046721:
@@ -146,7 +146,7 @@ translate french d17s05mh_ee046721:
 translate french d17s05mh_2d75e991:
 
 
-    mh "S'il vous plaît, plus, Monsieur."
+    mh "S'il vous plaît, encore plus, Monsieur."
 
 
 translate french d17s05mh_5fadbe7b:
@@ -212,7 +212,7 @@ translate french d17s05mh_0f9c27ac:
 translate french d17s05mh_89630a3d:
 
 
-    mc "Je veux que tu te concentres sur mes mains. Ressentez chaque coup."
+    mc "Je veux que tu te concentres sur mes mains. Ressent chaque coup."
 
 
 translate french d17s05mh_f3f34b97:
@@ -248,7 +248,7 @@ translate french d17s05mh_b9bb1389:
 translate french d17s05mh_763002f5:
 
 
-    mh "C'est tellement {i}bien{/i}."
+    mh "C'est tellement {i}bon{/i}."
 
 
 translate french d17s05mh_9bb74fbf:
@@ -290,7 +290,7 @@ translate french d17s05mh_3938e692:
 translate french d17s05mh_832c6529:
 
 
-    mh "*Gémissements décalés* Je t'aime tellement, [mcname]."
+    mh "*Gémissements saccadés* Je t'aime tellement, [mcname]."
 
 
 translate french d17s05mh_13c5c40d:
@@ -302,19 +302,19 @@ translate french d17s05mh_13c5c40d:
 translate french d17s05mh_f311de19:
 
 
-    mh "*Gémissements primordiaux* Juste là, continuez... *Les gémissements deviennent encore plus forts*."
+    mh "*Gémissements* Juste là, continues... *Les gémissements deviennent encore plus forts*."
 
 
 translate french d17s05mh_7028cb9f:
 
 
-    mc "Dites-moi ce dont vous avez besoin."
+    mc "Dit-moi ce dont tu as besoin."
 
 
 translate french d17s05mh_822df7a9:
 
 
-    mh "J'ai besoin de toi. Je veux sentir que tu me remplis. S'il te plaît, [mcname]."
+    mh "J'ai besoin de toi. Je veux sentir que tu me remplisses. S'il te plaît, [mcname]."
 
 
 translate french d17s05mh_c1c70d14:
@@ -350,7 +350,7 @@ translate french d17s05mh_f20543ac:
 translate french d17s05mh_cuddle_71a48aed:
 
 
-    mh "J'ai réfléchi."
+    mh "J'ai réfléchie."
 
 
 translate french d17s05mh_cuddle_ff7f394f:
@@ -416,7 +416,7 @@ translate french d17s05mh_cuddle_4a811451:
 translate french d17s05mh_cuddle_8fd49189:
 
 
-    mh "Eh bien, tant mieux pour toi, j'y ai déjà pensé."
+    mh "Eh bien, tant mieux pour toi, j'y ai déjà pensée."
 
 
 translate french d17s05mh_cuddle_3f7d0c9c:
@@ -428,13 +428,13 @@ translate french d17s05mh_cuddle_3f7d0c9c:
 translate french d17s05mh_cuddle_b7baeaf2:
 
 
-    mh "*Rire doucement*"
+    mh "*Ries doucement*"
 
 
 translate french d17s05mh_cuddle_08bd6008:
 
 
-    mh "Hé.{w} J'ai pensé à des trucs."
+    mh "Hé.{w} J'ai pensée à des trucs."
 
 
 translate french d17s05mh_cuddle_b512f1d5:
@@ -464,7 +464,7 @@ translate french d17s05mh_cuddle_1006283e:
 translate french d17s05mh_cuddle_4a6de014:
 
 
-    mh "Pas pour le moment. Je n'ai pas encore tout réglée."
+    mh "Pas pour le moment. Je n'ai pas encore tout réglé."
 
 
 translate french d17s05mh_cuddle_f51dc403:
@@ -482,7 +482,7 @@ translate french d17s05mh_cuddle_483c9257:
 translate french d17s05mh_cuddle_e26a96ad:
 
 
-    mc "Vous attendiez-vous à ce que je rejette cette offre?"
+    mc "Tu t'attendais à ce que je rejette cette offre?"
 
 
 translate french d17s05mh_cuddle_5f41d96c:
@@ -512,7 +512,7 @@ translate french d17s05mh_cuddle_e9e754e8:
 translate french d17s05mh_cuddle_dc4ae1fa:
 
 
-    mc "Dites-moi juste quand et où et je serai là."
+    mc "Dit-moi juste quand et où et je serai là."
 
 
 translate french d17s05mh_cuddle_ffc6a815:
@@ -536,7 +536,7 @@ translate french strings:
 
 
     old "Jerk her off"
-    new "Branlez-la"
+    new "Branle-la"
 
 
     old "Give her a blowjob"
@@ -544,7 +544,7 @@ translate french strings:
 
 
     old "Edge Lyssa"
-    new "Border Lyssa"
+    new "Ne fais pas jouir Lyssa"
 
 
     old "Let Lyssa cum"
@@ -556,7 +556,7 @@ translate french strings:
 
 
     old "Cum in her mouth"
-    new "Sperme dans sa bouche"
+    new "Jouis dans sa bouche"
 
 
     old "Cum in her ass"

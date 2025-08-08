@@ -8,7 +8,7 @@ translate french d17s05mo_7c42b679:
 translate french d17s05mo_080365ff:
 
 
-    mc "Je ne savais pas que tu aimais les vélos."
+    mc "Je ne savais pas que tu aimais les motos."
 
 
 translate french d17s05mo_4b634951:
@@ -80,13 +80,13 @@ translate french d17s05mo_7a6eb03f:
 translate french d17s05mo_a8d4a08e:
 
 
-    mc "Saviez-vous qu'il aimait les vélos?"
+    mc "Savais-te qu'il aimait les motos?"
 
 
 translate french d17s05mo_d841c121:
 
 
-    mh "Il n'a vraiment pas l'air d'être le genre de personne, n'est-ce pas?"
+    mh "Il n'a vraiment pas l'air d'être ce genre de personne, n'est-ce pas?"
 
 
 translate french d17s05mo_a48431c7:
@@ -260,7 +260,7 @@ translate french d17s05mo_8a75836a:
 translate french d17s05mo_c103824c:
 
 
-    mh "Tu ne taquinais pas la pauvre, n'est-ce pas?"
+    mh "Tu ne taquinais pas le pauvre, n'est-ce pas?"
 
 
 translate french d17s05mo_92d52137:
@@ -320,7 +320,7 @@ translate french d17s05mo_edd286ab:
 translate french d17s05mo_a803ce5b:
 
 
-    mh "Que diriez-vous de Cards Against Humans? Voyez où nous allons à partir de là."
+    mh "Que diriez-vous de Cartes contre les humains? Voyez où nous allons à partir de là."
 
 
 translate french d17s05mo_6f9c927a:
@@ -470,7 +470,7 @@ translate french d17s05mo_12d62553:
 translate french d17s05mo_09d1334a:
 
 
-    op "C'est foiré, [mcname]."
+    op "C'est foireux, [mcname]."
 
 
 translate french d17s05mo_e95e1241:
@@ -506,7 +506,7 @@ translate french d17s05mo_34987c35:
 translate french d17s05mo_afbc3de9:
 
 
-    op "Ça a été amusant."
+    op "Ça a étais amusant."
 
 
 translate french d17s05mo_b0e80c0d:
@@ -554,7 +554,7 @@ translate french d17s05mo_82da3f67:
 translate french d17s05mo_0606783c:
 
 
-    mc "Je n'aurais pas dû t'imposer ça de nulle part comme ça."
+    mc "Je n'aurais pas dû t'imposer ça de nul part comme ça."
 
 
 translate french d17s05mo_755d4ec3:
@@ -698,7 +698,7 @@ translate french d17s05mo_02556280:
 translate french d17s05mo_dac1cb99:
 
 
-    mh "Comment vont-ils ces jours-ci?"
+    mh "Comment va-t-il ces jours-ci?"
 
 
 translate french d17s05mo_eb9a7cba:
@@ -890,7 +890,7 @@ translate french d17s05mo_f501b348:
 translate french d17s05mo_dc536325:
 
 
-    mh "Faites-moi confiance. Il vaut mieux attendre quelqu'un en qui vous avez confiance et avec qui vous vous sentez en sécurité plutôt que de simplement vous perdre et de vous retrouver dans une mauvaise situation."
+    mh "Fait-moi confiance. Il vaut mieux attendre quelqu'un en qui tu as confiance et avec qui tu te sens en sécurité plutôt que de simplement te perdre et de te retrouver dans une mauvaise situation."
 
 
 translate french d17s05mo_5de11cad:
@@ -938,13 +938,13 @@ translate french d17s05mo_0fd98bc6:
 translate french d17s05mo_b154439b:
 
 
-    op "J'ai, euh, eu tout le temps d'y jouer quand j'étais petite."
+    op "J'ai, euh, eu tout le temps d'y jouer quand j'étais petit."
 
 
 translate french d17s05mo_6f3f9331:
 
 
-    mh "Ne croyez pas ses mensonges. Il est incroyable dans les jeux."
+    mh "Ne crois pas ses mensonges. Il est incroyable dans les jeux."
 
 
 translate french d17s05mo_1d3d2d80:
@@ -962,7 +962,7 @@ translate french d17s05mo_edbcbca9:
 translate french d17s05mo_416db8a2:
 
 
-    mh "Gagnez sans avoir à minimiser vos capacités. Ne pensez pas que je ne le remarque pas. Vous n'êtes pas habile, Olie."
+    mh "Gagnez sans avoir à minimiser tes capacités. Ne pense pas que je ne le remarque pas. Tu n'es pas habile, Olie."
 
 
 translate french d17s05mo_2cc61f9a:
@@ -1016,7 +1016,7 @@ translate french d17s05mo_6c56d9e1:
 translate french d17s05mo_fb23475f:
 
 
-    op "Tu es tellement extraverti."
+    op "Tu es tellement extravertie."
 
 
 translate french d17s05mo_1adc4208:
@@ -1034,7 +1034,7 @@ translate french d17s05mo_bc467403:
 translate french d17s05mo_8a8091e3:
 
 
-    mh "Je suis content que vous ayez apprécié. C'était vraiment agréable de se détendre avec vous deux aujourd'hui."
+    mh "Je suis contente que vous ayez apprécié. C'était vraiment agréable de se détendre avec vous deux aujourd'hui."
 
 
 translate french d17s05mo_dd43b5b2:

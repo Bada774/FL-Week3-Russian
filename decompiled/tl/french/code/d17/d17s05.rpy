@@ -20,7 +20,7 @@ translate french d17s05_b8336e35:
 translate french d17s05_4f33068e:
 
 
-    mh "Êtes-vous libre?"
+    mh "Es-tu libre?"
 
 
 translate french d17s05_05e6ccd4:
@@ -38,7 +38,7 @@ translate french d17s05_e56699f9:
 translate french d17s05_e3619dc6:
 
 
-    mc "Viens? Hmm, mais que pourrions-nous {i}éventuellement{/i} faire ensemble?"
+    mc "Venir? Hmm, mais que pourrions-nous {i}éventuellement{/i} faire ensemble?"
 
 
 translate french d17s05_2818dd51:
@@ -68,13 +68,13 @@ translate french d17s05_5d6a8122:
 translate french d17s05_665f6e6f:
 
 
-    mh "Peut-être que vous pouvez aussi inviter quelqu'un d'autre. C'est plus on est de fous lorsqu'il s'agit de {i}jeux de société{/i}, n'est-ce pas? Cela ne me dérangerait pas."
+    mh "Peut-être que tu pourais aussi inviter quelqu'un d'autre. C'est plus on est de fous lorsqu'il s'agit de {i}jeux de société{/i}, n'est-ce pas? Cela ne me dérangerait pas."
 
 
 translate french d17s05_650388e7:
 
 
-    mct "Qui dois-je inviter?" nointeract
+    mct "Qui dois-je inviter?"
 
 
 translate french d17s05_64cf29f2:
@@ -194,7 +194,7 @@ translate french d17s05_40a7e867:
 translate french d17s05_864608c0:
 
 
-    mc "Oliver? Désolé pour l'appel venu de nulle part."
+    mc "Oliver? Désolé pour l'appel sortis de nul part."
 
 
 translate french d17s05_4dc2a32c:
@@ -230,7 +230,7 @@ translate french d17s05_523302ac:
 translate french d17s05_a003905d:
 
 
-    mc "Eh bien, Lyssa a dit qu'elle accepterait que quelqu'un d'autre la suive, alors je me suis dit, pourquoi pas toi?"
+    mc "Eh bien, Lyssa a dit qu'elle accepterait que quelqu'un d'autre me suive, alors je me suis dit, pourquoi pas toi?"
 
 
 translate french d17s05_beebcd8c:
@@ -284,19 +284,19 @@ translate french d17s05_1311c5f2:
 translate french d17s05_113cd47c:
 
 
-    sy "Tu as appelé, donc quelque chose d'important a dû se produire."
+    sy "Tu m'appeles, donc quelque chose d'important a dû se produire."
 
 
 translate french d17s05_24319d89:
 
 
-    mc "Et votre première pensée a été de sauter vers la {i}mort{/i}?"
+    mc "Et ta première pensée a été QUI EST {i}MORT{/i}?"
 
 
 translate french d17s05_d62c9a92:
 
 
-    sy "Je ne sais pas mec. C'est de ta faute si tu as appelé alors que tu aurais tout aussi bien pu envoyer un SMS."
+    sy "Je ne sais pas mec. C'est de ta faute, si tu as appelé alors que tu aurais tout aussi bien pu envoyer un SMS."
 
 
 translate french d17s05_beaa3d79:
@@ -332,13 +332,13 @@ translate french d17s05_7be27f7e:
 translate french d17s05_300d8de6:
 
 
-    mc "Très bien alors. Préparez-vous, je viendrai vous chercher—"
+    mc "Très bien alors. Prépares-toi, je viens te chercher—"
 
 
 translate french d17s05_def5f643:
 
 
-    mct "Elle a raccroché l'appel avant même que je puisse finir ma foutue phrase."
+    mct "Elle a raccrochéer l'appel avant même que je puisse finir ma foutue phrase."
 
 translate french strings:
 

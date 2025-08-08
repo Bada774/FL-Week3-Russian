@@ -288,7 +288,7 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:1394
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new "{u}Получите Taboo University Book 1 из Steam{/u}"
+    new "{u}Приобрести Taboo University Book 1 в Steam{/u}"
 
 # TODO: Translation updated at 2025-02-20 22:03
 
@@ -296,5 +296,17 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:1396
     old "{u}Get Taboo University Book 1 on GOG{/u}"
-    new "{u}Получите Taboo University Book 1 из GOG{/u}"
+    new "{u}Приобрести Taboo University Book 1 в GOG{/u}"
+
+# TODO: Translation updated at 2025-08-08 01:58
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:1423
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Добавте Fetish Locator: S&M Studio в список желаний GOG"
+
+    # game/code/screens/screens_fl.rpy:1425
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Приобрести Fetish Locator: S&M Studio в GOG"
 

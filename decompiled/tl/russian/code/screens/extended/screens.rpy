@@ -76,7 +76,7 @@ translate russian strings:
 
 
     old "Get a Lovense toy"
-    new "Получить игрушку Lovense"
+    new "Приобрести игрушку Lovense"
 
 
 
@@ -84,7 +84,7 @@ translate russian strings:
 
 
     old "Wishlist Taboo University in Steam"
-    new "Добавить Taboo University в список желаний Steam"
+    new "Добавте Taboo University в список желаний Steam"
 
 
     old "Try our new game Taboo University"
@@ -96,7 +96,7 @@ translate russian strings:
 
 
     old "Wishlist Taboo University on Steam"
-    new "Добавить Taboo University в список желаний Steam"
+    new "Добавте Taboo University в список желаний Steam"
 
 
     old "Get free DLC containing 6 endings from Steam"
@@ -108,7 +108,7 @@ translate russian strings:
 
     # game/code/screens/extended/screens.rpy:227
     old "Buy Taboo University on Steam"
-    new "Купить Taboo University в Steam"
+    new "Приобрести Taboo University в Steam"
 
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
@@ -120,9 +120,21 @@ translate russian strings:
 
     # game/code/screens/extended/screens.rpy:229
     old "Buy Taboo University on GOG"
-    new "Купить Taboo University в GOG"
+    new "Приобрести Taboo University в GOG"
 
     # game/code/screens/extended/screens.rpy:242
     old "Watch Fetish Locator: S&M Studio trailer"
     new "Посмотреть трейлер Fetish Locator: S&M Studio"
+
+# TODO: Translation updated at 2025-08-08 01:58
+
+translate russian strings:
+
+    # game/code/screens/extended/screens.rpy:236
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Добавте Fetish Locator: S&M Studio в список желаний Steam"
+
+    # game/code/screens/extended/screens.rpy:238
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Приобрести Fetish Locator: S&M Studio в Steam"
 

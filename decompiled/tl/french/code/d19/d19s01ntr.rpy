@@ -1,204 +1,170 @@
 
 translate french d19s01ntr_bef95491:
 
-
     mc "Hein?{w} Quoi?!{w} Où suis-je?"
 
 
 translate french d19s01ntr_1de62988:
-
 
     lc "Tu es enfin réveillé."
 
 
 translate french d19s01ntr_f42241db:
 
-
     mc "Lydia?"
 
 
 translate french d19s01ntr_31d80bbc:
-
 
     lc "Tu peux m'appeler \"Maîtresse\" là."
 
 
 translate french d19s01ntr_e065ec42:
 
-
     mc "Putain. Je dois être en train de rêver ou de faire un cauchemar ou quelque chose du genre."
 
 
 translate french d19s01ntr_93f53efc:
-
 
     lc "Tu veux que je te pince?{w} Je préférerais que Jérôme te frappe."
 
 
 translate french d19s01ntr_044bb933:
 
-
     lc "Ce n'était pas une demande. Salope."
 
 
 translate french d19s01ntr_6c1f8f67:
-
 
     mc "Qu'est-ce qui se passe ici?"
 
 
 translate french d19s01ntr_659c72ed:
 
-
     lc "Tout se passe comme prévu. Laisse-moi clarifier ça pour toi."
 
 
 translate french d19s01ntr_1a6acbc5:
-
 
     lc "Je suis la méchante.{w} duh."
 
 
 translate french d19s01ntr_c16c21b4:
 
-
     mc "...?!"
 
 
 translate french d19s01ntr_765553a6:
-
 
     lc "Bienvenue dans mon donjon, esclave."
 
 
 translate french d19s01ntr_13f4d0c2:
 
-
     mc "...?!?!"
 
 
 translate french d19s01ntr_8e211d0a:
-
 
     lc "Bien. Tu es complètement à court de mots. Je pensais que ça pourrait arriver."
 
 
 translate french d19s01ntr_cf942ace:
 
-
     mc "En fait, j'ai juste un violent mal de tête. {w} As-tu du Tylenol?"
 
 
 translate french d19s01ntr_7f1e4000:
-
 
     lc "Mignon.{w} Bâillonne-le."
 
 
 translate french d19s01ntr_30ce0ad8:
 
-
     mct "C'est quoi ce bordel!{w} Ce n'est pas un cauchemar bizarre...{w} C'est réel!"
 
 
 translate french d19s01ntr_e09392dc:
-
 
     lc "Pour répondre à ta déclaration précédente, ce donjon est mon rêve. Fetish Locator n'était qu'une audition.{w} C'est ta réalité maintenant."
 
 
 translate french d19s01ntr_e00b46ee:
 
-
     lc "Je suis ta déesse, ton soleil et ta lune. Ton tout.{w} Tu es ma dernière création."
 
 
 translate french d19s01ntr_281e49fe:
-
 
     lc "Il y en a eu d'autres, bien sûr."
 
 
 translate french d19s01ntr_68ecd2b8:
 
-
     lc "Jérôme ici a son utilité. Et Pete, bien sûr..."
 
 
 translate french d19s01ntr_a3a34f40:
-
 
     lc "Pete n'est-il pas un si joli jouet? Je m'ennuie si souvent de lui, et pourtant parfois il est tout simplement merveilleux."
 
 
 translate french d19s01ntr_flashback_89dd4b90:
 
-
     lc "*soupir* Tellement ennuyeux, et pourtant tellement utile. Je suis à moitié enclin à le laisser se noyer."
 
 
 translate french d19s01ntr_flashback_c0062715:
-
 
     lc "Il est peut-être temps de changer.{w} Peter, pourquoi ne prends-tu pas la place de Jérôme pendant quelques minutes."
 
 
 translate french d19s01ntr_flashback_68dec3f8:
 
-
     pb "Maîtresse?!"
 
 
 translate french d19s01ntr_flashback_d5158065:
-
 
     lc "Quelle alternative y a-t-il? L'application de cet esclave pourrait m'apporter des dizaines ou des centaines de nouveaux serviteurs et esclaves."
 
 
 translate french d19s01ntr_flashback_27c5aa17:
 
-
     pb "Oui, maîtresse."
 
 
 translate french d19s01ntr_flashback_12fd0565:
-
 
     lc "Que peux-tu me proposer de comparable?"
 
 
 translate french d19s01ntr_flashback_9130db2f:
 
-
     pb "Peut-être un nouveau jeu, maîtresse. Un jeu auquel tu peux jouer, avec un nouveau jouet."
 
 
 translate french d19s01ntr_flashback_c01637c1:
-
 
     lc "Tu m'intrigue."
 
 
 translate french d19s01ntr_continue_48970888:
 
-
     lc "Il m'a parlé de toi. Comme tu étais amoureux de moi{w}, de mon visage public."
 
 
 translate french d19s01ntr_continue_12dc1552:
-
 
     lc "Combien de fois il a suggéré de te droguer et de te traîner ici. Ça aurait été si facile."
 
 
 translate french d19s01ntr_continue_14337a72:
 
-
     lc "Ça aurait été tellement ennuyeux."
 
 
 translate french d19s01ntr_continue_2711870a:
-
 
     lc "J'ai nourri ton engouement. Pendant ce temps, Jérôme travaillait nuit et jour sur l'application."
 
@@ -212,13 +178,13 @@ translate french d19s01ntr_continue_ba47ffe8:
 translate french d19s01ntr_continue_3504e0f5:
 
 
-    lc "C'était une délicieuse coïncidence. L'application était prête au moment où tu disparaissais. Personne ne serai ce qui t'était arrivé."
+    lc "C'était une délicieuse coïncidence. L'application était prête au moment où tu disparaissais. Personne ne savait ce qui t'était arrivé."
 
 
 translate french d19s01ntr_continue_f4a6da17:
 
 
-    lc "Pendant que Min dansait sur mes perversions et que tes amis tombaient à ma portée, tu serai introuvable."
+    lc "Pendant que Min dansait sur mes perversions et que tes amis tombaient dans mes griffes, tu étais introuvable."
 
 
 translate french d19s01ntr_continue_55af8b90:
@@ -242,19 +208,19 @@ translate french d19s01ntr_continue_53db33b7:
 translate french d19s01ntr_continue_a11d55c8:
 
 
-    lc "Quant à Min, nous sommes en compétition depuis que nous sommes petites filles."
+    lc "Quant à Min, nous avons rivalisé depuis que nous étions petites filles."
 
 
 translate french d19s01ntr_continue_3fb3e52a:
 
 
-    lc "Min est assez obsédé par le sexe ces jours-ci. Elle n'a encore aucune idée que je l'ai vaincue."
+    lc "Min est assez obsédée par le sexe ces jours-ci. Elle n'a aucune idée que je l'ai vaincue."
 
 
 translate french d19s01ntr_continue_12f51939:
 
 
-    lc "Elle n'est pas encore mûre. {w} Min me divertit. Je n'ai pas encore décidé de plier sa volonté à la mienne... pour l'instant."
+    lc "Elle n'est pas encore mûre.{w} Min me divertit. Je n'ai pas encore décidé de plier sa volonté à la mienne... pour l'instant."
 
 
 translate french d19s01ntr_continue_8fb1ce95:
@@ -290,7 +256,7 @@ translate french d19s01ntr_continue_c52739e2:
 translate french d19s01ntr_continue_30eb3135:
 
 
-    lc "Bien sûr, il y avait toujours la possibilité que quelqu'un comme Chloé ait pitié de toi, mais les plans les mieux élaborés et tout ça..."
+    lc "Bien sûr, il y avait toujours la possibilité que quelqu'un comme Chloé ait pitié de toi, mais les meilleurs plans et tout ça..."
 
 
 translate french d19s01ntr_continue_d26dc394:
@@ -710,7 +676,7 @@ translate french d19s01ntr_end_8fd91d57:
 translate french d19s01ntr_end_aad3e07c:
 
 
-    mc "*Rires* Tu te demande probablement pourquoi je rigole..."
+    mc "*Rires* Tu te demandes probablement pourquoi je rigole..."
 
 
 translate french d19s01ntr_end_ade5c0b6:
@@ -788,7 +754,7 @@ translate french d19s01ntr_end_1a366ea7:
 translate french d19s01ntr_end_f69ff4bd:
 
 
-    mct "C'est bizarre à dire...dans cette situation."
+    mct "C'est bizarre à dire... dans cette situation."
 
 
 translate french d19s01ntr_end_98459161:
@@ -836,7 +802,7 @@ translate french d19s01ntr_end_f30c76e8:
 translate french d19s01ntr_end_9af20ee0:
 
 
-    ah "Je sais que les choses paraisse mauvaise, mais rien n'est aussi foutu que tu le penses."
+    ah "Je sais que les choses paraissent mauvaises, mais rien n'est aussi foutu que tu le penses."
 
 
 translate french d19s01ntr_end_6e0c97a2:
@@ -848,7 +814,7 @@ translate french d19s01ntr_end_6e0c97a2:
 translate french d19s01ntr_end_be1e3b25:
 
 
-    tr "Certains d'entre nous sont ici volontairement.{w} Nous apprécions plutôt... nous soumettres."
+    tr "Certains d'entre nous sont ici volontairement.{w} Nous apprécions plutôt... nous soumettre."
 
 
 translate french d19s01ntr_end_597429b0:
@@ -890,7 +856,7 @@ translate french d19s01ntr_end_877b3d09:
 translate french d19s01ntr_end_dcd61b6f:
 
 
-    tr "D'accord, mais donne nous au moins le temps de sortir d'ici."
+    tr "D'accord, mais donne-nous au moins le temps de sortir d'ici."
 
 
 translate french d19s01ntr_end_4068fda8:
@@ -962,7 +928,7 @@ translate french d19s01ntr_end_bb39a2f3:
 translate french d19s01ntr_end_6a57e384:
 
 
-    tr "On n'a même pas besoin de cacher le corps. On vient de le mettre dans un de ces-"
+    tr "On n'a même pas besoin de cacher le corps. On le met juste dans un de ces-"
 
 
 translate french d19s01ntr_end_75461c5d:
@@ -1065,7 +1031,7 @@ translate french strings:
     new "Je croyais que tu étais vierge!"
 
 
-    old "How is Kevin involved in all this"
+    old "How is Kevin involved in all this?"
     new "Comment Kevin est-il impliqué dans tout ça?"
 
 
@@ -1083,4 +1049,12 @@ translate french strings:
 
     old "Go Fuck Yourself"
     new "Va te faire foutre"
+
+
+
+translate french strings:
+
+
+    old "How is Kevin involved in all this"
+    new "How is Kevin involved in all this"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

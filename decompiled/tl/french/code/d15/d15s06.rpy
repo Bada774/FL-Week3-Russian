@@ -38,7 +38,7 @@ translate french d15s06_c2ffbd64:
 translate french d15s06_b6e04664:
 
 
-    mh "Ravi de l'entendre. Je viens te chercher tout de suite."
+    mh "Ravie de l'entendre. Je viens te chercher tout de suite."
 
 
 translate french d15s06_eb834df9:
@@ -50,7 +50,7 @@ translate french d15s06_eb834df9:
 translate french d15s06_197edeec:
 
 
-    mh "Attends, quoi? Tout de suite?"
+    mh "Oui. Ne t'inquiéte pas de comment t'es habillé. Tout ira bien comme ça"
 
 
 translate french d15s06_2cec29e2:
@@ -68,7 +68,7 @@ translate french d15s06_1c6493e1:
 translate french d15s06_88e263ac:
 
 
-    mc "Oh, je suis sorti un peu.{w} J'envoie ma position."
+    mc "Oh, je suis de sortie.{w} Je t'envoie ma position."
 
 
 translate french d15s06_9b3d54a1:
@@ -122,7 +122,7 @@ translate french d15s06_c2ffbd64_1:
 translate french d15s06_b6e04664_1:
 
 
-    mh "Ravi de l'entendre. Je viens te chercher tout de suite."
+    mh "Ravie de l'entendre. Je viens te chercher tout de suite."
 
 
 translate french d15s06_eb834df9_1:
@@ -134,7 +134,7 @@ translate french d15s06_eb834df9_1:
 translate french d15s06_197edeec_1:
 
 
-    mh "Oui. Ne t'inquiète pas pour ton habillage. Tout ira bien comme ça."
+    mh "Oui. Ne t'inquiéte pas de comment t'es habillé. Tout ira bien comme ça."
 
 
 translate french d15s06_2cec29e2_1:
@@ -170,7 +170,7 @@ translate french d15s06_55db923e:
 translate french d15s06_a0b43782:
 
 
-    mc "Je viens de planifier un rendez-vous avec quelqu'un de spécial. On dirait qu'ils sont un peu en retard cependant."
+    mc "Je viens de planifier un rendez-vous avec quelqu'un de spécial. On dirait qu'elle est un peu en retard cependant."
 
 
 translate french d15s06_5ee810c7:
@@ -188,7 +188,7 @@ translate french d15s06_5d0f36c6:
 translate french d15s06_b7bc0101:
 
 
-    mh "Montrez-vous un moment amusant."
+    mh "Te montrer un moment amusant."
 
 
 translate french d15s06_9fa3c691:
@@ -236,7 +236,7 @@ translate french d15s06_5cc6b562:
 translate french d15s06_f03f5855:
 
 
-    mh "Bien sûr. Je n'ai pas travaillé si dur pour {i}ne pas{/i} avoir des choses sophistiquées."
+    mh "Bien sûr. Je n'ai pas travaillée si dur pour {i}ne pas{/i} avoir des choses sophistiquées."
 
 
 translate french d15s06_11813316:
@@ -260,7 +260,7 @@ translate french d15s06_38288503:
 translate french d15s06_8971613c:
 
 
-    mc "Vous êtes...{w} notre chauffeur?"
+    mc "Tu es...{w} notre chauffeur?"
 
 
 translate french d15s06_bd48798d:
@@ -302,7 +302,7 @@ translate french d15s06_289d8872:
 translate french d15s06_21dd06c0:
 
 
-    mc "Où étions-nous?"
+    mc "Où en étions-nous?"
 
 
 translate french d15s06_cd8b9f64:
@@ -410,7 +410,7 @@ translate french d15s06_house_ceb34ca9:
 translate french d15s06_house_b3e488c2:
 
 
-    mh "*Rire doucement* Je pense que nous l'avons tous les deux fait."
+    mh "*Rire doucement* Je pense que nous le sommes tous les deux en fait."
 
 
 translate french d15s06_house_0050c15f:
@@ -422,7 +422,7 @@ translate french d15s06_house_0050c15f:
 translate french d15s06_house_b999aef4:
 
 
-    mc "Un peu, mais on s'y habitue un peu."
+    mc "Un peu, mais on s'y habitue vite."
 
 
 translate french d15s06_house_abad4d87:
@@ -440,7 +440,7 @@ translate french d15s06_house_951bcf9d:
 translate french d15s06_house_3ac1d854:
 
 
-    mc "Non, merci. J'apprécie cette pensée, mais je ne veux pas que quelque chose de ce genre s'approche de moi."
+    mc "Non, merci. J'apprécie cette pensée, mais je ne veux pas que quelque chose de ce genre s'approche de mes burnes."
 
 
 translate french d15s06_house_7a579ccf:
@@ -524,7 +524,7 @@ translate french d15s06_house_2e2f8e41:
 translate french d15s06_house_7696660e:
 
 
-    mh "Oui, s'il vous plaît, Monsieur."
+    mh "Oui, s'il te plaît, Monsieur."
 
 
 translate french d15s06_house_87e26eb2:
@@ -548,7 +548,7 @@ translate french d15s06_house_1b829755:
 translate french d15s06_house_766f1966:
 
 
-    mh "Je veux que vous vous sentiez bien, Monsieur."
+    mh "Je veux que tu te sentes bien, Monsieur."
 
 
 translate french d15s06_house_85928863:
@@ -686,7 +686,7 @@ translate french d15s06_house_2485f494:
 translate french d15s06_house_4bb679bb:
 
 
-    mct "Eh bien, ce n'est pas comme si d'autres choses n'étaient pas là à ce stade."
+    mct "Eh bien, ce n'est pas comme si d'autres choses étaient possible à ce stade."
 
 
 translate french d15s06_house_61feea41:
@@ -704,13 +704,13 @@ translate french d15s06_house_6f801dd5:
 translate french d15s06_house_c5feb9ee:
 
 
-    mc "Je... y suis ouvert."
+    mc "J'... y suis ouvert."
 
 
 translate french d15s06_house_d9e2a2f4:
 
 
-    mc "...Vous pouvez."
+    mc "...tu peux."
 
 
 translate french d15s06_house_48b5aa68:
@@ -812,7 +812,7 @@ translate french d15s06_house_523e7637:
 translate french d15s06_house_8f645d73:
 
 
-    mc "Je veux que tu approfondisses."
+    mc "Je veux que tu aille plus profond."
 
 
 translate french d15s06_house_c1c9ce25:
@@ -854,7 +854,7 @@ translate french d15s06_house_3250d2f7:
 translate french d15s06_house_e663372d:
 
 
-    mc "Fuuuck, Lyssa, je vais jouir putain!"
+    mc "Puuutain, Lyssa, je vais jouir putain!"
 
 
 translate french d15s06_house_68b654e0:
@@ -878,7 +878,7 @@ translate french d15s06_house_fbb2cafe:
 translate french d15s06_house_8d4a8ea8:
 
 
-    mh "Oh, je suis désolé."
+    mh "Oh, je suis désolée."
 
 
 translate french d15s06_house_07cf3c4c:
@@ -950,7 +950,7 @@ translate french d15s06_pillowtalk_c15d806b:
 translate french d15s06_pillowtalk_3dc08474:
 
 
-    mh "Celui que tu as lancé?"
+    mh "Celle que tu as lancé?"
 
 
 translate french d15s06_pillowtalk_cf1adef2:
@@ -968,7 +968,7 @@ translate french d15s06_pillowtalk_a88cd26e:
 translate french d15s06_pillowtalk_6c480847:
 
 
-    mh "Il est plutôt timide et timide la plupart du temps, mais vous devriez le voir quand il aura la confiance nécessaire pour jouer. *Rires*"
+    mh "Il est plutôt timide et la plupart du temps, mais tu devrais le voir quand il aura la confiance nécessaire pour jouer. *Rires*"
 
 
 translate french d15s06_pillowtalk_b2b2b038:
@@ -980,7 +980,7 @@ translate french d15s06_pillowtalk_b2b2b038:
 translate french d15s06_pillowtalk_dc3c9d63:
 
 
-    mc "À propos de… Attends, tu es en train de dire qu'il a besoin de baiser encore pour arrêter d'être si timide et timide?"
+    mc "À propos de… Attends, tu es en train de dire qu'il a besoin de baiser pour arrêter d'être si timide?"
 
 
 translate french d15s06_pillowtalk_76c98c3f:
@@ -1010,13 +1010,13 @@ translate french d15s06_pillowtalk_720dc31f:
 translate french d15s06_pillowtalk_80303ef9:
 
 
-    mh "Cela... expliquerait les choses."
+    mh "Ceci... expliquerait cela."
 
 
 translate french d15s06_pillowtalk_cbb7edac:
 
 
-    mh "Mon Dieu, comment je ne l'ai pas remarqué jusqu'à maintenant?"
+    mh "Mon Dieu, comment j'ai pu ne l'ai pas remarqué jusqu'à maintenant?"
 
 
 translate french d15s06_pillowtalk_4ec1cb6c:
@@ -1040,19 +1040,19 @@ translate french d15s06_pillowtalk_8f655505:
 translate french d15s06_pillowtalk_95371c1f:
 
 
-    mh "Wow, vas-y Oliver. Je ne m'attendais pas à ça de sa part."
+    mh "Wow, Oliver. Je ne m'attendais pas à ça de sa part."
 
 
 translate french d15s06_pillowtalk_4d333ed5:
 
 
-    mc "Et puis il m'a invité à sortir avec moi."
+    mc "Et puis il m'a invité à sortir avec lui."
 
 
 translate french d15s06_pillowtalk_c2ee9bda:
 
 
-    mh "*Faux halètement* Cette minx sournoise essaie de voler mon homme sous moi!"
+    mh "*Faux halètement* Cette salope sournoise essaie de voler mon homme sous mes yeux!"
 
 
 translate french d15s06_pillowtalk_290938c8:
@@ -1202,13 +1202,13 @@ translate french d15s06_pillowtalk_584cdb21:
 translate french d15s06_pillowtalk_dc61be70:
 
 
-    mh "Vous l'êtes vraiment.{w} Allez."
+    mh "Tu l'es vraiment.{w} Allez."
 
 
 translate french d15s06_kitchen_39afce87:
 
 
-    mh "J'aurai besoin de votre aide."
+    mh "J'aurai besoin de ton aide."
 
 
 translate french d15s06_kitchen_81741dd5:
@@ -1238,7 +1238,7 @@ translate french d15s06_kitchen_e8e49d2c:
 translate french d15s06_kitchen_809522c1:
 
 
-    mc "Bon Dieu, je suis à la fois rassasié et j'ai faim de plus."
+    mc "Bon Dieu, je suis à la fois rassasié et j'ai encore faim."
 
 
 translate french d15s06_kitchen_dd711302:
@@ -1256,7 +1256,7 @@ translate french d15s06_kitchen_08f68bd6:
 translate french d15s06_kitchen_94104fdc:
 
 
-    mh "Laissez-moi."
+    mh "Laisse-moi."
 
 
 translate french d15s06_kitchen_65bf3354:
@@ -1376,7 +1376,7 @@ translate french d15s06_end_4ae26937:
 translate french d15s06_end_49ef765f:
 
 
-    mc "Bien sûr, je suppose. Quoi de neuf?"
+    mc "Bien sûr. Quoi de neuf?"
 
 
 translate french d15s06_end_b3065beb:
@@ -1388,7 +1388,7 @@ translate french d15s06_end_b3065beb:
 translate french d15s06_end_07b5879c:
 
 
-    mct "Pourquoi Min veut-il que je vienne tout d'un coup chez Lydia?"
+    mct "Pourquoi Min veut-elle que je vienne tout d'un coup chez Lydia?"
 
 
 translate french d15s06_end_b063725f:
@@ -1406,7 +1406,7 @@ translate french d15s06_end_909025d0:
 translate french d15s06_end_e686d6fc:
 
 
-    mc "Tu te souviens de l'endroit où j'ai fait la fête?{w} Prends-moi lere."
+    mc "Tu te souviens de l'endroit où j'ai fait la fête?{w} Emmène-moi là-bas."
 
 
 translate french d15s06_end_dcf174f4:
@@ -1592,13 +1592,13 @@ translate french d15s06_end_e492dd52:
 translate french d15s06_end_d4bab8be:
 
 
-    op "Attendez, est-ce que {i}vous{/i}—?"
+    op "Attends, est-ce que {i}tu{/i}—?"
 
 
 translate french d15s06_end_13a8b996:
 
 
-    mc "Hm. Eh bien, je ne peux pas parler pour elle. Et compte tenu de ce que vous venez de me dire, je pense qu'il serait préférable que nous {i}tous{/i} en parlions ensemble."
+    mc "Hm. Eh bien, je ne peux pas parler pour elle. Et compte tenu de ce que tu viens de me dire, je pense qu'il serait préférable que nous {i}tous{/i} en parlions ensemble."
 
 
 translate french d15s06_end_60a95261:
@@ -1670,7 +1670,7 @@ translate french d15s06_end_4df2f447:
 translate french d15s06_end_3549c985:
 
 
-    mct "Encore une? Pourquoi ai-je acheté celui-ci?"
+    mct "Encore une? Pourquoi ai-je eu celle-ci?"
 
 
 translate french d15s06_end_a041029e:
@@ -1682,7 +1682,7 @@ translate french d15s06_end_a041029e:
 translate french d15s06_end_fd62af63:
 
 
-    mct "Continuez à les venir."
+    mct "Continuez, ils arrivent."
 
 translate french strings:
 

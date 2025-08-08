@@ -56,7 +56,7 @@ translate french d17s01_85539b83:
 translate french d17s01_c3742bb7:
 
 
-    arj "Euh, bonjour, [mcname]. As-tu oublié que nous avons invité ta petite amie pour le petit-déjeuner?"
+    arj "Euh, bonjour, [mcname]. As-tu oubliés que nous avons invité ta petite amie pour le petit-déjeuner?"
 
 
 translate french d17s01_aff36e20:
@@ -152,7 +152,7 @@ translate french d17s01_20436e1c:
 translate french d17s01_b0c45ef6:
 
 
-    lc "Donc, après avoir dégusté la délicieuse nourriture d'AmRose, je suppose que nous sommes juste en train d'étudier."
+    lc "Donc, après avoir dégusté la délicieuse nourriture d'AmRose, je suppose que nous allons juste en train d'étudier."
 
 
 translate french d17s01_a245777f:
@@ -254,7 +254,7 @@ translate french d17s01_3b8eedef:
 translate french d17s01_04ea5c8f:
 
 
-    arj "Euh, je pensais que vous étiez des amis proches."
+    arj "Euh, je pensais que vous étiez des amies proches."
 
 
 translate french d17s01_fbd26564:
@@ -266,7 +266,7 @@ translate french d17s01_fbd26564:
 translate french d17s01_0542e115:
 
 
-    arj "Pourquoi serais-tu ami avec quelqu'un comme ça?"
+    arj "Pourquoi serais-tu amie avec quelqu'un comme ça?"
 
 
 translate french d17s01_64c28bdc:
@@ -344,31 +344,31 @@ translate french d17s01_656534e3:
 translate french d17s01_fee432f6:
 
 
-    lc "Alors tu as triché?"
+    lc "Alors tu as trichée?"
 
 
 translate french d17s01_49bf9173:
 
 
-    arj "Je n'ai pas triché!{w} Ils ont donné à chacun de nous un casse-tête à résoudre. La solution était de..."
+    arj "Je n'ai pas trichée!{w} Ils ont donné à chacun de nous un casse-tête à résoudre. La solution était de..."
 
 
 translate french d17s01_1f1cd9e0:
 
 
-    arj "Je veux dire, je suppose que techniquement, c'est du piratage, mais-{w} Okay, je veux dire, peut-être que j'ai triché. Mais nous sommes censés le faire!"
+    arj "Je veux dire, je suppose que techniquement, c'est du piratage, mais-{w} Okay, je veux dire, peut-être que j'ai trichée. Mais nous sommes censés le faire!"
 
 
 translate french d17s01_713348b8:
 
 
-    lc "Désolé, je n'avais pas réalisé que c'était si nerveux. Ne t'inquiète pas, je ne le dirai à personne."
+    lc "Désolée, je n'avais pas réalisée que c'était si nerveux. Ne t'inquiète pas, je ne le dirai à personne."
 
 
 translate french d17s01_4452e293:
 
 
-    arj "Et vous? Vous ont-ils donné un puzzle musical?"
+    arj "Et toi? t'ont-ils donné un puzzle musical?"
 
 
 translate french d17s01_af6d3988:
@@ -398,7 +398,7 @@ translate french d17s01_f3ffc1f0:
 translate french d17s01_5c2e7144:
 
 
-    lc "Vous avez raison à propos de Nordin et Lewald."
+    lc "Tu as raison à propos de Nordin et Lewald."
 
 
 translate french d17s01_6a88576b:
@@ -458,7 +458,7 @@ translate french d17s01_1560f212:
 translate french d17s01_cfdb5771:
 
 
-    arj "Ne nous laissons pas distraire.{w} Lydia, que voudriez-vous comme information?"
+    arj "Ne nous laissons pas distraire.{w} Lydia, que voudrais-tu comme information?"
 
 
 translate french d17s01_49f46706:
@@ -470,7 +470,7 @@ translate french d17s01_49f46706:
 translate french d17s01_a16e7230:
 
 
-    lc "Eh bien, laissez-moi le dire de cette façon...{w} [mcname], puis-je emprunter votre esclave?"
+    lc "Eh bien, laissez-moi le dire de cette façon...{w} [mcname], puis-je emprunter ton esclave?"
 
 
 translate french d17s01_de3240c1:
@@ -500,13 +500,13 @@ translate french d17s01_08ef92e9:
 translate french d17s01_11de9fde:
 
 
-    arj "Je ne me balance pas de cette façon."
+    arj "Je ne me donne pas de cette façon."
 
 
 translate french d17s01_3be6bd73:
 
 
-    mc "Mais vous avez expérimenté.{w} Ce ne serait pas la première fois."
+    mc "Mais tu es expérimenté.{w} Ce ne serait pas la première fois."
 
 
 translate french d17s01_de5ce96e:
@@ -548,7 +548,7 @@ translate french d17s01_de5ce96e_1:
 translate french d17s01_14b99a8d:
 
 
-    mc "Mais vous avez joué avec des jouets.{w} Ce n'est qu'une question de temps avant que nous le fassions."
+    mc "Mais tu as jouée avec des jouets.{w} Ce n'est qu'une question de temps avant que nous le fassions."
 
 
 translate french d17s01_a2411c66:
@@ -560,7 +560,7 @@ translate french d17s01_a2411c66:
 translate french d17s01_4412e5c7:
 
 
-    mc "Je ne sais même pas encore.{w} C'est une question difficile. Dans quelle mesure ce serait difficile pour vous?"
+    mc "Je ne sais même pas encore.{w} C'est une question difficile. Dans quelle mesure ce serait difficile pour toi?"
 
 
 translate french d17s01_b8c40966:
@@ -578,7 +578,7 @@ translate french d17s01_5876ac99:
 translate french d17s01_57e03bfb:
 
 
-    mc "Baise-moi.{w} {b}Zarah Waller{/b}?"
+    mc "Putain...{w} {b}Zarah Waller{/b}?"
 
 
 translate french d17s01_e59f0cc7:
@@ -596,7 +596,7 @@ translate french d17s01_0a8ba365:
 translate french d17s01_d2df089d:
 
 
-    mc "Baise-moi."
+    mc "Fais chié."
 
 
 translate french d17s01_2540360a:
@@ -614,7 +614,7 @@ translate french d17s01_7f5d6040:
 translate french d17s01_6860bf7d:
 
 
-    mc "Elle déteste mes tripes."
+    mc "Elle me déteste."
 
 
 translate french d17s01_b9499276:
@@ -638,7 +638,7 @@ translate french d17s01_aaca2f5e:
 translate french d17s01_28a8c6c5:
 
 
-    mc "Tout le semestre, elle a menacé de faire en sorte que je ne passe pas les examens, ou que je ne réussisse pas les examens, etc."
+    mc "Tout le semestre, elle m'a menacé de faire en sorte que je ne passe pas les examens, ou que je ne réussisse pas les examens, etc."
 
 
 translate french d17s01_6664898b:
@@ -656,13 +656,13 @@ translate french d17s01_51a06b6b:
 translate french d17s01_cf1adef2:
 
 
-    mc "Oauis."
+    mc "Ouais."
 
 
 translate french d17s01_5414f38f:
 
 
-    lc "Je suis désolé, mon amour.{w} Je n'avais pas réalisé..."
+    lc "Je suis désolée, mon amour.{w} Je n'avais pas réalisé..."
 
 
 translate french d17s01_6788f95d:
@@ -692,13 +692,13 @@ translate french d17s01_653e7d26:
 translate french d17s01_dbe4d1cf:
 
 
-    lc "Je n'étais pas sérieux à ce sujet. J'étais juste en train de vous embrouiller avant de dire ce que je savais."
+    lc "J'étais pas sérieuse à ce sujet. Je vous chauffais juste avant de dire ce que je savais."
 
 
 translate french d17s01_1c84857e:
 
 
-    arj "Eh bien, je ne vois pas les choses de la même manière.{w} Enlève cette robe, faisons ça."
+    arj "Bah, je vois pas ça de la même façon.{w} Vire cette robe, on s'y met."
 
 
 translate french d17s01_1b6e8f50:
@@ -710,31 +710,31 @@ translate french d17s01_1b6e8f50:
 translate french d17s01_06269613:
 
 
-    mc "Je suis d'accord avec AmRose sur ce point.{w} Ce serait au moins une bonne distraction."
+    mc "Je suis d'accord avec AmRose.{w} Ce serait au moins une bonne distraction."
 
 
 translate french d17s01_36ffa2f5:
 
 
-    arj "Je ferai ce truc pour toi. [mcname] adorera regarder."
+    arj "Je vais faire ce truc pour toi. [mcname] va kiffer regarder."
 
 
 translate french d17s01_979c088d:
 
 
-    arj "Nous ferons ce truc pour vous. Je suis sûr que [mcname] et moi allons l'adorer."
+    arj "On va faire ça pour toi. Je suis sûr que [mcname] et moi on va adorer."
 
 
 translate french d17s01_337cb390:
 
 
-    arj "Nous pourrons nous occuper de cet administrateur qui déteste [mcname] plus tard."
+    arj "On s'occupera de cet administrateur qui déteste [mcname] plus tard."
 
 
 translate french d17s01_6c21fd4d:
 
 
-    lc "J'ai peut-être quelques idées à ce sujet."
+    lc "J'ai peut-être quelques idées là-dessus."
 
 
 translate french d17s01_cc96d855:
@@ -746,19 +746,19 @@ translate french d17s01_cc96d855:
 translate french d17s01_e49b9b88:
 
 
-    lc "D'accord. Si c'est ce que vous voulez tous les deux."
+    lc "Ok. Si c'est ce que vous voulez tous les deux."
 
 
 translate french d17s01_a16db31d:
 
 
-    mc "C'est."
+    mc "C'est ça."
 
 
 translate french d17s01_6860d713:
 
 
-    arj "Ouais, ça l'est."
+    arj "Ouais, c'est ça."
 
 
 translate french d17s01_ntr_5e58e857:
@@ -770,7 +770,7 @@ translate french d17s01_ntr_5e58e857:
 translate french d17s01_ntr_33b913c7:
 
 
-    lc "Oui, oui, juste là!!"
+    lc "Ouais, ouais, juste là!!"
 
 
 translate french d17s01_ntr_c835d811:
@@ -782,13 +782,13 @@ translate french d17s01_ntr_c835d811:
 translate french d17s01_ntr_a247aa22:
 
 
-    lc "C'est merveilleux.{w} Vous avez une langue très talentueuse."
+    lc "C'est merveilleux.{w} T'as une langue bien talentueuse."
 
 
 translate french d17s01_ntr_f6edf5ae:
 
 
-    lc "S'il te plaît, ne t'arrête pas... Je suis si proche."
+    lc "S'il te plaît, arrête pas... J'y suis presque là."
 
 
 translate french d17s01_ntr_98e109a3:
@@ -800,37 +800,37 @@ translate french d17s01_ntr_98e109a3:
 translate french d17s01_ntr_97a8ccdc:
 
 
-    mc "Qu'est-ce que ça dit?"
+    mc "Qu'est-ce que ça dit ?"
 
 
 translate french d17s01_ntr_e7bcff5b:
 
 
-    lc "\"Venez frapper à l'entrée arrière de Shady Thicket, ce que vous trouverez peut être extrêmement satisfaisant.\"{w} Le fétichisme d'aujourd'hui est anal.."
+    lc "\"Venez frapper à l'entrée arrière de Shady Thicket, ce que vous trouverez peut être extrêmement satisfaisant.\"{w} Le fétichisme du jour est anal."
 
 
 translate french d17s01_ntr_cf40f1c1:
 
 
-    lc "Qu'en dis-tu, mon amour?{w} Veux-tu essayer sa porte arrière?"
+    lc "Alors, tu dis quoi mon amour ?{w} T'as envie d'essayer sa porte arrière ?"
 
 
 translate french d17s01_ntr_4ca905f6:
 
 
-    mc "Je préférerais m'en prendre à toi."
+    mc "Je préfèrerais m'occuper de toi."
 
 
 translate french d17s01_ntr_b3f2216d:
 
 
-    lc "Pas au menu, j'en ai peur."
+    lc "Pas au programme, désolée."
 
 
 translate french d17s01_ntr_2513fab4:
 
 
-    mc "Je vais la laisser terminer ce qu'elle a commencé en premier."
+    mc "Je vais la laisser finir ce qu'elle a commencé d'abord."
 
 
 translate french d17s01_ntr_b22588fe:
@@ -842,31 +842,31 @@ translate french d17s01_ntr_b22588fe:
 translate french d17s01_ntr_3b74a6ee:
 
 
-    mc "Ça te dérange si je me branle en attendant?"
+    mc "Ça te dérange si je me branle en attendant ?"
 
 
 translate french d17s01_ntr_4786adb2:
 
 
-    mc "Non, je pense que je vais réussir."
+    mc "Non, je pense que je vais passer."
 
 
 translate french d17s01_ntr_50ff96c1:
 
 
-    lc "Dans ce cas, je la laisserai terminer ce qu'elle a commencé ici."
+    lc "Dans ce cas, je vais la laisser terminer ce qu'elle a commencé ici."
 
 
 translate french d17s01_ntr_da005f97:
 
 
-    mc "Ça te dérange si je me branle?"
+    mc "Ça te dérange si je me branle ?"
 
 
 translate french d17s01_ntr_5c425860:
 
 
-    lc "Soyez mon invité."
+    lc "Sois mon invité."
 
 
 translate french d17s01_lick_kitty_3095690c:
@@ -878,7 +878,7 @@ translate french d17s01_lick_kitty_3095690c:
 translate french d17s01_lick_kitty_52dfbde1:
 
 
-    mct "Je ne dirai pas non à ça."
+    mct "Je dirai pas non à ça."
 
 
 translate french d17s01_lick_kitty_45b944f8:
@@ -902,19 +902,19 @@ translate french d17s01_lick_kitty_ca7e5c1e:
 translate french d17s01_lick_kitty_da481a5e:
 
 
-    mc "Je suis désolé, mon amour, je n'ai pas pu m'en empêcher."
+    mc "Désolé, chérie, je pouvais pas m'en empêcher."
 
 
 translate french d17s01_lick_kitty_8742d517:
 
 
-    arj "Merde, ça brûle!{w} Désolé, ça va. C'est bon..."
+    arj "Putain ça brûle!{w} Désolé, ça va. Ça va..."
 
 
 translate french d17s01_lick_kitty_522d5a5a:
 
 
-    lc "Après ça, j'ai l'impression que je devrais fumer une cigarette."
+    lc "Après ça, j'ai l'impression que je devrais fumer une clope."
 
 
 translate french d17s01_lick_kitty_74fc6761:
@@ -926,13 +926,13 @@ translate french d17s01_lick_kitty_74fc6761:
 translate french d17s01_lick_kitty_9f958a6c:
 
 
-    lc "Débarrassez-vous de vos vêtements et emménagez ici."
+    lc "Virez vos fringues et venez ici."
 
 
 translate french d17s01_lick_kitty_7f5a1b93:
 
 
-    lc "J'aimerais avoir une bonne vue de cela."
+    lc "J'aimerais bien avoir une bonne vue de ça."
 
 
 translate french d17s01_lick_kitty_4cd44184:
@@ -944,43 +944,43 @@ translate french d17s01_lick_kitty_4cd44184:
 translate french d17s01_lick_kitty_f985f8be:
 
 
-    mc "J'entre!"
+    mc "J'arrive!"
 
 
 translate french d17s01_no_ntr_07dd011a:
 
 
-    mc "Nous sommes prêts."
+    mc "On est prêts."
 
 
 translate french d17s01_no_ntr_80a121ce:
 
 
-    lc "Je vais me débarrasser de mes vêtements."
+    lc "Je vais enlever mes fringues."
 
 
 translate french d17s01_no_ntr_339324c3:
 
 
-    lc "Soyez doux.{w} Elle est vierge... en quelque sorte."
+    lc "Sois doux.{w} Elle est vierge... enfin, à peu près."
 
 
 translate french d17s01_no_ntr_b9df5a98:
 
 
-    arj "*marmonne* merci, connard."
+    arj "*marmonne* merci, salope."
 
 
 translate french d17s01_no_ntr_efa7c633:
 
 
-    arj "*marmonne* merci, salope."
+    arj "*marmonne* merci, pute."
 
 
 translate french d17s01_no_ntr_af82a459:
 
 
-    mc "Tu es sûr que tu ne veux pas de lubrifiant?"
+    mc "T'es sûre que tu veux pas de lubrifiant ?"
 
 
 translate french d17s01_no_ntr_916000a0:
@@ -992,103 +992,13 @@ translate french d17s01_no_ntr_916000a0:
 translate french d17s01_no_ntr_ae0f48a6:
 
 
-    mc "Je ne te le demandais pas, chérie{w} AmRose? Nous avons du sirop, du beurre..."
+    mc "Je te le demandais pas, chérie.{w} AmRose ? On a du sirop, du beurre..."
 
 
 translate french d17s01_no_ntr_2d4268b1:
 
 
-    arj "J'ai de l'huile pour armes à feu dans la chambre..."
-
-
-translate french d17s01_no_ntr_ff2fe935:
-
-
-    mc "Tu veux que je la prenne?"
-
-
-translate french d17s01_no_ntr_85fea182:
-
-
-    lc "S'il vous plaît, ne le faites pas.{w} J'aimerais voir à quoi ça ressemble...{w} brut. C'est le mot?"
-
-
-translate french d17s01_no_ntr_56124645:
-
-
-    arj "C'est bon.{w} Baise-moi brutalement. Je veux ressentir ce que ça fait."
-
-
-translate french d17s01_no_ntr_a49ed4f8:
-
-
-    mc "Okay."
-
-
-translate french d17s01_no_ntr_3ca42aaf:
-
-
-    lc "Au début, tu devrais peut-être y aller doucement."
-
-
-translate french d17s01_no_ntr_85974aab:
-
-
-    arj "Non!"
-
-
-translate french d17s01_no_ntr_11455b53:
-
-
-    mc "Quoi?"
-
-
-translate french d17s01_no_ntr_5d7689bd:
-
-
-    arj "C'est comme arracher un pansement.{w} Tu me baises le cul, je te repousse, et on t'enfonce les couilles le plus vite possible."
-
-
-translate french d17s01_no_ntr_cfce055e:
-
-
-    mc "Es-tu sûr?"
-
-
-translate french d17s01_no_ntr_583c3dbf:
-
-
-    lc "On dirait que ce serait incroyablement douloureux."
-
-
-translate french d17s01_no_ntr_74aeb474:
-
-
-    arj "Si tu veux me violer le cul, fais au moins ce que je te dis de faire."
-
-
-translate french d17s01_no_ntr_96f17797:
-
-
-    arj "Si tu veux me baiser dans la merde, fais au moins ce que je te dis de faire."
-
-
-translate french d17s01_no_ntr_a49ed4f8_1:
-
-
-    mc "Okay."
-
-
-translate french d17s01_anal_sex_700f5a57:
-
-
-    arj "PUUUUUuuuuuuuuUUUUUTTTTTTAAAINNNN DE MERDE!!!"
-
-
-translate french d17s01_anal_sex_c9fac30e:
-
-
-    lc "Elle l'a demandé."
+    arj "J'ai pas besoin de tout ça, pervers."
 
 
 translate french d17s01_anal_sex_06a5de85:
@@ -1112,7 +1022,7 @@ translate french d17s01_anal_sex_457a2223:
 translate french d17s01_anal_sex_32e06c71:
 
 
-    arj "OW!!! OW!!! OW!! {w} ARRÊTEZ ÇA!!! "
+    arj "OW!!! OW!!! OW!! {w} ARRÊTE ÇA!!! "
 
 
 translate french d17s01_anal_sex_f0eeda9a:
@@ -1124,7 +1034,7 @@ translate french d17s01_anal_sex_f0eeda9a:
 translate french d17s01_anal_sex_f3c8b7d1:
 
 
-    arj "Donnez-moi une seconde."
+    arj "Donne-moi une seconde."
 
 
 translate french d17s01_anal_sex_150ef387:
@@ -1208,7 +1118,7 @@ translate french d17s01_anal_sex_7acb55da:
 translate french d17s01_anal_sex_096bcc92:
 
 
-    mc "Trop?"
+    mc "Trop fort?"
 
 
 translate french d17s01_anal_sex_84c11fbb:
@@ -1220,7 +1130,7 @@ translate french d17s01_anal_sex_84c11fbb:
 translate french d17s01_anal_sex_c057ab34:
 
 
-    lc "Je suis surpris. Je pensais que ça te plairait."
+    lc "Je suis surprise. Je pensais que ça te plairait."
 
 
 translate french d17s01_anal_sex_059091eb:
@@ -1268,7 +1178,7 @@ translate french d17s01_anal_sex_2c582b8a:
 translate french d17s01_anal_sex_69616fc6:
 
 
-    arj "J'ai l'impression que tu es enfoncé jusqu'aux genoux dans mon côlon."
+    arj "J'ai l'impression que tu es enfoncé jusqu'aux genoux dans mon cul."
 
 
 translate french d17s01_anal_sex_47890a68:
@@ -1310,7 +1220,7 @@ translate french d17s01_anal_sex_bb44e802:
 translate french d17s01_anal_sex_145828ca:
 
 
-    arj "J'emmerde ma sale boîte à merde, espèce de putain."
+    arj "Baise ma sale boîte à merde, espèce de putain."
 
 
 translate french d17s01_anal_sex_381db7d6:
@@ -1358,13 +1268,13 @@ translate french d17s01_anal_sex_a3865e3d:
 translate french d17s01_anal_sex_fc383192:
 
 
-    mc "Je vais baiser ton astérisque jusqu'à ce que je n'en ai plus assez!!!"
+    mc "Je vais baiser ton astérisque jusqu'à ce que je n'en ai assez!!!"
 
 
 translate french d17s01_anal_sex_f66617d4:
 
 
-    lc "DAMN! Je vais bientôt jouir!"
+    lc "BORDEL! Je vais bientôt jouir!"
 
 
 translate french d17s01_anal_sex_8c25dd17:
@@ -1496,7 +1406,7 @@ translate french d17s01_anal_sex_58ed1359:
 translate french d17s01_anal_sex_a1727faa:
 
 
-    mc "PRENDEZ TOUT ESCLAVE!!!"
+    mc "PREND TOUT ESCLAVE!!!"
 
 
 translate french d17s01_anal_sex_b4a5e3fe:
@@ -1520,7 +1430,7 @@ translate french d17s01_end_1ca8f44f:
 translate french d17s01_end_0b038bfc:
 
 
-    arj "Vous voulez dire corruption, chantage, ce genre de choses?"
+    arj "Tu veux dire corruption, chantage, ce genre de choses?"
 
 
 translate french d17s01_end_16fb724c:
@@ -1550,7 +1460,7 @@ translate french d17s01_end_53313c57:
 translate french d17s01_end_30e1fa11:
 
 
-    arj "Si vous parvenez à convaincre deux des juges de vous passer, elle ne peut rien y faire."
+    arj "Si tu parviens à convaincre deux des juges de te faire passer, elle ne peut rien y faire."
 
 
 translate french d17s01_end_2f36e43d:
@@ -1598,7 +1508,7 @@ translate french d17s01_end_c906d47d:
 translate french d17s01_end_2ae5f3ed:
 
 
-    lc "Prouvez que vous êtes vraiment excellent en marketing-"
+    lc "Prouve que tu es vraiment excellent en marketing-"
 
 
 translate french d17s01_end_fb4ea995:
@@ -1622,7 +1532,7 @@ translate french d17s01_end_d821cc85:
 translate french d17s01_end_00ae5e39:
 
 
-    lc "Désolé. Prouve que tu es vraiment excellent en gestion d'entreprise. Que tu sais..."
+    lc "Désolée. Prouve que tu es vraiment excellent en gestion d'entreprise. Que tu sais..."
 
 
 translate french d17s01_end_f7f8897e:
@@ -1694,7 +1604,7 @@ translate french d17s01_end_ff8d0c78:
 translate french d17s01_end_fef17408:
 
 
-    lc "C'est dommage. J'étais plutôt curieux."
+    lc "C'est dommage. J'étais plutôt curieuse."
 
 
 translate french d17s01_end_2a1af8cf:
@@ -1732,5 +1642,96 @@ translate french strings:
 
 
     old "Decline"
-    new "Décline"
+    new "Refusé de lui baiser le cul"
+
+
+
+translate french d17s01_no_ntr_ff2fe935:
+
+
+    mc "You want me to get it?"
+
+
+translate french d17s01_no_ntr_85fea182:
+
+
+    lc "Please don't.{w} I'd like to see what it's like...{w} raw. Is that the word?"
+
+
+translate french d17s01_no_ntr_56124645:
+
+
+    arj "It's okay.{w} Fuck me raw. I want to feel what it's like."
+
+
+translate french d17s01_no_ntr_a49ed4f8:
+
+
+    mc "Okay."
+
+
+translate french d17s01_no_ntr_3ca42aaf:
+
+
+    lc "You might want to go slow at first."
+
+
+translate french d17s01_no_ntr_85974aab:
+
+
+    arj "No!"
+
+
+translate french d17s01_no_ntr_11455b53:
+
+
+    mc "What?"
+
+
+translate french d17s01_no_ntr_5d7689bd:
+
+
+    arj "It's like ripping off a band-aid.{w} You fuck my ass, I push back on you, and we get you balls deep as fast as possible."
+
+
+translate french d17s01_no_ntr_cfce055e:
+
+
+    mc "Are you sure?"
+
+
+translate french d17s01_no_ntr_583c3dbf:
+
+
+    lc "That sounds like it would be incredibly painful."
+
+
+translate french d17s01_no_ntr_74aeb474:
+
+
+    arj "If you're going to fucking rape my ass at least do what I tell you to do."
+
+
+translate french d17s01_no_ntr_96f17797:
+
+
+    arj "If you're going to fucking fuck me in the shitter at least do what I tell you to do."
+
+
+translate french d17s01_no_ntr_a49ed4f8_1:
+
+
+    mc "Okay."
+
+
+translate french d17s01_anal_sex_700f5a57:
+
+
+    arj "FUUUUUuuuuuuuuUUUUUCCCCCCKKKINNNNGGGG HELL!!!"
+
+
+translate french d17s01_anal_sex_c9fac30e:
+
+
+    lc "She asked for it."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

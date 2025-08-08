@@ -1035,7 +1035,7 @@ init -501 screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                if is_steam_edition is True or is_gog_edition is True:
+                if is_antagonist_mode is True:
                     vbox:
                         style_prefix "radio"
                         label _("Taboo Mode")

@@ -26,19 +26,19 @@ translate french d17s04_09acea12:
 translate french d17s04_3fc37bf2:
 
 
-    mc "Tu n'es pas obligé-"
+    mc "Tu n'es pas obligée-"
 
 
 translate french d17s04_3d74b540:
 
 
-    hr "Oh oui, je le fais. {w}Il y a deux raisons à cela. Voulez-vous savoir de quoi il s'agit?"
+    hr "Oh oui, je le fais. {w}Il y a deux raisons à cela. Veux-tu savoir de quoi il s'agit?"
 
 
 translate french d17s04_771cd8e7:
 
 
-    mc "Je suis intrigué. Allez-y."
+    mc "Je suis intrigué. Vas-y."
 
 
 translate french d17s04_4ddead28:
@@ -62,7 +62,7 @@ translate french d17s04_2e93ea22:
 translate french d17s04_b123170c:
 
 
-    hr "Cela pourrait. {w}Ce sera probablement le cas."
+    hr "Cela ce pourrait. {w}Ce sera probablement le cas."
 
 
 translate french d17s04_59ced1c9:
@@ -74,7 +74,7 @@ translate french d17s04_59ced1c9:
 translate french d17s04_aef16cde:
 
 
-    hr "Ecoute, je ne fais pas partie de ces connards de \"Baise-moi dans le cul parce que j'aime ça\"."
+    hr "Ecoute, je ne fais pas partie de ces connasses de \"Baise-moi dans le cul parce que j'aime ça\"."
 
 
 translate french d17s04_8af29978:
@@ -110,7 +110,7 @@ translate french d17s04_48857fa8:
 translate french d17s04_rough_c369618f:
 
 
-    hr "Avez-vous déjà fait du jeu de rôle?"
+    hr "As-tu déjà fait du jeu de rôle?"
 
 
 translate french d17s04_rough_1805546a:
@@ -212,7 +212,7 @@ translate french d17s04_rough_0a46f7be:
 translate french d17s04_rough_d9468042:
 
 
-    hr "Pour ce jeu de rôle, vous allez jouer un homme riche et puissant et je vais faire semblant d'être une femme soumise que vous extorquez."
+    hr "Pour ce jeu de rôle, tu vas jouer un homme riche et puissant et je vais faire semblant d'être une femme soumise que t'extorque."
 
 
 translate french d17s04_rough_085722e2:
@@ -398,7 +398,7 @@ translate french d17s04_anal_hard_aadcba22:
 translate french d17s04_anal_hard_21228682:
 
 
-    hr "*j'ai du mal à parler* Non monsieur"
+    hr "*Paroles étouffées* Non monsieur"
 
 
 translate french d17s04_anal_hard_6c7f9d2e:
@@ -422,13 +422,13 @@ translate french d17s04_anal_hard_48cbc10d:
 translate french d17s04_anal_hard_12fb0c2c:
 
 
-    hr "*en difficulté* S'il te plaît..."
+    hr "*luttant* S'il te plaît..."
 
 
 translate french d17s04_anal_hard_c28759e2:
 
 
-    mc "Change d'avis, Chienne?! Tu veux que j'arrête ça?!"
+    mc "Tu change d'avis, Chienne?! Tu veux que j'arrête ça?!"
 
 
 translate french d17s04_anal_hard_f838d11f:
@@ -470,13 +470,13 @@ translate french d17s04_anal_hard_f8cca428:
 translate french d17s04_anal_hard_0b7ea344:
 
 
-    hr "Je suis désolé-"
+    hr "Je suis désolée-"
 
 
 translate french d17s04_anal_hard_77c4db98:
 
 
-    mc "Moins de paroles, plus de succions..."
+    mc "Moins de bla-bla, plus de gloup-gloup..."
 
 
 translate french d17s04_anal_hard_507e6b0a:
@@ -518,7 +518,7 @@ translate french d17s04_anal_hard_5339b149:
 translate french d17s04_anal_hard_fb5f1604:
 
 
-    hr "OH! {w}Baise-moi, Maître!"
+    hr "OH! {w}Baisez-moi, Maître!"
 
 
 translate french d17s04_anal_hard_94ef4685:
@@ -560,7 +560,7 @@ translate french d17s04_anal_hard_51fc60d5:
 translate french d17s04_anal_hard_bb13b81c:
 
 
-    mct "C'est tellement foutu."
+    mct "C'est tellement dingue."
 
 
 translate french d17s04_anal_hard_575ca38c:
@@ -632,7 +632,7 @@ translate french d17s04_anal_hard_c6342e9e:
 translate french d17s04_anal_hard_87e26eb2:
 
 
-    mc "Bonne fille."
+    mc "Bonne chienne."
 
 
 translate french d17s04_anal_hard_ab8aa43c:
@@ -716,13 +716,13 @@ translate french d17s04_anal_hard_c4943bbd:
 translate french d17s04_anal_hard_9fcfe9ef:
 
 
-    mc "C'est peut-être le problème. {w}Peut-être qu'il serait plus facile de parler avec quelqu'un que vous ne connaissez pas très bien."
+    mc "C'est peut-être le problème. {w}Peut-être qu'il serait plus facile de parler avec quelqu'un que tu ne connaisses pas très bien."
 
 
 translate french d17s04_anal_hard_75e162be:
 
 
-    hr "Vous avez fait votre part. {w}Vous avez obtenu ce que vous vouliez."
+    hr "Tu as fait ta part. {w}Tu as obtenus ce que tu voulais."
 
 
 translate french d17s04_anal_hard_df1af95a:
@@ -776,7 +776,7 @@ translate french d17s04_anal_hard_b8698e08:
 translate french d17s04_anal_hard_620bf83e:
 
 
-    hr "Ne vous offensez pas. Vous ne serez pas cette personne."
+    hr "Ne t'offense pas. Tu ne seras pas cette personne."
 
 
 translate french d17s04_anal_hard_d5ae2301:
@@ -794,7 +794,7 @@ translate french d17s04_anal_soft_c81777fa:
 translate french d17s04_anal_soft_26092615:
 
 
-    hr "Vous ne comprenez pas. {w}Je veux ça."
+    hr "Tu ne comprends pas. {w}Je veux ça."
 
 
 translate french d17s04_anal_soft_d1783fff:
@@ -830,7 +830,7 @@ translate french d17s04_anal_soft_bc4fd44d:
 translate french d17s04_anal_soft_ef923976:
 
 
-    hr "N'allez pas loin. Sortez juste de ma vue pendant quelques minutes."
+    hr "Ne va pas trop loin. Sort juste de ma vue pendant quelques minutes."
 
 
 translate french d17s04_anal_soft_d6e49b4e:
@@ -848,13 +848,13 @@ translate french d17s04_anal_soft_7adea4e7:
 translate french d17s04_anal_soft_97bdc9be:
 
 
-    mc "D'accord, je vais attendre juste en haut des escaliers. Tu pourras me dire quand tu seras prêt."
+    mc "D'accord, je vais attendre juste en haut des escaliers. Tu pourras me dire quand tu seras prête."
 
 
 translate french d17s04_anal_soft_c0ecab80:
 
 
-    hr "Je ne le ferai pas... {w}Peu importe. Je t'enverrai un message quand je serai prêt. Tu pourras m'emmener après ça."
+    hr "Je ne le ferai pas... {w}Peu importe. Je t'enverrai un message quand je serai prête. Tu pourras m'emmener après ça."
 
 
 translate french d17s04_anal_soft_54b8d130:
@@ -1004,7 +1004,7 @@ translate french d17s04_anal_soft_70947ce0:
 translate french d17s04_anal_soft_e58c7b90:
 
 
-    mct "Ne vous méprenez pas, son cul est merveilleux, enroulé autour de ma bite."
+    mct "Ne te méprends pas, son cul est merveilleux, enroulé autour de ma bite."
 
 
 translate french d17s04_anal_soft_f877036c:
@@ -1016,7 +1016,7 @@ translate french d17s04_anal_soft_f877036c:
 translate french d17s04_anal_soft_f710a030:
 
 
-    mct "On s'en fout. Profitez-en et finissez-en."
+    mct "On s'en fout. Profitons-en et finissons-en."
 
 
 translate french d17s04_anal_soft_cd113a7a:
@@ -1118,7 +1118,7 @@ translate french d17s04_end_cf1adef2:
 translate french d17s04_end_a5f86db5:
 
 
-    ir "Sortez d'ici. Je suppose que vous connaissez le chemin."
+    ir "Sort d'ici. Je suppose que tu connais le chemin."
 
 
 translate french d17s04_end_bd09e081:
@@ -1178,7 +1178,7 @@ translate french d17s04_end_dff6a0af:
 translate french d17s04_end_0e248c8b:
 
 
-    ir "Si vous aviez le choix, prendriez-vous la pilule rouge ou la pilule bleue?"
+    ir "Si tu avais le choix, prendrais-tu la pilule rouge ou la pilule bleue?"
 
 
 translate french d17s04_end_98964dee:
@@ -1190,13 +1190,13 @@ translate french d17s04_end_98964dee:
 translate french d17s04_end_0b16fc3a:
 
 
-    ir "Tu prends la pilule bleue, l'histoire se termine, tu crois ce que tu veux."
+    ir "Si tu prends la pilule bleue, l'histoire se termine, tu crois ce que tu veux."
 
 
 translate french d17s04_end_d9e9dc1b:
 
 
-    ir "Vous prenez la pilule rouge : vous apprenez des vérités profondes, inconfortables et désagréables."
+    ir "Si tu prends la pilule rouge : tu apprendras des vérités profondes, inconfortables et désagréables."
 
 
 translate french d17s04_end_93de5ede:

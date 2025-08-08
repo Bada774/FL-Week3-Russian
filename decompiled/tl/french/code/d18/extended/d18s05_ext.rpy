@@ -1,248 +1,207 @@
 
 translate french d18s05_ext_0d9b52ab:
 
-
-    mct "Tu me fais tourner en rond, bébé en rond, comme un disque, bébé..."
+    mct "Tu me fais tourner en rond, bébé, comme un disque, bébé..."
 
 
 translate french d18s05_ext_e88c3bd3:
 
-
-    mct "C'est quoi ce bordel?"
+    mct "C'est quoi ce bordel ?"
 
 
 translate french d18s05_ext_e36172dc:
 
-
-    mc "Pete, qu'est-ce que tu fous?"
+    mc "Pete, qu'est-ce que tu fous ?"
 
 
 translate french d18s05_ext_2356b882:
 
-
-    sb "Regarde ce que tu viens de faire! Tu m'as sali."
+    sb "Regarde ce que tu viens de faire ! Tu m'as toute salie."
 
 
 translate french d18s05_ext_57e77cd0:
 
-
-    mc "Et tu es venu sur mon putain de pantalon!"
+    mc "Et t'as joui sur mon putain de pantalon !"
 
 
 translate french d18s05_ext_96540db5:
 
-
-    pb "Désolé, putain, je ne le voulais pas vraiment."
+    pb "D-Désolé, putain, je voulais pas vraiment."
 
 
 translate french d18s05_ext_1ffd481b:
 
-
-    sb "Excuse-toi en corrigeant ton erreur. Tu étais censé me dire quand tu allais jouir."
+    sb "Excuse-toi en corrigeant ton erreur. Tu devais me dire quand t'allais jouir."
 
 
 translate french d18s05_ext_83da4356:
 
-
-    sb "Maintenant, mets-toi à quatre pattes, nettoie-moi ta sale charge et mange-moi."
+    sb "Maintenant, mets-toi à quatre pattes, nettoie ta sale giclée sur moi, et bouffe-moi."
 
 
 translate french d18s05_ext_20e9106d:
 
-
-    pb "Oui, maîtresse. Avec plaisir."
+    pb "Oui, Maîtresse. Avec plaisir."
 
 
 translate french d18s05_ext_e2a4e5b8:
 
-
-    mc "Qu'est-ce qui se passe ici? \" Maîtresse\"?"
+    mc "C'est quoi ce bordel ici ? « Maîtresse » ?"
 
 
 translate french d18s05_ext_8d200d45:
 
-
-    sb "Tu ne lui as pas dit? Tisk, tisk."
+    sb "Tu lui as pas dit ? Tsk, tsk."
 
 
 translate french d18s05_ext_f15275b0:
 
-
-    sb "Pete ici présent s'est volontairement donné à moi et est devenu mon petit jouet, dont je dois prendre soin et faire ce que je veux."
+    sb "Pete s'est donné à moi de son plein gré et est devenu mon petit jouet. Je m'en occupe et j'en fais ce que je veux."
 
 
 translate french d18s05_ext_e0ae9d2d:
 
-
-    sb "C'est pas vrai?"
+    sb "C'est pas vrai ?"
 
 
 translate french d18s05_ext_d8f15f97:
 
-
-    pb "Oui, maîtresse."
+    pb "Oui, Maîtresse."
 
 
 translate french d18s05_ext_69a6df63:
 
-
-    mc "Je... *soupir exaspéré* Bien sûr. Bien. Tant mieux pour vous deux."
+    mc "Je... *soupir exaspéré* Ok. Super. Tant mieux pour vous deux."
 
 
 translate french d18s05_ext_48aa6509:
 
-
-    mc "Mais étais-tu vraiment obligé de jouir dans tout ce putain d'appartement, mec? Ça va sentir le sperme ici pendant des mois."
+    mc "Mais t'étais obligé de gicler partout dans tout l'appart, mec ? Ça va puer le sperme pendant des mois ici."
 
 
 translate french d18s05_ext_3fee1eb1:
 
-
-    sb "Pour être honnête, ton dortoir sentait déjà le sperme, donc rien n'y changera."
+    sb "Pour être honnête, ton dortoir sentait déjà le sperme, donc ça changera pas grand-chose."
 
 
 translate french d18s05_ext_00764d53:
 
-
-    sb "Mais il fera quand même le ménage après, n'est-ce pas?"
+    sb "Mais il va quand même nettoyer derrière lui, pas vrai ?"
 
 
 translate french d18s05_ext_0b222aa7:
 
-
-    pb "Je vais nettoyer!"
+    pb "Je vais nettoyer !"
 
 
 translate french d18s05_ext_f0a783f8:
 
-
-    mct "Pete fait le ménage après? Euh, peut-être que ça pourrait être une bonne évolution."
+    mct "Pete qui nettoie derrière lui ? Euh, peut-être que c'est un bon développement."
 
 
 translate french d18s05_ext_1cd279e4:
 
-
-    mc "*Rires* C'est plutôt drole de voir que vous faites le truc que j'ai trouvé, le truc de la chaise tournante."
+    mc "*Rire* C'est putain de marrant que ce truc débile de chaise tournante que j'ai inventé soit arrivé jusqu'à vous deux."
 
 
 translate french d18s05_ext_6a98e6ea:
 
-
-    sb "Qu'est-ce que tu veux dire?"
+    sb "Qu'est-ce que tu veux dire ?"
 
 
 translate french d18s05_ext_2bf392c6:
 
-
-    mc "Je me branle en tournant sur une chaise pour avoir la tête légère. J'étais le premier à faire ça."
+    mc "Se branler en tournant sur une chaise pour avoir la tête qui tourne. C'est moi qui ai inventé ça."
 
 
 translate french d18s05_ext_faa42600:
 
-
-    sb "Sérieusement?"
+    sb "Sérieux ?"
 
 
 translate french d18s05_ext_1fb5cd3c:
 
-
-    pb "Putain, tu es célèbre! C'est partout dans le fil fétichiste."
+    pb "Putain mec, t'es célèbre ! C'est partout sur le fil fétichiste."
 
 
 translate french d18s05_ext_11455b53:
 
-
-    mc "Quoi?"
+    mc "Quoi ?"
 
 
 translate french d18s05_ext_a17f9d18:
 
-
-    sb "Nous cherchions de nouveaux fétiches à faire pour cette application Fetish Locator et avons vu ce truc."
+    sb "On cherchait des nouveaux fétiches à tester sur l'appli Fetish Locator et on est tombés sur le truc de la chaise tournante."
 
 
 translate french d18s05_ext_dd43feb8:
 
-
-    sb "Beaucoup de gens le faisaient et ça avait l'air amusant, alors nous avons décidé d'essayer. C'est intéressant que tu aies trouvé ça."
+    sb "Beaucoup de gens le faisaient, ça avait l'air fun, alors on a essayé. Intéressant que ce soit toi qui l’aies inventé."
 
 
 translate french d18s05_ext_80a4aeed:
 
-
-    sb "*Gémissements* Tu t'es amélioré dans ce domaine."
+    sb "*Gémissements* Tu t'es amélioré là-dedans."
 
 
 translate french d18s05_ext_11dfcb2a:
 
-
-    mct "Oh, ça ne me dérange pas. Continue s'il te plaît."
+    mct "Oh, fais pas attention à moi. Continue, s'il te plaît."
 
 
 translate french d18s05_ext_278ddde7:
 
-
-    sb "Arrête, lève-toi et montre-moi ton pénis."
+    sb "Arrête, lève-toi et montre-moi ta bite."
 
 
 translate french d18s05_ext_60199fed:
 
-
-    sb "*Renifle* Il est toujours hors service, hein?"
+    sb "*Renifle* Il est toujours hors service, hein ?"
 
 
 translate french d18s05_ext_7ee0cab6:
 
-
-    pb "Je suis désolé, Maîtresse."
+    pb "Désolé, Maîtresse."
 
 
 translate french d18s05_ext_50f85b12:
-
 
     pb "Euh, peut-être qu'il peut prendre ma place, Maîtresse."
 
 
 translate french d18s05_ext_643a2b29:
 
-
-    sb "Ça me va. Qu'est-ce que tu dis?"
+    sb "Ça me va. Et toi ?"
 
 
 translate french d18s05_ext_1185f6a6:
 
-
-    mc "Qu'est-ce que tu veux de moi exactement?"
+    mc "Tu veux quoi exactement de moi ?"
 
 
 translate french d18s05_ext_8c4f8c0d:
 
-
-    sb "Je suis excitée et j'ai besoin que quelqu'un me baise. Mr.Toutplat ici présent n'arrive pas à le faire pour le moment, alors il te propose à la place."
+    sb "Je suis chaude et j'ai besoin qu'on me baise. Mr. Mou ici peut pas assurer, alors il te propose à sa place."
 
 
 translate french d18s05_ext_d06b3207:
 
-
-    mc "Bien sûr. Je suis prêt à partir à tout moment."
+    mc "Pas de souci. Je suis prêt n'importe quand."
 
 
 translate french d18s05_ext_28faf18e:
 
-
-    sb "Parfait mec."
+    sb "Parfait."
 
 
 translate french d18s05_ext_0f97ddd9:
 
-
-    sb "Et toi, je veux que tu te tienne près du mur et branle ta bite flasque pendant que tu le regardes me baiser, compris?"
+    sb "Et toi, je veux que tu restes près du mur et que tu te branles avec ta queue molle pendant que tu le regardes me baiser, compris ?"
 
 
 translate french d18s05_ext_d8f15f97_1:
 
-
-    pb "Oui, maîtresse."
+    pb "Oui, Maîtresse."
 
 
 translate french d18s05_ext_11d08885:
@@ -475,228 +434,190 @@ translate french d18s05_sex_9566cc04:
 
 translate french d18s05_sex_ca6b8b57:
 
-
     mc "Maîtresse, je suis proche!"
 
 
 translate french d18s05_sex_6b3abdb9:
-
 
     pb "Moi aussi!"
 
 
 translate french d18s05_sex_c0313beb:
 
-
     sb "En moi!"
 
 
 translate french d18s05_sex_01d41846:
-
 
     dw "Sur moi! N'ose pas jouir à l'intérieur!"
 
 
 translate french d18s05_after_sex_7eb0b5dd:
 
-
     sb "*Soupir détendu* J'en avais besoin."
 
 
 translate french d18s05_after_sex_af667783:
-
 
     dw "Eh, je n'ai pas joui, mais je suppose que c'était quand même assez amusant."
 
 
 translate french d18s05_after_sex_f679945d:
 
-
     dw "Quoi? Pourquoi tu souries?"
 
 
 translate french d18s05_after_sex_60d72752:
-
 
     sb "Rien. Etre une dominante plus détendue te va bien."
 
 
 translate french d18s05_after_sex_6e8493ed:
 
-
     dw "Ce n'est pas parce que je ne crie pas que je suis devenue molle."
 
 
 translate french d18s05_after_sex_b9501852:
-
 
     dw "Et j'ai plein de choses que je veux montrer à mon petit animal de compagnie. Mais pas ici."
 
 
 translate french d18s05_after_sex_7a87c2ef:
 
-
     sb "*Rires* C'est vrai, c'est vrai."
 
 
 translate french d18s05_after_sex_abf3d735:
-
 
     sb "Oh, c'est le timing parfait en fait."
 
 
 translate french d18s05_after_sex_e16297d8:
 
-
     sb "Pete et moi allons dans les Caraïbes."
 
 
 translate french d18s05_after_sex_a4489dec:
-
 
     dw "Tu quoi!?"
 
 
 translate french d18s05_after_sex_f87e0cc4:
 
-
     sb "Calme-toi.."
 
 
 translate french d18s05_after_sex_d36f975d:
-
 
     sb "J'y réfléchis depuis un moment."
 
 
 translate french d18s05_after_sex_ec16ba99:
 
-
     sb "Je déteste cet endroit. C'est une putain de jungle de béton. J'ai besoin d'un voyage pour me détendre."
 
 
 translate french d18s05_after_sex_7102ee2c:
-
 
     sb "Maintenant j'ai enfin assez d'économies pour le faire."
 
 
 translate french d18s05_after_sex_0ded540c:
 
-
-    dw "Et il vient avec toi? Depuis combien de temps êtes-vous ensemble?"
+    dw "Et il va avec toi? Depuis combien de temps êtes-vous ensemble?"
 
 
 translate french d18s05_after_sex_fea7b848:
-
 
     sb "Oui. Et est-ce important?"
 
 
 translate french d18s05_after_sex_bdc0ec11:
 
-
     sb "Il sait {i}très{/i} bien ce qui se passera s'il me contrarie. Alors je lui fais confiance pour ne pas le faire."
 
 
 translate french d18s05_after_sex_b585f519:
-
 
     sb "De toute façon. Ce que je voulais te demander, c'est si tu serais intéressé à venir avec moi."
 
 
 translate french d18s05_after_sex_00e0185b:
 
-
     sb "Ton jouet peut aussi venir si tu veux."
 
 
 translate french d18s05_after_sex_b61e361e:
-
 
     dw "Je... Hein."
 
 
 translate french d18s05_after_sex_d6e7046c:
 
-
     dw "Qu'en penses-tu?"
 
 
 translate french d18s05_after_sex_2485f494:
-
 
     mc "JE..."
 
 
 translate french d18s05_after_sex_3110016f:
 
-
     mct "Même sans les examens et sans Fetish Locator, est-ce quelque chose que je voudrais réellement?"
 
 
 translate french d18s05_after_sex_a771e1d4:
-
 
     mc "Ça ne me dérangerait pas."
 
 
 translate french d18s05_after_sex_0a62b2e5:
 
-
     dw "Ne pas s'en soucier, c'est différent de le vouloir."
 
 
 translate french d18s05_after_sex_0cc8eeb4:
-
 
     mc "Eh bien... je te veux. Je veux ma Maîtresse."
 
 
 translate french d18s05_after_sex_8ca67a59:
 
-
     sb "Oh, eh bien, si c'est pas mignon."
 
 
 translate french d18s05_after_sex_74ad775a:
-
 
     mc "Je ne peux pas."
 
 
 translate french d18s05_after_sex_b111288c:
 
-
     mc "J'en ai trop ici pour tout déraciner et partir comme ça."
 
 
 translate french d18s05_after_sex_032351fa:
-
 
     sb "Assez raisonnable. Je n'ai rien ici et les seules personnes dont je m'en fous sont dans cette pièce en ce moment, alors. Pas grand chose à perdre de mon côté"
 
 
 translate french d18s05_after_sex_63d5ae98:
 
-
     dw "*Rires* C'est à peu près la même chose pour moi aussi."
 
 
 translate french d18s05_after_sex_268b612e:
-
 
     dw "J'ai besoin de temps pour y réfléchir. Je n'ai peut-être pas grand-chose ici pour moi, mais il y a encore des choses que je dois régler si je fais réellement ça."
 
 
 translate french d18s05_after_sex_fdd61d2f:
 
-
     sb "Prends ton temps."
 
 
 translate french d18s05_after_sex_511784d8:
-
 
     dw "Bonne chance! En fait, j'espère que ça marchera pour vous les gars!"
 

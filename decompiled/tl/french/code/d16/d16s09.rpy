@@ -2,7 +2,7 @@
 translate french d16s09_8b63c9a4:
 
 
-    mc "Tu es prêt?"
+    mc "Tu es prête?"
 
 
 translate french d16s09_18f4fc33:
@@ -74,7 +74,7 @@ translate french d16s09_04a8f54f:
 translate french d16s09_c078d059:
 
 
-    nk "S'il vous plaît. Savez-vous à quel point les machines à expresso sont compliquées?{w} C'était facile en comparaison."
+    nk "S'il te plaît. Sais-tu à quel point les machines à expresso sont compliquées?{w} C'était facile en comparaison."
 
 
 translate french d16s09_8695dbec:
@@ -128,7 +128,7 @@ translate french d16s09_56bb8903:
 translate french d16s09_9f8a53b3:
 
 
-    nk "Et la monogamie? Pensez-vous que cela vous conviendra?"
+    nk "Et la monogamie? Penses-te que cela te conviendrai?"
 
 
 translate french d16s09_f7b5ac95:

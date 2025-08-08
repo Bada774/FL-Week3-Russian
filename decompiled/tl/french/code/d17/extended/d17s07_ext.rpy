@@ -14,7 +14,7 @@ translate french d17s07_ext_cb7a1173:
 translate french d17s07_ext_193fc34b:
 
 
-    mct "Jessie ne m'a jamais envoyé un texto comme celui-là auparavant."
+    mct "Jessie ne m'a jamais envoyé un texto comme celui-ci auparavant."
 
 
 translate french d17s07_ext_b57d7645:
@@ -26,7 +26,7 @@ translate french d17s07_ext_b57d7645:
 translate french d17s07_ext_66f22b41:
 
 
-    jf "Oh [mcname]. Vous êtes là."
+    jf "Oh [mcname]. Tu es là."
 
 
 translate french d17s07_ext_571843c0:
@@ -80,7 +80,7 @@ translate french d17s07_ext_dfac120e:
 translate french d17s07_ext_4932cce5:
 
 
-    jf "Dites-moi."
+    jf "Dit-moi."
 
 
 translate french d17s07_ext_0ed3abc5:
@@ -104,7 +104,7 @@ translate french d17s07_ext_d92439d9:
 translate french d17s07_ext_154a2834:
 
 
-    jf "Je suis content. Je suis vraiment, vraiment content."
+    jf "Je suis contente. Je suis vraiment, vraiment contente."
 
 
 translate french d17s07_ext_59b53974:
@@ -248,7 +248,7 @@ translate french d17s07_ext_d6f01205:
 translate french d17s07_ext_63fc1ff1:
 
 
-    jf "C'est juste en repensant à chaque instant que nous avons passé ensemble. J'étais masqué."
+    jf "C'est juste en repensant à chaque instant que nous avons passé ensemble. J'étais masquée."
 
 
 translate french d17s07_ext_fc856abc:
@@ -362,7 +362,7 @@ translate french d17s07_ext_1914c827:
 translate french d17s07_ext_d98f7d81:
 
 
-    jf "Je pense que je suis amoureux de toi, [mcname]. Et j'ai vraiment peur."
+    jf "Je pense que je suis amoureuse de toi, [mcname]. Et j'ai vraiment peur."
 
 
 translate french d17s07_ext_df2093b4:
@@ -434,7 +434,7 @@ translate french d17s07_ext_77c50657:
 translate french d17s07_ext_30c9edb8:
 
 
-    jf "J'étais juste... vraiment excité."
+    jf "J'étais juste... vraiment excitée."
 
 
 translate french d17s07_ext_337f794f:
@@ -494,7 +494,7 @@ translate french d17s07_ext_2f9b64c6:
 translate french d17s07_ext_709ab2b7:
 
 
-    jf "Je n'étais pas sûr au début, mais j'y ai réfléchi encore et, oui, je trouve ça génial!"
+    jf "Je n'étais pas sûr au début, mais j'y ai réfléchie encore et, oui, je trouve ça génial!"
 
 
 translate french d17s07_ext_5daa645e:
@@ -512,7 +512,7 @@ translate french d17s07_ext_e4c75b8a:
 translate french d17s07_ext_87986acb:
 
 
-    mc "Ça a l'air génial. Je peux vous aider à examiner la situation fiscale et à obtenir—"
+    mc "Ça a l'air génial. Je peux t'aider à examiner la situation fiscale et à obtenir—"
 
 
 translate french d17s07_ext_29373da5:

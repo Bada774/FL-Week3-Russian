@@ -179,7 +179,6 @@ translate french d19s03_ext_0419d335:
     mc "A plus tard."
 
 
-translate french d19s03_bj_31781d18:
 
 
     mh "Alors, {i}kidnappé{/i}, hein?"
@@ -422,13 +421,13 @@ translate french d19s03_sex_48cabde0:
 translate french d19s03_sex_212ddd0e:
 
 
-    mh "*Perdu dans le bonheur* Oui... Oui... juste comme ça. Je me sens si bien."
+    mh "*Perdue dans le bonheur* Oui... Oui... juste comme ça. Tu te sens tellement bien."
 
 
 translate french d19s03_sex_6708e611:
 
 
-    mc "Putain, Lyssa. J'ai l'impression que tu es encore plus serré."
+    mc "Putain, Lyssa. J'ai l'impression que tu es devenue encore plus serrée."
 
 
 translate french d19s03_sex_8f6cdacc:
@@ -464,13 +463,13 @@ translate french d19s03_sex_48c45880:
 translate french d19s03_sex_e7848047:
 
 
-    mh "Moi aussi. C'est tellement... réconfortant que tu me remplisse."
+    mh "Moi aussi. C'est tellement... réconfortant de me faire remplir par toi."
 
 
 translate french d19s03_watersports_dd40f122:
 
 
-    mc "*rires* Je n'arrive pas à y croire, je n'ai jamais pensé que tu étais aussi perverse que moi."
+    mc "*Rires* Je n'arrive pas à y croire, je n'ai jamais pensé que tu étais aussi perverse que moi."
 
 
 translate french d19s03_watersports_356a0ad7:
@@ -494,7 +493,7 @@ translate french d19s03_watersports_717d6a67:
 translate french d19s03_watersports_45d3e4d9:
 
 
-    mh "Allison? Qu'est ce qu'elle t'a dit?"
+    mh "Allison? Qu'est-ce qu'elle t'a dit?"
 
 
 translate french d19s03_watersports_9ad822f7:
@@ -530,7 +529,7 @@ translate french d19s03_watersports_be1be8ef:
 translate french d19s03_watersports_e0890294:
 
 
-    mc "...tu es sûr d'être avocate et pas détective?"
+    mc "...Tu es sûr d'être avocate et pas détective?"
 
 
 translate french d19s03_watersports_fee66916:
@@ -644,7 +643,7 @@ translate french d19s03_watersports_3065e26f:
 translate french d19s03_watersports_289445d8:
 
 
-    mc "Tsk, tsk, tellement de souhait... je veux que tu pisse aussi pendant que je te baise et que je te pisse dedans."
+    mc "Tsk, tsk, tellement de souhait... je veux que tu pisses aussi pendant que je te baise et que je te pisse dedans."
 
 
 translate french d19s03_watersports_44e0a7eb:
@@ -698,7 +697,7 @@ translate french d19s03_watersports_4ac502b5:
 translate french d19s03_watersports_3dcd4a47:
 
 
-    mc "Je te tient. C'est bon."
+    mc "Je te tiens. C'est bon."
 
 
 translate french d19s03_watersports_fa844195:
@@ -986,7 +985,7 @@ translate french d19s03_ask_mh_e7608abd:
 translate french d19s03_ask_mh_a4fc5b00:
 
 
-    mc "Tu es libre demain?"
+    mc "Tu es libre demain ?"
 
 
 translate french d19s03_ask_mh_1367b8a9:
@@ -1004,7 +1003,7 @@ translate french d19s03_ask_mh_83078e78:
 translate french d19s03_dont_ask_91bd6abc:
 
 
-    mct "Je t'aime."
+    mct "Ouais. Merde. Je ne peux rien faire pour Zarah."
 
 
 translate french d19s03_dont_ask_184ad5f2:
@@ -1043,4 +1042,12 @@ translate french strings:
 
     old "Jerk off Lyssa"
     new "Branle Lyssa"
+
+
+
+
+translate french d19s03_bj_31781d18:
+
+
+    mh "So, {i}kidnapped{/i}, huh?"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

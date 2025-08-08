@@ -86,7 +86,7 @@ translate french d15s07_6f1f01ee:
 translate french d15s07_df51a2bf:
 
 
-    lc "D'accord. C'est toujours le moment idéal pour voir l'amour de ma vie."
+    lc "Super. C'est toujours le moment idéal pour voir l'amour de ma vie."
 
 
 translate french d15s07_5455b9fe:
@@ -98,7 +98,7 @@ translate french d15s07_5455b9fe:
 translate french d15s07_2334d2c3:
 
 
-    lc "Même."
+    lc "Moi aussi."
 
 
 translate french d15s07_20d2d54c:
@@ -158,13 +158,13 @@ translate french d15s07_d2e9ac07:
 translate french d15s07_a7ac26ef:
 
 
-    mes "Lydia a déjà bu quelques verres d'eau, donc ce n'est plus qu'un jeu d'attente maintenant."
+    mes "Lydia a déjà bu quelques verres d'eau, donc ce n'est plus qu'une question de temps maintenant."
 
 
 translate french d15s07_ec8e46f3:
 
 
-    mes "Cela dit... {w}voudriez-vous quelque chose à boire, [mcname]?"
+    mes "Cela dit... {w}voudrais-tu quelque chose à boire, [mcname]?"
 
 
 translate french d15s07_ccaddf9b:
@@ -266,7 +266,7 @@ translate french d15s07_whatsthat_7c73f7fe:
 translate french d15s07_whatsthat_cf60ecb4:
 
 
-    mc "Très bien, désolé pour mon éclat."
+    mc "Très bien, désolé pour mon explosion."
 
 
 translate french d15s07_whatsthat_757eec62:
@@ -320,7 +320,7 @@ translate french d15s07_mes_pee_on_mc_5f27595e:
 translate french d15s07_mes_pee_on_mc_bdb994ee:
 
 
-    lc "Je sais que c'est quelque chose qui est amusant pour toi et je promets que je le regarderai un jour, mais pour le moment-"
+    lc "Je sais que c'est quelque chose qui est amusant pour toi et je promets que je le ferai un jour, mais pour le moment-"
 
 
 translate french d15s07_mes_pee_on_mc_78cab2df:
@@ -548,7 +548,7 @@ translate french d15s07_mc_pee_on_mes_f356ef7d:
 translate french d15s07_mc_pee_on_mes_9480419d:
 
 
-    mes "Je suis désolé, je suis désolé. Je me suis un peu emporté un moment là."
+    mes "Je suis désolée, je suis désolée. Je me suis un peu emporté un moment là."
 
 
 translate french d15s07_mc_pee_on_mes_179e9620:
@@ -650,7 +650,7 @@ translate french d15s07_lc_pee_on_mes_c32d2465:
 translate french d15s07_lc_pee_on_mes_1844739e:
 
 
-    mes "Attends, maintenant je suis confus. Suis-je censé-?"
+    mes "Attends, maintenant je suis confus. Suis-je censée-?"
 
 
 translate french d15s07_lc_pee_on_mes_d9477853:
@@ -704,7 +704,7 @@ translate french d15s07_lc_pee_on_mes_5a5b7723:
 translate french d15s07_lc_pee_on_mes_df8becc0:
 
 
-    mc "Non. Vous regardez des toilettes humaines. Ce n'est qu'un réceptacle pour votre pipi."
+    mc "Non. Tu regardes des toilettes humaines. Ce n'est qu'un réceptacle pour ta pisse."
 
 
 translate french d15s07_lc_pee_on_mes_8515f081:
@@ -716,7 +716,7 @@ translate french d15s07_lc_pee_on_mes_8515f081:
 translate french d15s07_lc_pee_on_mes_8bbe9877:
 
 
-    mc "Tu es détendu et tu te tiens devant une salope sans valeur qui veut boire ton urine."
+    mc "Tu es détendue et tu te tiens devant une salope sans valeur qui veut boire ton urine."
 
 
 translate french d15s07_lc_pee_on_mes_113c5936:
@@ -770,7 +770,7 @@ translate french d15s07_ntr_path_2a8543a8:
 translate french d15s07_ntr_path_6fd4fa7e:
 
 
-    lc "Vous avez tort,\" Cette salope sans valeur est ma meilleure amie. \"[mcname]."
+    lc "Vous avez tort, Cette salope sans valeur est ma meilleure amie."
 
 
 translate french d15s07_ntr_path_1eb7b39c:
@@ -794,7 +794,7 @@ translate french d15s07_ntr_path_7ea164ec:
 translate french d15s07_ntr_path_483dc101:
 
 
-    lc "Je n'arrive pas à croire que j'ai encore de l'eau pendant qu'elle fait ça!!"
+    lc "Je n'arrive pas à croire que je pisse encore pendant qu'elle fait ça!!"
 
 
 translate french d15s07_ntr_path_1d3954e2:
@@ -854,7 +854,7 @@ translate french d15s07_ntr_path_d185721f:
 translate french d15s07_ntr_path_24010f18:
 
 
-    lc "Oh, merde. Je suis désolé."
+    lc "Oh, merde. Je suis désolée."
 
 
 translate french d15s07_ntr_path_6b438ed9:
@@ -872,7 +872,7 @@ translate french d15s07_lc_path_5bd16e4b:
 translate french d15s07_lc_path_aa69a5e5:
 
 
-    mc "Ça y est. Recevoir du plaisir tout en relâchant la pression."
+    mc "C'est ça. Recevoir du plaisir tout en relâchant la pression."
 
 
 translate french d15s07_lc_path_3ef6bf88:
@@ -932,13 +932,13 @@ translate french d15s07_lc_path_c96c4835:
 translate french d15s07_lc_path_d7a12eac:
 
 
-    lc "Je n'arrive pas à croire... {w}J'ai toujours des fuites d'eau... {w}même pendant qu'elle fait ça."
+    lc "Je n'arrive pas à croire... {w}Je pisse encore... {w}même pendant qu'elle fait ça."
 
 
 translate french d15s07_lc_path_1cd989e0:
 
 
-    mc "Détendez-vous et profitez. Libérez et recevez du plaisir."
+    mc "Détends-toi et profite. Libére et recois du plaisir."
 
 
 translate french d15s07_lc_path_420c1729:
@@ -1010,13 +1010,13 @@ translate french d15s07_lc_path_0bbb96c3:
 translate french d15s07_lc_path_6b01de69:
 
 
-    lc "[mcname]! Puis-je jouir? S'il vous plaît!"
+    lc "[mcname]! Puis-je jouir? S'il te plaît!"
 
 
 translate french d15s07_lc_path_4908b346:
 
 
-    mc "Jouis pour moi, Lydia. {w} Jouis de la langue de ta meilleure amie."
+    mc "Jouis pour moi, Lydia. {w} Jouis sur la langue de ta meilleure amie."
 
 
 translate french d15s07_lc_path_1bfed957:

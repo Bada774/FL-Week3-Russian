@@ -1419,6 +1419,11 @@ init -501 screen sm_trailer_ad():
 
         add "sm_trailer_ad" xsize 1344 ysize 756
 
+    if current_year == 2025:
+        textbutton _("Wishlist Fetish Locator: S&M Studio on GOG") action OpenURL("https://www.gog.com/en/game/fetish_locator_sm_studio") text_size 55 xalign 0.5 yalign 0.96
+    else:
+        textbutton _("Get Fetish Locator: S&M Studio on GOG") action OpenURL("https://www.gog.com/en/game/fetish_locator_sm_studio") text_size 55 xalign 0.5 yalign 0.96
+
     key "game_menu" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide())
 
 init -1 style tu_trailer_ad_frame:

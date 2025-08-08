@@ -8,7 +8,7 @@ translate french d15s08_ac30fa16:
 translate french d15s08_09ac58cf:
 
 
-    mc "Salut chérie, je vais bien."
+    mc "Salut chérie, je suis la."
 
 
 translate french d15s08_645edcac:
@@ -26,7 +26,7 @@ translate french d15s08_3a3d693a:
 translate french d15s08_549ef43a:
 
 
-    arj "Vous étudiez pour les examens?"
+    arj "tu étudies pour les examens?"
 
 
 translate french d15s08_cc91bdf5:
@@ -62,7 +62,7 @@ translate french d15s08_f3a007f2:
 translate french d15s08_2751cb01:
 
 
-    hr "Je l'ai éteint quelques pâtés de maisons. Je ne veux pas que l'application connaisse ma position."
+    hr "Je l'ai éteint depuis quelques pâtés de maisons. Je ne veux pas que l'application connaisse ma position."
 
 
 translate french d15s08_6e81277a:
@@ -692,7 +692,7 @@ translate french d15s08_bb1229e0:
 translate french d15s08_25c2280f:
 
 
-    sy "Oh, c'est vrai. Vous avez mentionné..."
+    sy "Oh, c'est vrai. Tu l'as mentionnée..."
 
 
 translate french d15s08_5a3ef2d8:
@@ -800,7 +800,7 @@ translate french d15s08_c5bceaae:
 translate french d15s08_7c536c3f:
 
 
-    arj "Détendez-vous, j'en ai entendu parler."
+    arj "Détends-toi, j'en ai entendu parler."
 
 
 translate french d15s08_75cda46a:
@@ -872,7 +872,7 @@ translate french d15s08_34bdddd0:
 translate french d15s08_f6f498ff:
 
 
-    arj "Je veux dire, ne vous méprenez pas. Au début, ça a été un sacré choc."
+    arj "Je veux dire, ne te méprend pas. Au début, ça a été un sacré choc."
 
 
 translate french d15s08_8646a62f:
@@ -884,7 +884,7 @@ translate french d15s08_8646a62f:
 translate french d15s08_fe340bd3:
 
 
-    arj "Je veux dire, vous avez baisé Stacy. Vous êtes en train de baiser."
+    arj "Je veux dire, tu as baisé Stacy. Vous baisez tous les deux."
 
 
 translate french d15s08_1a025493:
@@ -914,7 +914,7 @@ translate french d15s08_f7f8564c:
 translate french d15s08_d480ee7e:
 
 
-    arj "{i}{b}*chuchote*{/b} Je n'ai pas l'impression que c'est une compétition et que je vais peut-être la perdre.{/i}"
+    arj "{i}{b}*chuchote*{/b} Je n'ai pas l'impression que c'est une compétition et que je vais peut-être le perdre.{/i}"
 
 
 translate french d15s08_db9a8e53:
@@ -926,7 +926,7 @@ translate french d15s08_db9a8e53:
 translate french d15s08_374e97e1:
 
 
-    arj "J'ai l'impression que Stacy et moi pouvons vous partager ensemble."
+    arj "J'ai l'impression que Stacy et moi pouvons te partager ensemble."
 
 
 translate french d15s08_aaf9264e:
@@ -944,7 +944,7 @@ translate french d15s08_4ec77d2c:
 translate french d15s08_0c545ee6:
 
 
-    arj "Il le fait vraiment."
+    arj "Il en a vraiment besoin."
 
 
 translate french d15s08_f300e9eb:
@@ -1016,7 +1016,7 @@ translate french d15s08_961e866e:
 translate french d15s08_aef0532a:
 
 
-    arj "Vous ne voudriez pas manquer ça. Parce que nous savons exactement comment vous détendre."
+    arj "te ne voudrais pas manquer ça. Parce que nous savons exactement comment te détendre."
 
 
 translate french d15s08_c17ef8ec:
@@ -1034,7 +1034,7 @@ translate french d15s08_692ef887:
 translate french d15s08_294bf777:
 
 
-    sy "Ensuite, nous déposons nos corps nus."
+    sy "Ensuite, nous déposons nos corps nues."
 
 
 translate french d15s08_e1e12223:
@@ -1148,7 +1148,7 @@ translate french d15s08_edb86fe3:
 translate french d15s08_6643a8b6:
 
 
-    arj "Vous voulez dire comme déclencheur du dispositif de localisation?"
+    arj "Tu veux dire comme déclencheur du dispositif de localisation?"
 
 
 translate french d15s08_bcfe6e94:

@@ -199,7 +199,7 @@ init -2 python:
                 if sn.startswith("store._"):
                     continue
                 for vn in d.ever_been_changed:
-                    if vn.startswith("__00"):
+                    if vn.startswith("_m1_classes__00"):
                         continue
                     if vn.startswith("_") and not vn.startswith("__"):
                         continue

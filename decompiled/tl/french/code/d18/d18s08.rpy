@@ -50,7 +50,7 @@ translate french d18s08_f4baa2a7:
 translate french d18s08_bc306e48:
 
 
-    "{color=#c46c93}???{/color}" "Qui est là!?"
+    "{color=#c46c93}???{/color}" "Qui est là !?"
 
 
 translate french d18s08_628bf4a3:
@@ -62,19 +62,19 @@ translate french d18s08_628bf4a3:
 translate french d18s08_71db2c0d:
 
 
-    mct "Attends... c'est Cynthia?"
+    mct "Attends... c'est Cynthia ?"
 
 
 translate french d18s08_3920a63c:
 
 
-    tl "Qui êtes-vous et que faites vous ici?"
+    tl "Qui êtes-vous et que faites-vous ici ?"
 
 
 translate french d18s08_26b53298:
 
 
-    arj "On nous a dit que le nouveau professeur était là? Nous avions quelques questions à lui poser..."
+    arj "On nous a dit que le nouveau professeur était là ? Nous avions quelques questions à lui poser..."
 
 
 translate french d18s08_6256165d:
@@ -86,7 +86,7 @@ translate french d18s08_6256165d:
 translate french d18s08_e93aba4b:
 
 
-    arj "Savez vous où elle est-"
+    arj "Savez-vous où elle est—"
 
 
 translate french d18s08_c13c5e62:
@@ -104,13 +104,13 @@ translate french d18s08_bed435d8:
 translate french d18s08_c1d587b6:
 
 
-    hr "Puis-je demander ce qui se passe ici?"
+    hr "Puis-je demander ce qui se passe ici ?"
 
 
 translate french d18s08_f0fee0bd:
 
 
-    tl "*Rires* Tu entends ça, Cynthia? Dois-je leur dire?"
+    tl "*Rires* Tu entends ça, Cynthia ? Dois-je leur dire ?"
 
 
 translate french d18s08_b3b1f69c:
@@ -128,19 +128,19 @@ translate french d18s08_e354d71b:
 translate french d18s08_a76ff191:
 
 
-    tl "Moins d'une semaine après avoir retrouvé sa pureté, sa féminité, sa virginité, elle l'a encore perdue!"
+    tl "Moins d'une semaine après avoir retrouvé sa pureté, sa féminité, sa virginité, elle l'a encore perdue !"
 
 
 translate french d18s08_edcf099b:
 
 
-    tl "Une semaine!"
+    tl "Une semaine !"
 
 
 translate french d18s08_c9e7fb64:
 
 
-    tl "Vous imaginez la honte que je ressens en tant que femme et mère? La honte que ses actions gratuites causent à notre famille?"
+    tl "Vous imaginez la honte que je ressens en tant que femme et mère ? La honte que ses actions gratuites causent à notre famille ?"
 
 
 translate french d18s08_8a3f7763:
@@ -152,7 +152,7 @@ translate french d18s08_8a3f7763:
 translate french d18s08_887f8589:
 
 
-    tl "Vos virginités sont toujours intactes? Êtes-vous pur de la corruption de la luxure?"
+    tl "Vos virginités sont toujours intactes ? Êtes-vous pure de la corruption de la luxure ?"
 
 
 translate french d18s08_0e872b16:
@@ -194,19 +194,19 @@ translate french d18s08_765d618e:
 translate french d18s08_a998c557:
 
 
-    tl "Je sais ce que je dois faire, mais je ne peux pas le faire seul."
+    tl "Je sais ce que je dois faire, mais je ne peux pas le faire seule."
 
 
 translate french d18s08_b7d3c855:
 
 
-    tl "Pouvez-vous m'accompagner?"
+    tl "Pouvez-vous m'accompagner ?"
 
 
 translate french d18s08_414b8be4:
 
 
-    arj "Je... quoi?"
+    arj "Je... quoi ?"
 
 
 translate french d18s08_eb46f713:
@@ -260,7 +260,7 @@ translate french d18s08_a20cefa7:
 translate french d18s08_7e74acd3:
 
 
-    hr "Qu'est-ce qui vient de se passer?"
+    hr "Qu'est-ce qui vient de se passer ?"
 
 
 translate french d18s08_a2f0bfe0:

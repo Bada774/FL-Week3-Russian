@@ -74,7 +74,7 @@ translate french d17s06_study_2f8d2368:
 translate french d17s06_study_2ee29c4b:
 
 
-    mct "Putain. Pourquoi étudier est-il toujours aussi ennuyeux?"
+    mct "Putain. Pourquoi étudier est-il toujours aussi casse couilles?"
 
 
 translate french d17s06_study_6f7e0983:

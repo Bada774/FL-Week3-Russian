@@ -1,5 +1,10 @@
 
 
+init python:
+    import datetime
+    x = datetime.datetime.now()
+    current_year = x.year
+
 default vu_ad_hover = False
 default persistent.seen_lc_song_p1 = False
 default persistent.seen_lc_song_p2 = False
@@ -213,24 +218,28 @@ screen main_menu_extended():
         unhovered Function(hide_hover_notify)
         at shake_effect
 
-    imagebutton:
-        if is_steam_edition is True or is_gog_edition is True:
-            idle "vu_ad_anim"
-        else:
-            idle "vu_ad_patreon_anim"
-        focus_mask "images/extended/ui/buttons/vu_ad_focus_mask.webp"
-        xcenter 0.065
-        ycenter 0.12
-        if is_steam_edition is True:
-            action OpenURL("steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/")
-            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Buy Taboo University on Steam")))
-        elif is_gog_edition is True:
-            action OpenURL("https://www.gog.com/en/game/taboo_university_book_one")
-            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Buy Taboo University on GOG")))
-        else:
-            action OpenURL("https://www.patreon.com/VinovellaGames")
-            hovered (ToggleVariable("vu_ad_hover"), Notify(_("Try our new game Taboo University")))
-        unhovered (ToggleVariable("vu_ad_hover"), Function(hide_hover_notify))
+    if is_gog_edition is False:
+        imagebutton:
+            if is_steam_edition is True:
+                if current_year == 2025:
+                    auto "images/extended/ui/buttons/wishlist_sm_%s.webp"
+                else:
+                    auto "images/extended/ui/buttons/download_sm_%s.webp"
+            elif is_gog_edition is False:
+                idle "vu_ad_patreon_anim"
+            focus_mask "images/extended/ui/buttons/vu_ad_focus_mask.webp"
+            xcenter 0.065
+            ycenter 0.12
+            if is_steam_edition is True:
+                action OpenURL("steam://openurl/https://store.steampowered.com/app/3763690/Fetish_Locator_SM_Studio/")
+                if current_year == 2025:
+                    hovered Notify(_("Wishlist Fetish Locator: S&M Studio on Steam"))
+                else:
+                    hovered Notify(_("Get Fetish Locator: S&M Studio on Steam"))
+            elif is_gog_edition is False:
+                action OpenURL("https://www.patreon.com/VinovellaGames")
+                hovered (ToggleVariable("vu_ad_hover"), Notify(_("Try our new game Taboo University")))
+                unhovered ToggleVariable("vu_ad_hover")
 
     if is_gog_edition is True:
         imagebutton:
@@ -238,7 +247,7 @@ screen main_menu_extended():
             action ShowMenu("sm_trailer_ad")
             focus_mask True
             xcenter 0.065
-            ycenter 0.3
+            ycenter 0.12
             hovered Notify(_("Watch Fetish Locator: S&M Studio trailer"))
             unhovered Function(hide_hover_notify)
             at dlc_1_ad_anim

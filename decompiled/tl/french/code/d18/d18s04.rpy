@@ -8,7 +8,7 @@ translate french d18s04_09dff030:
 translate french d18s04_0e6d9807:
 
 
-    vw "Tu veux que je te fasse un petit strip-tease?"
+    vw "Tu veux que je te fasse un petit strip-tease ?"
 
 
 translate french d18s04_b10b6889:
@@ -26,7 +26,7 @@ translate french d18s04_8aaa3db5:
 translate french d18s04_c5e0d6aa:
 
 
-    vw "Comment tu me veux?"
+    vw "Comment tu me veux ?"
 
 
 translate french d18s04_2dc8a1cd:
@@ -38,7 +38,7 @@ translate french d18s04_2dc8a1cd:
 translate french d18s04_9aca2382:
 
 
-    vw "Quoi?"
+    vw "Quoi ?"
 
 
 translate french d18s04_40ac523d:
@@ -56,7 +56,7 @@ translate french d18s04_b19e8fe3:
 translate french d18s04_964671a1:
 
 
-    vw "Quelle est la prochaine étape? Vas-tu me ravager?"
+    vw "Quelle est la prochaine étape ? Vas-tu me ravager ?"
 
 
 translate french d18s04_1868595f:
@@ -68,13 +68,13 @@ translate french d18s04_1868595f:
 translate french d18s04_af7c2927:
 
 
-    vw "Quoi!?{w} Qu'est-ce que tu fais!?"
+    vw "Quoi!?{w} Qu'est-ce que tu fais !?"
 
 
 translate french d18s04_4d2fd69f:
 
 
-    mc "Tu me fais confiance?"
+    mc "Tu me fais confiance ?"
 
 
 translate french d18s04_6c6f6178:
@@ -86,13 +86,13 @@ translate french d18s04_6c6f6178:
 translate french d18s04_3d58b3cc:
 
 
-    mc "Tu veux réparer la relation avec ta fille?"
+    mc "Tu veux réparer la relation avec ta fille ?"
 
 
 translate french d18s04_fde38d08:
 
 
-    mc "Tu veux réparer ta relation avec Allison?"
+    mc "Tu veux réparer ta relation avec Allison ?"
 
 
 translate french d18s04_575e1f3d:
@@ -104,7 +104,7 @@ translate french d18s04_575e1f3d:
 translate french d18s04_66b728af:
 
 
-    mc "Pas de \"mais\". Fais-moi confiance."
+    mc "Pas de 'mais'. Fais-moi confiance."
 
 
 translate french d18s04_7971f4be:
@@ -140,19 +140,19 @@ translate french d18s04_513655b1:
 translate french d18s04_8ed3894d:
 
 
-    vw "Pourquoi?"
+    vw "Pourquoi ?"
 
 
 translate french d18s04_244040f6:
 
 
-    mc "Alors tu vas rester allongé là, nue, exposé, humilié et écouter sa version des choses."
+    mc "Alors tu vas rester allongée là, nue, exposée, humiliée et écouter sa version des choses."
 
 
 translate french d18s04_81a63e96:
 
 
-    vw "Mais je-"
+    vw "Mais je—"
 
 
 translate french d18s04_8c77a865:
@@ -206,19 +206,19 @@ translate french d18s04_669d4d85:
 translate french d18s04_3413a850:
 
 
-    aw "Quoi...{w} Maman?"
+    aw "Quoi...{w} Maman ?"
 
 
 translate french d18s04_bda5c274:
 
 
-    aw "Quoi...{w} Vanessa?"
+    aw "Quoi...{w} Vanessa ?"
 
 
 translate french d18s04_9155a923:
 
 
-    aw "Je pensais... Qu'est-ce que tu lui as fait?"
+    aw "Je pensais... Qu'est-ce que tu lui as fait ?"
 
 
 translate french d18s04_e62e230a:
@@ -230,13 +230,13 @@ translate french d18s04_e62e230a:
 translate french d18s04_700cd10e:
 
 
-    aw "Et elle est ligotée et nue parce que...?"
+    aw "Et elle est attachée et nue parce que... ?"
 
 
 translate french d18s04_4451cda1:
 
 
-    mc "Parce que c'est une salope affamée de bites et folle de sexe, et je devais la mettre en mesure de {i}vraiment{/i} écouter ta version des choses."
+    mc "Parce qu'elle cherche de l'attention et je voulais qu'elle se concentre sur l'écoute de ce que tu as à dire."
 
 
 translate french d18s04_c8eef0ca:
@@ -248,73 +248,73 @@ translate french d18s04_c8eef0ca:
 translate french d18s04_02b4206b:
 
 
-    aw "Ça devrait être {i}très{/i} thérapeutique."
+    aw "Cela devrait être {i}très{/i} éclairant."
 
 
 translate french d18s04_017265f7:
 
 
-    aw "Je suppose que tu m'entends?"
+    aw "Je suppose que tu m'entends ?"
 
 
 translate french d18s04_a264b887:
 
 
-    vw "*Sons bâillonnés* Mmm."
+    vw "*Sons étouffés* Mmm."
 
 
 translate french d18s04_226881f9:
 
 
-    aw "Hah! Toutes ces années et il a fallu que tu sois réduit à un morceau de viande aveugle et bâillonné pour réellement {i}écouter{/i} un putain de moment, hein, maman?"
+    aw "Hah ! Toutes ces années et maintenant tu dois être dans cette position pour vraiment {i}m'entendre{/i}, hein, Maman ?"
 
 
 translate french d18s04_02159c46:
 
 
-    aw "Hah! Toutes ces années et il a fallu que tu sois réduite à un morceau de viande aveugle et bâillonnée pour réellement {i}écouter{/i} un putain de moment, hein, Vanessa?"
+    aw "Hah ! Toutes ces années et maintenant tu dois être dans cette position pour vraiment {i}m'entendre{/i}, hein, Vanessa ?"
 
 
 translate french d18s04_882526d0:
 
 
-    aw "Cinq ans. C'est combien ça a duré, tu sais."
+    aw "Cinq ans. C'est le temps que ça a pris, tu sais."
 
 
 translate french d18s04_46cfc669:
 
 
-    aw "Cinq putains d'années dans la rue. Seule et abandonnée par la seule personne qu'il me restait au monde."
+    aw "Cinq années difficiles, seule et sans le soutien de la personne sur qui je croyais pouvoir compter."
 
 
 translate french d18s04_7a731c17:
 
 
-    aw "*Voix tremblante* As-tu une idée de ce que c'était, maman?"
+    aw "*Voix tremblante* As-tu une idée de ce que c'était, maman ?"
 
 
 translate french d18s04_9c3ce9ef:
 
 
-    aw "*Voix tremblante* As-tu une idée de ce que c'était, Vanessa?"
+    aw "*Voix tremblante* As-tu une idée de ce que c'était, Vanessa ?"
 
 
 translate french d18s04_c28fd43c:
 
 
-    aw "Et pourtant, j'ai survécue. Les gens que tu détestais tant m'ont accepté tel que j'étais, et j'ai {i}{b}prospérée{/b}{/i}."
+    aw "Et pourtant, j'ai trouvé un moyen de m'en sortir. Les gens que tu n'aimais pas m'ont acceptée telle que j'étais, et j'ai {i}{b}grandi{/b}{/i}."
 
 
 translate french d18s04_d11f2731:
 
 
-    aw "Tout ça parce que tu avais peur qu'une jeune fille explore sa sexualité."
+    aw "Tout ça parce que tu étais mal à l'aise avec une jeune fille explorant son propre identité."
 
 
 translate french d18s04_abfdbdbf:
 
 
-    aw "Et maintenant tu es là avec tes larmes de crocodile en me disant que tu veux que je revienne."
+    aw "Et maintenant, tu es ici, me demandant pardon, me disant que tu veux que je revienne."
 
 
 translate french d18s04_60d4b2e9:
@@ -326,7 +326,7 @@ translate french d18s04_60d4b2e9:
 translate french d18s04_f26ec8a4:
 
 
-    aw "{b}OÙ ÉTAIT CET AMOUR QUAND J'EN AVAIS VRAIMENT BESOIN?{/b}"
+    aw "{b}OÙ ÉTAIT CET AMOUR QUAND J'EN AVAIS VRAIMENT BESOIN ?{/b}"
 
 
 translate french d18s04_e92eabf4:
@@ -344,97 +344,97 @@ translate french d18s04_26a9f852:
 translate french d18s04_ce476cfb:
 
 
-    aw "Tu ne ressentiras jamais la douleur que j'ai ressentie quand tu m'as abandonné."
+    aw "Tu ne comprendras jamais la douleur que j'ai ressentie quand tu m'as laissée seule."
 
 
 translate french d18s04_f5dca5e9:
 
 
-    aw "Mais je vais te faire ressentir une douleur comme tu n'en as jamais ressenti auparavant."
+    aw "Mais je vais te faire comprendre un peu de cela."
 
 
 translate french d18s04_ac22123a:
 
 
-    aw "Tu sais ce que c'est? Je suis sûr que oui."
+    aw "Tu sais ce que c'est ? Je suis sûr que oui."
 
 
 translate french d18s04_05dbdd3c:
 
 
-    aw "Tu es une sainte pour le monde extérieur, mais une putain de dégénérée à l'intérieur, n'est-ce pas?"
+    aw "Tu sembles parfaite aux yeux des autres, mais à l'intérieur, il y a des choses que tu caches, n'est-ce pas ?"
 
 
 translate french d18s04_4b82ebe0:
 
 
-    vw "*Cris bâillonnés*"
+    vw "*Cris étouffés*"
 
 
 translate french d18s04_b4186eac:
 
 
-    aw "C'est pour ça que tu me détestes autant, n'est-ce pas!?"
+    aw "C'est pour ça que tu es si en colère contre moi, n'est-ce pas ?"
 
 
 translate french d18s04_8c050a6a:
 
 
-    aw "Tu vois tellement de moi en toi et tu ne peux pas {i}supporter{/i} ça."
+    aw "Tu vois des parts de toi en moi, et ça te met mal à l'aise."
 
 
 translate french d18s04_cce90b93:
 
 
-    aw "{b}Tout ce que j'ai toujours voulu, c'était que tu m'accepte.{/b}"
+    aw "{b}Tout ce que j'ai toujours voulu, c'était que tu m'acceptes.{/b}"
 
 
 translate french d18s04_2aa70042:
 
 
-    aw "Mais tu ne pouvais pas faire ça, n'est-ce pas?"
+    aw "Mais tu n'as pas pu faire ça, n'est-ce pas ?"
 
 
 translate french d18s04_df6a1270:
 
 
-    aw "Je vais te faire sentir aussi impuissante que tu m'as fait me sentir."
+    aw "Je vais te faire ressentir l'impuissance que j'ai ressentie."
 
 
 translate french d18s04_8d486938:
 
 
-    aw "{b}TU AIMES CA, MAMAN!?{/b}"
+    aw "{b}TU COMPRENDS MAINTENANT, MAMAN!?{/b}"
 
 
 translate french d18s04_c2c697ce:
 
 
-    aw "{b}ÊTRE HUMILIÉ PAR TA PROPRE FILLE!?{/b}"
+    aw "{b}ÊTRE HUMILIÉE PAR TA PROPRE FILLE!?{/b}"
 
 
 translate french d18s04_c3f83fa5:
 
 
-    aw "{b}TU AIMES CA CHIENNE D'HYPOCRITE!?{/b}"
+    aw "{b}TU AIMES ÇA, ESPÈCE D'HYPOCRITE!?{/b}"
 
 
 translate french d18s04_ee731ea0:
 
 
-    aw "{b}Je parie que ça t'excite vraiment, hein!?{/b}"
+    aw "{b}JE PARIE QUE C'EST VRAIMENT EXCITANT POUR TOI, HEIN!?{/b}"
 
 
 translate french d18s04_7819d875:
 
 
-    aw "Je vais te baiser jusqu'à ce que tu ne puisses plus marcher."
+    aw "Je vais te faire souffrir jusqu'à ce que tu sois épuisée."
 
 
 translate french d18s04_0ea300a5:
 
 
-    aw "Je vais te baiser jusqu'à ce que tu ne sois plus qu'une pauvre merde."
+    aw "Je vais te faire payer jusqu'à ce que tu sois brisée."
 
 
 translate french d18s04_0beade47:
@@ -446,13 +446,13 @@ translate french d18s04_0beade47:
 translate french d18s04_cb9ba318:
 
 
-    mc "Allison, arrête! Regarde ce que tu fait! Ce n'est pas pour ça que tu es là!"
+    mc "Allison, arrête! Regarde ce que tu fais! Ce n'est pas pour ça que tu es là!"
 
 
 translate french d18s04_8c827091:
 
 
-    aw "Je ne suis pas meilleur qu'elle..."
+    aw "Je ne suis pas meilleure qu'elle..."
 
 
 translate french d18s04_8aaa70d0:
@@ -464,7 +464,7 @@ translate french d18s04_8aaa70d0:
 translate french d18s04_806d1713:
 
 
-    vw "Qu'est-ce que tu as fait!?"
+    vw "Qu'est-ce que tu as fait !?"
 
 
 translate french d18s04_3d8d5870:
@@ -482,7 +482,7 @@ translate french d18s04_f1d757e0:
 translate french d18s04_1e92ba76:
 
 
-    vw "{i}{b}Je{/b}{/i} m'en occupe. Tu en as fait plus qu'assez."
+    vw "{i}{b}Je{/b}{/i} m'en occupe. Tu as déjà fait bien plus que nécessaire."
 
 
 translate french d18s04_c2225191:
@@ -500,13 +500,13 @@ translate french d18s04_0beade47_1:
 translate french d18s04_619a03ab:
 
 
-    aw "*Pleure* Je suis horrible."
+    aw "*En pleurs* Je suis horrible."
 
 
 translate french d18s04_8f15abca:
 
 
-    vw "*Bâillonné en pleurs*"
+    vw "*En pleurs et bâillonnée*"
 
 
 translate french d18s04_701a4caa:
@@ -542,19 +542,19 @@ translate french d18s04_80394ff3:
 translate french d18s04_bd119a99:
 
 
-    vw "Je suis vraiment désolée, mon amour."
+    vw "Je suis tellement désolée, mon amour."
 
 
 translate french d18s04_cc800dda:
 
 
-    vw "Je suis vraiment désolée de ne pas avoir été là quand tu avais besoin de moi. Je t'ai abandonné."
+    vw "Je suis vraiment désolée de ne pas avoir été là quand tu avais besoin de moi. Je t'ai laissée."
 
 
 translate french d18s04_f5465819:
 
 
-    vw "Je suis une horrible mère."
+    vw "Je suis une mère terrible."
 
 
 translate french d18s04_29542bce:
@@ -566,7 +566,7 @@ translate french d18s04_29542bce:
 translate french d18s04_5ebf40b1:
 
 
-    vw "Mais je veux que tu saches que je t'accepte. Entièrement. Et je suis tellement, tellement fière de la femme que tu es devenue."
+    vw "Mais je veux que tu saches que je t'accepte. Entièrement. Et je suis tellement fière de la femme que tu es devenue."
 
 
 translate french d18s04_4780a7d5:
@@ -578,19 +578,19 @@ translate french d18s04_4780a7d5:
 translate french d18s04_500d7881:
 
 
-    vw "Depuis que j'ai perdu ton père, la seule chose qui comptait pour moi était de m'assurer que tu sois en sécurité."
+    vw "Depuis que j'ai perdu ton père, la seule chose qui comptait pour moi, c'était de m'assurer que tu sois en sécurité."
 
 
 translate french d18s04_fc6beb48:
 
 
-    vw "Depuis que je t'ai vu, la seule chose qui comptait pour moi était de m'assurer que tu sois en sécurité."
+    vw "Depuis que je t'ai vue, la seule chose qui comptait pour moi, c'était de m'assurer que tu sois en sécurité."
 
 
 translate french d18s04_f50d50d5:
 
 
-    vw "Mais je t'ai laissé tomber.{w} Je suis vraiment désolée."
+    vw "Mais je t'ai déçue.{w} Je suis vraiment désolée."
 
 
 translate french d18s04_b8de06d3:
@@ -602,25 +602,25 @@ translate french d18s04_b8de06d3:
 translate french d18s04_03304624:
 
 
-    mct "Hein, eh bien, ce n'est pas exactement ce à quoi je m'attendais..."
+    mct "Eh bien, ce n'est pas exactement ce à quoi je m'attendais..."
 
 
 translate french d18s04_825bcc70:
 
 
-    mct "Je pense qu'elles ont complètement oubliée que je suis là."
+    mct "Je pense qu'elles ont complètement oublié que je suis là."
 
 
 translate french d18s04_2fdbb284:
 
 
-    mct "C'est gênant. Je ferais mieux de les laisser."
+    mct "C'est gênant. Je ferais mieux de les laisser tranquille."
 
 
 translate french d18s04_14eb4212:
 
 
-    mc "*Toux*"
+    mc "*Tousse*"
 
 
 translate french d18s04_134dff8b:
@@ -632,13 +632,13 @@ translate french d18s04_134dff8b:
 translate french d18s04_f89df913:
 
 
-    mc "Je suppose que c'est positif?"
+    mc "Je suppose que c'est positif ?"
 
 
 translate french d18s04_8c0f55b6:
 
 
-    vw "J'ai encore beaucoup à faire pour me rattraper auprès de ma petite fille..."
+    vw "Il y a encore beaucoup à faire pour me rattraper auprès de ma petite fille..."
 
 
 translate french d18s04_5612d7bc:
@@ -926,7 +926,7 @@ translate french d18s04_4ead628c:
 translate french d18s04_5cb86cb6:
 
 
-    vw "Je suis ta mère! Bien sûr, je sais ces choses à votre sujet."
+    vw "Je suis ta mère! Bien sûr, je sais ces choses à ton sujet."
 
 
 translate french d18s04_89c555f8:
@@ -944,7 +944,7 @@ translate french d18s04_3f017285:
 translate french d18s04_8fa2f449:
 
 
-    aw "C'est juste... Je veux être en colère contre toi, mais je suis tellement fatigué et épuisé, et juste..."
+    aw "C'est juste... Je veux être en colère contre toi, mais je suis tellement fatiguée et épuisée, et juste..."
 
 
 translate french d18s04_a96466f7:
@@ -962,7 +962,7 @@ translate french d18s04_ee39fc95:
 translate french d18s04_c56934e8:
 
 
-    aw "C'est exaspérant quand tu fais ça et ça me dépasses."
+    aw "C'est exaspérant quand tu fais ça et que ça me dépasse."
 
 
 translate french d18s04_6dfdebdc:
@@ -974,7 +974,7 @@ translate french d18s04_6dfdebdc:
 translate french d18s04_b3bff258:
 
 
-    vw "Je suis désolée. Je sais que je fais beaucoup de erreurs. Je vais m'améliorer."
+    vw "Je suis désolée. Je sais que je fais beaucoup d'erreurs. Je vais m'améliorer."
 
 
 translate french d18s04_71fe0b19:

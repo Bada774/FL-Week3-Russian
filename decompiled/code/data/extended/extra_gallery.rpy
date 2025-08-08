@@ -428,7 +428,7 @@ screen bonus_rm_rf():
     add "images/extended/bonus/ana-pad.webp" xalign 0.5
 
     text _("I WANT TO KEEP\nFETISH LOCATOR") style "bonus_rm_rf_text_1"
-    if is_steam_edition is True or is_gog_edition is True:
+    if is_antagonist_mode is True:
         text _("TO MAKE SURE NO ONE\nWILL BE BLACKMAILED") style "bonus_rm_rf_text_2"
     else:
         text _("YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?") style "bonus_rm_rf_text_2"

@@ -56,7 +56,6 @@ init -2 python:
 
 
     class FLLoadMp(Action, DictEquality):
-        alt = _("Load multipersistent save [slot]")
         slot = None
         def __init__(self, name, confirm=True, page=None, slot=False):
             self.name = name

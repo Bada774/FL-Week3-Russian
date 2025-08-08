@@ -2,25 +2,25 @@
 translate french d19s01lc_31455c3a:
 
 
-    mc "Ugh.{w} Quelqu'un a-t-il eu le numéro de ce bus?"
+    mc "Ugh.{w} Quelqu'un a-t-il eu le numéro de ce bus ?"
 
 
 translate french d19s01lc_7459fb33:
 
 
-    lc "C'était le 0-0-7-1?"
+    lc "C'était le 0-0-7-1 ?"
 
 
 translate french d19s01lc_05500ff6:
 
 
-    mc "Hein?"
+    mc "Hein ?"
 
 
 translate french d19s01lc_f6a1472b:
 
 
-    mc "Lydia?!{w} Qu'est-ce que tu fais en prison?"
+    mc "Lydia ?!{w} Qu'est-ce que tu fais en prison ?"
 
 
 translate french d19s01lc_dbe7f12f:
@@ -32,7 +32,7 @@ translate french d19s01lc_dbe7f12f:
 translate french d19s01lc_22633b42:
 
 
-    mc "Oh.{w} Ugh, qu'est-ce qui m'est arrivé?"
+    mc "Oh.{w} Ugh, qu'est-ce qui m'est arrivé ?"
 
 
 translate french d19s01lc_14ec0b13:
@@ -44,19 +44,19 @@ translate french d19s01lc_14ec0b13:
 translate french d19s01lc_726f871b:
 
 
-    mc "Oh, merde.{w} Et officiellement?"
+    mc "Oh, merde.{w} Et officiellement ?"
 
 
 translate french d19s01lc_e9bba1fe:
 
 
-    lc "Officiellement, tu n'as jamais été ici, jamais là, et tu penses ne plus jamais y retourner."
+    lc "Officiellement, tu n'as jamais été ici, jamais là, et tu ne dois plus jamais y retourner."
 
 
 translate french d19s01lc_356b6405:
 
 
-    mc "Est-ce que le flic va bien?"
+    mc "Est-ce que le flic va bien ?"
 
 
 translate french d19s01lc_ad9c99fc:
@@ -68,7 +68,7 @@ translate french d19s01lc_ad9c99fc:
 translate french d19s01lc_2124fe0f:
 
 
-    mc "Alors, je peux sortir d'ici?"
+    mc "Alors, je peux sortir d'ici ?"
 
 
 translate french d19s01lc_047f72c2:
@@ -86,7 +86,7 @@ translate french d19s01lc_eae65e6c:
 translate french d19s01lc_26b5e011:
 
 
-    mc "Pourquoi tu ne leur dis pas ça maintenant?"
+    mc "Pourquoi tu ne leur dis pas ça maintenant ?"
 
 
 translate french d19s01lc_350d3aa5:
@@ -98,7 +98,7 @@ translate french d19s01lc_350d3aa5:
 translate french d19s01lc_cf68b792:
 
 
-    mc "Qu'est-ce que ça veut dire? Je ne comprends pas."
+    mc "Qu'est-ce que ça veut dire ? Je ne comprends pas."
 
 
 translate french d19s01lc_ffdafa71:
@@ -110,7 +110,7 @@ translate french d19s01lc_ffdafa71:
 translate french d19s01lc_72aa34fa:
 
 
-    lc "Pourquoi t'es-tu saoulé dans un bar au hasard hier soir?"
+    lc "Pourquoi t'es-tu saoulé dans un bar au hasard hier soir ?"
 
 
 translate french d19s01lc_871b7921:
@@ -392,7 +392,7 @@ translate french d19s01lc_404c6559:
 translate french d19s01lc_91ccba53:
 
 
-    mc "C'est ridicule! Tu me dit que Fetish Locator est une sorte de HAL9000 de sexe et de cochonnerie!!!"
+    mc "C'est ridicule! Tu me dis que Fetish Locator est une sorte de HAL9000 du sexe et de cochonneries!!!"
 
 
 translate french d19s01lc_60444f69:
@@ -410,13 +410,13 @@ translate french d19s01lc_3defe89c:
 translate french d19s01lc_002a889a:
 
 
-    lc "Aucune idée. {w} Personne ne l'a vu depuis environ une semaine."
+    lc "Aucune idée.{w} Personne ne l'a vu depuis environ une semaine."
 
 
 translate french d19s01lc_3ab36586:
 
 
-    mc "Conneries! Il était à la fête de Min et harçelait la barmaid!"
+    mc "Conneries! Il était à la fête de Min et harcelait la barmaid!"
 
 
 translate french d19s01lc_c0cb4cc7:
@@ -434,7 +434,7 @@ translate french d19s01lc_5642385e:
 translate french d19s01lc_9425a3b9:
 
 
-    mct "C'était une blague, non??"
+    mct "C'était une blague, non ?"
 
 
 translate french d19s01lc_1ef5a556:
@@ -446,7 +446,7 @@ translate french d19s01lc_1ef5a556:
 translate french d19s01lc_2876efd9:
 
 
-    mc "Pourquoi?"
+    mc "Pourquoi ?"
 
 
 translate french d19s01lc_43ce2e2d:
@@ -458,7 +458,7 @@ translate french d19s01lc_43ce2e2d:
 translate french d19s01lc_630ea5ff:
 
 
-    mc "Bien. Alors, tu as ce rêve."
+    mc "Très bien. Alors, tu as ce rêve."
 
 
 translate french d19s01lc_cfa80054:
@@ -500,19 +500,19 @@ translate french d19s01lc_3d78d280:
 translate french d19s01lc_99f73c57:
 
 
-    mc "C'est tout?"
+    mc "C'est tout ?"
 
 
 translate french d19s01lc_e64f10fe:
 
 
-    lc "...?"
+    lc "... ?"
 
 
 translate french d19s01lc_4d30b352:
 
 
-    mc "Tu voulais que j'écoute. C'est tout ce que tu avais à dire?"
+    mc "Tu voulais que j'écoute. C'est tout ce que tu avais à dire ?"
 
 
 translate french d19s01lc_6cb488f6:
@@ -530,13 +530,13 @@ translate french d19s01lc_60e6c864:
 translate french d19s01lc_d68d42d5:
 
 
-    lc "[mcname], pourra-tu jamais me pardonner?"
+    lc "[mcname], pourras-tu jamais me pardonner ?"
 
 
 translate french d19s01lc_1196ae30:
 
 
-    mc "Peut-être.{w} Peut-être quand tu aura fini de me garder dans une cellule de prison."
+    mc "Peut-être.{w} Peut-être quand tu auras fini de me garder dans une cellule de prison."
 
 
 translate french d19s01lc_a27a6d78:
@@ -547,228 +547,195 @@ translate french d19s01lc_a27a6d78:
 
 translate french d19s01lc_4c79738f:
 
-
-    mc "Est-ce que les flics vont me libéré?"
+    mc "Est-ce que les flics vont me libérer?"
 
 
 translate french d19s01lc_9ddc7c13:
-
 
     lc "Eh bien, ça.{w} Et je me rends."
 
 
 translate french d19s01lc_3d996037:
 
-
     mc "De quoi tu parles?"
 
 
 translate french d19s01lc_aa940d40:
-
 
     lc "On ment aux gens, et en fin de compte, j'en suis responsable."
 
 
 translate french d19s01lc_fee94fbe:
 
-
     lc "Des gens ont été blessés. Les gens sont victimes de chantage. Je suis responsable."
 
 
 translate french d19s01lc_66b4e40c:
-
 
     mc "Éthiquement, bien sûr. Mais légalement, Jérôme a fait tout ça."
 
 
 translate french d19s01lc_9bb37cf1:
 
-
     lc "Je suis responsable."
 
 
 translate french d19s01lc_528accdb:
-
 
     mc "Je ne comprends pas."
 
 
 translate french d19s01lc_3be6d3ae:
 
-
     lc "C'est juste quelque chose que je dois faire."
 
 
 translate french d19s01lc_86cc54ed:
-
 
     mc "Lydia! Attends!"
 
 
 translate french d19s01lc_e64f10fe_1:
 
-
     lc "...?"
 
 
 translate french d19s01lc_ce62b3b9:
-
 
     mc "Je t'aime toujours."
 
 
 translate french d19s01lc_5759ff2b:
 
-
     mc "Je m'en fiche de ce que tu as fait."
 
 
 translate french d19s01lc_7dadeb1b:
-
 
     mc "Je m'en fiche de ce que tu fais."
 
 
 translate french d19s01lc_329486ef:
 
-
     mc "Tu seras toujours ma copine."
 
 
 translate french d19s01lc_bf0ad310:
-
 
     lc "Merci."
 
 
 translate french d19s01lc_e2cb8e1e:
 
-
     lc "Je t'aime aussi."
 
 
 translate french d19s01lc_4d6b53e9:
-
 
     lc "Mais je dois faire ça."
 
 
 translate french d19s01lc_83495ed0:
 
-
     mc "Je comprends."
 
 
 translate french d19s01lc_ea9058b2:
-
 
     mc "Je n'ai pas aimé le mensonge, mais..."
 
 
 translate french d19s01lc_348fb56c:
 
-
     mc "Je n'ai pas aimé le chantage, mais..."
 
 
 translate french d19s01lc_688e6337:
-
 
     lc "Oui?"
 
 
 translate french d19s01lc_247009df:
 
-
     mc "J'ai apprécié l'application. J'ai apprécié le jeu."
 
 
 translate french d19s01lc_f963485d:
-
 
     lc "Au moins il y a ça, je suppose."
 
 
 translate french d19s01lc_332ce41d:
 
-
     mc "Et j'ai adoré chaque moment que j'ai passé avec toi."
 
 
 translate french d19s01lc_9be872d0:
-
 
     lc "Merci. Moi aussi."
 
 
 translate french d19s01lc_28aec72e:
 
-
-    mc "C'était amusant..une fois."
+    mc "C'était amusant.. une fois."
 
 
 translate french d19s01lc_f85dfd95:
-
 
     lc "Qu'est-ce que ..?"
 
 
 translate french d19s01lc_1c1da538:
 
-
     mc "Fetish Locator, c'était amusant, une fois.{w} Avant... tu sais."
 
 
 translate french d19s01lc_a7bed98d:
-
 
     mc "Fetish Locator, c'était amusant, une fois.{w} Avant le chantage."
 
 
 translate french d19s01lc_24df0a15:
 
-
     lc "Eh bien, au moins il y a ça."
 
 
 translate french d19s01lc_edcd5563:
-
 
     mc "Ne m'oublie pas."
 
 
 translate french d19s01lc_55e95dde:
 
-
     lc "Je vais leur demander de te libérer tout de suite."
 
 
 translate french d19s01lc_e3d2f04a:
-
 
     mc "Ce n'est pas ce que je voulais dire."
 
 
 translate french d19s01lc_89d262b0:
 
-
     lc "Je sais."
 
+
 translate french strings:
-
-
     old "Friday\nDay-19"
     new "Vendredi\nJour-19"
 
 
+translate french strings:
     old "Kiss Her"
     new "Embrasse-la"
 
 
+translate french strings:
     old "Say Something Nice"
     new "Dis quelque chose de gentil"
 
 
+translate french strings:
     old "Tell Her It Was Fun"
     new "Dis-lui que c'était amusant"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

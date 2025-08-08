@@ -18,7 +18,7 @@ init python:
 
 screen language_buttons(splash=False):
 
-    grid 3 4:
+    grid 3 3:
         allow_underfull True
         style_prefix "language"
         xpos 100
@@ -96,6 +96,15 @@ screen language_buttons(splash=False):
                 action Function(language_setter, newlang="deutsch")
             else:
                 action (Function(language_setter, newlang="deutsch"), Return())
+
+        button id "lang_fr":
+            text "Français"
+            style style.button["lang_fr"]
+            selected (preferences.language == "french")
+            if splash is False:
+                action Function(language_setter, newlang="french")
+            else:
+                action (Function(language_setter, newlang="french"), Return())
 
         if config.developer is True:
             button id "lang_ko":
@@ -933,4 +942,40 @@ translate deutsch style bonus_rm_rf_text_2:
 translate deutsch style prologue_yes_button:
     left_padding 35
     right_padding 30
+
+
+
+translate french style sub_menu_play_text:
+    line_spacing -35
+
+translate french style lovense_info_vbox:
+    spacing 10
+
+translate french style lovense_info_text:
+    size 23
+
+translate french style lovense_steps_text:
+    line_spacing 0
+
+translate french style prologue_no_sp_button:
+    xsize 200
+
+translate french style prologue_no_sp_button_text:
+    xpos -10
+
+translate french style bonus_change_mind_text_1:
+    xpos 870
+    ypos 400
+    size 60
+
+translate french style bonus_change_mind_text_2:
+    size 45
+    xpos 980
+    ypos 780
+
+translate french style no_mp_title_text:
+    size 38
+
+translate french style no_mp_subtitle_text:
+    size 27
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
