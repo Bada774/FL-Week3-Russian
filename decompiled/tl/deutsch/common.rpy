@@ -1,5 +1,3 @@
-
-
 translate deutsch strings:
 
 
@@ -124,7 +122,7 @@ translate deutsch strings:
 
 
     old "Return"
-    new "Return"
+    new "Zurück"
 
 
     old "{#weekday}Monday"
@@ -360,7 +358,7 @@ translate deutsch strings:
 
 
     old "Done"
-    new "Done"
+    new "Fertig"
 
 
     old "(statement)"
@@ -452,43 +450,43 @@ translate deutsch strings:
 
 
     old "Are you sure?"
-    new "Are you sure?"
+    new "Bist du sicher?"
 
 
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "Willst du diesen Speicherstand löschen?"
 
 
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "Willst du diesen Speicherstand überschreiben?"
 
 
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Beim laden geht ungespeicherter Fortschritt verloren.\n Willst du das tun?"
 
 
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "Willst du das Spiel beenden?"
 
 
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Willst du zum Hauptmenü zurückkehren?\n Dadurch geht ungespeicherter Fortschritt verloren."
 
 
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "Willst du die Wiederholung beenden?"
 
 
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "Willst du anfangen zu überspringen?"
 
 
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "Willst du bis zur nächsten Auswahl springen?"
 
 
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Willst du ungesehenen Dialog bis zur nächsten Auswahl überspringen?"
 
 
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
@@ -780,11 +778,11 @@ translate deutsch strings:
 
 
     old "Yes"
-    new "Yes"
+    new "Ja"
 
 
     old "No"
-    new "No"
+    new "Nein"
 
 
     old "Enter Sync ID"
@@ -1125,4 +1123,108 @@ translate deutsch strings:
 
     old "Parsing the script failed."
     new "Parsing the script failed."
+
+translate deutsch strings:
+
+
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+
+
+    old "Customize director.transforms to add more transforms."
+    new "Customize director.transforms to add more transforms."
+
+
+    old "Click to set."
+    new "Click to set."
+
+
+    old "Customize director.transitions to add more transitions."
+    new "Customize director.transitions to add more transitions."
+
+
+    old "Customize director.audio_channels to add more channels."
+    new "Customize director.audio_channels to add more channels."
+
+
+    old "Are you sure you want to continue where you left off?"
+    new "Are you sure you want to continue where you left off?"
+
+
+    old "self voicing enable"
+    new "self voicing enable"
+
+
+    old "self voicing disable"
+    new "self voicing disable"
+
+
+    old "clipboard voicing enable"
+    new "clipboard voicing enable"
+
+
+    old "clipboard voicing disable"
+    new "clipboard voicing disable"
+
+
+    old "debug voicing enable"
+    new "debug voicing enable"
+
+
+    old "debug voicing disable"
+    new "debug voicing disable"
+
+
+    old "restore window position"
+    new "restore window position"
+
+
+    old "reset"
+    new "reset"
+
+
+    old "(clear retained bubbles)"
+    new "(clear retained bubbles)"
+
+
+    old "No update methods found."
+    new "No update methods found."
+
+
+    old "Could not download file list: "
+    new "Could not download file list: "
+
+
+    old "File list digest does not match."
+    new "File list digest does not match."
+
+
+    old "Preparing to download the game data."
+    new "Preparing to download the game data."
+
+
+    old "Downloading the game data."
+    new "Downloading the game data."
+
+
+    old "The game data has been downloaded."
+    new "The game data has been downloaded."
+
+
+    old "An error occured when trying to download game data:"
+    new "An error occured when trying to download game data:"
+
+
+    old "This game cannot be run until the game data has been downloaded."
+    new "This game cannot be run until the game data has been downloaded."
+
+
+    old "Retry"
+    new "Retry"
+
+translate deutsch strings:
+
+
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
