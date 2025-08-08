@@ -14,13 +14,13 @@ translate french d18s07_284a9c53:
 translate french d18s07_e60d061d:
 
 
-    zw "Vous feriez mieux de ne pas faire ce que je pense que vous faites là-dedans!"
+    zw "Tu ferais mieux de ne pas faire ce que je pense que tu fais là-dedans !"
 
 
 translate french d18s07_9bf063fb:
 
 
-    zw "Ouvrez cette porte {i}tout de suite{/i}, jeune homme!"
+    zw "Ouvre cette porte {i}tout de suite{/i}, jeune homme !"
 
 
 translate french d18s07_9f31b11d:
@@ -74,7 +74,7 @@ translate french d18s07_3c182b6c:
 translate french d18s07_72a48ead:
 
 
-    arj "Alors qu'est-ce qu'on fait? L'un de nous doit aller lui parler."
+    arj "Alors qu'est-ce qu'on fait ? L'un de nous doit aller lui parler."
 
 
 translate french d18s07_d083e74d:
@@ -92,25 +92,25 @@ translate french d18s07_fd659fe9:
 translate french d18s07_1d5fcd4e:
 
 
-    mc "Stacy! Qu'est-ce que tu-!?"
+    mc "Stacy ! Qu'est-ce que tu- !?"
 
 
 translate french d18s07_37e00938:
 
 
-    zw "M. Turner, vous connaissez les règles. Ouvrez cette porte immédiatement."
+    zw "M. Turner, tu connais les règles. Ouvre cette porte immédiatement."
 
 
 translate french d18s07_a0ab4bfd:
 
 
-    sy "Salut! Vous êtes Mme Zarah Waller, je suppose?"
+    sy "Salut ! Vous êtes Mme Zarah Waller, je suppose ?"
 
 
 translate french d18s07_350f4fdb:
 
 
-    zw "Madame. Et oui.{w} Qui êtes-vous?"
+    zw "Madame. Et oui.{w} Qui es-tu ?"
 
 
 translate french d18s07_98237dd5:
@@ -122,7 +122,7 @@ translate french d18s07_98237dd5:
 translate french d18s07_80ee20ff:
 
 
-    sy "Je m'appelle Tracy et je suis l'inspectrice des incendies chargé d'inspecter les terrains du collège, y compris les dortoirs, de réévaluer les cartes d'incendie et de créer des cartes numériques d'incendie à jour."
+    sy "Je m'appelle Tracy et je suis l'inspectrice des incendies chargée d'inspecter les terrains du collège, y compris les dortoirs, de réévaluer les cartes d'incendie et de créer des cartes numériques d'incendie à jour."
 
 
 translate french d18s07_95e73e85:
@@ -140,19 +140,19 @@ translate french d18s07_1a27b75f:
 translate french d18s07_284a9c53_1:
 
 
-    zw "M. Turner!"
+    zw "M. Turner !"
 
 
 translate french d18s07_e1d174e3:
 
 
-    sy "Ah les enfants, j'ai raison?"
+    sy "Ah les enfants, j'ai raison ?"
 
 
 translate french d18s07_c5806338:
 
 
-    zw "Je suis désolée, quel âge avez-vous?"
+    zw "Je suis désolée, quel âge as-tu déjà ?"
 
 
 translate french d18s07_65a83174:
@@ -176,37 +176,37 @@ translate french d18s07_a7405f4f:
 translate french d18s07_568f7d6e:
 
 
-    sy "De toute façon. Où étais-je? Ah, c'est vrai."
+    sy "De toute façon. Où étais-je ? Ah, c'est vrai."
 
 
 translate french d18s07_7fa7ffef:
 
 
-    sy "Voyez-vous, j'inspectais le secteur universitaire du collège et je suis tombé sur une porte verrouillée menant au département informatique."
+    sy "Voyez-vous, j'inspectais le secteur universitaire du collège et je suis tombée sur une porte verrouillée menant à la salle informatique."
 
 
 translate french d18s07_b5687eb9:
 
 
-    sy "On m'a informé que {i}vous{/i} étiez la personne à qui je devais m'adresser si j'avais besoin d'aide pour accéder à certains endroits du collège."
+    sy "On m'a informée que {i}tu{/i} étais la personne à qui je devais m'adresser si j'avais besoin d'aide pour accéder à certains endroits du collège."
 
 
 translate french d18s07_d1b26a21:
 
 
-    zw "Oh. Eh bien, oui. Mais pourquoi avez-vous besoin d'accéder a la salle des systèmes informatique?"
+    zw "Oh. Eh bien, oui. Mais pourquoi as-tu besoin d'accéder à la salle informatique ?"
 
 
 translate french d18s07_e19153a9:
 
 
-    sy "Les salles informatiques sont horriblement dangereuses, Mme Waller. Vous ne croiriez pas les choses que j'ai vues."
+    sy "Les salles informatiques sont horriblement dangereuses, Mme Waller. Tu ne croirais pas les choses que j'ai vues."
 
 
 translate french d18s07_df71f291:
 
 
-    sy "Des câbles électriques éparpillés partout, des serveurs avec pratiquement aucune ventilation et toutes sortes d'autres pratiques dangereuses."
+    sy "Des câbles électriques éparpillés partout, des serveurs avec à peine de ventilation, et toutes sortes d'autres pratiques dangereuses."
 
 
 translate french d18s07_a8a7d178:
@@ -218,19 +218,19 @@ translate french d18s07_a8a7d178:
 translate french d18s07_40ad50ce:
 
 
-    sy "Et laissez-moi vous dire, étant donné qu'il s'agit d'une école si prestigieuse, certaines des choses que j'ai vues là-bas, en particulier dans leur système informatique était tout simplement {i}horrible{/i}."
+    sy "Et laisse-moi te dire, étant donné qu'il s'agit d'une école aussi prestigieuse, certaines des choses que j'ai vues là-bas, surtout dans leur département informatique, étaient tout simplement {i}horribles{/i}."
 
 
 translate french d18s07_8cf14d91:
 
 
-    zw "Vraiment? J'ai toujours su que ces enfants riches et minables n'étaient pas que ça."
+    zw "Vraiment ? J'ai toujours su que ces enfants riches et prétentieux n'étaient pas que ça."
 
 
 translate french d18s07_c39009eb:
 
 
-    sy "D'après ces mesures, cette université est pratiquement un brillant exemple de ce qu'il faut faire correctement."
+    sy "D'après cette mesure, ton collège est pratiquement un brillant exemple de ce qu'il faut faire correctement."
 
 
 translate french d18s07_9b6ebc70:
@@ -242,7 +242,7 @@ translate french d18s07_9b6ebc70:
 translate french d18s07_dad37ed2:
 
 
-    sy "Donc je suis sûr que la salle informatique est également bien gérée.{w} Mais je dois quand même m'en assurer. Je suis sûr que vous comprenez."
+    sy "Donc je suis sûre que ta salle informatique est bien gérée aussi.{w} Mais je dois quand même m'en assurer. Je suis sûre que tu comprends."
 
 
 translate french d18s07_a9a577f4:
@@ -266,7 +266,7 @@ translate french d18s07_5dd47cca:
 translate french d18s07_22f67d27:
 
 
-    zw "Je pourrais aller demander maintenant si vous voulez? Elle est probablement dans la salle des professeurs. Elle pourrait peut-être vous aider avec les vérifications..."
+    zw "Je pourrais aller demander maintenant si vous voulez ? Elle est probablement dans la salle des professeurs. Elle pourrait peut-être vous aider avec les vérifications..."
 
 
 translate french d18s07_bbc1bbf6:
@@ -278,7 +278,7 @@ translate french d18s07_bbc1bbf6:
 translate french d18s07_b34b6b14:
 
 
-    arj "Qu'est-ce qu'elle dit?"
+    arj "Qu'est-ce qu'elle dit ?"
 
 
 translate french d18s07_47f3ffd5:
@@ -296,7 +296,7 @@ translate french d18s07_f768cdb9:
 translate french d18s07_9761728b:
 
 
-    zw "Oh?"
+    zw "Oh ?"
 
 
 translate french d18s07_c3731423:

@@ -8,7 +8,7 @@ translate french d16s10_d9159219:
 translate french d16s10_eebcbe44:
 
 
-    arj "Tu lui parles vraiment tous les soirs?"
+    arj "Tu lui parles vraiment tous les soirs ?"
 
 
 translate french d16s10_1a3ce239:
@@ -20,7 +20,7 @@ translate french d16s10_1a3ce239:
 translate french d16s10_0c713261:
 
 
-    arj "De quoi parles-tu?"
+    arj "De quoi parles-tu ?"
 
 
 translate french d16s10_8c6cfc3d:
@@ -62,19 +62,19 @@ translate french d16s10_e7b8bab0:
 translate french d16s10_a978e95d:
 
 
-    mc "Avez-vous acheté une nouvelle chaise?"
+    mc "As-tu acheté de nouvelles chaises ?"
 
 
 translate french d16s10_6877db0b:
 
 
-    arj "Ouais, il est arrivé l'autre jour. Ces chaises en bois dur me tuaient."
+    arj "Ouais, elles sont arrivée l'autre jour. Ces chaises en bois dur me tuaient."
 
 
 translate french d16s10_cd2173ba:
 
 
-    mc "C'est une jolie chaise de bureau... tu démarres une entreprise ou quelque chose comme ça?"
+    mc "C'est une jolie chaise de bureau... tu démarres une entreprise ou quelque chose comme ça ?"
 
 
 translate french d16s10_0451b455:
@@ -86,13 +86,13 @@ translate french d16s10_0451b455:
 translate french d16s10_d86c774a:
 
 
-    mc "Vraiment? Quel genre de jeux?"
+    mc "Vraiment ? Quel genre de jeux ?"
 
 
 translate french d16s10_d41c84b6:
 
 
-    arj "Jeux de stratégie 4X principalement. Stellaris, Civilization, ce genre de chose."
+    arj "Jeux de stratégie 4X principalement. Stellaris, Civilization, ce genre de choses."
 
 
 translate french d16s10_b8de06d3:
@@ -116,25 +116,25 @@ translate french d16s10_ce233756:
 translate french d16s10_43ff28c1:
 
 
-    arj "Je suppose que vous jouez simplement à des jeux de tir à la première personne."
+    arj "Je suppose que tu joues simplement à des jeux de tir à la première personne."
 
 
 translate french d16s10_97083a85:
 
 
-    mc "Certains. Surtout des trucs comme GTA, Assassin's Creed, ce genre de choses."
+    mc "Entre autres. Surtout des trucs comme GTA, Assassin's Creed, ce genre de choses."
 
 
 translate french d16s10_36b1da51:
 
 
-    arj "J'ai vraiment adoré Vice City quand j'étais enfant. Je ne me suis pas vraiment intéressé à ceux-là par la suite."
+    arj "J'ai vraiment adoré Vice City quand j'étais enfant. Je ne me suis pas vraiment intéressé aux autres par la suite."
 
 
 translate french d16s10_663fe16d:
 
 
-    mc "Vraiment? J'ai toujours l'intention d'y retourner et d'essayer ça, mais c'était avant mon heure."
+    mc "Vraiment ? J'ai toujours l'intention d'y retourner et d'essayer ça, mais c'était avant mon heure."
 
 
 translate french d16s10_02d64f68:
@@ -164,13 +164,13 @@ translate french d16s10_28b2f46f:
 translate french d16s10_6cf2988d:
 
 
-    mc "C'est Fetish Locator. Il disait\"Surprise-moi\". Puis il m'a dit d'inventer un tout nouveau fétiche."
+    mc "C'est Fetish Locator. Il disait \"Surprend-moi\". Puis il m'a dit d'inventer un tout nouveau fétiche."
 
 
 translate french d16s10_be809229:
 
 
-    arj "Eh bien, c'est différent. {w}Comment es-tu censé faire ça?"
+    arj "Eh bien, c'est différent. {w}Comment es-tu censé faire ça ?"
 
 
 translate french d16s10_4653f496:
@@ -182,7 +182,7 @@ translate french d16s10_4653f496:
 translate french d16s10_e8cff355:
 
 
-    arj "Est-ce qu'il y a une limite de temps?"
+    arj "Est-ce qu'il y a une limite de temps ?"
 
 
 translate french d16s10_bb456bed:
@@ -200,13 +200,13 @@ translate french d16s10_6743882a:
 translate french d16s10_81f95519:
 
 
-    arj "Quoi de neuf?"
+    arj "Quoi ?"
 
 
 translate french d16s10_307300d8:
 
 
-    mc "J'ai une idée. {w}J'aurai besoin de votre aide."
+    mc "J'ai une idée. {w}J'aurai besoin de ton aide."
 
 
 translate french d16s10_a11d4715:
@@ -224,19 +224,19 @@ translate french d16s10_d58a1705:
 translate french d16s10_177ecfe7:
 
 
-    arj "... hein?"
+    arj "... hein ?"
 
 
 translate french d16s10_7c88af81:
 
 
-    arj "D'accord, et maintenant?"
+    arj "D'accord, et maintenant ?"
 
 
 translate french d16s10_f3270bbf:
 
 
-    mc "Mettez vos jambes sur les accoudoirs-"
+    mc "Mets tes jambes sur les accoudoirs-"
 
 
 translate french d16s10_fd3389e4:
@@ -266,13 +266,13 @@ translate french d16s10_63e52f25:
 translate french d16s10_4f9c1a45:
 
 
-    arj "... quoi?"
+    arj "... quoi ?"
 
 
 translate french d16s10_4eb1d80d:
 
 
-    mc "Écoutez-moi. {w}Donc, cela accomplira deux choses."
+    mc "Écoute-moi. {w}Donc, cela accomplira deux choses."
 
 
 translate french d16s10_046b076d:
@@ -290,13 +290,13 @@ translate french d16s10_646a4a27:
 translate french d16s10_a2e08c9c:
 
 
-    arj "Comme le foulard ou l'aphyxie auto-érotique?"
+    arj "Comme le foulard ou l'asphyxie auto-érotique ?"
 
 
 translate french d16s10_bd5a73f5:
 
 
-    mc "En plus sûr, ouais."
+    mc "Mais en plus sûr, ouais."
 
 
 translate french d16s10_ed5c164a:
@@ -308,37 +308,37 @@ translate french d16s10_ed5c164a:
 translate french d16s10_b42f70ac:
 
 
-    mc "Par contre, quand vous giclez, cela doit donner un effet fontaine."
+    mc "Et d'autre part, quand tu gicleras, ça devrait faire un effet fontaine."
 
 
 translate french d16s10_a466da08:
 
 
-    arj "Assez juste. {w}Je doute que quelqu'un d'autre ait essayé quelque chose comme ça."
+    arj "Pourquoi pas. {w}Je doute que quelqu'un d'autre ait essayé un truc comme ça."
 
 
 translate french d16s10_e5bb7d5c:
 
 
-    mc "D'un autre côté, l'application disait\"Surprenez-moi\""
+    mc "En même temps, l'appli disait bien \"Surprends-moi.\""
 
 
 translate french d16s10_ea62ab4e:
 
 
-    arj "Assez juste. {w}C'est surprenant."
+    arj "Pourquoi pas. {w}C'est surprenant."
 
 
 translate french d16s10_404fd795:
 
 
-    mc "Tout est prêt?"
+    mc "Tout est prête ?"
 
 
 translate french d16s10_099e5150:
 
 
-    arj "Laisse-moi me lancer un peu avant de commencer à me faire tourner."
+    arj "Laisse-moi m'échauffer un peu avant que tu me fasses tourner."
 
 
 translate french d16s10_a49ed4f8:
@@ -362,13 +362,13 @@ translate french d16s10_afae13df:
 translate french d16s10_c17ef8ec:
 
 
-    mc "Qu'est ce que c'est?"
+    mc "Quoi donc ?"
 
 
 translate french d16s10_bf23f537:
 
 
-    arj "N'importe quoi de sexy. {w}Dites-moi quelque chose de sexy pour me faire avancer."
+    arj "N'importe quoi de sexy. {w}Dis-moi quelque chose de sexy pour me chauffer."
 
 
 translate french d16s10_0a104682:
@@ -380,79 +380,79 @@ translate french d16s10_0a104682:
 translate french d16s10_63710058:
 
 
-    mc "J'y pensais parfois même quand nous n'étions que amis et je n'avais aucune idée de ce que tu ressentais pour moi."
+    mc "J'y pensais parfois même quand on n'était que des amis et que je n'avais aucune idée de ce que tu ressentais pour moi."
 
 
 translate french d16s10_80d9ad1c:
 
 
-    arj "Vraiment? {w}Tu pensais à moi à l'époque?"
+    arj "Vraiment ? {w}Tu pensais à moi à ce moment-là ?"
 
 
 translate french d16s10_354ce4bf:
 
 
-    mc "Bien sûr. Je suis un mec et tu es magnifique."
+    mc "Évidemment. Je suis un mec, et t'es canon."
 
 
 translate french d16s10_d366da11:
 
 
-    mc "Donc, tout commence avec nous deux en camping. Nous sommes bien au chaud dans notre tente."
+    mc "Donc, ça commence par nous deux en camping. On est bien au chaud dans notre tente."
 
 
 translate french d16s10_873d047b:
 
 
-    mc "C'est l'hiver profond. Il y a au moins un pied de neige sur le sol dehors."
+    mc "C'est le cœur de l'hiver. Il y a au moins trente centimètres de neige dehors."
 
 
 translate french d16s10_b1a37c3d:
 
 
-    mc "Tu te détends sur ton sac de couchage et tu me parles pendant que je regarde les fournitures de camp que nous avons emballées."
+    mc "Tu te détends sur ton sac de couchage et tu me parles pendant que je fouille dans les affaires de camping."
 
 
 translate french d16s10_5fd28399:
 
 
-    mc "Je trouve un tas de bouts de corde dans le sac, et ça me donne une idée."
+    mc "Je trouve quelques bouts de corde dans le sac, et ça me donne une idée."
 
 
 translate french d16s10_129fd42e:
 
 
-    mc "Ça devient un peu sombre et dur. Ça te va?"
+    mc "Ça devient un peu sombre et brutal. Ça te va ?"
 
 
 translate french d16s10_d46237f5:
 
 
-    arj "Putain oui. Que se passe-t-il ensuite?"
+    arj "Putain oui. Et ensuite ?"
 
 
 translate french d16s10_2910f7e7:
 
 
-    mc "Parfois, je te convainc de sortir avec moi. Parfois, je te prends simplement par les cheveux et je te traîne hors de la tente."
+    mc "Parfois, je te convaincs de sortir avec moi. Parfois, je te saisis par les cheveux et je te tire hors de la tente."
 
 
 translate french d16s10_4d9c7789:
 
 
-    mc "Dans tous les cas, je te plaque contre un arbre et je commence à t'attacher."
+    mc "Dans tous les cas, je te plaque contre un arbre et commence à t'attacher."
 
 
 translate french d16s10_959020ee:
 
 
-    mc "Tu as un peu de mal, mais je peux facilement te maîtriser."
+    mc "Tu te débats un peu, mais je te maîtrise facilement."
 
 
 translate french d16s10_18164385:
 
 
-    mc "Très bientôt, j'aurai tes poignets liés à un membre épais au-dessus de ta tête."
+    mc "Très vite, j'ai tes poignets attachés à une branche épaisse au-dessus de ta tête."
 
 
 translate french d16s10_0f12bcc3:
@@ -476,7 +476,7 @@ translate french d16s10_deb01f38:
 translate french d16s10_5d9bd2d4:
 
 
-    mc "Vous enlevez votre pull et révélez que vous ne portez rien en dessous."
+    mc "Tu enlèves ton pull et révèles que tu ne portes rien en dessous."
 
 
 translate french d16s10_4883fcaa:
@@ -590,7 +590,7 @@ translate french d16s10_aadea86d:
 translate french d16s10_8b63c9a4:
 
 
-    mc "Tu es prêt?"
+    mc "Tu es prête?"
 
 
 translate french d16s10_d9de380f:
@@ -638,7 +638,7 @@ translate french d16s10_843f8867:
 translate french d16s10_c20fefc5:
 
 
-    arj "Tournez! Tournez! {w}Faites tourner le cercle noir!!"
+    arj "Tourne! Tourne! {w}Fait tourner le cercle noir!!"
 
 
 translate french d16s10_b4119be2:
@@ -674,7 +674,7 @@ translate french d16s10_69d9ec76:
 translate french d16s10_ffd36e1e:
 
 
-    arj "-oouuuuuussssss..."
+    arj "-oouuuuuuiiiiiii..."
 
 
 translate french d16s10_c70e4f61:
@@ -722,7 +722,7 @@ translate french d16s10_d347cff9:
 translate french d16s10_8c97d478:
 
 
-    arj "NOWWW!!!!"
+    arj "MAINTENANT!!!!"
 
 
 translate french d16s10_b8de06d3_1:
@@ -842,7 +842,7 @@ translate french d16s10_b3c38362:
 translate french d16s10_2a7fe30d_1:
 
 
-    mc "LIBERTÉ!!!"
+    mc "LIBERTÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉ!!!"
 
 
 translate french d16s10_dd97cb74:
@@ -866,13 +866,13 @@ translate french d16s10_b6aa38c4:
 translate french d16s10_69847842:
 
 
-    mc "Prêt! {w}Je suis tellement excitée que je pourrais baiser un cheval."
+    mc "Prêt! {w}Je suis tellement excité que je pourrais baiser un cheval."
 
 
 translate french d16s10_acf533c5:
 
 
-    mc "Je suppose que je vais me joindre à vous pour me mettre à poil."
+    mc "Je suppose que je vais me joindre à toi pour me mettre à poil."
 
 
 translate french d16s10_586a62e8:
@@ -884,7 +884,7 @@ translate french d16s10_586a62e8:
 translate french d16s10_1615cfcc:
 
 
-    mc "Ils pourraient se rencontrer chez vous."
+    mc "Ils pourraient se rencontrer chez toi."
 
 
 translate french d16s10_4f1f7e19:
@@ -902,7 +902,7 @@ translate french d16s10_aecb0898:
 translate french d16s10_74e6928b:
 
 
-    arj "Très bien, asseyez-vous sur la chaise."
+    arj "Très bien, assieds toi sur la chaise."
 
 
 translate french d16s10_ce770def:
@@ -914,7 +914,7 @@ translate french d16s10_ce770def:
 translate french d16s10_ed4fbec4:
 
 
-    arj "Avez-vous fait ce genre de chose avec votre dentiste?"
+    arj "As-tu fait ce genre de chose avec ton dentiste?"
 
 
 translate french d16s10_1fde495a:
@@ -938,7 +938,7 @@ translate french d16s10_1720f377:
 translate french d16s10_13604058:
 
 
-    arj "Si vous criez \"Plus vite\", alors vous en subirez les conséquences."
+    arj "Si tu cries \"Plus vite\", alors tu en subira les conséquences."
 
 
 translate french d16s10_d5ae2301:
@@ -950,7 +950,7 @@ translate french d16s10_d5ae2301:
 translate french d16s10_1bbfea8c:
 
 
-    arj "Vous avez pensé à un moment heureux, sexy et amusant?"
+    arj "Tu as pensé à un moment heureux, sexy et amusant?"
 
 
 translate french d16s10_c951392b:
@@ -1016,7 +1016,7 @@ translate french d16s10_62c43011:
 translate french d16s10_31610352:
 
 
-    arj "Comment vous sentez-vous?"
+    arj "Comment te sens-tu?"
 
 
 translate french d16s10_c49b542f:
@@ -1034,13 +1034,13 @@ translate french d16s10_9c666dfa:
 translate french d16s10_f90c17a8:
 
 
-    mc "Étourdi comme putain. {w}Je suis sur le point de tomber, mais je me sens fantastiquement bien."
+    mc "Étourdi comme jamais putain. {w}Je suis sur le point de tomber, mais je me sens fantastiquement bien."
 
 
 translate french d16s10_a9b5ccc7:
 
 
-    arj "Je parie que nous pourrions déterminer quel est la vitesse correct."
+    arj "Je parie que nous pourrions déterminer quel est la vitesse correcte."
 
 
 translate french d16s10_85e7d53d:
@@ -1118,7 +1118,7 @@ translate french d16s10_68a4797c:
 translate french d16s10_f28eeb99:
 
 
-    arj "Moi aussi. {w}Vous avez déjà pensé à tout ce que Fetish Locator sait de nous."
+    arj "Moi aussi. {w}Tu as déjà pensé à tout ce que Fetish Locator sait de nous."
 
 
 translate french d16s10_8a0ed3b0:
@@ -1202,7 +1202,7 @@ translate french d16s10_be3018ad:
 translate french d16s10_e60f2eb1:
 
 
-    mc "Qu'est-ce que la rétention a sur vous? Quelles photos leur avez-vous envoyées?"
+    mc "Qu'est-ce que la rétention a sur toi? Quelles photos leur as-tu envoyées?"
 
 
 translate french d16s10_c4a8b435:
@@ -1268,7 +1268,7 @@ translate french d16s10_b913169d:
 translate french d16s10_577b4087:
 
 
-    arj "Demandez-lui simplement à propos de Mozart."
+    arj "Demande-lui simplement à propos de Mozart."
 
 
 translate french d16s10_f9b7d414:

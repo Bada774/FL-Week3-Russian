@@ -32,13 +32,13 @@ translate french d18s06_6eff086c:
 translate french d18s06_fe1fefe0:
 
 
-    arj "Tu n'aimes pas ça?"
+    arj "Tu n'aimes pas ça ?"
 
 
 translate french d18s06_c20b9a2e:
 
 
-    mc "Oh mon Dieu."
+    mc "Je veux dire, ça te va vraiment bien..."
 
 
 translate french d18s06_a77d730c:
@@ -50,7 +50,7 @@ translate french d18s06_a77d730c:
 translate french d18s06_8cf1dd47:
 
 
-    sy "Je te le dis. C'est tactique, pratique, professionnel et salope. C'est parfait pour cette mission!"
+    sy "Je te le dis. C'est tactique, pratique, professionnel et sexy. C'est parfait pour cette mission !"
 
 
 translate french d18s06_d4a293c1:
@@ -68,7 +68,7 @@ translate french d18s06_62c7b249:
 translate french d18s06_8ca87e26:
 
 
-    sy "Merci!"
+    sy "Merci !"
 
 
 translate french d18s06_4d5cbaf3:
@@ -80,7 +80,7 @@ translate french d18s06_4d5cbaf3:
 translate french d18s06_e434542d:
 
 
-    mc "Alors pourquoi tu la portes?"
+    mc "Alors pourquoi tu la portes ?"
 
 
 translate french d18s06_1391c58d:
@@ -98,7 +98,7 @@ translate french d18s06_aa80ef70:
 translate french d18s06_11455b53:
 
 
-    mc "Quoi?"
+    mc "Quoi ?"
 
 
 translate french d18s06_213f073e:
@@ -134,7 +134,7 @@ translate french d18s06_4905a812:
 translate french d18s06_abf4b14e:
 
 
-    hr "C'est dûment noté, maintenant vas-tu commencer à essayer."
+    hr "C'est dûment noté, maintenant vas-tu commencer à essayer ?"
 
 
 translate french d18s06_567faf98:
@@ -146,7 +146,7 @@ translate french d18s06_567faf98:
 translate french d18s06_4fbfb8e7:
 
 
-    sy "Voila."
+    sy "Voilà."
 
 
 translate french d18s06_0993f42d:
@@ -170,7 +170,7 @@ translate french d18s06_328095f9:
 translate french d18s06_f1d5ac27:
 
 
-    sy "AmRose, peux-tu m'aider avec ça?"
+    sy "AmRose, peux-tu m'aider avec ça ?"
 
 
 translate french d18s06_e7b8bab0:
@@ -182,7 +182,7 @@ translate french d18s06_e7b8bab0:
 translate french d18s06_00e5a56c:
 
 
-    mc "Qu'est-ce qu'elles font exactement?"
+    mc "Qu'est-ce qu'elles font exactement ?"
 
 
 translate french d18s06_ed25c8c3:
@@ -218,7 +218,7 @@ translate french d18s06_9eeb59b1:
 translate french d18s06_ff5fec6c:
 
 
-    hr "Tu penses que ça va marcher?"
+    hr "Tu penses que ça va marcher ?"
 
 
 translate french d18s06_13f8def8:
@@ -248,7 +248,7 @@ translate french d18s06_ff0b6cc1:
 translate french d18s06_fd4cedf8:
 
 
-    hr "Tu peux contourner l'alarme?"
+    hr "Tu peux contourner l'alarme ?"
 
 
 translate french d18s06_e1e5649d:
@@ -284,7 +284,7 @@ translate french d18s06_86d5cd28:
 translate french d18s06_ed922d28:
 
 
-    hr "Comment tu sais ça?"
+    hr "Comment tu sais ça ?"
 
 
 translate french d18s06_4bfeb4d5:
@@ -296,7 +296,7 @@ translate french d18s06_4bfeb4d5:
 translate french d18s06_f38de348:
 
 
-    hr "Qui est-ce? Pouvez-vous identifier le... Je ne sais pas, l'adresse MAC ou quelque chose comme ça?"
+    hr "Qui est-ce ? Tu peux identifier le... je sais pas, l'adresse MAC ou quelque chose comme ça ?"
 
 
 translate french d18s06_0e49daff:
@@ -320,7 +320,7 @@ translate french d18s06_613353b8:
 translate french d18s06_14a3fb5c:
 
 
-    mc "Alors pourquoi ne pas frapper à la porte et voir s'ils s'ouvrent?"
+    mc "Alors pourquoi ne pas frapper à la porte et voir s'ils l'ouvrent ?"
 
 
 translate french d18s06_213e5f11:
@@ -332,7 +332,7 @@ translate french d18s06_213e5f11:
 translate french d18s06_78b15c95:
 
 
-    hr "Non! S'il y a quelqu'un là-dedans. Je veux les prendre en flagrant délit!"
+    hr "Non ! S'il y a quelqu'un là-dedans. Je veux les prendre en flagrant délit !"
 
 
 translate french d18s06_7ede4c2b:
@@ -356,13 +356,13 @@ translate french d18s06_c478c069:
 translate french d18s06_ca24c8f3:
 
 
-    hr "Qu'est-ce que tu veux dire par \" Non\"?"
+    hr "Qu'est-ce que tu veux dire par \"Non\" ?"
 
 
 translate french d18s06_0f89cf5e:
 
 
-    sy "J'ai essayé tout ce à quoi je pouvais penser... tout ça donne dans le meilleur des cas une chance de succès de 0,3%%."
+    sy "J'ai essayé tout ce à quoi je pouvais penser... tout ça donne dans le meilleur des cas une chance de succès de 0.3%%."
 
 
 translate french d18s06_e4fd6d10:
@@ -392,7 +392,7 @@ translate french d18s06_df423365:
 translate french d18s06_ce447f4b:
 
 
-    mc "On frappe à la porte?"
+    mc "On frappe à la porte ?"
 
 
 translate french d18s06_c511493f:
@@ -410,7 +410,7 @@ translate french d18s06_599b3471:
 translate french d18s06_4a5aa1a5:
 
 
-    mc "En plus, la personne à l'intérieur appelerai la sécurité."
+    mc "En plus, la personne à l'intérieur appellerait la sécurité."
 
 
 translate french d18s06_91840010:
@@ -422,19 +422,19 @@ translate french d18s06_91840010:
 translate french d18s06_4e85cb4d:
 
 
-    mc "Bonjour?"
+    mc "Bonjour ?"
 
 
 translate french d18s06_bba20693:
 
 
-    sy "Requin terrestre!"
+    sy "Requin terrestre !"
 
 
 translate french d18s06_3cccfc57:
 
 
-    arj "Tu n'es pas assez vieille pour comprendre cette référence."
+    arj "Tu n'es pas assez vieux pour comprendre cette référence."
 
 
 translate french d18s06_cfddcade:
@@ -446,7 +446,7 @@ translate french d18s06_cfddcade:
 translate french d18s06_aecf764a:
 
 
-    mc "BONJOUR?!"
+    mc "BONJOUR ?!"
 
 
 translate french d18s06_e9671b08:
@@ -458,13 +458,13 @@ translate french d18s06_e9671b08:
 translate french d18s06_9052223b:
 
 
-    sy "C'est là qu'on mets le feu?"
+    sy "C'est là qu'on met tout le feu ?"
 
 
 translate french d18s06_766fbcc4:
 
 
-    mc "Quoi? Non!"
+    mc "Quoi ? Non !"
 
 
 translate french d18s06_dd422714:
@@ -476,25 +476,25 @@ translate french d18s06_dd422714:
 translate french d18s06_b82b80f4:
 
 
-    hr "Comment ai-je fait équipe avec ces 3 Stooges?"
+    hr "Comment ai-je fait équipe avec ces 3 Stooges ?"
 
 
 translate french d18s06_03ddde42:
 
 
-    mc "Tu n'es définitivement pas assez vieille pour..."
+    mc "Tu n'es définitivement pas assez vieux pour..."
 
 
 translate french d18s06_cfd9c478:
 
 
-    arj "Waller!"
+    arj "Waller !"
 
 
 translate french d18s06_87bcd6d7:
 
 
-    mc "Putain! OÙ?!"
+    mc "Putain ! OÙ ?!"
 
 
 translate french d18s06_993ab139:
@@ -512,19 +512,19 @@ translate french d18s06_f67dad6e:
 translate french d18s06_8615b09b:
 
 
-    arj "Eh bien, elle devrait toujours le savoir."
+    arj "Eh bien, elle devrait quand même le savoir."
 
 
 translate french d18s06_342182c1:
 
 
-    hr "Ok, où peut-on la trouver?"
+    hr "Ok, où peut-on la trouver ?"
 
 
 translate french d18s06_e9c4a4c2:
 
 
-    mc "A cette heure de la journée?{w} Elle est probablement en tournée dans mon dortoir."
+    mc "À cette heure de la journée ?{w} Elle est probablement en tournée dans mon dortoir."
 
 
 translate french d18s06_90db1d03:
@@ -542,7 +542,7 @@ translate french d18s06_35dec559:
 translate french d18s06_1473741d:
 
 
-    mc "Peut-être qu'on pourrait être comme les 3 Mousquetaires?{w} Il y en avait 4."
+    mc "Peut-être qu'on pourrait être comme les 3 Mousquetaires ?{w} Il y en avait 4."
 
 
 translate french d18s06_87f50194:
@@ -554,7 +554,7 @@ translate french d18s06_87f50194:
 translate french d18s06_90d6aef7:
 
 
-    hr "Peu importe.{w} Hé, pourquoi [mcname] ne doit-il pas porter une tenue tactique de salope?"
+    hr "Peu importe.{w} Hé, pourquoi [mcname] ne doit-il pas porter une tenue tactique de salope ?"
 
 
 translate french d18s06_f233ef6d:
@@ -566,13 +566,14 @@ translate french d18s06_f233ef6d:
 translate french d18s06_f5f84c7b:
 
 
-    mc "J'étais censé porter un costume ou quelque chose comme ça?"
+    mc "J'étais censé porter un costume ou quelque chose comme ça ?"
 
 
 translate french d18s06_74866910:
 
 
     arj "Peut-être qu'on peut en prendre un dans ton dortoir. Allons-y."
+
 
 translate french strings:
 

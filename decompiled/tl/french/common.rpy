@@ -350,7 +350,7 @@ translate french strings:
 
 
     old "Open [text] directory."
-    new "Ouvrir le répertoire [texte]."
+    new "Ouvrir le répertoire [text]."
 
 
     old "The interactive director is not enabled here."
@@ -1002,7 +1002,7 @@ translate french strings:
 
 
     old "Image [index] of [count] locked."
-    new "Image [index] de [compte] verrouillée."
+    new "Image [index] de [count] verrouillée."
 
 
     old "prev"
@@ -1098,7 +1098,7 @@ translate french strings:
 
 
     old "This computer has a problem displaying graphics: [problem]."
-    new "Cet ordinateur a un problème pour afficher les graphiques : [problème]."
+    new "Cet ordinateur a un problème pour afficher les graphiques: [problem]."
 
 
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1134,7 +1134,7 @@ translate french strings:
 
 
     old "Calibrating [name] ([i]/[total])"
-    new "Calibrage de [nom] ([i]/[total])"
+    new "Calibrage de [name] ([i]/[total])"
 
 
     old "Press or move the '[control!s]' [kind]."

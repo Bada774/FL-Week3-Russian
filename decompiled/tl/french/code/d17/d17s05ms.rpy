@@ -188,7 +188,7 @@ translate french d17s05ms_e8988ac5:
 translate french d17s05ms_90ddbdc3:
 
 
-    mh "Entre."
+    mh "Entrez."
 
 
 translate french d17s05ms_75bd1ca8:
@@ -200,7 +200,7 @@ translate french d17s05ms_75bd1ca8:
 translate french d17s05ms_fa4acade:
 
 
-    sy "Calme-toi."
+    sy "Calme."
 
 
 translate french d17s05ms_8e58feee:
@@ -224,13 +224,13 @@ translate french d17s05ms_e8ab7aaa:
 translate french d17s05ms_04102043:
 
 
-    mc "Je ne pense pas que ma vie soit assez foutue pour pouvoir boire quoique ce soit."
+    mc "Je ne pense pas que ma vie soit assez merdique pour que je boive toute la journée."
 
 
 translate french d17s05ms_60fc136c:
 
 
-    sy "Ça veut dire que tu t'attends à ce que ça soit aussi foutu?"
+    sy "Est-ce que ça veut dire que tu t'attends à ce que ça devienne si dingue ??"
 
 
 translate french d17s05ms_c1d497d2:
@@ -284,7 +284,7 @@ translate french d17s05ms_f80ba368:
 translate french d17s05ms_1c9fe717:
 
 
-    mc "Calme-toi, tu vas très bien."
+    mc "Calme-toi, tu t'en sors très bien.."
 
 
 translate french d17s05ms_2ec91354:
@@ -302,7 +302,7 @@ translate french d17s05ms_65f34967:
 translate french d17s05ms_63332afb:
 
 
-    mh "Et si on jouait aux cartes Against Humans? Voyez où nous allons à partir de là."
+    mh "Et si on jouait aux cartes contre les humains? On verra bien ce qu'on va faire ensuite.."
 
 
 translate french d17s05ms_836758cd:
@@ -320,7 +320,7 @@ translate french d17s05ms_ccabab35:
 translate french d17s05ms_2b2c20be:
 
 
-    mh "C'est les cartes Against Humans alors."
+    mh "C'est les cartes contre les humains alors."
 
 
 translate french d17s05ms_8d26754f:
@@ -338,7 +338,7 @@ translate french d17s05ms_bc9eef2a:
 translate french d17s05ms_7a67e85b:
 
 
-    mh "Tu n'as jamais joué aux cartes Against Humans?"
+    mh "Tu n'as jamais joué aux cartes contre les humains?"
 
 
 translate french d17s05ms_918bef5e:
@@ -368,13 +368,13 @@ translate french d17s05ms_448cce68:
 translate french d17s05ms_687edec7:
 
 
-    mh "Super. Nous avons alors trouvé notre Tsar."
+    mh "Super. Nous avons alors trouvé notre Card Czar."
 
 
 translate french d17s05ms_3a3eb881:
 
 
-    mh "Très bien, {i}Tsar{/i}, choisis une carte noire."
+    mh "Très bien, {i}Czar{/i}, choisis une carte noire."
 
 
 translate french d17s05ms_9f6c0018:
@@ -386,7 +386,7 @@ translate french d17s05ms_9f6c0018:
 translate french d17s05ms_cbf39a11:
 
 
-    mc "Oh, ça va être amusant. Vous devez choisir toutes les deux la carte blanche la plus odieuse, c'est ça?"
+    mc "Oh, ça va être amusant. Vous deux, vous allez devoir choisir la carte blanche la plus odieuse, hein?"
 
 
 translate french d17s05ms_43e491ee:
@@ -410,7 +410,7 @@ translate french d17s05ms_58dc21dd:
 translate french d17s05ms_f394a532:
 
 
-    mc "Et \" Les hommes aiment... Chier un morceau de crotte, l'aspirer à nouveau, et la chier encore et encore, donc en gros, tu te fous de toi-même avec ta propre merde...\""
+    mc "Et \" Les hommes aiment... Chier une partie d'une crotte, la réaspirer et la chier encore et encore, donc en gros, tu te fous en l'air avec ta propre merde...\""
 
 
 translate french d17s05ms_41880a7e:
@@ -470,7 +470,7 @@ translate french d17s05ms_0967333f:
 translate french d17s05ms_954d9612:
 
 
-    mh "Les pauvres petits."
+    mh "Le pauvre petit."
 
 
 translate french d17s05ms_d10f44ff:
@@ -500,7 +500,7 @@ translate french d17s05ms_881c4397:
 translate french d17s05ms_5484cf21:
 
 
-    sy "C'est vrai! Merci de m'avoir invité."
+    sy "C'est vrai! Merci de m'avoir invitée."
 
 
 translate french d17s05ms_30592f4d:
@@ -572,7 +572,7 @@ translate french d17s05ms_e5daed2f:
 translate french d17s05ms_4bdfe8ba:
 
 
-    mh "Ça aide de connaître des gens dans ma profession. P ur être honnête, ça aide de connaître des gens dans n'importe quelle profession."
+    mh "Ça aide de connaître des gens dans ma profession. Pour être honnête, ça aide de connaître des gens dans n'importe quelle profession."
 
 
 translate french d17s05ms_12dfbe2f:
@@ -602,19 +602,19 @@ translate french d17s05ms_a7938c7d:
 translate french d17s05ms_fc6fc7ac:
 
 
-    mc "*Étouffé* De retour."
+    mc "*Étouffé* Je suis de retour."
 
 
 translate french d17s05ms_8ef66a5c:
 
 
-    mc "De quoi avez-vous bavardé sans moi?"
+    mc "De quoi avez-vous bavardées sans moi?"
 
 
 translate french d17s05ms_2aafa8fd:
 
 
-    mh "Stacy ici me parlait de sa candidature au CPD."
+    mh "Stacy me parlait de sa candidature au CPD."
 
 
 translate french d17s05ms_4f43e9fe:
@@ -1130,7 +1130,7 @@ translate french d17s05ms_705029b0:
 translate french d17s05ms_8a8091e3:
 
 
-    mh "Je suis contente que tu aies apprécié. C'était vraiment sympa de se détendre avec vous deux aujourd'hui."
+    mh "Je suis contente que tu aies appréciée. C'était vraiment sympa de se détendre avec vous deux aujourd'hui."
 
 
 translate french d17s05ms_dd43b5b2:

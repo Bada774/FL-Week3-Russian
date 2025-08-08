@@ -2,7 +2,7 @@
 translate french d15s05_c7c01bd8:
 
 
-    mk "[mcname]. Bien, tu es venu."
+    mk "[mcname]. Bien, tu es venus."
 
 
 translate french d15s05_aa039def:
@@ -32,7 +32,7 @@ translate french d15s05_cbba9f12:
 translate french d15s05_23d530a7:
 
 
-    mc "Désolé, je suis juste énervé en général aujourd'hui. Il se trouve que vous êtes à portée."
+    mc "Désolé, je suis juste énervé aujourd'hui. Il se trouve que tu es à portée."
 
 
 translate french d15s05_c8dc9f71:
@@ -98,7 +98,7 @@ translate french d15s05_45b3b564:
 translate french d15s05_5b611cff:
 
 
-    mk "Je ne suis même pas une personne pour le gars de l'autre côté de ce mur. Je ne suis qu'un trou."
+    mk "Je ne suis même pas une personne, pour le gars de l'autre côté de ce mur. Je ne suis qu'un trou."
 
 
 translate french d15s05_c3b5b8a5:
@@ -116,7 +116,7 @@ translate french d15s05_7b674dc8:
 translate french d15s05_9a47c11d:
 
 
-    mk "Énervé? {w}Est-ce que j'ai l'air contrarié?"
+    mk "Énervée? {w}Est-ce que j'ai l'air contrariée?"
 
 
 translate french d15s05_6b4efacf:
@@ -140,7 +140,7 @@ translate french d15s05_f0ad66d3:
 translate french d15s05_6d1e9db6:
 
 
-    mk "C'est bien plus que ça. {w}C'est ce que je veux vous montrer."
+    mk "C'est bien plus que ça. {w}C'est ce que je veux te montrer."
 
 
 translate french d15s05_gtfo_17614dc7:
@@ -158,13 +158,13 @@ translate french d15s05_gtfo_7a869c57:
 translate french d15s05_gtfo_32a985b1:
 
 
-    mc "Tu ne comprends pas? Tu es dégoûtant."
+    mc "Tu ne comprends pas? Tu es dégoûtante."
 
 
 translate french d15s05_gtfo_1e349e6b:
 
 
-    mk "Vous pouvez garder tout l'argent. Ils continuent à offrir, mais je l'ai rendu."
+    mk "Tu pourras garder tout l'argent. Ils continuent à offrir, mais je les ai rendu."
 
 
 translate french d15s05_gtfo_cebfe215:
@@ -194,7 +194,7 @@ translate french d15s05_help_edc75021:
 translate french d15s05_help_aaf727b0:
 
 
-    mk "J'ai besoin que tu voies ça! J'ai besoin de toi!"
+    mk "J'ai besoin que tu vois ça! J'ai besoin de toi!"
 
 
 translate french d15s05_help_ff34d3a0:
@@ -218,7 +218,7 @@ translate french d15s05_help_85ae0836:
 translate french d15s05_help_c8b639e3:
 
 
-    mc "Mettez vos vêtements."
+    mc "Met tes vêtements."
 
 
 translate french d15s05_help_7c300ba7:
@@ -236,7 +236,7 @@ translate french d15s05_help_aea81677:
 translate french d15s05_help_52c751c4:
 
 
-    mc "Tu veux me faire plaisir, n'est-ce pas? Tu veux faire ce que je voudrais – qu'est-ce qu'AmRose voudrait que tu fasses?"
+    mc "Tu veux me faire plaisir, n'est-ce pas? Tu veux faire ce que je veux – qu'est-ce qu'AmRose voudrait que tu fasses?"
 
 
 translate french d15s05_help_4029ac24:
@@ -272,7 +272,7 @@ translate french d15s05_help_58f21dfa:
 translate french d15s05_help_f9073c10:
 
 
-    mc "Soyez un bon esclave. Ne réfléchissez pas, faites simplement ce qu'on vous dit."
+    mc "Soit une bonne esclave. Ne réfléchis pas, fait simplement ce que je te dit."
 
 
 translate french d15s05_help_15a04356:
@@ -296,7 +296,7 @@ translate french d15s05_help_45915287:
 translate french d15s05_help_b95ce373:
 
 
-    mc "Es-tu prêt à partir?"
+    mc "Es-tu prête à partir?"
 
 
 translate french d15s05_help_d04fa45d:
@@ -410,7 +410,7 @@ translate french d15s05_bj_df794594:
 translate french d15s05_bj_b9550761:
 
 
-    mct "Baise-moi. Elle avale vraiment tout."
+    mct "Putain. Elle avale vraiment tout."
 
 
 translate french d15s05_bj_fa8e4c35:
@@ -464,7 +464,7 @@ translate french d15s05_bj_4d2245ac:
 translate french d15s05_bj_25b28015:
 
 
-    mc "Tu es censé garder l'argent."
+    mc "Tu es censée garder l'argent."
 
 
 translate french d15s05_bj_4253f538:
@@ -506,7 +506,7 @@ translate french d15s05_pussyfuck_2d99e281:
 translate french d15s05_pussyfuck_88a762bb:
 
 
-    mc "Baise ta chatte vierge avec la bite de cet inconnu."
+    mc "Empale ta chatte vierge avec la bite de cet inconnu."
 
 
 translate french d15s05_pussyfuck_aabf15c1:
@@ -524,7 +524,7 @@ translate french d15s05_pussyfuck_b68fbc18:
 translate french d15s05_pussyfuck_ed76d291:
 
 
-    mc "Amène ta chatte contre la bite d'un inconnu et va te faire foutre."
+    mc "Amène ta chatte contre la bite d'un inconnu et va baise la."
 
 
 translate french d15s05_pussyfuck_93a30771:
@@ -536,7 +536,7 @@ translate french d15s05_pussyfuck_93a30771:
 translate french d15s05_pussyfuck_54cae91e:
 
 
-    mc "C'est ça. Allez jusqu'au bout. Mettez votre sale chatte en contact avec le mur."
+    mc "C'est ça. Allez jusqu'au bout. Met ta sale chatte contre le mur."
 
 
 translate french d15s05_pussyfuck_1780db0c:
@@ -572,7 +572,7 @@ translate french d15s05_pussyfuck_a4f9f94e:
 translate french d15s05_pussyfuck_77940f84:
 
 
-    mc "Frappe ta chatte jusqu'au bout sur son manche."
+    mc "Descend ta chatte jusqu'au bout sur son manche."
 
 
 translate french d15s05_pussyfuck_f4000c40:
@@ -584,7 +584,7 @@ translate french d15s05_pussyfuck_f4000c40:
 translate french d15s05_pussyfuck_5311e5de:
 
 
-    mc "Êtes-vous sous forme de contraception?"
+    mc "Es-tu sous forme de contraception?"
 
 
 translate french d15s05_pussyfuck_0bd4ebf9:
@@ -614,7 +614,7 @@ translate french d15s05_pussyfuck_14497b3e:
 translate french d15s05_pussyfuck_149076da:
 
 
-    mc "Laisse cet étranger remplir ta chatte de sa semence."
+    mc "Laisse cet étranger remplir ta chatte de sperme."
 
 
 translate french d15s05_pussyfuck_a83a7f1b:
@@ -632,7 +632,7 @@ translate french d15s05_pussyfuck_21b64958:
 translate french d15s05_pussyfuck_ad76b810:
 
 
-    mk "Il a joui et est parti, monsieur."
+    mk "Il a joui et il est parti, monsieur."
 
 
 translate french d15s05_pussyfuck_fc86e50b:
@@ -686,7 +686,7 @@ translate french d15s05_assfuck_b5b3e59f:
 translate french d15s05_assfuck_df190e85:
 
 
-    mc "Tu n'es même pas prêt à entendre ça."
+    mc "Tu n'es même pas prête à entendre ça."
 
 
 translate french d15s05_assfuck_2828de91:
@@ -752,7 +752,7 @@ translate french d15s05_assfuck_3dd7abf9:
 translate french d15s05_assfuck_6dc5afd9:
 
 
-    mc "Voulez-vous arrêter?"
+    mc "Veux-tu arrêter?"
 
 
 translate french d15s05_assfuck_467629ee:
@@ -782,7 +782,7 @@ translate french d15s05_assfuck_19f94aa0:
 translate french d15s05_assfuck_ae4e8b19:
 
 
-    mc "Gardez votre trou de cul serré contre cette bite et laissez-le faire ce qu'il veut de vous."
+    mc "Gardez ton trou de cul serré contre cette bite et laissez-le faire ce qu'il veut de toi."
 
 
 translate french d15s05_assfuck_cfd55eb9:
@@ -830,7 +830,7 @@ translate french d15s05_assfuck_ca986f78:
 translate french d15s05_assfuck_3105fcfc:
 
 
-    mk "Il est jouuuuiiiiiisssss!!!!!"
+    mk "Il jouuuuiiiiiisssss!!!!!"
 
 
 translate french d15s05_assfuck_3bdffc23:
@@ -872,7 +872,7 @@ translate french d15s05_assfuck_8caae68b:
 translate french d15s05_assfuck_3e601905:
 
 
-    mk "Peut-être que la prochaine fois je pourrai ATM quelqu'un?"
+    mk "Peut-être que la prochaine fois je pourrai faire un cul-bouche à quelqu'un?"
 
 
 translate french d15s05_assfuck_850e4776:
@@ -890,7 +890,7 @@ translate french d15s05_rimmed_1269dbb7:
 translate french d15s05_rimmed_31f96bb3:
 
 
-    mc "As-tu déjà cerclé le cul auparavant?"
+    mc "As-tu déjà leché un cul auparavant?"
 
 
 translate french d15s05_rimmed_1bba3c11:
@@ -902,7 +902,7 @@ translate french d15s05_rimmed_1bba3c11:
 translate french d15s05_rimmed_c9733e92:
 
 
-    mc "L'avez-vous déjà fait?"
+    mc "L'as tu déjà fait?"
 
 
 translate french d15s05_rimmed_480f0f3a:
@@ -962,7 +962,7 @@ translate french d15s05_rimmed_8f86db9d:
 translate french d15s05_rimmed_5281edfc:
 
 
-    mc "Sortez votre langue et avancez."
+    mc "Sort ta langue et avance."
 
 
 translate french d15s05_rimmed_85e511e1:
@@ -1106,7 +1106,7 @@ translate french d15s05_rimmed_6d02afc2:
 translate french d15s05_rimmed_7976839e:
 
 
-    mc "Enfoncer ma merde, puis lécher mon sperme sur le sol des toilettes publiques."
+    mc "Me bouffer le cul, puis lécher mon sperme sur le sol des toilettes publiques."
 
 
 translate french d15s05_rimmed_f87d6ae6:
@@ -1238,13 +1238,13 @@ translate french d15s05_end_7e0c057e:
 translate french d15s05_end_81c83e8c:
 
 
-    mk "A moins que quoi?"
+    mk "Sauf si quoi?"
 
 
 translate french d15s05_end_e99ffdee:
 
 
-    mc "À moins que tu me demandes de ne pas les prendre."
+    mc "Sauf si tu me demandes de ne pas les prendre."
 
 
 translate french d15s05_end_0845611c:
@@ -1256,7 +1256,7 @@ translate french d15s05_end_0845611c:
 translate french d15s05_end_ea866bc0:
 
 
-    mc "C'est tout. Demandez-moi gentiment. Je vais laisser vos vêtements ici. Vous pouvez repartir avec votre dignité quelque peu intacte."
+    mc "C'est tout. Demande-moi gentiment. Je vais laisser tes vêtements ici. tu pourras repartir avec ta dignité quelque peu intacte."
 
 
 translate french d15s05_end_d45fbd0e:
@@ -1298,7 +1298,7 @@ translate french d15s05_end_55310c42:
 translate french d15s05_end_5e18549a:
 
 
-    mk "Allez-y."
+    mk "Vas-y."
 
 
 translate french d15s05_end_b617b4d4:
@@ -1328,7 +1328,7 @@ translate french d15s05_end_492a452c:
 translate french d15s05_end_01791ac7:
 
 
-    mc "Quand vous sortirez d'ici, demandez l'aide d'un professionnel."
+    mc "Quand tu sortiras d'ici, demande l'aide d'un professionnel."
 
 
 translate french d15s05_end_3a03bf2f:

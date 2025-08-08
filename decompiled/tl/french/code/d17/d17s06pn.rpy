@@ -140,7 +140,7 @@ translate french d17s06pn_bd25caea:
 translate french d17s06pn_995e4868:
 
 
-    mc "Oui. Oui, c'est le cas."
+    mc "Putain Ouais, c'est le cas."
 
 
 translate french d17s06pn_fe6db62a:
@@ -152,7 +152,7 @@ translate french d17s06pn_fe6db62a:
 translate french d17s06pn_77dcebb2:
 
 
-    pw "Pense pas a ça. On verra bien de retour en bas."
+    pw "Pense pas à ça. On verra bien de retour en bas."
 
 
 translate french d17s06pn_60f763f4:
@@ -206,7 +206,7 @@ translate french d17s06pn_4b9dea94:
 translate french d17s06pn_6cd93e8a:
 
 
-    mc "Ahhh {w}Tu es tellement mouillé."
+    mc "Ahhh {w}Tu es tellement mouillée."
 
 
 translate french d17s06pn_94812e9d:
@@ -218,19 +218,19 @@ translate french d17s06pn_94812e9d:
 translate french d17s06pn_cdef5390:
 
 
-    mct "Putain! Dégoulinant et serré comme l'enfer!"
+    mct "Putain! Dégoulinante et serrée comme l'enfer!"
 
 
 translate french d17s06pn_fd41814b:
 
 
-    nk "Baise-moi! Ta queue dure est énorme!"
+    nk "Baise-moi! Avec ta queue dure est énorme!"
 
 
 translate french d17s06pn_48342ddb:
 
 
-    mc "Dis-moi que tu le veux!"
+    mc "Dis-moi que tu la veux!"
 
 
 translate french d17s06pn_f3394eff:
@@ -248,7 +248,7 @@ translate french d17s06pn_9b78eb21:
 translate french d17s06pn_05cafe76:
 
 
-    pw "Souviens-toi juste de faire gaffe, donc ne joui pas en elle."
+    pw "Souviens-toi juste de faire gaffe, donc ne jouis pas en elle."
 
 
 translate french d17s06pn_63491ffa:
@@ -272,7 +272,7 @@ translate french d17s06pn_02df8764:
 translate french d17s06pn_f48f2093:
 
 
-    nk "Je vais GIIIIICCLLEEEERRRR!!!"
+    nk "Je vais JOOOOUUUIIIRRRRRR!!!"
 
 
 translate french d17s06pn_da9fbedc:
@@ -344,7 +344,7 @@ translate french d17s06pn_a6a92c62:
 translate french d17s06pn_76fe658a:
 
 
-    nk "Je récupére."
+    nk "Je récupère."
 
 
 translate french d17s06pn_c41abca6:
@@ -356,7 +356,7 @@ translate french d17s06pn_c41abca6:
 translate french d17s06pn_a3ddb668:
 
 
-    nk "Non, non... {w} Juste bien baisé."
+    nk "Non, non... {w}Juste bien baisé."
 
 
 translate french d17s06pn_b28d48f9:
@@ -398,7 +398,7 @@ translate french d17s06pn_6faf598d:
 translate french d17s06pn_4f3f3766:
 
 
-    nk "Je ... juste je réfléchi."
+    nk "Je... je réfléchis."
 
 
 translate french d17s06pn_8aea760b:
@@ -500,7 +500,7 @@ translate french d17s06pn_978cbd83:
 translate french d17s06pn_7ec65c03:
 
 
-    mc "Hé! Il n'y a rien de mal à accepter une offre légitime si ça l'aide."
+    mc "Hé! Il n'y a rien de mal à accepter une offre légitime si ça aide."
 
 
 translate french d17s06pn_32d304d3:
@@ -620,7 +620,7 @@ translate french d17s06pn_c4d9784e:
 translate french d17s06pn_10576975:
 
 
-    pw "Laisse-moi te faciliter la tâche à tous les deux."
+    pw "Laissez-moi vous faciliter la tâche à tous les deux."
 
 
 translate french d17s06pn_a890dec3:
@@ -758,7 +758,7 @@ translate french d17s06pn_984993fc:
 translate french d17s06pn_afdffd0d:
 
 
-    mc "Oui, s'il te plaît."
+    mc "Oui, fais-toi plaisir."
 
 
 translate french d17s06pn_d3df108f:
@@ -884,7 +884,7 @@ translate french d17s06pn_1b73a469:
 translate french d17s06pn_3284ce9a:
 
 
-    mc "Tout ce que tu veux. {w}Continue juste à chevaucher mon dard."
+    mc "Tout ce que tu veux. {w}Continue juste à chevaucher ma queue."
 
 
 translate french d17s06pn_5c9127d1:
@@ -1010,7 +1010,7 @@ translate french d17s06pn_61367668:
 translate french d17s06pn_948ebfa0:
 
 
-    pw "Thruple."
+    pw "Trouple."
 
 
 translate french d17s06pn_3ffa32c1:
@@ -1022,7 +1022,7 @@ translate french d17s06pn_3ffa32c1:
 translate french d17s06pn_60dd78b4:
 
 
-    mc "Nous sommes un trio incroyablement chaud et sexy comme l'enfert."
+    mc "Nous sommes un trouple incroyablement chaud et sexy."
 
 
 translate french d17s06pn_09c28ec4:
@@ -1128,9 +1128,9 @@ translate french strings:
 
 
     old "They make a cute couple"
-    new "Ils forment un joli couple"
+    new "elles forment un joli couple"
 
 
     old "We make a good trio"
-    new "On fait un bon trio"
+    new "On fait un bon trouple"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

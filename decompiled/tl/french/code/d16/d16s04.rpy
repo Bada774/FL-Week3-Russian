@@ -44,7 +44,7 @@ translate french d16s04_699dca67:
 translate french d16s04_806b6e77:
 
 
-    mes "\"Le Patient Silencieux.\" Lydia me l'a recommandé il y a quelque temps."
+    mes "\"Le Patient Silencieux.\" Lydia me l'a recommandée il y a quelque temps."
 
 
 translate french d16s04_ad1eaa57:
@@ -62,7 +62,7 @@ translate french d16s04_d752e824:
 translate french d16s04_ed429b60:
 
 
-    mc "Rien. Juste, je suppose que je ne t'ai jamais pris pour une fille du genre fiction."
+    mc "Rien. Juste, je ne t'ai jamais pris pour une fille du genre fiction."
 
 
 translate french d16s04_7fc34c19:
@@ -80,7 +80,7 @@ translate french d16s04_8cc539ae:
 translate french d16s04_6586976a:
 
 
-    mc "Je ne t'ai jamais pris pour quelqu'un qui aimait passer beaucoup de temps dans son propre esprit, je suppose."
+    mc "Je ne t'ai jamais pris pour quelqu'un qui aimait passer beaucoup de temps dans son propre esprit."
 
 
 translate french d16s04_6743aa4e:
@@ -98,25 +98,25 @@ translate french d16s04_617f9817:
 translate french d16s04_9a3a7b2d:
 
 
-    mes "Et tu as raison, pour l'essentiel. Je ne suis pas un grand amateur de livres. Je veux faire des trucs, pas lire sur les gens qui font des trucs."
+    mes "Et tu as raison, pour l'essentiel. Je ne suis pas un grande amatrice de livres. Je veux faire des trucs, pas lire sur les gens qui font des trucs."
 
 
 translate french d16s04_1eb783f0:
 
 
-    mes "Mais j'ai été suffisamment nourri de propagande de lecture de livres par Lydia au fil des années et j'ai fini par m'effondrer, je suppose."
+    mes "Mais j'ai été suffisamment nourri de propagande de lecture de livres par Lydia au fil des années et j'ai finie par craquer, je pense."
 
 
 translate french d16s04_8b2b4c89:
 
 
-    mes "Et je ne sais pas. Cela avait l'air intéressant, alors je me suis demandé pourquoi pas?"
+    mes "Et je ne sais pas. Ca avait l'air intéressant, alors je me suis dite pourquoi pas?"
 
 
 translate french d16s04_d593c6be:
 
 
-    mc "Alors, comment ça va?"
+    mc "Alors, comment ça se passe ??"
 
 
 translate french d16s04_5961d47e:
@@ -128,13 +128,13 @@ translate french d16s04_5961d47e:
 translate french d16s04_9c2b0af4:
 
 
-    mc "Les deux, je suppose."
+    mc "Les deux, je dirai."
 
 
 translate french d16s04_6cbf2f01:
 
 
-    mes "Eh bien, ça a été intéressant. Je me souviens avoir lu des romans au lycée et c'était tellement ennuyeux."
+    mes "Eh bien, ça a été intéressant. Je me souviens avoir lue des romans au lycée et c'était tellement ennuyeux."
 
 
 translate french d16s04_7a2553bd:
@@ -158,19 +158,19 @@ translate french d16s04_9135ece0:
 translate french d16s04_f5474c42:
 
 
-    mes "Ouais. Quoi qu'il en soit, ça, heureusement, ne fait pas ça."
+    mes "Ouais. Quoi qu'il en soit, heureusement, cela ne fait pas ça.."
 
 
 translate french d16s04_f9bd9711:
 
 
-    mes "Ce que j'aime."
+    mes "C'est ce que j'aime."
 
 
 translate french d16s04_a9e6c441:
 
 
-    mes "Et ça a été… intéressant d'imaginer tout cela dans mon esprit. On pourrait même dire que ça a été amusant."
+    mes "Et c'était... intéressant d'imaginer tout cela dans mon esprit. On pourrait même dire que ça a été amusant."
 
 
 translate french d16s04_8a277c5d:
@@ -188,7 +188,7 @@ translate french d16s04_37f88c26:
 translate french d16s04_727efb9b:
 
 
-    mes "... Je te l'ai lu?"
+    mes "... Te le lire ?"
 
 
 translate french d16s04_0446baf7:
@@ -200,7 +200,7 @@ translate french d16s04_0446baf7:
 translate french d16s04_e7a121a5:
 
 
-    mc "Eh bien, voyons voir."
+    mc "Eh bien, voyons."
 
 
 translate french d16s04_770c339e:
@@ -212,13 +212,13 @@ translate french d16s04_770c339e:
 translate french d16s04_6f0962be:
 
 
-    mc "Troisièmement, imaginez-nous sur le toit de chez vous avec une bonne bouteille de vin et du fromage, en train de lire sous les étoiles. Cela me semble être un moment assez incroyable."
+    mc "Troisièmement, imagines-nous sur le toit de chez toi avec une bonne bouteille de vin et du fromage, en train de lire sous les étoiles. Cela me semble être un moment assez incroyable."
 
 
 translate french d16s04_e01d7967:
 
 
-    mes "Eh bien, toute la pollution lumineuse ici fera probablement en sorte qu'il n'y ait presque aucune étoile visible. Mais euh... ça a l'air sympa."
+    mes "Eh bien, toute la pollution lumineuse autour d'ici fera probablement en sorte qu'il n'y aura presque plus d'étoiles visibles. Mais euh… ça a l’air sympa.."
 
 
 translate french d16s04_b5862292:
@@ -236,19 +236,19 @@ translate french d16s04_976fd459:
 translate french d16s04_2fae0d8a:
 
 
-    mes "Hm?"
+    mes "Je t'écoute"
 
 
 translate french d16s04_c1a03056:
 
 
-    mc "J'ai du mal à étudier. Tous les trucs de FL et tout le reste.{w} Et les finales arrivent vite."
+    mc "J'ai du mal à étudier. Tous les trucs avec FL et tout le reste.{w} Et les éxamens arrivent vite."
 
 
 translate french d16s04_0c24fc52:
 
 
-    mc "Je me demandais si tu serais prêt à m'aider à étudier?{w} Si ce n'est pas un problème."
+    mc "Je me demandais si tu serais prête à m'aider à étudier?{w} Si ce n'est pas un problème."
 
 
 translate french d16s04_366a8bf5:
@@ -290,7 +290,7 @@ translate french d16s04_869fb62d:
 translate french d16s04_6d1546a5:
 
 
-    kb "Hé! [mcname]. Sup, mec?"
+    kb "Hé! [mcname]. Qu'est ce tu fais mec?"
 
 
 translate french d16s04_ce5b0bbc:
@@ -308,7 +308,7 @@ translate french d16s04_d50a618d:
 translate french d16s04_6d38857e:
 
 
-    mc "Humeur. Qu'est-ce que tu as fait de toute façon?"
+    mc "Humeur. Qu'est-ce que tu as fait depuis ce temps?"
 
 
 translate french d16s04_4f46d7aa:
@@ -326,7 +326,7 @@ translate french d16s04_a9bf6c3e:
 translate french d16s04_345e5edc:
 
 
-    kb "C'est de l'argent qui me met dans le cul. Ça rapporte comme de la merde."
+    kb "Moneybags mon cul. Ça rapporte presque rien."
 
 
 translate french d16s04_a3c3928e:
@@ -338,19 +338,19 @@ translate french d16s04_a3c3928e:
 translate french d16s04_7860a471:
 
 
-    kb "Ouais, c'est ce que je me dis tous les jours de ne pas me suicider."
+    kb "Ouais, c'est ce que je me dis tous les jours de ne pas me jeter par la fenêtre."
 
 
 translate french d16s04_8ef0df4f:
 
 
-    mc "A toi de ne pas te suicider."
+    mc "A toi de ne pas le faire alors."
 
 
 translate french d16s04_9c009f15:
 
 
-    kb "*Rires* Pour ne pas me suicider."
+    kb "*Rires* Pour ne pas me jeter."
 
 
 translate french d16s04_ee1225c5:
@@ -380,7 +380,7 @@ translate french d16s04_0f8a42f8:
 translate french d16s04_ae2cd861:
 
 
-    mc "Comment ça se passe avec elle, de toute façon?"
+    mc "Comment ça se passe avec elle?"
 
 
 translate french d16s04_97a27c91:
@@ -392,13 +392,13 @@ translate french d16s04_97a27c91:
 translate french d16s04_d0d3fcff:
 
 
-    kb "Je suis entré dans son cul que j'ai ensuite mangé?"
+    kb "Tu as giclé dans son cul que j'ai ensuite mangé?"
 
 
 translate french d16s04_36037676:
 
 
-    mc "...Droit."
+    mc "...Heuu...très bien."
 
 
 translate french d16s04_3449f278:
@@ -410,13 +410,13 @@ translate french d16s04_3449f278:
 translate french d16s04_14738c89:
 
 
-    kb "Intéressant? C'est foutu? Ça a réveillé quelque chose en toi?"
+    kb "Intéressant? Ça a réveillé quelque chose en toi?"
 
 
 translate french d16s04_7c42d2f9:
 
 
-    mc "Tout ce qui précède, je suppose, sans un nouveau réveil. Mais qui sait encore."
+    mc "Tout ce qui précède, sans un nouveau réveil. Mais qui sait encore."
 
 
 translate french d16s04_066ba4be:
@@ -446,7 +446,7 @@ translate french d16s04_bf42f129:
 translate french d16s04_7815532d:
 
 
-    kb "C'est une baise dramatique."
+    kb "C'est d'un dramatique."
 
 
 translate french d16s04_234ed0af:
@@ -470,19 +470,19 @@ translate french d16s04_936d7eeb:
 translate french d16s04_139ef9c1:
 
 
-    kb "Hédonisme, bébé. La vie est foutue et nous allons tous mourir."
+    kb "Hédonisme, bro. La vie est courte et nous allons tous mourir."
 
 
 translate french d16s04_9afc4bf6:
 
 
-    kb "Je dois le vivre pleinement pendant que tu es ici."
+    kb "Je dois la vivre pleinement pendant que je suis ici."
 
 
 translate french d16s04_0e475984:
 
 
-    kb "Et ne gaspille pas, ne veux pas, mon ami. Je dois recycler là où tu peux et ne rien laisser se perdre."
+    kb "Et ont ne gaspille pas, mon pote. Je dois recycler là où tu ne peux rien laisser se perdre."
 
 
 translate french d16s04_4d10bee1:
@@ -494,19 +494,20 @@ translate french d16s04_4d10bee1:
 translate french d16s04_0d371527:
 
 
-    kb "Essaye-le avant de m'éblouir."
+    kb "Essaye-le avant de m'emmerder."
 
 
 translate french d16s04_e8c5af83:
 
 
-    mc "Eh, je pense que je vais bien."
+    mc "Eh, non ça va aller."
 
 
 translate french d16s04_fc6ccd1f:
 
 
-    kb "Un jour va venir où tu devras sucer un creampie, peut-être même le tien, je ne juge pas - du cul et/ou de la chatte d'une personne que tu aimes, et je veux que tu te souviennes de ton vieux copain Kevo quand ça arrivera."
+    kb "Un jour viendra où tu devras sucer un creampie, peut-être même le tien, je ne juge pas - du cul et/ou de la chatte d'une personne que tu aimes, et je veux que tu te souviennes de ton vieux copain Kev quand ça arrivera."
+
 
 translate french d16s04_7c3a755d:
 
@@ -523,7 +524,7 @@ translate french d16s04_d6d6c7d8:
 translate french d16s04_618fb559:
 
 
-    kb "Plutôt bien. Super même. Mon Dieu, j'aime cette femme."
+    kb "Plutôt bien hein, super même. Mon Dieu, j'aime cette femme."
 
 
 translate french d16s04_13b86c32:
@@ -559,7 +560,7 @@ translate french d16s04_1f4fa4b2:
 translate french d16s04_33375ec5:
 
 
-    kb "J'aime à quel point elle est ouverte d'esprit sur les choses."
+    kb "J'aime à quel point elle est ouverte d'esprit sur ces choses."
 
 
 translate french d16s04_953e3e62:
@@ -613,19 +614,19 @@ translate french d16s04_09dcb738:
 translate french d16s04_be6b3495:
 
 
-    mc "Êtes-vous dans le programme VIP?"
+    mc "Es-tu dans le programme VIP?"
 
 
 translate french d16s04_9f3a4ad8:
 
 
-    mc "Êtes-vous dans le programme de rétention?"
+    mc "Es-tu dans le programme de rétention?"
 
 
 translate french d16s04_9c47bf8b:
 
 
-    kb "Et maintenant?"
+    kb "Le quoi?"
 
 
 translate french d16s04_a9dde11e:
@@ -679,13 +680,13 @@ translate french d16s04_fca52711:
 translate french d16s04_0b3991e2:
 
 
-    kb "Eh bien, FL a un truc appelé \"Etoile d'Or\". En gros, si vous faites un truc fétichiste sauvage, vous avez une chance d'en obtenir un."
+    kb "Eh bien, FL a un truc appelé \"Etoile d'Or\". En gros, si tu fais un truc fétichiste sauvage, tu auras une chance d'en obtenir une."
 
 
 translate french d16s04_deb4948d:
 
 
-    kb "Le principal critère est que ce que vous faites doit être assez unique et original."
+    kb "Le principal critère est que ce que te fais doit être assez unique et original."
 
 
 translate french d16s04_bf750554:
@@ -697,13 +698,13 @@ translate french d16s04_bf750554:
 translate french d16s04_35cde387:
 
 
-    mc "Et tu en as un pour avoir tété Chloé?"
+    mc "Et tu en as une pour avoir tété Chloé?"
 
 
 translate french d16s04_c68fbcba:
 
 
-    mc "Et tu en as un avec Chloé?"
+    mc "Et tu en as une avec Chloé?"
 
 
 translate french d16s04_2ff9bd83:
@@ -721,7 +722,7 @@ translate french d16s04_c1b16753:
 translate french d16s04_1526c621:
 
 
-    kb "Cela semble assez intéressant, j'ai dit quelque chose sur la façon dont vous pouvez restaurer des séquences quotidiennes avec. Oh, vous obtenez des badges sympas et des trucs de personnalisation de profil. Des réductions dans la boutique. Une priorité plus élevée sur toutes les annonces que vous publiez etc...."
+    kb "Cela semble assez intéressant, j'ai lu quelque chose sur la façon dont tu peux restaurer des séquences quotidiennes avec. Oh, tu obtiens des badges sympas et des trucs de personnalisation de profil. Des réductions dans la boutique. Une priorité plus élevée sur toutes les annonces que tu publies etc...."
 
 
 translate french d16s04_5693a819:
@@ -733,7 +734,7 @@ translate french d16s04_5693a819:
 translate french d16s04_99428ff6:
 
 
-    kb "Ouais, c'est juste ton truc de gamify list. Plutôt intelligent, IMO."
+    kb "Ouais, c'est juste un truc de gamification habituel. Plutôt intelligent, à mon avis."
 
 
 translate french d16s04_694ebda1:
@@ -745,7 +746,7 @@ translate french d16s04_694ebda1:
 translate french d16s04_3d8d5fdd:
 
 
-    mct "Il semble que les Gold Stars pour le programme de rétention étaient une sorte de test bêta."
+    mct "Il semble que les Étoiles d'Or pour le programme de rétention étaient une sorte de test bêta."
 
 
 translate french d16s04_cb724e06:
@@ -763,31 +764,31 @@ translate french d16s04_637b7c7b:
 translate french d16s04_92e0675f:
 
 
-    mct "FL m'a dit que je pouvais utiliser les Gold Stars pour éviter la punition, mais peut-être que cela a changé maintenant?"
+    mct "FL m'a dit que je pouvais utiliser les Étoiles d'Or pour éviter la punition, mais peut-être que cela a changé maintenant?"
 
 
 translate french d16s04_f0193a30:
 
 
-    kb "Ça va, mec?"
+    kb "Et ça va, mec?"
 
 
 translate french d16s04_437c9daa:
 
 
-    mc "Hm? Ouais. Ouais, je vais bien."
+    mc "Hm? Ouais. Ouais, ça va."
 
 
 translate french d16s04_cabd4770:
 
 
-    mc "Je me suis juste perdu un peu dans mes pensées."
+    mc "Je me suis perdu un peu dans mes pensées."
 
 
 translate french d16s04_bdb6cd54:
 
 
-    kb "Bien."
+    kb "Ok ok."
 
 
 translate french d16s04_4fd2cb3a:
@@ -799,7 +800,7 @@ translate french d16s04_4fd2cb3a:
 translate french d16s04_57f4a86c:
 
 
-    rn "J'étais occupé avec des choses personnelles aujourd'hui, donc il semble que j'étais un peu en retard."
+    rn "J'étais occupé avec des affaires personnelles aujourd'hui, donc il semble que je suis un peu en retard."
 
 
 translate french d16s04_8f99a0e1:
@@ -835,7 +836,7 @@ translate french d16s04_da1dc5f0:
 translate french d16s04_9a7fe382:
 
 
-    mct "Jésus-Christ, j'en ai à peine assez."
+    mct "Bon dieu, j'en ai à peine assez."
 
 
 translate french d16s04_faa5165f:
@@ -849,10 +850,11 @@ translate french d16s04_0c7bd4c0:
 
     mct "Attends... Dois-je faire ça plus tard ce soir ou maintenant?"
 
+
 translate french d16s04_f2e2abd3:
 
 
-    mct "Je veux sortir de ce putain de truc hier, mais m'en débarrasser maintenant pourrait être... gênant."
+    mct "Je veux sortir de ce putain de truc, mais m'en débarrasser maintenant pourrait être... gênant."
 
 
 translate french d16s04_2fdc61a1:
@@ -864,7 +866,7 @@ translate french d16s04_2fdc61a1:
 translate french d16s04_f6ad261b:
 
 
-    mct "Quoi maintenant?"
+    mct "Et maintenant?"
 
 
 translate french d16s04_72a6c3b3:
@@ -924,7 +926,7 @@ translate french d16s04_c6fdd931:
 translate french d16s04_a72857c3:
 
 
-    mc "Tu parles des Etoiles d'Or m'a fait réfléchir et euh... ouais."
+    mc "Tu parles des Etoiles d'Or, ça m'a fait réfléchir et euh... ouais."
 
 
 translate french d16s04_579a9020:
@@ -1014,7 +1016,7 @@ translate french d16s04_91e3ef00:
 translate french d16s04_caa4d217:
 
 
-    kb "L'honneur du scout."
+    kb "Parole de scout."
 
 
 translate french d16s04_5592b726:
@@ -1050,7 +1052,7 @@ translate french d16s04_a20cefa7:
 translate french d16s04_32aafe18:
 
 
-    mct "Merde."
+    mct "Héééé merde."
 
 
 translate french d16s04_7474b8b9:
@@ -1068,7 +1070,7 @@ translate french d16s04_ba765917:
 translate french d16s04_1d0b4138:
 
 
-    mct "Maintenant, où puis-je trouver {i}{b}trois{/b}{/i}étoiles d'or...?"
+    mct "Maintenant, où puis-je trouver {i}{b}trois{/b}{/i} étoiles d'or...?"
 
 
 translate french d16s04_86ded4ec:
@@ -1086,13 +1088,13 @@ translate french d16s04_f5d64e17:
 translate french d16s04_aa9d576a:
 
 
-    mct "Non, ça vient juste de commencer."
+    mct "Si, ça vient juste de commencer."
 
 
 translate french d16s04_1bd45c8f:
 
 
-    sy "Ok, eh bien, j'ai quelque chose auquel je dois aller."
+    sy "Ok, eh bien, il y a un endroit où je dois aller.."
 
 
 translate french d16s04_b0435d59:
@@ -1104,7 +1106,7 @@ translate french d16s04_b0435d59:
 translate french d16s04_62590352:
 
 
-    mct "\"Chose\"?"
+    mct "\"Un endroit\"?"
 
 
 translate french d16s04_d881593e:

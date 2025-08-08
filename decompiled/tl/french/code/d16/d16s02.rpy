@@ -8,7 +8,7 @@ translate french d16s02_0eb8c9ee:
 translate french d16s02_fad13f3c:
 
 
-    arj "Vraiment? Cela me rend un peu anxieux, pour être honnête. J'ai désactivé toutes mes notifications."
+    arj "Vraiment? Cela me rend un peu anxieuse, pour être honnête. J'ai désactivée toutes mes notifications."
 
 
 translate french d16s02_79dba188:
@@ -146,7 +146,7 @@ translate french d16s02_8a1c74f8:
 translate french d16s02_5528ab4e:
 
 
-    mc "Oh, oh! Bon Dieu. Désolé. Ralentissez votre rythme aujourd'hui."
+    mc "Oh, oh! Bon Dieu. Désolé. Ralentis ton rythme aujourd'hui."
 
 
 translate french d16s02_57068398:
@@ -188,13 +188,13 @@ translate french d16s02_318d1c64:
 translate french d16s02_9638e18e:
 
 
-    mc "Étendez-vous pour moi."
+    mc "Écarte-toi pour moi."
 
 
 translate french d16s02_3b0235b8:
 
 
-    mc "Pouvez-vous vous étendre pour moi?"
+    mc "Peux-tu t'écartée pour moi?"
 
 
 translate french d16s02_1394344b:

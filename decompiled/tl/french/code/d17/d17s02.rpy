@@ -32,7 +32,7 @@ translate french d17s02_5792cbc4:
 translate french d17s02_eed7da57:
 
 
-    vw "Quoi!? Quelles sont les nouvelles?? Pouvez-vous venir maintenant?"
+    vw "Quoi!? Quelles sont les nouvelles?? Peux-tu venir maintenant?"
 
 
 translate french d17s02_374e2fbf:
@@ -44,13 +44,13 @@ translate french d17s02_374e2fbf:
 translate french d17s02_03c5ef27:
 
 
-    mc "Bien sûr, je serai là dans 30 heures"
+    mc "Bien sûr, je serai là dans 30 minutes"
 
 
 translate french d17s02_be991112:
 
 
-    vw "Vous avez le temps pour une visite à domicile?"
+    vw "Tu as le temps pour une visite à domicile?"
 
 
 translate french d17s02_3b3d85e6:
@@ -86,13 +86,13 @@ translate french replay_d17s02_cafec360:
 translate french replay_d17s02_5db09cbc:
 
 
-    mc "Eh bien, putain. Je viens d'entrer. Je ne prends même pas quelque chose à boire?"
+    mc "Bon, zut. Je viens d'arriver. Je n'ai même pas droit à quelque chose à boire?"
 
 
 translate french replay_d17s02_e46105de:
 
 
-    vw "Oh, je suis vraiment désolé. C'est juste que—"
+    vw "Oh, je suis vraiment désolée. C'est juste que—"
 
 
 translate french replay_d17s02_155a2f91:
@@ -116,7 +116,7 @@ translate french replay_d17s02_2fbb7006:
 translate french replay_d17s02_43f9529e:
 
 
-    vw "Oh mon Dieu, j'ai tout gâché!"
+    vw "Oh mon Dieu, j'ai tout gâchée!"
 
 
 translate french replay_d17s02_68804eff:
@@ -176,7 +176,7 @@ translate french replay_d17s02_7d10f966:
 translate french replay_d17s02_f95fb9ae:
 
 
-    vw "Oh, c'est vraiment génial! Vous pourrez l'aider à m'écouter et à servir de médiateur."
+    vw "Oh, c'est vraiment génial! Tu pourras l'aider à m'écouter et à servir de médiateur."
 
 
 translate french replay_d17s02_c76dbc9c:
@@ -188,7 +188,7 @@ translate french replay_d17s02_c76dbc9c:
 translate french replay_d17s02_04a7c106:
 
 
-    vw "Tu t'en sortiras très bien. Je te fais confiance. Et étant donné qu'elle t'a choisi pour ça, elle doit vraiment te faire confiance aussi.{w} Quand est-elle prête à parler?"
+    vw "Tu t'en sortiras très bien. Je te fais confiance. Et étant donné qu'elle t'a choisi pour ça, elle doit vraiment te faire confiance aussi.{w} Quand serait-elle prête à parler?"
 
 
 translate french replay_d17s02_52ed006c:
@@ -206,7 +206,7 @@ translate french replay_d17s02_751f8ae9:
 translate french replay_d17s02_4f3474da:
 
 
-    vw "À tout moment. Faites-moi savoir quand et où et je serai là."
+    vw "À tout moment. Fait-moi savoir où et quand et je serai là."
 
 
 translate french replay_d17s02_7158eb1c:
@@ -236,13 +236,13 @@ translate french replay_d17s02_4fa6b770:
 translate french replay_d17s02_f5bd4db7:
 
 
-    mc "Faites attention. Vous n'aurez qu'une seule chance."
+    mc "Faites attention. Tu n'auras qu'une seule chance."
 
 
 translate french replay_d17s02_9af9da82:
 
 
-    vw "Je le serai. Pensez-vous que je dois faire quelque chose pour me préparer?"
+    vw "Je le sais. Penses-tu que je dois faire quelque chose pour me préparer?"
 
 
 translate french replay_d17s02_6455b73c:
@@ -260,7 +260,7 @@ translate french replay_d17s02_c89e0947:
 translate french replay_d17s02_2e5a2c67:
 
 
-    mc "Je pense que tu dois apprendre à être un peu plus... ouvert à l'écoute."
+    mc "Je pense que tu dois apprendre à être un peu plus... ouverte à l'écoute."
 
 
 translate french replay_d17s02_01a92e8d:
@@ -272,7 +272,7 @@ translate french replay_d17s02_01a92e8d:
 translate french replay_d17s02_8d69b040:
 
 
-    mc "J'ai remarqué que vous pouvez parfois être très intimidant et énergique avec ce que vous voulez."
+    mc "J'ai remarqué que tu peux parfois être très intimidante et énergique avec ce que tu veux."
 
 
 translate french replay_d17s02_f2700582:
@@ -284,13 +284,13 @@ translate french replay_d17s02_f2700582:
 translate french replay_d17s02_b6eccd10:
 
 
-    vw "Et alors? Dois-je être soumis? Pourquoi dois-je être..."
+    vw "Et alors? Dois-je être soumise? Pourquoi dois-je être..."
 
 
 translate french replay_d17s02_53ba7708:
 
 
-    mc "Eh bien, ce n'est pas soumis—"
+    mc "Eh bien, ce n'est pas soumise—"
 
 
 translate french replay_d17s02_c089cc68:
@@ -308,7 +308,7 @@ translate french replay_d17s02_b7f7559b:
 translate french replay_d17s02_ff6bdcbc:
 
 
-    vw "Étonnamment perspicace? Je sais. J'ai essayé de comprendre ce que je pouvais faire pour... grandir, je suppose.{w} Et je veux que tu m'apprennes."
+    vw "Étonnamment perspicace? Je sais. J'ai essayée de comprendre ce que je pouvais faire pour... grandir, je suppose.{w} Et je veux que tu m'apprennes."
 
 
 translate french replay_d17s02_9e7c094c:
@@ -344,7 +344,7 @@ translate french replay_d17s02_5dfa3cab:
 translate french replay_d17s02_b44e752d:
 
 
-    mc "D'accord, alors... Laissez-moi comprendre.{w} Vous voulez que je vous domine pour que vous puissiez apprendre à être plus \"soumise\" dans vos relations personnelles et donner plus de contrôle aux gens."
+    mc "D'accord, alors... Laissez-moi comprendre.{w} Tu veux que je te domine pour que tu puisses apprendre à être plus \"soumise\" dans tes relations personnelles et donner plus de contrôle aux gens."
 
 
 translate french replay_d17s02_5df320ab:
@@ -368,7 +368,7 @@ translate french replay_d17s02_cdd0b035:
 translate french replay_d17s02_7ee9cf6f:
 
 
-    mct "Mais c'est {i}c'est{/i} un peu bizarre."
+    mct "Même si {i}c'est{/i} un peu bizarre."
 
 
 translate french replay_d17s02_cd16eeee:
@@ -410,7 +410,7 @@ translate french replay_d17s02_dbd3ea4e:
 translate french replay_d17s02_76a1e1a2:
 
 
-    mc "Eh bien, vous avez certainement un côté persuasif à votre égard."
+    mc "Eh bien, tu as certainement un côté persuasif à ton égard."
 
 
 translate french replay_d17s02_20db13e2:
@@ -434,7 +434,7 @@ translate french replay_d17s02_cbfe82a9:
 translate french replay_d17s02_29876a0a:
 
 
-    mc "Que je me lâche? Vous êtes sûr de pouvoir me gérer?"
+    mc "Que je me lâche? Tu es sûr de pouvoir me gérer?"
 
 
 translate french replay_d17s02_4e328013:
@@ -656,7 +656,7 @@ translate french d17s02_vw_cockworship_4d52808f:
 translate french d17s02_vw_fucking_e35203c6:
 
 
-    mc "Je vais te baiser à table, et tu vas la prendre. Compris?"
+    mc "Je vais te baiser sur la table, et tu vas la prendre. Compris?"
 
 
 translate french d17s02_vw_fucking_1552c749:
@@ -680,7 +680,7 @@ translate french d17s02_vw_fucking_f06a99e2:
 translate french d17s02_vw_fucking_1d933d9e:
 
 
-    vw "Tu sais, je portais les chaussures dans lesquelles tu es entré."
+    vw "Tu sais, je portais les chaussures dans lesquelles tu as giclé."
 
 
 translate french d17s02_vw_fucking_fdad1b11:
@@ -722,7 +722,7 @@ translate french d17s02_vw_fucking_b647c696:
 translate french d17s02_vw_fucking_2d541ac9:
 
 
-    vw "Oui! Étirez-moi! Mon Dieu, ça fait du bien."
+    vw "Oui! Étire-moi! Mon Dieu, ça fait du bien."
 
 
 translate french d17s02_vw_fucking_c61f130f:

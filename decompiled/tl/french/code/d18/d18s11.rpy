@@ -362,7 +362,7 @@ translate french d18s11_bar_eeb06356:
 translate french d18s11_bar_8802af05:
 
 
-    "Barman" "Je ne dirais pas ça.{w} Écoute, tu veux que je t'appelle un taxi ou quelque chose comme ça avant qu'ils ne t'emmene en cellule de dégrisement?"
+    "Barman" "Je ne dirais pas ça.{w} Écoute, tu veux que je t'appelle un taxi ou quelque chose comme ça avant qu'ils ne t'emmènent en cellule de dégrisement?"
 
 
 translate french d18s11_bar_83d2babf:

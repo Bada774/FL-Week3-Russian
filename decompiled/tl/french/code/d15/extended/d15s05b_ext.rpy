@@ -110,13 +110,13 @@ translate french d15s05b_ext_8309b74e:
 translate french d15s05b_ext_a5c32a35:
 
 
-    pw "Je ne fais pas de labels. Je suis juste moi. J'aime baiser là où les gens pourraient me voir."
+    pw "je ne me met pas d'étiquettes. Je suis juste moi. J'aime baiser là où les gens pourraient me voir."
 
 
 translate french d15s05b_ext_69402f21:
 
 
-    mc "Et exhiber les gens en public."
+    mc "Et t'exhiber devant les gens en public."
 
 
 translate french d15s05b_ext_1e348f28:
@@ -230,7 +230,7 @@ translate french d15s05b_ext_531fcafe:
 translate french d15s05b_ext_bb8bcb4e:
 
 
-    mc "J'aime le son de ça."
+    mc "J'aime le son que ça fait."
 
 
 translate french d15s05b_ext_547c778d:
@@ -302,7 +302,7 @@ translate french d15s05b_ext_b392aabd:
 translate french d15s05b_ext_9112a628:
 
 
-    pw "C'est le maître du fisting."
+    pw "C'est le maître du fist."
 
 
 translate french d15s05b_ext_518e4b70:
@@ -368,7 +368,7 @@ translate french d15s05b_ext_979fcb2a:
 translate french d15s05b_ext_a47374b6:
 
 
-    nk "Le contrôle des naissances nuit à mes hormones, donc je ne le prends pas."
+    nk "La pilule nuit à mes hormones, donc je ne la prends pas."
 
 
 translate french d15s05b_ext_97e3519d:
@@ -806,7 +806,7 @@ translate french d15s05b_fisto_fae6f280:
 translate french d15s05b_fisto_51e34da1:
 
 
-    mc "Elle était fascinée par l'idée, mais n'a jamais essayé le fisting ou le sexe anal."
+    mc "Elle était fascinée par l'idée, mais n'a jamais essayé le fist ou le sexe anal."
 
 
 translate french d15s05b_fisto_7cbcd1d2:
@@ -926,7 +926,7 @@ translate french d15s05b_fisto_5949db7e:
 translate french d15s05b_fisto_3a940123:
 
 
-    nk "Est-ce que c'est comme un hareng rouge ou plutôt comme du Gefilte Fish?"
+    nk "Est-ce que c'est comme un hareng rouge ou plutôt comme du Poisson gefilte?"
 
 
 translate french d15s05b_fisto_05500ff6:
@@ -1064,7 +1064,7 @@ translate french d15s05b_fisto_fe13b30d:
 translate french d15s05b_fisto_e9a477b3:
 
 
-    pw "FAITES-LE{w} ENCORE!!"
+    pw "FAIT-LE{w} ENCORE!!"
 
 
 translate french d15s05b_fisto_f9ab0fe1:
@@ -1100,7 +1100,7 @@ translate french d15s05b_fisto_7e60b93c:
 translate french d15s05b_fisto_8e04ab95:
 
 
-    pw "Putain oh putain putain putain putain..."
+    pw "Putain de...oh putain, putain, putain, putain..."
 
 
 translate french d15s05b_fisto_27b942ae:
@@ -1208,7 +1208,7 @@ translate french d15s05b_lesbians_294377ac:
 translate french d15s05b_lesbians_3370d101:
 
 
-    nk "D'accord.{w} Vous l'avez demandé."
+    nk "D'accord.{w} Tu l'as demandé."
 
 
 translate french d15s05b_lesbians_nora_7b5c27b7:
@@ -1286,7 +1286,7 @@ translate french d15s05b_lesbians_nora_d9a57b1c:
 translate french d15s05b_lesbians_nora_bdec1f34:
 
 
-    nk "D'accord. Maintenant je suis prêt."
+    nk "D'accord. Maintenant je suis prête."
 
 
 translate french d15s05b_lesbians_nora_4e895601:
@@ -1298,7 +1298,7 @@ translate french d15s05b_lesbians_nora_4e895601:
 translate french d15s05b_lesbians_nora_455eb680:
 
 
-    pw "Laissez-le."
+    pw "Laisse-le."
 
 
 translate french d15s05b_lesbians_nora_26babacf:
@@ -1322,7 +1322,7 @@ translate french d15s05b_lesbians_nora_860ffb78:
 translate french d15s05b_lesbians_nora_93f00841:
 
 
-    nk "Comment veux-tu m'emmener?"
+    nk "Comment veux-tu me prendre?"
 
 
 translate french d15s05b_lesbians_nora_f8a6117d:
@@ -1352,7 +1352,7 @@ translate french d15s05b_lesbians_nora_7eb76a67:
 translate french d15s05b_lesbians_nora_98af7c21:
 
 
-    pw "Cette!"
+    pw "Ca!"
 
 
 translate french d15s05b_lesbians_nora_2b062beb:
@@ -1382,7 +1382,7 @@ translate french d15s05b_lesbians_nora_818c0623:
 translate french d15s05b_lesbians_nora_48ebb944:
 
 
-    nk "JE L'AIME!"
+    nk "J'AIME CA!"
 
 
 translate french d15s05b_lesbians_nora_ebc2e5c9:
@@ -1400,13 +1400,13 @@ translate french d15s05b_lesbians_nora_4ed7f149:
 translate french d15s05b_lesbians_nora_81edbdb3:
 
 
-    nk "Très bien.{w} Vous l'avez demandé."
+    nk "Très bien.{w} Tu l'as demandé."
 
 
 translate french d15s05b_lesbians_polly_7d79f888:
 
 
-    nk "Tu es sûr d'être prêt pour ça?"
+    nk "Tu es sûr d'être prête pour ça?"
 
 
 translate french d15s05b_lesbians_polly_1eddf4ba:
@@ -1424,7 +1424,7 @@ translate french d15s05b_lesbians_polly_57499fdd:
 translate french d15s05b_lesbians_polly_421fdccb:
 
 
-    pw "Oui s'il vous plait!"
+    pw "Oui s'il te plait!"
 
 
 translate french d15s05b_lesbians_polly_b5a954e7:
@@ -1454,7 +1454,7 @@ translate french d15s05b_lesbians_polly_6695827a:
 translate french d15s05b_lesbians_polly_2c621b20:
 
 
-    mct "Bon sang.{w} Nous sommes vraiment chanceux si personne n'était assez proche pour entendre ça."
+    mct "Bon sang.{w} Nous sommes vraiment chanceux que personne n'est assez proche pour entendre ça."
 
 
 translate french d15s05b_lesbians_polly_3240e03f:
@@ -1478,7 +1478,7 @@ translate french d15s05b_lesbians_polly_501c02c2:
 translate french d15s05b_lesbians_polly_edec9178:
 
 
-    pw "S'il vous plaît, s'il vous plaît!"
+    pw "S'il te plaît, s'il te plaît!"
 
 
 translate french d15s05b_lesbians_polly_6b5e412e:
@@ -1592,7 +1592,7 @@ translate french d15s05b_post_lesbians_549c179b:
 translate french d15s05b_post_lesbians_3a1e2397:
 
 
-    pw "Il serait chaud s'ils le faisaient."
+    pw "Ce serait chaud s'ils le faisaient."
 
 
 translate french d15s05b_post_lesbians_2463a56c:
@@ -1610,7 +1610,7 @@ translate french d15s05b_post_lesbians_51b65a78:
 translate french d15s05b_post_lesbians_eaf0bd61:
 
 
-    nk "Je suis juste un peu confus.{w} Cela ne me dérange pas d'être vu si je suis attaché ou autre..."
+    nk "Je suis juste un peu confuse.{w} Cela ne me dérange pas d'être vu si je suis attachée ou autre..."
 
 
 translate french d15s05b_post_lesbians_f705e0fc:
@@ -1628,7 +1628,7 @@ translate french d15s05b_post_lesbians_91f0d73d:
 translate french d15s05b_post_lesbians_775135a8:
 
 
-    pw "Je pense que je sais quelque chose qui te ferait changer d'avis."
+    pw "Je pense que, je sais quelque chose qui te ferait changer d'avis."
 
 
 translate french d15s05b_post_lesbians_4d9ff9e8:
@@ -1670,7 +1670,7 @@ translate french d15s05b_post_lesbians_f99b685b:
 translate french d15s05b_post_lesbians_88bfa5dd:
 
 
-    nk "À moins que nous ne vous maîtrisions, ne vous ligotions, ne vous bandions les yeux et-"
+    nk "À moins que nous te maîtrisions, te ligotions, te bandions les yeux et-"
 
 
 translate french d15s05b_post_lesbians_fd1e1cae:
@@ -1748,7 +1748,7 @@ translate french d15s05b_pegging_2b35b6fe:
 translate french d15s05b_pegging_eb153f39:
 
 
-    nk "Euh, je pense que je veux être celui qui te prépare.{w} Me laisserais-tu?"
+    nk "Euh, je pense que je veux être celle qui te prépare.{w} Me laisserais-tu?"
 
 
 translate french d15s05b_pegging_995ea323:
@@ -1796,7 +1796,7 @@ translate french d15s05b_pegging_7baa7554:
 translate french d15s05b_pegging_beb9f363:
 
 
-    nk "Eh bien, pas sans votre consentement préalable..."
+    nk "Eh bien, pas sans ton consentement préalable..."
 
 
 translate french d15s05b_pegging_deab4752:
@@ -1874,7 +1874,7 @@ translate french d15s05b_pegging_14beed5e:
 translate french d15s05b_pegging_a24f1212:
 
 
-    pw "D'accord, mais sois doux-"
+    pw "D'accord, mais sois douce-"
 
 
 translate french d15s05b_pegging_76e0e410:
@@ -1892,7 +1892,7 @@ translate french d15s05b_pegging_d192fcd6:
 translate french d15s05b_pegging_d7c22cd3:
 
 
-    nk "Trop? Est-ce que j'ai votre attention maintenant?"
+    nk "Trop? Est-ce que j'ai ton attention maintenant?"
 
 
 translate french d15s05b_pegging_1396cf78:
@@ -1922,7 +1922,7 @@ translate french d15s05b_pegging_417b8570:
 translate french d15s05b_pegging_ab331cb0:
 
 
-    mc "Eh bien, ils disent que ce n'est pas la taille, c'est la façon dont vous l'utilisez. {w} Remuez-le ou quelque chose comme ça."
+    mc "Eh bien, ils disent que ce n'est pas la taille, c'est la façon dont tu l'utilises. {w} Remues-le ou quelque chose comme ça."
 
 
 translate french d15s05b_pegging_b75ccc3e:
@@ -1976,7 +1976,7 @@ translate french d15s05b_pegging_d16c079a:
 translate french d15s05b_pegging_2f352855:
 
 
-    mc "Ça va me donner- *halètement*"
+    mc "Ça me donnera- *halètement*"
 
 
 translate french d15s05b_pegging_8cf4945f:
@@ -2018,7 +2018,7 @@ translate french d15s05b_pegging_3db23076:
 translate french d15s05b_pegging_4d9b9fb2:
 
 
-    pw "OH FUCK!{w} C'est l'endroit!!!"
+    pw "OH PUTAIN!{w} C'est l'endroit!!!"
 
 
 translate french d15s05b_pegging_89237db7:
@@ -2060,7 +2060,7 @@ translate french d15s05b_pegging_97583bd2:
 translate french d15s05b_pegging_6b9716f6:
 
 
-    pw "Je vous aime tous les deux."
+    pw "Je vous aimes tous les deux."
 
 
 translate french d15s05b_spitroast_230a1cb3:
@@ -2120,7 +2120,7 @@ translate french d15s05b_spitroast_2a5e867f:
 translate french d15s05b_spitroast_93c020c1:
 
 
-    nk "Oui, mais je veux que vous compreniez le plaisir qu'une femme peut obtenir - que j'éprouve - en suçant une bite."
+    nk "Oui, mais je veux que tu comprennes le plaisir qu'une femme peut obtenir - que j'éprouve - en suçant une bite."
 
 
 translate french d15s05b_spitroast_3f1ca3d5:
@@ -2162,7 +2162,7 @@ translate french d15s05b_spitroast_bdd89754:
 translate french d15s05b_spitroast_6a729e73:
 
 
-    mc "Pile ou Face?{w} Vous avez sa tête. J'ai ses fesses."
+    mc "Pile ou Face?{w} Tu as sa tête. J'ai ses fesses."
 
 
 translate french d15s05b_spitroast_37861dbc:
@@ -2180,13 +2180,13 @@ translate french d15s05b_spitroast_82fa97ee:
 translate french d15s05b_spitroast_eeabfc6b:
 
 
-    pw "Est-ce que ça te fait quelque chose?{w} J'ai l'impression que je pourrais être remplacé par une putain de machine."
+    pw "Est-ce que ça te fait quelque chose?{w} J'ai l'impression que je pourrais être remplacée par une putain de machine."
 
 
 translate french d15s05b_spitroast_c66428a4:
 
 
-    mc "Nous pourrions tous le faire, mais c'est la connexion humaine qui transforme le simple mécanique en incroyablement sexy."
+    mc "Nous pourrions tous le faire, mais c'est la connexion humaine qui transforme le simple mécanisme en incroyablement sexy."
 
 
 translate french d15s05b_spitroast_578649db:
@@ -2216,13 +2216,13 @@ translate french d15s05b_spitroast_1eddf4ba:
 translate french d15s05b_spitroast_2d2973c8:
 
 
-    mc "Peux-tu voir la façon dont ta bite la pénètre?"
+    mc "Peux-tu voir la façon dont elle suce ta bite?"
 
 
 translate french d15s05b_spitroast_ba838bb9:
 
 
-    mc "Pouvez-vous imaginer ce que cela doit ressentir pour elle?"
+    mc "Peux-tu imaginer ce qu'elle ressent pour elle?"
 
 
 translate french d15s05b_spitroast_dee2a853:
@@ -2336,7 +2336,7 @@ translate french d15s05b_end_a680def6:
 translate french d15s05b_end_3d511583:
 
 
-    pw "J'aime le son de ça."
+    pw "J'aime ce que j'entend."
 
 
 translate french d15s05b_end_cbfdda06:
@@ -2348,7 +2348,7 @@ translate french d15s05b_end_cbfdda06:
 translate french d15s05b_end_4ea91313:
 
 
-    mct "Oh, eh bien...{w} Tant mieux pour eux."
+    mct "Oh, eh bien...{w} Tant mieux pour elles."
 
 
 translate french d15s05b_end_516cf05b:
@@ -2372,7 +2372,7 @@ translate french d15s05b_end_410504b3:
 translate french d15s05b_end_a8785a0e:
 
 
-    mct "J'espère que les filles en auront de bons points."
+    mct "J'espère que les filles auront de bons points."
 
 
 translate french d15s05b_end_37cd19c0:
@@ -2392,11 +2392,11 @@ translate french strings:
 
 
     old "Heads"
-    new "Têtes"
+    new "Face"
 
 
     old "Tails"
-    new "Queues"
+    new "Pile"
 
 
     old "Get Pegged by Nora"

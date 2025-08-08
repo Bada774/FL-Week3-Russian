@@ -1,516 +1,430 @@
 
 translate french d18s11b_ext_c207e5d0:
 
-
     mct "Bon sang oui. J'adore ce film."
 
 
 translate french d18s11b_ext_ce4be831:
-
 
     "TV" "Attends une minute. Après qu'on soit ensemble, tu t'es faufilé dans la maison d'un mec?"
 
 
 translate french d18s11b_ext_58246c33:
 
-
     mct "Du bon dialogue et du crime pur et dur. C'est exactement ce que le médecin m'a prescrit."
 
 
 translate french d18s11b_ext_c8dddaa7:
-
 
     "TV" "Ouais. Je suis retourné à mon bureau et j'ai découvert que tu avais pris mon arme..."
 
 
 translate french d18s11b_ext_1c96c631:
 
-
     mct "Je fais juste ce que le juge m'a demandé de faire. Je vais briser cette salope à coup de bite."
 
 
 translate french d18s11b_ext_0bdd862b:
-
 
     "TV" "Tu fais ça?"
 
 
 translate french d18s11b_ext_df05a35f:
 
-
     mct "J'emmerde la juge. J'emmerde Lydia. J'emmerde tout le monde."
 
 
 translate french d18s11b_ext_38840e71:
-
 
     "TV" "C'est mon travail."
 
 
 translate french d18s11b_ext_4bc74166:
 
-
     mct "Je vais juste libérer toute ma colère et mon dégoût jusqu'à ce que je sois trop épuisé pour souffrir davantage."
 
 
 translate french d18s11b_ext_d34b6bcc:
-
 
     "TV" "Tu as fait ça ce soir-là?"
 
 
 translate french d18s11b_ext_72f130bd:
 
-
     mct "Putain de salope. Elle va avoir plus que ce qu'elle a demandé."
 
 
 translate french d18s11b_ext_2521f265:
-
 
     "TV" "Eh bien, le gars n'est jamais rentré à la maison."
 
 
 translate french d18s11b_ext_8403e866:
 
-
     mct "Putain. Qu'est-ce que j'attends? Si elle n'est pas encore là, elle ne viendra pas ici."
 
 
 translate french d18s11b_ext_3f048ae4:
-
 
     "TV" "Mais je suis assis sur son canapé dans le noir, tenant mon pistolet paralysant."
 
 
 translate french d18s11b_ext_85b0cceb:
 
-
     mct "Peut-être ailleurs. Je devrais appeler cette pute et lui demander où est cette vieille conne."
 
 
 translate french d18s11b_ext_de857251:
-
 
     "TV" "Toute la maison sent le pipi de chat."
 
 
 translate french d18s11b_ext_2c46453b:
 
-
     mct "Alors je pourrai les baiser tous les deux jusqu'au point de rupture."
 
 
 translate french d18s11b_ext_e54f7cad:
-
 
     "TV" "Et après quelques heures, je pense..."
 
 
 translate french d18s11b_ext_930de9ee:
 
-
     mct "Qu'est-ce que je fais?"
 
 
 translate french d18s11b_ext_476a2fa2:
-
 
     mct "J'attends ici qu'une salope riche rentre à la maison pour pouvoir réaliser ses fantasmes les plus sombres."
 
 
 translate french d18s11b_ext_2ccc3331:
 
-
     mct "En rejetant ma colère sur elle?"
 
 
 translate french d18s11b_ext_56dff7fa:
-
 
     mct "Ce n'est pas moi."
 
 
 translate french d18s11b_ext_4f5cfb1b:
 
-
     mct "C'était une très mauvaise idée."
 
 
 translate french d18s11b_ext_7c13c1a7:
-
 
     mct "Je devrais sortir d'ici."
 
 
 translate french d18s11b_ext_424f5984:
 
-
     mct "Oh merde. Qu'est-ce que c'est?"
 
 
 translate french d18s11b_ext_f44e66ba:
-
 
     mct "Je suppose que je ne pars pas encore."
 
 
 translate french d18s11b_ext_9a9dc60c:
 
-
     mct "Je vais juste rester dans l'ombre et écouter."
 
 
 translate french d18s11b_ext_9c175c63:
-
 
     mct "Peut-être que je peux juste me faufiler vers la sortie..."
 
 
 translate french d18s11b_ext_f4bdf781:
 
-
     jdg "Eh bien, ça a été amusant."
 
 
 translate french d18s11b_ext_cf41ffea:
-
 
     "Voix masculine" "C'est vrai. Que dirais-tu de me laisser prendre un dernier verre?"
 
 
 translate french d18s11b_ext_a260a60d:
 
-
     jdg "Tu ne penses pas que tu en as assez."
 
 
 translate french d18s11b_ext_ccde3962:
-
 
     "Voix masculine" "Alors peut-être juste un café."
 
 
 translate french d18s11b_ext_8c6f0801:
 
-
     jdg "Bien. Allez."
 
 
 translate french d18s11b_ext_d2de97bd:
-
 
     "Voix masculine" "Tu as du Baileys?"
 
 
 translate french d18s11b_ext_a75f96e3:
 
-
     "Voix masculine" "Peut-être qu'on pourrait préparer ces cafés irlandais."
 
 
 translate french d18s11b_ext_d1650546:
-
 
     jdg "Hein?{w} Baise-moi."
 
 
 translate french d18s11b_ext_1da25ab4:
 
-
     "Voix masculine" "C'est de ça que je parle. Pourquoi ne pas sauter-"
 
 
 translate french d18s11b_ext_d411bbb5:
-
 
     "Voix masculine" "Ça va? Qu'est-ce qu'il y a?"
 
 
 translate french d18s11b_ext_1616e968:
 
-
     jdg "Eh bien, tu ferais mieux de le frapper."
 
 
 translate french d18s11b_ext_800093ff:
-
 
     "Voix masculine" "Qui?"
 
 
 translate french d18s11b_ext_25a64127:
 
-
     mc "Je ne voulais pas interrompre ton rendez-vous."
 
 
 translate french d18s11b_ext_31699d8a:
-
 
     jdg "C'était nul de toute façon. Maintenant ça a l'air plus intéressant."
 
 
 translate french d18s11b_ext_4b60c492:
 
-
     mc "Je n'ai jamais mis quelqu'un KO. Tu penses qu'il va bien?"
 
 
 translate french d18s11b_ext_b0f1bde9:
-
 
     mc "Merde! Je sors d'ici!"
 
 
 translate french d18s11b_ext_c50b0888:
 
-
     jdg "Eh bien...décevant."
 
 
 translate french d18s11b_ext_91fc92bf:
-
 
     mc "Putain. C'était proche."
 
 
 translate french d18s11b_ext_9206ff75:
 
-
     mc "J'ai besoin d'un verre là."
 
 
 translate french d18s11b_continue_fbca1f71:
-
 
     jdg "Il va bien. Il a tellement bu que tu aurais pu le bousculer."
 
 
 translate french d18s11b_continue_9943d8e7:
 
-
     mc "Désolé. Mauvais timing. Je devrais partir."
 
 
 translate french d18s11b_continue_7aac5174:
-
 
     jdg "C'est ce que tu crois? Non."
 
 
 translate french d18s11b_continue_11455b53:
 
-
     mc "Quoi?"
 
 
 translate french d18s11b_continue_33b4026f:
-
 
     jdg "Attache-le."
 
 
 translate french d18s11b_continue_a49ed4f8:
 
-
     mc "Okay."
 
 
 translate french d18s11b_continue_4c2ac47c:
-
 
     jdg "Oh, et tu ferais mieux de m'attacher aussi."
 
 
 translate french d18s11b_continue_427ebf79:
 
-
     mc "Meh. Bien sûr, pourquoi pas."
 
 
 translate french d18s11b_continue_4cf3b967:
-
 
     jdg "*gwack* *gwawk* *gawkwk*"
 
 
 translate french d18s11b_continue_f3aa0072:
 
-
     "Voix masculine" "gghhhuuuhh..."
 
 
 translate french d18s11b_continue_d1ad8ccf:
-
 
     mc "On dirait qu'il se réveille."
 
 
 translate french d18s11b_continue_4db8c305:
 
-
     mc "Qui c'est?"
 
 
 translate french d18s11b_continue_f903ab23:
-
 
     jdg "Victor.{w}.. Yates."
 
 
 translate french d18s11b_continue_54a55587:
 
-
     mc "Comme LE Victor Yates?"
 
 
 translate french d18s11b_continue_0629a197:
-
 
     jdg "Non. Son fils."
 
 
 translate french d18s11b_continue_45323dd8:
 
-
     mct "OH MERDE!{w} Dans quoi cette salope m'a-t-elle embarqué?!"
 
 
 translate french d18s11b_continue_7bda6653:
-
 
     mc "Eh bien, pour un centime, pour un-"
 
 
 translate french d18s11b_continue_6e96757a:
 
-
     mys "Enfoiré!"
 
 
 translate french d18s11b_continue_c5be8444:
-
 
     mc "Ouais, il est réveillé."
 
 
 translate french d18s11b_continue_67efe648:
 
-
     mys "SAIS-TU QUI JE SUIS?!{w} SAIS-TU QUI EST MON PÈRE?!?!"
 
 
 translate french d18s11b_continue_afd9ee2f:
-
 
     mc "Dis à ce petit fils à papa d'être cool, salope, sinon ça va devenir incontrôlable."
 
 
 translate french d18s11b_continue_307d3251:
 
-
     mys "Qu'est-ce que tu as dit?"
 
 
 translate french d18s11b_continue_c342da6a:
-
 
     jdg "Victor, j'ai besoin que tu m'écoutes."
 
 
 translate french d18s11b_continue_04fa4a60:
 
-
     mys "Quoi?"
 
 
 translate french d18s11b_continue_324c6662:
 
-
-    jdg "Tu dois juste te détendre et surmonter ça. Ca ne te concerne pas."
+    jdg "Tu dois juste te détendre et surmonter ça. Ça ne te concerne pas."
 
 
 translate french d18s11b_continue_b9a648f2:
-
 
     mys "Je ne comprends pas-"
 
 
 translate french d18s11b_continue_8c663b00:
 
-
     mc "Tu n'as pas besoin de comprendre, Vikki."
 
 
 translate french d18s11b_continue_26f749f8:
-
 
     mys "C'est Victor."
 
 
 translate french d18s11b_continue_b089d3e4:
 
-
-    mc "Bien sûr, gamin. Ecoute ta copine."
+    mc "Bien sûr, gamin. Écoute ta copine."
 
 
 translate french d18s11b_continue_4a7b6c90:
 
-
-    mc "Ca ne te concerne pas."
+    mc "Ça ne te concerne pas."
 
 
 translate french d18s11b_continue_3f19a0f3:
-
 
     mc "Tu es juste au mauvais endroit au mauvais moment."
 
 
 translate french d18s11b_continue_5579438e:
 
-
     mys "Si tu lui fais du mal, mon chauffeur va te tuer."
 
 
 translate french d18s11b_continue_ccb8e6b9:
 
-
-    mc "*Rires* C'est hilarant.{w} Tu ne m'a pas dit qu'il était drôle."
+    mc "*Rires* C'est hilarant.{w} Tu ne m'as pas dit qu'il était drôle."
 
 
 translate french d18s11b_continue_b9a4ff2e:
-
 
     mc "Ça devrait le faire taire pendant un moment."
 
 
 translate french d18s11b_continue_6f02b75b:
 
-
     jdg "Victor, écoute-moi."
 
 
 translate french d18s11b_continue_453af6f0:
-
 
     jdg "C'est entre moi et...{w} d'autres personnes. Ça ne te concerne pas."
 
 
 translate french d18s11b_continue_1221c5b5:
 
-
     jdg "Toi et ton père-"
 
 
 translate french d18s11b_continue_7f8840bb:
 
-
     mc "*Rires* -et son chauffeur-"
 
 
 translate french d18s11b_continue_b23d2b54:
-
 
     jdg "-n'avez rien à voir avec ça."
 
@@ -644,7 +558,7 @@ translate french d18s11b_continue_78477e63:
 translate french d18s11b_continue_54af9ccf:
 
 
-    mc "Mais la bouche de cette garce s'est clairement entraînée."
+    mc "Mais la bouche de cette garce est clairement entraînée."
 
 
 translate french d18s11b_continue_30027dee:
@@ -920,7 +834,7 @@ translate french d18s11b_continue_3d8949fa:
 translate french d18s11b_continue_a59551c0:
 
 
-    mct "Putain, c'est tellement foutu."
+    mct "Putain, c'est tellement bon."
 
 
 translate french d18s11b_continue_6cd33735:
@@ -956,7 +870,7 @@ translate french d18s11b_continue_c07943cb:
 translate french d18s11b_continue_85f3a441:
 
 
-    jdg "J'adore quand tu me déchire le trou du cul, monsieur!"
+    jdg "J'adore quand tu me déchires le trou du cul, monsieur!"
 
 
 translate french d18s11b_continue_0769c7c9:
@@ -1082,7 +996,7 @@ translate french d18s11b_end_talk_314439ea:
 translate french d18s11b_end_talk_55516579:
 
 
-    jdg "Oui, monsieur."
+    jdg "Oui, mec."
 
 
 translate french d18s11b_end_talk_211c8eb1:
@@ -1100,7 +1014,7 @@ translate french d18s11b_end_talk_f8b364a5:
 translate french d18s11b_end_talk_0ab0f98b:
 
 
-    jdg "Désolé, monsieur."
+    jdg "Désolé, mec."
 
 
 translate french d18s11b_end_talk_fd2f5169:
@@ -1112,7 +1026,7 @@ translate french d18s11b_end_talk_fd2f5169:
 translate french d18s11b_end_talk_08f52ce1:
 
 
-    jdg "Oui, monsieur. Je vais m'en occuper."
+    jdg "Oui, mec. Je vais m'en occuper."
 
 
 translate french d18s11b_end_talk_db4acac5:

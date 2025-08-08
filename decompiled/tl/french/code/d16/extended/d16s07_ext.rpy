@@ -2,13 +2,13 @@
 translate french d16s07_ext_0f4c0f58:
 
 
-    mct "Je me demande ce que Jessie voulait sortir de nulle part?"
+    mct "Je me demande ce que Jessie voulait sortir de nulle part ?"
 
 
 translate french d16s07_ext_b57d7645:
 
 
-    mc "Jessie?"
+    mc "Jessie ?"
 
 
 translate french d16s07_ext_a20cefa7:
@@ -20,7 +20,7 @@ translate french d16s07_ext_a20cefa7:
 translate french d16s07_ext_3ce1c492:
 
 
-    mc "Jessie? Tu es là?"
+    mc "Jessie ? Tu es là ?"
 
 
 translate french d16s07_ext_0eee3cb3:
@@ -32,13 +32,13 @@ translate french d16s07_ext_0eee3cb3:
 translate french d16s07_ext_09b2beec:
 
 
-    mc "Putain de Jésus! Jessie!?"
+    mc "Putain de merde ! Jessie !?"
 
 
 translate french d16s07_ext_8ec33342:
 
 
-    jf "*Hennissements*"
+    jf "*Bruits de hennissement*"
 
 
 translate french d16s07_ext_2b0b7b0e:
@@ -50,7 +50,7 @@ translate french d16s07_ext_2b0b7b0e:
 translate french d16s07_ext_c0a693f4:
 
 
-    mc "Peux-tu sortir de là pour parler?"
+    mc "Peux-tu sortir de là pour parler ?"
 
 
 translate french d16s07_ext_103283d1:
@@ -62,31 +62,31 @@ translate french d16s07_ext_103283d1:
 translate french d16s07_ext_8815fa6e:
 
 
-    mc "Bien... Qu'est-ce que tu fais de toute façon? Tu m'as dit de venir mais tu n'as pas dit pourquoi."
+    mc "Bien... Qu'est-ce que tu fais? Tu m'as dit de venir mais tu n'as pas dit pourquoi."
 
 
 translate french d16s07_ext_6d9c8873:
 
 
-    jf "Oh, je testais juste un nouveau costume pour un client. Et il y avait certaines choses sur lesquelles j'avais besoin de votre avis, mais avant ça..."
+    jf "Oh, je testais juste un nouveau costume pour un client. Et il y avait certaines choses sur lesquelles j'avais besoin de ton avis, mais avant ça..."
 
 
 translate french d16s07_ext_6b0ec256:
 
 
-    jf "Ecoute! J'ai fait ce que tu as dit, et mon Dieu, je gagne presque le triple de ce que je faisais avant!"
+    jf "Ecoute ! J'ai fait ce que tu as dit, et mon Dieu, je gagne presque le triple de ce que je faisais avant !"
 
 
 translate french d16s07_ext_d9b3879c:
 
 
-    mc "Putain de merde! C'est génial!"
+    mc "Putain de merde ! C'est génial !"
 
 
 translate french d16s07_ext_00845d03:
 
 
-    jf "N'est-ce pas???"
+    jf "N'est-ce pas ???"
 
 
 translate french d16s07_ext_00fb529a:
@@ -98,7 +98,7 @@ translate french d16s07_ext_00fb529a:
 translate french d16s07_ext_41204c5b:
 
 
-    jf "Sans toi, j'aurais quand même été obligé de gagner une somme dérisoire pour tout le travail que je fais."
+    jf "Sans toi, j'aurais quand même été obligée de gagner une somme dérisoire pour tout le travail que je fais."
 
 
 translate french d16s07_ext_e72285f8:
@@ -110,13 +110,13 @@ translate french d16s07_ext_e72285f8:
 translate french d16s07_ext_2165a5e2:
 
 
-    mc "Mais je ne suis pas sûr de pouvoir aider davantage. Vous semblez faire du bon travail vous-même."
+    mc "Mais je ne suis pas sûr de pouvoir aider davantage. Tu sembles faire du bon travail toi-même."
 
 
 translate french d16s07_ext_0bef3d81:
 
 
-    jf "Pensez-y! C'est juste avec mon petit vieux moi. Solo. Mais je veux m'étendre!"
+    jf "Penses-y ! C'est juste avec mon petit vieux moi, Solo. Mais je veux élargir !"
 
 
 translate french d16s07_ext_c9d92f8b:
@@ -128,7 +128,7 @@ translate french d16s07_ext_c9d92f8b:
 translate french d16s07_ext_dc7120f5:
 
 
-    jf "Je veux les prendre sous mon aile et leur offrir un endroit où ils pourront travailler, être libres et gagner ce qu'ils valent!"
+    jf "Je veux les prendre sous mon aile et leur offrir un endroit où ils pourront travailler, être libres et gagner ce qu'ils valent !"
 
 
 translate french d16s07_ext_dbfad203:
@@ -140,13 +140,13 @@ translate french d16s07_ext_dbfad203:
 translate french d16s07_ext_53927da4:
 
 
-    jf "Ouais! Je suis content que tu sois d'accord."
+    jf "Ouais! Je suis contente que tu sois d'accord."
 
 
 translate french d16s07_ext_1ed467c1:
 
 
-    jf "Pour l'instant, je n'ai que des clients que j'ai déjà. Mais je veux attirer plus de monde."
+    jf "Pour l'instant, je n'ai que les clients que j'ai déjà. Mais je veux attirer plus de monde."
 
 
 translate french d16s07_ext_8403ad17:
@@ -164,19 +164,19 @@ translate french d16s07_ext_59bc1df6:
 translate french d16s07_ext_0d2214f1:
 
 
-    mc "Hm... Et vous gagnez suffisamment d'argent à ce stade pour que créer une entreprise vous rapporterait davantage en étant moins imposé."
+    mc "Hm... Et tu gagnes suffisamment d'argent à ce stade pour que tu crées une entreprise qui rapporterait davantage en étant moins imposé."
 
 
 translate french d16s07_ext_70121afd:
 
 
-    jf "Ouais. J'y ai pensé aussi. Mais tous les formulaires et la bureaucratie sont juste... abrutissants. Je n'ai pas le cerveau pour çat."
+    jf "Ouais. J'y ai pensé aussi. Mais tous les formulaires et la bureaucratie sont juste... abrutissants. Je n'ai pas le cerveau pour ça."
 
 
 translate french d16s07_ext_613e3a1f:
 
 
-    jf "Mais! Vous m'avez aidé, vous avez rendu cela possible en premier lieu. Et vous êtes un étudiant en affaires."
+    jf "Mais! Tu m'as aidé, tu as rendu cela possible en premier lieu. Et tu es un étudiant en affaires."
 
 
 translate french d16s07_ext_e956c468:
@@ -200,13 +200,13 @@ translate french d16s07_ext_8419eebc:
 translate french d16s07_ext_285a0d59:
 
 
-    mc "Non, ce n'est pas comme ça. Mais je ne peux pas non plus me lancer là-dessus."
+    mc "Non, ce n'est pas comme ça. Mais je ne peux pas non plus me lancer là-dedans."
 
 
 translate french d16s07_ext_f3b951f6:
 
 
-    mc "Écoutez. Je vais absolument vous aider à remplir tous les formulaires nécessaires et tout ça."
+    mc "Écoute. Je veux absolument t'aider à remplir tous les formulaires nécessaires et tout ça."
 
 
 translate french d16s07_ext_c52e8bf6:
@@ -230,13 +230,13 @@ translate french d16s07_ext_35bad13a:
 translate french d16s07_ext_0132ec37:
 
 
-    mc "Super. Très bien, eh bien, j'ai besoin de temps pour formuler un plan et voir comment faire connaître au mieux votre nom. Voyez ce dont nous avons besoin pour créer une entreprise et lancer le bal."
+    mc "Super. Très bien, eh bien, j'ai besoin de temps pour établir un plan et voir comment faire connaître au mieux ton nom. Vois ce dont tu as besoin pour créer une entreprise et lancer le bal."
 
 
 translate french d16s07_ext_221177c7:
 
 
-    jf "Agh! Je suis tellement excité! Merci, [mcname]."
+    jf "Agh! Je suis tellement excitée! Merci, [mcname]."
 
 
 translate french d16s07_ext_1e0901c9:
@@ -248,7 +248,7 @@ translate french d16s07_ext_1e0901c9:
 translate french d16s07_ext_2da3e5fd:
 
 
-    mc "Crache-le alors."
+    mc "Crache-le morceau."
 
 
 translate french d16s07_ext_2a567508:
@@ -272,7 +272,7 @@ translate french d16s07_ext_47d19dd8:
 translate french d16s07_ext_71b8dc2c:
 
 
-    mc "*Rires* Je pense que nous avons dépassé le point d'être gêné par tout ça, tu ne penses pas?"
+    mc "*Rires* Je pense que nous avons dépassé le point d'être gênés par tout ça, tu ne penses pas?"
 
 
 translate french d16s07_ext_42077b12:
@@ -332,7 +332,7 @@ translate french d16s07_ext_026d25ce:
 translate french d16s07_ext_3d967461:
 
 
-    jf "Je vais trouver une solution. Désolé d'avoir demandé."
+    jf "Je vais trouver une solution. Désolée d'avoir demandé."
 
 
 translate french d16s07_ext_1a800d87:
@@ -374,7 +374,8 @@ translate french d16s07_ext_f494676b:
 translate french d16s07_ext_1bedcab3:
 
 
-    jf "Assurez-vous de venir une fois que vous n'aurez plus ce problème."
+    jf "Assures-toi de venir une fois que tu n'auras plus ce problème."
+
 
 
 translate french d16s07_ext_7b1f43ad:
@@ -398,7 +399,7 @@ translate french d16s07_ext_d083f9c0:
 translate french d16s07_ext_d50668ef:
 
 
-    mc "Est-ce qu'ils vous paient bien?"
+    mc "Est-ce qu'ils te paient bien?"
 
 
 translate french d16s07_ext_2df688ed:
@@ -458,7 +459,7 @@ translate french d16s07_ext_f494676b_1:
 translate french d16s07_ext_e7191b61:
 
 
-    jf "N'oubliez pas de revenir plus tard. Je suis sûr que j'aurai quelque chose de plus à vous proposer."
+    jf "N'oublie pas de revenir plus tard. Je suis sûr que j'aurai quelque chose de plus à te proposer."
 
 
 translate french d16s07_ext_7b1f43ad_1:
@@ -476,7 +477,7 @@ translate french d16s07_ext_451e94b8:
 translate french d16s07_ext_346cee80:
 
 
-    mc "Si ça peut t'aider, je suis déprimé."
+    mc "Si ça peut t'aider, je suis en bas."
 
 
 translate french d16s07_ext_3e0eb0b8:
@@ -488,7 +489,7 @@ translate french d16s07_ext_3e0eb0b8:
 translate french d16s07_ext_8da21b95:
 
 
-    jf "J'ai un ami photographe qui pourrait vouloir m'aider pour la séance photo. Laissez-moi voir si je peux l'avoir."
+    jf "J'ai un ami photographe qui pourrait vouloir m'aider pour la séance photo. Laisse-moi voir si je peux l'avoir."
 
 
 translate french d16s07_ext_a4c34b21:
@@ -536,7 +537,7 @@ translate french d16s07_ext_28cd10bc:
 translate french d16s07_ext_be532628:
 
 
-    jf "{i}Oh, et porte quelque chose de sexy.{/i} {w}{i}Slutty, ça marche aussi.{/i}"
+    jf "{i}Oh, et porte quelque chose de sexy.{/i} {w}{i}Salope, ça marche aussi.{/i}"
 
 
 translate french d16s07_ext_13cc03f4:
@@ -584,7 +585,7 @@ translate french d16s07_ext_4084853c:
 translate french d16s07_ext_055eb486:
 
 
-    mct "Holy..."
+    mct "Sainte mère de..."
 
 
 translate french d16s07_ext_a5a6d074:
@@ -632,7 +633,7 @@ translate french d16s07_ext_85cccf97:
 translate french d16s07_ext_1363433c:
 
 
-    kv "*Rires* Oh, ils étaient bien, d'accord."
+    kv "*Rires* Oh, elles étaient bonnes, d'accord."
 
 
 translate french d16s07_ext_db2e9cf0:
@@ -698,13 +699,13 @@ translate french d16s07_ext_ae302035:
 translate french d16s07_ext_30443ad9:
 
 
-    kv "Peut-être que [mcname] peut la sentir, la peloter, développer vos deux désirs."
+    kv "Peut-être que [mcname] peut la sentir, la peloter, développer vos désirs."
 
 
 translate french d16s07_ext_0003d88e:
 
 
-    kv "Et puis il en a assez et finalement l'emmène dans une démonstration passionnée."
+    kv "Et puis il en a assez et finalementn tu l'emmènes dans une démonstration passionnée."
 
 
 translate french d16s07_ext_23b58a28:
@@ -752,7 +753,7 @@ translate french d16s07_ext_6064d3e2:
 translate french d16s07_ext_71aca759:
 
 
-    kv "N'oublie pas son connard!"
+    kv "N'oublie pas son cul!"
 
 
 translate french d16s07_ext_ad04bba8:
@@ -890,7 +891,7 @@ translate french d16s07_ext_ef226e7c:
 translate french d16s07_ext_a22b7892:
 
 
-    jf "Ferme-la, je sais que tu l'apprécierais."
+    jf "Ferme-la, je sais que tu l'apprécieras."
 
 
 translate french d16s07_ext_16093107:

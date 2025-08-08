@@ -170,7 +170,7 @@ translate french d15s04dd_cb052f60:
 translate french d15s04dd_6077ef2a:
 
 
-    dd "*Renfle*"
+    dd "*Renifle*"
 
 
 translate french d15s04dd_15bda0af:

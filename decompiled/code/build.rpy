@@ -107,7 +107,7 @@ init 1 python:
         if is_Walkthrough_DLC_included is True:
             build.classify("game/**/hints.rpyc"   , "walkthrough_dlc")
         else:
-            build.classify("game/**/hints.rpyc"   , None)
+            build.classify("game/code/hints.rpyc"   , None)
         
         if is_DLC_1_included is True:
             

@@ -2,13 +2,13 @@
 translate french d18s09_71d88fc7:
 
 
-    hr "C'est une bonne chose que ce soit pas verrouillé."
+    hr "C'est une bonne chose que ce ne soit pas verrouillé."
 
 
 translate french d18s09_9972a67e:
 
 
-    mc "Tu ne sais pas crocheter les serrures?"
+    mc "Tu ne sais pas crocheter les serrures ?"
 
 
 translate french d18s09_d387428d:
@@ -44,7 +44,7 @@ translate french d18s09_d22aa9b5:
 translate french d18s09_8461a8bc:
 
 
-    hr "*chuchote fort* Vite! Cache-toi!"
+    hr "*chuchote fort* Vite ! Cache-toi !"
 
 
 translate french d18s09_917751d3:
@@ -62,7 +62,7 @@ translate french d18s09_ff857aae:
 translate french d18s09_a701c598:
 
 
-    cf "Qui êtes-vous?"
+    cf "Qui êtes-vous ?"
 
 
 translate french d18s09_aa4a0645:
@@ -80,7 +80,7 @@ translate french d18s09_cfb99c7a:
 translate french d18s09_8088461d:
 
 
-    cf "Est-ce que je vous connais? Pourquoi êtes-vous dans mon bureau?"
+    cf "Est-ce que je vous connais ? Pourquoi êtes-vous dans mon bureau ?"
 
 
 translate french d18s09_6ed7de61:
@@ -92,7 +92,7 @@ translate french d18s09_6ed7de61:
 translate french d18s09_380bc0e9:
 
 
-    mct "Allez madame, tout ce que je sais de vous, c'est que vous êtes en quelque sorte lié à Fetish Locator."
+    mct "Allez madame, tout ce que je sais de vous, c'est que vous êtes en quelque sorte liée à Fetish Locator."
 
 
 translate french d18s09_a0c9289e:
@@ -116,13 +116,13 @@ translate french d18s09_a69718c4:
 translate french d18s09_275d287b:
 
 
-    mct "Vidéo? Quelle vidéo?"
+    mct "Vidéo ? Quelle vidéo ?"
 
 
 translate french d18s09_52225630:
 
 
-    cf "Est-ce que je peux faire quelque chose pour vous?"
+    cf "Est-ce que je peux faire quelque chose pour vous ?"
 
 
 translate french d18s09_001b9825:
@@ -152,31 +152,31 @@ translate french d18s09_6ab11e88:
 translate french d18s09_25346253:
 
 
-    cf "M. Young, vous essayez de me séduire?"
+    cf "M. Young, vous essayez de me séduire ?"
 
 
 translate french d18s09_07d133b8:
 
 
-    mc "Bien sûr que non.{w} Voulez-vous que je vous séduise?"
+    mc "Bien sûr que non.{w} Voulez-vous que je vous séduise ?"
 
 
 translate french d18s09_3eb54527:
 
 
-    cf "Quoi??"
+    cf "Quoi ??"
 
 
 translate french d18s09_f1c8de29:
 
 
-    mc "C'est ce que tu essaies de me dire?{w} Tu veux que je te séduise?"
+    mc "C'est ce que tu essaies de me dire ?{w} Tu veux que je te séduise ?"
 
 
 translate french d18s09_dffe9c23:
 
 
-    cf "On est filmés en ce moment? Est-ce une sorte de farce?"
+    cf "On est filmés en ce moment ? Est-ce une sorte de farce ?"
 
 
 translate french d18s09_dc7de5f8:
@@ -386,13 +386,13 @@ translate french d18s09_2ca56f18:
 translate french d18s09_continue_95baf71c:
 
 
-    mc "Ne t'inquiéte pas, professeur. {w} J'ai une réputation à entretenir."
+    mc "Ne t'inquiète pas, professeur. {w} J'ai une réputation à entretenir."
 
 
 translate french d18s09_continue_f164655d:
 
 
-    cf "Je parie!"
+    cf "Je parie !"
 
 
 translate french d18s09_continue_edacd72a:
@@ -410,7 +410,7 @@ translate french d18s09_continue_9cecc2fe:
 translate french d18s09_continue_ffad4269:
 
 
-    mc "Pendant que me suce...{w} ça te dérange si je te pose quelques questions?"
+    mc "Pendant que tu suces ça...{w} ça te dérange si je te pose quelques questions ?"
 
 
 translate french d18s09_continue_80f1c16c:
@@ -422,13 +422,13 @@ translate french d18s09_continue_80f1c16c:
 translate french d18s09_continue_ad5f494d:
 
 
-    mc "Excellent.{w} De quelle vidéo parles-tu?"
+    mc "Excellent.{w} De quelle vidéo parles-tu ?"
 
 
 translate french d18s09_continue_9a3fc75f:
 
 
-    cf "Tu ne sais pas?"
+    cf "Tu ne sais pas ?"
 
 
 translate french d18s09_continue_91909424:
@@ -446,13 +446,13 @@ translate french d18s09_continue_8acad000:
 translate french d18s09_continue_df5d5a94:
 
 
-    mct "La chaise qui tourne?{w} Chez AmRose?"
+    mct "La chaise qui tourne ?{w} Chez AmRose ?"
 
 
 translate french d18s09_continue_1d6bde53:
 
 
-    mct "Je suppose que je suis venu souvent et ça l'a impressionnée."
+    mct "Je suppose que j'ai beaucoup éjaculé et ça l'a impressionnée."
 
 
 translate french d18s09_continue_89a01f3b:
@@ -470,7 +470,7 @@ translate french d18s09_continue_71cee56b:
 translate french d18s09_continue_d552965b:
 
 
-    mc "Tu aimes le goût?"
+    mc "Tu aimes le goût ?"
 
 
 translate french d18s09_continue_c637ae80:
@@ -482,7 +482,7 @@ translate french d18s09_continue_c637ae80:
 translate french d18s09_continue_606db920:
 
 
-    mc "Tu aimes le goût de ta propre chatte sur ma queue?"
+    mc "Tu aimes le goût de ta propre chatte sur ma queue ?"
 
 
 translate french d18s09_continue_0668a9e4:
@@ -506,7 +506,7 @@ translate french d18s09_continue_f7c2e0cb:
 translate french d18s09_continue_946abf56:
 
 
-    cf "Hein?"
+    cf "Hein ?"
 
 
 translate french d18s09_continue_157f5028:
@@ -518,7 +518,7 @@ translate french d18s09_continue_157f5028:
 translate french d18s09_continue_fde98347:
 
 
-    cf "OUI!!!"
+    cf "OUI !!!"
 
 
 translate french d18s09_continue_0932bce3:
@@ -530,49 +530,49 @@ translate french d18s09_continue_0932bce3:
 translate french d18s09_continue_b48bff46:
 
 
-    cf "N'importe quoi!"
+    cf "N'importe quoi !"
 
 
 translate french d18s09_continue_492d3453:
 
 
-    mc "Qu'est-ce que tu sais?!"
+    mc "Qu'est-ce que tu sais ? !"
 
 
 translate french d18s09_continue_dabde0cf:
 
 
-    cf "Tout ce que tu veux!!!"
+    cf "Tout ce que tu veux !!!"
 
 
 translate french d18s09_continue_e6aebc3e:
 
 
-    mc "A propos de Fetish Locator!!!"
+    mc "À propos de Fetish Locator !!!"
 
 
 translate french d18s09_continue_e0a47e99:
 
 
-    cf "Continue de me baiser!!!"
+    cf "Continue de me baiser !!!"
 
 
 translate french d18s09_continue_1e8fe81a:
 
 
-    mc "Dis-moi!!!"
+    mc "Dis-moi !!!"
 
 
 translate french d18s09_continue_0a76a0f8:
 
 
-    cf "CE QUE TU VEUX!!!"
+    cf "CE QUE TU VEUX !!!"
 
 
 translate french d18s09_continue_e5e50392:
 
 
-    mct "Est-ce que Wayne Brady va devoir étouffer une salope?!"
+    mct "Est-ce que Wayne Brady va devoir étouffer une salope ?!"
 
 
 translate french d18s09_continue_094b926f:
@@ -746,7 +746,7 @@ translate french d18s09_continue_9bf0c4f0:
 translate french d18s09_continue_22d68fc7:
 
 
-    cf "J'ai faitça?{w} Je ne me souviens de rien de ce genre."
+    cf "J'ai fait ça?{w} Je ne me souviens de rien de ce genre."
 
 
 translate french d18s09_continue_20b41f49:
