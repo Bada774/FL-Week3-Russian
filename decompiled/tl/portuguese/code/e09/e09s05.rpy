@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e09s05_f4f39255:
 
 

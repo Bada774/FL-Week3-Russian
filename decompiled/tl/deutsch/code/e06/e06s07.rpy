@@ -218,7 +218,7 @@ translate deutsch e06s07_47f7437f:
 translate deutsch e06s07_debd037a:
 
 
-    mc "*flüstert* Lasst uns mit der Show beginnen."
+    mh "*flüstert* Lasst uns mit der Show beginnen."
 
 
 translate deutsch e06s07_dc984fe9:

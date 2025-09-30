@@ -8,7 +8,7 @@ translate turkish e09s02_4bbdb1fc:
 translate turkish e09s02_6f07ff68:
 
 
-    "Ona atacak 18 farklı bombam var...{w} Ve bana her zaman tamamen iyi davranmadı..."
+    mct "Ona atacak 18 farklı bombam var...{w} Ve bana her zaman tamamen iyi davranmadı..."
 
 
 translate turkish e09s02_3e4f99cc:

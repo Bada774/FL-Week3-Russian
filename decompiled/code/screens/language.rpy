@@ -933,8 +933,8 @@ translate deutsch style bonus_change_mind_text_1:
 
 translate deutsch style bonus_change_mind_text_2:
     size 45
-    xpos 860
-    ypos 640
+    xpos 890
+    ypos 670
 
 translate deutsch style bonus_rm_rf_text_2:
     size 49

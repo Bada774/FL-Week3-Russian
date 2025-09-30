@@ -212,7 +212,7 @@ translate turkish e16s01_89947bf6:
 translate turkish e16s01_0edf144d:
 
 
-    "Ben çiftçi değilim. Rose Teyze olmalı-"
+    jf "Ben çiftçi değilim. Rose Teyze olmalı-"
 
 
 translate turkish e16s01_2d4b81e4:

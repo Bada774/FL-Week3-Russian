@@ -76,7 +76,6 @@ init python:
 
         ]
         
-        
         @staticmethod
         def check_connection():
             data = {
@@ -275,7 +274,6 @@ init python:
                         return
                 else:
                     return
-        
         
         @staticmethod
         def play_pattern_solace(delay=0):

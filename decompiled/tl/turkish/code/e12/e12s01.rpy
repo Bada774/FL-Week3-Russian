@@ -680,7 +680,7 @@ translate turkish e12s01_sex_b131e59b:
 translate turkish e12s01_sex_6d8123c3:
 
 
-    "Çok güzel kokuyorsun, Vanessa"
+    aw "Çok güzel kokuyorsun, Vanessa"
 
 
 translate turkish e12s01_sex_59008804:

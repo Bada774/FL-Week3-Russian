@@ -282,15 +282,15 @@ translate turkish strings:
 
 
     old "Save slot %s: [text]"
-    new "%s yuvasını kaydet: [metin]"
+    new "%s yuvasını kaydet: [text]"
 
 
     old "Load slot %s: [text]"
-    new "%s yuvasını yükle: [metin]"
+    new "%s yuvasını yükle: [text]"
 
 
     old "Delete slot [text]"
-    new "Yuvayı sil [metin]"
+    new "Yuvayı sil [text]"
 
 
     old "File page auto"
@@ -302,7 +302,7 @@ translate turkish strings:
 
 
     old "File page [text]"
-    new "Dosya sayfası [metin]"
+    new "Dosya sayfası [text]"
 
 
     old "Page {}"
@@ -338,11 +338,11 @@ translate turkish strings:
 
 
     old "Language [text]"
-    new "Dil [metin]"
+    new "Dil [text]"
 
 
     old "Open [text] directory."
-    new "[metin] dizini aç."
+    new "[text] dizini aç."
 
 
     old "The interactive director is not enabled here."
@@ -550,7 +550,7 @@ translate turkish strings:
 
 
     old "skip unseen [text]"
-    new "görünmeyeni atla [metin]"
+    new "görünmeyeni atla [text]"
 
 
     old "skip unseen text"
@@ -906,7 +906,7 @@ translate turkish strings:
 
 
     old "Image [index] of [count] locked."
-    new "[count] görüntü [dizin] kilitli."
+    new "[count] görüntü [index] kilitli."
 
 
     old "prev"
@@ -1002,7 +1002,7 @@ translate turkish strings:
 
 
     old "This computer has a problem displaying graphics: [problem]."
-    new "Bu bilgisayarda grafikleri görüntülemede bir sorun var: [sorun]."
+    new "Bu bilgisayarda grafikleri görüntülemede bir sorun var: [problem]."
 
 
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1042,7 +1042,7 @@ translate turkish strings:
 
 
     old "Press or move the '[control!s]' [kind]."
-    new "'[kontrol!s] '[tür] düğmesine basın veya hareket ettirin."
+    new "'[control!s]' [kind] düğmesine basın veya hareket ettirin."
 
 
     old "Skip (A)"
@@ -1225,4 +1225,18 @@ translate turkish strings:
 
     old "Retry"
     new "Yeniden Dene"
+
+translate turkish strings:
+
+
+    old "Translation identifier: [identifier]"
+    new "Çeviri kimliği: [identifier]"
+
+
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " çevirir [tl.filename]:[tl.linenumber]"
+
+
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Panoya kopyalandı.{/color}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1229,4 +1229,18 @@ translate french strings:
 
     old "{#month}August"
     new "{#month}Aout"
+
+translate french strings:
+
+
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifier]"
+
+
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " translates [tl.filename]:[tl.linenumber]"
+
+
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copied to clipboard.{/color}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

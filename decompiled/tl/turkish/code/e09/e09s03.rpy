@@ -1430,7 +1430,7 @@ translate turkish e09s03_night_7edcc87b:
 translate turkish e09s03_night_0354871c:
 
 
-    aw "İyi bir küçük sapık ol. mcname]'e onun sıcak döllerinin boğazından aşağı akmasını ne kadar çok istediğini söyle."
+    aw "İyi bir küçük sapık ol. [mcname]'e onun sıcak döllerinin boğazından aşağı akmasını ne kadar çok istediğini söyle."
 
 
 translate turkish e09s03_night_64616d0c:

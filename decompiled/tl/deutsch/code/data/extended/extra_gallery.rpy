@@ -82,7 +82,7 @@ translate deutsch strings:
 
 
     old "11. Sudo Admin"
-    new "11. Sudo Admin"
+    new "11. Sudo-Administrator"
 
 
     old "Enter the server room"
@@ -106,7 +106,7 @@ translate deutsch strings:
 
 
     old "14. Cherry Popped"
-    new "14. Cherry Popped"
+    new "14. Kirsche gepoppt"
 
 
     old "Finish your first time"
@@ -302,51 +302,51 @@ translate deutsch strings:
 
 
     old "30. What? You wanted more?"
-    new "30. What? You wanted more?"
+    new "30. Was? Du willst mehr?"
 
 
     old "Finish all 6 Endings from DLC-1"
-    new "Finish all 6 Endings from DLC-1"
+    new "Beende alle 6 Enden aus DLC-1."
 
 
     old "31. Go Debbie Go"
-    new "31. Go Debbie Go"
+    new "31. Los, Debbie, los!"
 
 
     old "Have sex with Debbie"
-    new "Have sex with Debbie"
+    new "Sex mit Debbie haben"
 
 
     old "32. Fully Cooked"
-    new "32. Fully Cooked"
+    new "32. Vollständig gegart"
 
 
     old "Get max points in Lydia's challenges in e07"
-    new "Get max points in Lydia's challenges in e07"
+    new "Erreiche die maximale Punktzahl in Lydias Herausforderungen in e07."
 
 
     old "33. Full House"
-    new "33. Full House"
+    new "33. Volles Haus"
 
 
     old "Play with all the characters in e04"
-    new "Play with all the characters in e04"
+    new "Spiele mit allen Charakteren in e04"
 
 
     old "34. Day and Night"
-    new "34. Day and Night"
+    new "34. Tag und Nacht"
 
 
     old "Finish e04 and e07"
-    new "Finish e04 and e07"
+    new "Beende e04 und e07"
 
 
     old "35. A lucky dozen"
-    new "35. A lucky dozen"
+    new "35. Ein glückliches Dutzend"
 
 
     old "Finish 12 endings"
-    new "Finish 12 endings"
+    new "Beende 12 Enden"
 
 
     old "ORNY"
@@ -368,115 +368,115 @@ translate deutsch strings:
 
 
     old "Finish Ending 4 and Ending 7"
-    new "Finish Ending 4 and Ending 7"
+    new "Beende Ende 4 und Ende 7"
 
 
     old "36. Don't threaten me with a good time"
-    new "36. Don't threaten me with a good time"
+    new "36. Drohe mir nicht mit einer schönen Zeit."
 
 
     old "Finish all 6 Endings from DLC-2"
-    new "Finish all 6 Endings from DLC-2"
+    new "Beende alle 6 Enden aus DLC-2."
 
 
     old "37. I saw, I came, I conquered"
-    new "37. I saw, I came, I conquered"
+    new "37. Ich sah, ich kam, ich siegte."
 
 
     old "Have all Characters in last orgy in Ending 9"
-    new "Have all Characters in last orgy in Ending 9"
+    new "Alle Charaktere in der letzten Orgie in Ende 9"
 
 
     old "38. Golden Pass"
-    new "38. Golden Pass"
+    new "38. Goldener Pass"
 
 
     old "Have all Characters in Ending 15"
-    new "Have all Characters in Ending 15"
+    new "Alle Charaktere in Ende 15"
 
 
     old "39. She belongs in a museum"
-    new "39. She belongs in a museum"
+    new "39. Sie gehört in ein Museum."
 
 
     old "Find golden Lyssa (Ending 3)"
-    new "Find golden Lyssa (Ending 3)"
+    new "Finde die goldene Lyssa (Ende 3)"
 
 
     old "40. Do the Pulp Fiction Thing"
-    new "40. Do the Pulp Fiction Thing"
+    new "40. Mach das Pulp Fiction-Ding"
 
 
     old "Do the pulp fiction thing (Ending 18)"
-    new "Do the pulp fiction thing (Ending 18)"
+    new "Mach das Pulp-Fiction-Ding (Ende 18)"
 
 
     old "41. Backdoor Cat Girl"
-    new "41. Backdoor Cat Girl"
+    new "41. Hintertür-Katzenmädchen"
 
 
     old "Backdoor Cat Girl (Ending 16)"
-    new "Backdoor Cat Girl (Ending 16)"
+    new "Hintertür-Katzenmädchen (Ende 16)"
 
 
     old "42. Pee Bootcamp"
-    new "42. Pee Bootcamp"
+    new "42. Pipi-Bootcamp"
 
 
     old "Begin Olivia's Training"
-    new "Begin Olivia's Training"
+    new "Beginne Olivias Ausbildung"
 
 
     old "43. Choo-choo"
-    new "43. Choo-choo"
+    new "43. Tschu-tschu"
 
 
     old "Choo-choo (Ending 5)"
-    new "Choo-choo (Ending 5)"
+    new "Tschu-tschu (Ende 5)"
 
 
     old "44. Londyn Twice"
-    new "44. Londyn Twice"
+    new "44. Londyn zweimal"
 
 
     old "Meet Londyn in Ending 9 and Ending 18"
-    new "Meet Londyn in Ending 9 and Ending 18"
+    new "Lerne Londyn in Ende 9 und Ende 18 kennen."
 
 
     old "45. I've seen all the possible outcomes"
-    new "45. I've seen all the possible outcomes"
+    new "45. Ich habe alle möglichen Ergebnisse gesehen."
 
 
     old "Finish all 18 Endings"
-    new "Finish all 18 Endings"
+    new "Beende alle 18 Enden"
 
 
     old "SPIT ON THAT THANG!"
-    new "SPIT ON THAT THANG!"
+    new "SPUCK DARAUF!"
 
 
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
-    new "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "WENN ER ES SCHAFFT, DASS ALLE IN IHR NEUES, SCHICKES SPA KOMMEN"
 
 
     old "Fucking\na girl"
-    new "Fucking\na girl"
+    new "Ficke ein\nMädchen"
 
 
     old "Fucking\na catgirl"
-    new "Fucking\na catgirl"
+    new "Ficke ein\nKatzenmädchen"
 
 
     old "Hard to\nswallow\npills"
-    new "Hard to\nswallow\npills"
+    new "Schwer zu\nschluckende\nPillen"
 
 
     old "He will never\nrun out of pee"
-    new "He will never\nrun out of pee"
+    new "Ihm wird niemals\nder Urin ausgehen"
 
 
     old "NEXT STOP"
-    new "NEXT STOP"
+    new "NÄCHSTER HALT"
 
 
     old "PENETRATION STATION"
@@ -484,5 +484,5 @@ translate deutsch strings:
 
 
     old "They don't know that\nI appear in two endings"
-    new "They don't know that\nI appear in two endings"
+    new "Sie wissen nicht, dass\nich in zwei Enden vorkomme."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

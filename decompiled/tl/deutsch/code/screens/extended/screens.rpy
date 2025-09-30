@@ -80,17 +80,31 @@ translate deutsch strings:
 
 
     old "Get free DLC containing 6 endings from Steam"
-    new "Get free DLC containing 6 endings from Steam"
+    new "Hole dir den kostenlosen DLC mit 6 Enden bei Steam."
 
 translate deutsch strings:
 
 
     old "Buy Taboo University on Steam"
-    new "Buy Taboo University on Steam"
+    new "Kaufe Taboo University auf Steam"
 
 translate deutsch strings:
 
 
     old "Get DLC-2 containing 6 additional endings from Steam"
-    new "Get DLC-2 containing 6 additional endings from Steam"
+    new "Hole dir DLC-2 mit 6 zusätzlichen Enden von Steam."
+
+translate deutsch strings:
+
+
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Wunschliste Fetisch-Finder: S&M Studio auf Steam"
+
+
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Hole dir Fetish Locator: S&M Studio auf Steam"
+
+
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "Trailer zu Fetish Locator: S&M Studio ansehen"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

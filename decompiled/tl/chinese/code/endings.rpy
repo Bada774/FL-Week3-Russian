@@ -1,39 +1,3 @@
-
-translate chinese ending_not_available_f3f9fce0:
-
-
-    "你已经到达了此故事路径的尽头。本结局将在未来推出，作为免费可下载内容。"
-
-
-translate chinese ending_not_available_2ad33c15:
-
-
-    "你已经到达了此故事路径的尽头。本结局将在未来推出，作为可下载内容。"
-
-
-translate chinese ending_not_available_eb531d10:
-
-
-    "请务必关注我们的Steam页面，以便及时了解与性趣探测器相关的所有消息。"
-
-
-translate chinese ending_not_available_7495b934:
-
-
-    "你已经到达了此故事路径的尽头。本结局将在未来推出。"
-
-
-translate chinese ending_not_available_4bc3c22a:
-
-
-    "请务必关注我们的Patreon，以便及时了解最新消息。"
-
-
-translate chinese ending_not_available_0b50ab45:
-
-
-    "虽然此结局还没有完全完成，但还有其他六个结局是完整的，可供探索。"
-
 translate chinese strings:
 
 
@@ -107,4 +71,28 @@ translate chinese strings:
 
     old "Ending #18\nQuartet"
     new "结局 #18\n四重奏"
+
+
+translate chinese ending_not_available_9dcfd841:
+
+
+    "您已到达此故事路线的当前结局。"
+
+
+translate chinese ending_not_available_889ce1af:
+
+
+    "此结局作为免费DLC提供。"
+
+
+translate chinese ending_not_available_8fd50248:
+
+
+    "此结局作为付费DLC提供。"
+
+
+translate chinese ending_not_available_fd68c670:
+
+
+    "此结局可在我们的Patreon获得。"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -473,7 +473,7 @@ translate portuguese strings:
 
 
     old "Ending 15: Olivia, Bell & Annie"
-    new "Ending 15: Olivia, Bell & Annie"
+    new "Final 15: Olivia, Bell & Annie"
 
 
     old "Ending 15: Lyssa, Stacy & Gemma"

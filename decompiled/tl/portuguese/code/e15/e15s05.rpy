@@ -1727,8 +1727,6 @@ translate portuguese strings:
     new "Deixar que Gemma solte o enema"
 
 
-
-
 translate portuguese e15s05_after_menu_1387c466:
 
 

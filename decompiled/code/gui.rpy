@@ -17,7 +17,6 @@ init -2 python:
 
 
 
-
 define -2 config.default_text_cps = 75
 
 
@@ -52,7 +51,6 @@ define -2 gui.hover_muted_color = '#80001a'
 
 define -2 gui.text_color = '#ffffff'
 define -2 gui.interface_text_color = '#ffffff'
-
 
 
 
@@ -139,7 +137,6 @@ define -2 gui.textbox_yalign = 1.0
 
 
 
-
 define -2 gui.name_xpos = 360
 define -2 gui.name_ypos = -3
 
@@ -163,7 +160,6 @@ define -2 gui.namebox_tile = False
 
 
 
-
 define -2 gui.dialogue_xpos = 402
 define -2 gui.dialogue_ypos = 75
 
@@ -173,7 +169,6 @@ define -2 gui.dialogue_width = 1116
 
 
 define -2 gui.dialogue_text_xalign = 0.0
-
 
 
 
@@ -213,7 +208,6 @@ define -2 gui.button_text_xalign = 0.0
 
 
 
-
 define -2 gui.radio_button_borders = Borders(27, 6, 6, 6)
 
 define -2 gui.check_button_borders = Borders(27, 6, 6, 6)
@@ -226,7 +220,6 @@ define -2 gui.quick_button_borders = Borders(15, 6, 15, 0)
 define -2 gui.quick_button_text_size = 21
 define -2 gui.quick_button_text_idle_color = gui.idle_small_color
 define -2 gui.quick_button_text_selected_color = gui.accent_color
-
 
 
 
@@ -256,7 +249,6 @@ define -2 gui.choice_button_text_insensitive_color = "#444444"
 
 
 
-
 define -2 gui.slot_button_width = 414
 define -2 gui.slot_button_height = 309
 define -2 gui.slot_button_borders = Borders(15, 15, 15, 15)
@@ -273,7 +265,6 @@ define -2 config.thumbnail_height = 216
 
 define -2 gui.file_slot_cols = 3
 define -2 gui.file_slot_rows = 2
-
 
 
 
@@ -317,7 +308,6 @@ define -2 gui.main_menu_text_xalign = 1.0
 
 
 
-
 define -2 gui.frame_borders = Borders(6, 6, 6, 6)
 
 
@@ -331,7 +321,6 @@ define -2 gui.notify_frame_borders = Borders(15, 10, 15, 10)
 
 
 define -2 gui.frame_tile = False
-
 
 
 
@@ -370,7 +359,6 @@ define -2 gui.unscrollable = "hide"
 
 
 
-
 define -2 config.history_length = 250
 
 
@@ -389,7 +377,6 @@ define -2 gui.history_text_xpos = 255
 define -2 gui.history_text_ypos = 3
 define -2 gui.history_text_width = 1110
 define -2 gui.history_text_xalign = 0.0
-
 
 
 

@@ -1420,7 +1420,7 @@ translate italian strings:
 
 
     old "The Snowball: Warren Buffett and the Business of Life"
-    new "The Snowball: Warren Buffett and the Business of Life"
+    new "La Palla di Neve: Warren Buffett e l'arte degli affari"
 
 
     old "Liar's Poker"

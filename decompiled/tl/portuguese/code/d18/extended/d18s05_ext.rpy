@@ -712,5 +712,5 @@ translate portuguese strings:
 translate portuguese d18s05_after_sex_ec16ba99:
 
 
-    sb ""
+    sb "Eu odeio esse lugar. É uma selva de concreto do caralho. Eu preciso de uma viagem pra relaxar."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

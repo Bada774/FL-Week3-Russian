@@ -37,4 +37,26 @@ translate italian strings:
 
     old "Download free DLC containing this ending"
     new "Download free DLC containing this ending"
+
+translate italian strings:
+
+
+    old "Get DLC-2 containing this ending"
+    new "Get DLC-2 containing this ending"
+
+
+    old "Download this ending from Steam"
+    new "Download this ending from Steam"
+
+
+    old "Get this ending from Steam"
+    new "Get this ending from Steam"
+
+
+    old "Get this ending from Patreon"
+    new "Get this ending from Patreon"
+
+
+    old "Get this ending from GOG"
+    new "Get this ending from GOG"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -11,10 +11,9 @@ init python:
         return persistent.__getattribute__("has_e" + ending)
 
     def get_ending_status(ending):
-        global ending_status
         for i in endings_list:
             if ending == i[0]:
-                ending_status = i[4]
+                return i[4]
 
     def check_ending_lock(ending):
         for i in endings_list:

@@ -488,7 +488,7 @@ translate turkish e03s01_1cdab93e:
 translate turkish e03s01_ab5eb033:
 
 
-    "Umarım beni çok ileri görüşlü bulmazsın, Stacy. Ama bugün işten sonra aklımda [mcname]'in oyuncağı olmaktan başka bir şey yok."
+    mh "Umarım beni çok ileri görüşlü bulmazsın, Stacy. Ama bugün işten sonra aklımda [mcname]'in oyuncağı olmaktan başka bir şey yok."
 
 
 translate turkish e03s01_55e0c39b:

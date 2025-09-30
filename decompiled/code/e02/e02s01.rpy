@@ -819,7 +819,6 @@ label e02s01_give_pleasure:
     pause
     $ renpy.music.set_volume(0.5, 3.0, "music" )
 
-
     $ Lovense.stop()
 
     play sound sfx_cloth_rustling4 volume 2.0

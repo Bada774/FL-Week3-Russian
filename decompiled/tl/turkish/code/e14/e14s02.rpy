@@ -32,7 +32,7 @@ translate turkish e14s02_6a59de90:
 translate turkish e14s02_e5d5660a:
 
 
-    "Ya bu bir hataysa? Son kafeden zar zor kurtuldum. Ya sizi evinizden yüzlerce kilometre uzağa sürüklediysem-"
+    nk "Ya bu bir hataysa? Son kafeden zar zor kurtuldum. Ya sizi evinizden yüzlerce kilometre uzağa sürüklediysem-"
 
 
 translate turkish e14s02_2fb5e979:
@@ -542,7 +542,7 @@ translate turkish e14s02_ed2cbe03:
 translate turkish e14s02_4ad64dcf:
 
 
-    "Eninde sonunda yapmak zorundasın, değil mi? \"Geleceği düşünmezsen, geleceğe sahip olamazsın."
+    pw "Eninde sonunda yapmak zorundasın, değil mi? \"Geleceği düşünmezsen, geleceğe sahip olamazsın."
 
 
 translate turkish e14s02_9b6ea46d:

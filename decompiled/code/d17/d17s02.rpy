@@ -315,7 +315,6 @@ label d17s02_menu:
                 vw "Mm-hm. Yes, Sir."
                 mct "Sir?"
 
-
             play sound sfx_cloth_rustling3
             $ renpy.music.set_volume(1.0, 6.0, "music")
             jump d17s02_vw_footjob

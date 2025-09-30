@@ -482,7 +482,7 @@ translate turkish e12s07_sex_cebba43a:
 translate turkish e12s07_lounge_9acf661c:
 
 
-    vw "Ah-h. mcname] beni hamile bıraktığından beri, siki daha güzel kokuyor."
+    vw "Ah-h. [mcname] beni hamile bıraktığından beri, siki daha güzel kokuyor."
 
 
 translate turkish e12s07_lounge_c2b50ee2:
@@ -866,7 +866,7 @@ translate turkish e12s07_continue_73d59733:
 translate turkish e12s07_continue_f70f07f9:
 
 
-    "*Aç inlemeler* Seninle ve Vanessa benimle-"
+    aw "*Aç inlemeler* Seninle ve Vanessa benimle-"
 
 
 translate turkish e12s07_continue_5b4715fc:

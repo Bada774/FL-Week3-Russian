@@ -364,8 +364,6 @@ translate portuguese strings:
     old "APPY"
     new "ELIZ"
 
-translate portuguese strings:
-
 
     old "Finish Ending 4 and Ending 7"
     new "Complete o Final 4 e Final 7"
@@ -412,11 +410,11 @@ translate portuguese strings:
 
 
     old "41. Backdoor Cat Girl"
-    new "41. "
+    new "41. Backdoor Cat Girl"
 
 
     old "Backdoor Cat Girl (Ending 16)"
-    new ""
+    new "Backdoor Cat Girl (Final 16)"
 
 
     old "42. Pee Bootcamp"

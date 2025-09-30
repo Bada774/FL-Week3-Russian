@@ -105,4 +105,18 @@ translate chinese strings:
 
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "从Steam上获取包含6个额外结局的DLC-2"
+
+translate chinese strings:
+
+
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "在Steam上将 Fetish Locator: S&M Studio 加入愿望单"
+
+
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "在Steam上获取 Fetish Locator: S&M Studio"
+
+
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "观看 Fetish Locator: S&M Studio 预告片"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

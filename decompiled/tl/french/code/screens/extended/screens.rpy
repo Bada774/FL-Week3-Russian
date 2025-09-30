@@ -101,4 +101,14 @@ translate french strings:
 
     old "Watch Fetish Locator: S&M Studio trailer"
     new "Regardez Fetish Locator: bande-annonce de S&M Studio"
+
+translate french strings:
+
+
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Ajouter Fetish Locator : S&M Studio à la liste de souhaits sur Steam"
+
+
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Obtenir Fetish Locator : S&M Studio sur Steam"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

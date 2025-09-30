@@ -554,7 +554,7 @@ translate turkish e07s04_43298054:
 translate turkish e07s04_6d1197d7:
 
 
-    "{i}Bu oldukça seksi. Kahretsin!{/i}"
+    mct "{i}Bu oldukça seksi. Kahretsin!{/i}"
 
 
 translate turkish e07s04_00eb4d7b:
@@ -722,7 +722,7 @@ translate turkish e07s04_challenge_win_682c2874:
 translate turkish e07s04_challenge_win_14bf7ce4:
 
 
-    mct "Siktir... e07_lcname!t]'in bana ödülü vereceğini sanıyordum..."
+    mct "Siktir... [e07_lcname!t]'in bana ödülü vereceğini sanıyordum..."
 
 
 translate turkish e07s04_challenge_win_26d4f033:

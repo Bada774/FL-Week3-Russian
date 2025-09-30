@@ -535,7 +535,6 @@ label replay_e14s04:
     play voice2 mc_angry_hm2 noloop
     mct "I better pull my weight a little bit."
 
-
     scene e14s04-81 mc-nk-pw-drink1_c1 with dissolve
     play voice2 mc_happy_yay2 noloop
     mc "Here you go man. Enjoy the drink."

@@ -836,7 +836,7 @@ translate turkish e14s07_sex_b84d3c99:
 translate turkish e14s07_sex_4e774577:
 
 
-    "Güzel. İçime boşalmasına izin verdiğim tek kişi sensin. Uzun zamandır. Birçok kişi istedi ama izin verdiğim tek kişi sensin."
+    pw "Güzel. İçime boşalmasına izin verdiğim tek kişi sensin. Uzun zamandır. Birçok kişi istedi ama izin verdiğim tek kişi sensin."
 
 
 translate turkish e14s07_sex_ff7003e9:

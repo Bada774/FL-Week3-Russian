@@ -62,7 +62,7 @@ label e09s05:
     scene e09s05-02 party_prep_mc_hana_arrive_mc_talk_hug with dissolve
     play voice2 mc_arrogant_heh3 noloop
     mc "Thanks Stacy. It's good to be home."
-    scene e09s05-03 party_prep_mc_hana_arrive_mc_talk_hug_look_arj with dissolve
+    scene e09s05-03 party_prep_mc_hana_arrive_mc_talk_hug_look with dissolve
     play voice2 d2s9_confused noloop volume 1.7
     mc "And you two are..."
     mc "Uh. What are you two doing?"

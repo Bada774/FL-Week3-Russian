@@ -8,79 +8,79 @@ translate deutsch e09s04_3e4f99cc:
 translate deutsch e09s04_40353ee9:
 
 
-    hr "[mcname], I'd like you to meet Londyn."
+    hr "[mcname], ich möchte dir Londyn vorstellen."
 
 
 translate deutsch e09s04_c59a9ea7:
 
 
-    lo "Uhm, hi..."
+    lo "Ähm, hallo..."
 
 
 translate deutsch e09s04_2f87cfb4:
 
 
-    mc "It's nice to meet you, Londyn."
+    mc "Schön, dich kennenzulernen, Londyn."
 
 
 translate deutsch e09s04_6f628d03:
 
 
-    lo "Look, I don't know how I can help you."
+    lo "Hör mal, ich weiß nicht, wie ich dir helfen kann."
 
 
 translate deutsch e09s04_a82a82fc:
 
 
-    hr "We've talked about this already."
+    hr "Wir haben bereits darüber gesprochen."
 
 
 translate deutsch e09s04_850c9523:
 
 
-    lo "I just..."
+    lo "Ich habe ..."
 
 
 translate deutsch e09s04_cc8d69a3:
 
 
-    lo "I've moved past the Senator. I have my own life, I've finally built something. I got out. And I just...{w} don't want to get dragged back into this."
+    lo "Ich habe den Senator hinter mir gelassen. Ich habe mein eigenes Leben, ich habe endlich etwas aufgebaut. Ich bin da rausgekommen. Und...{w} ich will einfach nicht wieder da hineingezogen werden."
 
 
 translate deutsch e09s04_2b7ffeda:
 
 
-    hr "Come on, Londyn-"
+    hr "Komm schon, Londyn-"
 
 
 translate deutsch e09s04_953f2d35:
 
 
-    lo "Hana, I already told you all of this."
+    lo "Hana, das habe ich dir doch schon alles erzählt."
 
 
 translate deutsch e09s04_0cc8f5ed:
 
 
-    lo "I get it, he's a piece of shit. But I'm not doing this for one of your stories."
+    lo "Ich verstehe schon, er ist ein Stück Scheiße. Aber ich mache das nicht für eine deiner Geschichten."
 
 
 translate deutsch e09s04_944a06a1:
 
 
-    mc "It's not for her story."
+    mc "Es geht nicht um ihre Geschichten."
 
 
 translate deutsch e09s04_09bfa695:
 
 
-    mc "This isn't some exposé. We're not doing this for some fame or recognition."
+    mc "Das ist keine Enthüllungsgeschichte. Wir tun das nicht, um berühmt zu werden oder Anerkennung zu erlangen."
 
 
 translate deutsch e09s04_8f4fd857:
 
 
-    mc "The Senator is a shitty person. He is a bad man, and someone needs to stop him."
+    mc "Der Senator ist ein mieser Mensch. Er ist ein schlechter Mensch, und jemand muss ihn aufhalten."
 
 
 translate deutsch e09s04_1f26d0ae:
@@ -92,241 +92,241 @@ translate deutsch e09s04_1f26d0ae:
 translate deutsch e09s04_1f6a286c:
 
 
-    mc "I get what it's like, having someone who seems to have complete control over you."
+    mc "Ich verstehe, wie es ist, wenn jemand scheinbar die vollständige Kontrolle über dich hat."
 
 
 translate deutsch e09s04_a977d63c:
 
 
-    mc "And to feel like it's inescapable. But it's not, it {i}will{/i} end."
+    mc "Und das Gefühl zu haben, dass es unausweichlich ist. Aber das ist es nicht, es {i}wird{/i} enden."
 
 
 translate deutsch e09s04_1955500d:
 
 
-    mc "We saw what he did to you... You're not the only one."
+    mc "Wir haben gesehen, was er dir angetan hat... Du bist nicht die Einzige."
 
 
 translate deutsch e09s04_b1359d23:
 
 
-    mc "All we want is your help to prove that he's a piece of shit."
+    mc "Wir wollen nur deine Hilfe, um zu beweisen, dass er ein Stück Scheiße ist."
 
 
 translate deutsch e09s04_059e8efd:
 
 
-    lo "He... is not a good person..."
+    lo "Er... ist kein guter Mensch..."
 
 
 translate deutsch e09s04_86bd3938:
 
 
-    mc "So help us."
+    mc "Dann hilf uns."
 
 
 translate deutsch e09s04_42c79807:
 
 
-    lo "Back when I worked for him... he had a safe in his office with files, and a ledger, and phones."
+    lo "Als ich für ihn arbeitete, hatte er in seinem Büro einen Safe mit Akten, einem Hauptbuch und Telefonen."
 
 
 translate deutsch e09s04_15b977dc:
 
 
-    lo "I never really saw inside it, but if there's anything incriminating on the Senator, it's in there."
+    lo "Ich habe nie wirklich hineingesehen, aber wenn es irgendetwas Belastendes über den Senator gibt, dann ist es dort drin."
 
 
 translate deutsch e09s04_ebe589c5:
 
 
-    hr "Do you know how to open it?"
+    hr "Weißt du, wie man es öffnet?"
 
 
 translate deutsch e09s04_ab9a771a:
 
 
-    lo "Mmhmm. It's behind a painting in his office. There's a keypad. The code is..."
+    lo "Mmhmm. Es befindet sich hinter einem Gemälde in seinem Büro. Dort ist eine Tastatur. Der Code lautet..."
 
 
 translate deutsch e09s04_a67474b5:
 
 
-    lo "6 - 9 - 6 - 9. Then you hit the pound key."
+    lo "6 - 9 - 6 - 9. Dann drückt die Rautetaste."
 
 
 translate deutsch e09s04_1f0c8d59:
 
 
-    hr "Of course that's his pin number."
+    hr "Natürlich ist das seine PIN-Nummer."
 
 
 translate deutsch e09s04_b0eee977:
 
 
-    lo "But that's all I can do for you two. I...{w} He scares me. I know the Senator is powerful, and... I'm just getting my life back on track."
+    lo "Aber das ist alles, was ich für euch beide tun kann. Ich...{w} Er macht mir Angst. Ich weiß, dass der Senator mächtig ist, und... Ich bin gerade dabei, mein Leben wieder in den Griff zu bekommen."
 
 
 translate deutsch e09s04_d9519919:
 
 
-    mc "This is more than enough Londyn-"
+    mc "Das ist mehr als genug, Londyn-"
 
 
 translate deutsch e09s04_0b67f068:
 
 
-    hr "Unless you also want to testify."
+    hr "Es sei denn, du möchtest ebenfalls aussagen."
 
 
 translate deutsch e09s04_7772976a:
 
 
-    mc "Which you don't need to do. Getting into the safe will give us more than enough evidence to get him arrested."
+    mc "Das musst du nicht tun. Wenn wir in den Safe gelangen, haben wir mehr als genug Beweise, um ihn verhaften zu lassen."
 
 
 translate deutsch e09s04_517dc953:
 
 
-    lo "Thank you, [mcname]."
+    lo "Vielen Dank, [mcname]."
 
 
 translate deutsch e09s04_e830c333:
 
 
-    lo "Good luck, both of you. I... I hope this works."
+    lo "Viel Glück euch beiden. Ich... Ich hoffe, dass das klappt."
 
 
 translate deutsch e09s04_70e27e32:
 
 
-    hr "You did really well with her, [mcname]."
+    hr "Du hast das wirklich gut gemacht mit ihr, [mcname]."
 
 
 translate deutsch e09s04_6711ca34:
 
 
-    mc "Yeah, I can understand what it's like having something hanging over your head..."
+    mc "Ja, ich kann verstehen, wie es ist, wenn einem etwas über dem Kopf hängt..."
 
 
 translate deutsch e09s04_6b467271:
 
 
-    hr "She'll make for a great subject in my piece about the Senator."
+    hr "Sie wird ein großartiges Thema für meinen Artikel über den Senator sein."
 
 
 translate deutsch e09s04_bc3d5564:
 
 
-    mc "You know, that's why she almost walked out."
+    mc "Weißt du, deshalb wäre sie fast gegangen."
 
 
 translate deutsch e09s04_b050afd9:
 
 
-    hr "Because of the story? That's-"
+    hr "Wegen der Geschichte? Das ist..."
 
 
 translate deutsch e09s04_7098e6ec:
 
 
-    mc "No, not because of the story. But because she's just a subject to you. You know that these stories are about {i}people{/i}, right?"
+    mc "Nein, nicht wegen der Geschichte. Sondern weil sie für dich nur ein Thema ist. Du weißt doch, dass es in diesen Geschichten um {i}Menschen{/i} geht, oder?"
 
 
 translate deutsch e09s04_3f929e09:
 
 
-    mc "Just because you put the pen down, doesn't mean that the story ends."
+    mc "Nur weil du den Stift weglegst, heißt das nicht, dass die Geschichte zu Ende ist."
 
 
 translate deutsch e09s04_a0a205a1:
 
 
-    hr "I'll meet you outside of the Senator's estate in a few hours. Wear something sneaky."
+    hr "Ich treffe dich in ein paar Stunden vor dem Anwesen des Senators. Zieh dir etwas Unauffälliges an."
 
 
 translate deutsch e09s04_cadc87c4:
 
 
-    mc "I thought for sure that old guy was going to see us in the library."
+    mc "Ich war mir sicher, dass der alte Mann uns in der Bibliothek sehen würde."
 
 
 translate deutsch e09s04_a3455d6c:
 
 
-    hr "Colonel Catsup can't see anything in the dark. Unless he has his candelabra."
+    hr "Oberst Catsup kann im Dunkeln nichts sehen. Es sei denn, er hat seinen Kerzenleuchter dabei."
 
 
 translate deutsch e09s04_e064d2c9:
 
 
-    hr "But focus. We need to get out of here before the Senator comes up here."
+    hr "Aber konzentriere dich. Wir müssen hier raus, bevor der Senator hier oben ankommt."
 
 
 translate deutsch e09s04_7d00b826:
 
 
-    mc "Does he usually come to his office around this time?"
+    mc "Kommt er normalerweise um diese Zeit in sein Büro?"
 
 
 translate deutsch e09s04_4cd6c681:
 
 
-    hr "Let's hope not."
+    hr "Hoffen wir, dass das nicht der Fall ist."
 
 
 translate deutsch e09s04_1b6b9ffc:
 
 
-    mc "But the hard part is over! All we need to do is grab the file and get out."
+    mc "Aber das Schwierigste ist geschafft! Jetzt müssen wir nur noch die Datei holen und verschwinden."
 
 
 translate deutsch e09s04_a9ff15db:
 
 
-    hr "Why'd you have to say that."
+    hr "Warum musstest du das sagen?"
 
 
 translate deutsch e09s04_faf38c14:
 
 
-    mc "Say what?"
+    mc "Was sagst du da?"
 
 
 translate deutsch e09s04_43e224be:
 
 
-    hr "Every time-"
+    hr "Jedes Mal, wenn..."
 
 
 translate deutsch e09s04_cf3cc3cc:
 
 
-    hr "Quick, hide!"
+    hr "Schnell, versteck dich!"
 
 
 translate deutsch e09s04_a2803bc7:
 
 
-    "The Senator" "Put our investigator on it. I heard that the Congressman likes to gamble and fuck whores. Give it a day, and he won't be a problem anymore."
+    "Der Senator" "Setzen Sie unseren Ermittler darauf an. Ich habe gehört, dass der Kongressabgeordnete gerne spielt und mit Prostituierten schläft. Geben Sie ihm einen Tag Zeit, dann wird er kein Problem mehr sein."
 
 
 translate deutsch e09s04_4a51a480:
 
 
-    "The Senator" "And-{w} Wait a minute..."
+    "Der Senator" "Und-{w} Moment mal..."
 
 
 translate deutsch e09s04_16723422:
 
 
-    "The Senator" "It's nothing. I thought I had... left the stove on."
+    "Der Senator" "Es ist nichts. Ich dachte, ich hätte... den Herd angelassen."
 
 
 translate deutsch e09s04_3b3da206:
 
 
-    mc "All right, Hana. Let's get these files, and-"
+    mc "In Ordnung, Hana. Holen wir diese Akten und..."
 
 
 translate deutsch e09s04_69705684:
@@ -338,13 +338,13 @@ translate deutsch e09s04_69705684:
 translate deutsch e09s04_d204f323:
 
 
-    mc "Hana? What's wrong?"
+    mc "Hana? Was ist los?"
 
 
 translate deutsch e09s04_a6926ac9:
 
 
-    hr "He... We... We have to go. We have to leave. Right now."
+    hr "Er... Wir... Wir müssen gehen. Wir müssen weg. Sofort."
 
 
 translate deutsch e09s04_87cedd7b:
@@ -356,73 +356,73 @@ translate deutsch e09s04_87cedd7b:
 translate deutsch e09s04_316781e7:
 
 
-    hr "No, come on. Full abort. We have to leave."
+    hr "Nein, komm schon. Vollständiger Abbruch. Wir müssen gehen."
 
 
 translate deutsch e09s04_e5897419:
 
 
-    mct "Jesus, I knew she hated the guy, but this... she's terrified. I think she might need this more than Londyn does."
+    mct "Jesus, ich wusste, dass sie den Kerl hasst, aber das hier... sie hat Angst. Ich glaube, sie braucht das vielleicht mehr als Londyn."
 
 
 translate deutsch e09s04_9f0b101f:
 
 
-    mc "Hana, he's gone."
+    mc "Hana, er ist weg."
 
 
 translate deutsch e09s04_e6d88ce0:
 
 
-    hr "But he knows. He knows we were here. He'll punish us."
+    hr "Aber er weiß es. Er weiß, dass wir hier waren. Er wird uns bestrafen."
 
 
 translate deutsch e09s04_6c368176:
 
 
-    mc "No, Hana. He won't. It's our turn to punish him."
+    mc "Nein, Hana. Das wird er nicht. Jetzt sind wir an der Reihe, ihn zu bestrafen."
 
 
 translate deutsch e09s04_b36dfa34:
 
 
-    mc "Hana, look at me."
+    mc "Hana, sieh mich an."
 
 
 translate deutsch e09s04_099bc7ac:
 
 
-    hr "We have to leave... He's probably on his way to get his spiked paddle-"
+    hr "Wir müssen gehen... Er ist wahrscheinlich gerade auf dem Weg, um sein mit Stacheln versehenes Paddel zu holen."
 
 
 translate deutsch e09s04_fed322e8:
 
 
-    mc "Goddamnit, Hana, look at me."
+    mc "Verdammt, Hana, sieh mich an."
 
 
 translate deutsch e09s04_87c830e4:
 
 
-    mc "I got your back, okay? Nothing bad is going to happen. I just need you to get out from under the desk, okay?"
+    mc "Ich passe auf dich auf, okay? Es wird nichts Schlimmes passieren. Du musst nur unter dem Schreibtisch hervorkommen, okay?"
 
 
 translate deutsch e09s04_84611f0d:
 
 
-    hr "But-"
+    hr "Aber-"
 
 
 translate deutsch e09s04_4a603bbf:
 
 
-    mc "No buts. Just baby steps, okay?"
+    mc "Kein Aber. Nur kleine Schritte, okay?"
 
 
 translate deutsch e09s04_89368725:
 
 
-    mc "See? He's gone. Now, let's grab-"
+    mc "Siehst du? Er ist weg. Jetzt schnappen wir uns..."
 
 
 translate deutsch e09s04_25f2152a:
@@ -434,7 +434,7 @@ translate deutsch e09s04_25f2152a:
 translate deutsch e09s04_c94ba013:
 
 
-    mc "Hana, I promise you, for as long as you know me, and for as long as you are around me - nothing bad will happen to you, okay?"
+    mc "Hana, ich verspreche dir, solange du mich kennst und solange du in meiner Nähe bist, wird dir nichts Schlimmes passieren, okay?"
 
 
 translate deutsch e09s04_8df0fec6:
@@ -446,97 +446,97 @@ translate deutsch e09s04_8df0fec6:
 translate deutsch e09s04_5d1fa015:
 
 
-    hr "I... I..."
+    hr "Ich... Ich..."
 
 
 translate deutsch e09s04_d6a82366:
 
 
-    hr "Thank you, [mcname]."
+    hr "Vielen Dank, [mcname]."
 
 
 translate deutsch e09s04_3b076d13:
 
 
-    mc "Literally any time. Now come on, let's grab these files and blow this popsicle stand!"
+    mc "Wirklich jederzeit. Komm schon, schnapp dir diese Akten und lass uns hier verschwinden!"
 
 
 translate deutsch e09s04_f8199e01:
 
 
-    hr "And put a bad man behind bars."
+    hr "Und einen schlechten Menschen hinter Gitter bringen."
 
 
 translate deutsch e09s04_2cfd30ec:
 
 
-    hr "{size=*0.6}I finally got you, you son of a bitch.{/size}"
+    hr "{size=*0.6}Endlich habe ich dich, du Mistkerl.{/size}"
 
 
 translate deutsch e09s04_b0fbd2fb:
 
 
-    mc "That it?"
+    mc "Das ist alles?"
 
 
 translate deutsch e09s04_ce2237aa:
 
 
-    hr "Yep. A record of every scheme, crime, illicit liason, everything."
+    hr "Ja. Eine Aufzeichnung aller Intrigen, Verbrechen, illegalen Affären, einfach alles."
 
 
 translate deutsch e09s04_ffa887ba:
 
 
-    mc "Holy shit. We did it."
+    mc "Heilige Scheiße. Wir haben es geschafft."
 
 
 translate deutsch e09s04_fc7b2e90:
 
 
-    hr "Not yet, we still need to get out of here. Let's go."
+    hr "Noch nicht, wir müssen erst noch hier raus. Los geht's."
 
 
 translate deutsch e09s04_e7822d07:
 
 
-    lo "[mcname]! Hi!"
+    lo "[mcname]! Hallo!"
 
 
 translate deutsch e09s04_76b71d0f:
 
 
-    mc "Hey, Londyn! Didn't think I was going to see you here."
+    mc "Hey, Londyn! Hätte nicht gedacht, dass ich dich hier sehen würde."
 
 
 translate deutsch e09s04_1a2ed7cc:
 
 
-    lo "I didn't think I was going to see you! Did Hana tell you why she wanted us to meet at her boat?"
+    lo "Ich hätte nicht gedacht, dass ich dich sehen würde! Hat Hana dir gesagt, warum sie wollte, dass wir uns auf ihrem Boot treffen?"
 
 
 translate deutsch e09s04_4bca7deb:
 
 
-    mc "No clue. But she sounded..."
+    mc "Keine Ahnung. Aber sie klang..."
 
 
 translate deutsch e09s04_7b8de1f4:
 
 
-    lo "Excited?"
+    lo "Aufgeregt?"
 
 
 translate deutsch e09s04_ff4ca9e2:
 
 
-    mc "Yeah, which makes me nervous. I've never heard her excited about anything."
+    mc "Ja, das macht mich nervös. Ich habe sie noch nie über irgendetwas so begeistert gehört."
 
 
 translate deutsch e09s04_e378b2e7:
 
 
-    lo "Same."
+    lo "Geht mir genauso."
 
 
 translate deutsch e09s04_d8eaba52:
@@ -548,241 +548,241 @@ translate deutsch e09s04_d8eaba52:
 translate deutsch e09s04_05eaaa65:
 
 
-    hr "Come aboard!"
+    hr "Kommt an Bord!"
 
 
 translate deutsch e09s04_2bf2731b:
 
 
-    lo "Aye, aye, Captain!"
+    lo "Jawohl, Kapitän!"
 
 
 translate deutsch e09s04_d18e8064:
 
 
-    mc "After you."
+    mc "Nach dir."
 
 
 translate deutsch e09s04_0f78e082:
 
 
-    hr "I'm so happy you two could make it!"
+    hr "Ich bin so froh, dass ihr beide kommen konntet!"
 
 
 translate deutsch e09s04_f0d4f259:
 
 
-    mc "Are you okay, Hana? You're not having a stroke or something, are you?"
+    mc "Geht es dir gut, Hana? Du hast doch keinen Schlaganfall oder so etwas, oder?"
 
 
 translate deutsch e09s04_b541b566:
 
 
-    hr "What the hell makes you think I'm having a stroke?"
+    hr "Was zum Teufel lässt dich glauben, dass ich einen Schlaganfall habe?"
 
 
 translate deutsch e09s04_2635bfbc:
 
 
-    lo "Well... you're just smiling. A lot."
+    lo "Nun ja... du lächelst einfach nur. Sehr viel."
 
 
 translate deutsch e09s04_ef00c238:
 
 
-    hr "No, it's not a stroke. I just... feel good. For the first time, in a long time, I feel {i}amazing{/i}."
+    hr "Nein, es ist kein Schlaganfall. Ich fühle mich einfach gut. Zum ersten Mal seit langer Zeit fühle ich mich {i}fantastisch{/i}."
 
 
 translate deutsch e09s04_6417dd43:
 
 
-    mc "Well, that's good! What has you so happy?"
+    mc "Das ist ja toll! Was macht dich so glücklich?"
 
 
 translate deutsch e09s04_40641187:
 
 
-    hr "It's actually why I called you both, I wanted you to be the first to know."
+    hr "Das ist eigentlich der Grund, warum ich euch beide angerufen habe. Ich wollte, dass ihr es als Erste erfahrt."
 
 
 translate deutsch e09s04_b708cbf4:
 
 
-    hr "But, you both need a glass of bubbly before I tell you."
+    hr "Aber ihr braucht beide erst einmal ein Glas Sekt, bevor ich es euch erzähle."
 
 
 translate deutsch e09s04_90c44ba6:
 
 
-    lo "Smiles? Champagne? Who are you, and where is Hana?"
+    lo "Lächeln? Champagner? Wer bist du und wo ist Hana?"
 
 
 translate deutsch e09s04_ffa89625:
 
 
-    hr "Haha, I know. I'm not acting like my regular old self, but you'll understand why in a second."
+    hr "Haha, ich weiß. Ich bin nicht ganz ich selbst, aber du wirst gleich verstehen, warum."
 
 
 translate deutsch e09s04_1f5f79eb:
 
 
-    mc "All right, we have our glasses, we're on your boat - the hell is going on with you Hana?"
+    mc "Okay, wir haben unsere Gläser, wir sind auf deinem Boot – was zum Teufel ist mit dir los, Hana?"
 
 
 translate deutsch e09s04_2dccb318:
 
 
-    hr "Tomorrow, the DA is officially charging the Senator with pretty much every white collar crime in the book."
+    hr "Morgen wird die Staatsanwaltschaft den Senator offiziell wegen so ziemlich aller Wirtschaftskriminalitätsdelikte anklagen, die es gibt."
 
 
 translate deutsch e09s04_d38b89e3:
 
 
-    lo "What!? Really?"
+    lo "Was!? Wirklich?"
 
 
 translate deutsch e09s04_7c10c730:
 
 
-    hr "Yep. Blackmail, extortion, racketeering - you name it, it's on the list."
+    hr "Ja. Erpressung, Nötigung, Schutzgelderpressung – was auch immer, es steht auf der Liste."
 
 
 translate deutsch e09s04_3e841471:
 
 
-    hr "And, it's going to be a national story. Every news outlet is going to be running the same headline at 8 AM."
+    hr "Und es wird eine landesweite Schlagzeile werden. Alle Nachrichtenagenturen werden um 8 Uhr morgens dieselbe Schlagzeile bringen."
 
 
 translate deutsch e09s04_3723ac23:
 
 
-    hr "'Senator from Crowning - charged with record breaking list of crimes'. And I'm the one who gets to break the story."
+    hr "„Senator aus Crowning – wegen einer rekordverdächtigen Liste von Straftaten angeklagt“. Und ich bin derjenige, der diese Geschichte veröffentlichen darf."
 
 
 translate deutsch e09s04_c51e420a:
 
 
-    lo "Oh my God, Hana-"
+    lo "Oh mein Gott, Hana-"
 
 
 translate deutsch e09s04_3a9e7958:
 
 
-    mc "That's incredible! Holy shit! Congrats!"
+    mc "Das ist unglaublich! Heilige Scheiße! Herzlichen Glückwunsch!"
 
 
 translate deutsch e09s04_cfa29fe1:
 
 
-    hr "See why we needed the champagne?"
+    hr "Verstehst du jetzt, warum wir den Champagner gebraucht haben?"
 
 
 translate deutsch e09s04_e9a28e46:
 
 
-    mc "Yeah!"
+    mc "Ja!"
 
 
 translate deutsch e09s04_c16f4edb:
 
 
-    hr "And I couldn't have done it without you two."
+    hr "Und ohne euch beide hätte ich das nicht geschafft."
 
 
 translate deutsch e09s04_243b59dd:
 
 
-    lo "No, this is for you, Hana. What you've pulled off is amazing, I can't believe after all this time he's finally going to jail!"
+    lo "Nein, das ist für dich, Hana. Was du da geschafft hast, ist unglaublich. Ich kann es kaum glauben, dass er nach all dieser Zeit endlich ins Gefängnis muss!"
 
 
 translate deutsch e09s04_d55a1417:
 
 
-    mc "Hear, hear. And to be able to report on the story! That's fucking awesome!"
+    mc "Hört, hört. Und dass du darüber berichten kannst! Das ist verdammt großartig!"
 
 
 translate deutsch e09s04_42048c32:
 
 
-    hr "Actually, I wanted to toast you, [mcname]."
+    hr "Eigentlich wollte ich auf dich anstoßen, [mcname]."
 
 
 translate deutsch e09s04_80181d29:
 
 
-    mc "Why? I only helped-"
+    mc "Warum? Ich habe doch nur geholfen..."
 
 
 translate deutsch e09s04_ffdbdd72:
 
 
-    hr "You helped a lot. You're the one who found the data on the Fetish Locator drive. You're the one who convinced Londyn."
+    hr "Du hast mir sehr geholfen. Du hast die Daten auf dem Fetish Locator-Laufwerk gefunden. Du hast Londyn überzeugt."
 
 
 translate deutsch e09s04_52ba6f21:
 
 
-    hr "You're the one who managed to calm me down when we were in his office."
+    hr "Du bist derjenige, der es geschafft hat, mich zu beruhigen, als wir in seinem Büro waren."
 
 
 translate deutsch e09s04_7c03f607:
 
 
-    hr "This wouldn't have been possible without you, [mcname]."
+    hr "Ohne dich, [mcname], wäre das nicht möglich gewesen."
 
 
 translate deutsch e09s04_1b94c7b2:
 
 
-    mc "Aww, come on. I was just a part of the team."
+    mc "Ach, komm schon. Ich war nur ein Teil des Teams."
 
 
 translate deutsch e09s04_809f0dba:
 
 
-    hr "Oh, shut up and just take the compliment, you ass."
+    hr "Ach, halt die Klappe und nimm das Kompliment einfach an, du Arsch."
 
 
 translate deutsch e09s04_92b2014c:
 
 
-    lo "Hehe, now that's the Hana I know."
+    lo "Hehe, das ist die Hana, die ich kenne."
 
 
 translate deutsch e09s04_d2b87141:
 
 
-    mc "Yes, yes it is."
+    mc "Ja, das ist es."
 
 
 translate deutsch e09s04_f032d082:
 
 
-    hr "To the dawn of a new day!"
+    hr "Auf den Anbruch eines neuen Tages!"
 
 
 translate deutsch e09s04_4acab406:
 
 
-    lo "So, now that he's being charged, what's next?"
+    lo "Nun, da er angeklagt wurde, wie geht es weiter?"
 
 
 translate deutsch e09s04_7f5ba0a1:
 
 
-    hr "He'll bring in all his lawyers, they'll all try and disprove the authenticity of the ledger, and say the USB documents are forged."
+    hr "Er wird alle seine Anwälte hinzuziehen, die alle versuchen werden, die Echtheit des Hauptbuchs zu widerlegen und behaupten werden, dass die USB-Dokumente gefälscht sind."
 
 
 translate deutsch e09s04_9b18bfa7:
 
 
-    hr "But, they've already been authenticated and verified. The best he can hope for is a plea deal, which he won't take. And then it's off to trial."
+    hr "Aber sie wurden bereits authentifiziert und verifiziert. Das Beste, worauf er hoffen kann, ist ein Plädoyerabkommen, das er jedoch nicht annehmen wird. Und dann geht es vor Gericht."
 
 
 translate deutsch e09s04_56c4239f:
 
 
-    lo "Wow... And trials usually go on a long time, right?"
+    lo "Wow... Und Gerichtsverfahren dauern normalerweise ziemlich lange, oder?"
 
 
 translate deutsch e09s04_ffd99482:
@@ -794,7 +794,7 @@ translate deutsch e09s04_ffd99482:
 translate deutsch e09s04_431d4202:
 
 
-    lo "And you're going to be following the trial the whole time?"
+    lo "Und du wirst den Prozess die ganze Zeit über verfolgen?"
 
 
 translate deutsch e09s04_12d0b4a4:
@@ -806,43 +806,43 @@ translate deutsch e09s04_12d0b4a4:
 translate deutsch e09s04_5b9dd8cc:
 
 
-    hr "In fact, that's going to be so busy, it's going to be my sole focus."
+    hr "Tatsächlich wird das so viel Arbeit sein, dass es mein einziger Fokus sein wird."
 
 
 translate deutsch e09s04_b84f6b76:
 
 
-    hr "So I won't have any time to run any other stories."
+    hr "Also werde ich keine Zeit haben, andere Geschichten zu schreiben."
 
 
 translate deutsch e09s04_f18fa32b:
 
 
-    mc "Wait, are you saying what I think you're saying?"
+    mc "Moment mal, meinst du damit wirklich das, was ich denke?"
 
 
 translate deutsch e09s04_95bb6ff4:
 
 
-    hr "Yep. I decided not to run the hit piece on Fetish Locator."
+    hr "Ja. Ich habe beschlossen, den Verriss über Fetish Locator nicht zu veröffentlichen."
 
 
 translate deutsch e09s04_701d2464:
 
 
-    mc "What!?"
+    mc "Was!?"
 
 
 translate deutsch e09s04_d25b2d2b:
 
 
-    hr "Yeah. I thought about it a lot, and..."
+    hr "Ja. Ich habe viel darüber nachgedacht und..."
 
 
 translate deutsch e09s04_0db88fdf:
 
 
-    hr "Fetish Locator helped me. In a weird, roundabout way. It was able to do something for me I've wanted to happen for so long. I'd be a hypocrite to criticize it now."
+    hr "Fetish Locator hat mir geholfen. Auf eine seltsame, indirekte Art und Weise. Es hat mir etwas ermöglicht, was ich mir schon so lange gewünscht habe. Es wäre heuchlerisch von mir, es jetzt zu kritisieren."
 
 
 translate deutsch e09s04_87cedd7b_1:
@@ -854,181 +854,181 @@ translate deutsch e09s04_87cedd7b_1:
 translate deutsch e09s04_ff5eeea3:
 
 
-    hr "I also made another decision about Fetish Locator Rebooted."
+    hr "Ich habe auch eine weitere Entscheidung bezüglich Fetish Locator Rebooted getroffen."
 
 
 translate deutsch e09s04_22513c67:
 
 
-    mc "Oh, uhhh-"
+    mc "Oh, ähm..."
 
 
 translate deutsch e09s04_b9cc67d8:
 
 
-    hr "I've decided to come on board."
+    hr "Ich habe mich entschlossen, mitzumachen."
 
 
 translate deutsch e09s04_b2b9e19d:
 
 
-    mc "What do you mean?"
+    mc "Was meinst du damit?"
 
 
 translate deutsch e09s04_f11e6816:
 
 
-    hr "Well, you talked about having oversight."
+    hr "Nun, du hast von Aufsicht gesprochen."
 
 
 translate deutsch e09s04_8852e77f:
 
 
-    mc "Uh huh."
+    mc "Aha."
 
 
 translate deutsch e09s04_c0f2af16:
 
 
-    hr "I figured I could do that, in a more official capacity."
+    hr "Ich dachte mir, dass ich das in einer offizielleren Funktion tun könnte."
 
 
 translate deutsch e09s04_9d24f9bf:
 
 
-    mc "Hana, I don't even know what to say."
+    mc "Hana, ich weiß gar nicht, was ich sagen soll."
 
 
 translate deutsch e09s04_806b375c:
 
 
-    hr "'Thanks, Hana, for deciding to come on board.'"
+    hr "„Danke, Hana, dass du dich entschieden hast, mitzumachen.“"
 
 
 translate deutsch e09s04_1099ff7f:
 
 
-    lo "You do have such a way with words."
+    lo "Du hast wirklich eine Begabung für Worte."
 
 
 translate deutsch e09s04_4a86df7f:
 
 
-    hr "I know. But even better, I've also got a little surprise for you, [mcname]."
+    hr "Ich weiß. Aber es kommt noch besser: Ich habe auch eine kleine Überraschung für dich, [mcname]."
 
 
 translate deutsch e09s04_ede1bc3b:
 
 
-    hr "Think of it as a thank you for your help with the mansion."
+    hr "Betrachte es als Dankeschön für deine Hilfe mit der Villa."
 
 
 translate deutsch e09s04_be22ebf4:
 
 
-    mc "Holy shit, Hana, this is-"
+    mc "Heilige Scheiße, Hana, das ist..."
 
 
 translate deutsch e09s04_cb66a630:
 
 
-    hr "About ten thousand dollars."
+    hr "Etwa zehntausend Dollar."
 
 
 translate deutsch e09s04_7168d4f3:
 
 
-    mc "What!"
+    mc "Was!"
 
 
 translate deutsch e09s04_16f974d8:
 
 
-    lo "Oh my God, Hana! Where'd you get that kind of cash?"
+    lo "Oh mein Gott, Hana! Woher hast du so viel Geld?"
 
 
 translate deutsch e09s04_1c7e36b6:
 
 
-    hr "When my Mom... passed, she left a sizeable part of her estate to Iona and myself."
+    hr "Als meine Mutter ... verstarb, hinterließ sie einen beträchtlichen Teil ihres Vermögens, Iona und mir."
 
 
 translate deutsch e09s04_30dbfcd5:
 
 
-    hr "She had grown to distrust the Senator, and for good reason."
+    hr "Sie hatte gelernt, dem Senator zu misstrauen, und das aus gutem Grund."
 
 
 translate deutsch e09s04_f4d8e616:
 
 
-    hr "After she was... gone, he ended up blocking Iona and I from touching the money. He couldn't get to it, but he made damn sure we couldn't either."
+    hr "Nachdem sie ... weg war, hinderte er Iona und mich daran, an das Geld zu kommen. Er konnte selbst nicht daran kommen, aber er sorgte dafür, dass wir es auch nicht konnten."
 
 
 translate deutsch e09s04_09abc85b:
 
 
-    hr "But now that he's been arrested, he can't block it anymore."
+    hr "Aber jetzt, wo er verhaftet wurde, kann er es nicht mehr blockieren."
 
 
 translate deutsch e09s04_2778c62e:
 
 
-    mc "So what, you're rich now?"
+    mc "Na und, bist du jetzt reich?"
 
 
 translate deutsch e09s04_d39d44fa:
 
 
-    hr "Something like that. But growing up I was always told to invest, invest, invest."
+    hr "So etwas in der Art. Aber als ich aufwuchs, wurde mir immer gesagt, ich solle investieren, investieren, investieren."
 
 
 translate deutsch e09s04_cde91d48:
 
 
-    hr "I figure Fetish Locator Rebooted is a great place to start. Wherever it goes, I'm sure it is going to do great. Especially with you at the helm."
+    hr "Ich denke, Fetish Locator Rebooted ist ein guter Anfang. Wo auch immer es hingeht, ich bin mir sicher, dass es großartig laufen wird. Vor allem mit euch an der Spitze."
 
 
 translate deutsch e09s04_f70f854e:
 
 
-    lo "Wait... wasn't Fetish Locator like just shut down?"
+    lo "Moment mal... wurde Fetish Locator nicht gerade geschlossen?"
 
 
 translate deutsch e09s04_a878c943:
 
 
-    hr "Uh huh. You're standing next to the guy responsible for it?"
+    hr "Aha. Du stehst neben dem Typen, der dafür verantwortlich ist?"
 
 
 translate deutsch e09s04_ae7f6f3c:
 
 
-    lo "Then... why are you starting it back up?"
+    lo "Dann... warum fängst du wieder damit an?"
 
 
 translate deutsch e09s04_d93437d0:
 
 
-    mc "Because we think we can do it better. Create a safe place for people to explore their fetishes, meet other like-minded individuals."
+    mc "Weil wir glauben, dass wir es besser machen können. Schaffen Sie einen sicheren Ort, an dem Menschen ihre Fetische erkunden und andere Gleichgesinnte treffen können."
 
 
 translate deutsch e09s04_35408e54:
 
 
-    mc "Unlike what Lydia was doing..."
+    mc "Im Gegensatz zu dem, was Lydia tat..."
 
 
 translate deutsch e09s04_d41545c0:
 
 
-    lo "I do remember hearing some wild stories on my campus about it. We had a transfer student from Crowning who knew someone on the app."
+    lo "Ich erinnere mich, dass ich auf meinem Campus einige wilde Geschichten darüber gehört habe. Wir hatten einen Transferstudenten aus Crowning, der jemanden auf der App kannte."
 
 
 translate deutsch e09s04_4f611831:
 
 
-    lo "He heard a rumor that some guy had to try and fuck 20 chicks in a week!"
+    lo "Er hörte ein Gerücht, dass ein Typ versuchen musste, innerhalb einer Woche 20 Frauen zu vögeln!"
 
 
 translate deutsch e09s04_2f3b7a6b:
@@ -1040,247 +1040,247 @@ translate deutsch e09s04_2f3b7a6b:
 translate deutsch e09s04_3b0926d7:
 
 
-    lo "I know! I laughed too, because that's ridiculous!"
+    lo "Ich weiß! Ich habe auch gelacht, weil das lächerlich ist!"
 
 
 translate deutsch e09s04_69c25b65:
 
 
-    mc "Yeah..."
+    mc "Ja..."
 
 
 translate deutsch e09s04_12aa1085:
 
 
-    lo "Wait. Was that you?"
+    lo "Moment mal. Warst du das?"
 
 
 translate deutsch e09s04_57975ea9:
 
 
-    mc "Uhm... yeah."
+    mc "Ähm... ja."
 
 
 translate deutsch e09s04_d0b87e0c:
 
 
-    lo "Oh my - Hana, you didn't tell me I was in the presence of a legend!"
+    lo "Oh mein Gott – Hana, du hast mir gar nicht gesagt, dass ich in der Gegenwart einer Legende bin!"
 
 
 translate deutsch e09s04_9b6a072b:
 
 
-    hr "You hear that, [mcname]!? You're a legend! Hahahaha!"
+    hr "Hast du das gehört, [mcname]!? Du bist eine Legende! Hahahaha!"
 
 
 translate deutsch e09s04_993a8a28:
 
 
-    mc "Hey, it's not that funny!"
+    mc "Hey, das ist gar nicht so lustig!"
 
 
 translate deutsch e09s04_d71f6103:
 
 
-    lo "God, if that rumor was true... I can't imagine what else was true..."
+    lo "Gott, wenn dieses Gerücht wahr wäre... Ich kann mir nicht vorstellen, was sonst noch wahr sein könnte..."
 
 
 translate deutsch e09s04_53d68880:
 
 
-    mc "Probably most of it."
+    mc "Wahrscheinlich das meiste davon."
 
 
 translate deutsch e09s04_33814526:
 
 
-    lo "Did you ever get to go to one of the sex parties?"
+    lo "Warst du schon einmal auf einer dieser Sexpartys?"
 
 
 translate deutsch e09s04_d5b033e6:
 
 
-    hr "Go - he headlined one of them."
+    hr "Los – er war der Headliner einer davon."
 
 
 translate deutsch e09s04_901dd638:
 
 
-    lo "Gah, you're so lucky."
+    lo "Ach, du hast so ein Glück."
 
 
 translate deutsch e09s04_b9ec9bb0:
 
 
-    hr "Yeah, he - wait, what?"
+    hr "Ja, er – Moment mal, was?"
 
 
 translate deutsch e09s04_926eaf9a:
 
 
-    lo "Yeah. I always wanted to go to one. But, you know, I don't go to college in Crowning."
+    lo "Ja. Ich wollte schon immer mal zu einer gehen. Aber weißt du, ich gehe nicht aufs College in Crowning."
 
 
 translate deutsch e09s04_35513a5e:
 
 
-    hr "Wait, Londyn, you {i}wanted{/i} to go to one?"
+    hr "Warte mal, Londyn, du {i}wolltest{/i} doch zu einer gehen?"
 
 
 translate deutsch e09s04_52f0346f:
 
 
-    lo "Uh huh! They always sounded like so much fun!"
+    lo "Ja, genau! Das klang immer so lustig!"
 
 
 translate deutsch e09s04_1c90f3db:
 
 
-    hr "I didn't know you were such a little freak!"
+    hr "Ich wusste gar nicht, dass du so eine kleine Verrückte bist!"
 
 
 translate deutsch e09s04_99cc6b2e:
 
 
-    lo "Oh the stories I could tell you."
+    lo "Oh, was ich dir alles erzählen könnte."
 
 
 translate deutsch e09s04_ef4ceb53:
 
 
-    mc "It's funny that you bring up the parties, because we're actually going to be hosting a launch party for Fetish Locator Rebooted."
+    mc "Es ist lustig, dass du die Partys erwähnst, denn wir veranstalten tatsächlich eine Launch-Party für Fetish Locator Rebooted."
 
 
 translate deutsch e09s04_3accbd82:
 
 
-    lo "Can I come? Please!"
+    lo "Kann ich kommen? Bitte!"
 
 
 translate deutsch e09s04_680ddc1e:
 
 
-    mc "Absolutely! You can be Hana's plus one."
+    mc "Auf jeden Fall! Du kannst Hanas Begleitperson sein."
 
 
 translate deutsch e09s04_88545f1f:
 
 
-    hr "Oh, you think I'm going to be there?"
+    hr "Oh, du denkst, ich werde dort sein?"
 
 
 translate deutsch e09s04_599f3433:
 
 
-    mc "As the head of our new Oversight Committee, I'd hope you'd be there."
+    mc "Als Leiterin unseres neuen Aufsichtsausschusses würde ich mich freuen, wenn du dabei wärst."
 
 
 translate deutsch e09s04_67b8fbdc:
 
 
-    hr "Shit..."
+    hr "Scheiße..."
 
 
 translate deutsch e09s04_35162b1f:
 
 
-    lo "I can audition for a ticket!"
+    lo "Ich kann mich für ein Ticket bewerben!"
 
 
 translate deutsch e09s04_f296eeaa:
 
 
-    mc "You don't need to-"
+    mc "Du brauchst nicht..."
 
 
 translate deutsch e09s04_b746bf9c:
 
 
-    lo "But I {i}want to.{/i}"
+    lo "Aber ich {i}möchte es.{/i}"
 
 
 translate deutsch e09s04_57d2e1e7:
 
 
-    mc "Well, I would need to check with the head of my Oversight Committee-"
+    mc "Nun, ich müsste mich mit der Vorsitzenden meines Aufsichtsausschusses abstimmen..."
 
 
 translate deutsch e09s04_495be908:
 
 
-    hr "I think that it's perfectly fine and acceptable."
+    hr "Ich denke, dass das völlig in Ordnung und akzeptabel ist."
 
 
 translate deutsch e09s04_18c2ea47:
 
 
-    mc "Well... then who am I to say no?"
+    mc "Nun... wer bin ich dann, dass ich Nein sagen könnte?"
 
 
 translate deutsch e09s04_b3910520:
 
 
-    lo "Mmmm... I've wanted to rip your clothes off since I saw you walk up to me."
+    lo "Mmmm... Seit ich dich auf mich zukommen sah, wollte ich dir die Kleider vom Leib reißen."
 
 
 translate deutsch e09s04_3ca22a14:
 
 
-    lo "And it's even better that I've maybe heard all these rumors about you.{w} I intend to find out if they're true."
+    lo "Und es ist sogar noch besser, dass ich vielleicht all diese Gerüchte über dich gehört habe.{w} Ich habe vor, herauszufinden, ob sie wahr sind."
 
 
 translate deutsch e09s04_4425b5a8:
 
 
-    hr "Oh, they probably are."
+    hr "Oh, wahrscheinlich schon."
 
 
 translate deutsch e09s04_46a2df4c:
 
 
-    lo "So what are you waiting for? Take off your pants."
+    lo "Worauf wartest du noch? Zieh deine Hose aus."
 
 
 translate deutsch e09s04_9f38c54c:
 
 
-    mc "Whatever you say!"
+    mc "Wie du meinst!"
 
 
 translate deutsch e09s04_82129b56:
 
 
-    lo "I hope this is as good as I imagine it's about to be."
+    lo "Ich hoffe, dass es so gut wird, wie ich es mir vorstelle."
 
 
 translate deutsch e09s04_5d7b067b:
 
 
-    lo "Mmmmm... So far, so good."
+    lo "Mmmmm... Bis jetzt läuft alles gut."
 
 
 translate deutsch e09s04_17320338:
 
 
-    lo "How about we show him a good time, Hana?"
+    lo "Wie wäre es, wenn wir ihm eine schöne Zeit bereiten, Hana?"
 
 
 translate deutsch e09s04_54ec4133:
 
 
-    hr "I'll follow your lead."
+    hr "Ich werde mich an dir orientieren."
 
 
 translate deutsch e09s04_781964c7:
 
 
-    hr "Oh, I see what you're going for."
+    hr "Oh, ich verstehe, worauf du hinauswillst."
 
 
 translate deutsch e09s04_139cd9f3:
 
 
-    mc "Wait, are you doing what I think you're doing?"
+    mc "Moment mal, machst du gerade das, was ich denke?"
 
 
 translate deutsch e09s04_51783ec1:
@@ -1292,19 +1292,19 @@ translate deutsch e09s04_51783ec1:
 translate deutsch e09s04_2eb206ea:
 
 
-    mc "Oh fuuuuuck!"
+    mc "Oh verdammt!"
 
 
 translate deutsch e09s04_c2d4f017:
 
 
-    mc "Oh, that's pretty fucking good!"
+    mc "Oh, das ist verdammt gut!"
 
 
 translate deutsch e09s04_cc6d887f:
 
 
-    mc "God, you two in sync is pretty incredible, holy shit."
+    mc "Mann, dass ihr beide so gut harmoniert, ist echt unglaublich, verdammt noch mal."
 
 
 translate deutsch e09s04_5a2c0bab:
@@ -1316,7 +1316,7 @@ translate deutsch e09s04_5a2c0bab:
 translate deutsch e09s04_05800ef5:
 
 
-    mc "Ooooooo, when you move our lips like that - oh fuuuuck!"
+    mc "Ooooooo, wenn ihr eure Lippen so bewegt – oh verdammt!"
 
 
 translate deutsch e09s04_e6fc20b7:
@@ -1334,13 +1334,13 @@ translate deutsch e09s04_7f59a92b:
 translate deutsch e09s04_eafa92ed:
 
 
-    mc "Oh yeah, fuuuck yeah, nggggggh!"
+    mc "Oh ja, verdammt ja, nggggggh!"
 
 
 translate deutsch e09s04_e991408f:
 
 
-    mc "I could do this forever, this is amazing!"
+    mc "Ich könnte das ewig machen, das ist unglaublich!"
 
 
 translate deutsch e09s04_41e3b610:
@@ -1358,7 +1358,7 @@ translate deutsch e09s04_703664f3:
 translate deutsch e09s04_b95e302d:
 
 
-    mc "God, have you two done this before? You have the technique down perfect!"
+    mc "Gott, habt ihr das schon mal gemacht? Ihr habt die Technik perfekt drauf!"
 
 
 translate deutsch e09s04_33ac13df:
@@ -1370,19 +1370,19 @@ translate deutsch e09s04_33ac13df:
 translate deutsch e09s04_066ddc13:
 
 
-    lo "I'm glad you liked my opener, [mcname]."
+    lo "Ich freue mich, dass dir meine Einleitung gefallen hat, [mcname]."
 
 
 translate deutsch e09s04_afdcff90:
 
 
-    mc "How could I not?"
+    mc "Wie könnte ich das nicht?"
 
 
 translate deutsch e09s04_27337bb9:
 
 
-    lo "Hana... I've always thought you were super sexy."
+    lo "Hana... Ich habe dich schon immer für super sexy gehalten."
 
 
 translate deutsch e09s04_97ba0a15:
@@ -1394,259 +1394,259 @@ translate deutsch e09s04_97ba0a15:
 translate deutsch e09s04_bce85b10:
 
 
-    lo "I just figured I should tell you before we fuck [mcname] together."
+    lo "Ich dachte mir nur, ich sollte es dir sagen, bevor wir zusammen [mcname] ficken."
 
 
 translate deutsch e09s04_3fbd5ce7:
 
 
-    hr "Well you're pretty hot too, Londyn."
+    hr "Du bist auch ziemlich heiß, Londyn."
 
 
 translate deutsch e09s04_b17185a3:
 
 
-    mct "Holy shit..."
+    mct "Heilige Scheiße..."
 
 
 translate deutsch e09s04_ff3b8f11:
 
 
-    mct "I'm standing on Hana's boat, after getting a double blowjob from two absolute hotties, and now they're making out in front of me."
+    mct "Ich stehe auf Hanas Boot, nachdem ich von zwei absoluten Schönheiten einen doppelten Blowjob bekommen habe, und jetzt knutschen sie vor meinen Augen."
 
 
 translate deutsch e09s04_94830b8f:
 
 
-    mct "After I got some of the best news I've gotten in weeks? How has my life gotten crazier?"
+    mct "Nachdem ich einige der besten Nachrichten seit Wochen erhalten habe? Wie ist mein Leben noch verrückter geworden?"
 
 
 translate deutsch e09s04_db898359:
 
 
-    mc "Pinch me."
+    mc "Kneif mich mal."
 
 
 translate deutsch e09s04_bc898f0f:
 
 
-    mc "Ow!"
+    mc "Aua!"
 
 
 translate deutsch e09s04_f462fe68:
 
 
-    lo "What, you asked me to pinch you."
+    lo "Was, du hast mich gebeten, dich zu kneifen?"
 
 
 translate deutsch e09s04_70ecf9a0:
 
 
-    mc "I know, I just had to make sure."
+    mc "Ich weiß, ich musste mich nur vergewissern."
 
 
 translate deutsch e09s04_6586895e:
 
 
-    hr "All right, weirdo. Now lay down, there's more fun to be had."
+    hr "Na gut, du Spinner. Jetzt leg dich hin, es gibt noch mehr Spaß zu erleben."
 
 
 translate deutsch e09s04_08f35ebd:
 
 
-    mct "I wonder what else these two have in mind..."
+    mct "Ich frage mich, was die beiden noch vorhaben..."
 
 
 translate deutsch e09s04_89cca5e1:
 
 
-    lo "Hmmm, who should ride him first?"
+    lo "Hmmm, wer sollte ihn als Erste reiten?"
 
 
 translate deutsch e09s04_6c952357:
 
 
-    hr "I know you're dying to."
+    hr "Ich weiß, dass du es unbedingt tun willst."
 
 
 translate deutsch e09s04_b1fc69d9:
 
 
-    lo "Yes, but we are on your boat."
+    lo "Ja, aber wir sind auf deinem Boot."
 
 
 translate deutsch e09s04_6e8598fc:
 
 
-    hr "True... but this is your audition."
+    hr "Stimmt... aber das ist dein Vorsprechen."
 
 
 translate deutsch e09s04_f92d680b:
 
 
-    lo "But I would feel rude getting the first ride."
+    lo "Aber ich würde mich unhöflich fühlen, wenn ich die erste Fahrt bekäme."
 
 
 translate deutsch e09s04_f67fe336:
 
 
-    hr "Hmmm, I think I have an idea that'll work for us both."
+    hr "Hmmm, ich glaube, ich habe eine Idee, die für uns beide funktionieren könnte."
 
 
 translate deutsch e09s04_88b52d98:
 
 
-    hr "I'll ride his dick, and you ride his face."
+    hr "Ich reite seinen Schwanz, und du reitest sein Gesicht."
 
 
 translate deutsch e09s04_0262a8ff:
 
 
-    lo "I like your thinking!"
+    lo "Ich mag deine Denkweise!"
 
 
 translate deutsch e09s04_a062125a:
 
 
-    mc "I think I might have died and gone to heaven."
+    mc "Ich glaube, ich bin gestorben und im Himmel gelandet."
 
 
 translate deutsch e09s04_49844ea6:
 
 
-    lo "Not yet you haven't."
+    lo "Noch nicht, oder?"
 
 
 translate deutsch e09s04_e697a33a:
 
 
-    lo "Oh, fuck!"
+    lo "Oh, verdammt!"
 
 
 translate deutsch e09s04_3cc9268d:
 
 
-    hr "Mmmmm - what is it?"
+    hr "Mmmmm – was ist das?"
 
 
 translate deutsch e09s04_86b8a802:
 
 
-    lo "Oh, he is wasting no tiiiiime, mmmmmmpppph!"
+    lo "Oh, er verschwendet keine Zeit, mmmmmmpppph!"
 
 
 translate deutsch e09s04_49de77f4:
 
 
-    hr "Mmmm - that good?"
+    hr "Mmmm – so gut?"
 
 
 translate deutsch e09s04_f897dfba:
 
 
-    lo "Oh fuuuuuuhh - yes! He is!"
+    lo "Oh fuuuuuuhh – ja! Er ist es!"
 
 
 translate deutsch e09s04_809e041c:
 
 
-    hr "I'm going to have to try that out then."
+    hr "Das muss ich dann mal ausprobieren."
 
 
 translate deutsch e09s04_32f7044d:
 
 
-    lo "Oh, you absolutely need to! He is - oh Goooood - soooo goooood!"
+    lo "Oh, das musst du unbedingt! Er ist – oh Gott – soooo gut!"
 
 
 translate deutsch e09s04_b17c79f4:
 
 
-    hr "Mmmm - riding his dick is pretty great too, though!"
+    hr "Mmmm – auf seinem Schwanz zu reiten ist aber auch ziemlich toll!"
 
 
 translate deutsch e09s04_675e11f5:
 
 
-    lo "I'm going to have to come back and visit more often to fuck [mcname]! Yeeesss!"
+    lo "Ich werde öfter vorbeikommen müssen, um [mcname] zu ficken! Ja!"
 
 
 translate deutsch e09s04_1dbcd59d:
 
 
-    hr "Ooooo, god I needed this!"
+    hr "Oh Mann, das habe ich gebraucht!"
 
 
 translate deutsch e09s04_678fb0d0:
 
 
-    lo "Meee toooooo!"
+    lo "Ich auch!"
 
 
 translate deutsch e09s04_5bcaab85:
 
 
-    lo "Oh fuuuck, oh fuuuuuuuck!"
+    lo "Oh verdammt, oh verdammt!"
 
 
 translate deutsch e09s04_1b5dc12b:
 
 
-    hr "Oh God, [mcname]... Mmmnnnngggg!"
+    hr "Oh Gott, [mcname]... Mmmnnnngggg!"
 
 
 translate deutsch e09s04_01288016:
 
 
-    lo "Oh God, I'm already getting close!"
+    lo "Oh Gott, ich bin schon fast soweit!"
 
 
 translate deutsch e09s04_02e0bdb6:
 
 
-    hr "Oh fuuuccccck!"
+    hr "Oh verdammt!"
 
 
 translate deutsch e09s04_046329eb:
 
 
-    lo "Nuh uh, the first time I'm going to cum, I'm going to cum on your dick!"
+    lo "Nein, nein, wenn ich das erste Mal komme, werde ich auf deinen Schwanz kommen!"
 
 
 translate deutsch e09s04_4dbc4ae9:
 
 
-    mc "You won't hear any complaints from me!"
+    mc "Von mir wirst du keine Beschwerden hören!"
 
 
 translate deutsch e09s04_6864c39a:
 
 
-    hr "Mmmmm, now that is something I want to see."
+    hr "Mmmmm, das möchte ich gerne sehen."
 
 
 translate deutsch e09s04_1b91b0e0:
 
 
-    hr "He's all yours."
+    hr "Er gehört ganz dir."
 
 
 translate deutsch e09s04_0cb357c0:
 
 
-    lo "Thank you, Hana!"
+    lo "Danke, Hana!"
 
 
 translate deutsch e09s04_2a3d712b:
 
 
-    lo "Hana looked like she was really enjoying this, I hope you can muster up the same for me."
+    lo "Hana schien das wirklich zu genießen, ich hoffe, du kannst das Gleiche für mich aufbringen."
 
 
 translate deutsch e09s04_93c114d8:
 
 
-    mc "I don't think that'll be a problem."
+    mc "Ich glaube nicht, dass das ein Problem sein wird."
 
 
 translate deutsch e09s04_d6ee56a5:
@@ -1658,79 +1658,79 @@ translate deutsch e09s04_d6ee56a5:
 translate deutsch e09s04_e560da30:
 
 
-    hr "I think I know what I'm having for a little mid fuck snack."
+    hr "Ich glaube, ich weiß schon, was ich als kleinen Snack für zwischendurch nehmen werde."
 
 
 translate deutsch e09s04_ce4b6e2f:
 
 
-    lo "W-what are you doing back there, Hana?"
+    lo "W-was machst du denn da hinten, Hana?"
 
 
 translate deutsch e09s04_8f11eb37:
 
 
-    hr "You'll see."
+    hr "Du wirst schon sehen."
 
 
 translate deutsch e09s04_c076d565:
 
 
-    lo "Oh! Oh God! You little freak Hana!"
+    lo "Oh! Oh Gott! Du kleiner Freak Hana!"
 
 
 translate deutsch e09s04_44956fb4:
 
 
-    mc "What's she doing back there?"
+    mc "Was macht sie denn da hinten?"
 
 
 translate deutsch e09s04_b57edcb6:
 
 
-    lo "The little minx is eating my ass! Fuuuuuhhuuuuuck!"
+    lo "Die kleine Schlampe leckt mir den Arsch! Fuuuuuhhuuuuuck!"
 
 
 translate deutsch e09s04_0c70f883:
 
 
-    mc "Mmmm, I see someone likes getting their asshole played with!"
+    mc "Mmmm, ich sehe, jemand mag es, wenn man mit seinem Arschloch spielt!"
 
 
 translate deutsch e09s04_55a8cd7d:
 
 
-    lo "Oh God, yes! Fuck, I'm going to cum in no time if she - mmeeerrrrrrrg!"
+    lo "Oh Gott, ja! Verdammt, ich komme gleich, wenn sie – mmeeerrrrrrrg!"
 
 
 translate deutsch e09s04_6806294f:
 
 
-    lo "Oh God, yes Hana - keep licking, just like that!"
+    lo "Oh Gott, ja, Hana – leck weiter, genau so!"
 
 
 translate deutsch e09s04_c352a586:
 
 
-    lo "Fuuuuck me! Fuck me, [mcname]! Fuck, fuck, fuck!"
+    lo "Verdammt noch mal! Fick mich, [mcname]! Fick mich, fick mich, fick mich!"
 
 
 translate deutsch e09s04_b17973e4:
 
 
-    mct "I have to remember how much Londyn likes her ass getting played with for next time!"
+    mct "Ich muss mir merken, wie sehr Londyn es mag, wenn man mit ihrem Hintern spielt, für das nächste Mal!"
 
 
 translate deutsch e09s04_2a7d27ec:
 
 
-    mct "God, I hope there's a next time!"
+    mct "Gott, ich hoffe, es gibt ein nächstes Mal!"
 
 
 translate deutsch e09s04_b4c98b77:
 
 
-    lo "OhmyGod, ohmyGod! Keep going, I'm soooo close!"
+    lo "Oh mein Gott, oh mein Gott! Mach weiter, ich bin soooo nah dran!"
 
 
 translate deutsch e09s04_22c5de5a:
@@ -1742,193 +1742,193 @@ translate deutsch e09s04_22c5de5a:
 translate deutsch e09s04_dc48c560:
 
 
-    lo "Yes, fuck meeeee! Gaaaaaaah!"
+    lo "Ja, fick mich! Gaaaaaaah!"
 
 
 translate deutsch e09s04_8635709b:
 
 
-    lo "Ohhhh fuck - here it - I'm gooonnnnnnna!"
+    lo "Ohhhh verdammt – jetzt kommt's – ich kommeeeeeeeeee"
 
 
 translate deutsch e09s04_142c0fa6:
 
 
-    mc "Do it, Londyn! Come all over my dick!"
+    mc "Mach es, Londyn! Komm auf meinem Schwanz!"
 
 
 translate deutsch e09s04_7394ebb0:
 
 
-    lo "Ohhh hoolllyyyy fffUUUUUCK!"
+    lo "Ohhh, verdammt noch mal!"
 
 
 translate deutsch e09s04_90158922:
 
 
-    lo "OHGODOHGODOHGOD!!!"
+    lo "OH GOTT, OH GOTT, OH GOTT!!!"
 
 
 translate deutsch e09s04_c156acfe:
 
 
-    lo "Oh... that was fucking goooood..."
+    lo "Oh... das war verdammt gut..."
 
 
 translate deutsch e09s04_b90e4acc:
 
 
-    hr "It looked like you enjoyed yourself."
+    hr "Es sah so aus, als hättest du dich amüsiert."
 
 
 translate deutsch e09s04_c7ef5331:
 
 
-    lo "Oh... I did..."
+    lo "Oh... habe ich..."
 
 
 translate deutsch e09s04_f7215ee0:
 
 
-    hr "Then I take it you won't mind if I have a turn."
+    hr "Dann nehme ich an, es macht dir nichts aus, wenn ich mal dran bin."
 
 
 translate deutsch e09s04_4d326cfd:
 
 
-    lo "Mmmmm, I don't think my legs would let me get back on him even if I could handle it."
+    lo "Mmmmm, ich glaube nicht, dass meine Beine mich wieder auf ihn steigen lassen würden, selbst wenn ich es schaffen würde."
 
 
 translate deutsch e09s04_1796c195:
 
 
-    hr "Mmmmm.{w} [mcname], get over here and fuck me then."
+    hr "Mmmmm.{w} [mcname], komm her und fick mich dann."
 
 
 translate deutsch e09s04_69df1f0b:
 
 
-    mct "Man, these two can sure be bossy... But what have I got to complain about?"
+    mct "Mann, diese beiden können ganz schön herrisch sein... Aber worüber soll ich mich beschweren?"
 
 
 translate deutsch e09s04_01551058:
 
 
-    lo "Wait!"
+    lo "Warte!"
 
 
 translate deutsch e09s04_a9eb7194:
 
 
-    hr "What's up?"
+    hr "Was los?"
 
 
 translate deutsch e09s04_31229373:
 
 
-    lo "I want to have the best seat in the house."
+    lo "Ich möchte den besten Platz im Haus haben."
 
 
 translate deutsch e09s04_2d629d3d:
 
 
-    hr "Mmmmm, I see someone wants to match my freak."
+    hr "Mmmmm, ich sehe, jemand will es mit meiner Verrücktheit aufnehmen."
 
 
 translate deutsch e09s04_92ddbb63:
 
 
-    lo "Maybe just a little bit.{w} Now come on, [mcname], I'm ready for the show!"
+    lo "Vielleicht ein bisschen.{w} Komm schon, [mcname], ich bin bereit für die Show!"
 
 
 translate deutsch e09s04_49c39ad9:
 
 
-    lo "Oh shit, this is turning me on so much right now."
+    lo "Oh Mann, das macht mich gerade total an."
 
 
 translate deutsch e09s04_96cdf7ad:
 
 
-    mc "You like watching Hana get fucked?"
+    mc "Du siehst gerne zu, wie Hana gefickt wird?"
 
 
 translate deutsch e09s04_409655e3:
 
 
-    lo "I like watching her get fucked, {i}by you.{/i}"
+    lo "Ich mag es, ihr dabei zuzusehen, wie sie gefickt wird, {i}von dir.{/i}"
 
 
 translate deutsch e09s04_fd06df1a:
 
 
-    hr "I loooooove getting fucked by you too, [mcname]!"
+    hr "Ich liebe es auch, von dir gefickt zu werden, [mcname]!"
 
 
 translate deutsch e09s04_30dd97af:
 
 
-    mc "I'm glad we're all loving this!"
+    mc "Ich bin froh, dass es uns allen so gut gefällt!"
 
 
 translate deutsch e09s04_dd0007ac:
 
 
-    hr "Yes, fucking {i}pound me!{/i} Harder, [mcname]! Fuck me {i}harder!{/i}"
+    hr "Ja, fick mich {i}hart!{/i} Härter, [mcname]! Fick mich {i}härter!{/i}"
 
 
 translate deutsch e09s04_57c3bcfd:
 
 
-    lo "Oh god, you {i}are{/i} just the freakiest bitch, aren't you!"
+    lo "Oh Gott, du bist einfach die verrückteste Schlampe, oder?"
 
 
 translate deutsch e09s04_3ef06770:
 
 
-    hr "Gaaaah! FUCK ME HAAARDER!!!"
+    hr "Gaaaah! FICK MICH HÄRTER!!!"
 
 
 translate deutsch e09s04_3b52db0f:
 
 
-    hr "FUCK! JUST LIKE THAT! Yes, [mcname], yes!!"
+    hr "Verdammt! Genau so! Ja, [mcname], ja!!"
 
 
 translate deutsch e09s04_8f60b2e0:
 
 
-    lo "Mmmmm, I love watching you pound heeerrr!"
+    lo "Mmmmm, ich liebe es, dir dabei zuzusehen, wie du sie knallst!"
 
 
 translate deutsch e09s04_55facde0:
 
 
-    mc "Fuck - I'm - I'm getting close!"
+    mc "Verdammt – ich bin – ich bin fast soweit!"
 
 
 translate deutsch e09s04_a4db6afc:
 
 
-    hr "Me too, me too!!! Keep fuuuuucking me!! Rail me like the dirty, fucking slut I am!"
+    hr "Ich auch, ich auch!!! Fick mich weiter, verdammt noch mal!! Nimm mich wie die versaute Schlampe, die ich bin!"
 
 
 translate deutsch e09s04_3a26ed88:
 
 
-    lo "OH, I am going to be thinking about this for a long, {i}long{/i}, time."
+    lo "Oh, darüber werde ich noch lange, {i}lange{/i}, nachdenken."
 
 
 translate deutsch e09s04_a9db91bb:
 
 
-    mc "Oh God, Hana - I'm, I'm -"
+    mc "Oh Gott, Hana – ich bin, ich bin –"
 
 
 translate deutsch e09s04_839bfd43:
 
 
-    hr "I'm so close!! Keep fucking - keep fucking!"
+    hr "Ich bin so nah dran!! Weiterficken – weiterficken!"
 
 
 translate deutsch e09s04_892f3ffb:
@@ -1940,85 +1940,85 @@ translate deutsch e09s04_892f3ffb:
 translate deutsch e09s04_e4bba819:
 
 
-    hr "GOD, THAT'S IT!! I'M CUUMMMMIIIIINGGGGGG!"
+    hr "GOTT, DAS IST ES!! ICH KOMMEEEEEEEEEEEEE"
 
 
 translate deutsch e09s04_605e6576:
 
 
-    hr "YESYESYESYESYEEESSSS!!!"
+    hr "JAJAJAJAJAAAA!!!"
 
 
 translate deutsch e09s04_59cefc79:
 
 
-    mc "Ohhhhhhh fuuuuuuuccck!"
+    mc "Ohhhhhhh verdammt!"
 
 
 translate deutsch e09s04_112f0185:
 
 
-    lo "Holy shit... that was {i}hooooot.{/i}"
+    lo "Heilige Scheiße... das war {i}heiß.{/i}"
 
 
 translate deutsch e09s04_d368a470:
 
 
-    mc "Fucking incredible."
+    mc "Verdammt unglaublich."
 
 
 translate deutsch e09s04_4e3d7c13:
 
 
-    lo "Mmmm. I could have watched you two banging all day."
+    lo "Mmmm. Ich hätte euch beiden den ganzen Tag beim Vögeln zusehen können."
 
 
 translate deutsch e09s04_0a8e2e53:
 
 
-    hr "Haha. I wouldn't have minded."
+    hr "Haha. Das hätte mir nichts ausgemacht."
 
 
 translate deutsch e09s04_b29965b0:
 
 
-    lo "Looks like you had just as much fun as I did."
+    lo "Sieht so aus, als hättest du genauso viel Spaß gehabt wie ich."
 
 
 translate deutsch e09s04_07b2d837:
 
 
-    hr "You could say that again."
+    hr "Das kann man wohl sagen."
 
 
 translate deutsch e09s04_b5e6b2e7:
 
 
-    lo "So did I pass the audition?"
+    lo "Habe ich die Aufnahmeprüfung bestanden?"
 
 
 translate deutsch e09s04_c952b201:
 
 
-    mc "Oh, with flying colors. I'll be seeing both of you at the release party."
+    mc "Oh, mit Bravour. Wir sehen uns beide auf der Release-Party."
 
 
 translate deutsch e09s04_d803abb8:
 
 
-    lo "Yay! I'm glad I did a good job."
+    lo "Juhu! Ich bin froh, dass ich meine Arbeit gut gemacht habe."
 
 
 translate deutsch e09s04_714e2cdc:
 
 
-    mc "Are you kidding? I-"
+    mc "Machst du Witze? Ich..."
 
 
 translate deutsch e09s04_a3c1803b:
 
 
-    hr "I think she was being rhetorical, [mcname]."
+    hr "Ich glaube, das war rhetorisch gemeint, [mcname]."
 
 
 translate deutsch e09s04_c1dff962:
@@ -2030,13 +2030,13 @@ translate deutsch e09s04_c1dff962:
 translate deutsch e09s04_b411156b:
 
 
-    lo "But I did have a great time! Was it always like this when Fetish Locator was around?"
+    lo "Aber ich hatte eine tolle Zeit! War es immer so, als es Fetish Locator noch gab?"
 
 
 translate deutsch e09s04_8fd7233d:
 
 
-    mc "Oh, you have no idea."
+    mc "Oh, du hast ja keine Ahnung."
 
 
 translate deutsch e09s04_8a2fdab2:
@@ -2048,93 +2048,93 @@ translate deutsch e09s04_8a2fdab2:
 translate deutsch e09s04_371e8585:
 
 
-    hr "What are you thinking, Londyn?"
+    hr "Was denkst du, Londyn?"
 
 
 translate deutsch e09s04_c8e893ce:
 
 
-    lo "Oh, maybe I'll tell you later. I need to figure a few things out first."
+    lo "Oh, vielleicht erzähle ich es dir später. Ich muss erst noch ein paar Dinge klären."
 
 
 translate deutsch e09s04_ac10fc91:
 
 
-    mc "I hate to jet, but I should probably get back to the office. Being a... well, whomever in the company that gets shit done, is a lot of work."
+    mc "Ich hasse es, mich zu beeilen, aber ich sollte wohl besser zurück ins Büro. Als jemand, der in der Firma dafür zuständig ist, dass alles erledigt wird, habe ich eine Menge Arbeit."
 
 
 translate deutsch e09s04_7a861c52:
 
 
-    mc "The money you gave me is going right back into the company. Stacy was saying something about a server capacity problem that we needed to solve."
+    mc "Das Geld, das du mir gegeben hast, fließt direkt zurück in das Unternehmen. Stacy hat etwas über ein Problem mit der Serverkapazität gesagt, das wir lösen müssen."
 
 
 translate deutsch e09s04_025e38ae:
 
 
-    lo "Did she tell you what was wrong with it?"
+    lo "Hat sie dir gesagt, was daran falsch war?"
 
 
 translate deutsch e09s04_eb21e3b4:
 
 
-    mc "Nope, but I think I found ten thousand solutions!"
+    mc "Nein, aber ich glaube, ich habe zehntausend Lösungen gefunden!"
 
 
 translate deutsch e09s04_03a7c0a9:
 
 
-    lo "Hahaha! That you did!"
+    lo "Hahaha! Das hast du wirklich getan!"
 
 
 translate deutsch e09s04_fe57bf4e:
 
 
-    mc "I should go to the bank to deposit the money."
+    mc "Ich sollte zur Bank gehen, um das Geld einzuzahlen."
 
 
 translate deutsch e09s04_841d143e:
 
 
-    mc "But I'll find you later to talk about your role in the company, Hana."
+    mc "Aber ich werde dich später aufsuchen, um über deine Rolle im Unternehmen zu sprechen, Hana."
 
 
 translate deutsch e09s04_e7a66200:
 
 
-    hr "Sure, my day is pretty open."
+    hr "Klar, mein Tag ist ziemlich frei."
 
 
 translate deutsch e09s04_ea9e5841:
 
 
-    mc "Bye Londyn."
+    mc "Tschüss, Londyn."
 
 
 translate deutsch e09s04_88ceb9d3:
 
 
-    lo "Until next time, [mcname] - and don't forget my invite!"
+    lo "Bis zum nächsten Mal, [mcname] – und vergiss meine Einladung nicht!"
 
 
 translate deutsch e09s04_164e0f5d:
 
 
-    mc "Oh, believe me. I won't!"
+    mc "Oh, glaube mir. Das werde ich nicht!"
 
 translate deutsch strings:
 
 
     old "A few hours later"
-    new "A few hours later"
+    new "Einige Stunden später"
 
 
     old "Three weeks later"
-    new "Three weeks later"
+    new "Drei Wochen später"
 
 
 translate deutsch e09s04_8cd3f720:
 
 
-    "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
+    "Der Senator" "Und vergiss nicht, unserer Freundin zwei Tickets für das Spiel zu schicken. Eins für sie und eins für den Kleinen. Das wird ihr gefallen."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

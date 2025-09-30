@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e03s07_36c560ce:
 
 

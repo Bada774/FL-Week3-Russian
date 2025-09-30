@@ -1089,9 +1089,8 @@ translate french strings:
     new "Demandez-lui si elle a des photos"
 
 
-
 translate french d16s05_e02ad694:
 
 
-    sy "Fuck yeah, that's what I'm talking about."
+    sy "Putain ouais, c'est exactement ce dont je parle."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

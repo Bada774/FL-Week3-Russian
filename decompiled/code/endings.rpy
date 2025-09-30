@@ -17,7 +17,7 @@ label ending_03:
         scene ending_03_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E03") from _call_ending_not_available
-        call screen ending_unavailable("e03")
+        call screen ending_unavailable("E03")
         pause
         jump end
     else:
@@ -34,7 +34,7 @@ label ending_04:
         scene ending_04_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E04") from _call_ending_not_available_1
-        call screen ending_unavailable("e04")
+        call screen ending_unavailable("E04")
         pause
         jump end
     else:
@@ -51,7 +51,7 @@ label ending_05:
         scene ending_05_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E05") from _call_ending_not_available_2
-        call screen ending_unavailable("e05")
+        call screen ending_unavailable("E05")
         pause
         jump end
     else:
@@ -72,7 +72,7 @@ label ending_07:
         scene ending_07_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E07") from _call_ending_not_available_3
-        call screen ending_unavailable("e07")
+        call screen ending_unavailable("E07")
         pause
         jump end
     else:
@@ -93,7 +93,7 @@ label ending_09:
         scene ending_09_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E09") from _call_ending_not_available_4
-        call screen ending_unavailable("e09")
+        call screen ending_unavailable("E09")
         pause
         jump end
     else:
@@ -114,7 +114,7 @@ label ending_11:
         scene ending_11_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E11") from _call_ending_not_available_5
-        call screen ending_unavailable("e11")
+        call screen ending_unavailable("E11")
         pause
         jump end
     else:
@@ -131,7 +131,7 @@ label ending_12:
         scene ending_12_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E12") from _call_ending_not_available_6
-        call screen ending_unavailable("e12")
+        call screen ending_unavailable("E12")
         pause
         jump end
     else:
@@ -152,7 +152,7 @@ label ending_14:
         scene ending_14_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E14") from _call_ending_not_available_7
-        call screen ending_unavailable("e14")
+        call screen ending_unavailable("E14")
         pause
         jump end
     else:
@@ -169,7 +169,7 @@ label ending_15:
         scene ending_15_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E15") from _call_ending_not_available_8
-        call screen ending_unavailable("e15")
+        call screen ending_unavailable("E15")
         pause
         jump end
     else:
@@ -186,7 +186,7 @@ label ending_16:
         scene ending_16_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E16") from _call_ending_not_available_9
-        call screen ending_unavailable("e16")
+        call screen ending_unavailable("E16")
         pause
         jump end
     else:
@@ -203,7 +203,7 @@ label ending_17:
         scene ending_17_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E17") from _call_ending_not_available_10
-        call screen ending_unavailable("e17")
+        call screen ending_unavailable("E17")
         pause
         jump end
     else:
@@ -220,7 +220,7 @@ label ending_18:
         scene ending_18_art
         with Fade(1.0, 1.0, 1.0)
         call ending_not_available ("E18") from _call_ending_not_available_11
-        call screen ending_unavailable("e18")
+        call screen ending_unavailable("E18")
         pause
         jump end
     else:
@@ -228,20 +228,17 @@ label ending_18:
 
 label ending_not_available(ending):
 
+    "You have reached the current end of this story path."
     if is_steam_edition is True or is_gog_edition is True:
 
-        $ ending_status = None
-        $ get_ending_status(ending)
+        $ ending_status = get_ending_status(ending)
 
         if ending_status == 2:
-            "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
+            "This ending is available as a free DLC."
         elif ending_status == 3:
-            "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
-        "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
+            "This ending is available as a paid DLC."
     else:
-        "You have reached the current end of this story path. This ending will be implemented in the future."
-        "Be sure to follow our Patreon to stay up to date for news."
-    "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
+        "This ending is available in our Patreon."
 
     return
 

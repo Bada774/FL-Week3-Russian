@@ -34,21 +34,14 @@ init 1 python:
     set_has_ending("17", False)
     set_has_ending("18", False)
 
-    if is_steam_edition and not "is_special" in persistent.__dict__:
-        persistent.__setattr__("is_special", is_steam_edition)
-    elif is_gog_edition and not "is_special" in persistent.__dict__:
-        persistent.__setattr__("is_special", is_gog_edition)
+    if is_taboo_edition and not "is_special" in persistent.__dict__:
+        persistent.__setattr__("is_special", is_taboo_edition)
 
     if is_steam_edition:
         achievement.sync()
 
     if config.developer is True:
         config.keymap['fast_skip'].append('noshift_K_q')
-
-init 3 python:
-
-    if is_antagonist_mode is False:
-        set_special(False)
 
 init 999 python:
 

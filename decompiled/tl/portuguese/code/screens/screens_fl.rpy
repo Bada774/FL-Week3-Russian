@@ -228,13 +228,9 @@ translate portuguese strings:
     old "SKIP RECAP"
     new "PULAR RECAPITULAÇÃO"
 
-translate portuguese strings:
-
 
     old "RETURN"
     new "VOLTAR"
-
-translate portuguese strings:
 
 
     old "Skip Recap\nof Week-1"
@@ -243,8 +239,6 @@ translate portuguese strings:
 
     old "Skip Recap\nof Week-2"
     new "Pular Recapitulação\nda Semana-2"
-
-translate portuguese strings:
 
 
     old "Continue playing"
@@ -258,8 +252,6 @@ translate portuguese strings:
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Se decidir continuar, talvez não consiga carregar os jogos salvos da Semana-2. Você não receberá outra notificação. Tem certeza?"
 
-translate portuguese strings:
-
 
     old "Sync your saves using Ren'Py Sync server"
     new "Sincroniza seus saves usando o Servidor de Sincronia Ren'Py"
@@ -271,10 +263,6 @@ translate portuguese strings:
 
     old "Download Saves"
     new "Baixar Saves"
-
-
-
-translate portuguese strings:
 
 
     old "Touch input supported"
@@ -327,4 +315,16 @@ translate portuguese strings:
 
     old "{u}Get Taboo University Book 1 on Steam{/u}"
     new "{u}Veja Taboo University Livro 1 na Steam{/u}"
+
+
+    old "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Adquira Taboo University Livro 1 na GOG{/u}"
+
+
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Adicione Fetish Locator: S&M Studio à sua lista de desejos na GOG"
+
+
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Adquira Fetish Locator: S&M Studio na GOG"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

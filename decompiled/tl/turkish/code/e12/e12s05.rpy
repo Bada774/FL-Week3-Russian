@@ -500,7 +500,7 @@ translate turkish e12s05_sex_671c891f:
 translate turkish e12s05_sex_430e6871:
 
 
-    "S.KTİR [mcname]! Beni biraz uyarmalısın-"
+    aw "S.KTİR [mcname]! Beni biraz uyarmalısın-"
 
 
 translate turkish e12s05_sex_a1877ae8:
@@ -1010,7 +1010,7 @@ translate turkish e12s05_sex_37694416:
 translate turkish e12s05_sex_dce6d8d0:
 
 
-    "Yüzünden sikilmeyi hayal ettiğinde mi? Tek görebildiği dilinin amının etrafında döndüğü, parmaklarının götünde olduğu, boşalırken adını haykırdığı zaman?"
+    aw "Yüzünden sikilmeyi hayal ettiğinde mi? Tek görebildiği dilinin amının etrafında döndüğü, parmaklarının götünde olduğu, boşalırken adını haykırdığı zaman?"
 
 
 translate turkish e12s05_sex_6fa10e63:

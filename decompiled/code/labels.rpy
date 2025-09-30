@@ -737,12 +737,10 @@ label update_ending_variables:
         $ persistent.d20s06_eat_cum = d20s06_eat_cum
     else:
         $ persistent.d20s06_eat_cum = False
-    return
     if hasattr(renpy.store, "d15s06_assfucked"):
         $ persistent.d15s06_assfucked = d15s06_assfucked
     else:
         $ persistent.d15s06_assfucked = False
-    return
     if hasattr(renpy.store, "d01s05_meetjf"):
         $ persistent.d01s05_meetjf = d01s05_meetjf
     else:

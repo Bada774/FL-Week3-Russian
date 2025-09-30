@@ -1274,7 +1274,7 @@ translate turkish e04s07_ah_tr_cf337108:
 translate turkish e04s07_ah_tr_1b3c42fd:
 
 
-    "Yapabilirsin. Daha önce de yapmıştın. Bence çok eğlendin...{w} Değil mi?"
+    ah "Yapabilirsin. Daha önce de yapmıştın. Bence çok eğlendin...{w} Değil mi?"
 
 
 translate turkish e04s07_ah_tr_7222bac4:
@@ -1610,7 +1610,7 @@ translate turkish e04s07_ah_tr_090f4b5c:
 translate turkish e04s07_ah_tr_2a907e2d:
 
 
-    "Şuna bak. Ne kadar yozlaşmış bir sikiksin sen. Onun rahmime vuruşunu izlerken gerçekten boşaldın mı, Terrell? Beni hamile bırakma düşüncesi seni boşalttı mı?"
+    ah "Şuna bak. Ne kadar yozlaşmış bir sikiksin sen. Onun rahmime vuruşunu izlerken gerçekten boşaldın mı, Terrell? Beni hamile bırakma düşüncesi seni boşalttı mı?"
 
 
 translate turkish e04s07_ah_tr_cf7441c4:
@@ -1910,7 +1910,7 @@ translate turkish e04s07_later_fdb406bb:
 translate turkish e04s07_later_173d652c:
 
 
-    lc "Hayır sadece... alt_mcname]'in seni sıfırlamasını izlerken çok heyecanlandım... İstiyorum... ama bu çok fazla!"
+    lc "Hayır sadece... [alt_mcname]'in seni sıfırlamasını izlerken çok heyecanlandım... İstiyorum... ama bu çok fazla!"
 
 
 translate turkish e04s07_later_7b203d57:

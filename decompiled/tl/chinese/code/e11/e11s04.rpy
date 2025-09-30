@@ -908,7 +908,7 @@ translate chinese e11s04_back_26515773:
 translate chinese e11s04_back_5754862f:
 
 
-    dd "现在可以给我了吗，temp_mcname]?"
+    dd "现在可以给我了吗，[temp_mcname]?"
 
 
 translate chinese e11s04_back_0f5a35cc:

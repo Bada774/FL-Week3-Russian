@@ -50,3 +50,23 @@ translate russian strings:
     old "Get DLC-2 containing this ending"
     new "Приобретите DLC-2 содержащее эту концовку"
 
+# TODO: Translation updated at 2025-09-30 16:35
+
+translate russian strings:
+
+    # game/code/screens/endings.rpy:87
+    old "Download this ending from Steam"
+    new "Скачать эту концовку из Steam"
+
+    # game/code/screens/endings.rpy:92
+    old "Get this ending from Steam"
+    new "Приобрести эту концовку из Steam"
+
+    # game/code/screens/endings.rpy:96
+    old "Get this ending from GOG"
+    new "Приобрести эту концовку из GOG"
+
+    # game/code/screens/endings.rpy:100
+    old "Get this ending from Patreon"
+    new "Приобрести эту концовку на нашем Patreon"
+

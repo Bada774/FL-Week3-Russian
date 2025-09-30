@@ -20,13 +20,13 @@ translate italian d15s04dd_66ed430a:
 translate italian d15s04dd_bb0a5689:
 
 
-    "Receptionist" "Oh, si. Mi faccia controllare."
+    "Donna" "Oh, si. Mi faccia controllare."
 
 
 translate italian d15s04dd_c2e660d7:
 
 
-    "Receptionist" "Certo. Lei è Ms. Daisy Diamond?"
+    "Donna" "Certo. Lei è Ms. Daisy Diamond?"
 
 
 translate italian d15s04dd_b6261cce:
@@ -38,13 +38,13 @@ translate italian d15s04dd_b6261cce:
 translate italian d15s04dd_b0d91d49:
 
 
-    "Receptionist" "Ottimo."
+    "Donna" "Ottimo."
 
 
 translate italian d15s04dd_4b43d90a:
 
 
-    "Receptionist" "Può entrare. E' proprio—"
+    "Donna" "Può entrare. E' proprio—"
 
 
 translate italian d15s04dd_9719365e:
@@ -56,7 +56,7 @@ translate italian d15s04dd_9719365e:
 translate italian d15s04dd_87db569c:
 
 
-    "Receptionist" "Ottimo. La dottoressa potrebbe essere fuori per un pò, ma può aspettare dentro fino a che non torna."
+    "Donna" "Ottimo. La dottoressa potrebbe essere fuori per un pò, ma può aspettare dentro fino a che non torna."
 
 
 translate italian d15s04dd_b85f6643:

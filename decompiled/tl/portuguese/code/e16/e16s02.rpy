@@ -996,5 +996,5 @@ translate portuguese strings:
 translate portuguese e16s02_736fa6b5:
 
 
-    rf ""
+    rf "Como eu disse, fiquei surpreso porque obviamente houve algum engano com o testamento da minha mãe. A casa e a fazenda pertencem a mim."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

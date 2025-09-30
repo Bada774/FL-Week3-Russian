@@ -87,7 +87,6 @@ screen e01s01_fetish_selection():
             style_prefix "prologue_yta"
             textbutton _("Done") action (Hide("e01s01_fetish_selection"), Jump("e01s01_choice_done")) keysym ("K_RETURN", "K_KP_ENTER")
 
-
 style fetish_selection_frame:
     xsize 1275
     ysize 777

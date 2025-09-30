@@ -1,5 +1,3 @@
-
-
 translate portuguese strings:
 
 

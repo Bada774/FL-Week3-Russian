@@ -35,4 +35,22 @@ translate chinese strings:
 
     old "Get DLC-2 containing this ending"
     new " 获取包含该结局的 DLC-2"
+
+translate chinese strings:
+
+
+    old "Download this ending from Steam"
+    new "从Steam下载此结局"
+
+
+    old "Get this ending from Steam"
+    new "在Steam获取此结局"
+
+
+    old "Get this ending from Patreon"
+    new "在我们的Patreon获取此结局"
+
+
+    old "Get this ending from GOG"
+    new "在我们的GOG获取此结局"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

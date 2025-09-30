@@ -1,39 +1,3 @@
-
-translate portuguese ending_not_available_f3f9fce0:
-
-
-    "Você chegou no final atual desse caminho da história. Este final será implementado como um DLC grátis no futuro."
-
-
-translate portuguese ending_not_available_2ad33c15:
-
-
-    "Você chegou no final atual desse caminho da história. Este final será implementado como um DLC no futuro."
-
-
-translate portuguese ending_not_available_eb531d10:
-
-
-    "Certifique-se de seguir nossa página na Steam para ficar a par de todas as notícias do Fetish Locator."
-
-
-translate portuguese ending_not_available_7495b934:
-
-
-    "Você chegou no final atual desse caminho da história. Este final será implementado no futuro."
-
-
-translate portuguese ending_not_available_4bc3c22a:
-
-
-    "Certifique-se de seguir nosso Patreon."
-
-
-translate portuguese ending_not_available_0b50ab45:
-
-
-    "Enquanto este final não está completamente implementado, aqui estão seis outros finais que estão completos para se explorar."
-
 translate portuguese strings:
 
 
@@ -103,4 +67,28 @@ translate portuguese strings:
 
     old "Ending #18\nQuartet"
     new "Final #18\nQuarteto"
+
+
+translate portuguese ending_not_available_9dcfd841:
+
+
+    "Você chegou ao final atual deste caminho da história."
+
+
+translate portuguese ending_not_available_889ce1af:
+
+
+    "Este final está disponível como DLC gratuito."
+
+
+translate portuguese ending_not_available_8fd50248:
+
+
+    "Este final está disponível como DLC pago."
+
+
+translate portuguese ending_not_available_fd68c670:
+
+
+    "Este final está disponível no nosso Patreon."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

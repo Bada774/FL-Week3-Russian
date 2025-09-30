@@ -68,7 +68,7 @@ translate turkish e17s05_sex_6a3cef48:
 translate turkish e17s05_sex_6f513888:
 
 
-    "Burada mısın? Rüya mı görüyorum?"
+    dw "Burada mısın? Rüya mı görüyorum?"
 
 
 translate turkish e17s05_sex_3c96e152:
@@ -1064,7 +1064,7 @@ translate turkish e17s05_end_dc7a1379:
 translate turkish e17s05_end_5ce0c806:
 
 
-    "Ve yine de bir şekilde... hayattasın.{w} Bana geri döndün."
+    dw "Ve yine de bir şekilde... hayattasın.{w} Bana geri döndün."
 
 
 translate turkish e17s05_end_b2664556:

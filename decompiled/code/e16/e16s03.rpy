@@ -433,7 +433,6 @@ label e16s03:
     scene e16s03-127 kanya_and_cat_scat_jf_talk_gestures with dissolve
     pause
 
-
     play sound sfx_roller_measure4 volume 0.2
 
     scene e16s03-128 kanya_and_cat_scat_workshop_bedroom_jf_measuring with fade

@@ -1100,7 +1100,7 @@ translate french d17s05ms_30de715b:
 translate french d17s05ms_59aa8867:
 
 
-    mh "Tu ne devrais pas autant taquiner ton amie, [mcname]."
+    mc "Tu ne devrais pas autant taquiner ton amie, [mcname]."
 
 
 translate french d17s05ms_4cc34481:

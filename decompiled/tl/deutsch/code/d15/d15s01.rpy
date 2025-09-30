@@ -308,7 +308,7 @@ translate deutsch d15s01_thoughts_LC_2fbeeb00:
 translate deutsch d15s01_thoughts_LC_a9db4751:
 
 
-    "Liebe besiegt den Käfig. Denke über den Namen und was die Nachricht sagt."
+    mct "Liebe besiegt den Käfig. Denke über den Namen und was die Nachricht sagt."
 
 
 translate deutsch d15s01_thoughts_LC_8f6b4117:

@@ -1168,19 +1168,19 @@ translate russian e09s03_night_6ea19a72:
 translate russian e09s03_night_5e2affbf:
 
     # mc "Haha. So greedy, Stacy."
-    mc "Хаха. Стейси, она такая жадина."
+    mc "Хаха. Стейси, нужно быть терпиливой."
 
 # game/code/e09/e09s03.rpy:760
 translate russian e09s03_night_6bfc74d9:
 
     # sy "What?"
-    sy "Что?"
+    sy "Чего?"
 
 # game/code/e09/e09s03.rpy:761
 translate russian e09s03_night_f9f99069:
 
     # aw "No she's right. I can get so greedy."
-    aw "Нет, он права. Я могу стать такой жадной."
+    aw "Нет, она права. Я могу быть такой жадной."
 
 # game/code/e09/e09s03.rpy:762
 translate russian e09s03_night_b31b3358:
@@ -1661,4 +1661,24 @@ translate russian strings:
     # game/code/e09/e09s03.rpy:44
     old "Back at HQ"
     new "Снова в\nШтаб-квартире"
+
+# TODO: Translation updated at 2025-09-30 16:35
+
+# game/code/e09/e09s03.rpy:754
+translate russian e09s03_night_92a22c14:
+
+    # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "Ага, так и есть. А теперь поторопись и заставь уже Эллисон кончить, чтобы я могла занять местечко."
+
+# game/code/e09/e09s03.rpy:760
+translate russian e09s03_night_a92c83eb:
+
+    # aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*хихикает* Нет, она права. Я слишком долго тебя занимаю."
+
+# game/code/e09/e09s03.rpy:763
+translate russian e09s03_night_072da321:
+
+    # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "Так что ускоряйся, [mcname]. Чёрт возьми, бури меня, пока я не упаду в обморок."
 

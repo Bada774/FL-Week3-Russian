@@ -692,7 +692,7 @@ translate turkish e15s02_after_meeting_cc9c6620:
 translate turkish e15s02_after_meeting_02156dd0:
 
 
-    "Ama bu harika bir iş çıkarmadığınız anlamına gelmez. Kesin ve isabetli. Tıpkı çalıştığımız gibi."
+    mes "Ama bu harika bir iş çıkarmadığınız anlamına gelmez. Kesin ve isabetli. Tıpkı çalıştığımız gibi."
 
 
 translate turkish e15s02_after_meeting_56d61e24:

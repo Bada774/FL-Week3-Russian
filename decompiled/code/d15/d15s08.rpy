@@ -445,7 +445,6 @@ label d15s08:
             arj "I mean, you fucked Stacy. You two are fucking."
         arj "That's pretty shocking. Stacy isn't just another girl. You two are really important to each other."
 
-
         scene d15s08-52 mc-hr-sy-arj-talking with dissolve
         play voice3 amrose_thinking_hmm1 noloop
         arj "But, I guess the most surprising part was that I wasn't jealous about it."
@@ -491,7 +490,6 @@ label d15s08:
         mc "I can take care of it myself."
         play voice4 stacy_upset1 noloop
         sy "He is no fun."
-
 
         play sound sfx_skirt_off2
         scene d15s08-62 mc-hr-sy-arj-talking with dissolve

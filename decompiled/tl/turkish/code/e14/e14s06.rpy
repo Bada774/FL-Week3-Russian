@@ -1520,7 +1520,7 @@ translate turkish e14s06_bottom_foursome_5f379f6b:
 translate turkish e14s06_bottom_foursome_4bc9de55:
 
 
-    "Senin için hecelememe gerek var mı? {i}Şimdi beni götümden mi sikeceksin?{/i}"
+    nk "Senin için hecelememe gerek var mı? {i}Şimdi beni götümden mi sikeceksin?{/i}"
 
 
 translate turkish e14s06_bottom_foursome_13863764:

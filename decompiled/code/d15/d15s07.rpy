@@ -431,7 +431,6 @@ label d15s07_lc_pee_on_mes:
     with dissolve
     mc "Honey, come here."
 
-
     scene d15s07-43 mc-lc-talking-close-up with dissolve
     play voice2 mc_thinking_hmm2 noloop
     mc "This isn't going to be like last time, because we're going to try something different."
@@ -486,7 +485,6 @@ label d15s07_lc_pee_on_mes:
     scene d15s07-49 mc-lc-min-talking-look-down-hand-shoulder with dissolve
     play voice2 mc_yes_yeah1 noloop
     mc "Exactly. We can figure out later whether it meant something or not - if it even happens at all."
-
 
     scene d15s07-45 mc-lc-talking-close-up with dissolve
     play voice4 dahlia_thinking_hmm4 noloop

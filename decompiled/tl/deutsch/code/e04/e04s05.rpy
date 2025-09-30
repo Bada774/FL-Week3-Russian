@@ -2,43 +2,43 @@
 translate deutsch e04s05_3d4bba76:
 
 
-    mc "She was so close to breaking..."
+    mc "Sie war so kurz davor, zusammenzubrechen..."
 
 
 translate deutsch e04s05_cf43447e:
 
 
-    sy "I know, big bro."
+    sy "Ich weiß, großer Bruder."
 
 
 translate deutsch e04s05_714ef096:
 
 
-    sy "I know, [mcname]."
+    sy "Ich weiß, [mcname]."
 
 
 translate deutsch e04s05_244514a1:
 
 
-    mc "I... I'm running out of ideas."
+    mc "Mir gehen langsam die Ideen aus."
 
 
 translate deutsch e04s05_4a5c3166:
 
 
-    sy "What you need is a heavy hitter."
+    sy "Was du brauchst, ist ein Schwergewicht."
 
 
 translate deutsch e04s05_5abebda9:
 
 
-    mc "I'll do anything at this point."
+    mc "Ich bin zu diesem Zeitpunkt zu allem bereit."
 
 
 translate deutsch e04s05_4b13494b:
 
 
-    sy "Let me make a call."
+    sy "Lass mich kurz telefonieren."
 
 
 translate deutsch e04s05_1b199792:
@@ -50,61 +50,61 @@ translate deutsch e04s05_1b199792:
 translate deutsch e04s05_cb60d6e7:
 
 
-    sy "Just get us ready for company!"
+    sy "Bereiten wir uns einfach auf Besuch vor!"
 
 
 translate deutsch e04s05_ba333b29:
 
 
-    mc "Lyssa! Hey, uh, I wasn't expecting you."
+    mc "Lyssa! Hey, äh, ich habe dich nicht erwartet."
 
 
 translate deutsch e04s05_236b8351:
 
 
-    mh "Surprise."
+    mh "Überraschung."
 
 
 translate deutsch e04s05_2548a6ed:
 
 
-    mc "Seeing you is one of my favorite surprises from the last couple weeks."
+    mc "Dich zu sehen, ist eine meiner schönsten Überraschungen der letzten Wochen."
 
 
 translate deutsch e04s05_c33040b0:
 
 
-    mh "Are you going to invite me in?"
+    mh "Wirst du mich einladen?"
 
 
 translate deutsch e04s05_0adddb5d:
 
 
-    mc "You need an invite? What are you, a vampire?"
+    mc "Du brauchst eine Einladung? Was bist du denn, ein Vampir?"
 
 
 translate deutsch e04s05_6608b524:
 
 
-    mh "Why, do you want me to suck your blood?"
+    mh "Warum, willst du, dass ich dein Blut sauge?"
 
 
 translate deutsch e04s05_7136c946:
 
 
-    mc "I mean..."
+    mc "Ich meine..."
 
 
 translate deutsch e04s05_7b4e06ad:
 
 
-    mc "Come on in."
+    mc "Komm rein."
 
 
 translate deutsch e04s05_325e8716:
 
 
-    mh "Stacy told me all about your little problem."
+    mh "Stacy hat mir alles über dein kleines Problem erzählt."
 
 
 translate deutsch e04s05_06d13f3a:
@@ -116,163 +116,163 @@ translate deutsch e04s05_06d13f3a:
 translate deutsch e04s05_e931767e:
 
 
-    mh "It's okay, [mcname]. Sometimes you just have someone with a difficult personality. Believe me, I'm surrounded by them 24/7."
+    mh "Keine Sorge, [mcname]. Manchmal hat man einfach mit jemandem zu tun, der eine schwierige Persönlichkeit hat. Glaub mir, ich bin rund um die Uhr von solchen Leuten umgeben."
 
 
 translate deutsch e04s05_0a0cca5c:
 
 
-    mh "I was also surprised by your... Arrangement here."
+    mh "Ich war auch überrascht von eurer... Anordnung hier."
 
 
 translate deutsch e04s05_81388dba:
 
 
-    mc "Well, it's-"
+    mc "Nun, es ist..."
 
 
 translate deutsch e04s05_e8070c7a:
 
 
-    mh "No need to worry, [mcname]. I spoke with the Judge on my way over."
+    mh "Keine Sorge, [mcname]. Ich habe auf dem Weg hierher mit der Richterin gesprochen."
 
 
 translate deutsch e04s05_40ef0976:
 
 
-    mc "Oh! Well, that makes that easy."
+    mc "Oh! Nun, das macht es einfach."
 
 
 translate deutsch e04s05_592ca75b:
 
 
-    mh "That it does."
+    mh "Das tut es tatsächlich."
 
 
 translate deutsch e04s05_3c17ca1e:
 
 
-    mc "I'm curious, what {i}did{/i} the Judge say about my situation?"
+    mc "Ich bin neugierig, was hat die Richterin zu meiner Situation gesagt?"
 
 
 translate deutsch e04s05_d90df29c:
 
 
-    mh "She was close-lipped about it. Said it was an \"innovative form of punishment\", and that she tries to keep out of it as best she can. Something about \"there are some things better left not known\"."
+    mh "Sie schwieg sich darüber aus. Sie sagte, es sei eine \"innovative Form der Bestrafung\" und dass sie versuche, sich so gut wie möglich daraus herauszuhalten. Etwas in der Art von \"manche Dinge sollte man besser nicht wissen\"."
 
 
 translate deutsch e04s05_6cdb1425:
 
 
-    mh "But I'm not here to tell you what the Judge is thinking."
+    mh "Aber ich bin nicht hier, um dir zu sagen, was die Richterin denkt."
 
 
 translate deutsch e04s05_eaa6c258:
 
 
-    mc "Yeah... Stacy called you to come help?"
+    mc "Ja... Stacy hat dich angerufen, damit du kommst und hilfst?"
 
 
 translate deutsch e04s05_9973ea0e:
 
 
-    mh "Stacy said you needed, and I quote, \"a heavy hitter\"."
+    mh "Stacy sagte, ihr bräuchtet, ich zitiere, \"einen Schwergewichtler\"."
 
 
 translate deutsch e04s05_b499ce62:
 
 
-    mc "She's not wrong. Lydia has continued to find ways to be..."
+    mc "Sie hat nicht Unrecht. Lydia hat weiterhin Wege gefunden, um..."
 
 
 translate deutsch e04s05_ea04adef:
 
 
-    mh "Difficult."
+    mh "Schwierig."
 
 
 translate deutsch e04s05_f39b9e8b:
 
 
-    mc "Yeah. Difficult."
+    mc "Ja. Schwierig."
 
 
 translate deutsch e04s05_ae160970:
 
 
-    mh "Well, I'm parched. Could you grab me some water? And then why don't you tell me all about what you've tried so far."
+    mh "Nun, ich bin durstig. Könntest du mir etwas Wasser holen? Und dann erzählst du mir doch bitte alles, was du bisher versucht hast."
 
 
 translate deutsch e04s05_a5a224aa:
 
 
-    mh "Just like work, I need to see a client brief before I can recommend a course of action."
+    mh "Genau wie bei der Arbeit muss ich mir zunächst die Kundenvorgaben ansehen, bevor ich eine Vorgehensweise empfehlen kann."
 
 
 translate deutsch e04s05_20919f8c:
 
 
-    mc "Sure. I could use a drink myself."
+    mc "Klar. Ich könnte auch einen Drink vertragen."
 
 
 translate deutsch e04s05_0208b5a3:
 
 
-    mc "And then Daisy snorted some cum off the floor. And that was pretty much the closest we got to breaking her."
+    mc "Und dann schnüffelte Daisy etwas Sperma vom Boden auf. Und das war so ziemlich das Einzige, was uns daran hinderte, sie zu brechen."
 
 
 translate deutsch e04s05_f2c4a33d:
 
 
-    mh "I must say, [mcname], you have tried quite a few things. I'm pretty impressed with the list of things you've attempted."
+    mh "Ich muss sagen, [mcname], du hast schon einiges ausprobiert. Ich bin ziemlich beeindruckt von der Liste der Dinge, die du versucht hast."
 
 
 translate deutsch e04s05_29764a6f:
 
 
-    mc "Yeah. I've pretty much tried everything I can think of, and a few things I found on the internet. And bupkis."
+    mc "Ja. Ich habe so ziemlich alles ausprobiert, was mir eingefallen ist, und ein paar Dinge, die ich im Internet gefunden habe. Und nichts."
 
 
 translate deutsch e04s05_c26e20c9:
 
 
-    mh "Can I get some more water, please?"
+    mh "Könnte ich bitte noch etwas Wasser bekommen?"
 
 
 translate deutsch e04s05_85d475fe:
 
 
-    mc "Of course!"
+    mc "Natürlich!"
 
 
 translate deutsch e04s05_3ed77072:
 
 
-    mh "Thank you, [mcname]."
+    mh "Vielen Dank, [mcname]."
 
 
 translate deutsch e04s05_bc666b09:
 
 
-    mc "Anytime."
+    mc "Jederzeit."
 
 
 translate deutsch e04s05_ca9cb4f6:
 
 
-    mh "Well, I've been thinking about your predicament. And I may have a solution."
+    mh "Nun, ich habe über deine missliche Lage nachgedacht. Und ich habe vielleicht eine Lösung."
 
 
 translate deutsch e04s05_b8c53a6a:
 
 
-    mc "Thank God."
+    mc "Gott sei Dank."
 
 
 translate deutsch e04s05_089d1df8:
 
 
-    mh "What if I help you out?"
+    mh "Was wäre, wenn ich dir helfen würde?"
 
 
 translate deutsch e04s05_ee87e6f3:
@@ -284,55 +284,55 @@ translate deutsch e04s05_ee87e6f3:
 translate deutsch e04s05_42a5409c:
 
 
-    mh "In that long list of things you've tried, I didn't hear 'stuffing her full with two great dicks to the point her brain melts'."
+    mh "In dieser langen Liste von Dingen, die du ausprobiert hast, habe ich nicht gehört, dass du sie mit zwei großen Schwänzen so vollgestopft hast, dass ihr Gehirn schmilzt."
 
 
 translate deutsch e04s05_0ce9b524:
 
 
-    mc "No, that's something I haven't tried yet."
+    mc "Nein, das habe ich noch nicht ausprobiert."
 
 
 translate deutsch e04s05_cf85107c:
 
 
-    mh "Well-"
+    mh "Nun ja..."
 
 
 translate deutsch e04s05_55acc5c4:
 
 
-    mh "Why don't you give me the tour. I'd love to see how you've got the prison set up."
+    mh "Warum führst du mich nicht herum? Ich würde gerne sehen, wie du das Gefängnis eingerichtet hast."
 
 
 translate deutsch e04s05_d03e6dac:
 
 
-    mc "Of course, right this way."
+    mc "Natürlich, bitte hier entlang."
 
 
 translate deutsch e04s05_8262e385:
 
 
-    mc "Here you can see our lovely Guard punishing Prisoner 002."
+    mc "Hier siehst du unsere nette Wache, wie sie die Gefangene 002 bestraft."
 
 
 translate deutsch e04s05_51a76fb4:
 
 
-    mc "Guard, would you like to tell our guest what you're doing?"
+    mc "Wache, möchtest du unserem Gast erklären, was du da tust?"
 
 
 translate deutsch e04s05_1dbf306f:
 
 
-    sy "Yes, [alt_mcname]. Prisoner 002 is going through a forced orgasm punishment."
+    sy "Ja, [alt_mcname]. Gefangene 002 wird eine Zwangsorgasmus-Bestrafung unterzogen."
 
 
 translate deutsch e04s05_f9b5f550:
 
 
-    mc "And how many orgasms has she had so far?"
+    mc "Und wie viele Orgasmen hatte sie bisher?"
 
 
 translate deutsch e04s05_afabea75:
@@ -344,229 +344,229 @@ translate deutsch e04s05_afabea75:
 translate deutsch e04s05_2a6c743b:
 
 
-    mh "My god, how is she still conscious?"
+    mh "Mein Gott, wie kann sie noch bei Bewusstsein sein?"
 
 
 translate deutsch e04s05_ced0da28:
 
 
-    sy "But we're going to see how many orgasms it takes to get Prisoner 002 to pass out."
+    sy "Aber wir werden sehen, wie viele Orgasmen nötig sind, damit Gefangene 002 ohnmächtig wird."
 
 
 translate deutsch e04s05_5d2e7744:
 
 
-    mh "And this one?"
+    mh "Und diese hier?"
 
 
 translate deutsch e04s05_323fc73f:
 
 
-    mc "Thought it would be fun. It's also a good way to keep her wet and ready for me whenever I want."
+    mc "Ich dachte, das würde Spaß machen. Außerdem ist es eine gute Möglichkeit, sie feucht und bereit für mich zu halten, wann immer ich will."
 
 
 translate deutsch e04s05_a878c2ba:
 
 
-    mh "It looks like she's enjoying herself."
+    mh "Es sieht so aus, als würde sie sich amüsieren."
 
 
 translate deutsch e04s05_1e2fc9d8:
 
 
-    mc "Oh, after the first time we did this she asked that we do it again."
+    mc "Oh, nachdem wir das zum ersten Mal gemacht hatten, bat sie uns, es noch einmal zu machen."
 
 
 translate deutsch e04s05_ad25fbb4:
 
 
-    mc "And next up is Prisoner 001."
+    mc "Als nächstes kommt Gefangene 001."
 
 
 translate deutsch e04s05_134cc357:
 
 
-    mh "You go on ahead, I want to slip into something a little more appropriate."
+    mh "Geh schon mal vor, ich möchte mich etwas Passenderes anziehen."
 
 
 translate deutsch e04s05_fb0449b2:
 
 
-    mh "In the meantime, why don't you go and prepare the prisoner for us."
+    mh "In der Zwischenzeit könntest du doch die Gefangene für uns vorbereiten."
 
 
 translate deutsch e04s05_b24855ee:
 
 
-    mc "Of course, it's just down this way. We'll be waiting for you!"
+    mc "Natürlich, es ist gleich hier entlang. Wir warten auf dich!"
 
 
 translate deutsch e04s05_fcc50d15:
 
 
-    lc "The fuck do you want now."
+    lc "Was zum Teufel willst du jetzt?"
 
 
 translate deutsch e04s05_a51dcbe1:
 
 
-    mc "Why do you continue to fight this?"
+    mc "Warum kämpfst du weiter dagegen an?"
 
 
 translate deutsch e04s05_c38c13b1:
 
 
-    lc "Because I know I can break you."
+    lc "Weil ich weiß, dass ich dich brechen kann."
 
 
 translate deutsch e04s05_f33a7ea7:
 
 
-    mc "Come on, Prisoner 001. Be honest about your situation."
+    mc "Komm schon, Gefangene 001. Sei ehrlich, was deine Situation angeht."
 
 
 translate deutsch e04s05_c8594163:
 
 
-    lc "I am."
+    lc "Ich bin es."
 
 
 translate deutsch e04s05_00da9229:
 
 
-    mc "You're literally a prisoner in your own house. I determine everything you do. I think you need to get honest with yourself."
+    mc "Du bist buchstäblich ein Gefangener in deinem eigenen Haus. Ich bestimme alles, was du tust. Ich denke, du musst ehrlich zu dir selbst sein."
 
 
 translate deutsch e04s05_16491bf6:
 
 
-    mc "As soon as you can accept your new place in the world, everyone will be much happier."
+    mc "Sobald du deinen neuen Platz in der Welt akzeptieren kannst, werden alle viel glücklicher sein."
 
 
 translate deutsch e04s05_2342f90f:
 
 
-    lc "I..."
+    lc "Ich..."
 
 
 translate deutsch e04s05_0cf1a992:
 
 
-    lc "Get bent, [mcname]."
+    lc "Verpiss dich, [mcname]."
 
 
 translate deutsch e04s05_99f054be:
 
 
-    lc "And you never answered my question. Why are you bothering me again."
+    lc "Und du hast meine Frage nie beantwortet. Warum belästigst du mich schon wieder?"
 
 
 translate deutsch e04s05_60fc14d7:
 
 
-    mc "We're here to give you a new treatment for your bad attitude."
+    mc "Wir sind hier, um dir eine neue Behandlung für deine schlechte Einstellung anzubieten."
 
 
 translate deutsch e04s05_41009d70:
 
 
-    lc "We?"
+    lc "Wir?"
 
 
 translate deutsch e04s05_266055a6:
 
 
-    lc "Wait, aren't you a lawyer?"
+    lc "Moment mal, bist du nicht Anwältin?"
 
 
 translate deutsch e04s05_c32f6a14:
 
 
-    mh "How very astute, Lydia. Yes, I am."
+    mh "Wie scharfsinnig, Lydia. Ja, das bin ich."
 
 
 translate deutsch e04s05_a68796b9:
 
 
-    lc "Let me out of here! Look at how... Inhumane this is!"
+    lc "Lass mich hier raus! Sieh dir an, wie... unmenschlich das ist!"
 
 
 translate deutsch e04s05_6cfbf070:
 
 
-    mh "I think what's inhumane is toying with and blackmailing people with moments from their private life."
+    mh "Ich finde es unmenschlich, mit Momenten aus dem Privatleben von Menschen zu spielen und sie damit zu erpressen."
 
 
 translate deutsch e04s05_db6b8592:
 
 
-    mh "I think it's inhumane to use an app to manipulate people into sending intimate photoes from their private lives."
+    mh "Ich finde es unmenschlich, eine App zu verwenden, um Menschen dazu zu manipulieren, intime Fotos aus ihrem Privatleben zu verschicken."
 
 
 translate deutsch e04s05_1c11b7e2:
 
 
-    lc "I-"
+    lc "Ich..."
 
 
 translate deutsch e04s05_f31ffa93:
 
 
-    mh "And what's worse, is that you manipulated those people into the moments. Then terrorized them - for weeks."
+    mh "Und was noch schlimmer ist: Du hast diese Menschen in diese Momente hineingemanipuliert. Dann hast du sie terrorisiert – wochenlang."
 
 
 translate deutsch e04s05_17c6cead:
 
 
-    mh "As far as I'm concerned, morally, you deserve so much worse."
+    mh "Meiner Meinung nach verdienst du moralisch gesehen etwas viel Schlimmeres."
 
 
 translate deutsch e04s05_787ffea1:
 
 
-    mh "And legally speaking, albeit abnormal, this is all legitimate and legal."
+    mh "Und rechtlich gesehen ist dies alles, obwohl es ungewöhnlich ist, legitim und legal."
 
 
 translate deutsch e04s05_bb90866b:
 
 
-    lc "What... No! This- This can't be..."
+    lc "Was... Nein! Das... Das kann nicht sein..."
 
 
 translate deutsch e04s05_dec3ad6d:
 
 
-    mh "I spoke with the Judge. She assured me that all the t's were crossed..."
+    mh "Ich habe mit der Richterin gesprochen. Sie hat mir versichert, dass alles korrekt abgewickelt wurde..."
 
 
 translate deutsch e04s05_0eaff76b:
 
 
-    mh "... And the i's were dotted."
+    mh "... Und die i's wurden gepunktet."
 
 
 translate deutsch e04s05_1d144930:
 
 
-    mh "Where shall we begin?"
+    mh "Wo sollen wir anfangen?"
 
 
 translate deutsch e04s05_34163ec0:
 
 
-    mc "With this. It's really the only thing she's scared of."
+    mc "Damit. Das ist wirklich das Einzige, wovor sie Angst hat."
 
 
 translate deutsch e04s05_83239112:
 
 
-    mh "Good."
+    mh "Gut."
 
 
 translate deutsch e04s05_bb296fbe:
 
 
-    mc "Prisoner 001, get on your hands and knees."
+    mc "Gefangene 001, auf alle viere."
 
 
 translate deutsch e04s05_22539329:
@@ -584,7 +584,7 @@ translate deutsch e04s05_f5077df9:
 translate deutsch e04s05_70f94a29:
 
 
-    mc "Show your appreciation."
+    mc "Zeige deine Wertschätzung."
 
 
 translate deutsch e04s05_5f24676d:
@@ -596,7 +596,7 @@ translate deutsch e04s05_5f24676d:
 translate deutsch e04s05_41ce17bf:
 
 
-    mc "You know the drill, you break the rules and you get the cattle prod."
+    mc "Du weißt ja, wie es läuft: Wer gegen die Regeln verstößt, bekommt den Viehstock zu spüren."
 
 
 translate deutsch e04s05_43b222f9:
@@ -608,79 +608,79 @@ translate deutsch e04s05_43b222f9:
 translate deutsch e04s05_f3bf377b:
 
 
-    mc "Blah, blah, blah. Lyssa, can you pass me a gag?"
+    mc "Blah, blah, blah. Lyssa, kannst du mir einen Knebel reichen?"
 
 
 translate deutsch e04s05_4b9175d9:
 
 
-    mh "Of course, [mcname]."
+    mh "Natürlich, [mcname]."
 
 
 translate deutsch e04s05_02256a45:
 
 
-    mc "That's better."
+    mc "Das ist besser."
 
 
 translate deutsch e04s05_0acf699b:
 
 
-    mc "Honestly, Prisoner 001, I'm tired of trying to convince you."
+    mc "Ehrlich gesagt, Gefangene 001, ich bin es leid, Sie überzeugen zu wollen."
 
 
 translate deutsch e04s05_909d269c:
 
 
-    mc "I have tried, and tried, and {i}tried{/i} to reason with you."
+    mc "Ich habe versucht, versucht und {i}versucht{/i}, mit dir zu reden."
 
 
 translate deutsch e04s05_8ed5d083:
 
 
-    mc "But you won't listen. Instead you're snarky, sassy, and downright {i}bitchy{/i}."
+    mc "Aber du willst nicht hören. Stattdessen bist du sarkastisch, frech und geradezu zickig."
 
 
 translate deutsch e04s05_691d02dd:
 
 
-    mc "So we're just going to fuck you until you can't think straight."
+    mc "Also werden wir dich einfach ficken, bis du nicht mehr klar denken kannst."
 
 
 translate deutsch e04s05_026c379d:
 
 
-    mc "Lyssa, can you help me get the prisoner on her feet."
+    mc "Lyssa, kannst du mir helfen, die Gefangene auf die Beine zu bringen?"
 
 
 translate deutsch e04s05_7f4a0c40:
 
 
-    mh "Of course."
+    mh "Natürlich."
 
 
 translate deutsch e04s05_85b32549:
 
 
-    mc "Do you want to take the front, or the back?"
+    mc "Möchtest du vorne oder hinten nehmen?"
 
 
 translate deutsch e04s05_6517f8a8:
 
 
-    mh "Why don't I start up front. Do you need me to grab you some lube?"
+    mh "Warum fange ich nicht vorne an? Soll ich dir etwas Gleitgel holen?"
 
 
 translate deutsch e04s05_6a200ea8:
 
 
-    mc "Prisoner 001 lost her lube privileges a long time ago."
+    mc "Gefangene 001 hat ihre Privilegien in Bezug auf Gleitmittel schon vor langer Zeit verloren."
 
 
 translate deutsch e04s05_731c6fa0:
 
 
-    mh "Good to know."
+    mh "Gut zu wissen."
 
 
 translate deutsch e04s05_9ae5ac54:
@@ -692,7 +692,7 @@ translate deutsch e04s05_9ae5ac54:
 translate deutsch e04s05_21b8b78d:
 
 
-    mc "You grab her legs, and I'll hold her up by her ass."
+    mc "Du packst ihre Beine, und ich halte sie am Hintern fest."
 
 
 translate deutsch e04s05_9dee8f66:
@@ -710,25 +710,25 @@ translate deutsch e04s05_4a0de6ab:
 translate deutsch e04s05_e547c543:
 
 
-    mh "Sounds like someone is having fun."
+    mh "Klingt, als hätte jemand Spaß."
 
 
 translate deutsch e04s05_343afe3e:
 
 
-    mc "If she gave in, she'd be having the time of her life right now."
+    mc "Wenn sie nachgegeben hätte, würde sie jetzt die Zeit ihres Lebens haben."
 
 
 translate deutsch e04s05_148b3503:
 
 
-    mc "Instead, the fun is just for us."
+    mc "Stattdessen ist der Spaß nur für uns."
 
 
 translate deutsch e04s05_47015fa4:
 
 
-    mc "No matter how many times I fuck her ass, she manages to tighten it right up!"
+    mc "Egal, wie oft ich ihren Arsch ficke, sie schafft es immer, ihn richtig zu verkrampfen!"
 
 
 translate deutsch e04s05_1e190082:
@@ -740,49 +740,49 @@ translate deutsch e04s05_1e190082:
 translate deutsch e04s05_5d883a13:
 
 
-    mh "I have to say the same for her pussy."
+    mh "Das Gleiche gilt für ihre Muschi."
 
 
 translate deutsch e04s05_1d00578c:
 
 
-    mh "We'll have to try and change that today, won't we?"
+    mh "Wir müssen heute versuchen, das zu ändern, nicht wahr?"
 
 
 translate deutsch e04s05_8256ddec:
 
 
-    mc "I am excited to see what you have planned, Lyssa."
+    mc "Ich bin gespannt, was du geplant hast, Lyssa."
 
 
 translate deutsch e04s05_3cb076c8:
 
 
-    mc "You should be excited too, Prisoner 001."
+    mc "Du solltest dich auch freuen, Gefangene 001."
 
 
 translate deutsch e04s05_b6324a19:
 
 
-    mh "I think we need to push her more, [mcname]. Need to make sure she's nice and loosened up."
+    mh "Ich denke, wir müssen sie mehr unter Druck setzen, [mcname]. Wir müssen dafür sorgen, dass sie sich entspannt und locker wird."
 
 
 translate deutsch e04s05_55cda615:
 
 
-    mc "I have just the idea, help me lay down on the bed."
+    mc "Ich habe gerade eine Idee, hilf mir, mich auf das Bett zu legen."
 
 
 translate deutsch e04s05_dca97b35:
 
 
-    mc "Why don't you join me down here. You can really get some leverage while you're thrusting."
+    mc "Warum kommst du nicht zu mir herunter? Du kannst beim Stoßen richtig Kraft aufwenden."
 
 
 translate deutsch e04s05_0fcee50f:
 
 
-    mh "I love where your head is at, [mcname]. She's really sparked your creativity."
+    mh "Ich finde es toll, wie du denkst, [mcname]. Sie hat deine Kreativität wirklich beflügelt."
 
 
 translate deutsch e04s05_d19e16b3:
@@ -800,19 +800,19 @@ translate deutsch e04s05_b0acb9cb:
 translate deutsch e04s05_74813a33:
 
 
-    mh "God, she's so tight!"
+    mh "Gott, sie ist so eng!"
 
 
 translate deutsch e04s05_f6640f6b:
 
 
-    mc "Mmm, right!? She's loosening up a bit, though."
+    mc "Mmm, stimmt's!? Sie taut aber langsam auf."
 
 
 translate deutsch e04s05_42f35a30:
 
 
-    mc "She has to keep it tight, so the stick up her ass doesn't fall out!"
+    mc "Sie muss es festhalten, damit der Stock in ihrem Arsch nicht herausfällt!"
 
 
 translate deutsch e04s05_fd1c8d8c:
@@ -824,19 +824,19 @@ translate deutsch e04s05_fd1c8d8c:
 translate deutsch e04s05_149a9db4:
 
 
-    mc "Do those sound like moans to you, Lyssa?"
+    mc "Klingt das für dich wie Stöhnen, Lyssa?"
 
 
 translate deutsch e04s05_64a739ea:
 
 
-    mh "They- ooo- do, [mcname]!"
+    mh "Das- ooo- tut es, [mcname]!"
 
 
 translate deutsch e04s05_5493e511:
 
 
-    mc "Sounds like the little slut likes getting her asshole abused!"
+    mc "Klingt so, als würde die kleine Schlampe es genießen, wenn ihr Arschloch missbraucht wird!"
 
 
 translate deutsch e04s05_770c5a6a:
@@ -848,7 +848,7 @@ translate deutsch e04s05_770c5a6a:
 translate deutsch e04s05_657e64de:
 
 
-    mh "I think you're right, [mcname], the bitch loves her holes being stretched out by two dicks."
+    mh "Ich glaube, du hast recht, [mcname], die Schlampe liebt es, wenn ihre Löcher von zwei Schwänzen gedehnt werden."
 
 
 translate deutsch e04s05_e708afb0:
@@ -860,139 +860,139 @@ translate deutsch e04s05_e708afb0:
 translate deutsch e04s05_b0d190cc:
 
 
-    mh "Oh just wait until you see what I've got in store for you."
+    mh "Oh, warte nur ab, bis du siehst, was ich für dich auf Lager habe."
 
 
 translate deutsch e04s05_9dd024f2:
 
 
-    mc "Speaking of, I'd love to see what you brought with you today."
+    mc "Apropos, ich würde gerne sehen, was du heute mitgebracht hast."
 
 
 translate deutsch e04s05_950ed287:
 
 
-    mh "I think you're going to love it."
+    mh "Ich glaube, es wird dir gefallen."
 
 
 translate deutsch e04s05_d29eb36c:
 
 
-    mct "Lyssa sounds so excited. I can't wait to see what she has for Lydia."
+    mct "Lyssa klingt so aufgeregt. Ich bin schon gespannt, was sie für Lydia hat."
 
 
 translate deutsch e04s05_375a7b08:
 
 
-    mct "Whatever she is getting, it sounds big."
+    mct "Was auch immer sie bekommt, es klingt nach etwas Großem."
 
 
 translate deutsch e04s05_e0417513:
 
 
-    mh "Okay. Please take out the prisoner's gag and put her on the floor."
+    mh "Okay. Bitte nimm der Gefangenen den Knebel ab und lege sie auf den Boden."
 
 
 translate deutsch e04s05_39de506d:
 
 
-    mc "On it."
+    mc "Ich kümmere mich darum."
 
 
 translate deutsch e04s05_05503b2a:
 
 
-    mc "For this next part, we'll need your mouth."
+    mc "Für den nächsten Teil brauchen wir deinen Mund."
 
 
 translate deutsch e04s05_35abeb4e:
 
 
-    lc "What the fuck are-"
+    lc "Was zum Teufel..."
 
 
 translate deutsch e04s05_dc10fb91:
 
 
-    lc "OUCH! FUCKING HELL!"
+    lc "AUA! VERDAMMT NOCHMAL!"
 
 
 translate deutsch e04s05_2f7d4839:
 
 
-    lc "What are you planning to do!?"
+    lc "Was hast du vor?"
 
 
 translate deutsch e04s05_c7a74ca6:
 
 
-    lc "That's too big, that-that-"
+    lc "Das ist zu groß, das-das-"
 
 
 translate deutsch e04s05_4050700f:
 
 
-    mc "I don't give a fuck. Lyssa, put it in."
+    mc "Das ist mir scheißegal. Lyssa, leg los."
 
 
 translate deutsch e04s05_ea10bb19:
 
 
-    lc "Please, [mcname], just wait a second!"
+    lc "Bitte, [mcname], warte doch einen Moment!"
 
 
 translate deutsch e04s05_b87b9edb:
 
 
-    mc "I have already given you so many chances."
+    mc "Ich habe dir schon so viele Chancen gegeben."
 
 
 translate deutsch e04s05_8dec7bda:
 
 
-    lc "Please, [alt_mcname]!"
+    lc "Bitte, [alt_mcname]!"
 
 
 translate deutsch e04s05_72a3d1e8:
 
 
-    mc "If this is what it takes for you to finally learn."
+    mc "Wenn es das ist, was nötig ist, damit du endlich lernst."
 
 
 translate deutsch e04s05_567920d3:
 
 
-    lc "Come o- HOLY FUCK!"
+    lc "Komm schon – HEILIGE SCHEISSE!"
 
 
 translate deutsch e04s05_9b0cd729:
 
 
-    lc "FUCK, FUCK, FUCK!"
+    lc "SCHEIßE, SCHEIßE, SCHEIßE!"
 
 
 translate deutsch e04s05_ef9d0151:
 
 
-    mc "Turn it on. Max speed."
+    mc "Schalte es ein. Maximale Geschwindigkeit."
 
 
 translate deutsch e04s05_3f542b2a:
 
 
-    lc "FUCK, [alt_mcname]! PLEASE NO!"
+    lc "VERDAMMT, [alt_mcname]! Bitte nicht!"
 
 
 translate deutsch e04s05_d3d06db5:
 
 
-    lc "MERCY, PLEASE!"
+    lc "BITTE, BITTE!"
 
 
 translate deutsch e04s05_28b47e7b:
 
 
-    lc "HOOOOOLY SHIT!"
+    lc "HEILIGE SCHEIßE!"
 
 
 translate deutsch e04s05_eda4137a:
@@ -1004,19 +1004,19 @@ translate deutsch e04s05_eda4137a:
 translate deutsch e04s05_9ed3e61c:
 
 
-    mc "As my personal bidet, I also want you to clean my asshole. I've left it extra dirty for you."
+    mc "Als mein persönliches Bidet möchte ich, dass du auch mein Arschloch reinigst. Ich habe es extra schmutzig für dich gelassen."
 
 
 translate deutsch e04s05_4c429f6c:
 
 
-    mc "And Lyssa, feel free to do whatever you want back there."
+    mc "Und Lyssa, mach einfach, was du willst, da hinten."
 
 
 translate deutsch e04s05_5156e20d:
 
 
-    mh "Already planning on it."
+    mh "Das habe ich bereits vor."
 
 
 translate deutsch e04s05_72310cb0:
@@ -1028,25 +1028,25 @@ translate deutsch e04s05_72310cb0:
 translate deutsch e04s05_f2d004ad:
 
 
-    mc "Sounds like someone likes your toy, Lyssa!"
+    mc "Klingt, als würde jemand dein Spielzeug mögen, Lyssa!"
 
 
 translate deutsch e04s05_e89668aa:
 
 
-    mh "It's the least I could do for wrecking her holes."
+    mh "Das ist das Mindeste, was ich tun konnte, nachdem ich ihre Löcher ruiniert habe."
 
 
 translate deutsch e04s05_c548b70e:
 
 
-    mh "If you want, [mcname], you can borrow the toy as long as you want!"
+    mh "Wenn du möchtest, [mcname], kannst du dir das Spielzeug so lange ausleihen, wie du möchtest!"
 
 
 translate deutsch e04s05_48e4b6cc:
 
 
-    mc "What do you think, Prisoner 001? Do you want me to chain you to the fuck machine for three days?"
+    mc "Was meinst du, Gefangene 001? Soll ich dich drei Tage lang an die Fickmaschine ketten?"
 
 
 translate deutsch e04s05_23572f86:
@@ -1058,49 +1058,49 @@ translate deutsch e04s05_23572f86:
 translate deutsch e04s05_96a0bb7a:
 
 
-    mc "That sounded like a yes to me!"
+    mc "Das klang für mich wie ein Ja!"
 
 
 translate deutsch e04s05_2d0c6c08:
 
 
-    mh "Mmmm, sounded like that to me too!"
+    mh "Mmmm, das kam mir auch so vor!"
 
 
 translate deutsch e04s05_9dbbc0da:
 
 
-    mh "Mmmm, I feel her asshole squeezing tighter around my cock."
+    mh "Mmmm, ich spüre, wie sich ihr Arschloch fester um meinen Schwanz zusammenzieht."
 
 
 translate deutsch e04s05_d6919afd:
 
 
-    mc "I wonder if it's because of the horse dildo-"
+    mc "Ich frage mich, ob es wegen des Pferdedildos ist..."
 
 
 translate deutsch e04s05_77261c96:
 
 
-    mc "-Or because she's eating my ass like it's fine dining!"
+    mc "- Oder weil sie meinen Arsch frisst, als wäre es ein Gourmetessen!"
 
 
 translate deutsch e04s05_de9cc072:
 
 
-    mh "Mmmm, I'm getting close, [mcname]."
+    mh "Mmmm, ich bin fast fertig, [mcname]."
 
 
 translate deutsch e04s05_cf6c71bb:
 
 
-    mc "I have a plan for the grand finale, so don't cum yet!"
+    mc "Ich habe einen Plan für das große Finale, also komm noch nicht!"
 
 
 translate deutsch e04s05_d0c35546:
 
 
-    mc "I think you're going to like this next part."
+    mc "Ich glaube, der nächste Teil wird dir gefallen."
 
 
 translate deutsch e04s05_d09f83d7:
@@ -1112,61 +1112,61 @@ translate deutsch e04s05_d09f83d7:
 translate deutsch e04s05_c7d4fefa:
 
 
-    mc "Lyssa, for this last part, can I fuck you?"
+    mc "Lyssa, für diesen letzten Teil, darf ich dich ficken?"
 
 
 translate deutsch e04s05_506ae311:
 
 
-    mh "Look at you, asking like a gentleman."
+    mh "Sieh dich nur an, fragst wie ein Gentleman."
 
 
 translate deutsch e04s05_37e557bc:
 
 
-    mc "Am I anything but?"
+    mc "Bin ich etwas anderes?"
 
 
 translate deutsch e04s05_947a74a0:
 
 
-    mh "Am I allowed lube?"
+    mh "Darf ich Gleitmittel verwenden?"
 
 
 translate deutsch e04s05_2af6f05e:
 
 
-    mc "I don't have any, but I've got the next best thing."
+    mc "Ich habe keins, aber ich habe das Nächstbeste."
 
 
 translate deutsch e04s05_f5a7b2c4:
 
 
-    lc "Fuck, fuck you, fuck."
+    lc "Scheiße, Fick dich, scheiße."
 
 
 translate deutsch e04s05_708e0411:
 
 
-    mc "Oh, I forgot that my little fleshlight could talk."
+    mc "Oh, ich habe ganz vergessen, dass mein kleines Fleshlight sprechen kann."
 
 
 translate deutsch e04s05_70a4cc58:
 
 
-    lc "I swear-"
+    lc "Ich schwöre..."
 
 
 translate deutsch e04s05_55afc618:
 
 
-    mc "You swear nothing. You're powerless."
+    mc "Du schwörst nichts. Du bist machtlos."
 
 
 translate deutsch e04s05_c6eb393e:
 
 
-    lc "I will fucking ki-"
+    lc "Ich werde dich verdammt noch mal umbrin-!"
 
 
 translate deutsch e04s05_6c51eb41:
@@ -1178,25 +1178,25 @@ translate deutsch e04s05_6c51eb41:
 translate deutsch e04s05_cada35d7:
 
 
-    mc "This slobbery little pig will get my dick nice and slick."
+    mc "Dieses sabbernde kleine Schweinchen wird meinen Schwanz schön glatt machen."
 
 
 translate deutsch e04s05_77148a46:
 
 
-    mh "Perfect."
+    mh "Perfekt."
 
 
 translate deutsch e04s05_708973e1:
 
 
-    mc "God, her throat is wonderful. It's squeezing the shit out of my dick."
+    mc "Gott, ihre Kehle ist wunderbar. Sie drückt mir die Scheiße aus dem Schwanz."
 
 
 translate deutsch e04s05_0beb9aa5:
 
 
-    mc "Put the dildo back in."
+    mc "Steck den Dildo wieder rein."
 
 
 translate deutsch e04s05_0802e35b:
@@ -1214,49 +1214,49 @@ translate deutsch e04s05_18c32498:
 translate deutsch e04s05_a1dab733:
 
 
-    mc "Holy fuck! Her throat just got way tighter."
+    mc "Verdammt noch mal! Ihr Hals ist gerade viel enger geworden."
 
 
 translate deutsch e04s05_dadac0ab:
 
 
-    lc "HOLY FUCKING SHIT!!!"
+    lc "HEILIGE SCHEISSE!!!"
 
 
 translate deutsch e04s05_642b93c4:
 
 
-    lc "GOD FUCKING- IT'S TOO MUCH!"
+    lc "GOTT VERDAMMT – DAS IST ZU VIEL!"
 
 
 translate deutsch e04s05_6de58320:
 
 
-    mc "Lyssa, her throat is all yours."
+    mc "Lyssa, ihre Kehle gehört ganz dir."
 
 
 translate deutsch e04s05_3b9ce78e:
 
 
-    mh "Why, thank you, [mcname]."
+    mh "Vielen Dank, [mcname]."
 
 
 translate deutsch e04s05_6986f980:
 
 
-    lc "CHRIST- PLEASE, JUST-"
+    lc "CHRISTUS – BITTE, NUR –"
 
 
 translate deutsch e04s05_97703f6b:
 
 
-    mh "You were right, her throat is amazing."
+    mh "Du hattest Recht, ihre Kehle ist unglaublich."
 
 
 translate deutsch e04s05_cbf7c775:
 
 
-    mc "I think it's because she loves being spitroasted."
+    mc "Ich glaube, das liegt daran, dass sie es liebt, von zwei Schwänzen gleichzeitig gefickt zu werden."
 
 
 translate deutsch e04s05_92067b36:
@@ -1268,25 +1268,25 @@ translate deutsch e04s05_92067b36:
 translate deutsch e04s05_d949d347:
 
 
-    mc "How do you like this, Prisoner 001?"
+    mc "Wie gefällt dir das, Gefangene 001?"
 
 
 translate deutsch e04s05_9c4d063b:
 
 
-    mc "I'm thrusting Lyssa's dick down your throat."
+    mc "Ich schiebe Lyssa's Schwanz in deinen Hals."
 
 
 translate deutsch e04s05_73584346:
 
 
-    mc "And this is what you deserve!"
+    mc "Und das ist es, was Sie verdient!"
 
 
 translate deutsch e04s05_5f4eb93c:
 
 
-    mc "And Lyssa's ass is even better than yours!"
+    mc "Und Lyssa hat einen noch schöneren Hintern als du!"
 
 
 translate deutsch e04s05_643160f7:
@@ -1298,67 +1298,67 @@ translate deutsch e04s05_643160f7:
 translate deutsch e04s05_10685202:
 
 
-    mh "Mmmm, thank you-oh fuuuuck."
+    mh "Mmmm, danke – oh verdammt."
 
 
 translate deutsch e04s05_0b503c48:
 
 
-    mh "God, her throat is really doing work. She's going to make me cum."
+    mh "Gott, ihre Kehle macht sich wirklich gut. Sie bringt mich zum Abspritzen."
 
 
 translate deutsch e04s05_b7810f41:
 
 
-    mc "Her time here has really made her into a good little slut."
+    mc "Ihre Zeit hier hat sie wirklich zu einer guten kleinen Schlampe gemacht."
 
 
 translate deutsch e04s05_705cd7c3:
 
 
-    mc "Even with all her protestations."
+    mc "Trotz all ihrer Einwände."
 
 
 translate deutsch e04s05_016b9ba7:
 
 
-    mh "Mmmm, am I allowed to cum down her throat?"
+    mh "Mmmm, darf ich in ihrem Hals kommen?"
 
 
 translate deutsch e04s05_e3efb381:
 
 
-    mc "Of course, feel free to use her as you see fit!"
+    mc "Natürlich, du kannst nach Belieben mit ihr machen was du willst!"
 
 
 translate deutsch e04s05_3f7dce37:
 
 
-    mh "Good, because I'm close."
+    mh "Gut, denn ich komme gleich."
 
 
 translate deutsch e04s05_74fc6761:
 
 
-    mc "Me too."
+    mc "Ich auch."
 
 
 translate deutsch e04s05_257df1f5:
 
 
-    mh "Fuck, I'm cumming!"
+    mh "Scheiße, ich komme!"
 
 
 translate deutsch e04s05_443dba65:
 
 
-    mc "Shit, I'm about to come too!"
+    mc "Scheiße, ich komme auch gleich!"
 
 
 translate deutsch e04s05_0c26425b:
 
 
-    mc "Oh shiiiit!"
+    mc "Oh Scheiße!"
 
 
 translate deutsch e04s05_ee03e7f4:
@@ -1370,287 +1370,287 @@ translate deutsch e04s05_ee03e7f4:
 translate deutsch e04s05_c81859f6:
 
 
-    mc "Lyssa, turn the machine on higher."
+    mc "Lyssa, stell die Maschine höher ein."
 
 
 translate deutsch e04s05_3e410e42:
 
 
-    lc "Wait, no, I didn't mean it!"
+    lc "Warte, nein, das habe ich nicht so gemeint!"
 
 
 translate deutsch e04s05_7902a8eb:
 
 
-    mc "Don't care. I'm going to fucking ruin your holes."
+    mc "Ist mir egal. Ich werde deine Löcher verdammt noch mal ruinieren."
 
 
 translate deutsch e04s05_707ee15d:
 
 
-    lc "I'm sorry, I- FUUUUHCK!"
+    lc "Es tut mir leid, ich... FUUUUHCK!"
 
 
 translate deutsch e04s05_467bbeff:
 
 
-    mc "God, that was great. I'm going to run up to the bathroom and then I think I'm going to come back down and watch you get stretched out, Prisoner 001."
+    mc "Gott, das war großartig. Ich gehe schnell auf die Toilette und dann komme ich wieder herunter und schaue zu, wie du gestreckt wirst, Gefangene 001."
 
 
 translate deutsch e04s05_99dea0c9:
 
 
-    mh "Why go up to the bathroom?"
+    mh "Warum auf die Toilette gehen?"
 
 
 translate deutsch e04s05_34bdf99a:
 
 
-    mh "From where I'm standing, you've got a toilet right in front of you."
+    mh "Von meinem Standpunkt aus gesehen hast du eine Toilette direkt vor dir."
 
 
 translate deutsch e04s05_6eb99e08:
 
 
-    mc "Huh, you've got a good point there."
+    mc "Hm, da hast du recht."
 
 
 translate deutsch e04s05_ca5cf376:
 
 
-    lc "DON'T YOU- MMMMMMFUCK- THIK ABOUT IT!"
+    lc "DENK NICHT MAL DARAN- MMMMMMFUCK- VERDAMMT NOCHMAL!"
 
 
 translate deutsch e04s05_4749070b:
 
 
-    mc "And what are you going to do about it?"
+    mc "Und was wirst du dagegen unternehmen?"
 
 
 translate deutsch e04s05_ea3f3985:
 
 
-    mh "I think I also need to go."
+    mh "Ich glaube, ich muss auch."
 
 
 translate deutsch e04s05_b67d4f27:
 
 
-    lc "Ohhh, FUCK, GOD, FUCK!"
+    lc "Ohhh, VERDAMMT, GOTT, VERDAMMT!"
 
 
 translate deutsch e04s05_e46e8126:
 
 
-    mc "Feel free."
+    mc "Nur zu."
 
 
 translate deutsch e04s05_ending_f402bb37:
 
 
-    mh "Mmmmm. She's really getting into this fuck machine, huh."
+    mh "Mmmmm. Sie hat wirklich Spaß an dieser Fickmaschine, was?"
 
 
 translate deutsch e04s05_ending_bb0a69d1:
 
 
-    mc "Oh absolutely. I mean, I think it might make her cum."
+    mc "Oh, auf jeden Fall. Ich meine, ich glaube, das könnte sie zum Orgasmus bringen."
 
 
 translate deutsch e04s05_ending_5803a426:
 
 
-    mh "Good. Having her holes abused should be the only reason she should cum."
+    mh "Gut. Dass ihre Löcher missbraucht werden, sollte der einzige Grund sein, warum sie zum Orgasmus kommt."
 
 
 translate deutsch e04s05_ending_e96f762b:
 
 
-    mc "Existing at our whim and mercy."
+    mc "Sie ist unserer Laune und Gnade ausgeliefert."
 
 
 translate deutsch e04s05_ending_0e9327e0:
 
 
-    lc "This is fuuuh- holy- fuuuh- shit- disgusting."
+    lc "Das ist fuuuh- heilige- fuuuh- Scheiße- ekelhaft."
 
 
 translate deutsch e04s05_ending_eec9831c:
 
 
-    mc "She says as she moans."
+    mc "Sie sagt das, während sie stöhnt."
 
 
 translate deutsch e04s05_ending_cfcec708:
 
 
-    lc "N-n-nooo, gaaaawd fuhck!"
+    lc "Nein, nein, nein, verdammt noch mal!"
 
 
 translate deutsch e04s05_ending_8afe3eef:
 
 
-    mc "Lyssa, does it sound like someone is about to cum?"
+    mc "Lyssa, klingt das so, als würde jemand gleich kommen?"
 
 
 translate deutsch e04s05_ending_9fbe8abf:
 
 
-    mh "It does, [mcname]."
+    mh "Ja, [mcname]."
 
 
 translate deutsch e04s05_ending_be182e8a:
 
 
-    lc "I-I- nnnngh- No I woooon't!"
+    lc "Ich-Ich- nnnngh- Nein, das werde ich nicht!"
 
 
 translate deutsch e04s05_ending_5274fc8d:
 
 
-    mc "You like that don't you?"
+    mc "Das gefällt dir doch, oder?"
 
 
 translate deutsch e04s05_ending_62209b5d:
 
 
-    mc "You're going to cum, while you're covered in piss and getting reamed again and again."
+    mc "Du wirst kommen, während du mit Pisse bedeckt bist und immer wieder gefickt wirst."
 
 
 translate deutsch e04s05_ending_1cf29670:
 
 
-    mc "You're going to cum while getting stretched out by a horse cock, and covered in my spunk."
+    mc "Du wirst kommen, während du von einem Pferdepimmel gedehnt und mit meinem Sperma bedeckt wirst."
 
 
 translate deutsch e04s05_ending_f4cb23d6:
 
 
-    mc "Go ahead Prisoner 001. Cum. CUM."
+    mc "Los, Gefangene 001. Komm schon. KOMM SCHON."
 
 
 translate deutsch e04s05_ending_f553faa1:
 
 
-    lc "I wooon- FUCK, NO! STOP, STOP, STOP!"
+    lc "Ich will... VERDAMMT, NEIN! HÖR AUF, HÖR AUF, HÖR AUF!"
 
 
 translate deutsch e04s05_ending_a8fc5796:
 
 
-    lc "NO, I CAN'T BEEE-"
+    lc "NEIN, ICH KANN NICHT..."
 
 
 translate deutsch e04s05_ending_d8f76354:
 
 
-    lc "FUCK I'M CUMMING! NO! FUCK, FUCK, FUCK!"
+    lc "FUCK, ICH KOMME! NEIN! FUCK, FUCK, FUCK!"
 
 
 translate deutsch e04s05_ending_87e26eb2:
 
 
-    mc "Good girl."
+    mc "Braves Mädchen."
 
 
 translate deutsch e04s05_ending_e0062250:
 
 
-    lc "FUUUCK - GOD WHY!?"
+    lc "VERDAMMT NOCH MAL – WARUM!?"
 
 
 translate deutsch e04s05_ending_e6220016:
 
 
-    mc "Because maybe you're learning where you belong in the world."
+    mc "Weil du vielleicht gerade lernst, wo dein Platz in der Welt ist."
 
 
 translate deutsch e04s05_ending_1e04ab88:
 
 
-    mc "Your offer to borrow your toy still stands, right?"
+    mc "Dein Angebot, mir dein Spielzeug zu leihen, gilt doch noch, oder?"
 
 
 translate deutsch e04s05_ending_7f4a0c40:
 
 
-    mh "Of course."
+    mh "Natürlich."
 
 
 translate deutsch e04s05_ending_eb023a4f:
 
 
-    mc "Great, why don't I walk you out."
+    mc "Großartig, ich bringe dich hinaus."
 
 
 translate deutsch e04s05_ending_74b50394:
 
 
-    lc "You can't leave me like this!"
+    lc "Du kannst mich nicht einfach so zurücklassen!"
 
 
 translate deutsch e04s05_ending_a7e4bdd8:
 
 
-    mc "I absolutely can."
+    mc "Das kann ich auf jeden Fall."
 
 
 translate deutsch e04s05_ending_d06433c2:
 
 
-    lc "God, NO!"
+    lc "Gott, NEIN!"
 
 
 translate deutsch e04s05_ending_13867de0:
 
 
-    mc "God, yes! I can do whatever I want with you, Prisoner 001. And I feel like you no longer deserve the right to have a tight pussy."
+    mc "Gott, ja! Ich kann mit dir machen, was ich will, Gefangene 001. Und ich finde, du hast das Recht auf eine enge Muschi nicht mehr verdient."
 
 
 translate deutsch e04s05_ending_1e290a8d:
 
 
-    mh "I must say, [mcname]. That was a lot of fun."
+    mh "Ich muss sagen, [mcname]. Das hat viel Spaß gemacht."
 
 
 translate deutsch e04s05_ending_ffa8df82:
 
 
-    mc "Good! I also think we made a decent amount of progress today."
+    mc "Gut! Ich finde auch, dass wir heute ordentliche Fortschritte gemacht haben."
 
 
 translate deutsch e04s05_ending_9987d49e:
 
 
-    mh "Good. Anytime you need help, you just let me know."
+    mh "Gut. Wenn du Hilfe brauchst, sag mir einfach Bescheid."
 
 
 translate deutsch e04s05_ending_f492e391:
 
 
-    mc "Oh, I will. Please, feel free to come back any time."
+    mc "Oh, das werde ich. Bitte komme jederzeit wieder."
 
 
 translate deutsch e04s05_ending_14a15ec6:
 
 
-    mh "Now that you've invited me in, I will absolutely be coming back any time I like."
+    mh "Jetzt, wo du mich eingeladen hast, werde ich auf jeden Fall jederzeit wiederkommen, wann immer ich möchte."
 
 
 translate deutsch e04s05_ending_aa5aee18:
 
 
-    mc "Is that how it works?"
+    mc "Ist das so, wie es funktioniert?"
 
 
 translate deutsch e04s05_ending_4950bfc1:
 
 
-    mh "Haven't you met a vamapire before?"
+    mh "Hast du noch nie einen Vampir getroffen?"
 
 translate deutsch strings:
 
 
     old "A few weeks later"
-    new "A few weeks later"
+    new "Einige Wochen später"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

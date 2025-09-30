@@ -311,4 +311,18 @@ translate spanish strings:
 
     old "{u}Get Taboo University Book 1 on Steam{/u}"
     new "{u}Obtén Taboo University Libro 1 en Steam{/u}"
+
+translate spanish strings:
+
+
+    old "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Consigue Taboo University Libro 1 en GOG{/u}"
+
+
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Añade Fetish Locator: S&M Studio a tu lista de deseos en GOG"
+
+
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Consigue Fetish Locator: S&M Studio en GOG"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

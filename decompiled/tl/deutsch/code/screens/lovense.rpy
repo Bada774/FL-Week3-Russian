@@ -128,13 +128,13 @@ translate deutsch strings:
 
 
     old "1. Click on the \"Discover\" tab"
-    new "1. Click on the \"Discover\" tab"
+    new "Klicke auf die Registerkarte \"Entdecken\" "
 
 
     old "2. Then click on \"Game Mode\" option"
-    new "2. Then click on \"Game Mode\" option"
+    new "2. Klicke dann auf die Option \"Spielmodus\" "
 
 
     old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
-    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Gebe die in der App angezeigte \"Lokale IP\" und den \"Port\" ein\nKlicke dann auf Verbinden."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

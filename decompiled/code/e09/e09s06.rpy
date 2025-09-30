@@ -653,7 +653,7 @@ label e09s06_ah_tr:
     ah "Ugh..."
     scene e09s06-119 mc-what-that-about-tr-had-huge-fight_c1 with dissolve
     play voice2 mc_surprised_uh2 noloop
-    mc "What's up with Aleyah?"
+    mc "What's up with Aaleyah?" id e09s06_ah_tr_4892890b
     play voice5 terrell_aah noloop
     tr "Oh, we got into a huge fight earlier."
     scene e09s06-120 mc-what-for-tr-she-transfer-schools_c1 with dissolve

@@ -817,7 +817,7 @@ translate french d15s04dd_c0c1af84:
 translate french d15s04dd_82e18332:
 
 
-    "Doctor" "Mme Diamond! Je suis extrêmement désolé pour le temps d'attente. J'ai eu une urgence pour laquelle on m'a appelé."
+    "Docteur" "Mme Diamond! Je suis extrêmement désolé pour le temps d'attente. J'ai eu une urgence pour laquelle on m'a appelé."
 
 
 translate french d15s04dd_bfb7a12f:
@@ -829,7 +829,7 @@ translate french d15s04dd_bfb7a12f:
 translate french d15s04dd_1fac3b26:
 
 
-    "Doctor" "Merci. S'il vous plaît, asseyez-vous. J'ai les résultats de vos tests ici..."
+    "Docteur" "Merci. S'il vous plaît, asseyez-vous. J'ai les résultats de vos tests ici..."
 
 
 translate french d15s04dd_93ffcb1f:

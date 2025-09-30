@@ -312,139 +312,139 @@ translate deutsch strings:
 
 
     old "Ending 04: Lydia"
-    new "Ending 04: Lydia"
+    new "Ende 04: Lydia"
 
 
     old "Ending 04: Lydia, Stacy & AmRose"
-    new "Ending 04: Lydia, Stacy & AmRose"
+    new "Ende 04: Lydia, Stacy & AmRose"
 
 
     old "Ending 04: Daisy, Lydia, Stacy & AmRose"
-    new "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Ende 04: Daisy, Lydia, Stacy & AmRose"
 
 
     old "Ending 04: Lyssa & Lydia"
-    new "Ending 04: Lyssa & Lydia"
+    new "Ende 04: Lyssa & Lydia"
 
 
     old "Ending 04: Lydia & Maria"
-    new "Ending 04: Lydia & Maria"
+    new "Ende 04: Lydia & Maria"
 
 
     old "Ending 04: Harem"
-    new "Ending 04: Harem"
+    new "Ende 04: Harem"
 
 
     old "Ending 07: AmRose"
-    new "Ending 07: AmRose"
+    new "Ende 07: AmRose"
 
 
     old "Ending 07: Lydia"
-    new "Ending 07: Lydia"
+    new "Ende 07: Lydia"
 
 
     old "Ending 07: Lydia & Domina"
-    new "Ending 07: Lydia & Domina"
+    new "Ende 07: Lydia & Domina"
 
 
     old "Ending 07: Lydia Gangbang"
-    new "Ending 07: Lydia Gangbang"
+    new "Ende 07: Lydia Gangbang"
 
 
     old "Ending 07: Public Toilet"
-    new "Ending 07: Public Toilet"
+    new "Ende 07: Öffentliche Toilette"
 
 
     old "Ending 07: Lydia & AmRose"
-    new "Ending 07: Lydia & AmRose"
+    new "Ende 07: Lydia & AmRose"
 
 translate deutsch strings:
 
 
     old "Ending 05: Oliver"
-    new "Ending 05: Oliver"
+    new "Ende 05: Oliver"
 
 
     old "Ending 05: Lyssa"
-    new "Ending 05: Lyssa"
+    new "Ende 05: Lyssa"
 
 
     old "Ending 16: Jessie and Molly"
-    new "Ending 16: Jessie and Molly"
+    new "Ende 16: Jessie und Molly"
 
 
     old "Ending 16: Jessie and Kanya"
-    new "Ending 16: Jessie and Kanya"
+    new "Ende 16: Jessie und Kanya"
 
 
     old "Ending 16: Sage and Kristen"
-    new "Ending 16: Sage and Kristen"
+    new "Ende 16: Sage und Kristen"
 
 
     old "Ending 16: Jessie, Molly, Sage & Kristen"
-    new "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "Ende 16: Jessie, Molly, Sage & Kristen"
 
 translate deutsch strings:
 
 
     old "Ending 15: Min & Stacy"
-    new "Ending 15: Min & Stacy"
+    new "Ende 15: Min & Stacy"
 
 
     old "Ending 15: Watersports"
-    new "Ending 15: Watersports"
+    new "Ende 15: Watersports"
 
 
     old "Ending 15: Olivia, Bell & Annie"
-    new "Ending 15: Olivia, Bell & Annie"
+    new "Ende 15: Olivia, Bell & Annie"
 
 
     old "Ending 15: Lyssa, Stacy & Gemma"
-    new "Ending 15: Lyssa, Stacy & Gemma"
+    new "Ende 15: Lyssa, Stacy & Gemma"
 
 
     old "Ending 15: Min, Stacy & Olivia"
-    new "Ending 15: Min, Stacy & Olivia"
+    new "Ende 15: Min, Stacy & Olivia"
 
 
     old "Ending 18: Samiya, Dahlia & Pete"
-    new "Ending 18: Samiya, Dahlia & Pete"
+    new "Ende 18: Samiya, Dahlia & Pete"
 
 
     old "Ending 18: Quartet, Londyn & Kendell"
-    new "Ending 18: Quartet, Londyn & Kendell"
+    new "Ende 18: Quartet, Londyn & Kendell"
 
 
     old "Ending 18: Samiya"
-    new "Ending 18: Samiya"
+    new "Ende 18: Samiya"
 
 translate deutsch strings:
 
 
     old "Ending 03: Lyssa & Stacy"
-    new "Ending 03: Lyssa & Stacy"
+    new "Ende 03: Lyssa & Stacy"
 
 
     old "Ending 03: Lyssa, Chiara & Stacy"
-    new "Ending 03: Lyssa, Chiara & Stacy"
+    new "Ende 03: Lyssa, Chiara & Stacy"
 
 
     old "Ending 09: AmRose & Allison"
-    new "Ending 09: AmRose & Allison"
+    new "Ende 09: AmRose & Allison"
 
 
     old "Ending 09: Stacy, AmRose & Allison"
-    new "Ending 09: Stacy, AmRose & Allison"
+    new "Ende 09: Stacy, AmRose & Allison"
 
 
     old "Ending 09: Hana & Londyn"
-    new "Ending 09: Hana & Londyn"
+    new "Ende 09: Hana & Londyn"
 
 
     old "Ending 09: Hana & Allison"
-    new "Ending 09: Hana & Allison"
+    new "Ende 09: Hana & Allison"
 
 
     old "Ending 09: Party Girls"
-    new "Ending 09: Party Girls"
+    new "Ende 09: Party Girls"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

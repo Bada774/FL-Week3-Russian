@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e09s01_c9a4e483:
 
 

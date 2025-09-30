@@ -220,55 +220,55 @@ translate deutsch strings:
 
 
     old "Ending 04: Girls"
-    new "Ending 04: Girls"
+    new "Ende 04: Mädchen"
 
 
     old "Ending 07: Girls"
-    new "Ending 07: Girls"
+    new "Ende 07: Mädchen"
 
 translate deutsch strings:
 
 
     old "Ending 05: Lyssa & Oliver"
-    new "Ending 05: Lyssa & Oliver"
+    new "Ende 05: Lyssa & Oliver"
 
 
     old "Ending 16: Jessie & Kanya"
-    new "Ending 16: Jessie & Kanya"
+    new "Ende 16: Jessie & Kanya"
 
 
     old "Ending 16: Farm Animals"
-    new "Ending 16: Farm Animals"
+    new "Ende 16: Nutztiere"
 
 translate deutsch strings:
 
 
     old "Ending 15: Girls"
-    new "Ending 15: Girls"
+    new "Ende 15: Mädchen"
 
 
     old "Ending 18: Samiya & Dahlia"
-    new "Ending 18: Samiya & Dahlia"
+    new "Ende 18: Samiya & Dahlia"
 
 
     old "Ending 18: Kendell & Londyn"
-    new "Ending 18: Kendell & Londyn"
+    new "Ende 18: Kendell & Londyn"
 
 
     old "Ending 18: Four Beauties"
-    new "Ending 18: Four Beauties"
+    new "Ende 18: Vier Schönheiten"
 
 translate deutsch strings:
 
 
     old "Ending 03: Girls"
-    new "Ending 03: Girls"
+    new "Ende 03: Mädchen"
 
 
     old "Ending 09: Girls"
-    new "Ending 09: Girls"
+    new "Ende 09: Mädchen"
 
 
     old "Ending 09: Greek Goddesses"
-    new "Ending 09: Greek Goddesses"
+    new "Ende 09: Griechische Göttinnen"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

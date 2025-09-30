@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e03s03_3ccfda0a:
 
 

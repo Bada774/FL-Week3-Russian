@@ -6870,7 +6870,6 @@ define 2 audio.girl36_zcow_moo11 = get_ext_audio("girl36_zcow_moo11")
 define 2 audio.girl36_zcow_moo12 = get_ext_audio("girl36_zcow_moo12")
 
 
-
 define 2 audio.dog_moan1 = get_ext_audio("dog_moan1")
 define 2 audio.dog_moan2 = get_ext_audio("dog_moan2")
 define 2 audio.dog_breath1 = get_ext_audio("dog_breath1")

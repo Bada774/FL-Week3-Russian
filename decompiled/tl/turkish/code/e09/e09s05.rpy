@@ -254,7 +254,7 @@ translate turkish e09s05_b4c35391:
 translate turkish e09s05_a3d635de:
 
 
-    arj "Oh hadi, Stacy. Mcname]'e fazla işkence etme."
+    arj "Oh hadi, Stacy. [mcname]'e fazla işkence etme."
 
 
 translate turkish e09s05_8498cc88:

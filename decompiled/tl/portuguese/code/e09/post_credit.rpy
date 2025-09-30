@@ -1,6 +1,4 @@
 
-
-
 translate portuguese dlc_2_postcredits_f6b26d61:
 
 

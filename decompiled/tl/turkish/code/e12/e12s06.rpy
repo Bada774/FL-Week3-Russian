@@ -530,13 +530,13 @@ translate turkish replay_e12s06_b63e11d3:
 translate turkish replay_e12s06_136182e0:
 
 
-    aw "Kıyafetlerini çıkar anne. Mcname]'in sikini hayal etmekten bıktım."
+    aw "Kıyafetlerini çıkar anne. [mcname]'in sikini hayal etmekten bıktım."
 
 
 translate turkish replay_e12s06_04df6f3d:
 
 
-    aw "Vanessa, elbiselerini çıkar. mcname]'in sikini hayal etmekten bıktım."
+    aw "Vanessa, elbiselerini çıkar. [mcname]'in sikini hayal etmekten bıktım."
 
 
 translate turkish replay_e12s06_bcea8c7c:

@@ -632,7 +632,7 @@ translate turkish e05s05_sex_f8ffde48:
 translate turkish e05s05_sex_23412c22:
 
 
-    "Parmağını prostatımda hissediyorum ve-"
+    op "Parmağını prostatımda hissediyorum ve-"
 
 
 translate turkish e05s05_sex_f8c77631:
@@ -890,7 +890,7 @@ translate turkish e05s05_sex_2d008c24:
 translate turkish e05s05_sex_7165384b:
 
 
-    "Her ne yapıyorsan, yapmaya devam et! Beni her seferinde böyle becermeni {i}istiyorum.{/i}"
+    op "Her ne yapıyorsan, yapmaya devam et! Beni her seferinde böyle becermeni {i}istiyorum.{/i}"
 
 
 translate turkish e05s05_sex_96295afe:

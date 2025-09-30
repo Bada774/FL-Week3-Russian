@@ -111,4 +111,7 @@ transform image_opacity(opc):
 
 transform image_zoom(zm):
     zoom zm
+
+transform image_blur(bl):
+    blur bl
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

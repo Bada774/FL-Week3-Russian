@@ -349,7 +349,6 @@ label d15s01_thoughts_LC:
     pause
     jump d15s01_menu1
 
-
 label d15s01_thoughts_NTR:
 
     scene d15s01-21 arj-lc-mc-the-box-5-read-note_c3 with dissolve
@@ -367,7 +366,6 @@ label d15s01_thoughts_NTR:
     scene d15s01-22 arj-lc-mc-the-box-6-read-note-2_c2 with dissolve
     pause
     jump d15s01_menu1
-
 
 label d15s01_cagedecision:
 
@@ -1012,7 +1010,6 @@ label d15s01_lc_bj:
     arj "What's that?"
 
     jump d15s01_end
-
 
 label d15s01_face_fucking:
 

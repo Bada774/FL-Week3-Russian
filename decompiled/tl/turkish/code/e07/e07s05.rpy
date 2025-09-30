@@ -872,7 +872,7 @@ translate turkish e07s05_door_3_a12aebc2:
 translate turkish e07s05_door_3_end_be77da05:
 
 
-    "Lanet olsun, Lydia, eğer bunu yapmaya devam edersen-"
+    gc "Lanet olsun, Lydia, eğer bunu yapmaya devam edersen-"
 
 
 translate turkish e07s05_door_3_end_6d58248d:
@@ -1274,13 +1274,13 @@ translate turkish e07s05_grand_finale_b2a04f0d:
 translate turkish e07s05_grand_finale_4a5de0fb:
 
 
-    "Lanet olsun-"
+    zo "Lanet olsun-"
 
 
 translate turkish e07s05_grand_finale_526981bd:
 
 
-    "-Ben sikeceğim-"
+    dr "-Ben sikeceğim-"
 
 
 translate turkish e07s05_grand_finale_5ae55f91:
@@ -1322,7 +1322,7 @@ translate turkish e07s05_grand_finale_741f7b08:
 translate turkish e07s05_grand_finale_45dce79e:
 
 
-    "Ama-"
+    dr "Ama-"
 
 
 translate turkish e07s05_grand_finale_2387a277:
