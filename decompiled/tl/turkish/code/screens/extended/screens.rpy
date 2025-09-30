@@ -91,4 +91,18 @@ translate turkish strings:
 
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Steam'den 6 ek son içeren DLC-2'yi edinin"
+
+translate turkish strings:
+
+
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Fetish Locator: S&M Studio'yu Steam'de istek listesine ekleyin"
+
+
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Fetish Locator: S&M Studio'yu Steam'de edinin"
+
+
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "Fetish Locator: S&M Studio fragmanını izleyin"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

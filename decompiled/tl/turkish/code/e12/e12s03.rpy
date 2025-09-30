@@ -1124,7 +1124,7 @@ translate turkish e12s03_sex_0ff5dfca:
 translate turkish e12s03_sex_4172edf2:
 
 
-    "Ben gidiyorum, lanet olsun, ben gidiyorum-"
+    vw "Ben gidiyorum, lanet olsun, ben gidiyorum-"
 
 
 translate turkish e12s03_sex_da578ebb:

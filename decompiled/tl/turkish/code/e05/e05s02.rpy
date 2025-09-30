@@ -182,7 +182,7 @@ translate turkish e05s02_2c38273c:
 translate turkish e05s02_a37b6ca2:
 
 
-    "Bekleyin, Bayan Har-"
+    op "Bekleyin, Bayan Har-"
 
 
 translate turkish e05s02_9c2af6c7:
@@ -512,7 +512,7 @@ translate turkish e05s02_c8155816:
 translate turkish e05s02_85a8bc18:
 
 
-    "Lanet olası yeni adam. Ve sen de kimsin?"
+    tal "Lanet olası yeni adam. Ve sen de kimsin?"
 
 
 translate turkish e05s02_4ea1ee34:
@@ -530,13 +530,13 @@ translate turkish e05s02_a3e8ad14:
 translate turkish e05s02_939d44ac:
 
 
-    "Tamam, Bayan Lindquist, yani-"
+    op "Tamam, Bayan Lindquist, yani-"
 
 
 translate turkish e05s02_cf823cff:
 
 
-    "Bir saniye bekle, küçük adam. Açıklığa kavuşturmak için söylüyorum, sert avukat hanım yerine yeni bir adam aldım. Ve burada da tuhaf bir asistan mı var?"
+    tal "Bir saniye bekle, küçük adam. Açıklığa kavuşturmak için söylüyorum, sert avukat hanım yerine yeni bir adam aldım. Ve burada da tuhaf bir asistan mı var?"
 
 
 translate turkish e05s02_2c5db4f3:
@@ -566,7 +566,7 @@ translate turkish e05s02_530f00fb:
 translate turkish e05s02_69636847:
 
 
-    "Oh, benimle konuşuyorsun. Davanızı baştan sona inceledim ve sanırım en iyi seçeneğimiz bir savunma anlaşması yapmak olacak-"
+    op "Oh, benimle konuşuyorsun. Davanızı baştan sona inceledim ve sanırım en iyi seçeneğimiz bir savunma anlaşması yapmak olacak-"
 
 
 translate turkish e05s02_bc171737:
@@ -590,7 +590,7 @@ translate turkish e05s02_488e7ba9:
 translate turkish e05s02_c0598c71:
 
 
-    "Özür dilerim ama siciliniz-"
+    op "Özür dilerim ama siciliniz-"
 
 
 translate turkish e05s02_ae319337:

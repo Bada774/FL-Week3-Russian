@@ -87,4 +87,18 @@ translate spanish strings:
 
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Consigue el DLC-2 que contiene los 6 finales adicionales en Steam"
+
+translate spanish strings:
+
+
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Añade Fetish Locator: S&M Studio a tu lista de deseos en Steam"
+
+
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Consigue Fetish Locator: S&M Studio en Steam"
+
+
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "Mira el tráiler de Fetish Locator: S&M Studio"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

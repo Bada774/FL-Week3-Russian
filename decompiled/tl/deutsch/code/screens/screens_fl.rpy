@@ -224,7 +224,7 @@ translate deutsch strings:
 
 
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Synchronisiere deine Speicherstände mit dem Ren'Py Sync-Server."
 
 
     old "Upload Saves"
@@ -238,7 +238,7 @@ translate deutsch strings:
 
 
     old "Touch input supported"
-    new "Touch input supported"
+    new "Touch-Eingabe unterstützt"
 
 
     old "Navigation"
@@ -246,7 +246,7 @@ translate deutsch strings:
 
 
     old "Pause Menu"
-    new "Pause Menu"
+    new "Pausenmenü"
 
 
     old "Quick Save"
@@ -254,19 +254,19 @@ translate deutsch strings:
 
 
     old "Roll Back"
-    new "Roll Back"
+    new "Zurücksetzen"
 
 
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Auswählen"
 
 
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Zurück"
 
 
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Überspringen"
 
 
     old "{b}Y{/b} - Hide UI"
@@ -274,17 +274,31 @@ translate deutsch strings:
 
 
     old "Roll Forward"
-    new "Roll Forward"
+    new "Weiterrollen"
 
 
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Dieses Layout findest du im {b}Hilfe{/b} Menü"
 
 
     old "CLOSE"
-    new "CLOSE"
+    new "SCHLIESSEN"
 
 
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Hole dir Taboo University Book 1 auf Steam{/u}"
+
+translate deutsch strings:
+
+
+    old "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Hol dir Taboo University Book 1 auf GOG{/u}"
+
+
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Wunschliste Fetisch-Finder: S&M Studio auf GOG"
+
+
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Fetish Locator: S&M Studio auf GOG herunterladen"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

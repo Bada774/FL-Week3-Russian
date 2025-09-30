@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e03s01_03c8965c:
 
 

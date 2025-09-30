@@ -1205,7 +1205,6 @@ translate french d18s01_shower_lc_a49ed4f8:
 
     mc "D'accord."
 
-
 translate french strings:
 
 

@@ -1,39 +1,3 @@
-
-translate deutsch ending_not_available_f3f9fce0:
-
-
-    "Du hast das aktuelle Ende dieses Story-Pfads erreicht. Dieses Ende wird in Zukunft als kostenloses DLC implementiert."
-
-
-translate deutsch ending_not_available_2ad33c15:
-
-
-    "Du hast das aktuelle Ende dieses Story-Pfads erreicht. Dieses Ende wird in Zukunft als DLC implementiert."
-
-
-translate deutsch ending_not_available_eb531d10:
-
-
-    "Vergewissere dich, dass du unserer Steam-Seite folgst, um immer auf dem aktuellen Stand zu bleiben, was Neuigkeiten zu Fetish Locator angeht."
-
-
-translate deutsch ending_not_available_7495b934:
-
-
-    "Du hast das aktuelle Ende dieses Story-Pfads erreicht. Dieses Ende wird in Zukunft implementiert."
-
-
-translate deutsch ending_not_available_4bc3c22a:
-
-
-    "Vergewissere dich, dass du uns auf Patreon folgst, um immer auf dem aktuellen Stand zu bleiben, was Neuigkeiten angeht."
-
-
-translate deutsch ending_not_available_0b50ab45:
-
-
-    "Obwohl dieses Ende noch nicht vollständig implementiert ist, gibt es sechs andere Enden, die vollständig erkundet werden können."
-
 translate deutsch strings:
 
 
@@ -79,4 +43,28 @@ translate deutsch strings:
 
     old "Ending #18\nQuartet"
     new "Ende #18\nQuartett"
+
+
+translate deutsch ending_not_available_9dcfd841:
+
+
+    "Du hast das aktuelle Ende dieses Story-Pfads erreicht."
+
+
+translate deutsch ending_not_available_889ce1af:
+
+
+    "Dieses Ende ist als kostenloses DLC verfügbar."
+
+
+translate deutsch ending_not_available_8fd50248:
+
+
+    "Dieses Ende ist als kostenpflichtiges DLC verfügbar."
+
+
+translate deutsch ending_not_available_fd68c670:
+
+
+    "Dieses Ende ist auf unserem Patreon verfügbar."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -566,7 +566,7 @@ translate turkish e16s06_sex_87b7b753:
 translate turkish e16s06_sex_428f5973:
 
 
-    "O zaman üzülecek bir şey yok, [mcname]. Aslında, sevgili kovboy kızını görmek seni bu hale getirdiğine göre, bunu düzeltmek benim görevim."
+    kk "O zaman üzülecek bir şey yok, [mcname]. Aslında, sevgili kovboy kızını görmek seni bu hale getirdiğine göre, bunu düzeltmek benim görevim."
 
 
 translate turkish e16s06_sex_cfce055e:
@@ -890,7 +890,7 @@ translate turkish e16s06_sex_e8eb06f2:
 translate turkish e16s06_sex_4a5ac473:
 
 
-    kk "Hehe. Merhaba kedicik. mcname]'in kalın dölünün tadına bakmak ister misin?"
+    kk "Hehe. Merhaba kedicik. [mcname]'in kalın dölünün tadına bakmak ister misin?"
 
 
 translate turkish e16s06_sex_349aa8cd:

@@ -2,7 +2,7 @@
 translate french d15s01_6dca3502:
 
 
-    "voix féminine" "Réveillez-vous. Le petit déjeuner est presque prêt."
+    "voix féminine" "Réveille-toi. Le petit déjeuner est presque prêt."
 
 
 translate french d15s01_89d29ebf:
@@ -44,19 +44,19 @@ translate french d15s01_21c1e969:
 translate french d15s01_3c39de12:
 
 
-    arj "Lydia est en bas et prépare le petit-déjeuner, je descends aussi! sors ton cul du lit et rejoins-nous."
+    arj "Lydia est en bas et prépare le petit-déjeuner, je descends aussi. Sors tes fesses du lit et rejoins-nous."
 
 
 translate french d15s01_546d00c0:
 
 
-    mc "ok ok je descend."
+    mc "Ok ok je descend."
 
 
 translate french d15s01_dbd1a0f1:
 
 
-    mct "Était-elle nue? {w}Pourquoi était-elle nue?"
+    mct "Est-ce qu’elle était nue? {w}Pourquoi est-ce qu’elle était nue?"
 
 
 translate french d15s01_98c8094a:
@@ -68,7 +68,7 @@ translate french d15s01_98c8094a:
 translate french d15s01_76c15206:
 
 
-    arj "Vous les récupérerez après le petit-déjeuner."
+    arj "Tu les récupéreras après le petit-déjeuner."
 
 
 translate french d15s01_e3ab8b2c:
@@ -122,13 +122,13 @@ translate french d15s01_00a0358d:
 translate french d15s01_a77cb4fc:
 
 
-    arj "Nous avons pensé que cela vous rendrait plus à l'aise."
+    arj "Nous avons pensé que cela te rendrais plus à l'aise."
 
 
 translate french d15s01_d5c07c74:
 
 
-    lc "Je me suis opposé, mais AmRose a fini par me convaincre."
+    lc "Je m'y suis opposé, mais AmRose a fini par me convaincre."
 
 
 translate french d15s01_06a35ef6:
@@ -164,7 +164,7 @@ translate french d15s01_def0ad19:
 translate french d15s01_5edc49c6:
 
 
-    lc "Juste une boîte. Il a été livré ici ce matin. Adressé à vous."
+    lc "Juste une boîte. Elle a été livré ici ce matin. Elle t'est adressé."
 
 
 translate french d15s01_0a0d77b3:
@@ -332,7 +332,7 @@ translate french d15s01_thoughts_NTR_b8daeb45:
 translate french d15s01_thoughts_NTR_1ed699b0:
 
 
-    mct "Il y a un indice quelque part...{w} Il doit y en avoir. hmm..."
+    mct "Il y a un indice quelque part...{w} Il doit y en avoir un. hmm..."
 
 
 translate french d15s01_thoughts_NTR_66c12cfc:
@@ -368,7 +368,7 @@ translate french d15s01_cagedecision_96a1c094:
 translate french d15s01_cagedecision_a9be34fe:
 
 
-    arj "Décider lequel?"
+    arj "Décidé lequel?"
 
 
 translate french d15s01_cagedecision_ecc974f8:
@@ -380,7 +380,7 @@ translate french d15s01_cagedecision_ecc974f8:
 translate french d15s01_cagedecision_025138ba:
 
 
-    arj "Vous ne pouvez pas faire ça! Ce serait-"
+    arj "Tu ne peux pas faire ça! Ce serait-"
 
 
 translate french d15s01_cagedecision_dc4db0c7:
@@ -422,7 +422,7 @@ translate french d15s01_cagedecision_0dea2f11:
 translate french d15s01_cagedecision_4f1d505f:
 
 
-    arj "Si vous arrêtez de jouer, alors tout le monde {i}dans notre équipe{/i} perd."
+    arj "Si tu arrêtes de jouer, alors tout le monde {i}dans notre équipe{/i} perd."
 
 
 translate french d15s01_cagedecision_7e36f4f4:
@@ -434,7 +434,7 @@ translate french d15s01_cagedecision_7e36f4f4:
 translate french d15s01_cagedecision_ff627007:
 
 
-    mc "Et merde, je sais. Je ne veux pas faire de mal à toi ou à quelqu'un d'autre, mais-"
+    mc "Et merde, je sais. Je ne veux pas te faire de mal ou à quelqu'un d'autre, mais-"
 
 
 translate french d15s01_cagedecision_78ba19ce:
@@ -452,19 +452,19 @@ translate french d15s01_cagedecision_11455b53:
 translate french d15s01_cagedecision_a3c5d05f:
 
 
-    lc "Vous avez échoué une fois. Vous avez échoué à un défi. Et maintenant tu veux abandonner? Tu veux juste quitter le jeu?"
+    lc "Tu as échoué une fois. Tu as échoué à un défi. Et maintenant tu veux abandonner? Tu veux juste quitter le jeu?"
 
 
 translate french d15s01_cagedecision_3ab92e4b:
 
 
-    lc "Pensez au nombre de personnes qui sont venues vous chercher ces derniers jours. Pensez à eux."
+    lc "Penses au nombre de personnes qui sont venues te chercher ces derniers jours. Penses à eux."
 
 
 translate french d15s01_cagedecision_959126b6:
 
 
-    lc "Pensez-vous qu’ils voulaient que vous échouiez? Pensez-vous qu'ils veulent que vous abandonniez?"
+    lc "Penses-tu qu’ils voulaient que tu échoues? Penses-tu qu'ils veulent que tu abandonnes?"
 
 
 translate french d15s01_cagedecision_89673278:
@@ -482,19 +482,19 @@ translate french d15s01_cagedecision_dab0deea:
 translate french d15s01_cagedecision_5c07c7a4:
 
 
-    lc "Si vous allez perdre cette partie, ce ne sera pas parce que vous n'êtes pas prêt à relever le défi, ou parce que vous avez arrêtez et abandonnez.."
+    lc "Si tu vas perdre cette partie, ce ne sera pas parce que tu n'es pas prêt à relever le défi, ou parce que tu as arrêté et abandonné.."
 
 
 translate french d15s01_cagedecision_fd6fc90b:
 
 
-    lc "Vous avez perdu un défi. Bien sûr, vous vous sentez déprimé et déçu de vous-même."
+    lc "Tu as perdu un défi. Bien sûr, tu te sent déprimé et déçu de toi-même."
 
 
 translate french d15s01_cagedecision_019a10bc:
 
 
-    lc "Eh bien, tu sais quoi? Des merdes arrivent. Traitez-le; Homme debout; Soldat. Tu peux faire ça."
+    lc "Eh bien, tu sais quoi? Des merdes arrivent. Fait avec; Homme debout; Soldat. Tu peux faire ça."
 
 
 translate french d15s01_cagedecision_db581ccd:
@@ -566,7 +566,7 @@ translate french d15s01_cagedecision_bd88faff:
 translate french d15s01_cagedecision_046a3300:
 
 
-    lc "Choisissez-en un, giflez ce mauvais garçon."
+    lc "Choisis-en un, gifle ce mauvais garçon."
 
 
 translate french d15s01_cagedecision_bc8b2f36:
@@ -644,7 +644,7 @@ translate french d15s01_cagedecision_85e35563:
 translate french d15s01_cagedecision_0c399e49:
 
 
-    mct "Oh regarde, le fétiche du jour est l'éjaculation. {w}Annnd, mes points ont été nuls."
+    mct "Oh regarde, le fétiche du jour est l'éjaculation. {w}Eeet, mes points ont été remis a zéros."
 
 
 translate french d15s01_cagedecision_35bde775:
@@ -902,7 +902,7 @@ translate french d15s01_arj_bj_5cfbf454:
 translate french d15s01_arj_bj_48643e5c:
 
 
-    mct "Et je les aiment toutes les deux."
+    mct "Et je les aime toutes les deux."
 
 
 translate french d15s01_arj_bj_adb345ba:
@@ -1016,7 +1016,7 @@ translate french d15s01_arj_bj_7756f3f4:
 translate french d15s01_arj_bj_c1146012:
 
 
-    lc "Je ne suis pas encore tout à fait prêt pour ça... pour l'instant."
+    lc "Je ne suis pas encore tout à fait prête pour ça... pour l'instant."
 
 
 translate french d15s01_arj_bj_590a197c:
@@ -1046,7 +1046,7 @@ translate french d15s01_arj_bj_14e6427f:
 translate french d15s01_arj_bj_b04723f4:
 
 
-    mc "Baise-moi, AmRose. {w}Tu es si bon dans ce domaine que je pourrais venir par terre et m'en réjouir."
+    mc "Baise-moi, AmRose. {w}Tu es si bonne dans ce domaine que je pourrais venir par terre et m'en réjouir."
 
 
 translate french d15s01_arj_bj_cc652795:
@@ -1094,7 +1094,7 @@ translate french d15s01_arj_bj_2c73c6d8:
 translate french d15s01_arj_bj_82ceafd1:
 
 
-    arj "Voyez comment il est sur le point de jouir?"
+    arj "Tu vois comment il est sur le point de jouir?"
 
 
 translate french d15s01_arj_bj_7143665d:
@@ -1118,7 +1118,7 @@ translate french d15s01_arj_bj_f85dfd95:
 translate french d15s01_lc_bj_0f423e28:
 
 
-    arj "Il a encore un semi. Je suppose qu'une charge supplémentaire le fera."
+    arj "Il a encore une demi. Je suppose qu'une charge supplémentaire le fera."
 
 
 translate french d15s01_lc_bj_24af9c54:
@@ -1130,7 +1130,7 @@ translate french d15s01_lc_bj_24af9c54:
 translate french d15s01_lc_bj_86aa193f:
 
 
-    arj "Allez-y."
+    arj "Vas-y."
 
 
 translate french d15s01_lc_bj_4cb9b139:
@@ -1142,7 +1142,7 @@ translate french d15s01_lc_bj_4cb9b139:
 translate french d15s01_lc_bj_7e67fa7a:
 
 
-    arj "Il vous suffit donc de-"
+    arj "Il te suffit donc de-"
 
 
 translate french d15s01_lc_bj_a841da30:
@@ -1208,7 +1208,7 @@ translate french d15s01_lc_bj_dcceb6a7:
 translate french d15s01_lc_bj_422b15a4:
 
 
-    arj "Jusqu'où peux-tu enfoncer ce tuyau?"
+    arj "Jusqu'où peux-tu prendre ce tuyau?"
 
 
 translate french d15s01_lc_bj_d54ef43f:
@@ -1238,7 +1238,7 @@ translate french d15s01_lc_bj_232c3f6d:
 translate french d15s01_lc_bj_43223b79:
 
 
-    arj "Okay, on dirait qu'il est sur le point de le faire-"
+    arj "Okay, on dirait qu'il est sur le point de-"
 
 
 translate french d15s01_lc_bj_d0feca9c:
@@ -1262,7 +1262,7 @@ translate french d15s01_lc_bj_b782bbe5:
 translate french d15s01_lc_bj_7a6624df:
 
 
-    arj "C'est bon, c'est bon. {w}Vous n'êtes pas obligé d'avaler."
+    arj "C'est bon, c'est bon. {w}Tu n'es pas obligé d'avaler."
 
 
 translate french d15s01_lc_bj_ff70ab12:
@@ -1292,7 +1292,7 @@ translate french d15s01_lc_bj_7348b99e:
 translate french d15s01_face_fucking_fbc7815a:
 
 
-    arj "Voulez-vous-"
+    arj "Veux-tu-"
 
 
 translate french d15s01_face_fucking_0d9a7d89:
@@ -1358,19 +1358,19 @@ translate french d15s01_face_fucking_769474b6:
 translate french d15s01_face_fucking_4fc3f502:
 
 
-    mc "Nous ne sortons pas ensemble ou quoi que ce soit, si c'est ce que vous demandez. Tu es ma petite amie."
+    mc "Nous ne sortons pas ensemble ou quoi que ce soit, si c'est ce que tu demandes. Tu es ma petite amie."
 
 
 translate french d15s01_face_fucking_9d3775d3:
 
 
-    lc "Alors, c'est une copine de baise? Vous avez des relations sexuelles parfois, mais vous n'êtes pour la plupart que des amis?"
+    lc "Alors, c'est une copine de baise? Vous couchez parfois, mais la plupart du temps, vous êtes juste amis?"
 
 
 translate french d15s01_face_fucking_6f80d560:
 
 
-    arj "je suis à lui."
+    arj "Je suis à lui."
 
 
 translate french d15s01_face_fucking_3059131f:
@@ -1388,7 +1388,7 @@ translate french d15s01_face_fucking_3ea01a2c:
 translate french d15s01_face_fucking_9c372f6a:
 
 
-    lc "Expliquer."
+    lc "Explique."
 
 
 translate french d15s01_face_fucking_943ce31c:
@@ -1418,13 +1418,13 @@ translate french d15s01_face_fucking_05429983:
 translate french d15s01_face_fucking_2c433fb4:
 
 
-    lc "je le pensais autant."
+    lc "Je m'en doutais."
 
 
 translate french d15s01_face_fucking_0d68a069:
 
 
-    mc "tu savais?"
+    mc "Tu savais?"
 
 
 translate french d15s01_face_fucking_ebbc4375:
@@ -1436,7 +1436,7 @@ translate french d15s01_face_fucking_ebbc4375:
 translate french d15s01_face_fucking_c2e11d67:
 
 
-    lc "Sperme dans sa bouche."
+    lc "Jouis dans sa bouche."
 
 
 translate french d15s01_face_fucking_11455b53:
@@ -1460,13 +1460,13 @@ translate french d15s01_face_fucking_e89be398:
 translate french d15s01_face_fucking_05a0b37e:
 
 
-    lc "Tu aimes la façon dont ont se sent?"
+    lc "Tu aimes cette sensation?"
 
 
 translate french d15s01_face_fucking_1622c0cb:
 
 
-    lc "Vous le faites tous les deux. je peux dire."
+    lc "Vous l'aimez tous les deux. Je le vois bien."
 
 
 translate french d15s01_face_fucking_c743cd43:
@@ -1484,7 +1484,7 @@ translate french d15s01_face_fucking_a4966a3e:
 translate french d15s01_face_fucking_03820e94:
 
 
-    lc "Commencez comme ça. {w}Je veux que tu lui baises le visage."
+    lc "Commences comme ça. {w}Je veux que tu lui baises le visage."
 
 
 translate french d15s01_face_fucking_b0fa508f:
@@ -1514,7 +1514,7 @@ translate french d15s01_face_fucking_dd0dc79d:
 translate french d15s01_face_fucking_3d7180ba:
 
 
-    lc "Vous entendez ça?! Elle adore ça!"
+    lc "Tu entends ça?! Elle adore ça!"
 
 
 translate french d15s01_face_fucking_3df108b5:
@@ -1574,7 +1574,7 @@ translate french d15s01_face_fucking_08015ac2:
 translate french d15s01_face_fucking_a61ecfde:
 
 
-    lc "Vous avez choisi une petite esclave sexuelle impressionnante."
+    lc "Tu as choisi une petite esclave sexuelle impressionnante."
 
 
 translate french d15s01_face_fucking_96ef9b03:
@@ -1592,7 +1592,7 @@ translate french d15s01_face_fucking_7b96eaac:
 translate french d15s01_face_fucking_4a46eee1:
 
 
-    lc "Je parlais de toi. Apprenez la différence."
+    lc "Je parlais de toi. Apprends la différence."
 
 
 translate french d15s01_face_fucking_04a5ef59:
@@ -1616,7 +1616,7 @@ translate french d15s01_face_fucking_59f5b92b:
 translate french d15s01_face_fucking_0003c7cf:
 
 
-    lc "Oui, mais quand tu es seul. Des moments comme celui-ci. Quel est ton nom d'animal pour elle?"
+    lc "Oui, mais quand vous etes seuls. Des moments comme celui-ci. Quel est ton nom d'animal pour elle?"
 
 
 translate french d15s01_face_fucking_5912a854:
@@ -1646,7 +1646,7 @@ translate french d15s01_face_fucking_bbff5575:
 translate french d15s01_face_fucking_7c6a3550:
 
 
-    lc "Cela ne vous dérangerait pas de partager votre petit jouet avec moi, n'est-ce pas [mcname]?"
+    lc "Cela ne te dérangerais pas de partager ton petit jouet avec moi, n'est-ce pas [mcname]?"
 
 
 translate french d15s01_face_fucking_b7f7559b:
@@ -1664,7 +1664,7 @@ translate french d15s01_face_fucking_6795650f:
 translate french d15s01_face_fucking_2c4ca683:
 
 
-    lc "Est-ce ainsi? Eh bien, maintenant, demandons-lui. [mcname] est votre maître. Est-ce que ça fait de moi ta maîtresse?"
+    lc "Est-ce ainsi? Eh bien, maintenant, demandons-lui. [mcname] est ton maître. Est-ce que ça fait de moi ta maîtresse?"
 
 
 translate french d15s01_face_fucking_e18db772:
@@ -1742,7 +1742,7 @@ translate french d15s01_face_fucking_2aa37dcf:
 translate french d15s01_face_fucking_e14446bc:
 
 
-    lc "Sortez votre bite et jouissez à nouveau sur son visage!!"
+    lc "Sorts ta bite et jouis à nouveau sur son visage!!"
 
 
 translate french d15s01_face_fucking_822521bd:
@@ -1838,7 +1838,7 @@ translate french d15s01_end_cbcf6bb4:
 translate french d15s01_end_cfc6d65b:
 
 
-    mc "Eh bien, c'était amusant le temps que ça à durait."
+    mc "Eh bien, c'était amusant le temps que ça a duré."
 
 
 translate french d15s01_end_7ea95347:
@@ -1904,7 +1904,7 @@ translate french d15s01_end_2fde40af:
 translate french d15s01_end_c6f508a0:
 
 
-    arj "Vous sembliez plutôt perdu dans vos pensées. Tout ce dont tu veux parler?"
+    arj "Vous sembliez plutôt perdu dans vos pensées. Est-ce que tu veux parler de quelque chose?"
 
 
 translate french d15s01_end_5c755881:
@@ -1970,7 +1970,7 @@ translate french d15s01_end_ec323efe:
 translate french d15s01_end_7dad41db:
 
 
-    mc "Arrêtez, arrêtez. AmRose, j'ai compris."
+    mc "Arrêtes, arrêtes. AmRose, j'ai compris."
 
 
 translate french d15s01_end_5e7a4c3d:
@@ -2186,13 +2186,13 @@ translate french d15s01_end_9422d260:
 translate french d15s01_end_a0a3ad1b:
 
 
-    nk "Bien. J'attendrai. Entrez juste quand vous arrivez ici."
+    nk "Bien. J'attendrai. Entres juste quand tu arrivas ici."
 
 
 translate french d15s01_end_22e42064:
 
 
-    mc "Ça a l'air bien. je te verrai alors."
+    mc "Ça a l'air bien. Au revoir alors."
 
 translate french strings:
 

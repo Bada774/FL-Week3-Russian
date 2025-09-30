@@ -39,4 +39,20 @@ translate turkish strings:
 
     old "Get DLC-2 containing this ending"
     new "Bu sonu içeren DLC-2'yi indirin"
+
+
+    old "Download this ending from Steam"
+    new "Bu sonu Steam'den indir"
+
+
+    old "Get this ending from Steam"
+    new "Bu sonu Steam'den alın"
+
+
+    old "Get this ending from Patreon"
+    new "Bu sonu Patreon'umuzdan alın"
+
+
+    old "Get this ending from GOG"
+    new "Bu sonu GOG'dan alın"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

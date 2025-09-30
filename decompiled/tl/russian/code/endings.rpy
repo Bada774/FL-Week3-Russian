@@ -86,3 +86,29 @@ translate russian strings:
     old "Ending #18\nQuartet"
     new "Концовка #18\nКвартет"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-09-30 16:35
+
+# game/code/endings.rpy:231
+translate russian ending_not_available_9dcfd841:
+
+    # "You have reached the current end of this story path."
+    "Вы достигли доступного на данный момент конца пути."
+
+# game/code/endings.rpy:237
+translate russian ending_not_available_889ce1af:
+
+    # "This ending is available as a free DLC."
+    "Эта концовка доступна в бесплатном DLC."
+
+# game/code/endings.rpy:239
+translate russian ending_not_available_8fd50248:
+
+    # "This ending is available as a paid DLC."
+    "Эта концовка доступна в платном DLC."
+
+# game/code/endings.rpy:241
+translate russian ending_not_available_fd68c670:
+
+    # "This ending is available in our Patreon."
+    "Эта концовка доступна на нашем Patreon."
+

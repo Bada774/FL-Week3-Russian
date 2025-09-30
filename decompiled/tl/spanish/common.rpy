@@ -1211,4 +1211,18 @@ translate spanish strings:
 
     old "voice volume"
     new "voice volume"
+
+translate spanish strings:
+
+
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifier]"
+
+
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " translates [tl.filename]:[tl.linenumber]"
+
+
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copied to clipboard.{/color}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -356,7 +356,6 @@ label replay_e18s05:
 
             $ e18_mc_cocky_points = 0
 
-
 label e18s05_dressing_room:
 
     if _in_replay:

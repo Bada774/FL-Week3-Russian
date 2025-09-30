@@ -200,7 +200,7 @@ translate deutsch e12s06_6f1d6925:
 translate deutsch e12s06_8743f974:
 
 
-    "Announcer" "Und los geht's! Die Teilnehmer machen gute Zeiten, während sie sich auf ihre erste Markierung zubewegen."
+    "Ansager" "Und los geht's! Die Teilnehmer machen gute Zeiten, während sie sich auf ihre erste Markierung zubewegen."
 
 
 translate deutsch e12s06_2361913e:

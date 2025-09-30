@@ -169,7 +169,6 @@ label replay_d19s03:
 
 label d19s03_bj:
 
-
     $ Lovense.stop()
 
     play sound sfx_door_locked1

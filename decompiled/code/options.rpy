@@ -11,9 +11,7 @@
 
 
 
-
 define config.name = _("Fetish Locator Week 3")
-
 
 
 
@@ -22,8 +20,7 @@ define gui.show_name = True
 
 
 
-
-define config.version = "3.6.16"
+define config.version = "3.6.18"
 
 define config.check_conflicting_properties = True
 
@@ -68,8 +65,6 @@ define config.has_voice = True
 
 
 
-
-
 define config.fast_skipping = True
 define _preferences.show_empty_window = False
 
@@ -86,9 +81,7 @@ define config.exit_transition = dissolve
 
 
 
-
 define config.intra_transition = dissolve
-
 
 
 
@@ -96,9 +89,7 @@ define config.after_load_transition = None
 
 
 
-
 define config.end_game_transition = None
-
 
 
 
@@ -122,10 +113,8 @@ define config.window = "auto"
 
 
 
-
 define config.window_show_transition = Dissolve(.2)
 define config.window_hide_transition = Dissolve(.2)
-
 
 
 
@@ -137,9 +126,7 @@ default preferences.text_cps = 0
 
 
 
-
 default preferences.afm_time = 15
-
 
 
 
@@ -161,9 +148,7 @@ define config.save_directory = "FetishLocator-Week3"
 
 
 
-
 define config.window_icon = "gui/window_icon.png"
-
 
 
 

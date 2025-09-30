@@ -377,7 +377,6 @@ translate french d16s07_ext_1bedcab3:
     jf "Assures-toi de venir une fois que tu n'auras plus ce problème."
 
 
-
 translate french d16s07_ext_7b1f43ad:
 
 

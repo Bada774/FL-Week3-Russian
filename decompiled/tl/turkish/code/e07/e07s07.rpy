@@ -638,7 +638,7 @@ translate turkish e07s07_vasectomy_d8e208a3:
 translate turkish e07s07_vasectomy_6df92cf6:
 
 
-    lc "İşinin bittiğini düşünme. e07_mcname!t]'e {i}gerçek bir erkeğin{/i} neler yapabileceğini göstermek için birazdan tekrar sertleşmeni bekliyorum."
+    lc "İşinin bittiğini düşünme. [e07_mcname!t]'e {i}gerçek bir erkeğin{/i} neler yapabileceğini göstermek için birazdan tekrar sertleşmeni bekliyorum."
 
 
 translate turkish e07s07_vasectomy_9f696e41:

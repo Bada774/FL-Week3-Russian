@@ -355,4 +355,18 @@ translate chinese strings:
 
     old "CLOSE"
     new "关闭"
+
+translate chinese strings:
+
+
+    old "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}在GOG上获取 Taboo University Book 1{/u}"
+
+
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "在GOG上将 Fetish Locator: S&M Studio 加入愿望单"
+
+
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "在GOG上获取 Fetish Locator: S&M Studio"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

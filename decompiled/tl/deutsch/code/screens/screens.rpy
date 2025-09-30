@@ -356,5 +356,5 @@ translate deutsch strings:
 
 
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Dialogfeld Opazität"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

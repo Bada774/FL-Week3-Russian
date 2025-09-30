@@ -72,7 +72,9 @@ screen ending_start_screen(ending):
 
 screen ending_unavailable(ending):
 
-    add "images/ending-arts/ending_" + ending[-2:] + "_art.webp"
+    default ending_status = get_ending_status(ending)
+
+    add "images/ending-arts/ending_" + ending[-2:].lower() + "_art.webp"
 
     vbox:
         xalign 0.5
@@ -80,8 +82,27 @@ screen ending_unavailable(ending):
         spacing 50
 
         style_prefix "prologue_yta"
+        if is_steam_edition is True or is_gog_edition is True:
+            if ending_status == 2:
+                textbutton _("Download this ending from Steam"):
+                    action OpenURL("steam://openurl/https://store.steampowered.com/app/2755430/Fetish_Locator_Week_Three__Bonus_Endings_DLC_One/")
+                    xalign 0.5
+            elif ending_status == 3:
+                if is_steam_edition is True:
+                    textbutton _("Get this ending from Steam"):
+                        action OpenURL("steam://openurl/https://store.steampowered.com/app/3051920/Fetish_Locator_Week_Three__Bonus_Endings_DLC_Two/")
+                        xalign 0.5
+                elif is_gog_edition is True:
+                    textbutton _("Get this ending from GOG"):
+                        action OpenURL("https://www.gog.com/en/game/fetish_locator_week_three_bonus_endings_dlc")
+                        xalign 0.5
+        else:
+            textbutton _("Get this ending from Patreon"):
+                action OpenURL("https://www.patreon.com/fetishlocator")
+                xalign 0.5
+
         textbutton _("Return to the Main Story"):
-            action Jump("ending_" + ending[-2:] + "_return")
+            action Jump("ending_" + ending[-2:].lower() + "_return")
             xalign 0.5
 
         textbutton _("Exit to Mainmenu"):

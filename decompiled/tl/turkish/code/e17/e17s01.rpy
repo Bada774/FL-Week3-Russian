@@ -38,7 +38,7 @@ translate turkish e17s01_73261d57:
 translate turkish e17s01_7750024b:
 
 
-    "{i}Tatlıydı... tatlıydı.{w} Nefret ettim tabii ki. Çok banal. Çok sıradan. Çok normal.{/i}"
+    dw "{i}Tatlıydı... tatlıydı.{w} Nefret ettim tabii ki. Çok banal. Çok sıradan. Çok normal.{/i}"
 
 
 translate turkish replay_e17s01a_f7dc7003:
@@ -86,7 +86,7 @@ translate turkish replay_e17s01a_e8229f23:
 translate turkish replay_e17s01a_27c0bf1a:
 
 
-    "{i}Belki bir sporcu olsaydı. Belki kas üstüne kas olsaydı ve beni sikiyle ikiye bölebilseydi...{/i}"
+    dw "{i}Belki bir sporcu olsaydı. Belki kas üstüne kas olsaydı ve beni sikiyle ikiye bölebilseydi...{/i}"
 
 
 translate turkish replay_e17s01a_f4f95a39:

@@ -406,7 +406,6 @@ label d21s06:
         mc "Yeah."
         mc "We'll talk about it some other time. After the trial. I swear, Stacy."
 
-
         jump d21s06_no_fl
     else:
 

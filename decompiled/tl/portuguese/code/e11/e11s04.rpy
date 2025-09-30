@@ -770,7 +770,7 @@ translate portuguese e11s04_back_4541064d:
 translate portuguese e11s04_back_da66f515:
 
 
-    dd "Disse, [mcname]."
+    dd "Disse, [temp_mcname]."
 
 
 translate portuguese e11s04_back_970d6e74:

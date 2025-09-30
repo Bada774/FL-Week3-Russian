@@ -35,4 +35,20 @@ translate portuguese strings:
 
     old "Get DLC-2 containing this ending"
     new " Obter o DLC-2 que contém este final"
+
+
+    old "Download this ending from Steam"
+    new "Baixe este final na Steam"
+
+
+    old "Get this ending from Steam"
+    new "Obtenha este final na Steam"
+
+
+    old "Get this ending from Patreon"
+    new "Obtenha este final no Patreon"
+
+
+    old "Get this ending from GOG"
+    new "Obtenha este final no GOG"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

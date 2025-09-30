@@ -26,7 +26,7 @@ translate turkish e07s02_bda8a039:
 translate turkish e07s02_33c0f773:
 
 
-    "Bu çok kötü. Yanmış, yarı soğuk, bu-"
+    lc "Bu çok kötü. Yanmış, yarı soğuk, bu-"
 
 
 translate turkish e07s02_941cc3e0:

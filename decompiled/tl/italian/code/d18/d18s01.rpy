@@ -716,8 +716,7 @@ translate italian d18s01_shower_ntr_35ce70c6:
 translate italian d18s01_shower_ntr_70dd9322:
 
 
-    lc " Che cosa hai fatto?!{w} Praticamente sei il simbolo del sesso. Ti sei scopato un ragazzo o qualcosa del genere?"
-
+    lc "Che cosa hai fatto?!{w} Praticamente sei il simbolo del sesso. Ti sei scopato un ragazzo o qualcosa del genere?"
 
 
 translate italian d18s01_shower_ntr_8be2e01e:

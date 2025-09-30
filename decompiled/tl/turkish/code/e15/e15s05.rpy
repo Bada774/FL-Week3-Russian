@@ -458,7 +458,7 @@ translate turkish replay_e15s05_c87956e2:
 translate turkish replay_e15s05_4f8dfd69:
 
 
-    ga "Is... mcname] üzerime mi işiyor?"
+    ga "Is... [mcname] üzerime mi işiyor?"
 
 
 translate turkish replay_e15s05_574d8edb:

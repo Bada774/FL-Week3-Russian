@@ -776,7 +776,7 @@ translate turkish e07s06_sneak_attack_af8d4e50:
 translate turkish e07s06_sneak_attack_c45754e2:
 
 
-    "Ama... şimdi rahatlayabilirim. Pete'in bundan kurtulmasına imkan yok."
+    mct "Ama... şimdi rahatlayabilirim. Pete'in bundan kurtulmasına imkan yok."
 
 
 translate turkish e07s06_sneak_attack_0c054906:

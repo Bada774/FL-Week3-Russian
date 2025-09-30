@@ -8,7 +8,6 @@ screen lovense_connect():
 
     use game_menu(_("")):
 
-
         add "images/utility/lovense/lovense_bg.webp" xpos -20 ypos -100
 
         style_prefix "lovense"
@@ -85,7 +84,6 @@ screen lovense_sale_screen():
         textbutton _("{u}Connect your toy!{/u}") action ShowMenu("lovense_connect")
 
     imagebutton auto "images/utility/lovense/lovense_big_%s.webp" xpos 75 ypos 60 action OpenURL("https://www.lovense.com/a/Vinovella")
-
 
 screen lovense_input(what):
 

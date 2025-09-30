@@ -2,7 +2,7 @@
 translate turkish e15s01_32445995:
 
 
-    "Tamam, tüm randevuları ayarladım."
+    mct "Tamam, tüm randevuları ayarladım."
 
 
 translate turkish e15s01_37d7a224:
@@ -536,7 +536,7 @@ translate turkish e15s01_end_of_day_c92b31d4:
 translate turkish e15s01_end_of_day_bc183626:
 
 
-    mes "Burada mı?"
+    sy "Burada mı?"
 
 
 translate turkish e15s01_end_of_day_6bea8183:
@@ -710,7 +710,7 @@ translate turkish e15s01_end_of_day_67d78466:
 translate turkish e15s01_end_of_day_a7300fd0:
 
 
-    "Tedavi başlamadan önce vücudunuzun tamamen rahatladığından emin olmam gerekiyor."
+    mes "Tedavi başlamadan önce vücudunuzun tamamen rahatladığından emin olmam gerekiyor."
 
 
 translate turkish e15s01_end_of_day_6bab799b:

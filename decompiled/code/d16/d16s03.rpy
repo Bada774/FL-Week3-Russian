@@ -391,7 +391,6 @@ label d16s03:
         lc "I want you to fuck me so much right now."
         lc "I want to grab you by the cage and shove the whole damn thing inside me."
 
-
     lc "I'll go down on any woman you want if you just fuck me now."
     scene d16s03-00-a3 mc-lc-sex-anim-3-01_i with dissolve
     play voice2 mc_thinking_hmm1 noloop
@@ -606,7 +605,6 @@ label d16s03:
     play voice3 lydia_uhuh noloop
     lc "Nope. Leap of faith. You trust me by agreeing to it. I'll trust you by telling you what you agreed to."
     mct "Hmmm..."
-
 
     menu:
         "Agree to whatever it is"(hint="d16s03m03c01"):

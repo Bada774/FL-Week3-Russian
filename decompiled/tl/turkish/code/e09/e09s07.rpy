@@ -2672,7 +2672,7 @@ translate turkish e09s07_part_4_ea7dfe3c:
 translate turkish e09s07_part_4_bec5d7e5:
 
 
-    "Bak, burada Fetish Locator'ın itibarıyla her zaman savaşacaksın, değil mi? Ama yeni bir yer, yeni bir başlangıç - yaptığınız şey için mükemmel."
+    hr "Bak, burada Fetish Locator'ın itibarıyla her zaman savaşacaksın, değil mi? Ama yeni bir yer, yeni bir başlangıç - yaptığınız şey için mükemmel."
 
 
 translate turkish e09s07_part_4_ea7dfe3c_1:

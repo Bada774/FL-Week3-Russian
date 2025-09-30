@@ -916,11 +916,9 @@ init -501 screen prologue_girls_3(step):
                             action Function(prologue_set_girls, (step), i[0], i[5])
                         text i[4] style_prefix "name" xalign 0.5
 
-        vbox:
+        vbox at image_zoom(0.9):
             style_prefix "prologue_yta"
-            xalign 0.485
-
-            null height 30
+            xalign 0.5
             textbutton _("Select all"):
                 action (Function(prologue_set_all_girls, 2, True), Function(prologue_set_all_girls, 3, True))
                 selected prologue_check_girls()

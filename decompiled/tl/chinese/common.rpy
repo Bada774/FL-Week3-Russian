@@ -1375,4 +1375,18 @@ translate chinese strings:
 
     old "Retry"
     new "重试"
+
+translate chinese strings:
+
+
+    old "Translation identifier: [identifier]"
+    new "翻译标识符：[identifier]"
+
+
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " 翻译自 [tl.filename]:[tl.linenumber]"
+
+
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}已复制到剪贴板。{/color}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

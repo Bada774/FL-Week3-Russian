@@ -2,193 +2,193 @@
 translate deutsch e09s07_fffb9193:
 
 
-    lo "Our bids."
+    lo "Unsere Bezahlung."
 
 
 translate deutsch e09s07_266f2fa4:
 
 
-    sy "Thank you! He's all yours, ladies."
+    sy "Danke! Er gehört ganz euch, meine Damen."
 
 
 translate deutsch e09s07_fb8822c9:
 
 
-    lo "Mmmmm, good."
+    lo "Mmmmm, lecker."
 
 
 translate deutsch e09s07_8332adac:
 
 
-    lo "Mmmmmm, you look good and ready for us."
+    lo "Mmmmmm, du siehst gut aus und bist bereit für uns."
 
 
 translate deutsch e09s07_3cec4d9b:
 
 
-    mc "That I am."
+    mc "Das bin ich."
 
 
 translate deutsch e09s07_d7d90976:
 
 
-    lo "Well, let's give people a show then, shall we?"
+    lo "Na gut, dann lasst uns den Leuten eine Show bieten, oder?"
 
 
 translate deutsch e09s07_a63be6a1:
 
 
-    lo "Who should go first?"
+    lo "Wer soll zuerst?"
 
 
 translate deutsch e09s07_6b6a4821:
 
 
-    hr "You bid first, so why don't you start us off?"
+    hr "Du hast zuerst geboten, warum fängst du nicht an?"
 
 
 translate deutsch e09s07_ac56af14:
 
 
-    lo "So I guess I'll go first then. How do you want me, [mcname]?"
+    lo "Dann fange ich wohl mal an. Wie willst du mich, [mcname]?"
 
 
 translate deutsch e09s07_f94f18af:
 
 
-    mc "I recall that you really like getting your ass played with."
+    mc "Ich erinnere mich, dass du es wirklich magst, wenn man mit deinem Hintern spielt."
 
 
 translate deutsch e09s07_0fa424f6:
 
 
-    lo "Mmmhmmmm, I do."
+    lo "Mmmhmmmm, ja, das tue ich."
 
 
 translate deutsch e09s07_e737c461:
 
 
-    mc "And I didn't get a chance to fuck your ass."
+    mc "Und ich hatte keine Gelegenheit, dich in den Arsch zu ficken."
 
 
 translate deutsch e09s07_9abd27bd:
 
 
-    lo "Well that's something we can fix right now!"
+    lo "Das können wir sofort nachholen!"
 
 
 translate deutsch e09s07_3c12fcaa:
 
 
-    lo "Oh, this is going to be fantastic!"
+    lo "Oh, das wird fantastisch!"
 
 
 translate deutsch e09s07_6505eb59:
 
 
-    mc "Fuck, yes it is!"
+    mc "Verdammt, ja, das wird es!"
 
 
 translate deutsch e09s07_2fe47fcb:
 
 
-    lo "Oh my Goooooood, Hana!"
+    lo "Oh mein Gott, Hana!"
 
 
 translate deutsch e09s07_0ef77a4c:
 
 
-    lo "You fucking naughty, {i}naughty{/i} girl! Fuuuuuuuck!"
+    lo "Du verdammt ungezogenes, {i}ungezogenes{/i} Mädchen! Fuuuuuuuck!"
 
 
 translate deutsch e09s07_8cf81567:
 
 
-    mc "Shit, you're ass is tiiiiiight!"
+    mc "Scheiße, dein Arsch ist ja sooo eng!"
 
 
 translate deutsch e09s07_5181283c:
 
 
-    lo "Fuck my tight little asshole like the dirty slut I am, [mcname]!"
+    lo "Fick mein enges kleines Arschloch wie die versaute Schlampe, die ich bin, [mcname]!"
 
 
 translate deutsch e09s07_315f5a90:
 
 
-    mc "Oh, I fuuucking will!!!"
+    mc "Oh, das werde ich verdammt noch mal!!!"
 
 
 translate deutsch e09s07_5598784e:
 
 
-    lo "Oh, Haanaaaaa, fucking lick my dirty cunt! Yes, yes, yesssss!"
+    lo "Oh, Haanaaaaa, leck meine schmutzige Fotze! Ja, ja, jaaaa!"
 
 
 translate deutsch e09s07_4dae9623:
 
 
-    mc "Your ass is squeezing me so tight!"
+    mc "Dein Arsch drückt mich so fest!"
 
 
 translate deutsch e09s07_136aa3ac:
 
 
-    lo "It's because I'm a dirty little whooooore! Whoooo likes to get her ass fuuuuuucked!"
+    lo "Das liegt daran, dass ich eine dreckige kleine Hure bin! Die es liebt, in den Arsch gefickt zu werden!"
 
 
 translate deutsch e09s07_205746a1:
 
 
-    lo "I already feeeeel so clooooose!"
+    lo "Ich fühle mich schon sooooo nah!"
 
 
 translate deutsch e09s07_65f78f1d:
 
 
-    lo "Please, fuck me asssss harder! Make me cum from my ass, [mcname]!"
+    lo "Bitte fick mich härter in den Arsch! Bring mich dazu, aus meinem Arsch zu kommen, [mcname]!"
 
 
 translate deutsch e09s07_1de41fd7:
 
 
-    mc "Nggggggggh! Fuuuuuuck!"
+    mc "Nggggggggh! Verdammt!"
 
 
 translate deutsch e09s07_80bc0d24:
 
 
-    lo "Yes, just like that! Oh Gooooood!"
+    lo "Ja, genau so! Oh Gott!"
 
 
 translate deutsch e09s07_5f1342f2:
 
 
-    lo "H-Hana - don't stop, don't stoooooop!"
+    lo "H-Hana – nicht aufhören, nicht aufhören!"
 
 
 translate deutsch e09s07_a56af47c:
 
 
-    lo "Oh myyyyyy Goooooood, I'm going to-"
+    lo "Oh mein Gott, ich werde..."
 
 
 translate deutsch e09s07_b5ca6170:
 
 
-    mc "That's right, you dirty ass slut! Cum all over my cock!"
+    mc "Genau, du dreckige Schlampe! Spritz mir alles über meinen Schwanz!"
 
 
 translate deutsch e09s07_44ec097c:
 
 
-    lo "Ohfuckohfuckohfuck!!!"
+    lo "Oh verdammt, oh verdammt, oh verdammt!!!"
 
 
 translate deutsch e09s07_70d2c1e0:
 
 
-    lo "I'm cuuuuuuummmmiiiinnnnnggggg!!!"
+    lo "Ich kommeeeeeeeeeeeeeeeeeeee"
 
 
 translate deutsch e09s07_b761158b:
@@ -200,43 +200,43 @@ translate deutsch e09s07_b761158b:
 translate deutsch e09s07_ef7eb900:
 
 
-    lo "Oh Gooooood... that was... magnificent."
+    lo "Oh Gott... das war... großartig."
 
 
 translate deutsch e09s07_19cd6b63:
 
 
-    hr "Glad you enjoyed it. I hope you left some of that for me, [mcname]."
+    hr "Freut mich, dass es dir gefallen hat. Ich hoffe, du hast mir etwas noch übrig gelassen, [mcname]."
 
 
 translate deutsch e09s07_ad291b80:
 
 
-    mc "Oh, you know I did."
+    mc "Oh, das weißt du doch."
 
 
 translate deutsch e09s07_1dbff283:
 
 
-    hr "Then come down here and show me what you do to dirty little sluts."
+    hr "Dann komm hier runter und zeig mir, was du mit kleinen versauten Schlampen machst."
 
 
 translate deutsch e09s07_1337de6c:
 
 
-    mc "Oh, I don't think you're ready for that."
+    mc "Oh, ich glaube nicht, dass du dafür bereit bist."
 
 
 translate deutsch e09s07_738ff9ec:
 
 
-    hr "Those are some big words, [mcname]."
+    hr "Das sind große Worte, [mcname]."
 
 
 translate deutsch e09s07_4f7ea4bd:
 
 
-    lo "That's okay, I can give him a helping hand."
+    lo "Das ist in Ordnung, ich kann ihm helfen."
 
 
 translate deutsch e09s07_4ac567f3:
@@ -248,31 +248,31 @@ translate deutsch e09s07_4ac567f3:
 translate deutsch e09s07_93f76318:
 
 
-    lo "You helped me cum, I'm only returning the favor."
+    lo "Du hast mir geholfen, zum Orgasmus zu kommen, ich revanchiere mich nur."
 
 
 translate deutsch e09s07_aecbd9ba:
 
 
-    lo "I know what you like, you worthless piece of fuckable ass."
+    lo "Ich weiß, was du magst, du wertloses Stück fickbarer Arsch."
 
 
 translate deutsch e09s07_8372f82c:
 
 
-    lo "What are you waiting for, [mcname]? Fuck this little slut like the useless fleshlight she is."
+    lo "Worauf wartest du noch, [mcname]? Fick diese kleine Schlampe wie das nutzlose Fleshlight, das sie ist."
 
 
 translate deutsch e09s07_16e15fac:
 
 
-    mct "Man, these two are fucking freaky."
+    mct "Mann, die beiden sind echt total verrückt."
 
 
 translate deutsch e09s07_68754276:
 
 
-    hr "Yeeesssss, fuck me [mcname], fuck me as haaard as you can!"
+    hr "Ja, fick mich [mcname], fick mich so hart du kannst!"
 
 
 translate deutsch e09s07_a7761172:
@@ -284,163 +284,163 @@ translate deutsch e09s07_a7761172:
 translate deutsch e09s07_9161c00a:
 
 
-    hr "Yesss, come on - fuck my little slit with your big cock! Treat me like some whore off the street!!!"
+    hr "Ja, komm schon – fick meine kleine Spalte mit deinem großen Schwanz! Behandle mich wie eine Hure von der Straße!!!"
 
 
 translate deutsch e09s07_e1e8b2c8:
 
 
-    lo "You like being a little piece of fuck meat, don't you? You freaky little slut!"
+    lo "Du bist doch gerne ein kleines Fickstück, oder? Du kleine versaute Schlampe!"
 
 
 translate deutsch e09s07_b1178e67:
 
 
-    mc "Nph - nphh!! Yeah - you worthless gutter trash!"
+    mc "Nph - nphh!! Ja - du wertloser Abschaum!"
 
 
 translate deutsch e09s07_f44f18dd:
 
 
-    hr "Fuuuuccc... I can't... I..."
+    hr "Verdammt... Ich kann nicht... Ich..."
 
 
 translate deutsch e09s07_d709b038:
 
 
-    lo "Getting hard to breath, you useless slut? You think you deserve the air you're wasting?"
+    lo "Wird es dir schwer, zu atmen, du nutzlose Schlampe? Glaubst du, du verdienst die Luft, die du verschwendest?"
 
 
 translate deutsch e09s07_244f8141:
 
 
-    hr "N-nooo..."
+    hr "N-nein..."
 
 
 translate deutsch e09s07_1d2906d3:
 
 
-    lo "It's a good girl who knows her place."
+    lo "Sie ist ein braves Mädchen, das seinen Platz kennt."
 
 
 translate deutsch e09s07_d69018e3:
 
 
-    lo "You see that, [mcname]? She's a good little slut for your cock, aren't you, Hana?"
+    lo "Siehst du das, [mcname]? Sie ist eine brave kleine Schlampe für deinen Schwanz, nicht wahr, Hana?"
 
 
 translate deutsch e09s07_c87ae973:
 
 
-    hr "Y-yesss... I'm a good...{w} little...{w} {i}slut...{/i}"
+    hr "Ja... Ich bin eine gute...{w} kleine...{w} {i}Schlampe...{/i}"
 
 
 translate deutsch e09s07_0a4d3533:
 
 
-    mc "Oh fuck, oh fuuuuuck!"
+    mc "Oh Scheiße, oh Scheiße!"
 
 
 translate deutsch e09s07_b741f62b:
 
 
-    mct "I can't cum yet! There are so many more women to please! Shit!"
+    mct "Ich kann noch nicht kommen! Es gibt noch so viele Frauen, die ich befriedigen muss! Scheiße!"
 
 
 translate deutsch e09s07_73618a8e:
 
 
-    mct "Why are these two so fucking hot!?!"
+    mct "Warum sind die beiden so verdammt heiß?!?"
 
 
 translate deutsch e09s07_ebec6aa4:
 
 
-    lo "Look at her, [mcname], your own personal cock sleeve. A totally useless woman, whose only real purpose is to be your cum dumpster."
+    lo "Sieh sie dir an, [mcname], deine ganz persönliche Schwanzhülle. Eine völlig nutzlose Frau, deren einziger Zweck darin besteht, deine Sperma-Mülltonne zu sein."
 
 
 translate deutsch e09s07_80ae63f1:
 
 
-    hr "I'm... I'm..."
+    hr "Ich... Ich..."
 
 
 translate deutsch e09s07_1e6d58f0:
 
 
-    lo "You hear that? Your cock sleeve can talk! And I think she's going to cum."
+    lo "Hörst du das? Deine Penishülle kann sprechen! Und ich glaube, sie kommt gleich."
 
 
 translate deutsch e09s07_1290253a:
 
 
-    hr "Closssse... clooooose...!"
+    hr "Nah... ganz nah...!"
 
 
 translate deutsch e09s07_d7e13951:
 
 
-    lo "Is she allowed to orgasm, [mcname]? Can she cum all over your magnificent cock?"
+    lo "Darf sie zum Orgasmus kommen, [mcname]? Darf sie über deinen prächtigen Schwanz kommen?"
 
 
 translate deutsch e09s07_fd320a91:
 
 
-    mc "Fuuuh - yes! Yes, Hana - you can cum!"
+    mc "Puh – ja! Ja, Hana – du darfst kommen!"
 
 
 translate deutsch e09s07_586ccad4:
 
 
-    lo "You hear that? You can-"
+    lo "Hörst du das? Du kannst..."
 
 
 translate deutsch e09s07_87c24de5:
 
 
-    hr "SHHHHHhiiiiiitttt! I'm - cuh-cuh-cuuummmmiiiiinnnggg!"
+    hr "SHHHHHhiiiiiitttt! Ich komme – cuh-cuh-cuuummmmiiiiinnnggg!"
 
 
 translate deutsch e09s07_83e45ff4:
 
 
-    hr "OH SWEEEET GOOOOOD - FUUUUUUUCK!"
+    hr "OH MEIN GOTT – VERDAMMT NOCHMAL!"
 
 
 translate deutsch e09s07_3830d8aa:
 
 
-    hr "Oh... oh that was... that was good..."
+    hr "Oh... oh, das war... das war gut..."
 
 
 translate deutsch e09s07_7b92e17b:
 
 
-    lo "You looked like you really enjoyed that."
+    lo "Du sahst aus, als hätte es dir wirklich Spaß gemacht."
 
 
 translate deutsch e09s07_1ccd9614:
 
 
-    lo "And what about you, [mcname]? I see you didn't turn Hana into a cream puff."
+    lo "Und was ist mit dir, [mcname]? Ich sehe, du hast Hana nicht in einen Windbeutel verwandelt."
 
 
 translate deutsch e09s07_82199418:
 
 
-    mc "Oh, I had a ton of fun - and any other night she would be a twinkie. But, I have a few more people to see tonight."
+    mc "Oh, ich hatte jede Menge Spaß – und an jedem anderen Abend wäre sie ein Twinkie. Aber ich muss heute Abend noch ein paar Leute treffen."
 
 
 translate deutsch e09s07_a9f86527:
 
 
-    lo "Mmmm, I understand."
+    lo "Mmmm, Ich verstehe."
 
 
 translate deutsch e09s07_4cba3d27:
 
 
-    lo "We still need to have a chat, but we can do it a little later. After the festivities wrap up. I'm going to make sure Hana gets hydrated as well."
+    lo "Wir müssen noch reden, aber das können wir auch etwas später machen. Nach den Feierlichkeiten. Ich werde dafür sorgen, dass Hana auch genug zu trinken bekommt."
 
 
 translate deutsch e09s07_4bb7467a:
@@ -452,31 +452,31 @@ translate deutsch e09s07_4bb7467a:
 translate deutsch e09s07_b3e27bcb:
 
 
-    mc "That's probably a good idea."
+    mc "Das ist wahrscheinlich eine gute Idee."
 
 
 translate deutsch e09s07_0daa3178:
 
 
-    sy "Damn, that was quite the kick off to the event."
+    sy "Verdammt, das war ja mal ein toller Start für die Veranstaltung."
 
 
 translate deutsch e09s07_2e8e5829:
 
 
-    arj "I'd say... are you ready for the next person?"
+    arj "Ich würde sagen... bist du bereit für die nächste Person?"
 
 
 translate deutsch e09s07_1ac5b829:
 
 
-    sy "Potentially persons?"
+    sy "Möglicherweise Personen?"
 
 
 translate deutsch e09s07_80fc00b2:
 
 
-    mc "Uhm... sure. Bring 'em on."
+    mc "Ähm... klar. Nur zu."
 
 
 translate deutsch e09s07_53111809:
@@ -488,85 +488,85 @@ translate deutsch e09s07_53111809:
 translate deutsch e09s07_5347077f:
 
 
-    sy "Who's next!?!"
+    sy "Wer ist der Nächste?!"
 
 
 translate deutsch e09s07_sex_ah_cl_baa09268:
 
 
-    mc "Aaleyah. Cynthia. I didn't expect you two would bid on me."
+    mc "Aaleyah. Cynthia. Ich hätte nicht gedacht, dass ihr beide auf mich bieten würdet."
 
 
 translate deutsch e09s07_sex_ah_cl_057c32fd:
 
 
-    ah "Mmm. Well, let's just say I've gotten a taste for your cock, [mcname]."
+    ah "Mmm. Nun, sagen wir einfach, ich habe Geschmack an deinem Schwanz gefunden, [mcname]."
 
 
 translate deutsch e09s07_sex_ah_cl_0c6079e4:
 
 
-    ah "Being pounded by you and making Terrell watch was the highlight of my month."
+    ah "Von dir gefickt zu werden und Terrell dabei zusehen zu lassen, war das Highlight meines Monats."
 
 
 translate deutsch e09s07_sex_ah_cl_b7cb04d9:
 
 
-    cl "Oh my god. You're so depraved, Aaleyah."
+    cl "Oh mein Gott. Du bist so verdorben, Aaleyah."
 
 
 translate deutsch e09s07_sex_ah_cl_b968e065:
 
 
-    ah "Mmm. I blame Terrell, and that's why I'm willing to put down good money for another turn with [mcname]."
+    ah "Mmm. Ich gebe Terrell die Schuld, und deshalb bin ich bereit, gutes Geld für eine weitere Runde mit [mcname] hinzulegen."
 
 
 translate deutsch e09s07_sex_ah_cl_501ee3a2:
 
 
-    cl "I'm just here to support Fetish Locator."
+    cl "Ich bin nur hier, um Fetish Locator zu unterstützen."
 
 
 translate deutsch e09s07_sex_ah_cl_8566b7e2:
 
 
-    cl "It's the perfect tool for excersizing those... pesky inner demons."
+    cl "Es ist das perfekte Werkzeug, um diese lästigen inneren Dämonen zu bekämpfen."
 
 
 translate deutsch e09s07_sex_ah_cl_7305dfba:
 
 
-    cl "Plus, I wanted to feel my husband enjoying my pussy again."
+    cl "Außerdem wollte ich spüren, wie mein Mann wieder meine Muschi genießt."
 
 
 translate deutsch e09s07_sex_ah_cl_28c009ca:
 
 
-    mct "Hah. I almost forgot about our roleplay."
+    mct "Ha. Ich hätte fast unser Rollenspiel vergessen."
 
 
 translate deutsch e09s07_sex_ah_cl_a74a6bf0:
 
 
-    mct "Guess I left an impression."
+    mct "Ich glaube, ich habe Eindruck hinterlassen."
 
 
 translate deutsch e09s07_sex_ah_cl_e247c7c1:
 
 
-    mc "Of course. Allow me to plow your heavenly fields, my wife."
+    mc "Natürlich. Erlaube mir, deine himmlischen Felder zu pflügen, meine Frau."
 
 
 translate deutsch e09s07_sex_ah_cl_5b930da0:
 
 
-    mct "Mmm. Who should I pick first?"
+    mct "Mmm. Wen soll ich zuerst auswählen?"
 
 
 translate deutsch e09s07_sex_ah_cl_57c9d674:
 
 
-    mc "Aaleyah, you're up first."
+    mc "Aaleyah, du bist als Erste dran."
 
 
 translate deutsch e09s07_sex_ah_cl_9b3baeba:
@@ -578,49 +578,49 @@ translate deutsch e09s07_sex_ah_cl_9b3baeba:
 translate deutsch e09s07_sex_ah_cl_0b09830f:
 
 
-    mct "Annoying Cynthia will just make her more fun to fuck later."
+    mct "Cynthia zu ärgern macht es später nur noch lustiger, sie zu ficken."
 
 
 translate deutsch e09s07_sex_ah_cl_bbc9faad:
 
 
-    mc "How do you want it, Aaleyah?"
+    mc "Wie möchtest du es, Aaleyah?"
 
 
 translate deutsch e09s07_sex_ah_cl_bce8f745:
 
 
-    ah "You know exactly how I like it."
+    ah "Du weißt genau, wie ich es mag."
 
 
 translate deutsch e09s07_sex_ah_cl_222dc96e:
 
 
-    ah "Master."
+    ah "Meister."
 
 
 translate deutsch e09s07_sex_ah_cl_a6745f2d:
 
 
-    ah "Umm... just treat me like your sex slave tonight. If that's okay with you."
+    ah "Ähm... behandle mich heute Abend einfach wie deine Sexsklavin. Wenn das für dich in Ordnung ist."
 
 
 translate deutsch e09s07_sex_ah_cl_1bf60051:
 
 
-    mc "Of course."
+    mc "Natürlich"
 
 
 translate deutsch e09s07_sex_ah_cl_2534d30a:
 
 
-    ah "Mmm. That's perfect. Use me, Master. Use my hole for your pleasure."
+    ah "Mmm. Das ist perfekt. Benutze mich, Meister. Benutze mein Loch zu deinem Vergnügen."
 
 
 translate deutsch e09s07_sex_ah_cl_02ee619e:
 
 
-    ah "Oh my god!"
+    ah "Oh mein Gott!"
 
 
 translate deutsch e09s07_sex_ah_cl_2f0b1d96:
@@ -632,25 +632,25 @@ translate deutsch e09s07_sex_ah_cl_2f0b1d96:
 translate deutsch e09s07_sex_ah_cl_f8fdebac:
 
 
-    ah "Please don't mind me, Cynthia. I need... support while Master stabs my naughty, dripping slit."
+    ah "Bitte mach dir keine Gedanken um mich, Cynthia. Ich brauche... Unterstützung, während der Meister meine ungezogene, tropfende Spalte durchbohrt."
 
 
 translate deutsch e09s07_sex_ah_cl_f5a38ea3:
 
 
-    cl "This wasn't the plan."
+    cl "Das war nicht der Plan."
 
 
 translate deutsch e09s07_sex_ah_cl_0cd0eb27:
 
 
-    cl "We pooled our money together so I could have some fun with him."
+    cl "Wir haben unser Geld zusammengelegt, damit ich etwas Spaß mit ihm haben konnte."
 
 
 translate deutsch e09s07_sex_ah_cl_601ceceb:
 
 
-    ah "Mmmm. Then you shouldn't have let him pick."
+    ah "Mmmm. Dann hättest du ihn nicht wählen lassen sollen."
 
 
 translate deutsch e09s07_sex_ah_cl_c1d7847c:
@@ -662,43 +662,43 @@ translate deutsch e09s07_sex_ah_cl_c1d7847c:
 translate deutsch e09s07_sex_ah_cl_1013a4f3:
 
 
-    ah "Don't be mad, Cynthia. Your face doesn't look pretty when you frown."
+    ah "Sei nicht böse, Cynthia. Dein Gesicht sieht nicht schön aus, wenn du die Stirn runzelst."
 
 
 translate deutsch e09s07_sex_ah_cl_a2c470a4:
 
 
-    cl "Now you're just being a bitch. A slutty bitch."
+    cl "Jetzt bist du einfach nur eine Schlampe. Eine nuttige Schlampe."
 
 
 translate deutsch e09s07_sex_ah_cl_bd262bde:
 
 
-    ah "*moaning* Hahah. I know what I am. And I know what you are."
+    ah "*Stöhnen* Hahah. Ich weiß, was ich bin. Und ich weiß, was du bist."
 
 
 translate deutsch e09s07_sex_ah_cl_29145b92:
 
 
-    ah "Oh fuck. That's so good, Master."
+    ah "Oh verdammt. Das ist so gut, Meister."
 
 
 translate deutsch e09s07_sex_ah_cl_c343636a:
 
 
-    ah "Master, I've been naughty, I haven't been honest with you."
+    ah "Meister, ich war unartig, ich war nicht ehrlich zu Ihnen."
 
 
 translate deutsch e09s07_sex_ah_cl_8d56d45e:
 
 
-    mc "Heh. Oh. Do you have something to share, Aaleyah?"
+    mc "Heh. Oh. Hast du etwas zu erzählen, Aaleyah?"
 
 
 translate deutsch e09s07_sex_ah_cl_b13836b6:
 
 
-    ah "*panting* Yes."
+    ah "*keuchend* Ja."
 
 
 translate deutsch e09s07_sex_ah_cl_d6c2fabf:
@@ -710,109 +710,109 @@ translate deutsch e09s07_sex_ah_cl_d6c2fabf:
 translate deutsch e09s07_sex_ah_cl_5c0249eb:
 
 
-    ah "Cynthia has been excited to have you fuck her since she got the invite."
+    ah "Cynthia freut sich schon seit sie die Einladung erhalten hat darauf, dass du sie fickst."
 
 
 translate deutsch e09s07_sex_ah_cl_c66cd36d:
 
 
-    ah "She was estatic. Cynthia said she didn't believe she'd be invited because of how mean she's been to you."
+    ah "Sie war außer sich vor Freude. Cynthia sagte, sie hätte nicht geglaubt, dass sie eingeladen werden würde, weil sie so gemein zu dir gewesen ist."
 
 
 translate deutsch e09s07_sex_ah_cl_e57ab8cf:
 
 
-    cl "Shut up Aaleyah."
+    cl "Halt die Klappe, Aaleyah."
 
 
 translate deutsch e09s07_sex_ah_cl_84debb69:
 
 
-    mc "Is that true, Cynthia? Are you just as horny as Aaleyah is?"
+    mc "Ist das wahr, Cynthia? Bist du genauso geil wie Aaleyah?"
 
 
 translate deutsch e09s07_sex_ah_cl_a265eabe:
 
 
-    cl "No."
+    cl "Nein."
 
 
 translate deutsch e09s07_sex_ah_cl_cd1f72f8:
 
 
-    ah "Oouhaah... Ahuaah... she's lying, Master. She wants you to dominate her."
+    ah "Oouhaah... Ahuaah... Sie lügt, Meister. Sie will, dass Sie sie dominieren."
 
 
 translate deutsch e09s07_sex_ah_cl_d1aa8607:
 
 
-    ah "She can't wait to feel what I'm feelling. Ouhaah."
+    ah "Sie kann es kaum erwarten, zu spüren, was ich fühle. Ouhaah."
 
 
 translate deutsch e09s07_sex_ah_cl_6cd51f8e:
 
 
-    ah "Masteruaaah!"
+    ah "Meisteruaaah!"
 
 
 translate deutsch e09s07_sex_ah_cl_b726cd2d:
 
 
-    ah "Ahuaaah. Please Master. Cum inside of me... give me that thick, load."
+    ah "Ahuaaah. Bitte, Meister. Komm in mir... gib mir diese dicke Ladung."
 
 
 translate deutsch e09s07_sex_ah_cl_ae3d6ec0:
 
 
-    mc "Are you ready, my pet?"
+    mc "Bist du bereit, mein Liebling?"
 
 
 translate deutsch e09s07_sex_ah_cl_dbd51352:
 
 
-    cl "I... I don't know."
+    cl "Ich... Ich weiß es nicht."
 
 
 translate deutsch e09s07_sex_ah_cl_b7ffeb86:
 
 
-    mc "Come here. I know exactly what you need."
+    mc "Komm her. Ich weiß genau, was du brauchst."
 
 
 translate deutsch e09s07_sex_ah_cl_843076e8:
 
 
-    cl "What did you get me into?"
+    cl "Was hast du mir da eingebrockt?"
 
 
 translate deutsch e09s07_sex_ah_cl_a4f8ad51:
 
 
-    ah "Only what you crave. Admit it Cynthia. No matter how many retreats you go to..."
+    ah "Nur das, wonach du dich sehnst. Gib es zu, Cynthia. Egal, wie viele Retreats du besuchst..."
 
 
 translate deutsch e09s07_sex_ah_cl_76814fae:
 
 
-    ah "You can't escape your needs..."
+    ah "Du kannst deinen Bedürfnissen nicht entkommen..."
 
 
 translate deutsch e09s07_sex_ah_cl_3c8e0f53:
 
 
-    cl "You're... you're right."
+    cl "Du hast... du hast recht."
 
 
 translate deutsch e09s07_sex_ah_cl_05f106f4:
 
 
-    cl "Aaleyah... can I?"
+    cl "Aaleyah... darf ich?"
 
 
 translate deutsch e09s07_sex_ah_cl_8ce8da4d:
 
 
-    ah "Yes. Kiss me while Master gives you what you crave."
+    ah "Ja. Küss mich, während der Meister dir gibt, wonach du dich sehnst."
 
 
 translate deutsch e09s07_sex_ah_cl_7f6e98f4:
@@ -824,91 +824,91 @@ translate deutsch e09s07_sex_ah_cl_7f6e98f4:
 translate deutsch e09s07_sex_ah_cl_c895cc33:
 
 
-    cl "Mmmuaaah. Oh my god, [mcname]. Did your cock get bigger?"
+    cl "Mmmuaaah. Oh mein Gott, [mcname]. Ist dein Schwanz größer geworden?"
 
 
 translate deutsch e09s07_sex_ah_cl_357fa74e:
 
 
-    ah "Cynthia, remember who you're talking to."
+    ah "Cynthia, denk daran, mit wem du sprichst."
 
 
 translate deutsch e09s07_sex_ah_cl_0116fa1c:
 
 
-    cl "Right... Master... do you like my pussy?"
+    cl "Ja... Meister... gefällt dir meine Muschi?"
 
 
 translate deutsch e09s07_sex_ah_cl_cbd0604b:
 
 
-    mc "You're a lot wetter than before."
+    mc "Du bist viel nasser als zuvor."
 
 
 translate deutsch e09s07_sex_ah_cl_5d65f574:
 
 
-    mc "Did my slave get horny watching me play with Aaleyah."
+    mc "Ist mein Sklave geil geworden, als er mir dabei zugesehen hat, wie ich mit Aaleyah gespielt habe?"
 
 
 translate deutsch e09s07_sex_ah_cl_a04ba632:
 
 
-    cl "Yes. Now please... please do the same to me that you did to her!"
+    cl "Ja. Jetzt bitte... bitte mach mit mir dasselbe, was du mit ihr gemacht hast!"
 
 
 translate deutsch e09s07_sex_ah_cl_d669acb2:
 
 
-    mc "It's perfect, Cythnia. You're so wet and tight, and you keep pulling me in."
+    mc "Es ist perfekt, Cythnia. Du bist so feucht und eng, und du ziehst mich immer weiter in dich hinein."
 
 
 translate deutsch e09s07_sex_ah_cl_5ad46677:
 
 
-    ah "Cynthia, you look so beautiful getting fucked."
+    ah "Cynthia, du siehst so schön aus, wenn du gefickt wirst."
 
 
 translate deutsch e09s07_sex_ah_cl_00446572:
 
 
-    ah "This is what you were meant for. What we're both {i}meant{/i} for."
+    ah "Das ist es, wozu du bestimmt bist. Wozu wir beide {i}bestimmt{/i} sind.."
 
 
 translate deutsch e09s07_sex_ah_cl_7229f3ec:
 
 
-    cl "Yes... Fuck-aahaah... Master... Master... I'm getting close!"
+    cl "Ja... Fuck-aahaah... Meister... Meister... Ich komme gleich!"
 
 
 translate deutsch e09s07_sex_ah_cl_b771ebe4:
 
 
-    mc "Then you better beg for me to keep going."
+    mc "Dann solltest du mich besser anflehen, weiterzumachen."
 
 
 translate deutsch e09s07_sex_ah_cl_3bd927c0:
 
 
-    mc "I haven't forgotten your earlier faults, Cynthia."
+    mc "Ich habe deine früheren Fehler nicht vergessen, Cynthia."
 
 
 translate deutsch e09s07_sex_ah_cl_e2a231d5:
 
 
-    cl "Yes Master. I'm so sorry. Whatever I did... that was the old me."
+    cl "Ja, Meister. Es tut mir so leid. Was auch immer ich getan habe... das war mein altes Ich."
 
 
 translate deutsch e09s07_sex_ah_cl_ebf97acb:
 
 
-    cl "Now, I'll do whatever you {i}want{/i}."
+    cl "Jetzt werde ich alles tun, was du {i}willst{/i}."
 
 
 translate deutsch e09s07_sex_ah_cl_51de4c73:
 
 
-    cl "*panting* Just please don't stop fucking me!"
+    cl "*keuchend* Bitte hör nicht auf, mich zu ficken!"
 
 
 translate deutsch e09s07_sex_ah_cl_a1cd2761:
@@ -920,7 +920,7 @@ translate deutsch e09s07_sex_ah_cl_a1cd2761:
 translate deutsch e09s07_sex_ah_cl_3d8d67af:
 
 
-    cl "*surprised moaning*"
+    cl "*überraschtes Stöhnen*"
 
 
 translate deutsch e09s07_sex_ah_cl_5fe8c48a:
@@ -932,679 +932,679 @@ translate deutsch e09s07_sex_ah_cl_5fe8c48a:
 translate deutsch e09s07_sex_ah_cl_29465c1e:
 
 
-    ah "I've never kissed a girl while she came."
+    ah "Ich habe noch nie ein Mädchen geküsst, während sie zum Höhepunkt kam."
 
 
 translate deutsch e09s07_sex_ah_cl_531f9957:
 
 
-    cl "Mmm... we'll have to try that again sometime."
+    cl "Mmm... das müssen wir irgendwann mal wieder probieren."
 
 
 translate deutsch e09s07_sex_ah_cl_30156b30:
 
 
-    ah "Thank you so much, [mcname]. That felt great."
+    ah "Vielen Dank, [mcname]. Das hat sich toll angefühlt."
 
 
 translate deutsch e09s07_sex_ah_cl_255277dd:
 
 
-    cl "I know you're going to be busy soon, but don't forget to look me up later."
+    cl "Ich weiß, dass du bald viel zu tun haben wirst, aber vergiss nicht, mich später zu besuchen."
 
 
 translate deutsch e09s07_sex_ah_cl_86f5d900:
 
 
-    cl "Master..."
+    cl "Meister..."
 
 
 translate deutsch e09s07_sex_ah_cl_335117bf:
 
 
-    mc "Haha. We'll see."
+    mc "Haha. Wir werden sehen."
 
 
 translate deutsch e09s07_sex_aw_jdg_973b29c4:
 
 
-    arj "Wow, I have to say thank you! Your contribution means a lot to us."
+    arj "Wow, ich muss mich wirklich bedanken! Ihr Beitrag bedeutet uns sehr viel."
 
 
 translate deutsch e09s07_sex_aw_jdg_ceb938ad:
 
 
-    jdg "Well I'm just happy to see Fetish Locator in better hands."
+    jdg "Nun, ich bin einfach froh, dass Fetish Locator in besseren Händen ist."
 
 
 translate deutsch e09s07_sex_aw_jdg_79b6ffab:
 
 
-    jdg "But, if you don't mind..."
+    jdg "Aber wenn es Ihnen nichts ausmacht..."
 
 
 translate deutsch e09s07_sex_aw_jdg_64a6e5ee:
 
 
-    arj "Of course! Please, enjoy your time with [mcname]!"
+    arj "Natürlich! Viel Spaß mit [mcname]!"
 
 
 translate deutsch e09s07_sex_aw_jdg_55b5769f:
 
 
-    jdg "Oh, {i}I will.{/i}"
+    jdg "Oh, {i}das werde ich.{/i}"
 
 
 translate deutsch e09s07_sex_aw_jdg_4a6fac66:
 
 
-    jdg "Mmmm... does this mean I finally get a turn with the hot, young stranger?"
+    jdg "Mmmm... heißt das, dass ich endlich an der Reihe bin mit dem heißen, jungen Fremden?"
 
 
 translate deutsch e09s07_sex_aw_jdg_7c3eb453:
 
 
-    mc "Judge-"
+    mc "Richterin-"
 
 
 translate deutsch e09s07_sex_aw_jdg_98d9b4a2:
 
 
-    jdg "Mmmmm... but I don't think just you is enough. I think if we can't do our {i}usual{/i} fun, I'm going to need a little {i}extra.{/i}"
+    jdg "Mmmmm... aber ich glaube, du allein reichst nicht aus. Ich denke, wenn wir nicht unseren {i}üblichen{/i} Spaß haben können, brauche ich ein bisschen {i}mehr.{/i}"
 
 
 translate deutsch e09s07_sex_aw_jdg_6b2e55df:
 
 
-    mc "Oh, well..."
+    mc "Na ja..."
 
 
 translate deutsch e09s07_sex_aw_jdg_d9a20a9f:
 
 
-    mc "All right, all right. Yeah, I can-"
+    mc "In Ordnung, in Ordnung. Ja, ich kann..."
 
 
 translate deutsch e09s07_sex_aw_jdg_11d63d62:
 
 
-    jdg "Oh, don't worry, I found someone already."
+    jdg "Oh, keine Sorge, ich habe schon jemanden gefunden."
 
 
 translate deutsch e09s07_sex_aw_jdg_24d5c6ad:
 
 
-    mc "I... I don't know."
+    mc "Ich... Ich weiß es nicht."
 
 
 translate deutsch e09s07_sex_aw_jdg_ffd8ddb2:
 
 
-    jdg "Come on, it'll be fuuuuuuun."
+    jdg "Komm schon, das wird spaßig!"
 
 
 translate deutsch e09s07_sex_aw_jdg_71124d94:
 
 
-    mc "I just... not tonight."
+    mc "Ich... nicht heute Abend."
 
 
 translate deutsch e09s07_sex_aw_jdg_fb192aed:
 
 
-    jdg "Shame. Well, at the very least I can have some fun watching."
+    jdg "Schade. Na ja, zumindest kann ich mich beim Zuschauen amüsieren."
 
 
 translate deutsch e09s07_sex_jdg_sex_373705dc:
 
 
-    jdg "I have a thing for redheads."
+    jdg "Ich habe eine Schwäche für Rothaarige."
 
 
 translate deutsch e09s07_sex_jdg_sex_0dab8d2b:
 
 
-    mc "Don't we all?"
+    mc "Ist das nicht bei uns allen so?"
 
 
 translate deutsch e09s07_sex_jdg_sex_3dba3788:
 
 
-    aw "You two ready for me?"
+    aw "Seid ihr beide bereit für mich?"
 
 
 translate deutsch e09s07_sex_jdg_sex_299d06ca:
 
 
-    mc "It appears so."
+    mc "Es scheint so zu sein."
 
 
 translate deutsch e09s07_sex_jdg_sex_3ae3f640:
 
 
-    jdg "I've waited long enough. Get over here, and {i}ravage me.{/i}"
+    jdg "Ich habe lange genug gewartet. Komm her und {i}nimm mich hart.{/i}"
 
 
 translate deutsch e09s07_sex_jdg_sex_f340500f:
 
 
-    aw "I need to grab some lube-"
+    aw "Ich muss mir etwas Gleitmittel besorgen."
 
 
 translate deutsch e09s07_sex_jdg_sex_55008519:
 
 
-    jdg "No, you do not. Just spit and fuck me. {i}Now.{/i}"
+    jdg "Nein, das musst du nicht. Spuck mich einfach an und fick mich. {i}Jetzt.{/i}"
 
 
 translate deutsch e09s07_sex_jdg_sex_fb26efab:
 
 
-    mc "It's best to just do as she says..."
+    mc "Am besten tust du einfach, was sie sagt..."
 
 
 translate deutsch e09s07_sex_jdg_sex_a178df96:
 
 
-    aw "I'm noticing that."
+    aw "Das fällt mir auf."
 
 
 translate deutsch e09s07_sex_jdg_sex_ef62eace:
 
 
-    mc "{size=*0.6}Also, the Judge is into... some rougher stuff. So, be warned that it might get a little intense.{/size}"
+    mc "{size=*0.6}Außerdem steht die Richterin auf... etwas härtere Sachen. Sei also gewarnt, dass es etwas intensiv werden könnte.{/size}"
 
 
 translate deutsch e09s07_sex_jdg_sex_859b0663:
 
 
-    aw "Cool, thanks for the heads up."
+    aw "Cool, danke für den Hinweis."
 
 
 translate deutsch e09s07_sex_jdg_sex_3c8714dc:
 
 
-    mc "Oh, sounds like you like it rough."
+    mc "Oh, das klingt, als würdest du es gerne hart mögen."
 
 
 translate deutsch e09s07_sex_jdg_sex_712323a6:
 
 
-    jdg "Oh, you have {i}no idea.{/i}"
+    jdg "Oh, du hast {i}keine Ahnung.{/i}"
 
 
 translate deutsch e09s07_sex_jdg_sex_eb9aee2e:
 
 
-    mc "Well, uhm, happy to oblige."
+    mc "Nun, ähm, gerne doch."
 
 
 translate deutsch e09s07_sex_jdg_sex_3f6dc521:
 
 
-    jdg "My safeword is pineapple, and I want you to get as rough as you can with me."
+    jdg "Mein Safeword ist „Ananas“, und ich möchte, dass du so hart wie möglich mit mir umgehst."
 
 
 translate deutsch e09s07_sex_jdg_sex_a3cc01b5:
 
 
-    mc "I don't know about that..."
+    mc "Ich weiß nicht so recht..."
 
 
 translate deutsch e09s07_sex_jdg_sex_4cb77f8c:
 
 
-    jdg "Was I not your biggest donor?"
+    jdg "War ich nicht der größte Spender?"
 
 
 translate deutsch e09s07_sex_jdg_sex_ff0c6c78:
 
 
-    mct "She's got a point there..."
+    mct "Da hat sie recht..."
 
 
 translate deutsch e09s07_sex_jdg_sex_c42c7b82:
 
 
-    jdg "This is less fun if you don't take charge."
+    jdg "Das macht weniger Spaß, wenn man nicht die Verantwortung übernimmt."
 
 
 translate deutsch e09s07_sex_jdg_sex_215f85c7:
 
 
-    mc "Is this more your speed?"
+    mc "Ist das eher dein Tempo?"
 
 
 translate deutsch e09s07_sex_jdg_sex_1b31a03a:
 
 
-    jdg "Y-yes!"
+    jdg "Ja!"
 
 
 translate deutsch e09s07_sex_jdg_sex_19c2af19:
 
 
-    mc "Then be a good girl, and spit on my dick. Get it ready for me to fuck you."
+    mc "Dann sei ein braves Mädchen und spuck auf meinen Schwanz. Mach ihn bereit, damit ich dich ficken kann."
 
 
 translate deutsch e09s07_sex_jdg_sex_d38abf4a:
 
 
-    mc "Now, how about you spit on on Allison's strap on, hmmmm?"
+    mc "Wie wäre es, wenn du jetzt auf Allisons Strap-On spuckst, hmmmm?"
 
 
 translate deutsch e09s07_sex_jdg_sex_aa770754:
 
 
-    jdg "Y-yes, sir!"
+    jdg "Ja, Sir!"
 
 
 translate deutsch e09s07_sex_jdg_sex_83e2d3cf:
 
 
-    jdg "Are you happy now?"
+    jdg "Bist du jetzt glücklich?"
 
 
 translate deutsch e09s07_sex_jdg_sex_c269a004:
 
 
-    mc "Not quite."
+    mc "Nicht ganz."
 
 
 translate deutsch e09s07_sex_jdg_sex_f575aa8b:
 
 
-    jdg "Oh fucking shit!"
+    jdg "Oh verdammte Scheiße!"
 
 
 translate deutsch e09s07_sex_jdg_sex_3387bc17:
 
 
-    mc "Now, I'm a little happier."
+    mc "Jetzt bin ich ein bisschen glücklicher."
 
 
 translate deutsch e09s07_sex_jdg_sex_0b952f66:
 
 
-    mc "But I'll be even happier when your nasty little pussy is wrapped around Allison's strap on."
+    mc "Aber ich werde noch glücklicher sein, wenn deine kleine, versaute Muschi Allisons Umschnalldildo umschließt."
 
 
 translate deutsch e09s07_sex_jdg_sex_002ee47c:
 
 
-    jdg "Wait a fucking-"
+    jdg "Warte verdammt noch mal..."
 
 
 translate deutsch e09s07_sex_jdg_sex_df8e9adb:
 
 
-    jdg "I fucking thought-!"
+    jdg "Ich dachte verdammt noch mal...!"
 
 
 translate deutsch e09s07_sex_jdg_sex_15b46a4b:
 
 
-    mc "That's your problem, you stupid bitch. {i}You fucking thought!{/i}"
+    mc "Das ist dein Problem, du dumme Schlampe. {i}Das hast du dir verdammt noch mal gedacht!{/i}"
 
 
 translate deutsch e09s07_sex_jdg_sex_3292734f:
 
 
-    jdg "How dare you sodomize me!"
+    jdg "Wie kannst du es wagen, mich zu vergewaltigen!"
 
 
 translate deutsch e09s07_sex_jdg_sex_8a2b8345:
 
 
-    mc "Are you kidding me? Your ass is so loose, I could fit a fucking train in here!"
+    mc "Machst du Witze? Dein Arsch ist so locker, dass ich einen ganzen Zug darin unterbringen könnte!"
 
 
 translate deutsch e09s07_sex_jdg_sex_7f8b432c:
 
 
-    aw "When I get bored of fucking this soaking wet, dirty slit, I might just have to try that out!"
+    aw "Wenn ich es leid bin, diese klatschnasse, schmutzige Spalte zu ficken, muss ich das vielleicht einfach mal ausprobieren!"
 
 
 translate deutsch e09s07_sex_jdg_sex_54b14474:
 
 
-    jdg "How dare you speak of me like that! You insignificant..."
+    jdg "Wie kannst du es wagen, so über mich zu sprechen! Du unbedeutender..."
 
 
 translate deutsch e09s07_sex_jdg_sex_8b5b3e20:
 
 
-    mc "I'm balls deep in your slutty ass, and you have the gall to call us insignificant?"
+    mc "Ich stecke bis zu den Eiern in deinem versauten Arsch, und du hast die Frechheit, uns als unbedeutend zu bezeichnen?"
 
 
 translate deutsch e09s07_sex_jdg_sex_6bd66a77:
 
 
-    jdg "I-I-!"
+    jdg "Ich-Ich-!"
 
 
 translate deutsch e09s07_sex_jdg_sex_b63faeca:
 
 
-    mct "Holy shit, I didn't even know I knew the word gall! What the hell..."
+    mct "Heilige Scheiße, ich wusste gar nicht, dass ich das Wort „Gall“ kenne! Was zum Teufel..."
 
 
 translate deutsch e09s07_sex_jdg_sex_f6a7e510:
 
 
-    aw "Besides, the look on your face says that you're loving every second of this."
+    aw "Außerdem sieht man dir an, dass du jede Sekunde davon genießt."
 
 
 translate deutsch e09s07_sex_jdg_sex_91c7e854:
 
 
-    jdg "You presume too much!"
+    jdg "Du nimmst zu viel an!"
 
 
 translate deutsch e09s07_sex_jdg_sex_87e0a79f:
 
 
-    aw "Nah, not a presumption."
+    aw "Nein, das ist keine Vermutung."
 
 
 translate deutsch e09s07_sex_jdg_sex_43a1baaa:
 
 
-    aw "Your cunt is soaking wet while you get double penetrated by two strangers at a sex party. {i}And you look like you're about to cum!{/i}"
+    aw "Deine Muschi ist klatschnass, während du von zwei Fremden auf einer Sexparty doppelt penetriert wirst. {i}Und du siehst aus, als würdest du gleich kommen!{/i}"
 
 
 translate deutsch e09s07_sex_jdg_sex_49f0244e:
 
 
-    jdg "I... oh Gooodddd!"
+    jdg "Ich... oh Gott!"
 
 
 translate deutsch e09s07_sex_jdg_sex_7619d537:
 
 
-    mc "That's right. We know what you really are. Just below the surface, you're nothing more than a trumped up street whore who loves getting fucked by random strangers."
+    mc "Das stimmt. Wir wissen, was du wirklich bist. Unter der Oberfläche bist du nichts weiter als eine aufgeblasene Straßenhure, die es liebt, von zufälligen Fremden gefickt zu werden."
 
 
 translate deutsch e09s07_sex_jdg_sex_c8af182d:
 
 
-    mc "How does it feel to be the cheapest, easiest, {i}worst fuck{/i} at this whole sex party?"
+    mc "Wie fühlt es sich an, der billigste, einfachste und {i}schlechteste Fick{/i} auf dieser ganzen Sexparty zu sein?"
 
 
 translate deutsch e09s07_sex_jdg_sex_4de90983:
 
 
-    jdg "Ohhhh fuuuuck, ohhhhhhh fuuuuuuuck!"
+    jdg "Ohhhh verdammt, ohhhhhhh verdammt!"
 
 
 translate deutsch e09s07_sex_jdg_sex_ffb16b02:
 
 
-    mc "Knowing you're worse than a fucking pocket pussy going to make you cum? Are you really that pathetic?"
+    mc "Zu wissen, dass du schlimmer bist als eine verdammte Taschenmuschi, bringt dich zum Abspritzen? Bist du wirklich so erbärmlich?"
 
 
 translate deutsch e09s07_sex_jdg_sex_e5acb73b:
 
 
-    jdg "Gaaaawwwwd, yes! Yes I am! I am that pathe - patheti - fuuuuuuck!"
+    jdg "Oh Gott, ja! Ja, das bin ich! Ich bin diese erbärmliche, erbärmliche Hure!"
 
 
 translate deutsch e09s07_sex_jdg_sex_349dc6ea:
 
 
-    aw "I've always wanted to watch a useless bitch cum, and now I get to fulfill my dream!"
+    aw "Ich wollte schon immer mal sehen, wie eine nutzlose Schlampe kommt, und jetzt kann ich mir meinen Traum erfüllen!"
 
 
 translate deutsch e09s07_sex_jdg_sex_a056617e:
 
 
-    jdg "I'm cum- I'm cummmmmm -"
+    jdg "Ich komme – ich kommeeeeeeeeeeeeeeeeeee"
 
 
 translate deutsch e09s07_sex_jdg_sex_edcb375f:
 
 
-    jdg "Fuuuyyyuuuuucccckkkk yooooooouuuuu!"
+    jdg "Fiiiiiiiickkkkkk diiiiiiiicchhhhhh!"
 
 
 translate deutsch e09s07_sex_jdg_sex_8efa6f26:
 
 
-    aw "So that's what {i}that{/i} looks like."
+    aw "So sieht {i}das{/i} also aus."
 
 
 translate deutsch e09s07_sex_jdg_sex_9161a74e:
 
 
-    aw "Well, that was a job well fucked."
+    aw "Nun, das war eine verdammt gute Arbeit."
 
 
 translate deutsch e09s07_sex_jdg_sex_86f9bab7:
 
 
-    mc "Agreed."
+    mc "Einverstanden."
 
 
 translate deutsch e09s07_sex_jdg_sex_2ae64793:
 
 
-    jdg "What the fuck!"
+    jdg "Was zum Teufel!"
 
 
 translate deutsch e09s07_sex_jdg_sex_cd80b591:
 
 
-    mc "What? That's what I do with shitty fucks when I'm done. I throw them out."
+    mc "Was? Das mache ich mit beschissenen Schlampen, wenn ich mit ihnen fertig bin. Ich schmeiße sie raus."
 
 
 translate deutsch e09s07_sex_jdg_sex_80cfaef5:
 
 
-    jdg "I swear to God, you..."
+    jdg "Ich schwöre bei Gott, du..."
 
 
 translate deutsch e09s07_sex_jdg_sex_3b888902:
 
 
-    mc "You what? What do you have to say to the man that just made you cum from getting ass fucked?"
+    mc "Was? Was hast du dem Mann zu sagen, der dich gerade zum Orgasmus gebracht hat, indem er dich in den Arsch gefickt hat?"
 
 
 translate deutsch e09s07_sex_jdg_sex_37036116:
 
 
-    jdg "I..."
+    jdg "Ich..."
 
 
 translate deutsch e09s07_sex_jdg_sex_39261276:
 
 
-    jdg "I hope we get to do this again soon."
+    jdg "Ich hoffe, wir können das bald wiederholen."
 
 
 translate deutsch e09s07_sex_jdg_sex_21723415:
 
 
-    jdg "Ciao."
+    jdg "Tschau."
 
 
 translate deutsch e09s07_sex_jdg_sex_5d78cf3f:
 
 
-    aw "Damn... she's fucking crazy."
+    aw "Verdammt... die ist ja total verrückt."
 
 
 translate deutsch e09s07_sex_jdg_sex_8fd7233d:
 
 
-    mc "Oh, you have no idea."
+    mc "Oh, du hast ja keine Ahnung."
 
 
 translate deutsch e09s07_sex_jdg_sex_626f0cca:
 
 
-    mc "Yeah she is, holy shit... but that was kind of fun."
+    mc "Ja, das ist sie, verdammt noch mal... aber das hat irgendwie Spaß gemacht."
 
 
 translate deutsch e09s07_sex_jdg_sex_28e06ae1:
 
 
-    aw "Yeah, I think that's enough for me. You enjoy the rest of your fuckathon."
+    aw "Ja, ich glaube, das reicht mir. Genieß den Rest deines Fickmarathons."
 
 
 translate deutsch e09s07_sex_jdg_sex_6d04953c:
 
 
-    mc "Thanks!"
+    mc "Danke!"
 
 
 translate deutsch e09s07_sex_jdg_sex_25e1f2d0:
 
 
-    aw "Yeah, I'm just going to watch from the balcony and masturbate like everyone else."
+    aw "Ja, ich werde einfach vom Balkon aus zuschauen und masturbieren, wie alle anderen auch."
 
 
 translate deutsch e09s07_sex_jdg_sex_bc8f4195:
 
 
-    mc "People are... masturbating and watching?"
+    mc "Die Leute... masturbieren und schauen zu?"
 
 
 translate deutsch e09s07_sex_jdg_sex_a7c0f7cc:
 
 
-    aw "Uh huh. That a problem?"
+    aw "Aha. Ist das ein Problem?"
 
 
 translate deutsch e09s07_sex_jdg_sex_90dff8e3:
 
 
-    mc "No, I guess... I've just never thought about people watching me do this stuff and jerking off. Or jilling off, whatever. It's strange..."
+    mc "Nein, ich glaube... Ich habe einfach nie darüber nachgedacht, dass Leute mir dabei zusehen und sich dabei einen runterholen. Oder sich selbst befriedigen, wie auch immer. Es ist seltsam..."
 
 
 translate deutsch e09s07_sex_jdg_sex_aa3d995f:
 
 
-    aw "Well, don't think about it too hard! You have a job to do!"
+    aw "Nun, denk nicht zu viel darüber nach! Du hast eine Aufgabe zu erledigen!"
 
 
 translate deutsch e09s07_sex_jdg_sex_6ff490e5:
 
 
-    sy "That's right! You ready for the next contestant on 'Come and Fuck my Brother?"
+    sy "Genau! Bist du bereit für den nächsten Kandidaten bei „Come and Fuck my Brother“?"
 
 
 translate deutsch e09s07_sex_jdg_sex_7fbf3d56:
 
 
-    sy "That's right! You ready for the next contestant on 'Come and Fuck [mcname]?"
+    sy "Genau! Bist du bereit für den nächsten Kandidaten bei „Come and Fuck [mcname]“?"
 
 
 translate deutsch e09s07_sex_jdg_sex_6c5c068d:
 
 
-    mc "Yeah, bring 'em on!"
+    mc "Ja, her mit ihnen!"
 
 
 translate deutsch e09s07_sex_jdg_sex_4a2c4fbe:
 
 
-    sy "Who's next!?"
+    sy "Wer ist der Nächste!?"
 
 
 translate deutsch e09s07_sex_mk_tm_6f780d31:
 
 
-    mk "You've really come a long way, [mcname]."
+    mk "Du hast wirklich einen langen Weg zurückgelegt, [mcname]."
 
 
 translate deutsch e09s07_sex_mk_tm_5568c58a:
 
 
-    mc "Thanks, Maria. Yeah, just shows that with a little bit of luck and determination, dreams can come true."
+    mc "Danke, Maria. Ja, das zeigt nur, dass mit ein bisschen Glück und Entschlossenheit Träume wahr werden können."
 
 
 translate deutsch e09s07_sex_mk_tm_d65c23f3:
 
 
-    mc "I really appreciate you guys coming, and that you'd like me to help you cum too."
+    mc "Ich weiß es wirklich zu schätzen, dass ihr gekommen seid und dass ihr möchtet, dass ich euch auch zum Orgasmus verhelfe."
 
 
 translate deutsch e09s07_sex_mk_tm_43e98e46:
 
 
-    mk "So generous. Yeah, Talia and I were talking and she told me that the only times she fucked you, you guys were in like some trance."
+    mk "So großzügig. Ja, Talia und ich haben uns unterhalten und sie hat mir erzählt, dass ihr beide jedes Mal, wenn sie mit dir geschlafen hat, wie in Trance wart."
 
 
 translate deutsch e09s07_sex_mk_tm_7f8354a1:
 
 
-    mk "I told her that she {b}must{/b} try the real thing."
+    mk "Ich sagte ihr, dass sie {b}unbedingt{/b} das Original probieren müsse."
 
 
 translate deutsch e09s07_sex_mk_tm_bb0a2c7c:
 
 
-    mc "I'm inclined to agree."
+    mc "Ich neige dazu, dem zuzustimmen."
 
 
 translate deutsch e09s07_sex_mk_tm_f91081fa:
 
 
-    tm "Good. Then give me your best shot, [mcname]."
+    tm "Gut. Dann gib mir dein Bestes, [mcname]."
 
 
 translate deutsch e09s07_sex_mk_tm_d58b5908:
 
 
-    mk "Are you ready, Talia?"
+    mk "Bist du bereit, Talia?"
 
 
 translate deutsch e09s07_sex_mk_tm_134ecbce:
 
 
-    tm "Ready for what? I'll be suprrised if he has any gas in the tank after fucking the other girls."
+    tm "Bereit wofür? Ich wäre überrascht, wenn er nach dem Sex mit den anderen Mädchen noch genug Energie hätte."
 
 
 translate deutsch e09s07_sex_mk_tm_6d9728dd:
 
 
-    mk "[mcname] is full of suprises."
+    mk "[mcname] steckt voller Überraschungen."
 
 
 translate deutsch e09s07_sex_mk_tm_96ae982e:
 
 
-    tm "*moans* Maria."
+    tm "*stöhnt* Maria."
 
 
 translate deutsch e09s07_sex_mk_tm_58acdbec:
 
 
-    mk "Yes baby... I'm right here."
+    mk "Ja, Baby... Ich bin hier."
 
 
 translate deutsch e09s07_sex_mk_tm_4f2af1c1:
 
 
-    mk "It feels good, doesn't it?"
+    mk "Das fühlt sich gut an, nicht wahr?"
 
 
 translate deutsch e09s07_sex_mk_tm_b62c1f94:
 
 
-    tm "So good. When we did it before... it was like a dream."
+    tm "So gut. Als wir es zuvor gemacht haben... war es wie ein Traum."
 
 
 translate deutsch e09s07_sex_mk_tm_5d8cd8e4:
 
 
-    tm "But now... he's fucking reshaping my pussy."
+    tm "Aber jetzt... formt er meine Muschi neu."
 
 
 translate deutsch e09s07_sex_mk_tm_892c658e:
 
 
-    mk "Nrrraah... lucky girl."
+    mk "Nrrraah... Glückskind."
 
 
 translate deutsch e09s07_sex_mk_tm_2b856946:
@@ -1616,109 +1616,109 @@ translate deutsch e09s07_sex_mk_tm_2b856946:
 translate deutsch e09s07_sex_mk_tm_8edaccbe:
 
 
-    mct "Good to see both of them having a great time."
+    mct "Schön zu sehen, dass beide so viel Spaß haben."
 
 
 translate deutsch e09s07_sex_mk_tm_bbf1b2b4:
 
 
-    mk "You sound so cute, Talia..."
+    mk "Du klingst so süß, Talia..."
 
 
 translate deutsch e09s07_sex_mk_tm_89d094e5:
 
 
-    mk "Okay. Time to change it up a bit."
+    mk "Okay. Zeit für eine kleine Veränderung."
 
 
 translate deutsch e09s07_sex_mk_tm_370a58a5:
 
 
-    mk "Tell [mcname] how much you want him inside you."
+    mk "Sag [mcname], wie sehr du ihn in dir haben willst."
 
 
 translate deutsch e09s07_sex_mk_tm_9fc96011:
 
 
-    tm "*panting* I want it. I want it so bad, [mcname]."
+    tm "*keuchend* Ich will es. Ich will es so sehr, [mcname]."
 
 
 translate deutsch e09s07_sex_mk_tm_f35cea0d:
 
 
-    tm "Fuck. Right there. It's so good."
+    tm "Verdammt. Genau da. Das ist so gut."
 
 
 translate deutsch e09s07_sex_mk_tm_c8195b57:
 
 
-    mk "Ooouhah. Sounds like [mcname] is taking very good care of you."
+    mk "Ooouuhah. Klingt so, als würde [mcname] sich sehr gut um dich kümmern."
 
 
 translate deutsch e09s07_sex_mk_tm_8af65b96:
 
 
-    tm "Yes... fhuaah..."
+    tm "Ja... fhuaah..."
 
 
 translate deutsch e09s07_sex_mk_tm_8caff497:
 
 
-    mk "Tell him him how happy you are that Fetish Locator is coming back."
+    mk "Sage ihm, wie glücklich du bist, dass Fetish Locator zurückkommt."
 
 
 translate deutsch e09s07_sex_mk_tm_37eb4308:
 
 
-    tm "Huh? *moaning* Fetish Locator is coming back?"
+    tm "Hä? *Stöhnen* Fetish Locator kommt zurück?"
 
 
 translate deutsch e09s07_sex_mk_tm_482d3af7:
 
 
-    mk "Haha. You're fucking her so hard, you're scrambling her brains!"
+    mk "Haha. Du fickst sie so hart, dass ihr Gehirn durcheinander kommt!"
 
 
 translate deutsch e09s07_sex_mk_tm_76d55b98:
 
 
-    mc "Talia, should I stop?"
+    mc "Talia, soll ich aufhören?"
 
 
 translate deutsch e09s07_sex_mk_tm_c1c26d9a:
 
 
-    tm "No, [mcname]."
+    tm "Nein, [mcname]."
 
 
 translate deutsch e09s07_sex_mk_tm_84ff6d7e:
 
 
-    mk "This is the best of both worlds. A girl licking all over your clit while a boy smashes your tight pussy."
+    mk "Das ist das Beste aus beiden Welten. Ein Mädchen leckt deine Klitoris, während ein Junge deine enge Muschi fickt."
 
 
 translate deutsch e09s07_sex_mk_tm_0f1ae237:
 
 
-    mk "*hungry licking*"
+    mk "*hungriges Lecken*"
 
 
 translate deutsch e09s07_sex_mk_tm_ae1df518:
 
 
-    tm "Oh fuck... I'm going to cum... Maria... I'm... I'm so close."
+    tm "Oh verdammt... Ich komme gleich... Maria... Ich bin... Ich bin so nah dran."
 
 
 translate deutsch e09s07_sex_mk_tm_b5f4bac2:
 
 
-    mk "Go on, Talia. I'm ready."
+    mk "Los, Talia. Ich bin bereit."
 
 
 translate deutsch e09s07_sex_mk_tm_9a93fbe6:
 
 
-    tm "*strained moaning*"
+    tm "*angestrengtes Stöhnen*"
 
 
 translate deutsch e09s07_sex_mk_tm_c5022b32:
@@ -1730,61 +1730,61 @@ translate deutsch e09s07_sex_mk_tm_c5022b32:
 translate deutsch e09s07_sex_mk_tm_7985cd09:
 
 
-    mk "Mrmmm. Perfect."
+    mk "Mmmh. Perfekt."
 
 
 translate deutsch e09s07_sex_mk_tm_f69855f0:
 
 
-    mk "Mwaaah. Hello Mr. Best Cock."
+    mk "Mwaaah. Hallo, Herr Bester Schwanz."
 
 
 translate deutsch e09s07_sex_mk_tm_020a8894:
 
 
-    mk "Back in you go."
+    mk "Zurück rein mit dir."
 
 
 translate deutsch e09s07_sex_mk_tm_af85801e:
 
 
-    mc "Oh fuck, Maria. that was amazing."
+    mc "Oh verdammt, Maria. Das war unglaublich."
 
 
 translate deutsch e09s07_sex_mk_tm_2725ed94:
 
 
-    mk "You taught me well, [mcname]."
+    mk "Du hast mich gut unterrichtet, [mcname]."
 
 
 translate deutsch e09s07_sex_mk_tm_0e16c107:
 
 
-    mk "And now you're teaching Talia too."
+    mk "Und jetzt unterrichtest du auch Talia."
 
 
 translate deutsch e09s07_sex_mk_tm_2a5f0a9e:
 
 
-    tm "Yes... Keep going, [mcname]."
+    tm "Ja... Mach weiter, [mcname]."
 
 
 translate deutsch e09s07_sex_mk_tm_cd9a4a3f:
 
 
-    tm "I want you to cum inside me so Maria can lick it out."
+    tm "Ich möchte, dass du in mir kommst, damit Maria es herauslecken kann."
 
 
 translate deutsch e09s07_sex_mk_tm_72daa69f:
 
 
-    mk "Oh fuck. You're too much sometimes, Talia."
+    mk "Oh verdammt. Manchmal bist du echt zu viel, Talia."
 
 
 translate deutsch e09s07_sex_mk_tm_60120a93:
 
 
-    mc "Graah... you can say that again."
+    mc "Ach ja, das kannst du laut sagen."
 
 
 translate deutsch e09s07_sex_mk_tm_d8cb8295:
@@ -1808,247 +1808,247 @@ translate deutsch e09s07_sex_mk_tm_2a7e871c:
 translate deutsch e09s07_sex_mk_tm_dc7ba455:
 
 
-    mk "Slurp... glrrrphu... slurrkkpahh.."
+    mk "Schlürfen... glrrrphu... schlürrrkkpahh.."
 
 
 translate deutsch e09s07_sex_mk_tm_597c445b:
 
 
-    mk "Well."
+    mk "Nun gut."
 
 
 translate deutsch e09s07_sex_mk_tm_77ba94af:
 
 
-    mk "I'd say that's money well-spent."
+    mk "Ich würde sagen, das ist gut angelegtes Geld."
 
 
 translate deutsch e09s07_sex_mk_tm_ab8ba19a:
 
 
-    mk "Right?"
+    mk "Richtig?"
 
 
 translate deutsch e09s07_sex_mk_tm_13295370:
 
 
-    tm "Mmuaah... absoutelly."
+    tm "Mmuaah... absolut."
 
 
 translate deutsch e09s07_sex_kb_cb_2abdff55:
 
 
-    mc "Hello hello, you two."
+    mc "Hallo, hallo, ihr beiden."
 
 
 translate deutsch e09s07_sex_kb_cb_2b4a0050:
 
 
-    cb "Hey handsome. I figured that since you've gotten so busy, I should take your dick where I can get it."
+    cb "Hey, mein Hübscher. Da du so beschäftigt bist, dachte ich mir, ich sollte deinen Schwanz nehmen, wo ich ihn kriegen kann."
 
 
 translate deutsch e09s07_sex_kb_cb_1f5f9cfe:
 
 
-    mc "Haha. Are you sure about this?"
+    mc "Haha. Bist du dir da sicher?"
 
 
 translate deutsch e09s07_sex_kb_cb_42c640cf:
 
 
-    kb "Hell yes, [mcname]. I can't wait. I've never seen Chloe get fucked in front of so many people."
+    kb "Ja, verdammt, [mcname]. Ich kann es kaum erwarten. Ich habe noch nie gesehen, wie Chloe vor so vielen Leuten gefickt wurde."
 
 
 translate deutsch e09s07_sex_kb_cb_556cae9c:
 
 
-    cb "And I never skip a chance to get pounded by the man who knocked me up."
+    cb "Und ich lasse mir keine Gelegenheit entgehen, von dem Mann gevögelt zu werden, der mich geschwängert hat."
 
 
 translate deutsch e09s07_sex_kb_cb_8db0c093:
 
 
-    mc "Really? That's great news."
+    mc "Wirklich? Das sind großartige Neuigkeiten."
 
 
 translate deutsch e09s07_sex_kb_cb_e9cb005d:
 
 
-    cb "Thank you, [mcname]. We couldn't have done it without you."
+    cb "Vielen Dank, [mcname]. Ohne dich hätten wir das nicht geschafft."
 
 
 translate deutsch e09s07_sex_kb_cb_d79ab939:
 
 
-    kb "So what do you say?"
+    kb "Was sagst du dazu?"
 
 
 translate deutsch e09s07_sex_kb_cb_ae674e5b:
 
 
-    mc "I'm shocked that you two bid, and even more that you're up here. Aren't you two... you know."
+    mc "Ich bin schockiert, dass ihr beide mitgeboten habt, und noch mehr, dass ihr hier oben seid. Seid ihr nicht beide... ihr wisst schon."
 
 
 translate deutsch e09s07_sex_kb_cb_eeaf941a:
 
 
-    kb "We've got a freaky side to us too, [mcname]. Besides, isn't that what these parties are about?"
+    kb "Wir haben auch eine verrückte Seite, [mcname]. Außerdem, geht es bei diesen Partys nicht genau darum?"
 
 
 translate deutsch e09s07_sex_kb_cb_029b8f7d:
 
 
-    cb "Mmhmmm, we just want to live a little!"
+    cb "Mmhmmm, wir wollen einfach nur ein bisschen leben!"
 
 
 translate deutsch e09s07_sex_kb_cb_348b0b3c:
 
 
-    mc "Kevin, I don't think-"
+    mc "Kevin, ich glaube nicht, dass..."
 
 
 translate deutsch e09s07_sex_kb_cb_46567dd6:
 
 
-    kb "Oh, nah man. It ain't like that. I just want you to have sex with Chloe."
+    kb "Oh, nein, Mann. So ist es nicht. Ich will nur, dass du mit Chloe Sex hast."
 
 
 translate deutsch e09s07_sex_kb_cb_346de54f:
 
 
-    mc "Wait a second-"
+    mc "Moment mal..."
 
 
 translate deutsch e09s07_sex_kb_cb_09998757:
 
 
-    kb "And I'm going to watch."
+    kb "Und ich werde zusehen."
 
 
 translate deutsch e09s07_sex_kb_cb_32dcd9fd:
 
 
-    mc "And you two are cool with that?"
+    mc "Und ihr zwei seid damit einverstanden?"
 
 
 translate deutsch e09s07_sex_kb_cb_37ade59f:
 
 
-    kb "Uh huh!"
+    kb "Aha!"
 
 
 translate deutsch e09s07_sex_kb_cb_b29ce039:
 
 
-    cb "Super cool with it."
+    cb "Super cool damit."
 
 
 translate deutsch e09s07_sex_kb_cb_3ae8dd2d:
 
 
-    mc "Well then..."
+    mc "Na dann..."
 
 
 translate deutsch e09s07_sex_kb_cb_9b2da8e6:
 
 
-    mc "I appreciate the offer, but Kevin, we've been friends forever."
+    mc "Ich weiß das Angebot zu schätzen, aber Kevin, wir sind schon seit Ewigkeiten befreundet."
 
 
 translate deutsch e09s07_sex_kb_cb_06ac1251:
 
 
-    mc "I can't take your money dude."
+    mc "Ich kann dein Geld nicht annehmen, Mann."
 
 
 translate deutsch e09s07_sex_kb_cb_0b7d9083:
 
 
-    kb "Ah it's all good man."
+    kb "Ach, alles gut, Mann."
 
 
 translate deutsch e09s07_sex_kb_cb_363e3682:
 
 
-    kb "I'm sure Chloe and I can find some more fun around here."
+    kb "Ich bin mir sicher, dass Chloe und ich hier noch mehr Spaß finden können."
 
 
 translate deutsch e09s07_sex_kb_cb_75d0d357:
 
 
-    mc "Totally."
+    mc "Auf jeden Fall."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_c215581a:
 
 
-    mc "How could I ever say no to you two?"
+    mc "Wie könnte ich euch beiden jemals nein sagen?"
 
 
 translate deutsch e09s07_sex_kb_cb_continue_b1447eda:
 
 
-    cb "Yes... pound my sweet meat, [mcname]."
+    cb "Ja... knall mein süßes Fleisch, [mcname]."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_9e26efc2:
 
 
-    cb "Get my womb all stirrred up... and ready for your cum."
+    cb "Bring meine Gebärmutter in Wallung ... und mach sie bereit für dein Sperma."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_c65737d5:
 
 
-    cb "I got so wet watching you with the other girls-huaaah!"
+    cb "Ich bin so feucht geworden, als ich dich mit den anderen Mädchen beobachtet habe – huaaah!"
 
 
 translate deutsch e09s07_sex_kb_cb_continue_d819f96c:
 
 
-    cb "*moaning*"
+    cb "*Stöhnen*"
 
 
 translate deutsch e09s07_sex_kb_cb_continue_093055cf:
 
 
-    cb "You really are the best, [mcname]."
+    cb "Du bist wirklich der Beste, [mcname]."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_a6252c56:
 
 
-    cb "Not just at fucking. A bunch of people here all loved Fetish Locator."
+    cb "Nicht nur beim Ficken. Eine ganze Reihe von Leuten hier liebten Fetish Locator."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_3be4c0ee:
 
 
-    cb "*screaming with pleasure*"
+    cb "*vor Freude schreiend*"
 
 
 translate deutsch e09s07_sex_kb_cb_continue_393a471c:
 
 
-    cb "But... Oouhaah... but you're the only one who did something about it."
+    cb "Aber... Oouhaah... aber du bist der Einzige, der etwas dagegen unternommen hat."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_f41c8580:
 
 
-    cb "So... thank you..."
+    cb "Also... danke..."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_ef5be3f8:
 
 
-    mc "You're welcome, Chloe."
+    mc "Gern geschehen, Chloe."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_29057fd4:
 
 
-    cb "Oh fuck. I'm getting close."
+    cb "Oh verdammt. Ich bin fast soweit."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_44a9c918:
@@ -2066,19 +2066,19 @@ translate deutsch e09s07_sex_kb_cb_continue_24562d2c:
 translate deutsch e09s07_sex_kb_cb_continue_b004cbf5:
 
 
-    cb "Give it to me, hot stuff."
+    cb "Gib es mir, du heißer Typ."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_9731ed81:
 
 
-    cb "Give it to me, [mcname]."
+    cb "Gib es mir, [mcname]."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_7c13d21a:
 
 
-    cb "Stretch out my pussy with your nice, hot load!"
+    cb "Dehne meine Muschi mit deiner schönen, heißen Ladung!"
 
 
 translate deutsch e09s07_sex_kb_cb_continue_56031c66:
@@ -2090,115 +2090,115 @@ translate deutsch e09s07_sex_kb_cb_continue_56031c66:
 translate deutsch e09s07_sex_kb_cb_continue_85e4b00b:
 
 
-    cb "Mmmmuaah... I hope we can do this again some time."
+    cb "Mmmmuaah... Ich hoffe, wir können das irgendwann mal wieder machen."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_929d26c8:
 
 
-    kb "Nice!"
+    kb "Schön!"
 
 
 translate deutsch e09s07_sex_kb_cb_continue_aa13d260:
 
 
-    kb "Thanks again, bro."
+    kb "Nochmals vielen Dank, Bruder."
 
 
 translate deutsch e09s07_sex_kb_cb_continue_0cb271b1:
 
 
-    mc "I should be thanking you."
+    mc "Ich sollte Ihnen danken."
 
 
 translate deutsch e09s07_sex_sy_arj_62550ba7:
 
 
-    sy "Holy shit, I think... I think we did it!"
+    sy "Heilige Scheiße, ich glaube... Ich glaube, wir haben es geschafft!"
 
 
 translate deutsch e09s07_sex_sy_arj_32f7bf56:
 
 
-    arj "You sound like you're surprised."
+    arj "Du klingst überrascht."
 
 
 translate deutsch e09s07_sex_sy_arj_7e86a4d9:
 
 
-    sy "Are you not?"
+    sy "Nicht wahr?"
 
 
 translate deutsch e09s07_sex_sy_arj_ff8033ab:
 
 
-    mc "We really pulled this off, huh?"
+    mc "Wir haben das wirklich geschafft, oder?"
 
 
 translate deutsch e09s07_sex_sy_arj_cffa1504:
 
 
-    sy "Almost..."
+    sy "Fast..."
 
 
 translate deutsch e09s07_sex_sy_arj_d56f549c:
 
 
-    arj "What do you mean, 'almost'?"
+    arj "Was meinst du mit „fast“?"
 
 
 translate deutsch e09s07_sex_sy_arj_d7dcee95:
 
 
-    sy "You know... we also put in a bid..."
+    sy "Weißt du... wir haben auch ein Angebot abgegeben..."
 
 
 translate deutsch e09s07_sex_sy_arj_3a842d26:
 
 
-    arj "We did."
+    arj "Wir haben es getan."
 
 
 translate deutsch e09s07_sex_sy_arj_a93f9509:
 
 
-    sy "And I think that entitles us to some fun with [mcname]."
+    sy "Und ich denke, das gibt uns das Recht, ein bisschen Spaß mit [mcname] zu haben."
 
 
 translate deutsch e09s07_sex_sy_arj_3d154af0:
 
 
-    arj "You know... I think you're right, Stacy."
+    arj "Weißt du... Ich glaube, du hast recht, Stacy."
 
 
 translate deutsch e09s07_sex_sy_arj_f76d727e:
 
 
-    sy "I've been waiting so patiently. Now it's my turn to get some of his cum..."
+    sy "Ich habe so geduldig gewartet. Jetzt bin ich an der Reihe, etwas von seinem Sperma zu bekommen..."
 
 
 translate deutsch e09s07_sex_sy_arj_29ed7209:
 
 
-    sy "Come on, bro, don't you think your poor sister has waited long enough? Hehe."
+    sy "Komm schon, Bruder, findest du nicht, dass deine arme Schwester schon lange genug gewartet hat? Hehe."
 
 
 translate deutsch e09s07_sex_sy_arj_550bb126:
 
 
-    sy "Come on, [mcname]. Don't you think I've waited long enough?"
+    sy "Komm schon, [mcname]. Findest du nicht, dass ich schon lange genug gewartet habe?"
 
 
 translate deutsch e09s07_sex_sy_arj_5a238bd8:
 
 
-    arj "Now hang on!"
+    arj "Moment mal!"
 
 
 translate deutsch e09s07_sex_sy_arj_cb0b4ee6:
 
 
-    arj "As the CEO, I think I need to have first dibs on him fucking me. You know, to review his performance."
+    arj "Als CEO denke ich, dass ich das Vorrecht haben sollte, von ihm gefickt zu werden. Du weißt schon, um seine Leistung zu überprüfen."
 
 
 translate deutsch e09s07_sex_sy_arj_56d3ff98:
@@ -2210,43 +2210,43 @@ translate deutsch e09s07_sex_sy_arj_56d3ff98:
 translate deutsch e09s07_sex_sy_arj_308d3f4a:
 
 
-    arj "Don't worry, Stacy. I don't plan to leave you out."
+    arj "Keine Sorge, Stacy. Ich habe nicht vor, dich außen vor zu lassen."
 
 
 translate deutsch e09s07_sex_sy_arj_295914c9:
 
 
-    arj "Now, come on, [mcname]. Come over here and fuck me in the ass!"
+    arj "Komm schon, [mcname]. Komm her und fick mich in den Arsch!"
 
 
 translate deutsch e09s07_sex_sy_arj_8ef195b0:
 
 
-    mc "You're the boss!"
+    mc "Du bist der Boss!"
 
 
 translate deutsch e09s07_sex_sy_arj_347d6d92:
 
 
-    arj "Fuuuuuuck! Oh that feels soooo fucking gooooood, [mcname]!"
+    arj "Verdammt! Oh, das fühlt sich soooo verdammt gut an, [mcname]!"
 
 
 translate deutsch e09s07_sex_sy_arj_1d5434da:
 
 
-    mc "God, your ass is so tight! Might be the tightest ass I've fucked all night!"
+    mc "Gott, dein Arsch ist so eng! Das ist vielleicht der engste Arsch, den ich heute Nacht gefickt habe!"
 
 
 translate deutsch e09s07_sex_sy_arj_e5da3b47:
 
 
-    arj "Mmmmm - fuck it good! Fuck your boss' assssss!"
+    arj "Mmmmm – fick ihn ordentlich! Fick den Arsch deines Chefs!"
 
 
 translate deutsch e09s07_sex_sy_arj_0d99661a:
 
 
-    arj "And Stacy - oh fuck - Stacy!"
+    arj "Und Stacy – oh verdammt – Stacy!"
 
 
 translate deutsch e09s07_sex_sy_arj_02309f25:
@@ -2258,97 +2258,97 @@ translate deutsch e09s07_sex_sy_arj_02309f25:
 translate deutsch e09s07_sex_sy_arj_380e4aa0:
 
 
-    arj "Oh God, you're licking all the beeeessst spots! Oh, this is amazing!"
+    arj "Oh Gott, du leckst genau die richtigen Stellen! Oh, das ist unglaublich!"
 
 
 translate deutsch e09s07_sex_sy_arj_3d52be72:
 
 
-    mc "Oh I can feel your ass squuuezing me so tight, AmRose! Ohhhhhh mmmmeeerrrrrrg!"
+    mc "Oh, ich spüre, wie dein Arsch mich so fest umklammert, AmRose! Ohhhhhh mmmmeeerrrrrrg!"
 
 
 translate deutsch e09s07_sex_sy_arj_95883db0:
 
 
-    arj "Gaaahhhh - Stacy, you're soooo wet! This must be turning you on so much!"
+    arj "Gaaahhhh – Stacy, du bist ja soooo feucht! Das muss dich ja total antörnen!"
 
 
 translate deutsch e09s07_sex_sy_arj_b9f2dafa:
 
 
-    arj "New rule, you have to fuck the CEO once a day!"
+    arj "Neue Regel: Du musst einmal am Tag mit dem CEO schlafen!"
 
 
 translate deutsch e09s07_sex_sy_arj_db275e0b:
 
 
-    mc "Yes - oh fuuuhhh - yes, ma'am!"
+    mc "Ja – oh fuuuhhh – ja, Ma'am!"
 
 
 translate deutsch e09s07_sex_sy_arj_354ec9c8:
 
 
-    arj "I just love it when you fuck me, [mcname]! Yessssss!"
+    arj "Ich liebe es einfach, wenn du mich fickst, [mcname]! Ja!"
 
 
 translate deutsch e09s07_sex_sy_arj_01e532a5:
 
 
-    arj "Mmmmmmmmooooooohhhh - oh God, I needed this sooooo bad!"
+    arj "Mmmmmmmmooooooohhhh – oh Gott, das habe ich sooooo dringend gebraucht!"
 
 
 translate deutsch e09s07_sex_sy_arj_f295858d:
 
 
-    arj "You too, Stacy. You're licking my clit soooooo gooooood!"
+    arj "Du auch, Stacy. Du leckst meine Klitoris soooooo gut!"
 
 
 translate deutsch e09s07_sex_sy_arj_985850f0:
 
 
-    arj "Oh God, I'm cloooooose!"
+    arj "Oh Gott, ich bin sooooo nah dran!"
 
 
 translate deutsch e09s07_sex_sy_arj_9f469ae5:
 
 
-    mc "Fuuuuuh - me too!"
+    mc "Puh – ich auch!"
 
 
 translate deutsch e09s07_sex_sy_arj_82f02acf:
 
 
-    arj "Not yet! Stacy still needs her turn!"
+    arj "Noch nicht! Stacy ist noch dran!"
 
 
 translate deutsch e09s07_sex_sy_arj_d6d3ec26:
 
 
-    arj "Quick, get to fucking Stacy!"
+    arj "Schnell, hol Stacy!"
 
 
 translate deutsch e09s07_sex_sy_arj_4db03926:
 
 
-    mc "What about you?"
+    mc "Was ist mit dir?"
 
 
 translate deutsch e09s07_sex_sy_arj_2147ec0a:
 
 
-    arj "Mmmmm... Stacy has a job left to do."
+    arj "Mmmmm... Stacy hat noch eine Aufgabe zu erledigen."
 
 
 translate deutsch e09s07_sex_sy_arj_8d78e336:
 
 
-    sy "Mmmm... you sure are delicious tonight, AmRose."
+    sy "Mmmm... du bist heute Abend wirklich köstlich, AmRose."
 
 
 translate deutsch e09s07_sex_sy_arj_8c219cae:
 
 
-    arj "And you're being such a good girl licking my pussy. I figured you deserved a treat."
+    arj "Und du bist so ein braves Mädchen, wenn du meine Muschi leckst. Ich dachte mir, du hast dir eine Belohnung verdient."
 
 
 translate deutsch e09s07_sex_sy_arj_b13b386c:
@@ -2360,43 +2360,43 @@ translate deutsch e09s07_sex_sy_arj_b13b386c:
 translate deutsch e09s07_sex_sy_arj_079db906:
 
 
-    arj "The treat is me cumming all over your face."
+    arj "Die Belohnung ist, dass ich dir ins Gesicht spritze."
 
 
 translate deutsch e09s07_sex_sy_arj_5aeb39ae:
 
 
-    sy "Sounds {i}delicious!{/i}"
+    sy "Klingt {i}köstlich!{/i}"
 
 
 translate deutsch e09s07_sex_sy_arj_454754a8:
 
 
-    mc "Fuuuuuuuuuuck!"
+    mc "Verdammt noch mal!"
 
 
 translate deutsch e09s07_sex_sy_arj_6889ccfc:
 
 
-    arj "How is your sister's pussy?"
+    arj "Wie ist die Muschi deiner Schwester?"
 
 
 translate deutsch e09s07_sex_sy_arj_5fa43dad:
 
 
-    arj "How is Stacy's pussy?"
+    arj "Wie ist Stacys Muschi?"
 
 
 translate deutsch e09s07_sex_sy_arj_b0f777e7:
 
 
-    mc "Fuuuuuck, I'm going to cum so faaaaaast..."
+    mc "Verdammt, ich komme gleich so schnell..."
 
 
 translate deutsch e09s07_sex_sy_arj_5f38bbdd:
 
 
-    arj "I'm amazed you've lasted this long!"
+    arj "Ich bin erstaunt, dass du so lange durchgehalten hast!"
 
 
 translate deutsch e09s07_sex_sy_arj_8161f0e6:
@@ -2408,61 +2408,61 @@ translate deutsch e09s07_sex_sy_arj_8161f0e6:
 translate deutsch e09s07_sex_sy_arj_fc976266:
 
 
-    arj "Seems like all this fucking has finally melted your brain."
+    arj "Scheint so, als hätte all das Ficken endlich dein Gehirn zum Schmelzen gebracht."
 
 
 translate deutsch e09s07_sex_sy_arj_75daa811:
 
 
-    arj "Oh shit, Stacy! Oh shit, she's going to make me cuuuuuum!"
+    arj "Oh Scheiße, Stacy! Oh Scheiße, sie bringt mich zum Kommen!"
 
 
 translate deutsch e09s07_sex_sy_arj_ef54ec55:
 
 
-    mc "S-same! I'm - fuuuuuckinnnggggggg..."
+    mc "Genau! Ich bin – verdammt noch mal..."
 
 
 translate deutsch e09s07_sex_sy_arj_86aeda7e:
 
 
-    arj "Mmmmmm, [mcname], do it... Cum deep inside her!"
+    arj "Mmmmmm, [mcname], mach es... Spritz tief in sie hinein!"
 
 
 translate deutsch e09s07_sex_sy_arj_f19916cb:
 
 
-    mc "Oh God... Stacy... AmRose...!"
+    mc "Oh Gott... Stacy... AmRose...!"
 
 
 translate deutsch e09s07_sex_sy_arj_19356fe0:
 
 
-    arj "That's it - ohhhh shiiiiiiit, Stacy!"
+    arj "Das war's – ohhhh Scheiße, Stacy!"
 
 
 translate deutsch e09s07_sex_sy_arj_e807a672:
 
 
-    mc "I can feel her pussy getting tighter! I think - I think-!"
+    mc "Ich spüre, wie ihre Muschi enger wird! Ich glaube – ich glaube –!"
 
 
 translate deutsch e09s07_sex_sy_arj_38acfc5c:
 
 
-    arj "Fuuuuuck - let's all cum together! We can - oh God, Stacy! Juuuuust likkke- fuuuuuuck!"
+    arj "Verdammt – lass uns alle zusammen kommen! Wir können – oh Gott, Stacy! Genau so – verdammt!"
 
 
 translate deutsch e09s07_sex_sy_arj_d1dec9bf:
 
 
-    mc "Oh - oh God, I can't hold it back much longer!"
+    mc "Oh – oh Gott, ich kann es nicht mehr lange zurückhalten!"
 
 
 translate deutsch e09s07_sex_sy_arj_2e7ee41c:
 
 
-    arj "Do it, do it, do it!!!"
+    arj "Mach es, mach es, mach es!!!"
 
 
 translate deutsch e09s07_sex_sy_arj_cf27d213:
@@ -2474,49 +2474,49 @@ translate deutsch e09s07_sex_sy_arj_cf27d213:
 translate deutsch e09s07_sex_sy_arj_ec18537e:
 
 
-    sy "Oh fuck, oh fuuuuuuck!"
+    sy "Oh Scheiße, oh Scheiße!"
 
 
 translate deutsch e09s07_sex_sy_arj_99c5c814:
 
 
-    arj "Yesyesyesyesyes, YEESSSSS!"
+    arj "Ja, ja, ja, ja, ja, JAAAAAAA!"
 
 
 translate deutsch e09s07_sex_sy_arj_58b7c83e:
 
 
-    mc "OH grafffuucccsshhiiiittttt!"
+    mc "Oh, verdammt noch mal!"
 
 
 translate deutsch e09s07_sex_sy_arj_9131e067:
 
 
-    sy "Holy... shit... [mcname]... You filled me up."
+    sy "Heilige... Scheiße... [mcname]... Du hast mich vollgemacht."
 
 
 translate deutsch e09s07_sex_sy_arj_5704b2c9:
 
 
-    mc "Yeah... I did... Phew..."
+    mc "Ja... Ich habe es getan... Puh..."
 
 
 translate deutsch e09s07_sex_sy_arj_d17a047f:
 
 
-    sy "Jesus... it looks even bigger than it felt."
+    sy "Jesus... es sieht sogar noch größer aus, als es sich angefühlt hat."
 
 
 translate deutsch e09s07_sex_sy_arj_a7f6b10f:
 
 
-    arj "It does... It also looks scrumptious..."
+    arj "Ja, das tut es... Es sieht auch köstlich aus..."
 
 
 translate deutsch e09s07_sex_sy_arj_a29adba6:
 
 
-    sy "Does it now?"
+    sy "Ist das jetzt so?"
 
 
 translate deutsch e09s07_sex_sy_arj_eabdc057:
@@ -2528,109 +2528,109 @@ translate deutsch e09s07_sex_sy_arj_eabdc057:
 translate deutsch e09s07_sex_sy_arj_6bc899e9:
 
 
-    arj "Looks like the perfect post-orgasm snack, in fact."
+    arj "Das sieht tatsächlich nach dem perfekten Snack nach dem Orgasmus aus."
 
 
 translate deutsch e09s07_sex_sy_arj_950d3d10:
 
 
-    sy "Oh shiiiit - AmRose! I'm still sensi-"
+    sy "Oh Scheiße – AmRose! Ich bin immer noch sensibel..."
 
 
 translate deutsch e09s07_sex_sy_arj_428d5b00:
 
 
-    sy "Fuckfuckfuckfuckfucccccck! I'm cumming again!!!"
+    sy "Scheiße, Scheiße, Scheiße, Scheiße, Scheiße! Ich komme schon wieder!!!"
 
 
 translate deutsch e09s07_sex_sy_arj_971fcf33:
 
 
-    arj "I fucking love the taste of [mcname]'s cream in your pussy."
+    arj "Ich liebe den Geschmack von [mcname]s Sperma in deiner Muschi."
 
 
 translate deutsch e09s07_sex_sy_arj_a21ccc45:
 
 
-    arj "All right you two, we have a party to get back to and host!"
+    arj "Also gut, ihr beiden, wir müssen zurück zur Party und sie weiterfeiern!"
 
 
 translate deutsch e09s07_sex_sy_arj_295281bf:
 
 
-    sy "I need... a second..."
+    sy "Ich brauche... einen Moment..."
 
 
 translate deutsch e09s07_sex_sy_arj_ad1b22c2:
 
 
-    mc "Same..."
+    mc "Das Gleiche..."
 
 
 translate deutsch e09s07_sex_sy_arj_ca7c8482:
 
 
-    arj "I'll get you both some water, and your clothes."
+    arj "Ich hole euch beiden etwas Wasser und eure Kleidung."
 
 
 translate deutsch e09s07_part_4_861e3bb3:
 
 
-    lo "Well, if it isn't the man of the hour!"
+    lo "Na, wenn das nicht der Mann der Stunde ist!"
 
 
 translate deutsch e09s07_part_4_f1c9c6d5:
 
 
-    mc "Come on. You two were a big help with everything. We should be singing your praises."
+    mc "Komm schon. Ihr beiden wart eine große Hilfe bei allem. Wir sollten euch loben."
 
 
 translate deutsch e09s07_part_4_05c72cf3:
 
 
-    hr "Oh, please."
+    hr "Ach, bitte."
 
 
 translate deutsch e09s07_part_4_08b925da:
 
 
-    mc "Seriously, you two have both been a massive help. But, I have to ask, Hana..."
+    mc "Im Ernst, ihr beide wart mir eine große Hilfe. Aber ich muss dich etwas fragen, Hana..."
 
 
 translate deutsch e09s07_part_4_45db4fa9:
 
 
-    hr "Yes?"
+    hr "Ja?"
 
 
 translate deutsch e09s07_part_4_0f94330d:
 
 
-    mc "Everything seem above board tonight?"
+    mc "Ist heute Abend alles in Ordnung?"
 
 
 translate deutsch e09s07_part_4_f64482b9:
 
 
-    hr "Yes it did. Everything so far has seemed safe, private and secure."
+    hr "Ja, ist es. Bisher schien alles sicher, privat und geschützt zu sein."
 
 
 translate deutsch e09s07_part_4_0c054906:
 
 
-    mc "Phew."
+    mc "Puh."
 
 
 translate deutsch e09s07_part_4_e488e05f:
 
 
-    lo "Which brings it back to me."
+    lo "Das bringt mich wieder zurück zu mir selbst."
 
 
 translate deutsch e09s07_part_4_215c6d12:
 
 
-    mc "Oh yeah, you wanted to talk, right?"
+    mc "Ach ja, du wolltest doch reden, oder?"
 
 
 translate deutsch e09s07_part_4_31baa32b:
@@ -2642,13 +2642,13 @@ translate deutsch e09s07_part_4_31baa32b:
 translate deutsch e09s07_part_4_1431ea23:
 
 
-    mc "Well, what's up?"
+    mc "Na, was gibt's?"
 
 
 translate deutsch e09s07_part_4_79cb218a:
 
 
-    lo "I'm sold."
+    lo "Ich bin überzeugt."
 
 
 translate deutsch e09s07_part_4_05500ff6:
@@ -2660,129 +2660,129 @@ translate deutsch e09s07_part_4_05500ff6:
 translate deutsch e09s07_part_4_022c0d9f:
 
 
-    lo "I'm sold, on Fetish Locator Rebooted."
+    lo "Ich bin überzeugt von Fetish Locator Rebooted."
 
 
 translate deutsch e09s07_part_4_fe7c242f:
 
 
-    mc "What do you mean...?"
+    mc "Was meinst du damit...?"
 
 
 translate deutsch e09s07_part_4_e3d0358b:
 
 
-    hr "I told you that you would have to spell it out for him a bit more."
+    hr "Ich habe dir gesagt, dass du es ihm etwas genauer erklären musst."
 
 
 translate deutsch e09s07_part_4_4ac1b5e0:
 
 
-    lo "So, I go to a different college, and I think that it would be perfect for Fetish Locator Rebooted."
+    lo "Also gehe ich auf ein anderes College, und ich denke, dass es perfekt für Fetish Locator Rebooted wäre."
 
 
 translate deutsch e09s07_part_4_ea7dfe3c:
 
 
-    mc "Wait, are you saying-"
+    mc "Moment mal, willst du damit sagen, dass..."
 
 
 translate deutsch e09s07_part_4_bec5d7e5:
 
 
-    hr "Look, you're always going to be fighting Fetish Locator's reputation here, right? But new place, fresh start - it's perfect for what you're doing."
+    hr "Schau mal, du wirst hier immer gegen den Ruf von Fetish Locator ankämpfen müssen, oder? Aber ein neuer Ort, ein Neuanfang – das ist perfekt für das, was du machst."
 
 
 translate deutsch e09s07_part_4_ea7dfe3c_1:
 
 
-    mc "Wait, are you saying-"
+    mc "Moment mal, willst du damit sagen, dass..."
 
 
 translate deutsch e09s07_part_4_73466313:
 
 
-    lo "Yes, yes we are!"
+    lo "Ja, ja, das tun wir!"
 
 
 translate deutsch e09s07_part_4_61409f80:
 
 
-    mc "Oh, holy shit. But, I uhm, I don't..."
+    mc "Oh, verdammt noch mal. Aber, ich, ähm, ich weiß nicht..."
 
 
 translate deutsch e09s07_part_4_7023e871:
 
 
-    lo "And, we both have enough money to fund you."
+    lo "Und wir beide haben genug Geld, um dich zu finanzieren."
 
 
 translate deutsch e09s07_part_4_3879969a:
 
 
-    lo "For a further three years."
+    lo "Für weitere drei Jahre."
 
 
 translate deutsch e09s07_part_4_130dd2d6:
 
 
-    mc "I... Oh my God!"
+    mc "Ich... Oh mein Gott!"
 
 
 translate deutsch e09s07_part_4_1b7bb0b2:
 
 
-    mc "Uhm, yes! Hell yes! I, uhm - I need to tell AmRose! And Stacy!"
+    mc "Ähm, ja! Auf jeden Fall! Ich, ähm – ich muss es AmRose erzählen! Und Stacy!"
 
 
 translate deutsch e09s07_part_4_68bcca73:
 
 
-    lo "Go tell them, and let's set up a meeting, start getting everything figured out."
+    lo "Sag es ihnen und lass uns ein Treffen vereinbaren, damit wir alles klären können."
 
 
 translate deutsch e09s07_part_4_48a457e3:
 
 
-    mc "I will! I - oh God, Stacy! AmRose!"
+    mc "Ich werde es tun! Ich – oh Gott, Stacy! AmRose!"
 
 
 translate deutsch e09s07_part_4_8ae14c14:
 
 
-    hr "Are you sure about this?"
+    hr "Bist du dir da sicher?"
 
 
 translate deutsch e09s07_part_4_fe16c8b3:
 
 
-    lo "Were you at this party? I'm absolutely sure."
+    lo "Warst du auf dieser Party? Ich bin mir ganz sicher."
 
 
 translate deutsch e09s07_part_4_eea68890:
 
 
-    lo "I'm excited to see where this goes..."
+    lo "Ich bin gespannt, wie es weitergeht..."
 
 translate deutsch strings:
 
 
     old "I think I can find something a little extra"
-    new "I think I can find something a little extra"
+    new "Ich glaube, ich kann etwas Besonderes finden."
 
 
     old "I don't think I'm interested in that"
-    new "I don't think I'm interested in that"
+    new "Ich glaube nicht, dass mich das interessiert."
 
 
     old "Fuck Chloe"
-    new "Fuck Chloe"
+    new "Fick Chloe"
 
 
     old "Politely decline"
-    new "Politely decline"
+    new "Höflich ablehnen"
 
 
     old "You have finished playing Ending #09!"
-    new "You have finished playing Ending #09!"
+    new "Du hast das Ende Nr. 09 durchgespielt!"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

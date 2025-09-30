@@ -98,7 +98,7 @@ translate italian d17s06dw_23d25068:
 translate italian d17s06dw_cfb40a80:
 
 
-    mc "No, Mistress."
+    mc "No, Padrona."
 
 
 translate italian d17s06dw_f9699225:

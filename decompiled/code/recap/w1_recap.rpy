@@ -1,7 +1,5 @@
 
 
-image d03s03-phone-bg = im.Blur("Week-1/d03s02-80 mc-phone.webp", 2)
-image d03s08-31-empty-room-blured = im.Blur("Week-1/d03s08-31-empty-room.webp", 2)
 image d03s06b-a1-s1 = Movie(play = "images/Week-1/d03s06b-a1-s1.webm", start_image = "d03s06b-28 cam-2-mk-arj-fuck-me-3-phone")
 
 image d03s18-09-flash:
@@ -109,7 +107,7 @@ label week_1_recap:
     if d02s12_points == 12:
         scene s12-05 polly-bench-skirt
         "His advertisement brought him to Polly Wilson, who had something special planned."
-    scene d03s08-31-empty-room-blured
+    scene d03s08-31-empty-room at image_blur(7)
     show x-phone-background
     show d03s09-would-you-like-to-buy-it
     "[mcname] earned enough points for the ticket to the exclusive Fetish Locator Party hosted by Min."

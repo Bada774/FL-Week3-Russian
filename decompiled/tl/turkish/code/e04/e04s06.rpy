@@ -260,7 +260,7 @@ translate turkish e04s06_20e8b1a4:
 translate turkish e04s06_a25d8514:
 
 
-    "Ugh, hayır teşekkürler. {w} Zaten midem bulanıyor."
+    lc "Ugh, hayır teşekkürler. {w} Zaten midem bulanıyor."
 
 
 translate turkish e04s06_4ecdf47c:

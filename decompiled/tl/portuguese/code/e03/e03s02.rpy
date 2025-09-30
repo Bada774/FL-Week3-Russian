@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e03s02_76275066:
 
 

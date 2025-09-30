@@ -1051,10 +1051,6 @@ translate french strings:
     new "Va te faire foutre"
 
 
-
-translate french strings:
-
-
     old "How is Kevin involved in all this"
-    new "How is Kevin involved in all this"
+    new "Comment Kevin est-il impliqué dans tout ça ?"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

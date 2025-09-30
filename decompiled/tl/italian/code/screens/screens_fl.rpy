@@ -305,4 +305,18 @@ translate italian strings:
 
     old "{u}Get Taboo University Book 1 on Steam{/u}"
     new "{u}Get Taboo University Book 1 on Steam{/u}"
+
+translate italian strings:
+
+
+    old "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Get Taboo University Book 1 on GOG{/u}"
+
+
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Wishlist Fetish Locator: S&M Studio on GOG"
+
+
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Get Fetish Locator: S&M Studio on GOG"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -257,7 +257,6 @@ label e09s03:
     scene e09s03-62 rebuilding_the_brand_mc_talk_everyonen with dissolve
     play voice2 mc_surprised_uh1 noloop
     mc "Uh, what's our cheer?"
-
     play voice5 kanya_disappointed_hm noloop
     aw "Sexy times?"
     scene e09s03-64 rebuilding_the_brand_sy_talk with dissolve
@@ -752,17 +751,16 @@ label replay_e09s03 hide:
     pause
     scene e09s03-a169-2-f with dissolve
     play voice3 stacy_yes2 noloop
-    sy "Yes, it is. Now hurry and make Allison cum again so I can get a turn."
+    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
     mc "Haha. So greedy, Stacy."
     pause
     scene e09s03-a169-3-f with dissolve
     play voice3 stacy_arrogant_huh1 noloop
     sy "What?"
-    aw "No she's right. I can get so greedy."
-    aw "I almost want to tie them both up and have you ravish me for hours."
+    aw "*Giggles* She's right. I've been hogging you for a bit."
     pause
     scene e09s03-a169-4-f with dissolve
-    aw "So keep going, [mcname]. Fucking drill me until I faint."
+    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
     aw "Oouhaah... that's it."
     aw "I can't believe it."
     pause

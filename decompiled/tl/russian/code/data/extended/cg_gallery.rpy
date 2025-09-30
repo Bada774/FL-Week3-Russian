@@ -276,5 +276,5 @@ translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:137
     old "Ending 18: Four Beauties"
-    new "Концовка 18: Четыре Красавицы" 
+    new "Концовка 18: Четыре Красавицы"
 

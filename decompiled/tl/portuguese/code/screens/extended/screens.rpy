@@ -85,16 +85,22 @@ translate portuguese strings:
     new "Pegue o DLC contendo 6 finais de graça na Steam"
 
 
-
-translate portuguese strings:
-
-
     old "Buy Taboo University on Steam"
     new "Compre Taboo University na Steam"
-
-translate portuguese strings:
 
 
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Compre o DLC-2, contendo 6 finais adicionais na Steam"
+
+
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Adicione Fetish Locator: S&M Studio à sua lista de desejos na Steam"
+
+
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Adquira Fetish Locator: S&M Studio na Steam"
+
+
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "Assista ao trailer de Fetish Locator: S&M Studio"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

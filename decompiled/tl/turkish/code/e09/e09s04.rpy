@@ -662,7 +662,7 @@ translate turkish e09s04_3723ac23:
 translate turkish e09s04_c51e420a:
 
 
-    "Aman Tanrım, Hana-"
+    lo "Aman Tanrım, Hana-"
 
 
 translate turkish e09s04_3a9e7958:
@@ -776,7 +776,7 @@ translate turkish e09s04_7f5ba0a1:
 translate turkish e09s04_9b18bfa7:
 
 
-    "Ama zaten doğrulandılar ve onaylandılar. Umabileceği en iyi şey, kabul etmeyeceği bir savunma anlaşması. Sonra da mahkemeye çıkar."
+    hr "Ama zaten doğrulandılar ve onaylandılar. Umabileceği en iyi şey, kabul etmeyeceği bir savunma anlaşması. Sonra da mahkemeye çıkar."
 
 
 translate turkish e09s04_56c4239f:
@@ -1838,7 +1838,7 @@ translate turkish e09s04_2d629d3d:
 translate turkish e09s04_92ddbb63:
 
 
-    "Belki birazcık. {w} Şimdi hadi, [mcname], gösteri için hazırım!"
+    lo "Belki birazcık. {w} Şimdi hadi, [mcname], gösteri için hazırım!"
 
 
 translate turkish e09s04_49c39ad9:

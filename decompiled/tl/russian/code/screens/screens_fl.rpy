@@ -304,7 +304,7 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:1423
     old "Wishlist Fetish Locator: S&M Studio on GOG"
-    new "Добавте Fetish Locator: S&M Studio в список желаний GOG"
+    new "Добавить Fetish Locator: S&M Studio в список желаний GOG"
 
     # game/code/screens/screens_fl.rpy:1425
     old "Get Fetish Locator: S&M Studio on GOG"

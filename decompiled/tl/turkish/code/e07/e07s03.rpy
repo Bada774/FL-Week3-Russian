@@ -266,7 +266,7 @@ translate turkish e07s03_91e9dfa5:
 translate turkish e07s03_e76f6ed1:
 
 
-    mct "Evet. Kulağa harika geliyor. e07_lcname!t]'e ona ne kadar iyi hissettirebileceğimi göstermek için sabırsızlanıyorum."
+    mct "Evet. Kulağa harika geliyor. [e07_lcname!t]'e ona ne kadar iyi hissettirebileceğimi göstermek için sabırsızlanıyorum."
 
 
 translate turkish e07s03_5771f538:
@@ -1046,7 +1046,7 @@ translate turkish e07s03_give_all_d164d344:
 translate turkish e07s03_give_all_e4ae2fe4:
 
 
-    "Haydi. Hadi ama. Ben çok-"
+    lc "Haydi. Hadi ama. Ben çok-"
 
 
 translate turkish e07s03_give_all_527cec94:

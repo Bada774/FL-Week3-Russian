@@ -1157,8 +1157,6 @@ translate french replay_d17s08_55d60f89:
     mct "Oh, merde."
 
 
-
-
 translate french replay_d17s08_715b63e4:
 
 
@@ -1168,73 +1166,73 @@ translate french replay_d17s08_715b63e4:
 translate french replay_d17s08_cff9e1b2:
 
 
-    mc "OH FUCK YESSS"
+    mc "OH PUTAIN OUIII"
 
 
 translate french replay_d17s08_69bea1a5:
 
 
-    mc "That's-"
+    mc "C'est-"
 
 
 translate french replay_d17s08_8678e9c7:
 
 
-    mc "How did you get so good at that?"
+    mc "Comment es-tu devenu si doué pour ça ?"
 
 
 translate french replay_d17s08_0a7ca4c7:
 
 
-    mc "Research?"
+    mc "Des recherches ?"
 
 
 translate french replay_d17s08_7488ae3e:
 
 
-    mc "Oh yeah."
+    mc "Oh oui."
 
 
 translate french replay_d17s08_9270f444:
 
 
-    mc "You are incredible."
+    mc "Tu es incroyable."
 
 
 translate french replay_d17s08_386a2729:
 
 
-    sy "So, how's things?"
+    sy "Alors, comment ça va ?"
 
 
 translate french replay_d17s08_f10db3de:
 
 
-    sy "You own clothes, don't you?"
+    sy "Tu as des vêtements, non ?"
 
 
 translate french replay_d17s08_4d7f0c0b:
 
 
-    sy "I'm not complaining. I'm just saying, after Sunday..."
+    sy "Je ne me plains pas. Je dis juste, après dimanche..."
 
 
 translate french replay_d17s08_9af6b524:
 
 
-    sy "Are you even allowed to wear clothing in this house?"
+    sy "Tu as même le droit de porter des vêtements dans cette maison ?"
 
 
 translate french replay_d17s08_bddb1774:
 
 
-    mc "*mumbles* probably"
+    mc "*murmure* probablement"
 
 
 translate french replay_d17s08_afad4af1:
 
 
-    mc "So, when did you modify your phone to download data on-?"
+    mc "Alors, quand as-tu modifié ton téléphone pour télécharger des données sur-?"
 
 
 translate french replay_d17s08_ccdf5709:
@@ -1246,31 +1244,31 @@ translate french replay_d17s08_ccdf5709:
 translate french replay_d17s08_46a1f2b0:
 
 
-    mct "Oh, right. Fetish Locator might be listening."
+    mct "Ah, oui. Fetish Locator pourrait écouter."
 
 
 translate french replay_d17s08_5850c7f6:
 
 
-    mc "Right, that lost... dog. I didn't realize it had a name."
+    mc "Oui, ce chien perdu... Je ne savais pas qu'il avait un nom."
 
 
 translate french replay_d17s08_d289b245:
 
 
-    mc "So, is there any progress on finding... Mira?"
+    mc "Alors, y a-t-il des progrès dans la recherche de... Mira ?"
 
 
 translate french replay_d17s08_c7ca3906:
 
 
-    mc "That sounds nice."
+    mc "Ça a l'air sympa."
 
 
 translate french replay_d17s08_a1289911:
 
 
-    mc "Uh, sis. My girlfriend's coming this way."
+    mc "Euh, soeurette. Ma copine arrive par ici."
 
 
 translate french replay_d17s08_96f753dd:
@@ -1282,41 +1280,41 @@ translate french replay_d17s08_96f753dd:
 translate french replay_d17s08_2376c239:
 
 
-    lc "Oh good, you jerked off while I was in the shower."
+    lc "Ah, tu t'es masturbé pendant que j'étais sous la douche."
 
 
 translate french replay_d17s08_653e0ff8:
 
 
-    lc "Damn, you're so fucking sexy."
+    lc "Mince, tu es tellement sexy."
 
 
 translate french replay_d17s08_8280a992:
 
 
-    lc "Wow. You are so incredibly sexy right now."
+    lc "Waouh. Tu es incroyablement sexy en ce moment."
 
 
 translate french replay_d17s08_64559936:
 
 
-    mc "Too much time studying for finals?"
+    mc "Trop de temps à réviser pour les examens ?"
 
 
 translate french replay_d17s08_bac69fdd:
 
 
-    lc "Did you hear-?"
+    lc "Tu as entendu-?"
 
 
 translate french replay_d17s08_6195c941:
 
 
-    mc "I was just overwhelmed with the desire to kiss you."
+    mc "J'étais juste submergé par le désir de t'embrasser."
 
 
 translate french replay_d17s08_43ddfa89:
 
 
-    mc "So, you were telling me about your neighbor?"
+    mc "Alors, tu me parlais de ton voisin ?"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

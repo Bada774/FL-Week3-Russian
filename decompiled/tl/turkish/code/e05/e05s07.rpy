@@ -446,7 +446,7 @@ translate turkish e05s07_bar_5f099e7d:
 translate turkish e05s07_bar_89dd02a3:
 
 
-    "Ben mi? Ben hiçbir şey yapmayacağım. Ama bar sahibiyle iyi arkadaşım. Ve eğer bardan kovulmak ve yasaklanmak istemiyorsan, şimdi gitsen iyi olur."
+    mh "Ben mi? Ben hiçbir şey yapmayacağım. Ama bar sahibiyle iyi arkadaşım. Ve eğer bardan kovulmak ve yasaklanmak istemiyorsan, şimdi gitsen iyi olur."
 
 
 translate turkish e05s07_bar_04ff570a:
@@ -992,7 +992,7 @@ translate turkish e05s07_sex_328cb18b:
 translate turkish e05s07_sex_eb1c02e0:
 
 
-    mh "Oliver, biraz da bize sakla. mcname]'i boşaltmak için bolca vaktimiz var."
+    mh "Oliver, biraz da bize sakla. [mcname]'i boşaltmak için bolca vaktimiz var."
 
 
 translate turkish e05s07_sex_958a4dac:

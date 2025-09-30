@@ -291,4 +291,14 @@ translate french strings:
 
     old "{u}Get Taboo University Book 1 on GOG{/u}"
     new "{u}Obtenez le tome 1 de Taboo University sur GOG{/u}"
+
+translate french strings:
+
+
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Ajouter Fetish Locator : S&M Studio à la liste de souhaits sur GOG"
+
+
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Obtenir Fetish Locator : S&M Studio sur GOG"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -366,11 +366,11 @@ translate deutsch strings:
 translate deutsch e13s02_e5e5853b:
 
 
-    "Customer" "Aww, but..."
+    "Kunde" "Ach, aber..."
 
 
 translate deutsch replay_e13s02_e2a7aa61:
 
 
-    nk "Actually... You know what? Sit down."
+    nk "Eigentlich... Weißt du was? Setz dich."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

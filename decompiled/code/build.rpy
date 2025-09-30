@@ -66,7 +66,8 @@ init 1 python:
     build.classify("game/audio/**/unused/**"  , None)
 
 
-
+    build.classify("game/tl/malay/**"         , None)
+    build.classify("game/tl/korean/**"        , None)
 
 
     if not is_extended_edition:
@@ -105,7 +106,7 @@ init 1 python:
         
         
         if is_Walkthrough_DLC_included is True:
-            build.classify("game/**/hints.rpyc"   , "walkthrough_dlc")
+            build.classify("game/code/hints.rpyc"   , "walkthrough_dlc")
         else:
             build.classify("game/code/hints.rpyc"   , None)
         

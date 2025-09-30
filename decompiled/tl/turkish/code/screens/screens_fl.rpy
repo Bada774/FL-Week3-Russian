@@ -285,4 +285,18 @@ translate turkish strings:
 
     old "{u}Get Taboo University Book 1 on Steam{/u}"
     new "{u}Tabu Üniversitesi 1. Kitabı Steam'den Alın{/u}"
+
+translate turkish strings:
+
+
+    old "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Taboo University 1. Kitabı GOG'da edinin{/u}"
+
+
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Fetish Locator: S&M Studio'yu GOG'da istek listesine ekleyin"
+
+
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Fetish Locator: S&M Studio'yu GOG'da edinin"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

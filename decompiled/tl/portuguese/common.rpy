@@ -1379,4 +1379,18 @@ translate portuguese strings:
 
     old "Self-voicing support is limited when using a touch screen."
     new "Suporte da voz automática é limitado usando tela de toque."
+
+translate portuguese strings:
+
+
+    old "Translation identifier: [identifier]"
+    new "Translation identifier: [identifier]"
+
+
+    old " translates [tl.filename]:[tl.linenumber]"
+    new " translates [tl.filename]:[tl.linenumber]"
+
+
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Copied to clipboard.{/color}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

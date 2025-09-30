@@ -56,7 +56,6 @@ image e06s05-68-mes-caning-dd:
     pause 0.05
     "e06s05-68-1 mc-mes-dd-caning_c1" with Dissolve(0.2)
 
-
 label e06s05:
 
     $ e06s05_mes_1 = False

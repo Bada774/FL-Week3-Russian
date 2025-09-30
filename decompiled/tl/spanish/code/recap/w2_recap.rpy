@@ -140,7 +140,7 @@ translate spanish week_2_recap_4399dff1:
 translate spanish week_2_recap_c09ec016:
 
 
-    "mcname] exploró nuevas vías de placer e intentó chupar la polla de Lyssa."
+    "[mcname] exploró nuevas vías de placer e intentó chupar la polla de Lyssa."
 
 
 translate spanish week_2_recap_4cf74c55:

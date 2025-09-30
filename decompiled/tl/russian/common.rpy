@@ -1126,3 +1126,119 @@ translate russian strings:
     old "Parsing the script failed."
     new "Не удалось выполнить синтаксический анализ сценария."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2025-08-08 06:18
+
+translate russian strings:
+
+    # renpy/common/00accessibility.rpy:121
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new ""
+
+    # renpy/common/00accessibility.rpy:198
+    old "Self-voicing support is limited when using a touch screen."
+    new ""
+
+    # renpy/common/00director.rpy:1777
+    old "Customize director.transforms to add more transforms."
+    new ""
+
+    # renpy/common/00director.rpy:1822
+    old "Click to set."
+    new ""
+
+    # renpy/common/00director.rpy:1823
+    old "Customize director.transitions to add more transitions."
+    new ""
+
+    # renpy/common/00director.rpy:1846
+    old "Customize director.audio_channels to add more channels."
+    new ""
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new ""
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing enable"
+    new ""
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing disable"
+    new ""
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing enable"
+    new ""
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing disable"
+    new ""
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing enable"
+    new ""
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing disable"
+    new ""
+
+    # renpy/common/00preferences.rpy:588
+    old "restore window position"
+    new ""
+
+    # renpy/common/00preferences.rpy:597
+    old "reset"
+    new ""
+
+    # renpy/common/00speechbubble.rpy:432
+    old "(clear retained bubbles)"
+    new ""
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new ""
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new ""
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new ""
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new ""
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new ""
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new ""
+
+    # renpy/common/00updater.rpy:2080
+    old "Preparing to download the game data."
+    new ""
+
+    # renpy/common/00updater.rpy:2082
+    old "Downloading the game data."
+    new ""
+
+    # renpy/common/00updater.rpy:2084
+    old "The game data has been downloaded."
+    new ""
+
+    # renpy/common/00updater.rpy:2086
+    old "An error occured when trying to download game data:"
+    new ""
+
+    # renpy/common/00updater.rpy:2091
+    old "This game cannot be run until the game data has been downloaded."
+    new ""
+
+    # renpy/common/00updater.rpy:2098
+    old "Retry"
+    new ""
+

@@ -500,7 +500,7 @@ translate turkish replay_e17s03_ec3bd47f:
 translate turkish replay_e17s03_748a17f5:
 
 
-    "Beni tanımıyorsun! Benim, bizim, bizim neye sahip olduğumuzu bilmiyorsun."
+    dw "Beni tanımıyorsun! Benim, bizim, bizim neye sahip olduğumuzu bilmiyorsun."
 
 
 translate turkish replay_e17s03_ba07f164:

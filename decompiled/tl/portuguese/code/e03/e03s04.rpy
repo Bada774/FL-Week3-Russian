@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e03s04_3399e772:
 
 

@@ -87,8 +87,6 @@ init -1 style frame:
 
 
 
-
-
 init -501 screen say(who, what):
     style_prefix "say"
 
@@ -194,7 +192,6 @@ init -1 style input:
 
 
 
-
 init -501 screen choice(items):
 
     style_prefix "choice"
@@ -241,7 +238,6 @@ init -1 style choice_button_text is default:
 
 
 
-
 init -501 screen quick_menu():
 
     zorder 100
@@ -266,7 +262,6 @@ init -501 screen quick_menu():
             textbutton _("Q.Load") action QuickLoad()
             textbutton _("Prefs") action ShowMenu('preferences')
 
-
 init -1 python:
     config.overlay_screens.append("quick_menu")
 
@@ -280,7 +275,6 @@ init -1 style quick_button:
 
 init -1 style quick_button_text:
     properties gui.button_text_properties("quick_button")
-
 
 
 
@@ -605,7 +599,6 @@ init -501 screen game_menu(title, scroll=None, yinitial=0.0):
     if main_menu:
         key "game_menu" action ShowMenu("main_menu")
 
-
 init -1 style game_menu_outer_frame is empty
 init -1 style game_menu_navigation_frame is empty
 init -1 style game_menu_content_frame is empty
@@ -828,7 +821,6 @@ init -1 style about_label_text:
 
 
 
-
 default -1 persistent.save_name_prompt = True
 
 init -501 screen save():
@@ -836,7 +828,6 @@ init -501 screen save():
 
 
     use file_slots(_("Save"), "save")
-
 
 init -501 screen load():
     tag menu
@@ -1000,7 +991,6 @@ init -1 style slot_button_text:
 
 
 
-
 init -501 screen preferences():
     tag menu
 
@@ -1035,7 +1025,7 @@ init -501 screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                if is_antagonist_mode is True:
+                if is_taboo_edition is True:
                     vbox:
                         style_prefix "radio"
                         label _("Taboo Mode")
@@ -1088,7 +1078,6 @@ init -501 screen preferences():
 
                             if config.sample_sound:
                                 textbutton _("Test") action Play("sound", config.sample_sound)
-
 
                     if config.has_voice and is_extended_edition:
                         label _("Voice Volume")
@@ -1201,7 +1190,6 @@ init -1 style lovense_pref_button_text:
 
 
 
-
 init -501 screen history():
     tag menu
 
@@ -1234,7 +1222,6 @@ init -501 screen history():
 
         if not _history_list:
             label _("The dialogue history is empty.")
-
 
 define -1 gui.history_allow_tags = set()
 
@@ -1312,7 +1299,6 @@ init -501 screen help():
             elif device == "gamepad":
                 use gamepad_help
 
-
 init -501 screen keyboard_help():
 
     hbox:
@@ -1359,7 +1345,6 @@ init -501 screen keyboard_help():
         label "V"
         text _("Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}.")
 
-
 init -501 screen mouse_help():
 
     hbox:
@@ -1382,7 +1367,6 @@ init -501 screen mouse_help():
         label _("Mouse Wheel Down")
         text _("Rolls forward to later dialogue.")
 
-
 init -501 screen gamepad_help():
 
     hbox:
@@ -1397,7 +1381,6 @@ init -501 screen gamepad_help():
         label _("Right Shoulder")
         text _("Rolls forward to later dialogue.")
 
-
     hbox:
         label _("D-Pad, Sticks")
         text _("Navigate the interface.")
@@ -1411,7 +1394,6 @@ init -501 screen gamepad_help():
         text _("Hides the user interface.")
 
     textbutton _("Calibrate") action GamepadCalibrate()
-
 
 init -1 style help_button is gui_button
 init -1 style help_button_text is gui_button_text
@@ -1436,8 +1418,6 @@ init -1 style help_label_text:
     size gui.text_size
     xalign 1.0
     text_align 1.0
-
-
 
 
 
@@ -1482,7 +1462,6 @@ init -501 screen confirm(message, yes_action, no_action):
 
     key "game_menu" action no_action
 
-
 init -1 style confirm_frame is gui_frame
 init -1 style confirm_prompt is gui_prompt
 init -1 style confirm_prompt_text is gui_prompt_text
@@ -1514,7 +1493,6 @@ init -1 style confirm_button_text:
 
 
 
-
 init -501 screen skip_indicator():
 
     zorder 100
@@ -1531,7 +1509,6 @@ init -501 screen skip_indicator():
         text "▸" at delayed_blink(0.2, 1.0) style "skip_triangle"
         text "▸" at delayed_blink(0.4, 1.0) style "skip_triangle"
 
-
 transform -1 delayed_blink(delay, cycle):
     alpha .5
 
@@ -1543,7 +1520,6 @@ transform -1 delayed_blink(delay, cycle):
         linear .2 alpha 0.5
         pause (cycle - .4)
         repeat
-
 
 init -1 style skip_frame is empty
 init -1 style skip_text is gui_text
@@ -1567,7 +1543,6 @@ init -1 style skip_triangle:
 
 
 
-
 default -1 notify_timeout = True
 
 init -501 screen notify(message):
@@ -1581,14 +1556,12 @@ init -501 screen notify(message):
     if notify_timeout is True:
         timer 3 action Hide('notify')
 
-
 transform -1 notify_appear:
     on show:
         ypos -100
         easein 0.25 ypos 20
     on hide:
         easein 0.25 ypos -100
-
 
 init -1 style notify_frame is empty
 init -1 style notify_text is gui_text
@@ -1601,8 +1574,6 @@ init -1 style notify_frame:
 
 init -1 style notify_text:
     properties gui.text_properties("notify")
-
-
 
 
 
@@ -1638,7 +1609,6 @@ init -501 screen nvl(dialogue, items=None):
 
     add SideImage() xalign 0.0 yalign 1.0
 
-
 init -501 screen nvl_dialogue(dialogue):
 
     for d in dialogue:
@@ -1656,7 +1626,6 @@ init -501 screen nvl_dialogue(dialogue):
 
             text d.what:
                 id d.what_id
-
 
 define -1 config.nvl_list_length = gui.nvl_list_length
 

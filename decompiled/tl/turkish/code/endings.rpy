@@ -1,39 +1,3 @@
-
-translate turkish ending_not_available_f3f9fce0:
-
-
-    "Bu hikaye yolunun şu anki sonuna ulaştınız. Bu son, gelecekte ücretsiz DLC olarak uygulanacaktır."
-
-
-translate turkish ending_not_available_2ad33c15:
-
-
-    "Bu hikaye yolunun şu anki sonuna ulaştınız. Bu son, gelecekte DLC olarak uygulanacaktır."
-
-
-translate turkish ending_not_available_eb531d10:
-
-
-    "Fetish Locator ile ilgili tüm haberlerden haberdar olmak için Steam Sayfamızı takip ettiğinizden emin olun."
-
-
-translate turkish ending_not_available_7495b934:
-
-
-    "Bu hikaye yolunun şu anki sonuna ulaştınız. Bu son gelecekte uygulanacaktır."
-
-
-translate turkish ending_not_available_4bc3c22a:
-
-
-    "Haberlerden haberdar olmak için Patreon'umuzu takip ettiğinizden emin olun."
-
-
-translate turkish ending_not_available_0b50ab45:
-
-
-    "Bu son tam olarak uygulanmasa da tamamlanmış ve keşfedilmeye hazır altı son daha var."
-
 translate turkish strings:
 
 
@@ -83,4 +47,28 @@ translate turkish strings:
 
     old "Ending #18\nQuartet"
     new "Bitiş #18\nDörtlüsü"
+
+
+translate turkish ending_not_available_9dcfd841:
+
+
+    "Bu hikaye yolunun şu anki sonuna ulaştınız."
+
+
+translate turkish ending_not_available_889ce1af:
+
+
+    "Bu bitiş ücretsiz bir DLC olarak mevcuttur."
+
+
+translate turkish ending_not_available_8fd50248:
+
+
+    "Bu bitiş ücretli bir DLC olarak mevcuttur."
+
+
+translate turkish ending_not_available_fd68c670:
+
+
+    "Bu son Patreon'umuzda mevcut."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

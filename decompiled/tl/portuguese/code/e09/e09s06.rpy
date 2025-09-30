@@ -1,6 +1,4 @@
 
-
-
 translate portuguese e09s06_7d2dfb04:
 
 

@@ -878,7 +878,7 @@ translate turkish e07s01_after_choice_6a774ca7:
 translate turkish e07s01_after_choice_eb92357b:
 
 
-    lc "Bu çok hoş. mcname]'in aşağılanmasını görmek asla eskimeyecek."
+    lc "Bu çok hoş. [mcname]'in aşağılanmasını görmek asla eskimeyecek."
 
 
 translate turkish e07s01_after_choice_4d026ffd:
@@ -938,7 +938,7 @@ translate turkish e07s01_after_choice_23a19793:
 translate turkish e07s01_after_choice_744694fb:
 
 
-    "Bir sonraki orgazmı dışında kimseyi ya da hiçbir şeyi umursamıyor. {w} Bu çok kolay olacak."
+    lc "Bir sonraki orgazmı dışında kimseyi ya da hiçbir şeyi umursamıyor. {w} Bu çok kolay olacak."
 
 
 translate turkish e07s01_after_choice_ea67943c:

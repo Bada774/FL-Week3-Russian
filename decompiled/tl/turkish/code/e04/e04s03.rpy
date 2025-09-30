@@ -674,7 +674,7 @@ translate turkish e04s03_bring_lc_411fd902:
 translate turkish e04s03_bring_lc_7c3b0c51:
 
 
-    "Ne? Hayır. Ama seni pişman edeceğim-"
+    lc "Ne? Hayır. Ama seni pişman edeceğim-"
 
 
 translate turkish e04s03_bring_lc_1bdb7bbd:

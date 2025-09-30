@@ -236,7 +236,7 @@ translate chinese e09s06_2606b50a:
 translate chinese e09s06_aeb80a67:
 
 
-    ah "听起来不错，谢啦mcname]！"
+    ah "听起来不错，谢啦，[mcname]！"
 
 
 translate chinese e09s06_f6496e84:

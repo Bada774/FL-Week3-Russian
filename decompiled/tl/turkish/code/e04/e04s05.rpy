@@ -158,7 +158,7 @@ translate turkish e04s05_3c17ca1e:
 translate turkish e04s05_d90df29c:
 
 
-    "Bu konuda ağzını sıkı tutuyordu. Bunun \"cezanın yenilikçi bir biçimi\" olduğunu ve elinden geldiğince bundan uzak durmaya çalıştığını söyledi. \"Bazı şeylerin bilinmemesi daha iyidir\" gibi bir şeyler söyledi."
+    mh "Bu konuda ağzını sıkı tutuyordu. Bunun \"cezanın yenilikçi bir biçimi\" olduğunu ve elinden geldiğince bundan uzak durmaya çalıştığını söyledi. \"Bazı şeylerin bilinmemesi daha iyidir\" gibi bir şeyler söyledi."
 
 
 translate turkish e04s05_6cdb1425:

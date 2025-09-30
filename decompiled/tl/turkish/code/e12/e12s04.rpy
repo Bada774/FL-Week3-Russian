@@ -356,7 +356,7 @@ translate turkish e12s04_66d45bc4:
 translate turkish e12s04_d9b68d4f:
 
 
-    "Her şey yoluna girecek Vanessa. Sanırım bu onun için çok fazla. Gidip onunla konuşayım ve neler olduğuna bakayım, tamam mı?"
+    mc "Her şey yoluna girecek Vanessa. Sanırım bu onun için çok fazla. Gidip onunla konuşayım ve neler olduğuna bakayım, tamam mı?"
 
 
 translate turkish e12s04_da68eeef:
@@ -530,7 +530,7 @@ translate turkish e12s04_37db77d0:
 translate turkish e12s04_5e964e85:
 
 
-    "Yani, neden birlikte hamile kalmayalım ki? Döngülerimiz senkronize, çılgınca seks yapıyoruz. Bir gün bunun hayalini kurmaya başladım ve..."
+    aw "Yani, neden birlikte hamile kalmayalım ki? Döngülerimiz senkronize, çılgınca seks yapıyoruz. Bir gün bunun hayalini kurmaya başladım ve..."
 
 
 translate turkish e12s04_85466adc:

@@ -84,7 +84,7 @@ translate russian strings:
 
 
     old "Wishlist Taboo University in Steam"
-    new "Добавте Taboo University в список желаний Steam"
+    new "Добавить Taboo University в список желаний Steam"
 
 
     old "Try our new game Taboo University"
@@ -96,7 +96,7 @@ translate russian strings:
 
 
     old "Wishlist Taboo University on Steam"
-    new "Добавте Taboo University в список желаний Steam"
+    new "Добавить Taboo University в список желаний Steam"
 
 
     old "Get free DLC containing 6 endings from Steam"
@@ -132,7 +132,7 @@ translate russian strings:
 
     # game/code/screens/extended/screens.rpy:236
     old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Добавте Fetish Locator: S&M Studio в список желаний Steam"
+    new "Добавить Fetish Locator: S&M Studio в список желаний Steam"
 
     # game/code/screens/extended/screens.rpy:238
     old "Get Fetish Locator: S&M Studio on Steam"
