@@ -10,6 +10,15 @@
 
 <h3 align="center"><b><a href="https://github.com/Bada774/FL-Week3-Russian/releases/latest">Скачать последний релиз</a></b></h3>
 
+<h4 align="center">Ссылки на архив с комиксом:</h4>
+<p align="center"><a align="center" href="https://drive.google.com/file/d/1IOk_opSxM1vHcyj1nwNlrBptN1Hi-_p_/view?usp=drive_link">Google Диск</a></p>
+
+<p align="center"><a align="center" href="https://mega.nz/file/Z4hTmY6Y#8KglOISU6Ku_QmPCDBdU1pWcLjj9KF_6xWFF9RSQi08">Mega</a></p>
+
+<p align="center"><a align="center" href="https://1024terabox.com/s/15Dq2E2KXS0PkX8wSVcJF-Q">TeraBox</a></p>
+
+---
+
 <h4 align="center"><b><a href="https://github.com/Bada774/FL-Week3-Russian/releases/">Все версии</a></b></h4>
 
 ---
@@ -23,9 +32,10 @@
 > <h4 align="center">При обновлении игры в Steam перевод может сломать игру. Это не обязательно, но возможно. Перед игрой убедитесь, что уже есть новая версия локализации и Вы скачали именно её.</h3>
 
 <ol>
-    <li>Скачать архив <b><i>scripts.zip</i></b></li>
+    <li>Скачать архив <b><i>scripts.zip</i></b> и файл <i>comics_ru.rpa (опционально)</i></li>
     <li>Открыть локальное расположение игры</li>
-    <li>Содержимое архива <i>(scripts.rpa)</i> с заменой переместить по пути в <b><i>"путь\к\игре\game"</i></b>
+    <li>Содержимое архива <i>(scripts.rpa)</i> с заменой переместить по пути <b><i>"путь\к\игре\game"</i></b>
+    <li>Положить файл <i>comics_ru.rpa</i> по пути b><i>"путь\к\игре\game"</i></b>
     <li>Запустить игру</li>
     <li>В игре зайти в меню "Language"/"Choose Language" и выбрать русский</li>
     <li>Играть</li>
