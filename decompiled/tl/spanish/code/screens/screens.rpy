@@ -352,8 +352,6 @@ translate spanish strings:
     old "Menu"
     new "Menú"
 
-translate spanish strings:
-
 
     old "Ren'Py Save Sync"
     new "Sincronización del archivo de guardado de Ren'Py"
@@ -361,4 +359,8 @@ translate spanish strings:
 
     old "Dialogue Box Opacity"
     new "Opacidad del cuadro de diálogo"
+
+
+    old "Comic Books"
+    new "Cómics"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

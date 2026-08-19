@@ -65,44 +65,18 @@ translate turkish strings:
     new "BONUS İÇERİK"
 
 
-    old "Wishlist Taboo University on Steam"
-    new "İstek Listesi Taboo University Steam'de"
-
-
     old "Get a Lovense toy"
     new "Aşk oyuncağı al"
-
-
-    old "Try our new game Taboo University"
-    new "Yeni oyunumuz Tabu Üniversitesi'ni deneyin"
 
 
     old "Get free DLC containing 6 endings from Steam"
     new "Steam'den 6 son içeren ücretsiz DLC alın"
 
-translate turkish strings:
-
-
-    old "Buy Taboo University on Steam"
-    new "Taboo University ürününü Steam'den satın alın"
-
-translate turkish strings:
-
 
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Steam'den 6 ek son içeren DLC-2'yi edinin"
 
-translate turkish strings:
 
-
-    old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Fetish Locator: S&M Studio'yu Steam'de istek listesine ekleyin"
-
-
-    old "Get Fetish Locator: S&M Studio on Steam"
-    new "Fetish Locator: S&M Studio'yu Steam'de edinin"
-
-
-    old "Watch Fetish Locator: S&M Studio trailer"
-    new "Fetish Locator: S&M Studio fragmanını izleyin"
+    old "COMIC BOOKS"
+    new "ÇİZGİ ROMANLAR"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -228,19 +228,10 @@ label d19s05_minigame:
     $ d19s05_score_multiplier = 1.0
     $ d19s05_difficulty = 0.5
     $ d19s05_player_hp = 3
+    $ d19s05_win = False
     $ d19s05_speed_multiplier = [8.0, 6.0, 5.5, 5.0, 4.5, 4.0, 3.0, 2.5, 2.0, 2.0, 1.5, 1.5]
     $ d19s05_step = 0
-    $ d19s05_icons_list = [
-            clicker_projectile("minigame_icon_0", 1.0),
-            clicker_projectile("minigame_icon_1", 1.0),
-            clicker_projectile("minigame_icon_2", 1.0),
-            clicker_projectile("minigame_icon_3", 1.0),
-            clicker_projectile("minigame_icon_4", 1.0),
-            clicker_projectile("minigame_icon_5", 1.0),
-            clicker_projectile("minigame_icon_6", 1.0),
-            clicker_projectile("minigame_icon_7", 1.0),
-            clicker_projectile("minigame_icon_8", 1.0),
-            ]
+    $ d19s05_cdd.reset()
 
     $ quick_menu = False
     call hide_fl_points_overlay () from _call_hide_fl_points_overlay_4
@@ -256,21 +247,35 @@ label d19s05_minigame:
     $ renpy.music.set_volume(0.0, 0.6, "music")
     $ renpy.music.set_volume(1.0, 0.0, "music2")
 
+
+    $ renpy.start_predict(*["minigame_icon_{}".format(i) for i in range(9)])
+    $ renpy.start_predict(*["images/Day-19/s05/minigame/minigame_mask_{}.webp".format(i) for i in range(9)])
+    $ renpy.start_predict("images/Day-19/s05/minigame/minigame_heart_icon.webp", "images/Day-19/s05/minigame/minigame_no_heart_icon.webp", "images/Day-19/s05/minigame/minigame_clock_icon.webp", "images/Day-19/s05/minigame/minigame_low_hp.webp")
+
     $ renpy.block_rollback()
     play music2 blitz_soundtrack_warmup
     scene d19s05_minigame_mc_expression_change
     call screen minigame_screen()
+    $ d19s05_cdd.sync_to_store()
+    $ renpy.stop_predict(*["minigame_icon_{}".format(i) for i in range(9)])
+    $ renpy.stop_predict(*["images/Day-19/s05/minigame/minigame_mask_{}.webp".format(i) for i in range(9)])
+    $ renpy.stop_predict("images/Day-19/s05/minigame/minigame_heart_icon.webp", "images/Day-19/s05/minigame/minigame_no_heart_icon.webp", "images/Day-19/s05/minigame/minigame_clock_icon.webp", "images/Day-19/s05/minigame/minigame_low_hp.webp")
 
     jump d19s05_after_minigame
 
 label d19s05_skip_minigame:
+    $ d19s05_cdd.player_hp = 0
+    $ d19s05_cdd.stop()
     $ d19s05_player_hp = 0
     $ d19s05_skip_minigame = True
+    $ d19s05_win = False
 
     jump d19s05_after_minigame
 
 label d19s05_after_minigame:
 
+    $ d19s05_cdd.sync_to_store()
+    $ d19s05_cdd.stop()
     $ quick_menu = True
     $ preferences.gl_powersave = True
     call show_fl_points_overlay () from _call_show_fl_points_overlay_2
@@ -280,6 +285,8 @@ label d19s05_after_minigame:
     stop music2 fadeout 1.4
     if d19s05_player_hp > 0:
         $ d19s05_win = True
+    else:
+        $ d19s05_win = False
     if d19s05_skip_minigame is False:
         $ renpy.notify(_("Your total score is {}").format(d19s05_minigame_score))
         if persistent.minigame_max_score < d19s05_minigame_score:

@@ -1157,3 +1157,335 @@ translate russian strings:
     old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
     new "Это плохо для дела Лидии. Возможно, Вы сможете наказать её самостоятельно. Необходимо для концовки #04."
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-08-11 14:12
+
+translate russian strings:
+
+    # game/code/hints.rpy:5
+    old "Lose option for Polly & Nora Threesome ending."
+    new "Проигрышный вариант для концовки с тройничком с Полли & Норой."
+
+    # game/code/hints.rpy:5
+    old "Increases chance of Polly & Nora Threesome ending."
+    new "Увеличивает шанс концовки с тройничком с Полли & Норой."
+
+    # game/code/hints.rpy:5
+    old "This option skips the blowjob scene. Scene goes to indoors."
+    new "Эта опция пропускает сцену минета. Сцена переходит в помещение."
+
+    # game/code/hints.rpy:5
+    old "Lyssa will fuck you in the ass."
+    new "Лисса трахнет Вас в задницу."
+
+    # game/code/hints.rpy:5
+    old "Lyssa will not fuck you in the ass."
+    new "Лисса не будет трахать Вас в задницу."
+
+    # game/code/hints.rpy:5
+    old "Watersports scene with Lyssa."
+    new "Сцена с водными видами спорта с Лиссой."
+
+    # game/code/hints.rpy:5
+    old "This will skip the watersports scene with Lyssa."
+    new "Эта опция пропустит сцену с водными видами спорта с Лиссой."
+
+    # game/code/hints.rpy:5
+    old "Keep your name as it is."
+    new "Оставить своё имя как есть."
+
+    # game/code/hints.rpy:5
+    old "Change your name to \"Warden\"."
+    new "Сменить своё имя на \"Надзиратель\""
+
+    # game/code/hints.rpy:5
+    old "Enter your own name."
+    new "Ввести своё имя."
+
+    # game/code/hints.rpy:5
+    old "Order Lydia to get started sucking cock."
+    new "Приказать Лидии начать сосать член."
+
+    # game/code/hints.rpy:5
+    old "Take Lydia home without making her work at the gloryhole."
+    new "Отвезти Лидию домой, не заставляя её работать в глорихоле."
+
+    # game/code/hints.rpy:5
+    old "And they lived happily ever after."
+    new "И жили они долго и счастливо."
+
+    # game/code/hints.rpy:5
+    old "Even a favorite toy is only happy when someone plays with it."
+    new "Даже самая любимая игрушка счастлива только тогда, когда с ней кто-то играет."
+
+    # game/code/hints.rpy:5
+    old "Annihilate the last threads of Lydia's existence."
+    new "Уничтожить последние доказательства существования Лидии."
+
+    # game/code/hints.rpy:5
+    old "You take Oliver's anal virginity."
+    new "Вы заберёте анальную девственность Оливера."
+
+    # game/code/hints.rpy:5
+    old "Lyssa takes Oliver's anal virginity."
+    new "Лисса заберёт анальную девственность Оливера."
+
+    # game/code/hints.rpy:5
+    old "Oliver will felch out his own cum."
+    new "Оливер выпустит свою сперму."
+
+    # game/code/hints.rpy:5
+    old "Oliver will lick up his own cum."
+    new "Оливер слижет свою сперму."
+
+    # game/code/hints.rpy:5
+    old "You eat the cum off Oliver's face."
+    new "Вы слижете сперму с лица Оливера."
+
+    # game/code/hints.rpy:5
+    old "You don't eat the cum off Oliver's face."
+    new "Вы не будете слизывать сперму с лица Оливера."
+
+    # game/code/hints.rpy:5
+    old "Might affect dialogue and nicknames for this ending."
+    new "Может повлиять на диалоги и прозвища в этой концовке."
+
+    # game/code/hints.rpy:5
+    old "Uses default dialogue and nicknames for this ending."
+    new "В этой концовке будут использоваться стандартные диалоги и прозвища."
+
+    # game/code/hints.rpy:5
+    old "Might impact dialogue and nicknames for this ending."
+    new "Может повлиять на диалоги и прозвища в этой концовке."
+
+    # game/code/hints.rpy:5
+    old "Surrender and get kicked out of Lydia's home."
+    new "Вы сдадитесь и Вас вышвырнут из дома Лидии."
+
+    # game/code/hints.rpy:5
+    old "Drink your full and continue Lydia's contest."
+    new "Выпить и продолжить состязание Лидии."
+
+    # game/code/hints.rpy:5
+    old "This is some scary shit."
+    new "Это какое-то очень страшное дерьмо."
+
+    # game/code/hints.rpy:5
+    old "Whatever Lydia wants, I'll give it to her."
+    new "Чтобы Лидия не пожелала, я ей это дам."
+
+    # game/code/hints.rpy:5
+    old "Slow and steady loses the race this time."
+    new "На этот раз, медленно и уверенно гонку не выиграет."
+
+    # game/code/hints.rpy:5
+    old "Give 110 percent and win the match."
+    new "Выложится на 110%% и выиграть."
+
+    # game/code/hints.rpy:5
+    old "Be prepared for the challenge, and improve your chances of winning."
+    new "Приготовьтесь к настоящему испытанию и улучшите свои шансы на победу."
+
+    # game/code/hints.rpy:5
+    old "Maybe she'll choose someone else, take the risk of not being ready."
+    new "Может она выберет кого-то другого, рискните не проявить готовность."
+
+    # game/code/hints.rpy:5
+    old "What could be waiting for you?"
+    new "Что же может Вас ждать?"
+
+    # game/code/hints.rpy:5
+    old "What's she got planned next?"
+    new "Что же она приготовила дальше?"
+
+    # game/code/hints.rpy:5
+    old "What's in store for you now?"
+    new "Что же Вас ждёт теперь?"
+
+    # game/code/hints.rpy:5
+    old "Disobey Lydia and lose the challenge."
+    new "Не подчиниться Лидии и проиграть испытание."
+
+    # game/code/hints.rpy:5
+    old "Prove your devotion to Lydia and win the challenge."
+    new "Показать Лидии свою преданность и выиграть испытание."
+
+    # game/code/hints.rpy:5
+    old "Disappoint Lydia and be the loser."
+    new "Разочаровать Лидию и остаться лузером."
+
+    # game/code/hints.rpy:5
+    old "Stick your finger in Pete's ass and win the gloryhole challenge."
+    new "Засунуть палец в задницу Пита и выиграть испытание в глорихоле."
+
+    # game/code/hints.rpy:5
+    old "Do your best, but eventually lose the gloryhole challenge."
+    new "Сделать всё возможное, но в конечном итоге проиграть испытание в глорихоле."
+
+    # game/code/hints.rpy:5
+    old "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
+    new "Вы увидите, как Пит кончает в Лидию и АмРоуз, а затем Джером сделает Вам вазэктомию."
+
+    # game/code/hints.rpy:5
+    old "Refuse to see this ending to its proper conclusion"
+    new "Отказаться от этой концовки до её логического завершения."
+
+    # game/code/hints.rpy:5
+    old "Slurp out Pete's cum from inside Am-Rose' pussy."
+    new "Вылизать сперму Пита из вагины АмРоуз."
+
+    # game/code/hints.rpy:5
+    old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
+    new "Отказаться вылизывать сперму Пита из вагины АмРоуз."
+
+    # game/code/hints.rpy:5
+    old "You and Allison fuck the Judge."
+    new "Вы с Эллисон трахнетесь с Судьей."
+
+    # game/code/hints.rpy:5
+    old "You don't fuck the Judge."
+    new "Вы не трахаетесь с Судьей."
+
+    # game/code/hints.rpy:5
+    old "Make Daisy say what she wants."
+    new "Позволить Дейзи сказать, чего она хочет."
+
+    # game/code/hints.rpy:5
+    old "Give Daisy what she wants."
+    new "Дать Дейзи то, чего она хочет."
+
+    # game/code/hints.rpy:5
+    old "You will end up fucking Vanessa in the asshole."
+    new "В конечном итоге Вы трахнете Ванессу в задницу."
+
+    # game/code/hints.rpy:5
+    old "You will skip to the blowjob."
+    new "Вы пропустите сцену минета."
+
+    # game/code/hints.rpy:5
+    old "Vanessa gets you nice and hard with her lovely feet."
+    new "Ванесса возбудит Вас своими прекрасными ступнями."
+
+    # game/code/hints.rpy:5
+    old "Mark both redheads with your piss."
+    new "Пометить обе рыжеволосые девушки своей мочой."
+
+    # game/code/hints.rpy:5
+    old "Continue to threesome scene."
+    new "Продолжить со сценой тройничка."
+
+    # game/code/hints.rpy:5
+    old "Debbie will join you for some action later."
+    new "Дебби присоединится позже к Вам."
+
+    # game/code/hints.rpy:5
+    old "Debbie will not join you later."
+    new "Дебби не присоединится к Вам."
+
+    # game/code/hints.rpy:5
+    old "Polly and Nora will get in on the action."
+    new "Полли и Нора присоединятся к действию."
+
+    # game/code/hints.rpy:5
+    old "There still might be someone for Debbie in the cafe."
+    new "В кафе всё ещё может найтись кто-нибудь для Дебби."
+
+    # game/code/hints.rpy:5
+    old "Watch Gemma release on Stacy."
+    new "Посмотреть, как Джемма расслабляется на Стейси."
+
+    # game/code/hints.rpy:5
+    old "Gemma lets her enema go."
+    new "Позволить Джемме выпустить свою клизму."
+
+    # game/code/hints.rpy:5
+    old "Drink some of Min's pee."
+    new "Выпить немного мочи Мин."
+
+    # game/code/hints.rpy:5
+    old "Don't drink Min's pee."
+    new "Не пить мочу Мин."
+
+    # game/code/hints.rpy:5
+    old "Stacy holds your dick while you pee."
+    new "Стейси держит Ваш член, пока Вы писаете."
+
+    # game/code/hints.rpy:5
+    old "Stacy gives you a rimjob while you pee."
+    new "Стейси сделает вам анилингус, пока Вы писаете."
+
+    # game/code/hints.rpy:5
+    old "Dahlia will peg you."
+    new "Далия трахнет Вас в задницу."
+
+    # game/code/hints.rpy:5
+    old "Dahlia won't peg you."
+    new "Далия не будет трахать Вас в задницу."
+
+    # game/code/hints.rpy:5
+    old "Tell your Mistress you desperately want to impregnate her."
+    new "Сказать своей Госпоже, что Вы отчаянно хотите её оплодотворить."
+
+    # game/code/hints.rpy:5
+    old "You have no will of you own. You are simply an extension of Dahlia."
+    new "У Вас нет собственной воли. Вы просто продолжение Далии."
+
+    # game/code/hints.rpy:5
+    old "Unlock more Male on Male content with Pete."
+    new "Разблокируется дополнительный контент с мужским сексом с Питом."
+
+    # game/code/hints.rpy:5
+    old "Locks Male on Male content with Pete."
+    new "Блокируется контент с мужским сексом с Питом."
+
+    # game/code/hints.rpy:5
+    old "Make Dahlia happy, and maybe she'll be nicer to you."
+    new "Сделать Далию счастливой, и, возможно, она станет к Вам добрее."
+
+    # game/code/hints.rpy:5
+    old "Agree to suck Pete's dick."
+    new "Согласиться отсосать член Пита."
+
+    # game/code/hints.rpy:5
+    old "Avoid male on male content with Pete."
+    new "Отключает контент с мужским сексом с Питом."
+
+    # game/code/hints.rpy:5
+    old "Be more confident with Samiya."
+    new "Вы проявите больше уверенности с Самией."
+
+    # game/code/hints.rpy:5
+    old "Let Samiya tease you."
+    new "Позволить Самии подразнить Вас."
+
+    # game/code/hints.rpy:5
+    old "Score some points with Samiya."
+    new "Заработать несколько баллов с Самией."
+
+    # game/code/hints.rpy:5
+    old "Agree that it would be good to get a bigger place."
+    new "Согласиться, что было бы неплохо переехать в более просторное место."
+
+    # game/code/hints.rpy:5
+    old "Tell Samiya you'd love seeing her in the dress."
+    new "Сказать Самии, что Вам понравилось бы видеть её в этом платье."
+
+    # game/code/hints.rpy:5
+    old "Samiya will be glad you care that much about her happiness."
+    new "Самией будет приятно, что Вы так заботитесь о её счастье."
+
+    # game/code/hints.rpy:5
+    old "Make Samiya say she wants to get fucked hard."
+    new "Заставить Самию сказать, что она хочет быть жестко трахнутой."
+
+    # game/code/hints.rpy:5
+    old "Ask her what is going on."
+    new "Спросить её, что происходит."
+
+    # game/code/hints.rpy:5
+    old "Unlock one more scene with male on male content."
+    new "Разблокировать ещё одну сцену с мужским сексом."
+
+    # game/code/hints.rpy:5
+    old "Skip male on male content with Pete."
+    new "Пропустить контент с мужским сексом с Питом."
+

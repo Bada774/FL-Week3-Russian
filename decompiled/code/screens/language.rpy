@@ -25,6 +25,24 @@ screen language_buttons(splash=False):
         yalign 0.5
         spacing 100
 
+        button id "lang_cn":
+            text "{font=fonts/NotoSans-SC-Medium.ttf}中文{/font}"
+            style style.button["lang_cn"]
+            selected (preferences.language == "chinese")
+            if splash is False:
+                action Function(language_setter, newlang="chinese")
+            else:
+                action (Function(language_setter, newlang="chinese"), Return())
+
+        button id "lang_de":
+            text "Deutsch"
+            style style.button["lang_de"]
+            selected (preferences.language == "deutsch")
+            if splash is False:
+                action Function(language_setter, newlang="deutsch")
+            else:
+                action (Function(language_setter, newlang="deutsch"), Return())
+
         button id "lang_en":
             text "English"
             style style.button["lang_en"]
@@ -33,24 +51,6 @@ screen language_buttons(splash=False):
                 action Function(language_setter, newlang=None)
             else:
                 action (Function(language_setter, newlang=None), Return())
-
-        button id "lang_cn":
-            text "{font=fonts/Arial-Unicode.ttf}中文{/font}"
-            style style.button["lang_cn"]
-            selected (preferences.language == "chinese")
-            if splash is False:
-                action Function(language_setter, newlang="chinese")
-            else:
-                action (Function(language_setter, newlang="chinese"), Return())
-
-        button id "lang_pt":
-            text "Português"
-            style style.button["lang_pt"]
-            selected (preferences.language == "portuguese")
-            if splash is False:
-                action Function(language_setter, newlang="portuguese")
-            else:
-                action (Function(language_setter, newlang="portuguese"), Return())
 
         button id "lang_es":
             text "Español"
@@ -61,15 +61,14 @@ screen language_buttons(splash=False):
             else:
                 action (Function(language_setter, newlang="spanish"), Return())
 
-        button id "lang_tr":
-            text "Türkçe"
-            style style.button["lang_tr"]
-            selected (preferences.language == "turkish")
+        button id "lang_fr":
+            text "Français"
+            style style.button["lang_fr"]
+            selected (preferences.language == "french")
             if splash is False:
-                action Function(language_setter, newlang="turkish")
+                action Function(language_setter, newlang="french")
             else:
-                action (Function(language_setter, newlang="turkish"), Return())
-
+                action (Function(language_setter, newlang="french"), Return())
         button id "lang_ru":
             text "Русский"
             style style.button["lang_ru"]
@@ -88,27 +87,9 @@ screen language_buttons(splash=False):
             else:
                 action (Function(language_setter, newlang="italian"), Return())
 
-        button id "lang_de":
-            text "Deutsch"
-            style style.button["lang_de"]
-            selected (preferences.language == "deutsch")
-            if splash is False:
-                action Function(language_setter, newlang="deutsch")
-            else:
-                action (Function(language_setter, newlang="deutsch"), Return())
-
-        button id "lang_fr":
-            text "Français"
-            style style.button["lang_fr"]
-            selected (preferences.language == "french")
-            if splash is False:
-                action Function(language_setter, newlang="french")
-            else:
-                action (Function(language_setter, newlang="french"), Return())
-
         if config.developer is True:
             button id "lang_ko":
-                text "{font=fonts/Arial-Unicode.ttf}한국어{/font}"
+                text "{font=fonts/NotoSans-KR-Medium.ttf}한국어{/font}"
                 style style.button["lang_ko"]
                 selected (preferences.language == "korean")
                 if splash is False:
@@ -116,14 +97,23 @@ screen language_buttons(splash=False):
                 else:
                     action (Function(language_setter, newlang="korean"), Return())
 
+        button id "lang_pt":
+            text "Português"
+            style style.button["lang_pt"]
+            selected (preferences.language == "portuguese")
+            if splash is False:
+                action Function(language_setter, newlang="portuguese")
+            else:
+                action (Function(language_setter, newlang="portuguese"), Return())
 
-
-
-
-
-
-
-
+        button id "lang_tr":
+            text "Türkçe"
+            style style.button["lang_tr"]
+            selected (preferences.language == "turkish")
+            if splash is False:
+                action Function(language_setter, newlang="turkish")
+            else:
+                action (Function(language_setter, newlang="turkish"), Return())
 
 screen language_chooser():
     tag menu
@@ -162,167 +152,176 @@ style language_frame:
 
 
 translate chinese style default:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style mainmenu_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 35
 
 translate chinese style navigation_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 28
     ypos -5
 
 translate chinese style slot_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style fl_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style say_label:
     font "fonts/MaShanZheng-Regular.ttf"
 
 translate chinese style choice_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style confirm_prompt_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style confirm_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style history_name_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style history_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style history_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style help_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style help_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style help_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style pref_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style radio_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+    yoffset -9
 
 translate chinese style check_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+    yoffset -9
 
 translate chinese style slider_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+    yoffset -9
 
 translate chinese style about_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style about_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style quick_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style notify_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style skip_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style gui_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+
+translate chinese style game_menu_label_text:
+    yoffset -30
 
 translate chinese style overlay_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style fl_points_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style sex_counter_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style pool_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style renamer_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     yoffset -9
 
 translate chinese style renamer_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     yoffset -9
 
 translate chinese style save_sync_menu_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style sync_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style free_roam_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style prologue_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style prologue_yta_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 36
 
 translate chinese style disclaimer:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 50
 
 translate chinese style skip_recap_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style sub_menu_bonus_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style sub_menu_play_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style ext_mm_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 35
 
 translate chinese style skip_recap_button:
     top_padding 10
 
 translate chinese style scene_transistion_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style game_end_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style connect_toy_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style lovense_connect_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+
+translate chinese style lovense_pref_button:
+    yoffset -20
 
 translate chinese style lovense_pref_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style lovense_test_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style prologue_yes_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 30
 
 translate chinese style prologue_no_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 30
 
 translate chinese style prologue_no_sp_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 30
     xpos -30
 
@@ -351,17 +350,17 @@ translate chinese style lovense_connect_button:
     top_padding 6
 
 translate chinese style prologue_name_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style prologue_fetishes_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 50
 
 translate chinese style ending_menu_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style about_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style ending_screen_start_text:
     ypos -4
@@ -379,19 +378,19 @@ translate spanish style no_mp_subtitle_text:
     size 27
 
 translate chinese style fetish_selection_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style thank_you_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style credits_roll_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style credit_start_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style ending_start_screen_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style dark_character:
     font "fonts/MaShanZheng-Regular.ttf"
@@ -404,50 +403,53 @@ translate chinese style mpb_large_even_text:
     ypos -8
 
 translate chinese style bonus_high_score_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     xpos 1500
 
 translate chinese style bonus_front_nine_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_change_mind_text_1:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 60
 
 translate chinese style bonus_change_mind_text_2:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     xpos 1050
     ypos 830
 
 translate chinese style bonus_rm_rf_text_1:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_rm_rf_text_2:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_rm_rf_text_3:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_cherry_popped_text_big:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_cherry_popped_text_small:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_trade_text_title:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_trade_text_body:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style bonus_horny_meme_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style hard_to_swallow_pills_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate chinese style hard_to_swallow_pills_large_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+
+translate chinese style gallery_navigation_button_text:
+    font gui.unicode_font_group
 
 translate chinese style dlc_stamp_endings_frame:
     top_padding 16
@@ -459,167 +461,185 @@ translate chinese style dlc_stamp_mm_frame:
 translate chinese style lovense_info_vbox:
     yalign -0.075
 
+translate chinese style lovense_title_hbox:
+    yoffset -40
+
 translate chinese python:
-    gui.system_font = "fonts/Arial-Unicode.ttf"
-    gui.hyperlink_text_font = "fonts/Arial-Unicode.ttf"
+    gui.hyperlink_text_font = gui.unicode_font_group
 
 
 
 translate korean style default:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style mainmenu_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 35
 
 translate korean style navigation_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 28
     ypos -5
 
 translate korean style slot_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style fl_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style say_label:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style choice_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style confirm_prompt_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style confirm_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style history_name_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style history_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style history_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style help_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style help_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style help_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style pref_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style radio_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+    yoffset -9
 
 translate korean style check_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+    yoffset -9
 
 translate korean style slider_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+    yoffset -9
 
 translate korean style about_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style about_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style quick_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style notify_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style skip_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style gui_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+
+translate korean style game_menu_label_text:
+    yoffset -30
 
 translate korean style overlay_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style fl_points_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style sex_counter_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style pool_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style renamer_text:
-    font "fonts/Arial-Unicode.ttf"
-    ypos -5
+    font gui.unicode_font_group
+    yoffset -9
 
 translate korean style renamer_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+    yoffset -9
+
+translate korean style save_sync_menu_button_text:
+    font gui.unicode_font_group
+
+translate korean style sync_button_text:
+    font gui.unicode_font_group
 
 translate korean style free_roam_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style prologue_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style prologue_yta_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 36
 
 translate korean style disclaimer:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 50
 
 translate korean style skip_recap_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style sub_menu_bonus_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style sub_menu_play_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style ext_mm_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 35
 
 translate korean style skip_recap_button:
     top_padding 10
 
 translate korean style scene_transistion_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style game_end_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style connect_toy_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style lovense_connect_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+
+translate korean style lovense_pref_button:
+    yoffset -20
 
 translate korean style lovense_pref_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style lovense_test_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style prologue_yes_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 30
 
 translate korean style prologue_no_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 30
 
 translate korean style prologue_no_sp_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 30
     xpos -30
 
@@ -648,17 +668,17 @@ translate korean style lovense_connect_button:
     top_padding 6
 
 translate korean style prologue_name_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style prologue_fetishes_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 50
 
 translate korean style ending_menu_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style about_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style ending_screen_start_text:
     ypos -4
@@ -676,19 +696,19 @@ translate spanish style no_mp_subtitle_text:
     size 27
 
 translate korean style fetish_selection_button_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style thank_you_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style credits_roll_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style credit_start_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style ending_start_screen_label_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style dark_character:
     font "fonts/MaShanZheng-Regular.ttf"
@@ -701,48 +721,69 @@ translate korean style mpb_large_even_text:
     ypos -8
 
 translate korean style bonus_high_score_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     xpos 1500
 
 translate korean style bonus_front_nine_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_change_mind_text_1:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     size 60
 
 translate korean style bonus_change_mind_text_2:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     xpos 1050
     ypos 830
 
 translate korean style bonus_rm_rf_text_1:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_rm_rf_text_2:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_rm_rf_text_3:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_cherry_popped_text_big:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_cherry_popped_text_small:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_trade_text_title:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_trade_text_body:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
 
 translate korean style bonus_horny_meme_text:
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
+
+translate korean style hard_to_swallow_pills_text:
+    font gui.unicode_font_group
+
+translate korean style hard_to_swallow_pills_large_text:
+    font gui.unicode_font_group
+
+translate korean style gallery_navigation_button_text:
+    font gui.unicode_font_group
+
+translate korean style dlc_stamp_endings_frame:
+    top_padding 16
+
+translate korean style dlc_stamp_mm_frame:
+    top_padding 14
+    xpadding 25
+
+translate korean style lovense_info_vbox:
+    yalign -0.075
+
+translate korean style lovense_title_hbox:
+    yoffset -40
 
 translate korean python:
-    gui.system_font = "fonts/Arial-Unicode.ttf"
-    gui.hyperlink_text_font = "fonts/Arial-Unicode.ttf"
+    gui.hyperlink_text_font = gui.unicode_font_group
 
 
 
@@ -837,28 +878,6 @@ translate italian style prologue_yes_button:
 
 
 
-translate malay style lovense_info_vbox:
-    spacing 10
-
-translate malay style lovense_info_text:
-    size 25
-
-translate malay style sub_menu_play_text:
-    line_spacing -20
-
-translate malay style hint_text:
-    ypos -10
-    size 25
-
-translate malay style sub_menu_bonus_text:
-    size 65
-
-translate malay style prologue_yes_button:
-    left_padding 25
-    right_padding 25
-
-
-
 translate turkish style prologue_yes_button:
     left_padding 25
     right_padding 20
@@ -892,16 +911,20 @@ translate turkish style bonus_change_mind_text_2:
 
 
 translate russian style sub_menu_bonus_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     size 60
 
 translate russian style sub_menu_play_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     size 50
 
 translate russian style ext_mm_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     size 30
+
+translate russian style sm_comics_button_text:
+    size 55
+    yalign 0.5
 
 
 

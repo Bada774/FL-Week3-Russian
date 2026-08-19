@@ -632,7 +632,7 @@ translate russian strings:
 
 
     old "gl tearing"
-    new "настройка графики. Разрывание кадров"
+    new "настройка графики. Разрыв кадров"
 
 
     old "font transform"
@@ -720,7 +720,7 @@ translate russian strings:
 
 
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Синтезатор речи должен сказать \"[renpy.display.tts.last]\". Нажмите 'Alt + Shift + V', чтобы отключить его."
+    new "Синтезатор речи должен произнести \"[renpy.display.tts.last]\". Нажмите 'Alt + Shift + V', чтобы отключить его."
 
 
     old "Self-voicing enabled. Press 'v' to disable."
@@ -756,7 +756,7 @@ translate russian strings:
 
 
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Пожалуйстай, введите ID синхронизации, который Вы создали. Никогда не вводите ID синхронизации, если Вы не создавали его самостоятельно."
+    new "Пожалуйста, введите ID синхронизации, который Вы создали. Никогда не вводите ID синхронизации, если Вы не создавали его самостоятельно."
 
 
     old "The sync ID is not in the correct format."
@@ -788,7 +788,7 @@ translate russian strings:
 
 
     old "Enter Sync ID"
-    new "Введите ваш ID синхронизации"
+    new "Введите Ваш ID синхронизации"
 
 
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
@@ -848,7 +848,7 @@ translate russian strings:
 
 
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "В файле обновления нет правильного дайджеста - возможно, он повреждён."
+    new "Файл обновления не имеет правильной контрольной суммы - возможно, он был поврежден."
 
 
     old "While unpacking {}, unknown type {}."
@@ -872,7 +872,7 @@ translate russian strings:
 
 
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] доступна. Вы хотите установить обновление?"
+    new "Доступна версия [u.version]. Вы хотите установить обновление?"
 
 
     old "Preparing to download the updates."
@@ -952,7 +952,7 @@ translate russian strings:
 
 
     old "Force ANGLE2 Renderer"
-    new "Force GL2 Renderer"
+    new "Force ANGLE2 Renderer"
 
 
     old "Force GLES2 Renderer"
@@ -1032,7 +1032,7 @@ translate russian strings:
 
 
     old "Select Gamepad to Calibrate"
-    new "Выберите Геймпад для калибровки"
+    new "Выберите геймпад для калибровки"
 
 
     old "No Gamepads Available"
@@ -1064,7 +1064,7 @@ translate russian strings:
 
 
     old "Copy BBCode"
-    new "Копировать BBCode"
+    new "Копировать как BBCode"
 
 
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
@@ -1072,7 +1072,7 @@ translate russian strings:
 
 
     old "Copy Markdown"
-    new "Скопировать Markdown"
+    new "Копировать как Markdown"
 
 
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
@@ -1132,113 +1132,113 @@ translate russian strings:
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new ""
+    new "Меню доступности. Используйте стрелки Вверх и Вниз для навигации, и Enter для активации кнопок и полос."
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new ""
+    new "Поддержка синтезатора речи ограничена при использовании сенсорного экрана."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new ""
+    new "Настройте director.transforms, чтобы добавить больше трансформаций."
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new ""
+    new "Нажмите ЛКМ чтобы установить."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new ""
+    new "Настройте director.transitions, чтобы добавить больше переходов."
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new ""
+    new "Настройте director.audio_channels, чтобы добавить больше каналов."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new ""
+    new "Вы уверены, что хотите продолжить с того места, на котором остановились?"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
-    new ""
+    new "включить синтезатор речи"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing disable"
-    new ""
+    new "выключить синтезатор речи"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
-    new ""
+    new "включить озвучку буфера обмена"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
-    new ""
+    new "выключить озвучку буфера обмена"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
-    new ""
+    new "включить отладку озвучки"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
-    new ""
+    new "выключить отладку озвучки"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new ""
+    new "восстановить позицию окна"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
-    new ""
+    new "сбросить"
 
     # renpy/common/00speechbubble.rpy:432
     old "(clear retained bubbles)"
-    new ""
+    new "(очистить сохранённые диалоговые окна)"
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new ""
+    new "Идентификатор перевода: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new ""
+    new " переводит [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new ""
+    new "\n{color=#fff}Скопировано в буфер обмена.{/color}"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new ""
+    new "Методы обновления не найдены."
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new ""
+    new "Не удалось загрузить список файлов: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new ""
+    new "Контрольная сумма списка файлов не совпадает."
 
     # renpy/common/00updater.rpy:2080
     old "Preparing to download the game data."
-    new ""
+    new "Подготовка к загрузке игровых данных."
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new ""
+    new "Загрузка игровых данных."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new ""
+    new "Игровые данные были загружены."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new ""
+    new "Произошла ошибка при попытке загрузить игровые данные:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new ""
+    new "Эта игра не может быть запущена, пока игровые данные не будут загружены."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
-    new ""
+    new "Повторить"
 

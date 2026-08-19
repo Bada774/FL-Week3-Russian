@@ -1189,12 +1189,12 @@ label d06s08_mh:
     lc "[mcname], what do you think?"
     scene e06s08-51-20 mh-agrees-she-hard-in-spite-of-pills_c1 with dissolve
     play voice2 mc_thinking_mmm4 noloop
-
     menu:
         mct "Hmm..."
         "Lydia should Rim Lyssa's ass"(hint="e06s08m06c01"):
             $ e06s08_mh_blowjob = False
         "Lydia should Blow Lyssa's mind (and cock)"(hint="e06s08m06c02"):
+
             $ e06s08_mh_blowjob = True
 
     if e06s08_mh_blowjob is True:

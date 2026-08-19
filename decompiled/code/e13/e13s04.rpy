@@ -1,10 +1,10 @@
-image e13s04-a13-1-f = Movie(play = "images/E-13/s04/anim/e13s04-a13-1-2x-50fps_vp9.webm", start_image = "e13s04-a13-1 mc-nk-kiss-fingering-anim1-01_i")
-image e13s04-a13-1 = Movie(play = "images/E-13/s04/anim/e13s04-a13-1-4x-60fps_vp9.webm", start_image = "e13s04-a13-1 mc-nk-kiss-fingering-anim1-01_i")
-image e13s04-a13-2-f = Movie(play = "images/E-13/s04/anim/e13s04-a13-2-2x-50fps_vp9.webm", start_image = "e13s04-a13-2 mc-nk-kiss-fingering-anim2-01_i")
-image e13s04-a13-2 = Movie(play = "images/E-13/s04/anim/e13s04-a13-2-4x-60fps_vp9.webm", start_image = "e13s04-a13-2 mc-nk-kiss-fingering-anim2-01_i")
+image e13s04-a13-1-f = Movie(play = "images/E-13/s04/anim/e13s04-a13-1-2x-50fps.webm", start_image = "e13s04-a13-1 mc-nk-kiss-fingering-anim1-01_i")
+image e13s04-a13-1 = Movie(play = "images/E-13/s04/anim/e13s04-a13-1-4x-60fps.webm", start_image = "e13s04-a13-1 mc-nk-kiss-fingering-anim1-01_i")
+image e13s04-a13-2-f = Movie(play = "images/E-13/s04/anim/e13s04-a13-2-2x-50fps.webm", start_image = "e13s04-a13-2 mc-nk-kiss-fingering-anim2-01_i")
+image e13s04-a13-2 = Movie(play = "images/E-13/s04/anim/e13s04-a13-2-4x-60fps.webm", start_image = "e13s04-a13-2 mc-nk-kiss-fingering-anim2-01_i")
 
-image e13s04-a14-1-f = Movie(play = "images/E-13/s04/anim/e13s04-a14-1-2x-50fps_vp9.webm", start_image = "e13s04-a14-1 mc-nk-rimming-anim1-01_i")
-image e13s04-a14-1 = Movie(play = "images/E-13/s04/anim/e13s04-a14-1-4x-60fps_vp9.webm", start_image = "e13s04-a14-1 mc-nk-rimming-anim1-01_i")
+image e13s04-a14-1-f = Movie(play = "images/E-13/s04/anim/e13s04-a14-1-2x-50fps.webm", start_image = "e13s04-a14-1 mc-nk-rimming-anim1-01_i")
+image e13s04-a14-1 = Movie(play = "images/E-13/s04/anim/e13s04-a14-1-4x-60fps.webm", start_image = "e13s04-a14-1 mc-nk-rimming-anim1-01_i")
 image e13s04-a14-2-f = Movie(play = "images/E-13/s04/anim/e13s04-a14-2-2x-50fps.webm", start_image = "e13s04-a14-2 mc-nk-rimming-anim2-01_i")
 image e13s04-a14-3-f = Movie(play = "images/E-13/s04/anim/e13s04-a14-3-2x-50fps.webm", start_image = "e13s04-a14-3 mc-nk-rimming-anim3-01_i")
 

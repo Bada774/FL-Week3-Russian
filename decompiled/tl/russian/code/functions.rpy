@@ -103,5 +103,5 @@ translate russian strings:
 
     # game/code/functions.rpy:29
     old "You have unlocked Ending #{}"
-    new ""
+    new "Вы разблокировали концовку #{}"
 

@@ -956,6 +956,9 @@ translate italian strings:
     old "prev"
     new "prec"
 
+    old "Prev"
+    new "Prec"
+
 
     old "next"
     new "succ"

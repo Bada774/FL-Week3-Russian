@@ -720,6 +720,9 @@ translate deutsch strings:
     old "prev"
     new "prev"
 
+    old "Prev"
+    new "Prev"
+
 
     old "next"
     new "zunächst"

@@ -65,40 +65,18 @@ translate spanish strings:
     new "CONTENIDO EXTRA"
 
 
-    old "Wishlist Taboo University on Steam"
-    new "Añade Taboo University a su lista de deseados en Steam"
-
-
     old "Get a Lovense toy"
     new "Consigue un juguete Lovense"
-
-
-    old "Try our new game Taboo University"
-    new "Prueba nuestro nuevo juego Taboo University"
 
 
     old "Get free DLC containing 6 endings from Steam"
     new "Consigue gratis el DLC con los 6 finales en Steam"
 
 
-    old "Buy Taboo University on Steam"
-    new "Compra Taboo University en Steam"
-
-
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Consigue el DLC-2 que contiene los 6 finales adicionales en Steam"
 
-translate spanish strings:
 
-
-    old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Añade Fetish Locator: S&M Studio a tu lista de deseos en Steam"
-
-
-    old "Get Fetish Locator: S&M Studio on Steam"
-    new "Consigue Fetish Locator: S&M Studio en Steam"
-
-
-    old "Watch Fetish Locator: S&M Studio trailer"
-    new "Mira el tráiler de Fetish Locator: S&M Studio"
+    old "COMIC BOOKS"
+    new "CÓMICS"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

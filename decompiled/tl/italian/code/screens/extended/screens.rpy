@@ -80,29 +80,11 @@ translate italian strings:
     old "Get free DLC containing 6 endings from Steam"
     new "Get free DLC containing 6 endings from Steam"
 
-translate italian strings:
-
-
-    old "Buy Taboo University on Steam"
-    new "Buy Taboo University on Steam"
-
-translate italian strings:
-
 
     old "Get DLC-2 containing 6 additional endings from Steam"
-    new "Get DLC-2 containing 6 additional endings from Steam"
-
-translate italian strings:
+    new "Ottieni il DLC-2 contenente 6 finali aggiuntivi da Steam"
 
 
-    old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Wishlist Fetish Locator: S&M Studio on Steam"
-
-
-    old "Get Fetish Locator: S&M Studio on Steam"
-    new "Get Fetish Locator: S&M Studio on Steam"
-
-
-    old "Watch Fetish Locator: S&M Studio trailer"
-    new "Watch Fetish Locator: S&M Studio trailer"
+    old "COMIC BOOKS"
+    new "FUMETTI"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

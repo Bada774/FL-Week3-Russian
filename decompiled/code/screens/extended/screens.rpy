@@ -5,74 +5,11 @@ init python:
     x = datetime.datetime.now()
     current_year = x.year
 
-default vu_ad_hover = False
 default persistent.seen_lc_song_p1 = False
 default persistent.seen_lc_song_p2 = False
 default main_menu_bg = "main"
 default sm_play_bg = "idle"
 default sm_bonus_bg = "idle"
-
-image vu_ad_patreon_wc_emblem = ConditionSwitch(
-    "vu_ad_hover == False", "images/extended/ui/buttons/vu_ad_patreon_wc_idle.webp",
-    "vu_ad_hover == True", "images/extended/ui/buttons/vu_ad_patreon_wc_hover.webp",
-    predict_all = True,
-    )
-
-image vu_ad_patreon_tf_emblem = ConditionSwitch(
-    "vu_ad_hover == False", "images/extended/ui/buttons/vu_ad_patreon_tf_idle.webp",
-    "vu_ad_hover == True", "images/extended/ui/buttons/vu_ad_patreon_tf_hover.webp",
-    predict_all = True,
-    )
-
-image vu_ad_patreon_cn_emblem = ConditionSwitch(
-    "vu_ad_hover == False", "images/extended/ui/buttons/vu_ad_patreon_cn_idle.webp",
-    "vu_ad_hover == True", "images/extended/ui/buttons/vu_ad_patreon_cn_hover.webp",
-    predict_all = True,
-    )
-
-image vu_ad_patreon_anim:
-    subpixel True
-    "vu_ad_patreon_wc_emblem" with Dissolve (0.5, alpha=True)
-    linear 1.0 zoom 0.95
-    linear 1.0 zoom 1.0
-    "vu_ad_patreon_tf_emblem" with Dissolve (0.5, alpha=True)
-    linear 1.0 zoom 0.95
-    linear 1.0 zoom 1.0
-    "vu_ad_patreon_cn_emblem" with Dissolve (0.5, alpha=True)
-    linear 1.0 zoom 0.95
-    linear 1.0 zoom 1.0
-    repeat
-
-image vu_ad_wc_emblem = ConditionSwitch(
-    "vu_ad_hover == False", "images/extended/ui/buttons/vu_ad_wc_idle.webp",
-    "vu_ad_hover == True", "images/extended/ui/buttons/vu_ad_wc_hover.webp",
-    predict_all = True,
-    )
-
-image vu_ad_tf_emblem = ConditionSwitch(
-    "vu_ad_hover == False", "images/extended/ui/buttons/vu_ad_tf_idle.webp",
-    "vu_ad_hover == True", "images/extended/ui/buttons/vu_ad_tf_hover.webp",
-    predict_all = True,
-    )
-
-image vu_ad_cn_emblem = ConditionSwitch(
-    "vu_ad_hover == False", "images/extended/ui/buttons/vu_ad_cn_idle.webp",
-    "vu_ad_hover == True", "images/extended/ui/buttons/vu_ad_cn_hover.webp",
-    predict_all = True,
-    )
-
-image vu_ad_anim:
-    subpixel True
-    "vu_ad_wc_emblem" with Dissolve (0.5, alpha=True)
-    linear 1.0 zoom 0.95
-    linear 1.0 zoom 1.0
-    "vu_ad_tf_emblem" with Dissolve (0.5, alpha=True)
-    linear 1.0 zoom 0.95
-    linear 1.0 zoom 1.0
-    "vu_ad_cn_emblem" with Dissolve (0.5, alpha=True)
-    linear 1.0 zoom 0.95
-    linear 1.0 zoom 1.0
-    repeat
 
 image main_menu_background = ConditionSwitch(
     "main_menu_bg == 'main'", "images/extended/ui/mm_bg_main.webp",
@@ -218,39 +155,14 @@ screen main_menu_extended():
         unhovered Function(hide_hover_notify)
         at shake_effect
 
-    if is_gog_edition is False:
+    if is_steam_edition is True and current_year == 2026:
         imagebutton:
-            if is_steam_edition is True:
-                if current_year == 2025:
-                    auto "images/extended/ui/buttons/wishlist_sm_%s.webp"
-                else:
-                    auto "images/extended/ui/buttons/download_sm_%s.webp"
-            elif is_gog_edition is False:
-                idle "vu_ad_patreon_anim"
-            focus_mask "images/extended/ui/buttons/vu_ad_focus_mask.webp"
+            auto "images/extended/ui/buttons/wishlist_tu2_%s.webp"
+            focus_mask "images/extended/ui/buttons/wishlist_tu2_mask.webp"
             xcenter 0.065
             ycenter 0.12
-            if is_steam_edition is True:
-                action OpenURL("steam://openurl/https://store.steampowered.com/app/3763690/Fetish_Locator_SM_Studio/")
-                if current_year == 2025:
-                    hovered Notify(_("Wishlist Fetish Locator: S&M Studio on Steam"))
-                else:
-                    hovered Notify(_("Get Fetish Locator: S&M Studio on Steam"))
-            elif is_gog_edition is False:
-                action OpenURL("https://www.patreon.com/VinovellaGames")
-                hovered (ToggleVariable("vu_ad_hover"), Notify(_("Try our new game Taboo University")))
-                unhovered ToggleVariable("vu_ad_hover")
-
-    if is_gog_edition is True:
-        imagebutton:
-            auto "images/extended/ui/buttons/sm_trailer_ad_%s.webp"
-            action ShowMenu("sm_trailer_ad")
-            focus_mask True
-            xcenter 0.065
-            ycenter 0.12
-            hovered Notify(_("Watch Fetish Locator: S&M Studio trailer"))
-            unhovered Function(hide_hover_notify)
-            at dlc_1_ad_anim
+            action OpenURL("steam://openurl/https://store.steampowered.com/app/4234910/Taboo_University_Book_Two/")
+            at ad_anim
 
     if (is_steam_edition is True or is_gog_edition is True) and get_has_ending("04"):
         frame:
@@ -291,6 +203,12 @@ screen main_menu_extended():
             unhovered Function(hide_hover_notify)
             at dlc_1_ad_anim
 
+transform ad_anim:
+    subpixel True
+    linear 1.0 zoom 0.95
+    linear 1.0 zoom 1.0
+    repeat
+
 style ext_mm_button:
     hover_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_cube_hover.mp3"
     activate_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_cube_click_v2.mp3"
@@ -308,7 +226,7 @@ style ext_mm_text:
     line_spacing 5
     idle_color "#FFFFFF"
     hover_color gui.accent_color
-    font "fonts/new/Teko-SemiBold.ttf"
+    font "fonts/Teko-SemiBold.ttf"
 
 style ext_mm_version_text:
     size 30
@@ -460,7 +378,7 @@ style sub_menu_play_text:
     size 65
     idle_color "#FFFFFF"
     hover_color gui.accent_color
-    font "fonts/new/Teko-SemiBold.ttf"
+    font "fonts/Teko-SemiBold.ttf"
 
 
 
@@ -503,6 +421,8 @@ screen sub_menu_bonus():
                 action (ShowMenu("replay_room"), SetVariable("sm_bonus_bg", "idle"), Hide("sub_menu_bonus"))
                 hovered SetVariable("sm_bonus_bg", "two")
                 unhovered SetVariable("sm_bonus_bg", "idle")
+
+        textbutton _("COMIC BOOKS") action [ShowMenu("comics"), Hide("sub_menu_bonus")] at comic_button_anim style "sm_comics_button"
 
         fixed:
             style_prefix "sub_menu_bonus"
@@ -555,7 +475,21 @@ style sub_menu_bonus_text:
     line_spacing 20
     idle_color "#FFFFFF"
     hover_color gui.accent_color
-    font "fonts/new/Teko-SemiBold.ttf"
+    font "fonts/Teko-SemiBold.ttf"
+
+style sm_comics_button:
+    xcenter 973
+    ycenter 548
+    xsize 348
+    ysize 267
+    idle_background "images/extended/ui/sm_comic button_idle.webp"
+    hover_background "images/extended/ui/sm_comic button_hover.webp"
+    hover_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_cube_hover2.mp3"
+    activate_sound "audio/loudlout/extended/sfx/fl3_ui_sfx/sfx_menu_button_click.mp3"
+
+style sm_comics_button_text is sub_menu_bonus_text:
+    yalign 0.7
+    line_spacing 5
 
 transform wait_effect:
     alpha 0.0
@@ -577,6 +511,14 @@ transform from_right:
     easein 0.3 xalign 0.5
     on hide:
         easein 0.3 xanchor 0.0 xpos 1920
+
+transform comic_button_anim:
+    subpixel True
+    zoom 0.5 alpha 0.0
+    pause 0.3
+    easein 0.3 zoom 1.0 alpha 1.0
+    on hide:
+        easein 0.3 zoom 0.5 alpha 0.0
 
 image fl_logo_eq_effect:
     "images/extended/ui/effect/fl_logo_eq_eff_1.webp"

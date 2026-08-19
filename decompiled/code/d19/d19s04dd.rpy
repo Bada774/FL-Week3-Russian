@@ -17,7 +17,6 @@ image d19s04dd-a4-f = Movie(play = "images/Day-19/s04-dd/anim/d19s04dd-a27-1-2x-
 image d19s04dd-a5 = Movie(play = "images/Day-19/s04-dd/anim/d19s04dd-a27-2-2x-50fps.webm", start_image = "d19s04dd-a27-2 mc-fuck-dd-mouth-anim-01_i")
 image d19s04dd-a5-f = Movie(play = "images/Day-19/s04-dd/anim/d19s04dd-a27-2-2x-60fps.webm", start_image = "d19s04dd-a27-2 mc-fuck-dd-mouth-anim-01_i")
 image d19s04dd-a6 = Movie(play = "images/Day-19/s04-dd/anim/d19s04dd-a27-3-2x-50fps.webm", start_image = "d19s04dd-a27-3 mc-fuck-dd-mouth-anim-01_i")
-image d19s04dd-a6-f = Movie(play = "images/Day-19/s04-dd/anim/d19s04dd-a27-3-2x-60fps.webm", start_image = "d19s04dd-a27-3 mc-fuck-dd-mouth-anim-01_i")
 
 image d19s04dd-a7-1 = Movie(play = "images/Day-19/s04-dd/anim/d19s04dd-a31-1-2x-50fps.webm", start_image = "d19s04dd-a31-1 mc-fuck-dd-anim-01")
 image d19s04dd-a7 = Movie(play = "images/Day-19/s04-dd/anim/d19s04dd-a31-2-2x-50fps.webm", start_image = "d19s04dd-a31-2 mc-fuck-dd-anim-01")

@@ -18,18 +18,12 @@ image d20s02tl-a25-3-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a25
 image d20s02tl-a25-3 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a25-3-2x-50fps.webm", start_image = "d20s02-lew-a25-3 mc-tl-sex-01")
 
 image d20s02tl-a26-1-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a26-1-2x-60fps.webm", start_image = "d20s02-lew-a26-1 mc-tl-sex-01")
-image d20s02tl-a26-1 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a26-1-2x-50fps.webm", start_image = "d20s02-lew-a26-1 mc-tl-sex-01")
 image d20s02tl-a26-2-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a26-2-2x-60fps.webm", start_image = "d20s02-lew-a26-2 mc-tl-sex-01")
-image d20s02tl-a26-2 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a26-2-2x-50fps.webm", start_image = "d20s02-lew-a26-2 mc-tl-sex-01")
 image d20s02tl-a26-3-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a26-3-2x-60fps.webm", start_image = "d20s02-lew-a26-3 mc-tl-sex-01")
-image d20s02tl-a26-3 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a26-3-2x-50fps.webm", start_image = "d20s02-lew-a26-3 mc-tl-sex-01")
 
 image d20s02tl-a50-1-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a50-1-2x-60fps.webm", start_image = "d20s02-lew-a50-1 mc-cl-tl-sex-01")
 image d20s02tl-a50-1 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a50-1-2x-50fps.webm", start_image = "d20s02-lew-a50-1 mc-cl-tl-sex-01")
-image d20s02tl-a50-2-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a50-2-2x-60fps.webm", start_image = "d20s02-lew-a50-2 mc-cl-tl-sex-01")
-image d20s02tl-a50-2 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a50-2-2x-50fps.webm", start_image = "d20s02-lew-a50-2 mc-cl-tl-sex-01")
 image d20s02tl-a50-3-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a50-3-2x-60fps.webm", start_image = "d20s02-lew-a50-3 mc-cl-tl-sex-01")
-image d20s02tl-a50-3 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a50-3-2x-50fps.webm", start_image = "d20s02-lew-a50-3 mc-cl-tl-sex-01")
 
 image d20s02tl-a51-1-f = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a51-1-2x-60fps.webm", start_image = "d20s02-lew-a51-1 mc-cl-tl-sex2-01")
 image d20s02tl-a51-1 = Movie(play = "images/Day-20/s02-lew/anim/d20s02-lew-a51-1-2x-50fps.webm", start_image = "d20s02-lew-a51-1 mc-cl-tl-sex2-01")

@@ -85,7 +85,7 @@ init python:
 
     extra_gallery = FLGallery()
     extra_gallery.transition = dissolve
-    cg_gallery.navigation = True
+    extra_gallery.navigation = True
     extra_gallery.locked_button = "gallery_locked_button"
 
 
@@ -631,7 +631,7 @@ style bonus_trade_frame:
 
 style bonus_trade_text:
     size 40
-    font "fonts/Arial-Unicode.ttf"
+    font gui.unicode_font_group
     color "#fff"
     ypos -3
 

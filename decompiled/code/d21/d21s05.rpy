@@ -6,7 +6,6 @@ image d21s05-a3 = Movie(play = "images/Day-21/s05/anim/d21s05-a33-3-2x-50fps.web
 image d21s05-a3-f = Movie(play = "images/Day-21/s05/anim/d21s05-a33-3-2x-60fps.webm", start_image = "d21s05-a33-3 ah-fuck-mc-rev-cowgirl-anim-01")
 image d21s05-a4-1 = Movie(play = "images/Day-21/s05/anim/d21s05a-44-1-2x-50fps.webm", start_image = "d21s05-a44-1 mc-arj-kiss-ah-mk-anim-01")
 image d21s05-a4-1-f = Movie(play = "images/Day-21/s05/anim/d21s05a-44-1-2x-60fps.webm", start_image = "d21s05-a44-1 mc-arj-kiss-ah-mk-anim-01")
-image d21s05-a4-2 = Movie(play = "images/Day-21/s05/anim/d21s05a-44-2-2x-50fps.webm", start_image = "d21s05-a44-1 mc-arj-kiss-ah-mk-anim-01")
 image d21s05-a4-2-f = Movie(play = "images/Day-21/s05/anim/d21s05a-44-2-2x-60fps.webm", start_image = "d21s05-a44-1 mc-arj-kiss-ah-mk-anim-01")
 image d21s05-a4-3 = Movie(play = "images/Day-21/s05/anim/d21s05a-44-3-2x-50fps.webm", start_image = "d21s05-a44-3 mc-arj-kiss-ah-mk-anim-01")
 image d21s05-a4-3-f = Movie(play = "images/Day-21/s05/anim/d21s05a-44-3-2x-60fps.webm", start_image = "d21s05-a44-3 mc-arj-kiss-ah-mk-anim-01")

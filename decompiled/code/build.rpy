@@ -44,6 +44,11 @@ init 1 python:
     build.classify("game/code/config.rpyc"    , None)
 
 
+    build.classify("game/**/debug/**"         , None)
+    build.classify("game/**/unused/**"        , None)
+    build.classify("game/unused_renders/**"   , None)
+
+
     build.classify("game/**.rpy"              , None)
     build.classify("game/cache/*.rpyb"        , None)
 
@@ -75,6 +80,7 @@ init 1 python:
 
 
     build.archive("scripts"                   , "all")
+    build.archive("comics_ru"                , "all")
     if only_build_code is False:
         build.archive("images"                    , "all")
         build.archive("audio"                     , "all")
@@ -106,9 +112,9 @@ init 1 python:
         
         
         if is_Walkthrough_DLC_included is True:
-            build.classify("game/code/hints.rpyc"   , "walkthrough_dlc")
+            build.classify("game/**/hints.rpyc"   , "walkthrough_dlc")
         else:
-            build.classify("game/code/hints.rpyc"   , None)
+            build.classify("game/**/hints.rpyc"   , None)
         
         if is_DLC_1_included is True:
             
@@ -119,16 +125,16 @@ init 1 python:
             build.classify("game/code/e07/**"     , "dlc_1_data")
             
             build.classify("game/images/E-11/**"  , "dlc_1_data")
-            build.classify("game/code/e11/**"       , "dlc_1_data")
+            build.classify("game/**/e11/**"       , "dlc_1_data")
             
             build.classify("game/images/E-12/**"  , "dlc_1_data")
-            build.classify("game/code/e12/**"       , "dlc_1_data")
+            build.classify("game/**/e12/**"       , "dlc_1_data")
             
             build.classify("game/images/E-14/**"  , "dlc_1_data")
-            build.classify("game/code/e14/**"       , "dlc_1_data")
+            build.classify("game/**/e14/**"       , "dlc_1_data")
             
             build.classify("game/images/E-17/**"  , "dlc_1_data")
-            build.classify("game/code/e17/**"       , "dlc_1_data")
+            build.classify("game/**/e17/**"       , "dlc_1_data")
         else:
             build.classify("game/images/E-04/**"  , None)
             build.classify("game/code/e04/**"     , None)
@@ -202,6 +208,7 @@ init 1 python:
     build.classify("game/**.rpyc"             , "scripts")
 
     if only_build_code is False:
+        build.classify("game/tl/russian/images/**.webp" , "comics_ru")
         
         build.classify("game/**.webp"             , "images")
         build.classify("game/**.png"              , "images")

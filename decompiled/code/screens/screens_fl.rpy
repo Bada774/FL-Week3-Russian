@@ -5,10 +5,10 @@
 
 
 init -1:
-    image fl_title = Text(" Fetish Locator", size=130, font="fonts/new/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(4, "#611a2b", 4, 4)])
-    image fl_subtitle = Text("Week-3", size=45, font="fonts/new/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(2, "#611a2b", 2, 2)])
-    image ee_subtitle = Text("Week-3 Extended Edition", size=45, font="fonts/new/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(2, "#611a2b", 2, 2)])
-    image hints_dlc = Text("+ Walkthough DLC", size=45, font="fonts/new/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(2, "#611a2b", 2, 2)])
+    image fl_title = Text(" Fetish Locator", size=130, font="fonts/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(4, "#611a2b", 4, 4)])
+    image fl_subtitle = Text("Week-3", size=45, font="fonts/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(2, "#611a2b", 2, 2)])
+    image ee_subtitle = Text("Week-3 Extended Edition", size=45, font="fonts/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(2, "#611a2b", 2, 2)])
+    image hints_dlc = Text("+ Walkthough DLC", size=45, font="fonts/KaushanScript-Regular.ttf", color="#f4426b", outlines=[(2, "#611a2b", 2, 2)])
 
 
 
@@ -328,7 +328,7 @@ init -1 style end_screen_vbox:
     yalign 0.9
 
 init -1 style end_screen_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     size 120
     outlines [(2, "#000000", 0, 0)]
     kerning 1
@@ -361,7 +361,7 @@ init -1 style scene_transistion_vbox:
     yalign 0.5
 
 init -1 style scene_transistion_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     text_align 0.5
     size 120
     xsize 1250
@@ -380,7 +380,7 @@ init -1 style game_end_vbox:
     yalign 0.5
 
 init -1 style game_end_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     text_align 0.5
     size 70
     xsize 1800
@@ -472,7 +472,7 @@ init -501 screen fl_points_screen(points=0, is_enabled=True):
 init -1 style fl_points_button_text is text:
     idle_color gui.accent_color
     insensitive_color gui.accent_color
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
 
 
 
@@ -1366,75 +1366,4 @@ init -1 style save_sync_menu_text:
 
 init -1 style save_sync_menu_button:
     xalign 0.5
-
-
-
-init 499 image tu_book1_steam_video_ad = Movie(play = "images/utility/tu_ad/tu-book1-steam-video-ad.webm", start_image = "black", image = "tu-book1-steam-video-ad_last_frame", loop = False)
-init 499 image sm_trailer_ad = Movie(play = "images/utility/sm_ad/sm_trailer_video.webm", start_image = "black", image = "sm_trailer_last_frame", loop = False)
-
-init -501 screen tu_trailer_ad():
-
-    on "show" action PauseAudio('music', True)
-    on "hide" action PauseAudio('music', False)
-
-    modal True
-
-    add "black" at image_opacity(0.8)
-
-    imagebutton auto "images/utility/tu_ad/close_ad-button_%s.webp" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide()) xalign 0.95 yalign 0.06 at image_zoom(0.5)
-
-    style_prefix "tu_trailer_ad"
-
-    frame:
-        modal True
-
-        add "tu_book1_steam_video_ad" xsize 1344 ysize 756
-
-    if is_gog_edition is True:
-        textbutton _("{u}Get Taboo University Book 1 on GOG{/u}") action OpenURL("https://www.gog.com/en/game/taboo_university_book_one")
-    else:
-        textbutton _("{u}Get Taboo University Book 1 on Steam{/u}") action OpenURL("steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/")
-
-    key "game_menu" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide())
-
-init -501 screen sm_trailer_ad():
-
-    on "show" action PauseAudio('music', True)
-    on "hide" action PauseAudio('music', False)
-
-    modal True
-
-    add "black" at image_opacity(0.8)
-
-    imagebutton auto "images/utility/tu_ad/close_ad-button_%s.webp" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide()) xalign 0.95 yalign 0.06 at image_zoom(0.5)
-
-    style_prefix "tu_trailer_ad"
-
-    frame:
-        modal True
-
-        yalign 0.5
-
-        add "sm_trailer_ad" xsize 1344 ysize 756
-
-    if current_year == 2025:
-        textbutton _("Wishlist Fetish Locator: S&M Studio on GOG") action OpenURL("https://www.gog.com/en/game/fetish_locator_sm_studio") text_size 55 xalign 0.5 yalign 0.96
-    else:
-        textbutton _("Get Fetish Locator: S&M Studio on GOG") action OpenURL("https://www.gog.com/en/game/fetish_locator_sm_studio") text_size 55 xalign 0.5 yalign 0.96
-
-    key "game_menu" action (SetVariable("persistent.hide_tu_trailer_ad", True), Hide())
-
-init -1 style tu_trailer_ad_frame:
-    xalign 0.5
-    yalign 0.25
-
-init -1 style tu_trailer_ad_button:
-    xalign 0.5
-    yalign 0.92
-
-init -1 style tu_trailer_ad_button_text:
-    size 70
-    idle_color "#FFFFFF"
-    hover_color gui.accent_color
-    outlines [(5, "#000000", 0, 0)]
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

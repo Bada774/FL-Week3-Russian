@@ -352,13 +352,15 @@ translate italian strings:
     old "Menu"
     new "Menu"
 
-translate italian strings:
-
 
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Sincronizzazione del salvataggio di Ren'Py"
 
 
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacità della finestra del dialogo"
+
+
+    old "Comic Books"
+    new "Fumetti"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -850,11 +850,11 @@ translate russian e03s02_2ea47cee:
 translate russian e03s02_39abdb31:
 
     # mh "Tomorrow morning, we're putting the plan into action."
-    mh "Завтра утром мы приступаем к реализации нашего плана."# TODO: Translation updated at 2025-01-10 07:14
+    mh "Завтра утром мы приступаем к реализации нашего плана."
 
 translate russian strings:
 
     # game/code/e03/e03s02.rpy:6
     old "A couple weeks later"
-    new ""
+    new "Несколько недель спустя"
 

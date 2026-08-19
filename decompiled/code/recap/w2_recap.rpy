@@ -26,7 +26,6 @@ image d10p2s05-a10 = Movie(play = "images/week-2/anim/69fps_d10p2s05-a10.webm", 
 image d10p2s06-a4 = Movie(play = "images/week-2/anim/53fps_d10p2s06-a4.webm", start_image = "d10p2s06-a4-first-frame")
 image d10p2s08-a2 = Movie(play = "images/week-2/anim/62fps_d10p2s08-a2.webm", start_image = "d10p2s08-a2-first-frame")
 
-image d11s06-a1 = Movie(play = "images/week-2/anim/53fps_d11s06-a1.webm", start_image = "d11s06-a1-first-frame")
 image d11s06-a14 = Movie(play = "images/week-2/anim/57fps_d11s06-a14.webm", start_image = "d11s06-a14-first-frame")
 image d11s07-a4 = Movie(play = "images/week-2/anim/57fps_d11s07-a4.webm", start_image = "d11s07-a4-first-frame")
 
@@ -38,7 +37,6 @@ image d12s06-a5 = Movie(play = "images/week-2/anim/48fps_d12s06-a5.webm", start_
 image d12s06-a15 = Movie(play = "images/week-2/anim/d12s06-a15-2x-50fps.webm", start_image = "d12s06-a15-first-frame")
 
 image d13s03-a1 = Movie(play = "images/week-2/anim/d13s03-a1-2x-40fps.webm", start_image = "d13s03-33 mc-ir-anim-00_i")
-image d13s05-a7 = Movie(play = "images/week-2/anim/d13s05-a7-4x-60fps.webm", start_image = "d13s05-a7 mc-nr-cowgirl-01_i")
 image d13s06-a11 = Movie(play = "images/week-2/anim/d13s06-a11-4x-60fps.webm", start_image = "d13s06-40-a11 ah-mc-cowgirl-anim-11-01_i")
 image d13s09-a1 = Movie(play = "images/week-2/anim/d13s09-a1-4x-60fps.webm", start_image = "d13s09-44-a1 mc-sy-eat-out-anim-1-00_i")
 

@@ -1,7 +1,5 @@
 
 
-image d03s06b-a1-s1 = Movie(play = "images/Week-1/d03s06b-a1-s1.webm", start_image = "d03s06b-28 cam-2-mk-arj-fuck-me-3-phone")
-
 image d03s18-09-flash:
     pause 0.10
     "d03s18-09 mc-no-what-am-doing-with-flash"

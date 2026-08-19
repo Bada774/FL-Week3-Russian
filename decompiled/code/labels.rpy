@@ -2,7 +2,6 @@
 
 default persistent.ignore_mp_fail = False
 default persistent.mp_info = ""
-default persistent.hide_tu_trailer_ad = False
 
 label splashscreen:
 

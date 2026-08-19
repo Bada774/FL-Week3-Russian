@@ -144,7 +144,7 @@ style ending_start_button_hbox:
     spacing 30
 
 style ending_start_screen_label_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     size 80
     color "#f4426b"
     outlines [(3, "#611a2b", 3, 3)]
@@ -193,7 +193,7 @@ style ending_menu_label:
     yalign 0.01
 
 style ending_menu_label_text:
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     size 110
     color gui.accent_color
     outlines [(2, "#611a2b", 2, 2)]

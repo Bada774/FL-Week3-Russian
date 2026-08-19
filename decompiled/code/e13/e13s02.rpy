@@ -24,11 +24,8 @@ image e13s02-a62-2-f = Movie(play = "images/E-13/s02/anim/e13s02-a62-2-2x-60fps.
 image e13s02-a62-3 = Movie(play = "images/E-13/s02/anim/e13s02-a62-3-2x-50fps.webm", start_image = "e13s02-a62-3 mc-fuck-nk-anim3-00_i")
 image e13s02-a62-3-f = Movie(play = "images/E-13/s02/anim/e13s02-a62-3-2x-60fps.webm", start_image = "e13s02-a62-3 mc-fuck-nk-anim3-00_i")
 
-image e13s02-a64-1 = Movie(play = "images/E-13/s02/anim/e13s02-a64-1-2x-50fps.webm", start_image = "e13s02-a64-1 mc-fuck-harder-anim1-01_i")
 image e13s02-a64-1-f = Movie(play = "images/E-13/s02/anim/e13s02-a64-1-2x-60fps.webm", start_image = "e13s02-a64-1 mc-fuck-harder-anim1-01_i")
-image e13s02-a64-2 = Movie(play = "images/E-13/s02/anim/e13s02-a64-2-2x-50fps.webm", start_image = "e13s02-a64-2 mc-fuck-harder-anim2-01_i")
 image e13s02-a64-2-f = Movie(play = "images/E-13/s02/anim/e13s02-a64-2-2x-60fps.webm", start_image = "e13s02-a64-2 mc-fuck-harder-anim2-01_i")
-image e13s02-a64-3 = Movie(play = "images/E-13/s02/anim/e13s02-a64-3-2x-50fps.webm", start_image = "e13s02-a64-3 mc-fuck-harder-anim3-01_i")
 image e13s02-a64-3-f = Movie(play = "images/E-13/s02/anim/e13s02-a64-3-2x-60fps.webm", start_image = "e13s02-a64-3 mc-fuck-harder-anim3-01_i")
 
 image e13s02-a76-1 = Movie(play = "images/E-13/s02/anim/e13s02-a76-1-2x-50fps.webm", start_image = "e13s02-a76-1 mc-anal-fuck-anim1-01_i")
@@ -38,11 +35,8 @@ image e13s02-a76-2-f = Movie(play = "images/E-13/s02/anim/e13s02-a76-2-2x-60fps.
 image e13s02-a76-3 = Movie(play = "images/E-13/s02/anim/e13s02-a76-3-2x-50fps.webm", start_image = "e13s02-a76-3 mc-anal-fuck-anim3-01_i")
 image e13s02-a76-3-f = Movie(play = "images/E-13/s02/anim/e13s02-a76-3-2x-60fps.webm", start_image = "e13s02-a76-3 mc-anal-fuck-anim3-01_i")
 
-image e13s02-a78-1 = Movie(play = "images/E-13/s02/anim/e13s02-a78-1-2x-50fps.webm", start_image = "e13s02-a78-1 mc-anal-fuck-harder-anim1-01_i")
 image e13s02-a78-1-f = Movie(play = "images/E-13/s02/anim/e13s02-a78-1-2x-60fps.webm", start_image = "e13s02-a78-1 mc-anal-fuck-harder-anim1-01_i")
-image e13s02-a78-2 = Movie(play = "images/E-13/s02/anim/e13s02-a78-2-2x-50fps.webm", start_image = "e13s02-a78-2 mc-anal-fuck-harder-anim2-01_i")
 image e13s02-a78-2-f = Movie(play = "images/E-13/s02/anim/e13s02-a78-2-2x-60fps.webm", start_image = "e13s02-a78-2 mc-anal-fuck-harder-anim2-01_i")
-image e13s02-a78-3 = Movie(play = "images/E-13/s02/anim/e13s02-a78-3-2x-50fps.webm", start_image = "e13s02-a78-3 mc-anal-fuck-harder-anim3-01_i")
 image e13s02-a78-3-f = Movie(play = "images/E-13/s02/anim/e13s02-a78-3-2x-60fps.webm", start_image = "e13s02-a78-3 mc-anal-fuck-harder-anim3-01_i")
 
 label e13s02:

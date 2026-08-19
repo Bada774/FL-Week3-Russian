@@ -351,4 +351,10 @@ translate french strings:
 
     old "Menu"
     new "Menu"
+
+translate french strings:
+
+
+    old "Comic Books"
+    new "Bandes dessinées"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,6 +1,5 @@
 image d17s05mh-a1 = Movie(play = "images/Day-17/s05a-solo/anim/d17s05a-a1-4x-60fps.webm" , start_image = "d17s05a-a1 mh-lyssa-solo-paddle-panties-on-anim1-00_i")
 image d17s05mh-a2 = Movie(play = "images/Day-17/s05a-solo/anim/d17s05a-a2-4x-60fps.webm" , start_image = "d17s05a-a2 mh-lyssa-solo-paddle-panties-on-anim2-00_i")
-image d17s05mh-a3 = Movie(play = "images/Day-17/s05a-solo/anim/d17s05a-a3-4x-60fps.webm" , start_image = "d17s05a-a3 mh-lyssa-solo-paddle-panties-on-anim3-00_i")
 image d17s05mh-a4 = Movie(play = "images/Day-17/s05a-solo/anim/d17s05a-a4-4x-60fps.webm" , start_image = "d17s05a-a4 mh-lyssa-solo-paddle-panties-down-anim4-24_i")
 image d17s05mh-a5 = Movie(play = "images/Day-17/s05a-solo/anim/d17s05a-a5-4x-60fps.webm" , start_image = "d17s05a-a5 mh-lyssa-solo-paddle-panties-down-anim5-24_i")
 image d17s05mh-a6 = Movie(play = "images/Day-17/s05a-solo/anim/d17s05a-a6-2x-50fps.webm" , start_image = "d17s05a-a6 mh-lyssa-solo-hj-touch-face-anim6-01_i")

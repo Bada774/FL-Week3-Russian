@@ -360,13 +360,9 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
-translate chinese strings:
-
 
     old "Connect Your Toy"
     new "连接玩具"
-
-translate chinese strings:
 
 
     old "Ren'Py Save Sync"
@@ -375,4 +371,8 @@ translate chinese strings:
 
     old "Dialogue Box Opacity"
     new "对话框不透明"
+
+
+    old "Comic Books"
+    new "漫画书"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

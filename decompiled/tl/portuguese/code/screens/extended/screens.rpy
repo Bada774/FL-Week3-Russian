@@ -103,4 +103,8 @@ translate portuguese strings:
 
     old "Watch Fetish Locator: S&M Studio trailer"
     new "Assista ao trailer de Fetish Locator: S&M Studio"
+
+
+    old "COMIC BOOKS"
+    new "QUADRINHOS"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

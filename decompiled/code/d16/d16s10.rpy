@@ -4,7 +4,6 @@ image d16s10_mc_spin_arj_2 = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a2
 image d16s10_mc_spin_arj_2_slow = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a2-4x-60fps.webm", start_image = "d16s10-00-a2 arj-spin-anim-2-00_i")
 image d16s10_mc_spin_arj_3 = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a3-2x-50fps.webm", start_image = "d16s10-00-a3 arj-spin-anim-3-00_i")
 image d16s10_mc_spin_arj_3_slow = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a3-4x-60fps.webm", start_image = "d16s10-00-a3 arj-spin-anim-3-00_i")
-image d16s10_arj_spin_mc_1 = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a5-2x-50fps.webm", start_image = "d16s10-00-a5 mc-spin-anim-5-00_i")
 image d16s10_arj_spin_mc_1_slow = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a5-4x-60fps.webm", start_image = "d16s10-00-a5 mc-spin-anim-5-00_i")
 image d16s10_arj_spin_mc_2 = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a6-2x-50fps.webm", start_image = "d16s10-00-a6 mc-spin-anim-6-00_i")
 image d16s10_arj_spin_mc_2_slow = Movie(play = "images/Day-16/Scene-10/anim/d16s10-a6-4x-60fps.webm", start_image = "d16s10-00-a6 mc-spin-anim-6-00_i")

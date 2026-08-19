@@ -892,6 +892,9 @@ translate spanish strings:
     old "prev"
     new "anterior"
 
+    old "Prev"
+    new "Anterior"
+
 
     old "next"
     new "próximo"

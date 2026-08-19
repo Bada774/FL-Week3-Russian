@@ -357,4 +357,10 @@ translate deutsch strings:
 
     old "Dialogue Box Opacity"
     new "Dialogfeld Opazität"
+
+translate deutsch strings:
+
+
+    old "Comic Books"
+    new "Comicbücher"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -6,8 +6,6 @@ image d17s06с-a3 = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a3-4x-
 image d17s06с-a3-f = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a3-2x-50fps.webm" , start_image = "d17s06c-a3 mc-nk-pw-doggystyle-2-anim3-01_i")
 image d17s06с-a4 = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a4-4x-60fps.webm" , start_image = "d17s06c-a4 mc-nk-pw-doggystyle-2-anim4-01_i")
 image d17s06с-a4-f = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a4-2x-50fps.webm" , start_image = "d17s06c-a4 mc-nk-pw-doggystyle-2-anim4-01_i")
-image d17s06с-a5 = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a5-4x-60fps.webm" , start_image = "d17s06c-a5 mc-nk-pw-doggystyle-2-anim5-01_i")
-image d17s06с-a5-f = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a5-2x-50fps.webm" , start_image = "d17s06c-a5 mc-nk-pw-doggystyle-2-anim5-01_i")
 image d17s06с-a6 = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a6-4x-60fps.webm" , start_image = "d17s06c-a6 pw-looking-mc-anim6-01_i")
 image d17s06с-a6-f = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a6-2x-50fps.webm" , start_image = "d17s06c-a6 pw-looking-mc-anim6-01_i")
 image d17s06с-a7 = Movie(play = "images/Day-17/s06c-p-and-n/anim/d17s06c-a7-4x-60fps.webm" , start_image = "d17s06c-a7 nk-fondles-pw-anim7-01_i")

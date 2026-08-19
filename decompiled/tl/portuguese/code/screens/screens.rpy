@@ -352,19 +352,13 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-translate portuguese strings:
-
 
     old "Endings"
     new "Finais"
 
-translate portuguese strings:
-
 
     old "Connect Your Toy"
     new "Conecte Seu Brinquedo"
-
-translate portuguese strings:
 
 
     old "Ren'Py Save Sync"
@@ -373,4 +367,8 @@ translate portuguese strings:
 
     old "Dialogue Box Opacity"
     new "Opacidade da Caixa de Diálogo"
+
+
+    old "Comic Books"
+    new "Quadrinhos"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

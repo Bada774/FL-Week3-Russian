@@ -10,13 +10,9 @@ image d18s09-a20-1 = Movie(play = "images/Day-18/s09/anim/d18s09-a20-01-4x-60fps
 image d18s09-a20-2-f = Movie(play = "images/Day-18/s09/anim/d18s09-a20-02-2x-50fps.webm", start_image = "d18s09-a20-02 mc-hr-cf-sex1-anim-20-02-00_i")
 image d18s09-a20-2 = Movie(play = "images/Day-18/s09/anim/d18s09-a20-02-4x-60fps.webm", start_image = "d18s09-a20-02 mc-hr-cf-sex1-anim-20-02-00_i")
 image d18s09-a20-3-f = Movie(play = "images/Day-18/s09/anim/d18s09-a20-03-2x-50fps.webm", start_image = "d18s09-a20-03 mc-hr-cf-sex1-anim-20-03-00_i")
-image d18s09-a20-3 = Movie(play = "images/Day-18/s09/anim/d18s09-a20-03-4x-60fps.webm", start_image = "d18s09-a20-03 mc-hr-cf-sex1-anim-20-03-00_i")
 image d18s09-a21-1-f = Movie(play = "images/Day-18/s09/anim/d18s09-a21-01-2x-50fps.webm", start_image = "d18s09-a21-01 mc-hr-cf-sex2-anim-21-01-01_i")
-image d18s09-a21-1 = Movie(play = "images/Day-18/s09/anim/d18s09-a21-01-4x-60fps.webm", start_image = "d18s09-a21-01 mc-hr-cf-sex2-anim-21-01-01_i")
 image d18s09-a21-2-f = Movie(play = "images/Day-18/s09/anim/d18s09-a21-02-2x-50fps.webm", start_image = "d18s09-a21-02 mc-hr-cf-sex2-anim-21-02-01_i")
-image d18s09-a21-2 = Movie(play = "images/Day-18/s09/anim/d18s09-a21-02-4x-60fps.webm", start_image = "d18s09-a21-02 mc-hr-cf-sex2-anim-21-02-01_i")
 image d18s09-a21-3-f = Movie(play = "images/Day-18/s09/anim/d18s09-a21-03-2x-50fps.webm", start_image = "d18s09-a21-03 mc-hr-cf-sex2-anim-21-03-01_i")
-image d18s09-a21-3 = Movie(play = "images/Day-18/s09/anim/d18s09-a21-03-4x-60fps.webm", start_image = "d18s09-a21-03 mc-hr-cf-sex2-anim-21-03-01_i")
 
 image d18s09-cum-anim:
     "d18s09-22 mc-hr-cf-cum1_c2"

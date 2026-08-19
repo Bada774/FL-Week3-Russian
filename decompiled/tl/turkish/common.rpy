@@ -912,6 +912,9 @@ translate turkish strings:
     old "prev"
     new "önceki"
 
+    old "Prev"
+    new "Önceki"
+
 
     old "next"
     new "sonraki"

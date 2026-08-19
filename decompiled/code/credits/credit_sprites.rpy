@@ -101,6 +101,7 @@ screen credits_roll():
             add "tester1"
             add "tester2"
             add "tester3"
+            add "tester4"
 
         frame:
             xsize 1920
@@ -212,6 +213,7 @@ image music4 = Text("Eric Graham", style="team_memeber_name")
 image tester1 = Text("Simfer", style="special_credit_name")
 image tester2 = Text("Da Sechs", style="special_credit_name")
 image tester3 = Text("Grubb", style="special_credit_name")
+image tester4 = Text("Wizoboy", style="special_credit_name")
 
 
 
@@ -223,14 +225,14 @@ image special3 = Text("Infernozilla", style="special_credit_name")
 
 style team_memeber_name:
     size 90
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     color "#cc0066"
     outlines [(2, "#61192b", 2, 2)]
     line_spacing -30
 
 style special_credit_name:
     size 80
-    font "fonts/new/KaushanScript-Regular.ttf"
+    font "fonts/KaushanScript-Regular.ttf"
     color "#ffffff"
     outlines [(2, "#444444", 2, 2)]
 

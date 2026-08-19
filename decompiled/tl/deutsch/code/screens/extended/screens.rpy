@@ -107,4 +107,10 @@ translate deutsch strings:
 
     old "Watch Fetish Locator: S&M Studio trailer"
     new "Trailer zu Fetish Locator: S&M Studio ansehen"
+
+translate deutsch strings:
+
+
+    old "COMIC BOOKS"
+    new "COMIC BÜCHER"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

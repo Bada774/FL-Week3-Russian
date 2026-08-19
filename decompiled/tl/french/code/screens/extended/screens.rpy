@@ -111,4 +111,10 @@ translate french strings:
 
     old "Get Fetish Locator: S&M Studio on Steam"
     new "Obtenir Fetish Locator : S&M Studio sur Steam"
+
+translate french strings:
+
+
+    old "COMIC BOOKS"
+    new "BANDES DESSINÉES"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -50,10 +50,10 @@ label d15s04:
         play voice2 mc_yes_okay2 noloop
         mc "Okay..."
         scene d15s04-04 mc-study-dahlia_c1 with dissolve
-
     menu:
         mc "What should I do now?"
         "Continue Studying for Exams"(hint="d15s04m01c01"):
+
             mct "Study is what I need to fucking do now."
             scene d15s04-03 mc-study-get-up_c1 with dissolve
             play voice2 mc_angry_huh2 noloop

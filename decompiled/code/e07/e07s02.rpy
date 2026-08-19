@@ -567,10 +567,10 @@ label e07s02_bath_water:
         lc "You deserve to see what a real man taste like after doing such a bad job."
     lc "Drink."
     menu:
-        "Accept"(hint="e07s02m02c01"):
+        "Accept"(hint="e07s02m02c02"):
             $ e07s02_drink = True
             jump e07s02_drink
-        "Refuse"(hint="e07s02m02c02"):
+        "Refuse"(hint="e07s02m02c01"):
 
             $ e07s02_drink = False
             jump e07s02_early_end

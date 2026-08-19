@@ -1,9 +1,6 @@
 image e02s02-a14-1 = Movie(play = "images/E-02/s02/anim/e02s02-a14-1-2x-50fps.webm", start_image = "e02s02-a14-1 mh-bj1-01")
-image e02s02-a14-1-f = Movie(play = "images/E-02/s02/anim/e02s02-a14-1-2x-60fps.webm", start_image = "e02s02-a14-1 mh-bj1-01")
 image e02s02-a14-2 = Movie(play = "images/E-02/s02/anim/e02s02-a14-2-2x-50fps.webm", start_image = "e02s02-a14-2 mh-bj1-01")
-image e02s02-a14-2-f = Movie(play = "images/E-02/s02/anim/e02s02-a14-2-2x-60fps.webm", start_image = "e02s02-a14-2 mh-bj1-01")
 image e02s02-a14-3 = Movie(play = "images/E-02/s02/anim/e02s02-a14-3-2x-50fps.webm", start_image = "e02s02-a14-3 mh-bj1-01")
-image e02s02-a14-3-f = Movie(play = "images/E-02/s02/anim/e02s02-a14-3-2x-60fps.webm", start_image = "e02s02-a14-3 mh-bj1-01")
 
 image e02s02-a16-1 = Movie(play = "images/E-02/s02/anim/e02s02-a16-1-2x-50fps.webm", start_image = "e02s02-a16-1 mh-bj2-01")
 image e02s02-a16-1-f = Movie(play = "images/E-02/s02/anim/e02s02-a16-1-2x-60fps.webm", start_image = "e02s02-a16-1 mh-bj2-01")

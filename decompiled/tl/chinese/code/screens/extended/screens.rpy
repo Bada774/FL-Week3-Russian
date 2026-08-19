@@ -119,4 +119,10 @@ translate chinese strings:
 
     old "Watch Fetish Locator: S&M Studio trailer"
     new "观看 Fetish Locator: S&M Studio 预告片"
+
+translate chinese strings:
+
+
+    old "COMIC BOOKS"
+    new "漫画书"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

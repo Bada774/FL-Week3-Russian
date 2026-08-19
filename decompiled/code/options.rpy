@@ -20,7 +20,7 @@ define gui.show_name = True
 
 
 
-define config.version = "3.6.18"
+define config.version = "3.6.21"
 
 define config.check_conflicting_properties = True
 

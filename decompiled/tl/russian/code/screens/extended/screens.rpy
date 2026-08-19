@@ -138,3 +138,11 @@ translate russian strings:
     old "Get Fetish Locator: S&M Studio on Steam"
     new "Приобрести Fetish Locator: S&M Studio в Steam"
 
+# TODO: Translation updated at 2026-08-11 14:12
+
+translate russian strings:
+
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "КОМИКСЫ"
+

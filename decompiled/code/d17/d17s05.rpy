@@ -69,10 +69,10 @@ label d17s05:
     pause
     scene d17s05-07-mc-against-wall-listen with dissolve
     play voice2 mc_thinking_mmm4 noloop
-
-
     menu:
         mct "Whom should I invite?"
+
+
         "Bring Oliver"(hint="d17s05m01c01") if date_op is True:
 
             $ d17s05_mh_op = True

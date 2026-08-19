@@ -940,6 +940,9 @@ translate portuguese strings:
     old "prev"
     new "anter."
 
+    old "Prev"
+    new "Anter."
+
 
     old "next"
     new "próxima"

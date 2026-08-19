@@ -55,16 +55,44 @@ define -2 gui.interface_text_color = '#ffffff'
 
 
 
-
 define -2 gui.text_font = "fonts/Andika-Regular.ttf"
 
 
-
-define -2 gui.name_text_font = "fonts/new/KaushanScript-Regular.ttf"
-
+define -2 gui.name_text_font = "fonts/KaushanScript-Regular.ttf"
 
 
 define -2 gui.interface_text_font = "fonts/Andika-Regular.ttf"
+
+define -2 gui.unicode_font_group = (FontGroup()
+    
+    .add("fonts/NotoSans-Medium.ttf", 0x0020, 0x024F)
+    
+    .add("fonts/NotoSans-Medium.ttf", 0x2000, 0x206F)
+    .add("fonts/NotoSans-Medium.ttf", 0x20A0, 0x20CF)
+
+    
+    .add("fonts/NotoSans-Medium.ttf", 0x0400, 0x04FF)
+    .add("fonts/NotoSans-Medium.ttf", 0x0500, 0x052F)
+    .add("fonts/NotoSans-Medium.ttf", 0x2DE0, 0x2DFF)
+    .add("fonts/NotoSans-Medium.ttf", 0xA640, 0xA69F)
+
+    
+    .add("fonts/NotoSans-KR-Medium.ttf", 0x1100, 0x11FF)
+    .add("fonts/NotoSans-KR-Medium.ttf", 0x3130, 0x318F)
+    .add("fonts/NotoSans-KR-Medium.ttf", 0xAC00, 0xD7A3)
+
+    
+    .add("fonts/NotoSans-SC-Medium.ttf", 0x3000, 0x303F)
+    .add("fonts/NotoSans-SC-Medium.ttf", 0x3400, 0x4DBF)
+    .add("fonts/NotoSans-SC-Medium.ttf", 0x4E00, 0x9FFF)
+    .add("fonts/NotoSans-SC-Medium.ttf", 0xFF00, 0xFFEF)
+
+    
+    .add("DejaVuSans.ttf", None, None)
+    )
+
+
+define -2 gui.system_font = gui.unicode_font_group
 
 
 define -2 gui.text_size = 33
@@ -94,7 +122,7 @@ define -2 gui.version_text_outlines = [ (absolute(1), "#0006", 1, 1) ]
 
 
 init 1 python:
-    for i in ("menu_about", "menu_endings", "menu_cg_gallery", "menu_discord", "menu_edit", "menu_end_replay", "menu_extra", "menu_help", "menu_history", "menu_hint", "menu_language_chooser", "menu_load_mp", "menu_load", "menu_mainmenu", "menu_patreon", "menu_preferences", "menu_return", "menu_quit", "menu_replay_room", "menu_save", "menu_start"):
+    for i in ("menu_about", "menu_endings", "menu_cg_gallery", "menu_discord", "menu_edit", "menu_end_replay", "menu_extra", "menu_help", "menu_history", "menu_hint", "menu_language_chooser", "menu_load_mp", "menu_load", "menu_mainmenu", "menu_patreon", "menu_preferences", "menu_return", "menu_quit", "menu_replay_room", "menu_save", "menu_start", "menu_comics"):
         j = i[5:]
         style.button[i].idle_background             = "images/utility/menu/idle/{0}.webp".format(j)
         style.button[i].hover_background            = "images/utility/menu/hover/{0}.webp".format(j)

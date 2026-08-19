@@ -1,5 +1,4 @@
 image d18s10_glam_1 = Movie(play = "images/Day-18/s10/anim/d18s10-15-3-a1-4x-40fps.webm",   start_image = "d18s10-15-3-a1 mc-lc-glambot-anim1-00_i",     image = "d18s10-15-3-a1 mc-lc-glambot-anim1-90_i",     loop = False)
-image d18s10_glam_2 = Movie(play = "images/Day-18/s10/anim/d18s10-15-4-a1-4x-40fps.webm",   start_image = "d18s10-15-4-a1 mc-pb-ntr-glambot-anim1-00_i", image = "d18s10-15-4-a1 mc-pb-ntr-glambot-anim1-90_i", loop = False)
 
 image d18s10_a0 = Movie(play = "images/Day-18/s10/anim/d18s10-15-01-a1-2x-50fps.webm",  start_image = "d18s10-15-01-a1 pb-fucks-lc-anim1-00_i")
 

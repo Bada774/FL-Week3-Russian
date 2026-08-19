@@ -369,6 +369,10 @@ init -501 screen navigation():
                 text _("Bonus Content")
                 style style.button["menu_extra"]
                 action ShowMenu("extra")
+            button id "menu_comics":
+                text _("Comic Books")
+                style style.button["menu_comics"]
+                action ShowMenu("comics")
         if preferences.language == "chinese":
             if main_menu:
                 button id "menu_about":
@@ -419,9 +423,6 @@ init -1 style navigation_text:
 init -501 screen main_menu():
     tag menu
 
-
-    if not persistent.hide_tu_trailer_ad:
-        on "show" action Show("tu_trailer_ad")
 
     $ renpy.music.set_volume(volume=0.8, delay=1, channel='music')
 

@@ -1,101 +1,427 @@
 init python:
 
     import random
+    import pygame
 
-    class clicker_projectile:
-        def __init__(self, icon, travel_time):
-            self.icon = icon
-            self.travel_time = travel_time
-            
+
+    class MinigameProjectile(object):
+        
+        def __init__(self, icon_id):
+            self.icon_id = icon_id
             self.give_point = 1
             self.is_shown = False
             self.screen_time = 0.0
-            self.max_time = travel_time - 0.5
+            self.travel_time = 1.0
+            self.max_time = 0.5
             self.x = 0
             self.y = 0
+            self.spawn_st = 0.0
         
-        def click_projectile(self, g, this):
-            global d19s05_player_hp
-            global d19s05_minigame_score
-            global d19s05_score_multiplier
-            
-            if int(self.icon[-1]) < 7:
-                d19s05_minigame_score += this.give_point
-                d19s05_score_multiplier += 0.1
-                renpy.play("audio/zvukipro/nonextended/sfx_d19s05_minigame_good.ogg", channel="sound5")
-            else:
-                d19s05_player_hp -= 1
-                d19s05_score_multiplier = 1.0
-                renpy.play("audio/zvukipro/nonextended/sfx_d19s05_minigame_bad.ogg", channel="sound5")
-            
+        def despawn(self, cooldown=True):
             self.x = 0
             self.y = 0
-            self.screen_time = 2.0
+            self.screen_time = 2.0 if cooldown else 0.0
             self.is_shown = False
 
-    class projectile_handler:
+
+    class MinigameState(renpy.python.NoRollback):
+        
         def __init__(self):
-            self.spawn_time = 0.5
-            self.screen_empty = False
-            
-            global d19s05_icons_list
-            self.projectiles = d19s05_icons_list
+            self.player_hp = 3
+            self.score = 0
+            self.score_multiplier = 1.0
+            self.difficulty = 0.5
+            self.step = 0.0
+            self.timer = 60.0
+            self.speed_multiplier = [8.0, 6.0, 5.5, 5.0, 4.5, 4.0, 3.0, 2.5, 2.0, 2.0, 1.5, 1.5]
+            self.running = False
+            self.finished = False
+            self.next_spawn_st = 0.5
+
+
+    class MinigameDisplayable(renpy.Displayable):
         
-        def random_projectile(self, og_list):
-            shuffled_list = list(og_list)
-            random.shuffle(shuffled_list)
-            return iter(shuffled_list)
+        SPAWN_INTERVAL = 0.5
+        GAME_DURATION = 60.0
+        REDRAW_INTERVAL = 1.0 / 60.0
+        ICON_ALIGN_X = 0.42
+        ICON_ALIGN_Y = 0.98
+        BAR_WIDTH = 100
+        BAR_HEIGHT = 20
+        BAR_Y_OFFSET = -10
+        ICON_COUNT = 9
+        SFX_GOOD = "audio/zvukipro/nonextended/sfx_d19s05_minigame_good.ogg"
+        SFX_BAD = "audio/zvukipro/nonextended/sfx_d19s05_minigame_bad.ogg"
         
-        def spawn_projectile(self):
-            global d19s05_player_hp
-            global d19s05_difficulty
-            global d19s05_step
+        _mask_surfaces = {}
+        
+        def __init__(self, **kwargs):
+            super(MinigameDisplayable, self).__init__(**kwargs)
             
-            d19s05_step += 0.1
-            d19s05_difficulty += 0.06
-            random_chance = random.randint(1,10)
+            self.icons = [
+                renpy.displayable("minigame_icon_%d" % i)
+                for i in range(self.ICON_COUNT)
+            ]
+            self.masks = [
+                renpy.displayable(
+                    "images/Day-19/s05/minigame/minigame_mask_%d.webp" % i
+                )
+                for i in range(self.ICON_COUNT)
+            ]
+            self.bar_solid = Solid("#FFFFFF")
             
-            for i in self.projectiles:
-                if i.is_shown is True and int(i.icon[-1]) < 6:
-                    self.screen_empty = False
+            self.projectiles = [MinigameProjectile(i) for i in range(self.ICON_COUNT)]
+            self.state = MinigameState()
+            self._layout = []
+            self._width = 1920
+            self._height = 1080
+        
+        
+        @property
+        def player_hp(self):
+            return self.state.player_hp
+        
+        @player_hp.setter
+        def player_hp(self, value):
+            self.state.player_hp = value
+        
+        @property
+        def score(self):
+            return self.state.score
+        
+        @property
+        def score_multiplier(self):
+            return self.state.score_multiplier
+        
+        @property
+        def difficulty(self):
+            return self.state.difficulty
+        
+        @property
+        def step(self):
+            return self.state.step
+        
+        @property
+        def timer(self):
+            return self.state.timer
+        
+        def reset(self):
+            for p in self.projectiles:
+                p.is_shown = False
+                p.screen_time = 0.0
+                p.x = 0
+                p.y = 0
+                p.spawn_st = 0.0
+                p.travel_time = 1.0
+                p.max_time = 0.5
+            
+            s = self.state
+            s.running = True
+            s.finished = False
+            s.next_spawn_st = self.SPAWN_INTERVAL
+            s.player_hp = 3
+            s.score = 0
+            s.score_multiplier = 1.0
+            s.difficulty = 0.5
+            s.step = 0.0
+            s.timer = self.GAME_DURATION
+            
+            speeds = getattr(renpy.store, "d19s05_speed_multiplier", None)
+            if speeds is not None:
+                s.speed_multiplier = list(speeds)
+            
+            self._layout = []
+            self._ensure_mask_surfaces()
+            self._update_idle_speeds()
+            self.sync_to_store()
+            renpy.redraw(self, 0)
+        
+        def stop(self):
+            self.state.running = False
+            self.state.finished = True
+            self.sync_to_store()
+        
+        def sync_to_store(self):
+            s = self.state
+            renpy.store.d19s05_player_hp = s.player_hp
+            renpy.store.d19s05_minigame_score = s.score
+            renpy.store.d19s05_score_multiplier = s.score_multiplier
+            renpy.store.d19s05_difficulty = s.difficulty
+            renpy.store.d19s05_step = s.step
+            renpy.store.d19s05_minigame_timer = s.timer
+        
+        def _ensure_mask_surfaces(self):
+            for i, mask in enumerate(self.masks):
+                if i not in MinigameDisplayable._mask_surfaces:
+                    try:
+                        MinigameDisplayable._mask_surfaces[i] = renpy.load_surface(mask)
+                    except Exception:
+                        MinigameDisplayable._mask_surfaces[i] = None
+        
+        def _speed_index(self):
+            s = self.state
+            idx = int(s.step)
+            if idx < 0:
+                idx = 0
+            elif idx >= len(s.speed_multiplier):
+                idx = len(s.speed_multiplier) - 1
+            return idx
+        
+        def _update_idle_speeds(self):
+            travel = self.state.speed_multiplier[self._speed_index()]
+            for p in self.projectiles:
+                if not p.is_shown:
+                    p.travel_time = travel
+                    p.max_time = travel - 0.5
+        
+        def _finish(self):
+            if self.state.finished:
+                return
+            self.state.finished = True
+            self.state.running = False
+            self.sync_to_store()
+            renpy.end_interaction(True)
+        
+        def _apply_good_click(self, p):
+            s = self.state
+            s.score += p.give_point
+            s.score_multiplier += 0.1
+            renpy.play(self.SFX_GOOD, channel="sound5")
+            p.despawn(cooldown=True)
+        
+        def _apply_bad_click(self, p):
+            s = self.state
+            s.player_hp -= 1
+            s.score_multiplier = 1.0
+            renpy.play(self.SFX_BAD, channel="sound5")
+            p.despawn(cooldown=True)
+        
+        def _apply_miss(self, p):
+            s = self.state
+            if p.icon_id < 7:
+                s.player_hp -= 1
+                s.score_multiplier = 1.0
+            p.despawn(cooldown=True)
+        
+        def _spawn_tick(self, st):
+            s = self.state
+            s.step += 0.1
+            s.difficulty += 0.06
+            random_chance = random.randint(1, 10)
+            
+            screen_empty = True
+            for p in self.projectiles:
+                if p.is_shown and p.icon_id < 6:
+                    screen_empty = False
                     break
-                self.screen_empty = True
             
-            for i in self.projectiles:
-                if i.is_shown is True:
-                    i.screen_time += self.spawn_time
-                    if i.screen_time > i.max_time:
-                        i.x = 0
-                        i.y = 0
-                        i.screen_time = 2.0
-                        i.is_shown = False
-                        if int(i.icon[-1]) < 7:
-                            d19s05_player_hp -= 1
-                            d19s05_score_multiplier = 1.0
+            for p in self.projectiles:
+                if p.is_shown:
+                    p.screen_time += self.SPAWN_INTERVAL
+                    if p.screen_time > p.max_time:
+                        self._apply_miss(p)
             
-            if random_chance < round(d19s05_difficulty) or self.screen_empty is True:
-                for i in self.random_projectile(self.projectiles):
-                    if i.is_shown is True:
-                        pass
+            if random_chance < round(s.difficulty) or screen_empty:
+                pool = list(self.projectiles)
+                random.shuffle(pool)
+                for p in pool:
+                    if p.is_shown:
+                        continue
+                    if p.screen_time:
+                        p.screen_time -= self.SPAWN_INTERVAL
                     else:
-                        if i.screen_time:
-                            i.screen_time -= self.spawn_time
+                        p.x = random.randint(-400, 400)
+                        if p.x > 350 or p.x < -350:
+                            p.y = -720
+                        elif p.x > 300 or p.x < -300:
+                            p.y = -760
                         else:
-                            i.x = random.randint(-400, 400)
-                            if i.x > 350 or i.x < -350:
-                                i.y = -720
-                            elif i.x > 300 or i.x < -300:
-                                i.y = -760
-                            else:
-                                i.y = -800
-                            i.is_shown = True
-                            break
+                            p.y = -800
+                        travel = p.travel_time
+                        p.max_time = travel - 0.5
+                        p.screen_time = 0.0
+                        p.spawn_st = st
+                        p.is_shown = True
+                        break
+        
+        def _projectile_pos(self, p, st, iw, ih, width, height):
+            elapsed = max(0.0, st - p.spawn_st)
+            if p.travel_time > 0:
+                progress = min(1.0, elapsed / p.travel_time)
+            else:
+                progress = 1.0
+            
+            base_x = self.ICON_ALIGN_X * width - self.ICON_ALIGN_X * iw
+            base_y = self.ICON_ALIGN_Y * height - self.ICON_ALIGN_Y * ih
+            x = base_x + p.x * progress
+            y = base_y + p.y * progress
+            return x, y, elapsed
+        
+        def _hit_test(self, p, lx, ly, iw, ih):
+            if lx < 0 or ly < 0 or lx >= iw or ly >= ih:
+                return False
+            
+            surf = MinigameDisplayable._mask_surfaces.get(p.icon_id)
+            if surf is not None:
+                sw, sh = surf.get_size()
+                mx = int(lx * sw / float(iw)) if iw else 0
+                my = int(ly * sh / float(ih)) if ih else 0
+                if mx < 0 or my < 0 or mx >= sw or my >= sh:
+                    return False
+                try:
+                    return surf.get_at((mx, my))[3] > 0
+                except Exception:
+                    return False
+            
+            return True
+        
+        def render(self, width, height, st, at):
+            self._width = width
+            self._height = height
+            render = renpy.Render(width, height)
+            self._layout = []
+            s = self.state
+            
+            if not s.running:
+                return render
+            
+            remaining = max(0.0, self.GAME_DURATION - st)
+            s.timer = remaining
+            
+            if remaining <= 0.0 or s.player_hp <= 0:
+                self._finish()
+                return render
+            
+            while st >= s.next_spawn_st:
+                self._update_idle_speeds()
+                tick_st = s.next_spawn_st
+                self._spawn_tick(tick_st)
+                s.next_spawn_st += self.SPAWN_INTERVAL
+                if s.player_hp <= 0:
+                    self._finish()
+                    return render
+            
+            self._update_idle_speeds()
+            
+            for p in self.projectiles:
+                if not p.is_shown:
+                    continue
+                
+                icon = self.icons[p.icon_id]
+                child = renpy.render(icon, width, height, st, at)
+                iw, ih = child.get_size()
+                x, y, elapsed = self._projectile_pos(p, st, iw, ih, width, height)
+                
+                render.blit(child, (x, y))
+                
+                left = max(0.0, p.max_time - elapsed)
+                if p.max_time > 0:
+                    fraction = min(1.0, left / p.max_time)
+                else:
+                    fraction = 0.0
+                fill_w = max(0, int(self.BAR_WIDTH * fraction))
+                if fill_w > 0:
+                    bar = renpy.render(
+                        self.bar_solid,
+                        fill_w,
+                        self.BAR_HEIGHT,
+                        st,
+                        at,
+                    )
+                    bar_x = x + (iw - self.BAR_WIDTH) * 0.5
+                    bar_y = y + ih + self.BAR_Y_OFFSET
+                    render.blit(bar, (bar_x, bar_y))
+                
+                self._layout.append((p, x, y, iw, ih))
+            
+            renpy.redraw(self, self.REDRAW_INTERVAL)
+            return render
+        
+        def event(self, ev, x, y, st):
+            s = self.state
+            if s.finished:
+                return True
+            
+            if not s.running:
+                return None
+            
+            if ev.type == pygame.MOUSEBUTTONDOWN and ev.button == 1:
+                for p, px, py, iw, ih in reversed(self._layout):
+                    lx = x - px
+                    ly = y - py
+                    if self._hit_test(p, lx, ly, iw, ih):
+                        if p.icon_id < 7:
+                            self._apply_good_click(p)
+                        else:
+                            self._apply_bad_click(p)
+                        
+                        renpy.redraw(self, 0)
+                        
+                        if s.player_hp <= 0:
+                            self._finish()
+                            return True
+                        raise renpy.IgnoreEvent()
+            
+            return None
+        
+        def visit(self):
+            return list(self.icons) + list(self.masks) + [self.bar_solid]
+        
+        def per_interact(self):
+            if self.state.running:
+                renpy.redraw(self, 0)
+
+
+    def d19s05_minigame_hud(st, at):
+        cdd = renpy.store.d19s05_cdd
+        hp = max(0, min(3, int(cdd.player_hp)))
+        t = max(0.0, float(cdd.timer))
+        timer_text = "00:{:02.0f}".format(t)
+        
+        heart = renpy.displayable("images/Day-19/s05/minigame/minigame_heart_icon.webp")
+        empty = renpy.displayable("images/Day-19/s05/minigame/minigame_no_heart_icon.webp")
+        clock_icon = renpy.displayable("images/Day-19/s05/minigame/minigame_clock_icon.webp")
+        
+        left = Fixed(
+            Solid("#00000050"),
+            Transform(clock_icon, yalign=0.5, xpos=8),
+            Transform(Text(timer_text, color="#FFFFFF", size=50), yalign=0.6, xpos=70),
+            xsize=235,
+            ysize=75,
+        )
+        right = Fixed(
+            Solid("#00000050"),
+            Transform(heart if hp >= 1 else empty, yalign=0.5, xpos=16),
+            Transform(heart if hp >= 2 else empty, yalign=0.5, xpos=70),
+            Transform(heart if hp >= 3 else empty, yalign=0.5, xpos=124),
+            xsize=226,
+            ysize=75,
+        )
+        
+        children = [
+            Transform(left, xalign=0.0, yalign=0.0),
+            Transform(right, xalign=1.0, yalign=0.0),
+        ]
+        if hp <= 1:
+            children.append(
+                Transform(
+                    renpy.displayable("images/Day-19/s05/minigame/minigame_low_hp.webp"),
+                    alpha=0.2,
+                )
+            )
+        
+        d = Fixed(
+            *children,
+            xfill=True,
+            yfill=True,
+        )
+        return (d, 0.1)
+
 
 default persistent.minigame_max_score = 0
+default d19s05_cdd = MinigameDisplayable()
 
 screen minigame_screen():
-
-    $ g = projectile_handler()
 
     modal True
 
@@ -106,103 +432,11 @@ screen minigame_screen():
     key "pad_guide_press" action NullAction()
     key "pad_start_press" action NullAction()
 
-    use minigame_ui()
-
-    timer g.spawn_time repeat True action Function(g.spawn_projectile)
-
-    for i in g.projectiles:
-        $ mask_path = "images/Day-19/s05/minigame/minigame_mask_" + str(i.icon[-1]) + ".webp"
-        if i.is_shown is False:
-            $ i.travel_time = d19s05_speed_multiplier[int(d19s05_step)]
-            $ i.max_time = i.travel_time - 0.5
-        else:
-            button:
-                xalign 0.42
-                yalign 0.98
-                background None
-                focus_mask mask_path
-                action Function(i.click_projectile, g, i)
-                vbox:
-                    add i.icon
-                    bar:
-                        value (i.max_time - i.screen_time)
-                        range i.max_time
-                        xalign 0.5
-                        ypos -10
-                        xsize 100
-                        ysize 20
-                        left_bar "#FFF"
-
-                at minigame_spawn(i.travel_time, i.x, i.y)
+    add d19s05_cdd
 
     add "minigame_book_overlay"
 
-    if config.developer is True:
-        vbox:
-            xalign 0.01
-            yalign 0.99
-            spacing 10
-            for i in g.projectiles:
-                $ object_name = str(i.icon)
-                if i.is_shown is True:
-                    vbox:
-                        text "[object_name]"
-                        text "Screen Time: {}".format(i.screen_time) color "#FFFFFF"
-                        text "Max Time: {}".format(i.max_time) color "#FFFFFF"
-
-    if d19s05_player_hp <= 1:
-        add "images/Day-19/s05/minigame/minigame_low_hp.webp" at minigame_low_hp
-
-screen minigame_ui():
-
-    timer 0.1 action (If(round(d19s05_minigame_timer) > 0, true = SetVariable("d19s05_minigame_timer", d19s05_minigame_timer - 0.1), false = (Jump("d19s05_after_minigame"), Hide("minigame_screen"))), If(d19s05_player_hp > 0, true = NullAction(), false = (Jump("d19s05_after_minigame"), Hide("minigame_screen")))) repeat If(round(d19s05_minigame_timer) > 0, true = True, false = False)
-
-    frame:
-        xalign 0.0
-        yalign 0.0
-        background "#00000050"
-        xsize 235
-        ysize 75
-        has hbox
-        xfill True
-        spacing -30
-        add "images/Day-19/s05/minigame/minigame_clock_icon.webp" yalign 0.52
-        if round(d19s05_minigame_timer) >= 10:
-            text "00:{:.0f}".format(d19s05_minigame_timer) color "#FFFFFF" size 50 yalign 0.6
-        else:
-            text "00:0{:.0f}".format(d19s05_minigame_timer) color "#FFFFFF" size 50 yalign 0.6
-    frame:
-        xalign 1.0
-        yalign 0.0
-        background "#00000050"
-        xsize 226
-        ysize 75
-        has hbox
-        xfill True
-        spacing 10
-        if d19s05_player_hp == 0:
-            add "images/Day-19/s05/minigame/minigame_no_heart_icon.webp" yalign 0.5
-        elif d19s05_player_hp >= 1:
-            add "images/Day-19/s05/minigame/minigame_heart_icon.webp" yalign 0.5
-        if d19s05_player_hp >= 2:
-            add "images/Day-19/s05/minigame/minigame_heart_icon.webp" yalign 0.5
-        elif d19s05_player_hp == 1 or d19s05_player_hp == 0:
-            add "images/Day-19/s05/minigame/minigame_no_heart_icon.webp" yalign 0.5
-        if d19s05_player_hp == 3:
-            add "images/Day-19/s05/minigame/minigame_heart_icon.webp" yalign 0.5
-        elif d19s05_player_hp <= 2 or d19s05_player_hp == 0:
-            add "images/Day-19/s05/minigame/minigame_no_heart_icon.webp" yalign 0.5
-
-    if config.developer is True:
-        vbox:
-            xsize 300
-            xalign 0.99
-            yalign 0.93
-            spacing 5
-            text ("Multiplier: [d19s05_score_multiplier]") color "#FFFFFF" xalign 1.0
-            text ("Score: [d19s05_minigame_score]") color "#FFFFFF" xalign 1.0
-            text ("Difficulty: [d19s05_difficulty]") color "#FFFFFF" xalign 1.0
-            text ("Step: [d19s05_step]") color "#FFFFFF" xalign 1.0
+    add DynamicDisplayable(d19s05_minigame_hud)
 
     vbox:
         xalign 1.0
@@ -213,14 +447,10 @@ screen minigame_ui():
                 hover_color "#E34364"
                 outlines [ (absolute(1), "#000", 0, 0) ]
                 size 45
-            action (Jump("d19s05_skip_minigame"), Hide("minigame_screen"))
+            action (Function(d19s05_cdd.stop), Jump("d19s05_skip_minigame"), Hide("minigame_screen"))
             xalign 1.0
             if config.developer is True:
                 keysym 'K_s'
-
-transform minigame_spawn(wait, posx, posy):
-    subpixel True
-    linear wait xoffset posx yoffset posy
 
 transform minigame_low_hp():
     alpha 0.2

@@ -268,11 +268,11 @@ translate russian strings:
 
 
     old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
-    new "ТЫ СОБИРАЕШЬСЯ ИСПОЛЬЗОВАТЬ\nЕГО ВО ИМЯ ДОБРА, ТАК ВЕДЬ?"
+    new "ТЫ СОБИРАЕШЬСЯ ИСПОЛЬЗОВАТЬ\nЕГО ВО ИМЯ ДОБРА, ВЕРНО?"
 
 
     old "RIGHT?"
-    new "ТАК ВЕДЬ?"
+    new "ВЕРНО?"
 
 
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
@@ -284,7 +284,7 @@ translate russian strings:
 
 
     old "TRADE OFFER"
-    new "КОММЕРЧЕСКОЕ ПРЕДЛОЖЕНИЕ"
+    new "ДЕЛОВОЕ ПРЕДЛОЖЕНИЕ"
 
 
     old "I receive:"
@@ -292,7 +292,7 @@ translate russian strings:
 
 
     old "Cum in every pussy\nat the wedding"
-    new "Кончите в каждую киску\nна свадьбе"
+    new "Кончить в каждую киску\nна свадьбе"
 
 
     old "You receive:"
@@ -300,7 +300,7 @@ translate russian strings:
 
 
     old "The whole\nharem pregnant"
-    new "Весь\nгарем оплодотворён"
+    new "Весь гарем\nоплодотворён"
 
 
 
@@ -468,23 +468,23 @@ translate russian strings:
 
     # game/code/data/extended/extra_gallery.rpy:823
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
-    new "КОГДА ЕМУ УДАЁТСЯ ЗАТАЩИТЬ ВСЕХ В ВАШ НОВЫЙ МОДНЫЙ СПА"
+    new "КОГДА ОН СМОГ ЗАТАЩИТЬ ВСЕХ В ВАШ НОВЫЙ МОДНЫЙ СПА"
 
     # game/code/data/extended/extra_gallery.rpy:845
     old "Fucking\na girl"
-    new "Ебёт\nдевочку"
+    new "Трахать\nдевочку"
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new "Ебёт\nкошкодевочку"
+    new "Трахать\nкошкодевочку"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
-    new "Трудно\nпроглотить\nтаблети"
+    new "Трудно\глотаемые\nтаблетки"
 
     # game/code/data/extended/extra_gallery.rpy:863
     old "He will never\nrun out of pee"
-    new "У него никогда\nне закончится моча"
+    new "У него\nбесконечная моча"
 
     # game/code/data/extended/extra_gallery.rpy:901
     old "NEXT STOP"

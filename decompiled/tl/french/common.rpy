@@ -1008,6 +1008,9 @@ translate french strings:
     old "prev"
     new "précédent"
 
+    old "Prev"
+    new "Précédent"
+
 
     old "next"
     new "suivant"

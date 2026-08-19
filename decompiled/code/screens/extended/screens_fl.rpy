@@ -8,7 +8,7 @@ init -498 screen cg_gallery(page=1):
     tag menu
     default gallery_page = page
 
-    use gallery(_("CG Gallery" ), "cg"  , gallery_page)
+    use gallery(_("CG Gallery"), "cg"  , gallery_page)
 
 init -498 screen replay_room(page=1):
     tag menu
@@ -20,7 +20,13 @@ init -498 screen extra(page=1):
     tag menu
     default gallery_page = page
 
-    use gallery(_("Bonus Content" ), "extra", gallery_page)
+    use gallery(_("Bonus Content"), "extra", gallery_page)
+
+init -498 screen comics(page=1):
+    tag menu
+    default gallery_page = page
+
+    use gallery(_("Comic Books"), "comics", gallery_page)
 
 init -498 screen gallery(title, what, page):
 
@@ -38,7 +44,7 @@ init -498 screen gallery(title, what, page):
                 xpos 1335
                 text __("Page [page]") color gui.interface_text_color
 
-            if config.developer is True:
+            if config.developer is True and what != "comics":
                 hbox:
                     style_prefix "gallery_lock_unlock"
                     imagebutton:
@@ -51,15 +57,16 @@ init -498 screen gallery(title, what, page):
                         action Function(lock_everything, what)
                         sensitive not gallery_all_locked(what)
 
-            button:
-                style style.button["menu_hint"]
-                xanchor 0.0
-                xpos 80
-                yalign 0.0
-                left_padding 50
-                action ToggleVariable("persistent.gallery_hint", True, False)
-                selected (persistent.gallery_hint)
-                text hint_label style "hint_text"
+            if what != "comics":
+                button:
+                    style style.button["menu_hint"]
+                    xanchor 0.0
+                    xpos 80
+                    yalign 0.0
+                    left_padding 50
+                    action ToggleVariable("persistent.gallery_hint", True, False)
+                    selected (persistent.gallery_hint)
+                    text hint_label style "hint_text"
 
             grid 3 2:
                 style_prefix "slot"
@@ -69,7 +76,7 @@ init -498 screen gallery(title, what, page):
 
                 for (slot, title, hint, thumbnail) in data:
                     if slot:
-                        if is_gallery_slot_unlocked(what, slot):
+                        if what == "comics" or is_gallery_slot_unlocked(what, slot):
                             button:
                                 vbox:
                                     if thumbnail is None:
@@ -81,6 +88,8 @@ init -498 screen gallery(title, what, page):
                                         text hint style "slot_time_text"
                                 if what == "cg":
                                     action cg_gallery.Action(slot)
+                                elif what == "comics":
+                                    action comics_gallery.Action(slot)
                                 elif what == "extra":
                                     if slot == "d21s25n01":
                                         action [Function(set_replay_scope, "lc_video", main_menu), Replay(scene_gallery["lc_video"]["label"], scene_gallery["lc_video"]["scope"], False)]
@@ -122,8 +131,6 @@ init -498 screen gallery(title, what, page):
                                     if persistent.gallery_hint:
                                         text hint style "slot_time_text"
                                 action NullAction()
-                    else:
-                        null height 0
 
             hbox:
                 style_prefix "renamer"
@@ -168,4 +175,79 @@ init 2 style gallery_lock_unlock_hbox:
 init -498 screen jump_replay():
 
     timer 0.001 action (Hide("jump_replay"), Replay(scene_gallery["lc_video"]["label"]))
+
+init -498 screen _gallery(locked, displayables, index, count, gallery, **properties):
+
+    if locked:
+        add "#000"
+        text _("Image [index] of [count] locked.") align (0.5, 0.5)
+    else:
+        for d in displayables:
+            add Transform(d, fit="contain", xsize=1920, ysize=1080) xalign 0.5 yalign 0.5
+
+    key "game_menu" action gallery.Return()
+
+    if gallery.navigation:
+        use gallery_navigation(gallery=gallery, count=count)
+
+
+
+init -498 screen gallery_navigation(gallery, count):
+    hbox:
+        spacing 20
+
+        style_group "gallery_navigation"
+        xalign 0.98
+        yalign 0.98
+
+        if count > 1:
+            textbutton _("Prev") action gallery.Previous(unlocked = gallery.unlocked_advance)
+            textbutton _("Next") action gallery.Next(unlocked = gallery.unlocked_advance)
+        textbutton _("Return") action gallery.Return() keysym "game_menu"
+
+init -498 screen _comic_gallery(locked, displayables, index, count, gallery, **properties):
+
+    on "replaced" action PauseAudio("music", False)
+    on "show" action PauseAudio("music", True)
+
+    default idx = 0
+
+    add Transform(displayables[idx], fit="contain", xsize=1920, ysize=1080) xalign 0.5 yalign 0.5
+
+    key "game_menu" action gallery.Return()
+
+    if gallery.navigation:
+        use _comic_gallery_navigation(gallery=gallery, count=len(displayables), idx=idx)
+
+init -498 screen _comic_gallery_navigation(gallery, count, idx):
+    if idx < count - 1:
+        button:
+            xfill True
+            yfill True
+            background None
+            action SetScreenVariable("idx", idx + 1)
+    hbox:
+        spacing 20
+        xalign 0.98
+        yalign 0.98
+        style_group "gallery_navigation"
+
+        if count > 1:
+            if idx > 0:
+                textbutton _("Prev") action SetScreenVariable("idx", idx - 1)
+            else:
+                textbutton _("Prev") action NullAction() text_color gui.insensitive_color
+            if idx < count - 1:
+                textbutton _("Next") action SetScreenVariable("idx", idx + 1) keysym ["K_RETURN", "K_KP_ENTER", "K_PAUSE", "K_SPACE"]
+            else:
+                textbutton _("Next") action NullAction() text_color gui.insensitive_color
+        textbutton _("Return") action gallery.Return() keysym "game_menu"
+
+    hbox:
+        spacing 20
+        xalign 0.02
+        yalign 0.98
+        style_group "gallery_navigation"
+
+        text "[idx + 1] / [count]"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

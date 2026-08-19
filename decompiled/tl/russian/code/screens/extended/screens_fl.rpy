@@ -38,3 +38,19 @@ translate russian strings:
     old "Coming Soon"
     new "Скоро"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+# TODO: Translation updated at 2026-08-11 14:12
+
+translate russian strings:
+
+    # game/code/screens/extended/screens_fl.rpy:29
+    old "Comic Books"
+    new "Комиксы"
+
+    # game/code/screens/extended/screens_fl.rpy:204
+    old "Prev"
+    new "Пред."
+
+    # game/code/screens/extended/screens_fl.rpy:205
+    old "Next"
+    new "След."
+
