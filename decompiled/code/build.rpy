@@ -110,6 +110,7 @@ init 1 python:
         build.classify("game/images/utility/**"   , "others")
         build.classify("game/gui/**"              , "gui")
         
+        build.classify("game/tl/russian/**/hints.rpyc", "scripts")
         
         if is_Walkthrough_DLC_included is True:
             build.classify("game/**/hints.rpyc"   , "walkthrough_dlc")
